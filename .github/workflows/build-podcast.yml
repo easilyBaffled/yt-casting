@@ -19,7 +19,7 @@ jobs:
 
     # install dependencies (rss package for feed generation and any dependencies
     # your conversion script needs, e.g. youtube-dl or yt-dlp)
-    - run: npm install rss youtubei.js
+    - run: npm install rss youtubei.js yt-dlp
 
     - name: Convert new YouTube videos to MP3
       run: |
