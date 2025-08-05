@@ -13,7 +13,7 @@ export async function download(videoId) {
       // Output template: static/<videoId>.mp3
       const output = `${dir}/${videoId}.mp3`;
       const url = `https://www.youtube.com/watch?v=${videoId}`;
-      console.log(cookies.txt)
+      
       const cmd = `yt-dlp -x --audio-format --cookies cookies.txt mp3 -o "${output}" "${url}"`;
       console.log(`[download.js] Running: ${cmd}`);
 

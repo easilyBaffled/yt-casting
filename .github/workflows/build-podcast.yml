@@ -23,7 +23,9 @@ jobs:
     - run: pip install yt-dlp
 
     - name: Write cookies.txt from secret
-      run: echo "${{ secrets.YT_COOKIES }}" > cookies.txt
+      run: |
+        echo "Length: ${#YT_COOKIES}"
+        echo "${{ secrets.YT_COOKIES }}" > cookies.txt
     - name: Convert new YouTube videos to MP3
       run: |
         set -e
