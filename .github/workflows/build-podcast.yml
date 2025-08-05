@@ -25,11 +25,17 @@ jobs:
       run: |
         node scripts/convert-and-feed.js
 
+    - name: List files for debug
+      run: ls -lR static
+
     - name: Commit and push
       run: |
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
+        git diff
         git add static feed.xml youtube_urls.json
         git commit -m "Add new episode(s) and update feed"
         git push
 
+    - name: List files for debug
+      run: ls -lR static
