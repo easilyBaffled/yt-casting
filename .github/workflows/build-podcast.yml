@@ -26,6 +26,9 @@ jobs:
       run: |
         echo "Length: ${#YT_COOKIES}"
         echo "${{ secrets.YT_COOKIES }}" > cookies.txt
+      env:
+        YT_COOKIES: ${{ secrets.YT_COOKIES }}
+
     - name: Convert new YouTube videos to MP3
       run: |
         set -e
