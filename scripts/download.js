@@ -1,7 +1,8 @@
-import { existsSync, mkdirSync, readFileSync } from "fs";
+import { existsSync, mkdirSync } from "fs";
 import { Innertube, ClientType, Utils } from 'youtubei.js';
 import { exec } from "child_process";
 
+export async function download(videoId) {
 
   // Read cookies.txt and include in Innertube.create
   let cookie = '';
