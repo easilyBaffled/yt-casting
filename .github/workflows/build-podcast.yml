@@ -22,3 +22,12 @@ jobs:
     - name: Convert new YouTube videos to MP3
       run: |
         node scripts/convert-and-feed.js
+
+    - name: Commit and push
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git add static feed.xml youtube_urls.json
+        git commit -m "Add new episode(s) and update feed"
+        git push
+
