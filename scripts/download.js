@@ -1,4 +1,3 @@
-import { CookieFile } from 'cookiefile';
 import { existsSync, mkdirSync, readFileSync } from "fs";
 import { Innertube, ClientType, Utils } from 'youtubei.js';
 import { exec } from "child_process";
