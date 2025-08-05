@@ -1,5 +1,6 @@
 const fs = require('fs');
 const RSS = require('rss');
+import { download } from './download';
 const { exec } = require('youtube-dl-exec');
 const urls = JSON.parse(fs.readFileSync('youtube_urls.json'));
 
@@ -16,14 +17,9 @@ async function main() {
       // Use your conversion function here.
       // The following uses youtube‑dl‑exec to download and convert to mp3.
       const id = new URL(entry.url).searchParams.get('v');
-      const mp3File = `static/${id}.mp3`;
-  
-      await exec(entry.url, {
-        extractAudio: true,
-        audioFormat: 'mp3',
-        output: mp3File,
-      });
-  
+      
+      await download(id)
+
       // mark as processed
       entry.processed = true;
     }
