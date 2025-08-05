@@ -3,7 +3,9 @@ name: Convert YouTube to MP3 and update feed
 on:
   push:
     branches: [gh-pages]
-
+permissions:
+  contents: write
+  
 jobs:
   build:
     runs-on: ubuntu-latest
