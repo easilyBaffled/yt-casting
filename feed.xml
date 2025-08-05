@@ -4,7 +4,7 @@
         <description><![CDATA[A private feed of YouTube videos converted to audio]]></description>
         <link>https://easilyBaffled.github.io/yt-casting/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 Aug 2025 18:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Aug 2025 18:12:21 GMT</lastBuildDate>
         <atom:link href="https://easilyBaffled.github.io/yt-casting/feed.xml" rel="self" type="application/rss+xml"/>
     </channel>
 </rss>
