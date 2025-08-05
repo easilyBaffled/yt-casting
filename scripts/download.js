@@ -1,17 +1,26 @@
-import { existsSync, mkdirSync } from "fs";
+import { existsSync, mkdirSync, readFileSync } from "fs";
 import { Innertube, ClientType, Utils } from 'youtubei.js';
 import { exec } from "child_process";
 
-export async function download(videoId) {
 
-  await Innertube.create( {
-      retrieve_player: true,
-      enable_session_cache: false,
-      generate_session_locally: false,
-      client_type: ClientType.IOS
-      // cache: new UniversalCache( false ),
-      // generate_session_locally: true
-    } ).then( yt => yt.getBasicInfo( videoId, 'iOS') ).then(console.log);
+  // Read cookies.txt and include in Innertube.create
+  let cookie = '';
+  try {
+    cookie = readFileSync('cookies.txt', 'utf8');
+    console.log('[download.js] Loaded cookies.txt');
+  } catch (e) {
+    console.warn('[download.js] Could not read cookies.txt:', e.message);
+  }
+
+  await Innertube.create({
+    retrieve_player: true,
+    enable_session_cache: false,
+    generate_session_locally: false,
+    client_type: ClientType.IOS,
+    cookie,
+    // cache: new UniversalCache( false ),
+    // generate_session_locally: true
+  }).then(yt => yt.getBasicInfo(videoId, 'iOS')).then(console.log);
 
   return new Promise((resolve, reject) => {
     try {
