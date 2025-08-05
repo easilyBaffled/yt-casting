@@ -1,3 +1,4 @@
+import { CookieFile } from 'cookiefile';
 import { existsSync, mkdirSync, readFileSync } from "fs";
 import { Innertube, ClientType, Utils } from 'youtubei.js';
 import { exec } from "child_process";
@@ -7,7 +8,9 @@ export async function download(videoId) {
   // Read cookies.txt and include in Innertube.create
   let cookie = '';
   try {
-    cookie = readFileSync('cookies.txt', 'utf8');
+    const cf = new CookieFile('cookies.txt');
+    const cookiesArr = cf.getCookies('https://www.youtube.com');
+    cookie = cookiesArr.map(c => `${c.name}=${c.value}`).join('; ');
     console.log('[download.js] Loaded cookies.txt');
   } catch (e) {
     console.warn('[download.js] Could not read cookies.txt:', e.message);
