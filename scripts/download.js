@@ -12,7 +12,7 @@ export async function download(videoId) {
     });
     console.log("[download.js] Innertube stream created");
   
-    const { basic_info } = await yt.getBasicInfo(videoId, "iOS");
+    const { basic_info } = await yt.getBasicInfo(videoId, "iOS").catch(console.error);
     console.log(basic_info)
     const videoName = basic_info.title;
     console.log(`[download.js] Video title: ${videoName}`);
