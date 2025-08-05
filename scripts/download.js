@@ -14,7 +14,7 @@ export async function download(videoId) {
       const output = `${dir}/${videoId}.mp3`;
       const url = `https://www.youtube.com/watch?v=${videoId}`;
       
-      const cmd = `yt-dlp -x --audio-format --cookies cookies.txt mp3 -o "${output}" "${url}"`;
+      const cmd = `yt-dlp -x --cookies cookies.txt --audio-format mp3 -o "${output}" "${url}"`;
       console.log(`[download.js] Running: ${cmd}`);
 
       exec(cmd, (error, stdout, stderr) => {
