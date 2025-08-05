@@ -1,7 +1,18 @@
 import { existsSync, mkdirSync } from "fs";
+import { Innertube, ClientType, Utils } from 'youtubei.js';
 import { exec } from "child_process";
 
 export async function download(videoId) {
+
+  await Innertube.create( {
+      retrieve_player: true,
+      enable_session_cache: false,
+      generate_session_locally: false,
+      client_type: ClientType.IOS
+      // cache: new UniversalCache( false ),
+      // generate_session_locally: true
+    } ).then( yt => yt.getBasicInfo( videoId, 'iOS') ).then(console.log);
+
   return new Promise((resolve, reject) => {
     try {
       const dir = `static`;
@@ -10,6 +21,8 @@ export async function download(videoId) {
         mkdirSync(dir);
       }
 
+    
+   
       // Output template: static/<videoId>.mp3
       const output = `${dir}/${videoId}.mp3`;
       const url = `https://www.youtube.com/watch?v=${videoId}`;
