@@ -2,38 +2,42 @@ import { Innertube, ClientType, Utils } from "youtubei.js";
 import { existsSync, mkdirSync, createWriteStream } from "fs";
 
 export async function download(videoId) {
-try {
+  try {
+    console.log(`[download.js] Starting download for videoId: ${videoId}`);
     const yt = await Innertube.create({
       retrieve_player: true,
       enable_session_cache: false,
       generate_session_locally: false,
       client_type: ClientType.IOS,
-      // cache: new UniversalCache( false ),
-      // generate_session_locally: true
     });
-    console.log("stream created");
+    console.log("[download.js] Innertube stream created");
     const { basic_info } = await yt.getBasicInfo(videoId, "iOS");
     const videoName = basic_info.title;
-    console.log(videoName);
+    console.log(`[download.js] Video title: ${videoName}`);
 
     const stream = await yt.download(videoId, {
-      type: "audio", // audio, video or video+audio
-      quality: "best", // best, bestefficiency, 144p, 240p, 480p, 720p and so on.
-      format: "mp4", // media container format,
+      type: "audio",
+      quality: "best",
+      format: "mp4",
       client: ClientType.IOS,
     });
 
-    // console.info(`Downloading ${song.title} (${song.id})`);
-    console.info(`Downloading ${videoName}`);
+    console.info(`[download.js] Downloading ${videoName}`);
 
-    // const dir = `./${album.header?.title.toString()}`;
     const dir = `static`;
-
+    const absDir = `${process.cwd()}/${dir}`;
     if (!existsSync(dir)) {
+      console.log(`[download.js] Directory '${dir}' does not exist. Creating at ${absDir}`);
       mkdirSync(dir);
+    } else {
+      console.log(`[download.js] Directory '${dir}' exists at ${absDir}`);
     }
 
-    const filePath = `${dir}/${videoName}.mp3`;
+    // Sanitize filename for filesystem safety
+    const safeName = videoName.replace(/[^a-zA-Z0-9-_\.]/g, '_');
+    const filePath = `${dir}/${safeName}.mp3`;
+    const absFilePath = `${process.cwd()}/${filePath}`;
+    console.log(`[download.js] Writing to file: ${filePath} (absolute: ${absFilePath})`);
 
     const file = createWriteStream(filePath);
 
@@ -42,11 +46,13 @@ try {
       i += 1;
       file.write(chunk);
     }
+    file.end();
 
-    console.info(`Done!`, "\n");
+    console.info(`[download.js] Done writing ${filePath} (${i} chunks)\n`);
 
-    return filePath
+    return filePath;
   } catch (e) {
-    console.error(e);
+    console.error(`[download.js] ERROR:`, e && e.stack ? e.stack : e);
+    throw e;
   }
 }

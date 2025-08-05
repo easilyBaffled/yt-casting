@@ -23,6 +23,7 @@ jobs:
 
     - name: Convert new YouTube videos to MP3
       run: |
+        set -e
         node scripts/convert-and-feed.js
 
     - name: List files for debug
