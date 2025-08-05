@@ -27,7 +27,7 @@ try {
     console.info(`Downloading ${videoName}`);
 
     // const dir = `./${album.header?.title.toString()}`;
-    const dir = `../static`;
+    const dir = `static`;
 
     if (!existsSync(dir)) {
       mkdirSync(dir);
