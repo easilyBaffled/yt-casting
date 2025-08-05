@@ -17,10 +17,10 @@ async function main() {
       // The following uses youtube‑dl‑exec to download and convert to mp3.
       const id = new URL(entry.url).searchParams.get('v');
       
-      await download(id)
+      await download(id).catch(console.error)
 
       // mark as processed
-      entry.processed = true;
+      // entry.processed = true;
     }
   }
   
@@ -29,6 +29,7 @@ async function main() {
   
   // generate RSS items from all MP3 files in static/
   const files = fs.readdirSync('static').filter(f => f.endsWith('.mp3'));
+  console.log(files)
   files.forEach(file => {
     const stats = fs.statSync(`static/${file}`);
     feed.item({
