@@ -12,7 +12,7 @@ export async function download(videoId) {
   } catch (e) {
     console.warn('[download.js] Could not read cookies.txt:', e.message);
   }
-
+console.log(cookie)
   await Innertube.create({
     retrieve_player: true,
     enable_session_cache: false,
