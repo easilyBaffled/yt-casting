@@ -3,14 +3,27 @@ import { existsSync, mkdirSync, readFileSync } from "fs";
 import { Innertube, ClientType, Utils } from 'youtubei.js';
 import { exec } from "child_process";
 
+function getYoutubeCookieHeader(path = 'cookies.txt') {
+  try {
+    const lines = readFileSync(path, 'utf8').split('\n');
+    return lines
+      .filter(line => line && !line.startsWith('#'))
+      .map(line => line.trim().split('\t'))
+      .filter(parts => parts.length >= 7 && (parts[0].endsWith('youtube.com') || parts[0].endsWith('.youtube.com')))
+      .map(parts => `${parts[5]}=${parts[6]}`)
+      .join('; ');
+  } catch (e) {
+    console.warn('[download.js] Could not parse cookies.txt:', e.message);
+    return '';
+  }
+}
+
 export async function download(videoId) {
 
   // Read cookies.txt and include in Innertube.create
   let cookie = '';
   try {
-    const cf = new CookieFile('cookies.txt');
-    const cookiesArr = cf.getCookies('https://www.youtube.com');
-    cookie = cookiesArr.map(c => `${c.name}=${c.value}`).join('; ');
+    cookie = getYoutubeCookieHeader();
     console.log('[download.js] Loaded cookies.txt');
   } catch (e) {
     console.warn('[download.js] Could not read cookies.txt:', e.message);
