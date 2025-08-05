@@ -1,7 +1,6 @@
-const fs = require('fs');
-const RSS = require('rss');
-import { download } from './download';
-const { exec } = require('youtube-dl-exec');
+import fs from 'fs';
+import RSS from 'rss';
+import { download } from './download.js';
 const urls = JSON.parse(fs.readFileSync('youtube_urls.json'));
 
 const feed = new RSS({
