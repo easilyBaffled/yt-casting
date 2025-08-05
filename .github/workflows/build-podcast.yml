@@ -2,7 +2,7 @@ name: Convert YouTube to MP3 and update feed
 
 on:
   push:
-    branches: [yt-casting]
+    branches: [gh-pages]
 
 jobs:
   build:
