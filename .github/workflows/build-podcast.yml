@@ -25,7 +25,7 @@ jobs:
 
     - name: Write cookies.txt from secret
       run: |
-        echo "Length: ${#YT_COOKIES}"
+        echo "Length: ${#YT_COOKIES}, ${#YT_COOKIES_RAW}" # Debugging output
         echo "${{ secrets.YT_COOKIES }}" > cookies.txt
       env:
         YT_COOKIES: ${{ secrets.YT_COOKIES }}

@@ -4,6 +4,7 @@ import { exec } from "child_process";
 
 export async function download(videoId) {
 
+  console.log(process.env)
   // Read cookies.txt and include in Innertube.create
   const cookie = process.env.YT_COOKIES_RAW || '';
 
