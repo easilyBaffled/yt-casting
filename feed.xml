@@ -4,14 +4,14 @@
         <description><![CDATA[A private feed of YouTube videos converted to audio]]></description>
         <link>https://easilyBaffled.github.io/yt-casting/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 Aug 2025 13:29:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Aug 2025 13:33:06 GMT</lastBuildDate>
         <atom:link href="https://easilyBaffled.github.io/yt-casting/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[QF-XpVNsWTM]]></title>
             <description><![CDATA[Audio from YouTube video QF-XpVNsWTM]]></description>
             <link>https://easilyBaffled.github.io/yt-casting/QF-XpVNsWTM.mp3</link>
             <guid isPermaLink="false">QF-XpVNsWTM.mp3</guid>
-            <pubDate>Wed, 06 Aug 2025 13:29:51 GMT</pubDate>
+            <pubDate>Wed, 06 Aug 2025 13:33:06 GMT</pubDate>
             <enclosure url="https://easilyBaffled.github.io/yt-casting/QF-XpVNsWTM.mp3" length="991252" type="audio/mpeg"/>
         </item>
     </channel>
