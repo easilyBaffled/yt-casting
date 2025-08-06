@@ -2,11 +2,31 @@ import { existsSync, mkdirSync, readFileSync } from "fs";
 import { Innertube, ClientType, Utils } from 'youtubei.js';
 import { exec } from "child_process";
 
+// Validate cookie header string format
+function isValidCookieHeader(cookie) {
+  // Must be a non-empty string
+  if (typeof cookie !== 'string' || cookie.trim() === '') return false;
+  // Should not contain newlines or tabs
+  if (/\r|\n|\t/.test(cookie)) return false;
+  // Should contain at least one '=' and one ';' (for multiple cookies)
+  if (!cookie.includes('=') || (!cookie.includes(';') && cookie.split(';').length < 2)) return false;
+  // Should not start or end with ';'
+  if (cookie.trim().startsWith(';') || cookie.trim().endsWith(';')) return false;
+  // Should not contain invalid header characters
+  if (/[^\x20-\x7E]/.test(cookie)) return false;
+  // Should look like: key=value; key2=value2
+  return true;
+}
+
 export async function download(videoId) {
   // Read cookies.txt and include in Innertube.create
   const cookie = process.env.YT_COOKIES_RAW || '';
 
-  console.log(cookie === '' ? '[download.js] No cookies provided, using default.' : '[download.js] Using provided cookies.');
+  if (!isValidCookieHeader(cookie)) {
+    console.warn('[download.js] Cookie header is invalid or missing.');
+  } else {
+    console.log('[download.js] Using provided cookies.');
+  }
   await Innertube.create({
     retrieve_player: true,
     enable_session_cache: false,
