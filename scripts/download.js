@@ -68,12 +68,12 @@ export async function download(videoId) {
     retrieve_player: true,
     enable_session_cache: false,
     generate_session_locally: false,
-    client_type: ClientType.IOS,
+    client_type: ClientType.WEB,
     cookie,
     // cache: new UniversalCache( false ),
     // generate_session_locally: true
   })
-    .then((yt) => yt.getBasicInfo(videoId, "iOS"))
+    .then((yt) => yt.getBasicInfo(videoId, "WEB"))
     .then(console.log);
 
   return new Promise((resolve, reject) => {
