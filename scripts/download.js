@@ -74,7 +74,11 @@ export async function download(videoId) {
     // generate_session_locally: true
   })
     .then((yt) => yt.getBasicInfo(videoId, "WEB"))
-    .then(console.log);
+    .then( res => {
+      console.log(res)
+      console.log(res.storyboards.boards[0])
+      console.log(res.thumbnail[0])
+    });
 
   return new Promise((resolve, reject) => {
     try {
