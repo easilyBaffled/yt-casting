@@ -1,6 +1,10 @@
-import { existsSync, mkdirSync, readFileSync } from "fs";
+import {
+  existsSync,
+  mkdirSync,
+  createWriteStream,
+  createWriteStream,
+} from "fs";
 import { Innertube, ClientType, Utils } from "youtubei.js";
-import { exec } from "child_process";
 
 // Validate cookie header string format and explain issues
 function validateCookieHeader(cookie) {
@@ -50,6 +54,13 @@ function validateCookieHeader(cookie) {
   return { isValid: true };
 }
 
+function sanitizeFileName(name) {
+  return name
+    .replace(/[<>:"/\\|?*\x00-\x1F]/g, "_")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 export async function download(videoId) {
   // Read cookies.txt and include in Innertube.create
   const cookie = process.env.YT_COOKIES_RAW || "";
@@ -65,17 +76,16 @@ export async function download(videoId) {
     console.log("[download.js] Using provided cookies.");
   }
 
-try {
-
-  const yt = await Innertube.create({
-    retrieve_player: true,
-    enable_session_cache: false,
-    generate_session_locally: false,
-    client_type: ClientType.WEB,
-    cookie,
-    // cache: new UniversalCache( false ),
-    // generate_session_locally: true
-  })    
+  try {
+    const yt = await Innertube.create({
+      retrieve_player: true,
+      enable_session_cache: false,
+      generate_session_locally: false,
+      client_type: ClientType.WEB,
+      cookie,
+      // cache: new UniversalCache( false ),
+      // generate_session_locally: true
+    });
     console.log("stream created");
     const { basic_info } = await yt.getBasicInfo(videoId, "iOS");
     const videoName = basic_info.title;
@@ -92,21 +102,34 @@ try {
     console.info(`Downloading ${videoName}`);
 
     // const dir = `./${album.header?.title.toString()}`;
-    const dir = `./downloads`;
+    const dir = `./static`;
 
     if (!existsSync(dir)) {
       mkdirSync(dir);
     }
 
-    const filePath = `${dir}/${videoName}.mp3`;
+    const safeVideoName = sanitizeFileName(videoName);
+    const filePath = `${dir}/${safeVideoName}.mp3`;
 
     const file = createWriteStream(filePath);
 
-    let i = 0;
-    for await (const chunk of Utils.streamToIterable(stream)) {
-      i += 1;
-      file.write(chunk);
+    const fileWritePromise = new Promise((resolve, reject) => {
+      file.on("finish", resolve);
+      file.on("error", reject);
+      stream.on("error", reject);
+    });
+
+    try {
+      let i = 0;
+      for await (const chunk of Utils.streamToIterable(stream)) {
+        i += 1;
+        file.write(chunk);
+      }
+    } finally {
+      file.end();
     }
+
+    await fileWritePromise;
 
     console.info(`Done!`, "\n");
 

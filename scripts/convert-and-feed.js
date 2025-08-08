@@ -1,7 +1,7 @@
 import fs from 'fs';
 import RSS from 'rss';
 import { download } from './download.js';
-const urls = JSON.parse(fs.readFileSync('youtube_urls.json'));
+const urls = JSON.parse(fs.readFileSync('youtube_urls.json', 'utf8'));
 
 const feed = new RSS({
   title: 'My Personal YouTube to MP3 Feed',
@@ -13,7 +13,19 @@ const feed = new RSS({
 async function main() {
   for (const entry of urls) {
     if (!entry.processed) {
-      const id = new URL(entry.url).searchParams.get('v');
+       let id;
+      try {
+        const parsed = new URL(entry.url);
+        id = parsed.searchParams.get('v');
+        if (!id) {
+          console.warn(`[convert-and-feed.js] No video ID found in URL: ${entry.url}`);
+          continue;
+        }
+      } catch (err) {
+        console.error(`[convert-and-feed.js] Invalid URL: ${entry.url}`, err);
+        continue;
+      }
+      
       try {
         // Assume download returns { filePath, basic_info, videoId }
         const result = await download(id);
@@ -23,7 +35,7 @@ async function main() {
             title: result.basic_info.title,
             description: result.basic_info.description || result.basic_info.short_description || "No description available.",
             url: `https://easilyBaffled.github.io/yt-casting/static/${result.videoId}.mp3`,
-            guid: result.videoId,
+            guid: id,
             date: result.basic_info.publish_date || result.basic_info.upload_date || new Date(),
             author: result.basic_info.author || result.basic_info.channel_name,
             enclosure: {
