@@ -86,7 +86,7 @@ export async function download(videoId) {
       // generate_session_locally: true
     });
     console.log("stream created");
-    const { basic_info } = await yt.getBasicInfo(videoId, "iOS");
+    const { basic_info } = await yt.getBasicInfo(videoId, "WEB");
     const videoName = basic_info.title;
     console.log(videoName);
 
