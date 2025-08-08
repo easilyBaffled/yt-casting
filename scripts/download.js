@@ -2,7 +2,6 @@ import {
   existsSync,
   mkdirSync,
   createWriteStream,
-  createWriteStream,
 } from "fs";
 import { Innertube, ClientType, Utils } from "youtubei.js";
 
