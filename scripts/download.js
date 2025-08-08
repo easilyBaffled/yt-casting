@@ -64,7 +64,10 @@ export async function download(videoId) {
   } else {
     console.log("[download.js] Using provided cookies.");
   }
-  await Innertube.create({
+
+try {
+
+  const yt = await Innertube.create({
     retrieve_player: true,
     enable_session_cache: false,
     generate_session_locally: false,
@@ -72,42 +75,44 @@ export async function download(videoId) {
     cookie,
     // cache: new UniversalCache( false ),
     // generate_session_locally: true
-  })
-    .then((yt) => yt.getInfo(videoId, "WEB"))
-    .then( res => {
-      console.log(res)            
+  })    
+    console.log("stream created");
+    const { basic_info } = await yt.getBasicInfo(videoId, "iOS");
+    const videoName = basic_info.title;
+    console.log(videoName);
+
+    const stream = await yt.download(videoId, {
+      type: "audio", // audio, video or video+audio
+      quality: "best", // best, bestefficiency, 144p, 240p, 480p, 720p and so on.
+      format: "mp4", // media container format,
+      client: ClientType.IOS,
     });
 
-  return new Promise((resolve, reject) => {
-    try {
-      const dir = `static`;
-      if (!existsSync(dir)) {
-        console.log(
-          `[download.js] Directory '${dir}' does not exist. Creating at ${process.cwd()}/${dir}`,
-        );
-        mkdirSync(dir);
-      }
+    // console.info(`Downloading ${song.title} (${song.id})`);
+    console.info(`Downloading ${videoName}`);
 
-      // Output template: static/<videoId>.mp3
-      const output = `${dir}/${videoId}.mp3`;
-      const url = `https://www.youtube.com/watch?v=${videoId}`;
+    // const dir = `./${album.header?.title.toString()}`;
+    const dir = `./downloads`;
 
-      const cmd = `yt-dlp -x --cookies cookies.txt --audio-format mp3 -o "${output}" "${url}"`;
-      console.log(`[download.js] Running: ${cmd}`);
-
-      exec(cmd, (error, stdout, stderr) => {
-        if (error) {
-          console.error(`[download.js] yt-dlp error:`, error);
-          console.error(stderr);
-          return reject(error);
-        }
-        console.log(stdout);
-        console.log(`[download.js] Downloaded to ${output}`);
-        resolve(output);
-      });
-    } catch (e) {
-      console.error(`[download.js] ERROR:`, e && e.stack ? e.stack : e);
-      reject(e);
+    if (!existsSync(dir)) {
+      mkdirSync(dir);
     }
-  });
+
+    const filePath = `${dir}/${videoName}.mp3`;
+
+    const file = createWriteStream(filePath);
+
+    let i = 0;
+    for await (const chunk of Utils.streamToIterable(stream)) {
+      i += 1;
+      file.write(chunk);
+    }
+
+    console.info(`Done!`, "\n");
+
+    return { filePath, file, basic_info };
+  } catch (error) {
+    console.error("Error during download:", error);
+    throw error;
+  }
 }

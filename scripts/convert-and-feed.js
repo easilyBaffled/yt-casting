@@ -13,39 +13,40 @@ const feed = new RSS({
 async function main() {
   for (const entry of urls) {
     if (!entry.processed) {
-      // Use your conversion function here.
-      // The following uses youtube‑dl‑exec to download and convert to mp3.
       const id = new URL(entry.url).searchParams.get('v');
-      
-      await download(id).catch(console.error)
-
-      // mark as processed
-      // entry.processed = true;
+      try {
+        // Assume download returns { filePath, basic_info, videoId }
+        const result = await download(id);
+        if (result && result.filePath && result.basic_info) {
+          const stats = fs.statSync(result.filePath);
+          feed.item({
+            title: result.basic_info.title,
+            description: result.basic_info.description || result.basic_info.short_description || "No description available.",
+            url: `https://easilyBaffled.github.io/yt-casting/static/${result.videoId}.mp3`,
+            guid: result.videoId,
+            date: result.basic_info.publish_date || result.basic_info.upload_date || new Date(),
+            author: result.basic_info.author || result.basic_info.channel_name,
+            enclosure: {
+              url: `https://easilyBaffled.github.io/yt-casting/static/${result.videoId}.mp3`,
+              size: stats.size,
+              type: 'audio/mpeg',
+            },
+            custom_elements: [
+              { 'itunes:image': result.basic_info.thumbnail }
+            ]
+          });
+          // mark as processed
+          entry.processed = true;
+        }
+      } catch (err) {
+        console.error(`[convert-and-feed.js] Download failed for ${id}:`, err);
+      }
     }
   }
-  
+
   // write updated URLs file
   fs.writeFileSync('youtube_urls.json', JSON.stringify(urls, null, 2));
-  
-  // generate RSS items from all MP3 files in static/
-  const files = fs.readdirSync('static').filter(f => f.endsWith('.mp3'));
-  console.log(files)
-  files.forEach(file => {
-    const stats = fs.statSync(`static/${file}`);
-    feed.item({
-      title: file.replace('.mp3', ''),
-      description: `Audio from YouTube video ${file.replace('.mp3','')}`,
-      url: `https://easilyBaffled.github.io/yt-casting/${file}`,
-      guid: file,
-      date: new Date(),
-      enclosure: {
-        url: `https://easilyBaffled.github.io/yt-casting/${file}`,
-        size: stats.size,
-        type: 'audio/mpeg',
-      },
-    });
-  });
-  
+
   // write feed.xml to the repo root
   fs.writeFileSync('feed.xml', feed.xml({ indent: true }));
 }
