@@ -75,9 +75,8 @@ export async function download(videoId) {
   })
     .then((yt) => yt.getBasicInfo(videoId, "WEB"))
     .then( res => {
-      console.log(res)
-      console.log(res.storyboards.boards[0])
-      console.log(res.thumbnail[0])
+      console.log(res)      
+      console.log(res.basic_info.thumbnail[0])
     });
 
   return new Promise((resolve, reject) => {
