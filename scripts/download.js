@@ -73,10 +73,9 @@ export async function download(videoId) {
     // cache: new UniversalCache( false ),
     // generate_session_locally: true
   })
-    .then((yt) => yt.getBasicInfo(videoId, "WEB"))
+    .then((yt) => yt.getInfo(videoId, "WEB"))
     .then( res => {
-      console.log(res)      
-      console.log(res.basic_info.thumbnail[0])
+      console.log(res)            
     });
 
   return new Promise((resolve, reject) => {
