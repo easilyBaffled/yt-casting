@@ -80,13 +80,13 @@ export async function download(videoId) {
       retrieve_player: true,
       enable_session_cache: false,
       generate_session_locally: false,
-      client_type: ClientType.WEB,
+      client_type: ClientType.IOS,
       cookie,
       // cache: new UniversalCache( false ),
       // generate_session_locally: true
     });
     console.log("stream created");
-    const { basic_info } = await yt.getBasicInfo(videoId, "WEB");
+    const { basic_info } = await yt.getBasicInfo(videoId, ClientType.IOS);
     const videoName = basic_info.title;
     console.log(videoName);
 
@@ -94,7 +94,7 @@ export async function download(videoId) {
       type: "audio", // audio, video or video+audio
       quality: "best", // best, bestefficiency, 144p, 240p, 480p, 720p and so on.
       format: "mp4", // media container format,
-      client: ClientType.WEB,
+      client: ClientType.IOS,
     });
 
     // console.info(`Downloading ${song.title} (${song.id})`);
