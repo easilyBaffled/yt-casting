@@ -93,7 +93,7 @@ export async function download(videoId) {
     const stream = await yt.download(videoId, {
       type: "audio", // audio, video or video+audio
       quality: "best", // best, bestefficiency, 144p, 240p, 480p, 720p and so on.
-      format: "mp4", // media container format,
+      format: "mp3", // media container format,
       client: ClientType.WEB,
     });
 
