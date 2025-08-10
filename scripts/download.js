@@ -41,7 +41,6 @@ export async function download(videoId) {
     mkdirSync(dir);
   }
   const url = `https://www.youtube.com/watch?v=${videoId}`;
-  const output = `${dir}/${videoId}.mp3`;
   const cookie = process.env.YT_COOKIES_RAW || "";
 
   // Write cookie to a temp file if present
@@ -53,13 +52,32 @@ export async function download(videoId) {
   }
 
   // Use yt-dlp to get metadata and download audio
-  const cmd = `yt-dlp --dump-json -x --audio-format mp3 -o "${output}" ${cookie ? `--cookies ${cookieFile}` : ""} "${url}"`;
+  // First, get metadata to determine the video title
+  const infoCmd = `yt-dlp --dump-json ${cookie ? `--cookies ${cookieFile}` : ""} "${url}"`;
+  let info;
   try {
-    const { stdout, stderr } = await execAsync(cmd);
+    const { stdout: infoStdout, stderr: infoStderr } = await execAsync(infoCmd);
+    if (infoStderr) console.error(infoStderr);
+    info = JSON.parse(infoStdout.split('\n').find(line => line.trim().startsWith('{')));
+  } catch (error) {
+    console.error("[download.js] yt-dlp metadata error:", error);
+    throw error;
+  }
+
+  // Sanitize the video title for filename
+  const safeTitle = sanitizeFileName(info.title);
+  const output = `${dir}/${safeTitle}.mp3`;
+
+  // Download the audio file using the sanitized title
+  const dlCmd = `yt-dlp -x --audio-format mp3 -o "${output}" ${cookie ? `--cookies ${cookieFile}` : ""} "${url}"`;
+  try {
+    const { stdout, stderr } = await execAsync(dlCmd);
     if (stderr) console.error(stderr);
 
-    // Parse yt-dlp JSON output for metadata
-    const info = JSON.parse(stdout.split('\n').find(line => line.trim().startsWith('{')));
+    // Check if file was created
+    if (!existsSync(output)) {
+      throw new Error(`[download.js] yt-dlp did not produce output file: ${output}`);
+    }
     const stats = statSync(output);
 
     return {
