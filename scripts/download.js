@@ -12,19 +12,27 @@ function sanitizeFileName(name) {
 
 // Convert a cookie header string to Netscape cookie.txt format
 function cookieHeaderToNetscape(cookieHeader, domain = ".youtube.com") {
-  // Example cookieHeader: "SID=xxx; HSID=xxx; SSID=xxx; ..."
-  if (!cookieHeader || typeof cookieHeader !== "string") return "";
-  return cookieHeader
-    .split(";")
-    .map(pair => pair.trim())
-    .filter(Boolean)
-    .map(pair => {
-      const [name, value] = pair.split("=");
-      // Netscape format: domain  flag  path  secure  expiration  name  value
-      // We'll use: domain, TRUE, /, FALSE, 0, name, value
-      return `${domain}\tTRUE\t/\tFALSE\t0\t${name}\t${value}`;
-    })
-    .join("\n");
+  // Netscape HTTP Cookie File header
+  let lines = [
+    "# Netscape HTTP Cookie File",
+    "# This file was generated from a cookie header string"
+  ];
+  if (!cookieHeader || typeof cookieHeader !== "string") return lines.join("\n");
+  lines = lines.concat(
+    cookieHeader
+      .split(";")
+      .map(pair => pair.trim())
+      .filter(Boolean)
+      .map(pair => {
+        const [name, value] = pair.split("=");
+        // domain, flag, path, secure, expiration, name, value
+        // Use reasonable defaults for flag (TRUE), path (/), secure (FALSE), expiration (0)
+        if (!name || !value) return null;
+        return `${domain}\tTRUE\t/\tFALSE\t0\t${name}\t${value}`;
+      })
+      .filter(Boolean)
+  );
+  return lines.join("\n");
 }
 
 export async function download(videoId) {
