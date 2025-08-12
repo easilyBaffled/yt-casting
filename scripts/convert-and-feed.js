@@ -8,7 +8,10 @@ const feed = new RSS({
   title: 'My Personal YouTube to MP3 Feed',
   description: 'A private feed of YouTube videos converted to audio',
   feed_url: 'https://easilyBaffled.github.io/yt-casting/feed.xml',
-  site_url: 'https://easilyBaffled.github.io/yt-casting/'
+  site_url: 'https://easilyBaffled.github.io/yt-casting/',
+  custom_namespaces: {
+    itunes: 'http://www.itunes.com/dtds/podcast-1.0.dtd'
+  }
 });
 
 async function main() {
