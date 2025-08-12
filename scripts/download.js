@@ -76,18 +76,18 @@ export async function download(videoId) {
     );
     let info;
     try {
-      const { stdout: infoStdout, stderr: infoStderr } =
-        await execAsync(infoCmd);
+      const { stdout: infoStdout, stderr: infoStderr } = await execAsync(infoCmd);
       if (infoStderr)
         console.error(`[download.js] yt-dlp metadata stderr:`, infoStderr);
-      info = JSON.parse(
-        infoStdout.split("\n").find((line) => line.trim().startsWith("{")),
-      );
-      console.log(
-        `[download.js] Video metadata retrieved: title="${info.title}"`,
-      );
+      info = JSON.parse(infoStdout.split("\n").find((line) => line.trim().startsWith("{")));
+      console.log(`[download.js] Video metadata retrieved: title="${info.title}"`);
     } catch (error) {
-      console.error("[download.js] yt-dlp metadata error:", error);
+      console.error(`[download.js] ERROR: Failed to fetch metadata for videoId: ${videoId}`);
+      console.error(`[download.js] Command: ${infoCmd}`);
+      if (error && error.stderr) console.error(`[download.js] yt-dlp metadata stderr:`, error.stderr);
+      if (error && error.stdout) console.error(`[download.js] yt-dlp metadata stdout:`, error.stdout);
+      if (error && error.stack) console.error(`[download.js] Error stack:`, error.stack);
+      else console.error(`[download.js] Error:`, error);
       throw error;
     }
 
@@ -102,14 +102,13 @@ export async function download(videoId) {
 
       if (!existsSync(output)) {
         console.error(`[download.js] ERROR: yt-dlp did not produce output file: ${output}`);
+        console.error(`[download.js] Command: ${dlCmd}`);
         console.error(`[download.js] yt-dlp stdout:`, stdout);
         console.error(`[download.js] yt-dlp stderr:`, stderr);
         throw new Error(`[download.js] yt-dlp did not produce output file: ${output}`);
       }
       const stats = statSync(output);
-      console.log(
-        `[download.js] Download complete: ${output} (${stats.size} bytes)`,
-      );
+      console.log(`[download.js] Download complete: ${output} (${stats.size} bytes)`);
 
       return {
         filePath: output,
@@ -118,9 +117,7 @@ export async function download(videoId) {
           description:
             info.description || info.fulltitle || "No description available.",
           publish_date: info.upload_date
-            ? new Date(
-                info.upload_date.replace(/(\d{4})(\d{2})(\d{2})/, "$1-$2-$3"),
-              )
+            ? new Date(info.upload_date.replace(/(\d{4})(\d{2})(\d{2})/, "$1-$2-$3"))
             : new Date(),
           author: info.uploader || info.channel,
           thumbnail: info.thumbnail || "",
@@ -129,10 +126,12 @@ export async function download(videoId) {
         size: stats.size,
       };
     } catch (error) {
-      console.error("[download.js] yt-dlp error:", error);
-      if (error && error.stack) {
-        console.error("[download.js] Error stack:", error.stack);
-      }
+      console.error(`[download.js] ERROR: Failed to download audio for videoId: ${videoId}`);
+      console.error(`[download.js] Command: ${dlCmd}`);
+      if (error && error.stderr) console.error(`[download.js] yt-dlp download stderr:`, error.stderr);
+      if (error && error.stdout) console.error(`[download.js] yt-dlp download stdout:`, error.stdout);
+      if (error && error.stack) console.error(`[download.js] Error stack:`, error.stack);
+      else console.error(`[download.js] Error:`, error);
       throw error;
     }
   }
