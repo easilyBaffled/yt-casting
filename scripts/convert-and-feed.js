@@ -53,7 +53,7 @@ async function main() {
           entry.processed = true;
           console.log(`[convert-and-feed.js] Marked as processed: ${id}`);
         } else {
-          console.error(`[convert-and-feed.js] FAILURE: Download returned no result for ${id}`);
+          console.error(`[convert-and-feed.js] FAILURE: Download returned no result for ${id}. Check download.js logs for details.`);
         }
       } catch (err) {
         // SABR detection

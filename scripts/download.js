@@ -101,12 +101,10 @@ export async function download(videoId) {
         console.error(`[download.js] yt-dlp download stderr:`, stderr);
 
       if (!existsSync(output)) {
-        console.error(
-          `[download.js] ERROR: yt-dlp did not produce output file: ${output}`,
-        );
-        throw new Error(
-          `[download.js] yt-dlp did not produce output file: ${output}`,
-        );
+        console.error(`[download.js] ERROR: yt-dlp did not produce output file: ${output}`);
+        console.error(`[download.js] yt-dlp stdout:`, stdout);
+        console.error(`[download.js] yt-dlp stderr:`, stderr);
+        throw new Error(`[download.js] yt-dlp did not produce output file: ${output}`);
       }
       const stats = statSync(output);
       console.log(
@@ -132,6 +130,9 @@ export async function download(videoId) {
       };
     } catch (error) {
       console.error("[download.js] yt-dlp error:", error);
+      if (error && error.stack) {
+        console.error("[download.js] Error stack:", error.stack);
+      }
       throw error;
     }
   }
