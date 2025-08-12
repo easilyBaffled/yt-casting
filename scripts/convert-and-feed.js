@@ -32,7 +32,7 @@ async function main() {
       try {
         const result = await download(id);
         if (result && result.filePath && result.basic_info) {
-          console.log(`[convert-and-feed.js] Adding item to RSS feed for: ${result.basic_info.title}`);
+          console.log(`[convert-and-feed.js] SUCCESS: Downloaded and adding to RSS: ${result.basic_info.title}`);
           const stats = fs.statSync(result.filePath);
           feed.item({
             title: result.basic_info.title,
@@ -51,6 +51,9 @@ async function main() {
             ]
           });
           entry.processed = true;
+          console.log(`[convert-and-feed.js] Marked as processed: ${id}`);
+        } else {
+          console.error(`[convert-and-feed.js] FAILURE: Download returned no result for ${id}`);
         }
       } catch (err) {
         // SABR detection
@@ -63,7 +66,7 @@ async function main() {
           entry.SABR = true;
           entry.processed = false;
         } else {
-          console.error(`[convert-and-feed.js] Download failed for ${id}:`, err);
+          console.error(`[convert-and-feed.js] FAILURE: Download failed for ${id}:`, err);
         }
       }
     }
