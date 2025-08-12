@@ -38,6 +38,7 @@ export async function download(videoId) {
   if (!existsSync(dir)) {
     console.log(`[download.js] Directory '${dir}' does not exist. Creating...`);
     mkdirSync(dir);
+  }
     try {
       // ...existing code to run yt-dlp...
       // After running yt-dlp, check for SABR warning in stderr
@@ -134,5 +135,4 @@ export async function download(videoId) {
       else console.error(`[download.js] Error:`, error);
       throw error;
     }
-  }
 }
