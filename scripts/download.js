@@ -98,10 +98,8 @@ export async function download(videoId) {
       basic_info: {
         title: info.title,
         description:
-          info.description || info.fulltitle || "No description available.",
-        publish_date: info.upload_date
-          ? new Date(info.upload_date.replace(/(\d{4})(\d{2})(\d{2})/, "$1-$2-$3"))
-          : new Date(),
+          `${info.description || info.fulltitle || "No description available."}\n${url}`,
+        publish_date: new Date(),
         author: info.uploader || info.channel,
         thumbnail: info.thumbnail || "",
       },
