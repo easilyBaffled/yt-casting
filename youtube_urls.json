@@ -21,18 +21,19 @@
   },
   {
     "url": "https://www.youtube.com/watch?app=desktop&v=d8PndpFPL8g",
-    "processed": false
+    "processed": true
   },
   {
     "url": "https://www.youtube.com/watch?app=desktop&v=YVdQjqUXuDc",
-    "processed": false
+    "processed": true
   },
   {
     "url": "https://www.youtube.com/watch?v=29SopXQfc_s",
-    "processed": false
+    "processed": true
   },
   {
     "url": "https://www.youtube.com/watch?v=qS2k5ah8WNg",
     "processed": false
-  }  
+  }
+  
 ]
