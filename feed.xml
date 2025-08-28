@@ -4,27 +4,39 @@
         <description><![CDATA[A private feed of YouTube videos converted to audio]]></description>
         <link>https://easilyBaffled.github.io/yt-casting/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 Aug 2025 16:46:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Aug 2025 10:32:14 GMT</lastBuildDate>
         <atom:link href="https://easilyBaffled.github.io/yt-casting/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The iconic novel behind Clair Obscur you'll never get to read]]></title>
-            <description><![CDATA[A dive into Alain Damasio's inspirational sci-fi novel, La Horde Du Contrevent, as well as various other influences on the game.
+            <title><![CDATA[Vic Doesn’t Ask A Single Question | Vic Michaelis Asks Hank Anything]]></title>
+            <description><![CDATA[Vic Michaelis joins Hank to ask him if GMOs are bad, who has the most DNA, and if he will tell them a secret?
 
-0:00 La Horde Du Contrevent
-3:12 Neologisms
-8:17 Symbol-coded narration
-11:30 The book's conclusion
-12:39 Guiliome Broach on La Horde Du Contrevent
-13:50 Attack on Titan
-15:47 Other influences
-20:27 Rounding off
-https://www.youtube.com/watch?v=iPCp4NAcWxY]]></description>
-            <link>https://easilyBaffled.github.io/yt-casting/static/The iconic novel behind Clair Obscur you&apos;ll never get to read.mp3</link>
-            <guid isPermaLink="false">iPCp4NAcWxY</guid>
-            <dc:creator><![CDATA[Hazzer Point]]></dc:creator>
-            <pubDate>Wed, 27 Aug 2025 16:46:59 GMT</pubDate>
-            <enclosure url="https://easilyBaffled.github.io/yt-casting/static/The iconic novel behind Clair Obscur you&apos;ll never get to read.mp3" length="18859629" type="audio/mpeg"/>
-            <itunes:image>https://i.ytimg.com/vi_webp/iPCp4NAcWxY/maxresdefault.webp</itunes:image>
+Go to https://ground.news/complexly to stay fully informed on the latest science news, compare coverage and avoid media bias. Subscribe through our link for 40% off unlimited access.
+
+Resources to Utilize (and support!):
+https://translifeline.org/
+https://www.pointofpride.org/
+
+00:00 Introduction
+03:17 Are GMOs actually bad?
+15:31 Can someone have the most DNA?
+22:34 Why are British people’s teeth known for being like that?
+30:26 Why aren’t we giving zeppelins another try?
+38:31 Say there’s an afterlife. If you exclude family/friends/loved ones who would you hope is meeting you to take you to the next place?
+42:28 Can you tell me a secret? 
+
+Follow us:
+Complexly newsletter: https://complexly.com
+Instagram: https://www.instagram.com/complexlymedia/
+Bluesky: https://bsky.app/profile/complexly.bsky.social
+X: https://x.com/complexlymedia
+Facebook: https://www.facebook.com/ComplexlyMedia/
+https://www.youtube.com/watch?v=SocSaQ-0IbI]]></description>
+            <link>https://easilyBaffled.github.io/yt-casting/static/Vic Doesn’t Ask A Single Question _ Vic Michaelis Asks Hank Anything.mp3</link>
+            <guid isPermaLink="false">SocSaQ-0IbI</guid>
+            <dc:creator><![CDATA[Complexly]]></dc:creator>
+            <pubDate>Thu, 28 Aug 2025 10:32:14 GMT</pubDate>
+            <enclosure url="https://easilyBaffled.github.io/yt-casting/static/Vic Doesn’t Ask A Single Question _ Vic Michaelis Asks Hank Anything.mp3" length="37344429" type="audio/mpeg"/>
+            <itunes:image>https://i.ytimg.com/vi_webp/SocSaQ-0IbI/maxresdefault.webp</itunes:image>
         </item>
     </channel>
 </rss>
