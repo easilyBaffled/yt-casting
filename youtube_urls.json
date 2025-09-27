@@ -61,7 +61,7 @@
   },
   {
     "url": "https://www.youtube.com/watch?v=SUUw-UfK64Q",
-    "processed": false
+    "processed": true
   },
   {
     "url": "https://www.youtube.com/watch?v=pWjbFeHkgoc",
@@ -73,6 +73,6 @@
   },
   {
     "url": "https://www.youtube.com/watch?v=tX7wp677x_8",
-    "processed": false
+    "processed": true
   }
 ]

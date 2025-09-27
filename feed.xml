@@ -4,7 +4,7 @@
         <description><![CDATA[A private feed of YouTube videos converted to audio]]></description>
         <link>https://easilyBaffled.github.io/yt-casting/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Sep 2025 03:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Sep 2025 18:40:05 GMT</lastBuildDate>
         <atom:link href="https://easilyBaffled.github.io/yt-casting/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Andor, Trump and Our Revolutionary Times | The Weekly Show with Jon Stewart]]></title>
@@ -49,38 +49,32 @@ https://www.youtube.com/watch?v=SUUw-UfK64Q]]></description>
             <link>https://easilyBaffled.github.io/yt-casting/static/Andor, Trump and Our Revolutionary Times _ The Weekly Show with Jon Stewart.mp3</link>
             <guid isPermaLink="false">SUUw-UfK64Q</guid>
             <dc:creator><![CDATA[The Weekly Show with Jon Stewart]]></dc:creator>
-            <pubDate>Fri, 05 Sep 2025 03:27:48 GMT</pubDate>
+            <pubDate>Sat, 27 Sep 2025 18:39:11 GMT</pubDate>
             <enclosure url="https://easilyBaffled.github.io/yt-casting/static/Andor, Trump and Our Revolutionary Times _ The Weekly Show with Jon Stewart.mp3" length="55487757" type="audio/mpeg"/>
             <itunes:image>https://i.ytimg.com/vi/SUUw-UfK64Q/maxresdefault.jpg</itunes:image>
         </item>
         <item>
-            <title><![CDATA[Settling woodworking's biggest controversy: EPOXY]]></title>
-            <description><![CDATA[To start comparing quotes and simplify insurance-buying, check out Policygenius: https://Policygenius.com/lincolnstreet. Thanks to Policygenius for sponsoring this video!
+            <title><![CDATA[Okarun x Momo: Romance Done Right]]></title>
+            <description><![CDATA[Silver and Blood: Requiem is now available! Download here: US: https://t2m.io/SarcasticChorusUS
+Other areas: https://t2m.io/SarcasticChorusEU
+Blood memories awaken, the path home begins.
+Redemption Code: SAB0626 – Get 5 free gacha pulls!
 
-Are epoxy tables even actual woodworking? Let's find out. 
+Feel free to chat with me on social media!
+https://www.instagram.com/sarcasticchorus/
+Twitter: https://twitter.com/ChorusSarcastic
+Tiktok: https://www.tiktok.com/@sarcasticchorus
 
-🔴Spider Base - https://www.etsy.com/listing/1365265960/black-cross-spider-dining-table-base?ref=yr_purchases&variation0=3161181847
-
-🔴 Want more? Watch Next:
-DIY Nightstand: https://www.youtube.com/watch?v=612Z_5c71zI&t=140s
-Table Saw Safety: https://www.youtube.com/watch?v=kfiqPlC6Ltg&t=716s
-Buying From a Sawmill: https://www.youtube.com/watch?v=hwlSapNkqFI&t=74s
-
-🔴Support LSWW
-Merchandise: https://www.lincolnstwoodworks.com/store/apparel
-Stickers: https://www.lincolnstwoodworks.com/store/decals
-Plans: https://www.lincolnstwoodworks.com/store/plans
-Subscribe: https://www.youtube.com/channel/UCqal-8AqDFpsYwZwxs4TaHg
-
-🔴Follow us on Instagram: 
-https://www.instagram.com/lincolnst.woodworks/
-https://www.youtube.com/watch?v=kXRi1rKtWqg]]></description>
-            <link>https://easilyBaffled.github.io/yt-casting/static/Settling woodworking&apos;s biggest controversy_ EPOXY.mp3</link>
-            <guid isPermaLink="false">kXRi1rKtWqg</guid>
-            <dc:creator><![CDATA[Lincoln St. Woodworks]]></dc:creator>
-            <pubDate>Fri, 05 Sep 2025 03:28:19 GMT</pubDate>
-            <enclosure url="https://easilyBaffled.github.io/yt-casting/static/Settling woodworking&apos;s biggest controversy_ EPOXY.mp3" length="16315293" type="audio/mpeg"/>
-            <itunes:image>https://i.ytimg.com/vi/kXRi1rKtWqg/maxresdefault.jpg</itunes:image>
+ending theme: 
+Artist: Causmic
+Title: Much Higher
+https://www.youtube.com/watch?v=tX7wp677x_8]]></description>
+            <link>https://easilyBaffled.github.io/yt-casting/static/Okarun x Momo_ Romance Done Right.mp3</link>
+            <guid isPermaLink="false">tX7wp677x_8</guid>
+            <dc:creator><![CDATA[Sarcastic Chorus]]></dc:creator>
+            <pubDate>Sat, 27 Sep 2025 18:40:05 GMT</pubDate>
+            <enclosure url="https://easilyBaffled.github.io/yt-casting/static/Okarun x Momo_ Romance Done Right.mp3" length="42516237" type="audio/mpeg"/>
+            <itunes:image>https://i.ytimg.com/vi/tX7wp677x_8/maxresdefault.jpg</itunes:image>
         </item>
     </channel>
 </rss>
