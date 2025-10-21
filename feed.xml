@@ -4,7 +4,18 @@
         <description><![CDATA[A private feed of YouTube videos converted to audio]]></description>
         <link>https://easilyBaffled.github.io/yt-casting/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Oct 2025 15:02:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Oct 2025 18:31:12 GMT</lastBuildDate>
         <atom:link href="https://easilyBaffled.github.io/yt-casting/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is Superman "important?"]]></title>
+            <description><![CDATA[Is this still a wrestling podcast? I had too much coffee in this one. 3MNB - featuring Molombo! Follow him! @hey_molombo on Insta! or me @uptomyknees1985 on insta too
+https://www.youtube.com/watch?v=x3zXmgTWGF4]]></description>
+            <link>https://easilyBaffled.github.io/yt-casting/static/Is Superman _important__.mp3</link>
+            <guid isPermaLink="false">x3zXmgTWGF4</guid>
+            <dc:creator><![CDATA[Uptomyknees]]></dc:creator>
+            <pubDate>Tue, 21 Oct 2025 18:30:46 GMT</pubDate>
+            <enclosure url="https://easilyBaffled.github.io/yt-casting/static/Is Superman _important__.mp3" length="45680637" type="audio/mpeg"/>
+            <itunes:image>https://i.ytimg.com/vi/x3zXmgTWGF4/maxresdefault.jpg</itunes:image>
+        </item>
     </channel>
 </rss>
