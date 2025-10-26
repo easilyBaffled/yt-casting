@@ -4,18 +4,7 @@
         <description><![CDATA[A private feed of YouTube videos converted to audio]]></description>
         <link>https://easilyBaffled.github.io/yt-casting/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Oct 2025 14:44:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Oct 2025 00:11:24 GMT</lastBuildDate>
         <atom:link href="https://easilyBaffled.github.io/yt-casting/feed.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Sora Proves the AI Bubble Is Going to Burst So Hard]]></title>
-            <description><![CDATA[The world economy might go right down the toilet along with Sam Altman's AI head.
-https://www.youtube.com/watch?v=55Z4cg5Fyu4]]></description>
-            <link>https://easilyBaffled.github.io/yt-casting/static/Sora Proves the AI Bubble Is Going to Burst So Hard.mp3</link>
-            <guid isPermaLink="false">55Z4cg5Fyu4</guid>
-            <dc:creator><![CDATA[Adam Conover]]></dc:creator>
-            <pubDate>Wed, 22 Oct 2025 14:44:24 GMT</pubDate>
-            <enclosure url="https://easilyBaffled.github.io/yt-casting/static/Sora Proves the AI Bubble Is Going to Burst So Hard.mp3" length="17552109" type="audio/mpeg"/>
-            <itunes:image>https://i.ytimg.com/vi/55Z4cg5Fyu4/maxresdefault.jpg</itunes:image>
-        </item>
     </channel>
 </rss>
