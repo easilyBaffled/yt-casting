@@ -154,5 +154,13 @@
   {
     url: "https://www.youtube.com/watch?v=VYY-UphIqQA",
     processed: false
+  },
+  {
+    url: "https://www.youtube.com/watch?app=desktop&v=5CKuiuc5cJM",
+    processed: false
+  },
+  {
+    url: "https://www.youtube.com/watch?app=desktop&v=mL8rZf2fZYY",
+    processed: false
   }
 ]
