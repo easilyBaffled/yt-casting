@@ -2,7 +2,9 @@ import fs from 'fs';
 import RSS from 'rss';
 import { download } from './download.js';
 
-const urls = JSON.parse(fs.readFileSync('youtube_urls.json', 'utf8'));
+const file = fs.readFileSync('youtube_urls.json', 'utf8');
+console.log(file)
+const urls = JSON.parse(file);
 
 const feed = new RSS({
   title: 'My Personal YouTube to MP3 Feed',
