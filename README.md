@@ -53,7 +53,7 @@ The workflow automates the process on every push to the `gh-pages` branch. It in
 For age-restricted/private videos, export your YouTube cookies as a header string and set it as the `YT_COOKIES_RAW` secret in your repository. The script will use this for authenticated downloads.
 
 ## SABR Streaming
-If a video is SABR-protected, yt-dlp cannot download it. The script will mark such videos with `SABR: true` in `youtube_urls.json` and leave `processed: false`.
+When YouTube forces SABR streaming, `yt-dlp` returns a failure. The download script now retries automatically with alternate YouTube client profiles (`android` and `web_creator`) before giving up. If every strategy fails, the video is flagged with `SABR: true` in `youtube_urls.json` and left with `processed: false` so you can decide on a manual workaround.
 
 ## Output
 - MP3 files: `static/`

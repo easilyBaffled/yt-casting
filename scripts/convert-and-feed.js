@@ -64,8 +64,9 @@ async function main() {
         // SABR detection
         if (
           err &&
-          typeof err.message === "string" &&
-          err.message.includes("SABR streaming detected")
+          ((typeof err.message === "string" &&
+            err.message.includes("SABR streaming detected")) ||
+            err.code === "SABR_STREAM")
         ) {
           console.warn(`[convert-and-feed.js] SABR streaming detected for ${id}. Marking as SABR.`);
           entry.SABR = true;
