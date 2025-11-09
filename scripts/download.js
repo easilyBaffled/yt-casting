@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, writeFileSync, statSync } from "fs";
+import { existsSync, mkdirSync, writeFileSync, statSync, unlinkSync } from "fs";
 import { exec } from "child_process";
 import { promisify } from "util";
 const execAsync = promisify(exec);
@@ -32,6 +32,38 @@ function cookieHeaderToNetscape(cookieHeader, domain = ".youtube.com") {
   return lines.join("\n");
 }
 
+const SABR_ERROR_SNIPPET = "YouTube is forcing SABR streaming";
+
+const DOWNLOAD_STRATEGIES = [
+  {
+    name: "default",
+    extractorArgs: "",
+  },
+  {
+    name: "android-client",
+    extractorArgs: '--extractor-args "youtube:player_client=android"',
+  },
+  {
+    name: "web-creator-client",
+    extractorArgs: '--extractor-args "youtube:player_client=web_creator"',
+  },
+];
+
+function buildCommand(baseArgs, strategy, cookieFile, url) {
+  const parts = [baseArgs];
+  if (strategy.extractorArgs)
+    parts.push(strategy.extractorArgs);
+  if (cookieFile)
+    parts.push(`--cookies ${cookieFile}`);
+  if (url)
+    parts.push(`"${url}"`);
+  return parts
+    .filter(Boolean)
+    .join(" ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 export async function download(videoId) {
   console.log(`[download.js] Starting download for videoId: ${videoId}`);
   const dir = "./static";
@@ -50,7 +82,12 @@ export async function download(videoId) {
   }
 
   // Fetch metadata first
-  const infoCmd = `yt-dlp --dump-json ${cookie ? `--cookies ${cookieFile}` : ""} "${url}"`;
+  const infoCmd = buildCommand(
+    "yt-dlp --dump-json",
+    DOWNLOAD_STRATEGIES[0],
+    cookieFile,
+    url,
+  );
   let info;
   try {
     console.log(`[download.js] Fetching video metadata with command: ${infoCmd}`);
@@ -71,48 +108,101 @@ export async function download(videoId) {
 
   const safeTitle = sanitizeFileName(info.title);
   const output = `${dir}/${safeTitle}.mp3`;
-  const dlCmd = `yt-dlp -x --audio-format mp3 -o "${output}" ${cookie ? `--cookies ${cookieFile}` : ""} "${url}"`;
-  console.log(`[download.js] Downloading audio with command: ${dlCmd}`);
-  try {
-    const { stdout, stderr } = await execAsync(dlCmd);
-    if (stderr)
-      console.error(`[download.js] yt-dlp download stderr:`, stderr);
+  let lastError = null;
+  let sabrDetected = false;
 
-    if (stderr && stderr.includes("YouTube is forcing SABR streaming")) {
-      console.error(`[download.js] SABR streaming detected for videoId: ${videoId}. Download not possible.`);
-      throw new Error("SABR streaming detected. yt-dlp cannot download this video.");
-    }
+  for (const strategy of DOWNLOAD_STRATEGIES) {
+    const dlCmd = buildCommand(
+      `yt-dlp -x --audio-format mp3 -o "${output}"`,
+      strategy,
+      cookieFile,
+      url,
+    );
+    console.log(
+      `[download.js] Attempting download with strategy '${strategy.name}' using command: ${dlCmd}`,
+    );
 
-    if (!existsSync(output)) {
-      console.error(`[download.js] ERROR: yt-dlp did not produce output file: ${output}`);
+    try {
+      if (existsSync(output)) {
+        unlinkSync(output);
+      }
+
+      const { stdout, stderr } = await execAsync(dlCmd);
+      if (stderr)
+        console.error(`[download.js] yt-dlp download stderr (${strategy.name}):`, stderr);
+
+      if (stderr && stderr.includes(SABR_ERROR_SNIPPET)) {
+        sabrDetected = true;
+        console.error(
+          `[download.js] SABR streaming detected with strategy '${strategy.name}' for videoId: ${videoId}. Trying next strategy if available.`,
+        );
+        continue;
+      }
+
+      if (!existsSync(output)) {
+        const errorMessage = `[download.js] yt-dlp did not produce output file: ${output}`;
+        console.error(errorMessage);
+        console.error(`[download.js] Command: ${dlCmd}`);
+        console.error(`[download.js] yt-dlp stdout:`, stdout);
+        console.error(`[download.js] yt-dlp stderr:`, stderr);
+        lastError = new Error(errorMessage);
+        continue;
+      }
+
+      const stats = statSync(output);
+      console.log(
+        `[download.js] Download complete using strategy '${strategy.name}': ${output} (${stats.size} bytes)`,
+      );
+
+      return {
+        filePath: output,
+        basic_info: {
+          title: info.title,
+          description:
+            `${info.description || info.fulltitle || "No description available."}\n${url}`,
+          publish_date: new Date(),
+          author: info.uploader || info.channel,
+          thumbnail: info.thumbnail || "",
+        },
+        videoId,
+        size: stats.size,
+      };
+    } catch (error) {
+      console.error(
+        `[download.js] ERROR: Download attempt with strategy '${strategy.name}' failed for videoId: ${videoId}`,
+      );
       console.error(`[download.js] Command: ${dlCmd}`);
-      console.error(`[download.js] yt-dlp stdout:`, stdout);
-      console.error(`[download.js] yt-dlp stderr:`, stderr);
-      throw new Error(`[download.js] yt-dlp did not produce output file: ${output}`);
-    }
-    const stats = statSync(output);
-    console.log(`[download.js] Download complete: ${output} (${stats.size} bytes)`);
+      if (error && error.stderr)
+        console.error(`[download.js] yt-dlp download stderr (${strategy.name}):`, error.stderr);
+      if (error && error.stdout)
+        console.error(`[download.js] yt-dlp download stdout (${strategy.name}):`, error.stdout);
+      if (error && error.stack) console.error(`[download.js] Error stack:`, error.stack);
+      else console.error(`[download.js] Error:`, error);
 
-    return {
-      filePath: output,
-      basic_info: {
-        title: info.title,
-        description:
-          `${info.description || info.fulltitle || "No description available."}\n${url}`,
-        publish_date: new Date(),
-        author: info.uploader || info.channel,
-        thumbnail: info.thumbnail || "",
-      },
-      videoId,
-      size: stats.size,
-    };
-  } catch (error) {
-    console.error(`[download.js] ERROR: Failed to download audio for videoId: ${videoId}`);
-    console.error(`[download.js] Command: ${dlCmd}`);
-    if (error && error.stderr) console.error(`[download.js] yt-dlp download stderr:`, error.stderr);
-    if (error && error.stdout) console.error(`[download.js] yt-dlp download stdout:`, error.stdout);
-    if (error && error.stack) console.error(`[download.js] Error stack:`, error.stack);
-    else console.error(`[download.js] Error:`, error);
+      const message = typeof error?.message === "string" ? error.message : "";
+      if (message.includes(SABR_ERROR_SNIPPET)) {
+        sabrDetected = true;
+        continue;
+      }
+
+      lastError = error;
+    }
+  }
+
+  const baseErrorMessage =
+    "SABR streaming detected. yt-dlp cannot download this video after trying fallback strategies.";
+  if (sabrDetected) {
+    const error = new Error(baseErrorMessage);
+    error.code = "SABR_STREAM";
     throw error;
   }
+
+  if (lastError) {
+    throw lastError;
+  }
+
+  const unknownError = new Error(
+    "yt-dlp failed to download the video and no specific error information was captured.",
+  );
+  throw unknownError;
 }
