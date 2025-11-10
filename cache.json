@@ -1,0 +1,362 @@
+{
+  "sources": [
+    {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": []
+    },
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=385769",
+          "author": "Geoff Graham",
+          "description": "Why should you use a semantic <button> instead of a generic <div>? Accessibility, right? By how exactly does it help accessibility?\nExplaining the Accessible Benefits of Using Semantic HTML Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/explaining-the-accessible-benefits-of-using-semantic-html-elements/",
+          "publishedOn": "2025-11-06T15:57:49.000Z",
+          "wordCount": 2352,
+          "title": "Explaining the Accessible Benefits of Using Semantic HTML Elements",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/11/screaming-button.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=389842",
+          "author": "Juan Diego Rodríguez",
+          "description": "Last time, we discussed that, sadly, according to the State of CSS 2025 survey, trigonometric functions are deemed the “Most Hated” CSS feature.\nThat shocked me. I may have even been a little offended, being a math nerd and …\nThe “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-most-hated-css-feature-tan/",
+          "publishedOn": "2025-11-03T16:03:08.000Z",
+          "wordCount": 3548,
+          "title": "The “Most Hated” CSS Feature: tan()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/trig-tangent-graph.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390031",
+          "author": "Andy Clarke",
+          "description": "On mobile, people can lose their sense of context and can’t easily tell where a section begins or ends. Good small-screen design can help orient them using a variety of techniques.\nGetting Creative With Small Screens originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-creative-with-small-screens/",
+          "publishedOn": "2025-10-29T16:22:28.000Z",
+          "wordCount": 3688,
+          "title": "Getting Creative With Small Screens",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/s_E63F027435C482D5813799164A830B3E060276A78A7A02CCD5EC79D53323A5B8_1761081109189_2025-10-21-8.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=389805",
+          "author": "Silvestar Bistrović",
+          "description": "Can we use the <details> element as the foundation for a tabbed interface? Why yes, we can!\nPure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/pure-css-tabs-with-details-grid-and-subgrid/",
+          "publishedOn": "2025-10-27T14:33:17.000Z",
+          "wordCount": 3261,
+          "title": "Pure CSS Tabs With Details, Grid, and Subgrid",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/10/demo-1.mp4",
+            "length": "60442",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/details-tabs-subgrid.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=389794",
+          "author": "Preethi",
+          "description": "When we change an element’s intrinsic sizing, its children are affected, too. This is something we can use to our advantage.\nCSS Animations That Leverage the Parent-Child Relationship originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-animations-that-leverage-the-parent-child-relationship/",
+          "publishedOn": "2025-10-24T14:18:03.000Z",
+          "wordCount": 2511,
+          "title": "CSS Animations That Leverage the Parent-Child Relationship",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/10/overlapping-circle-animation.mov",
+            "length": "782608",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/10/motion-blur.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=389961",
+          "author": "Mat Marquis",
+          "description": "A thorough but approachable lesson on JavaScript expressions excerpted JavaScript For Everyone, a complete online course offered by our friends at Piccalilli.\nAn Introduction to JavaScript Expressions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/an-introduction-to-javascript-expressions/",
+          "publishedOn": "2025-10-22T19:08:23.000Z",
+          "wordCount": 4302,
+          "title": "An Introduction to JavaScript Expressions",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/javascript-for-everyone-scaled.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=388560",
+          "author": "Zell Liew",
+          "description": "Honeypots are fields that developers use to prevent spam submissions. They still work in 2025. But you got to set a couple of tricks in place so spambots can’t detect your honeypot field.\nBuilding a Honeypot Field That Works originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/building-a-honeypot-field-that-works/",
+          "publishedOn": "2025-10-20T16:11:40.000Z",
+          "wordCount": 2755,
+          "title": "Building a Honeypot Field That Works",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/04/sticky-header.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=389737",
+          "author": "Temani Afif",
+          "description": "Let’s suppose you have N elements with the same animation that should animate sequentially. Modern CSS makes this easy and it works for any number of items!\nSequential linear() Animation With N Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/sequential-linear-animation-with-n-elements/",
+          "publishedOn": "2025-10-15T13:39:39.000Z",
+          "wordCount": 3536,
+          "title": "Sequential linear() Animation With N Elements",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/10/sequential-2.mov",
+            "length": "310986",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/sequential-thumb.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=389636",
+          "author": "Saleh Mubashar",
+          "description": "What can CSS Masonry discussions teach us about the development of new CSS features? What is the CSSWG’s role? What influence do browsers have? What can learn from the way past features evolved?\nMasonry: Watching a CSS Feature Evolve originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/masonry-watching-a-css-feature-evolve/",
+          "publishedOn": "2025-10-13T14:31:35.000Z",
+          "wordCount": 3589,
+          "title": "Masonry: Watching a CSS Feature Evolve",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/08/css-tricks-logo-blur.png"
+        }
+      ]
+    },
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.",
+          "link": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
+          "publishedOn": "2025-11-07T15:00:00.000Z",
+          "wordCount": 4725,
+          "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Let’s dive into the building blocks of UX strategy and see how it speaks the language of product and business strategy to create user value while achieving company goals. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).",
+          "link": "https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/",
+          "publishedOn": "2025-11-05T13:00:00.000Z",
+          "wordCount": 3929,
+          "title": "Six Key Components of UX Strategy",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/key-components-ux-strategy/practical-guide-ux-strategy.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/key-components-ux-strategy/practical-guide-ux-strategy.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/",
+          "author": "hello@smashingmagazine.com (Daniel Schwarz)",
+          "description": "With component variants, design systems become more flexible, letting you reuse the same component while adapting its look or state with ease. In this article, Daniel Schwarz demonstrates how design tokens can be leveraged to manage components and their variations using Penpot, the open-source tool built for scalable, consistent design.",
+          "link": "https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/",
+          "publishedOn": "2025-11-04T10:00:00.000Z",
+          "wordCount": 4411,
+          "title": "How To Leverage Component Variants In Penpot",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-leverage-component-variants-penpot/how-leverage-component-variants-penpot.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-leverage-component-variants-penpot/how-leverage-component-variants-penpot.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
+          "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
+          "publishedOn": "2025-10-31T12:00:00.000Z",
+          "wordCount": 4877,
+          "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
+          "author": "hello@smashingmagazine.com (Mat Marquis)",
+          "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
+          "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
+          "publishedOn": "2025-10-27T13:00:00.000Z",
+          "wordCount": 4460,
+          "title": "JavaScript For Everyone: Iterators",
+          "imageUrl": "https:null"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.",
+          "link": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
+          "publishedOn": "2025-10-22T13:00:00.000Z",
+          "wordCount": 4586,
+          "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
+          "imageUrl": "https:null"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.",
+          "link": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
+          "publishedOn": "2025-10-17T08:00:00.000Z",
+          "wordCount": 5830,
+          "title": "AI In UX: Achieve More With Less",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ai-ux-achieve-more-with-less/ai-ux-achieve-more-with-less.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ai-ux-achieve-more-with-less/ai-ux-achieve-more-with-less.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Research isn’t everything. Facts alone don’t win arguments, but powerful stories do. Here’s how to turn your research into narratives that inspire trust and influence decisions.",
+          "link": "https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/",
+          "publishedOn": "2025-10-16T13:00:00.000Z",
+          "wordCount": 3858,
+          "title": "How To Make Your UX Research Hard To Ignore",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-make-ux-research-hard-to-ignore/how-make-ux-research-hard-to-ignore.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-make-ux-research-hard-to-ignore/how-make-ux-research-hard-to-ignore.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/10/the-grayscale-problem/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital Levittown. But it doesn’t have to be.",
+          "link": "https://smashingmagazine.com/2025/10/the-grayscale-problem/",
+          "publishedOn": "2025-10-13T10:00:00.000Z",
+          "wordCount": 4573,
+          "title": "The Grayscale Problem",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/the-grayscale-problem/the-grayscale-problem.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/the-grayscale-problem/the-grayscale-problem.jpg"
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news/",
+      "articles": [
+        {
+          "id": "690e629981a4964f4b12b422",
+          "author": "Manish Shivanandhan",
+          "description": "In the age of online privacy, two tools are often mentioned together: VPNs and proxies. Both hide your IP address and help you browse the internet more privately, but they work in different ways and serve different purposes. From simple security to w...",
+          "link": "https://www.freecodecamp.org/news/vpns-vs-proxies-what-are-the-differences/",
+          "publishedOn": "2025-11-07T21:20:25.000Z",
+          "wordCount": 2055,
+          "title": "VPNs vs Proxies: What are the Differences?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762549605269/165d4e53-a54e-46b7-95b6-f2b76bcdfc53.png"
+        },
+        {
+          "id": "690e2801500cb51e735b5a9c",
+          "author": "Nikheel Vishwas Savant",
+          "description": "Introduction: Why Bluetooth Still Matters You probably don’t even think about Bluetooth anymore. It’s just there, quietly doing its job every single day. It’s what keeps your earbuds connected, your smartwatch synced, your car infotainment system tal...",
+          "link": "https://www.freecodecamp.org/news/the-state-of-bluetooth-whats-new-whats-possible-and-how-to-use-it/",
+          "publishedOn": "2025-11-07T17:10:25.000Z",
+          "wordCount": 8061,
+          "title": "The State of Bluetooth in 2025: What’s New, What’s Possible, and How to Use It",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762533537259/3f9dec8a-690b-4fd8-a0a7-8e6b2667e55c.png"
+        },
+        {
+          "id": "690e27b0ca4947acbefbd755",
+          "author": "Surya Teja Appini",
+          "description": "When you start building with LLMs, it quickly becomes clear that not all models behave the same. One model may excel at creative writing but struggle with technical precision. Another might be thoughtful yet verbose. A third could be fast and efficie...",
+          "link": "https://www.freecodecamp.org/news/choose-the-right-llm-for-your-projects-benchmarking-guide/",
+          "publishedOn": "2025-11-07T17:09:04.000Z",
+          "wordCount": 3376,
+          "title": "How to Choose the Right LLM for Your Projects: A Guide to Effective Model Benchmarking",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762534383880/404f27c6-2995-4daa-bcac-c61b10e93abc.png"
+        },
+        {
+          "id": "690e1f43cb50ea9684f6d9aa",
+          "author": "OMOTAYO OMOYEMI",
+          "description": "When I started my research on AI systems that could translate Makaton (a sign and symbol language designed to support speech and communication), I wanted to bridge a gap in accessibility for learners with speech or language difficulties. Over time, t...",
+          "link": "https://www.freecodecamp.org/news/how-i-built-a-makaton-ai-companion-using-gemini-nano-and-the-gemini-api/",
+          "publishedOn": "2025-11-07T16:33:07.000Z",
+          "wordCount": 5701,
+          "title": "How I Built a Makaton AI Companion Using Gemini Nano and the Gemini API",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762533154134/e2209ade-6971-464b-aeef-f05abd0a30d7.png"
+        },
+        {
+          "id": "690e0d2661d96baa3c583c80",
+          "author": "Beau Carnes",
+          "description": "Abbey Perini taught herself programming at age 27 while working as an admin at an engineering recruitment agency. She has worked extensively with large legacy codebases and taught best practices to developers internationally. We talk about: How to h...",
+          "link": "https://www.freecodecamp.org/news/applying-into-the-void-with-recruiter-admin-abbey-perini-podcast-196/",
+          "publishedOn": "2025-11-07T15:15:50.000Z",
+          "wordCount": 1334,
+          "title": "Applying into the void with recruiter admin Abbey Perini [Podcast #196]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762479547201/349a72fd-5c01-4191-883f-91735d72cae3.jpeg"
+        },
+        {
+          "id": "690e02f392fcbf371b6e1b9d",
+          "author": "Casmir Onyekani",
+          "description": "As a developer who aspires to be a founder, building your first startup can be filled with excitement and ideas. The worst thing that could happen to you is jumping straight into the coding part. I was in this situation and the last thing on my mind ...",
+          "link": "https://www.freecodecamp.org/news/how-to-structure-your-readme-file/",
+          "publishedOn": "2025-11-07T14:32:19.000Z",
+          "wordCount": 2815,
+          "title": "How to Structure Your README File – README Template Example",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762523233143/4555ff83-b390-4cb2-b6de-acea129de4b1.png"
+        },
+        {
+          "id": "690ce6ccd9dcaa769b671c7e",
+          "author": "Beau Carnes",
+          "description": "Learn to play the guitar! We just posted a course on the freeCodeCamp.org YouTube channel that will teach you essential guitar theory including the fretboard, the major scale and the triads. It was created by baritone guitarist, Alex Gordon Hi-Fi. He...",
+          "link": "https://www.freecodecamp.org/news/guitar-theory-course-for-beginners-learn-fretboard-major-scale-and-triads/",
+          "publishedOn": "2025-11-06T18:19:56.000Z",
+          "wordCount": 1080,
+          "title": "Guitar Theory Course for Beginners – Learn Fretboard, Major Scale and Triads",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762453168574/3b0a237a-f4ab-4a89-a787-443ec1239e5a.jpeg"
+        },
+        {
+          "id": "690c78446959d1f714d81d45",
+          "author": "Chukwudi Nweze",
+          "description": "Have you ever wondered why some websites load almost immediately and others leave you looking at a blank screen, even when your internet connection is fast? In some cases, your internet speed may not be the issue. It is usually because of Round Trip ...",
+          "link": "https://www.freecodecamp.org/news/how-to-reduce-round-trip-time-rtt-with-nextjs/",
+          "publishedOn": "2025-11-06T10:28:20.000Z",
+          "wordCount": 3107,
+          "title": "How to Reduce Round Trip Time (RTT) with Next.js",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762424304223/4d818ff7-0fe2-448d-8acd-3da092bc55a4.png"
+        },
+        {
+          "id": "690bd280e9ceb53e15668053",
+          "author": "Beau Carnes",
+          "description": "We just posted a course on the freeCodeCamp.org YouTube channel that will teach you all about cryptography. You'll learn essential techniques like hashing (SHA-256) for verifying file integrity, symmetric encryption (AES), and asymmetric encryption (...",
+          "link": "https://www.freecodecamp.org/news/cryptography-for-beginners-full-python-course-sha-256-aes-rsa-passwords/",
+          "publishedOn": "2025-11-05T22:41:04.000Z",
+          "wordCount": 1100,
+          "title": "Cryptography for Beginners: Full Python Course (SHA-256, AES, RSA, Passwords)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762382425137/9fb68a83-e3ca-41a2-a1c0-ed203bae83b4.jpeg"
+        },
+        {
+          "id": "690bd1964ffa7599421226c5",
+          "author": "Beau Carnes",
+          "description": "Learn Creative Web Development with Three.js and Blender. freeCodeCamp just posted a beginner-friendly course that will teach you to create an immersive 3D portfolio. You'll begin by diving into Blender to learn the fundamentals of 3D modeling. With ...",
+          "link": "https://www.freecodecamp.org/news/creative-web-development-with-threejs-and-blender/",
+          "publishedOn": "2025-11-05T22:37:10.000Z",
+          "wordCount": 1115,
+          "title": "Creative Web Development with Three.js and Blender",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762382219109/2fe68963-cb45-4bc5-add9-6ba3351664f3.jpeg"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.15.1"
+}
