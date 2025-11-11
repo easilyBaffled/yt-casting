@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389885",
+          "author": "Geoff Graham",
+          "description": "A few links about headings that I've had stored under my top hat.\nHeadings: Semantics, Fluidity, and Styling — Oh My! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/headings-semantics-fluidity-and-styling-oh-my/",
+          "publishedOn": "2025-11-10T14:44:13.000Z",
+          "wordCount": 2534,
+          "title": "Headings: Semantics, Fluidity, and Styling — Oh My!",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/10/fluid-heading.mov",
+            "length": "6253881",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/heading-levels-h1-h3.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=385769",
           "author": "Geoff Graham",
           "description": "Why should you use a semantic <button> instead of a generic <div>? Accessibility, right? By how exactly does it help accessibility?\nExplaining the Accessible Benefits of Using Semantic HTML Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -27,7 +42,7 @@
           "description": "Last time, we discussed that, sadly, according to the State of CSS 2025 survey, trigonometric functions are deemed the “Most Hated” CSS feature.\nThat shocked me. I may have even been a little offended, being a math nerd and …\nThe “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-most-hated-css-feature-tan/",
           "publishedOn": "2025-11-03T16:03:08.000Z",
-          "wordCount": 3548,
+          "wordCount": 3663,
           "title": "The “Most Hated” CSS Feature: tan()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/trig-tangent-graph.png"
         },
@@ -129,7 +144,7 @@
           "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.",
           "link": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
           "publishedOn": "2025-11-07T15:00:00.000Z",
-          "wordCount": 4725,
+          "wordCount": 4714,
           "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg",
@@ -174,7 +189,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
           "publishedOn": "2025-10-31T12:00:00.000Z",
-          "wordCount": 4877,
+          "wordCount": 4759,
           "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -189,7 +204,7 @@
           "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
           "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
           "publishedOn": "2025-10-27T13:00:00.000Z",
-          "wordCount": 4460,
+          "wordCount": 4451,
           "title": "JavaScript For Everyone: Iterators",
           "imageUrl": "https:null"
         },
@@ -199,7 +214,7 @@
           "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.",
           "link": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
           "publishedOn": "2025-10-22T13:00:00.000Z",
-          "wordCount": 4586,
+          "wordCount": 4710,
           "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
           "imageUrl": "https:null"
         },
@@ -209,7 +224,7 @@
           "description": "A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.",
           "link": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
           "publishedOn": "2025-10-17T08:00:00.000Z",
-          "wordCount": 5830,
+          "wordCount": 5829,
           "title": "AI In UX: Achieve More With Less",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-ux-achieve-more-with-less/ai-ux-achieve-more-with-less.jpg",
@@ -239,7 +254,7 @@
           "description": "From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital Levittown. But it doesn’t have to be.",
           "link": "https://smashingmagazine.com/2025/10/the-grayscale-problem/",
           "publishedOn": "2025-10-13T10:00:00.000Z",
-          "wordCount": 4573,
+          "wordCount": 4565,
           "title": "The Grayscale Problem",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-grayscale-problem/the-grayscale-problem.jpg",
@@ -255,6 +270,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "691256ca726af9fcf5543027",
+          "author": "Manish Shivanandhan",
+          "description": "Running a large language model (LLM) on your computer is now easier than ever. You no longer need a cloud subscription or a massive server. With just your PC, you can run models like Llama, Mistral, or Phi, privately and offline. This guide will show...",
+          "link": "https://www.freecodecamp.org/news/how-to-run-an-open-source-llm-on-your-personal-computer-run-ollama-locally/",
+          "publishedOn": "2025-11-10T21:19:06.000Z",
+          "wordCount": 2175,
+          "title": "How To Run an Open-Source LLM on Your Personal Computer – Run Ollama Locally",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762809417189/37e154b9-9bf0-4210-921a-4722cd448b09.png"
+        },
+        {
+          "id": "691228d49872f01b424e3353",
+          "author": "Beau Carnes",
+          "description": "Vue.js is a progressive JavaScript framework for building user interfaces and single-page applications. Loved for its simplicity, flexibility, and performance, it allows developers to start small and scale up to complex applications with ease. Whethe...",
+          "link": "https://www.freecodecamp.org/news/learn-vuejs-javascript-framework-course/",
+          "publishedOn": "2025-11-10T18:03:00.000Z",
+          "wordCount": 1041,
+          "title": "Learn Vue.js – JavaScript Framework Course",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762797723327/7e67725a-1f0c-48fa-ad5c-173495b0ffeb.jpeg"
+        },
         {
           "id": "690e629981a4964f4b12b422",
           "author": "Manish Shivanandhan",
@@ -334,26 +369,6 @@
           "wordCount": 3107,
           "title": "How to Reduce Round Trip Time (RTT) with Next.js",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762424304223/4d818ff7-0fe2-448d-8acd-3da092bc55a4.png"
-        },
-        {
-          "id": "690bd280e9ceb53e15668053",
-          "author": "Beau Carnes",
-          "description": "We just posted a course on the freeCodeCamp.org YouTube channel that will teach you all about cryptography. You'll learn essential techniques like hashing (SHA-256) for verifying file integrity, symmetric encryption (AES), and asymmetric encryption (...",
-          "link": "https://www.freecodecamp.org/news/cryptography-for-beginners-full-python-course-sha-256-aes-rsa-passwords/",
-          "publishedOn": "2025-11-05T22:41:04.000Z",
-          "wordCount": 1100,
-          "title": "Cryptography for Beginners: Full Python Course (SHA-256, AES, RSA, Passwords)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762382425137/9fb68a83-e3ca-41a2-a1c0-ed203bae83b4.jpeg"
-        },
-        {
-          "id": "690bd1964ffa7599421226c5",
-          "author": "Beau Carnes",
-          "description": "Learn Creative Web Development with Three.js and Blender. freeCodeCamp just posted a beginner-friendly course that will teach you to create an immersive 3D portfolio. You'll begin by diving into Blender to learn the fundamentals of 3D modeling. With ...",
-          "link": "https://www.freecodecamp.org/news/creative-web-development-with-threejs-and-blender/",
-          "publishedOn": "2025-11-05T22:37:10.000Z",
-          "wordCount": 1115,
-          "title": "Creative Web Development with Three.js and Blender",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762382219109/2fe68963-cb45-4bc5-add9-6ba3351664f3.jpeg"
         }
       ]
     }

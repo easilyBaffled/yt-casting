@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-10T00:36:03.295Z</id>
+    <id>urn:2025-11-11T00:34:32.789Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-10T00:36:03.295Z</updated>
+    <updated>2025-11-11T00:34:32.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How To Run an Open-Source LLM on Your Personal Computer – Run Ollama Locally]]></title>
+        <id>691256ca726af9fcf5543027</id>
+        <link href="https://www.freecodecamp.org/news/how-to-run-an-open-source-llm-on-your-personal-computer-run-ollama-locally/"/>
+        <updated>2025-11-10T21:19:06.000Z</updated>
+        <summary type="html"><![CDATA[Running a large language model (LLM) on your computer is now easier than ever. You no longer need a cloud subscription or a massive server. With just your PC, you can run models like Llama, Mistral, or Phi, privately and offline. This guide will show...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Vue.js – JavaScript Framework Course]]></title>
+        <id>691228d49872f01b424e3353</id>
+        <link href="https://www.freecodecamp.org/news/learn-vuejs-javascript-framework-course/"/>
+        <updated>2025-11-10T18:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Vue.js is a progressive JavaScript framework for building user interfaces and single-page applications. Loved for its simplicity, flexibility, and performance, it allows developers to start small and scale up to complex applications with ease. Whethe...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Headings: Semantics, Fluidity, and Styling — Oh My!]]></title>
+        <id>https://css-tricks.com/?p=389885</id>
+        <link href="https://css-tricks.com/headings-semantics-fluidity-and-styling-oh-my/"/>
+        <updated>2025-11-10T14:44:13.000Z</updated>
+        <summary type="html"><![CDATA[A few links about headings that I've had stored under my top hat.
+Headings: Semantics, Fluidity, and Styling — Oh My! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VPNs vs Proxies: What are the Differences?]]></title>
         <id>690e629981a4964f4b12b422</id>
@@ -104,26 +135,6 @@ Explaining the Accessible Benefits of Using Semantic HTML Elements originally pu
         <summary type="html"><![CDATA[Have you ever wondered why some websites load almost immediately and others leave you looking at a blank screen, even when your internet connection is fast? In some cases, your internet speed may not be the issue. It is usually because of Round Trip ...]]></summary>
         <author>
             <name>Chukwudi Nweze</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptography for Beginners: Full Python Course (SHA-256, AES, RSA, Passwords)]]></title>
-        <id>690bd280e9ceb53e15668053</id>
-        <link href="https://www.freecodecamp.org/news/cryptography-for-beginners-full-python-course-sha-256-aes-rsa-passwords/"/>
-        <updated>2025-11-05T22:41:04.000Z</updated>
-        <summary type="html"><![CDATA[We just posted a course on the freeCodeCamp.org YouTube channel that will teach you all about cryptography. You'll learn essential techniques like hashing (SHA-256) for verifying file integrity, symmetric encryption (AES), and asymmetric encryption (...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creative Web Development with Three.js and Blender]]></title>
-        <id>690bd1964ffa7599421226c5</id>
-        <link href="https://www.freecodecamp.org/news/creative-web-development-with-threejs-and-blender/"/>
-        <updated>2025-11-05T22:37:10.000Z</updated>
-        <summary type="html"><![CDATA[Learn Creative Web Development with Three.js and Blender. freeCodeCamp just posted a beginner-friendly course that will teach you to create an immersive 3D portfolio. You'll begin by diving into Blender to learn the fundamentals of 3D modeling. With ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
