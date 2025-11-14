@@ -1,10 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-13T00:33:54.603Z</id>
+    <id>urn:2025-11-14T00:34:39.786Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-13T00:33:54.603Z</updated>
+    <updated>2025-11-14T00:34:39.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[From Pixels to Predictions: How GPUs Started Powering Modern AI]]></title>
+        <id>69164b0a612455db63b30bdc</id>
+        <link href="https://www.freecodecamp.org/news/from-pixels-to-predictions-how-gpus-started-powering-modern-ai/"/>
+        <updated>2025-11-13T21:18:02.000Z</updated>
+        <summary type="html"><![CDATA[When people think of artificial intelligence, they imagine complex models, data centers, and cloud servers.  What most don’t realize is that the real engine behind this AI revolution started in a place few expected: inside the humble gaming PC.  The ...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Bluetooth Socket Settings Power Android’s Low Power Island: A Friendly Deep Dive into AOSP’s Hidden Energy Saver]]></title>
+        <id>69164aadd6505b750fa4b659</id>
+        <link href="https://www.freecodecamp.org/news/how-bluetooth-socket-settings-power-androids-low-power-island-a-friendly-deep-dive-into-aosps-hidden-energy-saver/"/>
+        <updated>2025-11-13T21:16:29.000Z</updated>
+        <summary type="html"><![CDATA[Picture this: you’re sitting in a café with your laptop open, phone on the table, smartwatch buzzing every few minutes, and Bluetooth earbuds playing music. From your perspective, life is peaceful. From your phone’s perspective, it’s juggling a ridic...]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Secret Life of Your CPU: Exploring the Low Power Island in Android Bluetooth]]></title>
+        <id>69164a5b08d80a5fa5d56f1e</id>
+        <link href="https://www.freecodecamp.org/news/the-secret-life-of-your-cpu-exploring-the-low-power-island-in-android-bluetooth/"/>
+        <updated>2025-11-13T21:15:07.000Z</updated>
+        <summary type="html"><![CDATA[If your phone were a person, it would probably be that overachieving friend who cannot sit still. The kind who insists they are relaxing while secretly running errands, replying to messages, and checking the weather at the same time. Inside your Andr...]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Keep LLM Outputs Predictable Using Pydantic Validation]]></title>
+        <id>69164018ac4b066d7018502d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-keep-llm-outputs-predictable-using-pydantic-validation/"/>
+        <updated>2025-11-13T20:31:20.000Z</updated>
+        <summary type="html"><![CDATA[Large language models are powerful, but they can also be unpredictable. They might generate long explanations when you expect a short summary, skip fields in a JSON output, or change the format completely from one request to another. When you’re buil...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is TOON? How Token-Oriented Object Notation Could Change How AI Sees Data]]></title>
+        <id>6915f8076f343530b3b31c7b</id>
+        <link href="https://www.freecodecamp.org/news/what-is-toon-how-token-oriented-object-notation-could-change-how-ai-sees-data/"/>
+        <updated>2025-11-13T15:23:51.000Z</updated>
+        <summary type="html"><![CDATA[JSON, or JavaScript Object Notation, was popularized by Douglas Crockford in early 2000. Since then, there’s been no looking back. JSON has become the standardized data exchange format between client and server technologies. JSON was built for humans...]]></summary>
+        <author>
+            <name>Tapas Adhikary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System Design Patterns in Android Bluetooth [Full Handbook]]]></title>
+        <id>6915f7d8453f11c904fade0c</id>
+        <link href="https://www.freecodecamp.org/news/system-design-patterns-in-android-bluetooth-full-handbook/"/>
+        <updated>2025-11-13T15:23:04.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever opened the Android Bluetooth source code, you might know this feeling. You go in with the calm confidence of a developer who just wants to understand how things work. You open BluetoothAdapter.java and think, “Ah, this looks clean.” Th...]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Solve 5 Common RAG Failures with Knowledge Graphs]]></title>
+        <id>6915f73887b014aa0a104567</id>
+        <link href="https://www.freecodecamp.org/news/how-to-solve-5-common-rag-failures-with-knowledge-graphs/"/>
+        <updated>2025-11-13T15:20:24.000Z</updated>
+        <summary type="html"><![CDATA[You may have built a Retrieval-Augmented Generation (RAG) pipeline to connect a vector store to a powerful LLM. And RAG pipelines are incredibly effective at grounding models in factual, up-to-date knowledge. But if you've worked with them long enoug...]]></summary>
+        <author>
+            <name>Kamal Kishore</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Range Syntax Has Come to Container Style Queries and if()]]></title>
+        <id>https://css-tricks.com/?p=390178</id>
+        <link href="https://css-tricks.com/the-range-syntax-has-come-to-container-style-queries-and-if/"/>
+        <updated>2025-11-13T15:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric values as well as numeric values tokenized by custom properties or the attr() function.
+The Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Discrete Mathematics]]></title>
+        <id>6915ec909bbfb50f5a356a15</id>
+        <link href="https://www.freecodecamp.org/news/learn-discrete-mathematics/"/>
+        <updated>2025-11-13T14:34:56.000Z</updated>
+        <summary type="html"><![CDATA[Discrete mathematics plays a key role in machine learning and algorithms. You can use it to find the shortest path (graph theory), encrypt files, compress data, and to do many other things. We just posted a discreet mathematics course on the freeCode...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Complex Workflows with n8n & Master AI Integration]]></title>
+        <id>6915ea7e997289c5d5272773</id>
+        <link href="https://www.freecodecamp.org/news/build-complex-workflows-with-n8n-and-master-ai-integration/"/>
+        <updated>2025-11-13T14:26:06.000Z</updated>
+        <summary type="html"><![CDATA[n8n is an open-source workflow automation platform that lets you connect different apps, APIs, and services to easily automate tasks without needing to implement extensive code. We just posted a course on the freeCodeCamp.org YouTube channel that is ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Older Tech In The Browser Stack]]></title>
+        <id>https://smashingmagazine.com/2025/11/older-tech-browser-stack/</id>
+        <link href="https://smashingmagazine.com/2025/11/older-tech-browser-stack/"/>
+        <updated>2025-11-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Bryan Rasmussen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate Vector Search in Columnar Storage]]></title>
+        <id>6914ff68e1ffda5f6ea6d8ea</id>
+        <link href="https://www.freecodecamp.org/news/how-to-integrate-vector-search-in-columnar-storage/"/>
+        <updated>2025-11-12T21:43:04.000Z</updated>
+        <summary type="html"><![CDATA[Integrating vector search into traditional data platforms is becoming a common task in the current AI-driven landscape. When Google announced general availability for vector search in BigQuery in early 2024, it joined a growing list of established da...]]></summary>
+        <author>
+            <name>Chirag Agrawal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Effectively Monitoring Web Performance]]></title>
         <id>https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/</id>
@@ -13,26 +134,6 @@
         <summary type="html"><![CDATA[There are lots of tips for [improving your website performance](https://www.debugbear.com/blog/improve-website-performance?utm_campaign=sm-10). But even if you follow all of the advice, are you able to maintain an optimized site? And are you targeting the right pages? Matt Zeunert outlines an effective strategy for web performance optimization and explains the roles that different types of data play in it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Matt Zeunert)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Run an Open-Source LLM on Your Personal Computer – Run Ollama Locally]]></title>
-        <id>691256ca726af9fcf5543027</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-an-open-source-llm-on-your-personal-computer-run-ollama-locally/"/>
-        <updated>2025-11-10T21:19:06.000Z</updated>
-        <summary type="html"><![CDATA[Running a large language model (LLM) on your computer is now easier than ever. You no longer need a cloud subscription or a massive server. With just your PC, you can run models like Llama, Mistral, or Phi, privately and offline. This guide will show...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Vue.js – JavaScript Framework Course]]></title>
-        <id>691228d49872f01b424e3353</id>
-        <link href="https://www.freecodecamp.org/news/learn-vuejs-javascript-framework-course/"/>
-        <updated>2025-11-10T18:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Vue.js is a progressive JavaScript framework for building user interfaces and single-page applications. Loved for its simplicity, flexibility, and performance, it allows developers to start small and scale up to complex applications with ease. Whethe...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -47,56 +148,6 @@ Headings: Semantics, Fluidity, and Styling — Oh My! originally published on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VPNs vs Proxies: What are the Differences?]]></title>
-        <id>690e629981a4964f4b12b422</id>
-        <link href="https://www.freecodecamp.org/news/vpns-vs-proxies-what-are-the-differences/"/>
-        <updated>2025-11-07T21:20:25.000Z</updated>
-        <summary type="html"><![CDATA[In the age of online privacy, two tools are often mentioned together: VPNs and proxies. Both hide your IP address and help you browse the internet more privately, but they work in different ways and serve different purposes. From simple security to w...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State of Bluetooth in 2025: What’s New, What’s Possible, and How to Use It]]></title>
-        <id>690e2801500cb51e735b5a9c</id>
-        <link href="https://www.freecodecamp.org/news/the-state-of-bluetooth-whats-new-whats-possible-and-how-to-use-it/"/>
-        <updated>2025-11-07T17:10:25.000Z</updated>
-        <summary type="html"><![CDATA[Introduction: Why Bluetooth Still Matters You probably don’t even think about Bluetooth anymore. It’s just there, quietly doing its job every single day. It’s what keeps your earbuds connected, your smartwatch synced, your car infotainment system tal...]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Choose the Right LLM for Your Projects: A Guide to Effective Model Benchmarking]]></title>
-        <id>690e27b0ca4947acbefbd755</id>
-        <link href="https://www.freecodecamp.org/news/choose-the-right-llm-for-your-projects-benchmarking-guide/"/>
-        <updated>2025-11-07T17:09:04.000Z</updated>
-        <summary type="html"><![CDATA[When you start building with LLMs, it quickly becomes clear that not all models behave the same. One model may excel at creative writing but struggle with technical precision. Another might be thoughtful yet verbose. A third could be fast and efficie...]]></summary>
-        <author>
-            <name>Surya Teja Appini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built a Makaton AI Companion Using Gemini Nano and the Gemini API]]></title>
-        <id>690e1f43cb50ea9684f6d9aa</id>
-        <link href="https://www.freecodecamp.org/news/how-i-built-a-makaton-ai-companion-using-gemini-nano-and-the-gemini-api/"/>
-        <updated>2025-11-07T16:33:07.000Z</updated>
-        <summary type="html"><![CDATA[When I started my research on AI systems that could translate Makaton (a sign and symbol language designed to support speech and communication), I wanted to bridge a gap in accessibility for learners with speech or language difficulties. Over time, t...]]></summary>
-        <author>
-            <name>OMOTAYO OMOYEMI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Applying into the void with recruiter admin Abbey Perini [Podcast #196]]]></title>
-        <id>690e0d2661d96baa3c583c80</id>
-        <link href="https://www.freecodecamp.org/news/applying-into-the-void-with-recruiter-admin-abbey-perini-podcast-196/"/>
-        <updated>2025-11-07T15:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Abbey Perini taught herself programming at age 27 while working as an admin at an engineering recruitment agency. She has worked extensively with large legacy codebases and taught best practices to developers internationally. We talk about: How to h...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties]]></title>
         <id>https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/</id>
         <link href="https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/"/>
@@ -104,26 +155,6 @@ Headings: Semantics, Fluidity, and Styling — Oh My! originally published on CS
         <summary type="html"><![CDATA[SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Structure Your README File – README Template Example]]></title>
-        <id>690e02f392fcbf371b6e1b9d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-structure-your-readme-file/"/>
-        <updated>2025-11-07T14:32:19.000Z</updated>
-        <summary type="html"><![CDATA[As a developer who aspires to be a founder, building your first startup can be filled with excitement and ideas. The worst thing that could happen to you is jumping straight into the coding part. I was in this situation and the last thing on my mind ...]]></summary>
-        <author>
-            <name>Casmir Onyekani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guitar Theory Course for Beginners – Learn Fretboard, Major Scale and Triads]]></title>
-        <id>690ce6ccd9dcaa769b671c7e</id>
-        <link href="https://www.freecodecamp.org/news/guitar-theory-course-for-beginners-learn-fretboard-major-scale-and-triads/"/>
-        <updated>2025-11-06T18:19:56.000Z</updated>
-        <summary type="html"><![CDATA[Learn to play the guitar! We just posted a course on the freeCodeCamp.org YouTube channel that will teach you essential guitar theory including the fretboard, the major scale and the triads. It was created by baritone guitarist, Alex Gordon Hi-Fi. He...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -135,16 +166,6 @@ Headings: Semantics, Fluidity, and Styling — Oh My! originally published on CS
 Explaining the Accessible Benefits of Using Semantic HTML Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Reduce Round Trip Time (RTT) with Next.js]]></title>
-        <id>690c78446959d1f714d81d45</id>
-        <link href="https://www.freecodecamp.org/news/how-to-reduce-round-trip-time-rtt-with-nextjs/"/>
-        <updated>2025-11-06T10:28:20.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered why some websites load almost immediately and others leave you looking at a blank screen, even when your internet connection is fast? In some cases, your internet speed may not be the issue. It is usually because of Round Trip ...]]></summary>
-        <author>
-            <name>Chukwudi Nweze</name>
         </author>
     </entry>
     <entry>

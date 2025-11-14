@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390178",
+          "author": "Daniel Schwarz",
+          "description": "Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric values as well as numeric values tokenized by custom properties or the attr() function.\nThe Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-range-syntax-has-come-to-container-style-queries-and-if/",
+          "publishedOn": "2025-11-13T15:00:20.000Z",
+          "wordCount": 3233,
+          "title": "The Range Syntax Has Come to Container Style Queries and if()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/media-query-range-syntax.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=389885",
           "author": "Geoff Graham",
           "description": "A few links about headings that I've had stored under my top hat.\nHeadings: Semantics, Fluidity, and Styling — Oh My! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -42,7 +52,7 @@
           "description": "Last time, we discussed that, sadly, according to the State of CSS 2025 survey, trigonometric functions are deemed the “Most Hated” CSS feature.\nThat shocked me. I may have even been a little offended, being a math nerd and …\nThe “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-most-hated-css-feature-tan/",
           "publishedOn": "2025-11-03T16:03:08.000Z",
-          "wordCount": 3663,
+          "wordCount": 3718,
           "title": "The “Most Hated” CSS Feature: tan()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/trig-tangent-graph.png"
         },
@@ -129,6 +139,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
+          "author": "hello@smashingmagazine.com (Bryan Rasmussen)",
+          "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.",
+          "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
+          "publishedOn": "2025-11-13T08:00:00.000Z",
+          "wordCount": 6489,
+          "title": "Older Tech In The Browser Stack",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/",
           "author": "hello@smashingmagazine.com (Matt Zeunert)",
           "description": "There are lots of tips for [improving your website performance](https://www.debugbear.com/blog/improve-website-performance?utm_campaign=sm-10). But even if you follow all of the advice, are you able to maintain an optimized site? And are you targeting the right pages? Matt Zeunert outlines an effective strategy for web performance optimization and explains the roles that different types of data play in it.",
@@ -149,7 +174,7 @@
           "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.",
           "link": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
           "publishedOn": "2025-11-07T15:00:00.000Z",
-          "wordCount": 4718,
+          "wordCount": 4729,
           "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg",
@@ -194,7 +219,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
           "publishedOn": "2025-10-31T12:00:00.000Z",
-          "wordCount": 4875,
+          "wordCount": 4774,
           "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -209,7 +234,7 @@
           "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
           "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
           "publishedOn": "2025-10-27T13:00:00.000Z",
-          "wordCount": 4449,
+          "wordCount": 4567,
           "title": "JavaScript For Everyone: Iterators",
           "imageUrl": "https:null"
         },
@@ -219,7 +244,7 @@
           "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.",
           "link": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
           "publishedOn": "2025-10-22T13:00:00.000Z",
-          "wordCount": 4605,
+          "wordCount": 4604,
           "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
           "imageUrl": "https:null"
         },
@@ -229,7 +254,7 @@
           "description": "A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.",
           "link": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
           "publishedOn": "2025-10-17T08:00:00.000Z",
-          "wordCount": 5836,
+          "wordCount": 5847,
           "title": "AI In UX: Achieve More With Less",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-ux-achieve-more-with-less/ai-ux-achieve-more-with-less.jpg",
@@ -261,104 +286,104 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
-          "id": "691256ca726af9fcf5543027",
+          "id": "69164b0a612455db63b30bdc",
           "author": "Manish Shivanandhan",
-          "description": "Running a large language model (LLM) on your computer is now easier than ever. You no longer need a cloud subscription or a massive server. With just your PC, you can run models like Llama, Mistral, or Phi, privately and offline. This guide will show...",
-          "link": "https://www.freecodecamp.org/news/how-to-run-an-open-source-llm-on-your-personal-computer-run-ollama-locally/",
-          "publishedOn": "2025-11-10T21:19:06.000Z",
-          "wordCount": 2175,
-          "title": "How To Run an Open-Source LLM on Your Personal Computer – Run Ollama Locally",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762809417189/37e154b9-9bf0-4210-921a-4722cd448b09.png"
+          "description": "When people think of artificial intelligence, they imagine complex models, data centers, and cloud servers.  What most don’t realize is that the real engine behind this AI revolution started in a place few expected: inside the humble gaming PC.  The ...",
+          "link": "https://www.freecodecamp.org/news/from-pixels-to-predictions-how-gpus-started-powering-modern-ai/",
+          "publishedOn": "2025-11-13T21:18:02.000Z",
+          "wordCount": 1966,
+          "title": "From Pixels to Predictions: How GPUs Started Powering Modern AI",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763068628238/531621b6-1931-422f-b8ff-455c1ef58dab.png"
         },
         {
-          "id": "691228d49872f01b424e3353",
-          "author": "Beau Carnes",
-          "description": "Vue.js is a progressive JavaScript framework for building user interfaces and single-page applications. Loved for its simplicity, flexibility, and performance, it allows developers to start small and scale up to complex applications with ease. Whethe...",
-          "link": "https://www.freecodecamp.org/news/learn-vuejs-javascript-framework-course/",
-          "publishedOn": "2025-11-10T18:03:00.000Z",
-          "wordCount": 1041,
-          "title": "Learn Vue.js – JavaScript Framework Course",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762797723327/7e67725a-1f0c-48fa-ad5c-173495b0ffeb.jpeg"
-        },
-        {
-          "id": "690e629981a4964f4b12b422",
-          "author": "Manish Shivanandhan",
-          "description": "In the age of online privacy, two tools are often mentioned together: VPNs and proxies. Both hide your IP address and help you browse the internet more privately, but they work in different ways and serve different purposes. From simple security to w...",
-          "link": "https://www.freecodecamp.org/news/vpns-vs-proxies-what-are-the-differences/",
-          "publishedOn": "2025-11-07T21:20:25.000Z",
-          "wordCount": 2055,
-          "title": "VPNs vs Proxies: What are the Differences?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762549605269/165d4e53-a54e-46b7-95b6-f2b76bcdfc53.png"
-        },
-        {
-          "id": "690e2801500cb51e735b5a9c",
+          "id": "69164aadd6505b750fa4b659",
           "author": "Nikheel Vishwas Savant",
-          "description": "Introduction: Why Bluetooth Still Matters You probably don’t even think about Bluetooth anymore. It’s just there, quietly doing its job every single day. It’s what keeps your earbuds connected, your smartwatch synced, your car infotainment system tal...",
-          "link": "https://www.freecodecamp.org/news/the-state-of-bluetooth-whats-new-whats-possible-and-how-to-use-it/",
-          "publishedOn": "2025-11-07T17:10:25.000Z",
-          "wordCount": 8061,
-          "title": "The State of Bluetooth in 2025: What’s New, What’s Possible, and How to Use It",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762533537259/3f9dec8a-690b-4fd8-a0a7-8e6b2667e55c.png"
+          "description": "Picture this: you’re sitting in a café with your laptop open, phone on the table, smartwatch buzzing every few minutes, and Bluetooth earbuds playing music. From your perspective, life is peaceful. From your phone’s perspective, it’s juggling a ridic...",
+          "link": "https://www.freecodecamp.org/news/how-bluetooth-socket-settings-power-androids-low-power-island-a-friendly-deep-dive-into-aosps-hidden-energy-saver/",
+          "publishedOn": "2025-11-13T21:16:29.000Z",
+          "wordCount": 4194,
+          "title": "How Bluetooth Socket Settings Power Android’s Low Power Island: A Friendly Deep Dive into AOSP’s Hidden Energy Saver",
+          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
         },
         {
-          "id": "690e27b0ca4947acbefbd755",
-          "author": "Surya Teja Appini",
-          "description": "When you start building with LLMs, it quickly becomes clear that not all models behave the same. One model may excel at creative writing but struggle with technical precision. Another might be thoughtful yet verbose. A third could be fast and efficie...",
-          "link": "https://www.freecodecamp.org/news/choose-the-right-llm-for-your-projects-benchmarking-guide/",
-          "publishedOn": "2025-11-07T17:09:04.000Z",
-          "wordCount": 3376,
-          "title": "How to Choose the Right LLM for Your Projects: A Guide to Effective Model Benchmarking",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762534383880/404f27c6-2995-4daa-bcac-c61b10e93abc.png"
+          "id": "69164a5b08d80a5fa5d56f1e",
+          "author": "Nikheel Vishwas Savant",
+          "description": "If your phone were a person, it would probably be that overachieving friend who cannot sit still. The kind who insists they are relaxing while secretly running errands, replying to messages, and checking the weather at the same time. Inside your Andr...",
+          "link": "https://www.freecodecamp.org/news/the-secret-life-of-your-cpu-exploring-the-low-power-island-in-android-bluetooth/",
+          "publishedOn": "2025-11-13T21:15:07.000Z",
+          "wordCount": 4613,
+          "title": "The Secret Life of Your CPU: Exploring the Low Power Island in Android Bluetooth",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763065956169/7d83bf98-a7a8-42cd-b27b-f6c202612959.png"
         },
         {
-          "id": "690e1f43cb50ea9684f6d9aa",
-          "author": "OMOTAYO OMOYEMI",
-          "description": "When I started my research on AI systems that could translate Makaton (a sign and symbol language designed to support speech and communication), I wanted to bridge a gap in accessibility for learners with speech or language difficulties. Over time, t...",
-          "link": "https://www.freecodecamp.org/news/how-i-built-a-makaton-ai-companion-using-gemini-nano-and-the-gemini-api/",
-          "publishedOn": "2025-11-07T16:33:07.000Z",
-          "wordCount": 5701,
-          "title": "How I Built a Makaton AI Companion Using Gemini Nano and the Gemini API",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762533154134/e2209ade-6971-464b-aeef-f05abd0a30d7.png"
+          "id": "69164018ac4b066d7018502d",
+          "author": "Manish Shivanandhan",
+          "description": "Large language models are powerful, but they can also be unpredictable. They might generate long explanations when you expect a short summary, skip fields in a JSON output, or change the format completely from one request to another. When you’re buil...",
+          "link": "https://www.freecodecamp.org/news/how-to-keep-llm-outputs-predictable-using-pydantic-validation/",
+          "publishedOn": "2025-11-13T20:31:20.000Z",
+          "wordCount": 1981,
+          "title": "How to Keep LLM Outputs Predictable Using Pydantic Validation",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763065838390/e6248d42-70e3-45fe-8ea1-1db32b261573.png"
         },
         {
-          "id": "690e0d2661d96baa3c583c80",
+          "id": "6915f8076f343530b3b31c7b",
+          "author": "Tapas Adhikary",
+          "description": "JSON, or JavaScript Object Notation, was popularized by Douglas Crockford in early 2000. Since then, there’s been no looking back. JSON has become the standardized data exchange format between client and server technologies. JSON was built for humans...",
+          "link": "https://www.freecodecamp.org/news/what-is-toon-how-token-oriented-object-notation-could-change-how-ai-sees-data/",
+          "publishedOn": "2025-11-13T15:23:51.000Z",
+          "wordCount": 2402,
+          "title": "What is TOON? How Token-Oriented Object Notation Could Change How AI Sees Data",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762978794293/e75f145b-a418-458e-8a41-12fe3add0107.png"
+        },
+        {
+          "id": "6915f7d8453f11c904fade0c",
+          "author": "Nikheel Vishwas Savant",
+          "description": "If you’ve ever opened the Android Bluetooth source code, you might know this feeling. You go in with the calm confidence of a developer who just wants to understand how things work. You open BluetoothAdapter.java and think, “Ah, this looks clean.” Th...",
+          "link": "https://www.freecodecamp.org/news/system-design-patterns-in-android-bluetooth-full-handbook/",
+          "publishedOn": "2025-11-13T15:23:04.000Z",
+          "wordCount": 9279,
+          "title": "System Design Patterns in Android Bluetooth [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763047349934/78e1861c-62d3-44c8-adc3-971d6b63a7cc.png"
+        },
+        {
+          "id": "6915f73887b014aa0a104567",
+          "author": "Kamal Kishore",
+          "description": "You may have built a Retrieval-Augmented Generation (RAG) pipeline to connect a vector store to a powerful LLM. And RAG pipelines are incredibly effective at grounding models in factual, up-to-date knowledge. But if you've worked with them long enoug...",
+          "link": "https://www.freecodecamp.org/news/how-to-solve-5-common-rag-failures-with-knowledge-graphs/",
+          "publishedOn": "2025-11-13T15:20:24.000Z",
+          "wordCount": 4581,
+          "title": "How to Solve 5 Common RAG Failures with Knowledge Graphs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762904270014/5ebeec2b-0823-4f59-bdd7-bf37cb68a978.png"
+        },
+        {
+          "id": "6915ec909bbfb50f5a356a15",
           "author": "Beau Carnes",
-          "description": "Abbey Perini taught herself programming at age 27 while working as an admin at an engineering recruitment agency. She has worked extensively with large legacy codebases and taught best practices to developers internationally. We talk about: How to h...",
-          "link": "https://www.freecodecamp.org/news/applying-into-the-void-with-recruiter-admin-abbey-perini-podcast-196/",
-          "publishedOn": "2025-11-07T15:15:50.000Z",
-          "wordCount": 1334,
-          "title": "Applying into the void with recruiter admin Abbey Perini [Podcast #196]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762479547201/349a72fd-5c01-4191-883f-91735d72cae3.jpeg"
+          "description": "Discrete mathematics plays a key role in machine learning and algorithms. You can use it to find the shortest path (graph theory), encrypt files, compress data, and to do many other things. We just posted a discreet mathematics course on the freeCode...",
+          "link": "https://www.freecodecamp.org/news/learn-discrete-mathematics/",
+          "publishedOn": "2025-11-13T14:34:56.000Z",
+          "wordCount": 1123,
+          "title": "Learn Discrete Mathematics",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763044466535/8ae84f6a-dfd2-4988-8f73-77e6f548846b.jpeg"
         },
         {
-          "id": "690e02f392fcbf371b6e1b9d",
-          "author": "Casmir Onyekani",
-          "description": "As a developer who aspires to be a founder, building your first startup can be filled with excitement and ideas. The worst thing that could happen to you is jumping straight into the coding part. I was in this situation and the last thing on my mind ...",
-          "link": "https://www.freecodecamp.org/news/how-to-structure-your-readme-file/",
-          "publishedOn": "2025-11-07T14:32:19.000Z",
-          "wordCount": 2815,
-          "title": "How to Structure Your README File – README Template Example",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762523233143/4555ff83-b390-4cb2-b6de-acea129de4b1.png"
-        },
-        {
-          "id": "690ce6ccd9dcaa769b671c7e",
+          "id": "6915ea7e997289c5d5272773",
           "author": "Beau Carnes",
-          "description": "Learn to play the guitar! We just posted a course on the freeCodeCamp.org YouTube channel that will teach you essential guitar theory including the fretboard, the major scale and the triads. It was created by baritone guitarist, Alex Gordon Hi-Fi. He...",
-          "link": "https://www.freecodecamp.org/news/guitar-theory-course-for-beginners-learn-fretboard-major-scale-and-triads/",
-          "publishedOn": "2025-11-06T18:19:56.000Z",
-          "wordCount": 1080,
-          "title": "Guitar Theory Course for Beginners – Learn Fretboard, Major Scale and Triads",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762453168574/3b0a237a-f4ab-4a89-a787-443ec1239e5a.jpeg"
+          "description": "n8n is an open-source workflow automation platform that lets you connect different apps, APIs, and services to easily automate tasks without needing to implement extensive code. We just posted a course on the freeCodeCamp.org YouTube channel that is ...",
+          "link": "https://www.freecodecamp.org/news/build-complex-workflows-with-n8n-and-master-ai-integration/",
+          "publishedOn": "2025-11-13T14:26:06.000Z",
+          "wordCount": 1231,
+          "title": "Build Complex Workflows with n8n & Master AI Integration",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762950806004/02d41988-6e9f-4962-8872-c41110175882.jpeg"
         },
         {
-          "id": "690c78446959d1f714d81d45",
-          "author": "Chukwudi Nweze",
-          "description": "Have you ever wondered why some websites load almost immediately and others leave you looking at a blank screen, even when your internet connection is fast? In some cases, your internet speed may not be the issue. It is usually because of Round Trip ...",
-          "link": "https://www.freecodecamp.org/news/how-to-reduce-round-trip-time-rtt-with-nextjs/",
-          "publishedOn": "2025-11-06T10:28:20.000Z",
-          "wordCount": 3107,
-          "title": "How to Reduce Round Trip Time (RTT) with Next.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762424304223/4d818ff7-0fe2-448d-8acd-3da092bc55a4.png"
+          "id": "6914ff68e1ffda5f6ea6d8ea",
+          "author": "Chirag Agrawal",
+          "description": "Integrating vector search into traditional data platforms is becoming a common task in the current AI-driven landscape. When Google announced general availability for vector search in BigQuery in early 2024, it joined a growing list of established da...",
+          "link": "https://www.freecodecamp.org/news/how-to-integrate-vector-search-in-columnar-storage/",
+          "publishedOn": "2025-11-12T21:43:04.000Z",
+          "wordCount": 4082,
+          "title": "How to Integrate Vector Search in Columnar Storage",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762983768101/928331bd-3f97-4d05-92fb-2d8ea9af5dab.png"
         }
       ]
     }
