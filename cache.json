@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390408",
+          "author": "Ryan Trimble",
+          "description": "The extremely new framework that caught lots of attention will continue as a personal project.\nQuiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/",
+          "publishedOn": "2025-11-14T15:32:50.000Z",
+          "wordCount": 1860,
+          "title": "Quiet UI Came and Went, Quiet as a Mouse",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/quiet-ui.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=390178",
           "author": "Daniel Schwarz",
           "description": "Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric values as well as numeric values tokenized by custom properties or the attr() function.\nThe Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -102,7 +112,7 @@
           "description": "A thorough but approachable lesson on JavaScript expressions excerpted JavaScript For Everyone, a complete online course offered by our friends at Piccalilli.\nAn Introduction to JavaScript Expressions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/an-introduction-to-javascript-expressions/",
           "publishedOn": "2025-10-22T19:08:23.000Z",
-          "wordCount": 4302,
+          "wordCount": 4406,
           "title": "An Introduction to JavaScript Expressions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/javascript-for-everyone-scaled.png"
         },
@@ -115,21 +125,6 @@
           "wordCount": 2755,
           "title": "Building a Honeypot Field That Works",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/04/sticky-header.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389737",
-          "author": "Temani Afif",
-          "description": "Let’s suppose you have N elements with the same animation that should animate sequentially. Modern CSS makes this easy and it works for any number of items!\nSequential linear() Animation With N Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/sequential-linear-animation-with-n-elements/",
-          "publishedOn": "2025-10-15T13:39:39.000Z",
-          "wordCount": 3536,
-          "title": "Sequential linear() Animation With N Elements",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/10/sequential-2.mov",
-            "length": "310986",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/sequential-thumb.png"
         }
       ]
     },
@@ -139,12 +134,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
+          "author": "hello@smashingmagazine.com (Godstime Aburu)",
+          "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.",
+          "link": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
+          "publishedOn": "2025-11-14T13:00:00.000Z",
+          "wordCount": 6492,
+          "title": "CSS Gamepad API Visual Debugging With CSS Layers",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
           "author": "hello@smashingmagazine.com (Bryan Rasmussen)",
           "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.",
           "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
           "publishedOn": "2025-11-13T08:00:00.000Z",
-          "wordCount": 6489,
+          "wordCount": 6495,
           "title": "Older Tech In The Browser Stack",
           "enclosure": {
             "url": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg",
@@ -174,7 +184,7 @@
           "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.",
           "link": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
           "publishedOn": "2025-11-07T15:00:00.000Z",
-          "wordCount": 4729,
+          "wordCount": 4720,
           "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg",
@@ -219,7 +229,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
           "publishedOn": "2025-10-31T12:00:00.000Z",
-          "wordCount": 4774,
+          "wordCount": 4773,
           "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -244,7 +254,7 @@
           "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.",
           "link": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
           "publishedOn": "2025-10-22T13:00:00.000Z",
-          "wordCount": 4604,
+          "wordCount": 4610,
           "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
           "imageUrl": "https:null"
         },
@@ -254,7 +264,7 @@
           "description": "A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.",
           "link": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
           "publishedOn": "2025-10-17T08:00:00.000Z",
-          "wordCount": 5847,
+          "wordCount": 5838,
           "title": "AI In UX: Achieve More With Less",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-ux-achieve-more-with-less/ai-ux-achieve-more-with-less.jpg",
@@ -286,12 +296,42 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "691770eb5879bafaa784b694",
+          "author": "Manish Shivanandhan",
+          "description": "If you’re a developer looking for a simple, fast, and self-hosted backend, PocketBase might be exactly what you need.  It’s an open-source backend written in Go that lets you set up a complete backend with database, authentication, file storage, and ...",
+          "link": "https://www.freecodecamp.org/news/how-to-get-started-with-pocketbase-build-a-lightweight-backend-in-minutes/",
+          "publishedOn": "2025-11-14T18:11:55.000Z",
+          "wordCount": 2512,
+          "title": "How to Get Started with PocketBase: Build a Lightweight Backend in Minutes",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763143867523/1a4c8cd4-629f-4dd7-8a82-5b6d0d34d90e.png"
+        },
+        {
+          "id": "69174b1090e746d252948913",
+          "author": "Beau Carnes",
+          "description": "Dr. David J. Malan teaches computer science at Harvard. Over the past decade, millions of people have taken his CS50 course both in person and online. He joins us to talk about: Why he still recommends learning the C programming language in 2026 Ho...",
+          "link": "https://www.freecodecamp.org/news/harvard-cs50-prof-david-j-malan-on-why-you-should-learn-programming-slowly-podcast-197/",
+          "publishedOn": "2025-11-14T15:30:24.000Z",
+          "wordCount": 1305,
+          "title": "Harvard CS50 prof David J. Malan on why you should learn programming slowly [Podcast #197]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763049586370/5f7786af-7213-444f-acff-a8060ccbfc88.jpeg"
+        },
+        {
+          "id": "691740a91f4fa448325a55f9",
+          "author": "Nneoma Uche",
+          "description": "Several languages and frameworks depend on dependency injection—no pun intended. Go, Angular, NestJS, and Python's FastAPI all use it as a core pattern. If you've been working with FastAPI, you've likely encountered dependencies in action. Perhaps yo...",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-dependency-injection-in-fastapi/",
+          "publishedOn": "2025-11-14T14:46:01.000Z",
+          "wordCount": 3191,
+          "title": "How to Implement Dependency Injection in FastAPI",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763131442081/76eff35b-be68-49c1-9743-d78ebc87b292.png"
+        },
+        {
           "id": "69164b0a612455db63b30bdc",
           "author": "Manish Shivanandhan",
-          "description": "When people think of artificial intelligence, they imagine complex models, data centers, and cloud servers.  What most don’t realize is that the real engine behind this AI revolution started in a place few expected: inside the humble gaming PC.  The ...",
+          "description": "When people think of artificial intelligence, they imagine complex models, data centers, and cloud servers. What most don’t realize is that the real engine behind this AI revolution started in a place few expected: inside the humble gaming PC. The sa...",
           "link": "https://www.freecodecamp.org/news/from-pixels-to-predictions-how-gpus-started-powering-modern-ai/",
           "publishedOn": "2025-11-13T21:18:02.000Z",
-          "wordCount": 1966,
+          "wordCount": 1964,
           "title": "From Pixels to Predictions: How GPUs Started Powering Modern AI",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763068628238/531621b6-1931-422f-b8ff-455c1ef58dab.png"
         },
@@ -303,7 +343,7 @@
           "publishedOn": "2025-11-13T21:16:29.000Z",
           "wordCount": 4194,
           "title": "How Bluetooth Socket Settings Power Android’s Low Power Island: A Friendly Deep Dive into AOSP’s Hidden Energy Saver",
-          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763071691608/30075d98-7eb4-4f87-9396-d76d91c92fea.png"
         },
         {
           "id": "69164a5b08d80a5fa5d56f1e",
@@ -354,36 +394,6 @@
           "wordCount": 4581,
           "title": "How to Solve 5 Common RAG Failures with Knowledge Graphs",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762904270014/5ebeec2b-0823-4f59-bdd7-bf37cb68a978.png"
-        },
-        {
-          "id": "6915ec909bbfb50f5a356a15",
-          "author": "Beau Carnes",
-          "description": "Discrete mathematics plays a key role in machine learning and algorithms. You can use it to find the shortest path (graph theory), encrypt files, compress data, and to do many other things. We just posted a discreet mathematics course on the freeCode...",
-          "link": "https://www.freecodecamp.org/news/learn-discrete-mathematics/",
-          "publishedOn": "2025-11-13T14:34:56.000Z",
-          "wordCount": 1123,
-          "title": "Learn Discrete Mathematics",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763044466535/8ae84f6a-dfd2-4988-8f73-77e6f548846b.jpeg"
-        },
-        {
-          "id": "6915ea7e997289c5d5272773",
-          "author": "Beau Carnes",
-          "description": "n8n is an open-source workflow automation platform that lets you connect different apps, APIs, and services to easily automate tasks without needing to implement extensive code. We just posted a course on the freeCodeCamp.org YouTube channel that is ...",
-          "link": "https://www.freecodecamp.org/news/build-complex-workflows-with-n8n-and-master-ai-integration/",
-          "publishedOn": "2025-11-13T14:26:06.000Z",
-          "wordCount": 1231,
-          "title": "Build Complex Workflows with n8n & Master AI Integration",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762950806004/02d41988-6e9f-4962-8872-c41110175882.jpeg"
-        },
-        {
-          "id": "6914ff68e1ffda5f6ea6d8ea",
-          "author": "Chirag Agrawal",
-          "description": "Integrating vector search into traditional data platforms is becoming a common task in the current AI-driven landscape. When Google announced general availability for vector search in BigQuery in early 2024, it joined a growing list of established da...",
-          "link": "https://www.freecodecamp.org/news/how-to-integrate-vector-search-in-columnar-storage/",
-          "publishedOn": "2025-11-12T21:43:04.000Z",
-          "wordCount": 4082,
-          "title": "How to Integrate Vector Search in Columnar Storage",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762983768101/928331bd-3f97-4d05-92fb-2d8ea9af5dab.png"
         }
       ]
     }

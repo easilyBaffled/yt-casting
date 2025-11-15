@@ -1,16 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-14T00:34:39.786Z</id>
+    <id>urn:2025-11-15T00:33:17.358Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-14T00:34:39.786Z</updated>
+    <updated>2025-11-15T00:33:17.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started with PocketBase: Build a Lightweight Backend in Minutes]]></title>
+        <id>691770eb5879bafaa784b694</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-pocketbase-build-a-lightweight-backend-in-minutes/"/>
+        <updated>2025-11-14T18:11:55.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a developer looking for a simple, fast, and self-hosted backend, PocketBase might be exactly what you need.  It’s an open-source backend written in Go that lets you set up a complete backend with database, authentication, file storage, and ...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quiet UI Came and Went, Quiet as a Mouse]]></title>
+        <id>https://css-tricks.com/?p=390408</id>
+        <link href="https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/"/>
+        <updated>2025-11-14T15:32:50.000Z</updated>
+        <summary type="html"><![CDATA[The extremely new framework that caught lots of attention will continue as a personal project.
+Quiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ryan Trimble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harvard CS50 prof David J. Malan on why you should learn programming slowly [Podcast #197]]]></title>
+        <id>69174b1090e746d252948913</id>
+        <link href="https://www.freecodecamp.org/news/harvard-cs50-prof-david-j-malan-on-why-you-should-learn-programming-slowly-podcast-197/"/>
+        <updated>2025-11-14T15:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Dr. David J. Malan teaches computer science at Harvard. Over the past decade, millions of people have taken his CS50 course both in person and online. He joins us to talk about: Why he still recommends learning the C programming language in 2026 Ho...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Dependency Injection in FastAPI]]></title>
+        <id>691740a91f4fa448325a55f9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-dependency-injection-in-fastapi/"/>
+        <updated>2025-11-14T14:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Several languages and frameworks depend on dependency injection—no pun intended. Go, Angular, NestJS, and Python's FastAPI all use it as a core pattern. If you've been working with FastAPI, you've likely encountered dependencies in action. Perhaps yo...]]></summary>
+        <author>
+            <name>Nneoma Uche</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Gamepad API Visual Debugging With CSS Layers]]></title>
+        <id>https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/</id>
+        <link href="https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/"/>
+        <updated>2025-11-14T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Godstime Aburu)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Pixels to Predictions: How GPUs Started Powering Modern AI]]></title>
         <id>69164b0a612455db63b30bdc</id>
         <link href="https://www.freecodecamp.org/news/from-pixels-to-predictions-how-gpus-started-powering-modern-ai/"/>
         <updated>2025-11-13T21:18:02.000Z</updated>
-        <summary type="html"><![CDATA[When people think of artificial intelligence, they imagine complex models, data centers, and cloud servers.  What most don’t realize is that the real engine behind this AI revolution started in a place few expected: inside the humble gaming PC.  The ...]]></summary>
+        <summary type="html"><![CDATA[When people think of artificial intelligence, they imagine complex models, data centers, and cloud servers. What most don’t realize is that the real engine behind this AI revolution started in a place few expected: inside the humble gaming PC. The sa...]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
         </author>
@@ -87,26 +138,6 @@ The Range Syntax Has Come to Container Style Queries and if() originally publish
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Discrete Mathematics]]></title>
-        <id>6915ec909bbfb50f5a356a15</id>
-        <link href="https://www.freecodecamp.org/news/learn-discrete-mathematics/"/>
-        <updated>2025-11-13T14:34:56.000Z</updated>
-        <summary type="html"><![CDATA[Discrete mathematics plays a key role in machine learning and algorithms. You can use it to find the shortest path (graph theory), encrypt files, compress data, and to do many other things. We just posted a discreet mathematics course on the freeCode...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Complex Workflows with n8n & Master AI Integration]]></title>
-        <id>6915ea7e997289c5d5272773</id>
-        <link href="https://www.freecodecamp.org/news/build-complex-workflows-with-n8n-and-master-ai-integration/"/>
-        <updated>2025-11-13T14:26:06.000Z</updated>
-        <summary type="html"><![CDATA[n8n is an open-source workflow automation platform that lets you connect different apps, APIs, and services to easily automate tasks without needing to implement extensive code. We just posted a course on the freeCodeCamp.org YouTube channel that is ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Older Tech In The Browser Stack]]></title>
         <id>https://smashingmagazine.com/2025/11/older-tech-browser-stack/</id>
         <link href="https://smashingmagazine.com/2025/11/older-tech-browser-stack/"/>
@@ -114,16 +145,6 @@ The Range Syntax Has Come to Container Style Queries and if() originally publish
         <summary type="html"><![CDATA[There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Bryan Rasmussen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Integrate Vector Search in Columnar Storage]]></title>
-        <id>6914ff68e1ffda5f6ea6d8ea</id>
-        <link href="https://www.freecodecamp.org/news/how-to-integrate-vector-search-in-columnar-storage/"/>
-        <updated>2025-11-12T21:43:04.000Z</updated>
-        <summary type="html"><![CDATA[Integrating vector search into traditional data platforms is becoming a common task in the current AI-driven landscape. When Google announced general availability for vector search in BigQuery in early 2024, it joined a growing list of established da...]]></summary>
-        <author>
-            <name>Chirag Agrawal</name>
         </author>
     </entry>
     <entry>
@@ -303,17 +324,6 @@ Building a Honeypot Field That Works originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[Research isn’t everything. Facts alone don’t win arguments, but powerful stories do. Here’s how to turn your research into narratives that inspire trust and influence decisions.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sequential linear() Animation With N Elements]]></title>
-        <id>https://css-tricks.com/?p=389737</id>
-        <link href="https://css-tricks.com/sequential-linear-animation-with-n-elements/"/>
-        <updated>2025-10-15T13:39:39.000Z</updated>
-        <summary type="html"><![CDATA[Let’s suppose you have N elements with the same animation that should animate sequentially. Modern CSS makes this easy and it works for any number of items!
-Sequential linear() Animation With N Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
 </feed>
