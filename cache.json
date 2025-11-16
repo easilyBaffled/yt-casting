@@ -139,7 +139,7 @@
           "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.",
           "link": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
           "publishedOn": "2025-11-14T13:00:00.000Z",
-          "wordCount": 6492,
+          "wordCount": 6498,
           "title": "CSS Gamepad API Visual Debugging With CSS Layers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg",
@@ -154,7 +154,7 @@
           "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.",
           "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
           "publishedOn": "2025-11-13T08:00:00.000Z",
-          "wordCount": 6495,
+          "wordCount": 6493,
           "title": "Older Tech In The Browser Stack",
           "enclosure": {
             "url": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg",
@@ -184,7 +184,7 @@
           "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.",
           "link": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
           "publishedOn": "2025-11-07T15:00:00.000Z",
-          "wordCount": 4720,
+          "wordCount": 4737,
           "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg",
@@ -229,7 +229,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
           "publishedOn": "2025-10-31T12:00:00.000Z",
-          "wordCount": 4773,
+          "wordCount": 4889,
           "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -244,7 +244,7 @@
           "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
           "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
           "publishedOn": "2025-10-27T13:00:00.000Z",
-          "wordCount": 4567,
+          "wordCount": 4458,
           "title": "JavaScript For Everyone: Iterators",
           "imageUrl": "https:null"
         },
@@ -254,39 +254,9 @@
           "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.",
           "link": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
           "publishedOn": "2025-10-22T13:00:00.000Z",
-          "wordCount": 4610,
+          "wordCount": 4601,
           "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
           "imageUrl": "https:null"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.",
-          "link": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
-          "publishedOn": "2025-10-17T08:00:00.000Z",
-          "wordCount": 5838,
-          "title": "AI In UX: Achieve More With Less",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ai-ux-achieve-more-with-less/ai-ux-achieve-more-with-less.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ai-ux-achieve-more-with-less/ai-ux-achieve-more-with-less.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Research isn’t everything. Facts alone don’t win arguments, but powerful stories do. Here’s how to turn your research into narratives that inspire trust and influence decisions.",
-          "link": "https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/",
-          "publishedOn": "2025-10-16T13:00:00.000Z",
-          "wordCount": 3858,
-          "title": "How To Make Your UX Research Hard To Ignore",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-make-ux-research-hard-to-ignore/how-make-ux-research-hard-to-ignore.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-make-ux-research-hard-to-ignore/how-make-ux-research-hard-to-ignore.jpg"
         }
       ]
     },
@@ -371,7 +341,7 @@
           "description": "JSON, or JavaScript Object Notation, was popularized by Douglas Crockford in early 2000. Since then, there’s been no looking back. JSON has become the standardized data exchange format between client and server technologies. JSON was built for humans...",
           "link": "https://www.freecodecamp.org/news/what-is-toon-how-token-oriented-object-notation-could-change-how-ai-sees-data/",
           "publishedOn": "2025-11-13T15:23:51.000Z",
-          "wordCount": 2402,
+          "wordCount": 2397,
           "title": "What is TOON? How Token-Oriented Object Notation Could Change How AI Sees Data",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762978794293/e75f145b-a418-458e-8a41-12fe3add0107.png"
         },
