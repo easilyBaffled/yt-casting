@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390236",
+          "author": "Juan Diego Rodríguez",
+          "description": "If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric functions come in!\nThe “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/",
+          "publishedOn": "2025-11-17T14:47:54.000Z",
+          "wordCount": 4131,
+          "title": "The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/css-trig-unit-circle-diagram.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=390408",
           "author": "Ryan Trimble",
           "description": "The extremely new framework that caught lots of attention will continue as a personal project.\nQuiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/",
           "publishedOn": "2025-11-14T15:32:50.000Z",
-          "wordCount": 1860,
+          "wordCount": 1912,
           "title": "Quiet UI Came and Went, Quiet as a Mouse",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/quiet-ui.png"
         },
@@ -139,7 +149,7 @@
           "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.",
           "link": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
           "publishedOn": "2025-11-14T13:00:00.000Z",
-          "wordCount": 6486,
+          "wordCount": 6489,
           "title": "CSS Gamepad API Visual Debugging With CSS Layers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg",
@@ -154,7 +164,7 @@
           "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.",
           "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
           "publishedOn": "2025-11-13T08:00:00.000Z",
-          "wordCount": 6490,
+          "wordCount": 6493,
           "title": "Older Tech In The Browser Stack",
           "enclosure": {
             "url": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg",
@@ -169,7 +179,7 @@
           "description": "There are lots of tips for [improving your website performance](https://www.debugbear.com/blog/improve-website-performance?utm_campaign=sm-10). But even if you follow all of the advice, are you able to maintain an optimized site? And are you targeting the right pages? Matt Zeunert outlines an effective strategy for web performance optimization and explains the roles that different types of data play in it.",
           "link": "https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/",
           "publishedOn": "2025-11-11T10:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 3961,
           "title": "Effectively Monitoring Web Performance",
           "enclosure": {
             "url": "http://files.smashing.media/articles/effectively-monitoring-web-performance/effectively-monitoring-web-performance.jpg",
@@ -184,7 +194,7 @@
           "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.",
           "link": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
           "publishedOn": "2025-11-07T15:00:00.000Z",
-          "wordCount": 4734,
+          "wordCount": 4725,
           "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg",
@@ -229,7 +239,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
           "publishedOn": "2025-10-31T12:00:00.000Z",
-          "wordCount": 4780,
+          "wordCount": 4775,
           "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -244,7 +254,7 @@
           "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
           "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
           "publishedOn": "2025-10-27T13:00:00.000Z",
-          "wordCount": 4458,
+          "wordCount": 4455,
           "title": "JavaScript For Everyone: Iterators",
           "imageUrl": "https:null"
         },
@@ -254,7 +264,7 @@
           "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.",
           "link": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
           "publishedOn": "2025-10-22T13:00:00.000Z",
-          "wordCount": 4595,
+          "wordCount": 4610,
           "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
           "imageUrl": "https:null"
         }
@@ -266,12 +276,42 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "691b909391d8c0f995d8ddc4",
+          "author": "Manish Shivanandhan",
+          "description": "Large language models are smart. But they are not always well-informed. They can write code, summarize books, and explain complex topics, but they struggle with real-time facts. Their knowledge ends at their training cutoff, which means they can’t te...",
+          "link": "https://www.freecodecamp.org/news/how-to-add-real-time-web-search-to-your-llm-using-tavily/",
+          "publishedOn": "2025-11-17T21:16:03.000Z",
+          "wordCount": 2111,
+          "title": "How to Add Real-Time Web Search to Your LLM Using Tavily",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763414073220/a9ec7f2d-515e-4d1e-9150-a72450d8aec3.png"
+        },
+        {
+          "id": "691b3eab5aa173ac953652e2",
+          "author": "Balogun Wahab",
+          "description": "Reanimated 4 brings Cascading Style Sheets (CSS) animations to React Native while keeping full backward compatibility with its worklet-based API. You can now build 60+ frames-per-second (FPS) animations using familiar web syntax, or drop down to work...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-fluid-animations-with-react-native-reanimated-v4/",
+          "publishedOn": "2025-11-17T15:26:35.000Z",
+          "wordCount": 5057,
+          "title": "How to Create Fluid Animations with React Native Reanimated v4",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763052228638/4416e81d-b76e-4c40-987e-0aff1d82ff7b.png"
+        },
+        {
+          "id": "691b3887dbd8303d75f4137c",
+          "author": "Beau Carnes",
+          "description": "Backend development involves building the server-side \"brain\" of a website that manages user data, authentication, and database communication. We just posted a tutorial on the freeCodeCamp.org YouTube channel that will teach you how to construct a ba...",
+          "link": "https://www.freecodecamp.org/news/intro-to-backend-web-development-nodejs-express-mongodb/",
+          "publishedOn": "2025-11-17T15:00:23.000Z",
+          "wordCount": 1211,
+          "title": "Intro to Backend Web Development – Node.js, Express, MongoDB",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763372629451/d682e5f7-31d1-48af-8957-8e916b7b506a.jpeg"
+        },
+        {
           "id": "691770eb5879bafaa784b694",
           "author": "Manish Shivanandhan",
-          "description": "If you’re a developer looking for a simple, fast, and self-hosted backend, PocketBase might be exactly what you need.  It’s an open-source backend written in Go that lets you set up a complete backend with database, authentication, file storage, and ...",
+          "description": "If you’re a developer looking for a simple, fast, and self-hosted backend, PocketBase might be exactly what you need. It’s an open-source backend written in Go that lets you set up a complete backend with database, authentication, file storage, and r...",
           "link": "https://www.freecodecamp.org/news/how-to-get-started-with-pocketbase-build-a-lightweight-backend-in-minutes/",
           "publishedOn": "2025-11-14T18:11:55.000Z",
-          "wordCount": 2512,
+          "wordCount": 2511,
           "title": "How to Get Started with PocketBase: Build a Lightweight Backend in Minutes",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763143867523/1a4c8cd4-629f-4dd7-8a82-5b6d0d34d90e.png"
         },
@@ -334,36 +374,6 @@
           "wordCount": 1981,
           "title": "How to Keep LLM Outputs Predictable Using Pydantic Validation",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763065838390/e6248d42-70e3-45fe-8ea1-1db32b261573.png"
-        },
-        {
-          "id": "6915f8076f343530b3b31c7b",
-          "author": "Tapas Adhikary",
-          "description": "JSON, or JavaScript Object Notation, was popularized by Douglas Crockford in early 2000. Since then, there’s been no looking back. JSON has become the standardized data exchange format between client and server technologies. JSON was built for humans...",
-          "link": "https://www.freecodecamp.org/news/what-is-toon-how-token-oriented-object-notation-could-change-how-ai-sees-data/",
-          "publishedOn": "2025-11-13T15:23:51.000Z",
-          "wordCount": 2397,
-          "title": "What is TOON? How Token-Oriented Object Notation Could Change How AI Sees Data",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762978794293/e75f145b-a418-458e-8a41-12fe3add0107.png"
-        },
-        {
-          "id": "6915f7d8453f11c904fade0c",
-          "author": "Nikheel Vishwas Savant",
-          "description": "If you’ve ever opened the Android Bluetooth source code, you might know this feeling. You go in with the calm confidence of a developer who just wants to understand how things work. You open BluetoothAdapter.java and think, “Ah, this looks clean.” Th...",
-          "link": "https://www.freecodecamp.org/news/system-design-patterns-in-android-bluetooth-full-handbook/",
-          "publishedOn": "2025-11-13T15:23:04.000Z",
-          "wordCount": 9279,
-          "title": "System Design Patterns in Android Bluetooth [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763047349934/78e1861c-62d3-44c8-adc3-971d6b63a7cc.png"
-        },
-        {
-          "id": "6915f73887b014aa0a104567",
-          "author": "Kamal Kishore",
-          "description": "You may have built a Retrieval-Augmented Generation (RAG) pipeline to connect a vector store to a powerful LLM. And RAG pipelines are incredibly effective at grounding models in factual, up-to-date knowledge. But if you've worked with them long enoug...",
-          "link": "https://www.freecodecamp.org/news/how-to-solve-5-common-rag-failures-with-knowledge-graphs/",
-          "publishedOn": "2025-11-13T15:20:24.000Z",
-          "wordCount": 4581,
-          "title": "How to Solve 5 Common RAG Failures with Knowledge Graphs",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762904270014/5ebeec2b-0823-4f59-bdd7-bf37cb68a978.png"
         }
       ]
     }
