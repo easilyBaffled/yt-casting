@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-18T00:33:55.543Z</id>
+    <id>urn:2025-11-19T00:34:35.445Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-18T00:33:55.543Z</updated>
+    <updated>2025-11-19T00:34:35.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Level Up Your JavaScript – Detect Smells & Write Clean Code]]></title>
+        <id>691c87f2e14e4f3c7eeb659e</id>
+        <link href="https://www.freecodecamp.org/news/level-up-your-javascript-detect-smells-and-write-clean-code/"/>
+        <updated>2025-11-18T14:51:30.000Z</updated>
+        <summary type="html"><![CDATA[We just posted course on freeCodeCamp.org YouTube channel that will teach you how to transform messy, hard-to-maintain JavaScript code into clean, readable, and professional-quality code that scales. This course was developed by Tapas Adhikary. He'll...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Chaos To Clarity: Simplifying Server Management With AI And Automation]]></title>
+        <id>https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/</id>
+        <link href="https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/"/>
+        <updated>2025-11-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Server chaos doesn’t have to be the norm. AI-ready infrastructure and automation can bring clarity, performance, and focus back to your web work.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mansoor Ahmed Khan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Portfolio Website Using Figma and AI Tools – A Guide for Developers]]></title>
+        <id>691b93910ca13a7c59ae7a34</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-portfolio-website-using-figma-and-ai-tools/"/>
+        <updated>2025-11-17T21:28:49.000Z</updated>
+        <summary type="html"><![CDATA[Ever since my article on How to Become a Full Stack Developer and Get a Job in 2025 went viral, I’ve received countless DMs, emails, and even WhatsApp messages from readers. People have been asking about everything from learning to code and mastering...]]></summary>
+        <author>
+            <name>Prankur Pandey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Add Real-Time Web Search to Your LLM Using Tavily]]></title>
         <id>691b909391d8c0f995d8ddc4</id>
@@ -115,26 +145,6 @@ Quiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, whi
         <summary type="html"><![CDATA[Picture this: you’re sitting in a café with your laptop open, phone on the table, smartwatch buzzing every few minutes, and Bluetooth earbuds playing music. From your perspective, life is peaceful. From your phone’s perspective, it’s juggling a ridic...]]></summary>
         <author>
             <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Secret Life of Your CPU: Exploring the Low Power Island in Android Bluetooth]]></title>
-        <id>69164a5b08d80a5fa5d56f1e</id>
-        <link href="https://www.freecodecamp.org/news/the-secret-life-of-your-cpu-exploring-the-low-power-island-in-android-bluetooth/"/>
-        <updated>2025-11-13T21:15:07.000Z</updated>
-        <summary type="html"><![CDATA[If your phone were a person, it would probably be that overachieving friend who cannot sit still. The kind who insists they are relaxing while secretly running errands, replying to messages, and checking the weather at the same time. Inside your Andr...]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Keep LLM Outputs Predictable Using Pydantic Validation]]></title>
-        <id>69164018ac4b066d7018502d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-keep-llm-outputs-predictable-using-pydantic-validation/"/>
-        <updated>2025-11-13T20:31:20.000Z</updated>
-        <summary type="html"><![CDATA[Large language models are powerful, but they can also be unpredictable. They might generate long explanations when you expect a short summary, skip fields in a JSON output, or change the format completely from one request to another. When you’re buil...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>

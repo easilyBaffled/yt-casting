@@ -27,7 +27,7 @@
           "description": "The extremely new framework that caught lots of attention will continue as a personal project.\nQuiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/",
           "publishedOn": "2025-11-14T15:32:50.000Z",
-          "wordCount": 1912,
+          "wordCount": 1937,
           "title": "Quiet UI Came and Went, Quiet as a Mouse",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/quiet-ui.png"
         },
@@ -144,12 +144,22 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/",
+          "author": "hello@smashingmagazine.com (Mansoor Ahmed Khan)",
+          "description": "Server chaos doesn’t have to be the norm. AI-ready infrastructure and automation can bring clarity, performance, and focus back to your web work.",
+          "link": "https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/",
+          "publishedOn": "2025-11-18T10:00:00.000Z",
+          "wordCount": 3718,
+          "title": "From Chaos To Clarity: Simplifying Server Management With AI And Automation",
+          "imageUrl": "https:null"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
           "author": "hello@smashingmagazine.com (Godstime Aburu)",
           "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.",
           "link": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
           "publishedOn": "2025-11-14T13:00:00.000Z",
-          "wordCount": 6489,
+          "wordCount": null,
           "title": "CSS Gamepad API Visual Debugging With CSS Layers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg",
@@ -164,7 +174,7 @@
           "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.",
           "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
           "publishedOn": "2025-11-13T08:00:00.000Z",
-          "wordCount": 6493,
+          "wordCount": 6490,
           "title": "Older Tech In The Browser Stack",
           "enclosure": {
             "url": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg",
@@ -194,7 +204,7 @@
           "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.",
           "link": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
           "publishedOn": "2025-11-07T15:00:00.000Z",
-          "wordCount": 4725,
+          "wordCount": 4731,
           "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg",
@@ -239,7 +249,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
           "publishedOn": "2025-10-31T12:00:00.000Z",
-          "wordCount": 4775,
+          "wordCount": 4786,
           "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -254,7 +264,7 @@
           "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
           "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
           "publishedOn": "2025-10-27T13:00:00.000Z",
-          "wordCount": 4455,
+          "wordCount": 4452,
           "title": "JavaScript For Everyone: Iterators",
           "imageUrl": "https:null"
         },
@@ -264,7 +274,7 @@
           "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.",
           "link": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
           "publishedOn": "2025-10-22T13:00:00.000Z",
-          "wordCount": 4610,
+          "wordCount": 4608,
           "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
           "imageUrl": "https:null"
         }
@@ -275,6 +285,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "691c87f2e14e4f3c7eeb659e",
+          "author": "Beau Carnes",
+          "description": "We just posted course on freeCodeCamp.org YouTube channel that will teach you how to transform messy, hard-to-maintain JavaScript code into clean, readable, and professional-quality code that scales. This course was developed by Tapas Adhikary. He'll...",
+          "link": "https://www.freecodecamp.org/news/level-up-your-javascript-detect-smells-and-write-clean-code/",
+          "publishedOn": "2025-11-18T14:51:30.000Z",
+          "wordCount": 1008,
+          "title": "Level Up Your JavaScript – Detect Smells & Write Clean Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763477401188/23bf5316-c553-4868-879f-303af09d4f4b.jpeg"
+        },
+        {
+          "id": "691b93910ca13a7c59ae7a34",
+          "author": "Prankur Pandey",
+          "description": "Ever since my article on How to Become a Full Stack Developer and Get a Job in 2025 went viral, I’ve received countless DMs, emails, and even WhatsApp messages from readers. People have been asking about everything from learning to code and mastering...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-portfolio-website-using-figma-and-ai-tools/",
+          "publishedOn": "2025-11-17T21:28:49.000Z",
+          "wordCount": 7795,
+          "title": "How to Build a Portfolio Website Using Figma and AI Tools – A Guide for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763156337448/4d944077-b800-4bfd-bb70-645777eb00a2.png"
+        },
         {
           "id": "691b909391d8c0f995d8ddc4",
           "author": "Manish Shivanandhan",
@@ -354,26 +384,6 @@
           "wordCount": 4194,
           "title": "How Bluetooth Socket Settings Power Android’s Low Power Island: A Friendly Deep Dive into AOSP’s Hidden Energy Saver",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763071691608/30075d98-7eb4-4f87-9396-d76d91c92fea.png"
-        },
-        {
-          "id": "69164a5b08d80a5fa5d56f1e",
-          "author": "Nikheel Vishwas Savant",
-          "description": "If your phone were a person, it would probably be that overachieving friend who cannot sit still. The kind who insists they are relaxing while secretly running errands, replying to messages, and checking the weather at the same time. Inside your Andr...",
-          "link": "https://www.freecodecamp.org/news/the-secret-life-of-your-cpu-exploring-the-low-power-island-in-android-bluetooth/",
-          "publishedOn": "2025-11-13T21:15:07.000Z",
-          "wordCount": 4613,
-          "title": "The Secret Life of Your CPU: Exploring the Low Power Island in Android Bluetooth",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763065956169/7d83bf98-a7a8-42cd-b27b-f6c202612959.png"
-        },
-        {
-          "id": "69164018ac4b066d7018502d",
-          "author": "Manish Shivanandhan",
-          "description": "Large language models are powerful, but they can also be unpredictable. They might generate long explanations when you expect a short summary, skip fields in a JSON output, or change the format completely from one request to another. When you’re buil...",
-          "link": "https://www.freecodecamp.org/news/how-to-keep-llm-outputs-predictable-using-pydantic-validation/",
-          "publishedOn": "2025-11-13T20:31:20.000Z",
-          "wordCount": 1981,
-          "title": "How to Keep LLM Outputs Predictable Using Pydantic Validation",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763065838390/e6248d42-70e3-45fe-8ea1-1db32b261573.png"
         }
       ]
     }
