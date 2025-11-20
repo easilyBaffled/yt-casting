@@ -17,7 +17,7 @@
           "description": "If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric functions come in!\nThe “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/",
           "publishedOn": "2025-11-17T14:47:54.000Z",
-          "wordCount": 4131,
+          "wordCount": 4193,
           "title": "The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/css-trig-unit-circle-diagram.jpg"
         },
@@ -125,16 +125,6 @@
           "wordCount": 4406,
           "title": "An Introduction to JavaScript Expressions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/javascript-for-everyone-scaled.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388560",
-          "author": "Zell Liew",
-          "description": "Honeypots are fields that developers use to prevent spam submissions. They still work in 2025. But you got to set a couple of tricks in place so spambots can’t detect your honeypot field.\nBuilding a Honeypot Field That Works originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/building-a-honeypot-field-that-works/",
-          "publishedOn": "2025-10-20T16:11:40.000Z",
-          "wordCount": 2755,
-          "title": "Building a Honeypot Field That Works",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/04/sticky-header.png"
         }
       ]
     },
@@ -159,7 +149,7 @@
           "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.",
           "link": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
           "publishedOn": "2025-11-14T13:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6490,
           "title": "CSS Gamepad API Visual Debugging With CSS Layers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg",
@@ -174,7 +164,7 @@
           "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.",
           "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
           "publishedOn": "2025-11-13T08:00:00.000Z",
-          "wordCount": 6490,
+          "wordCount": 6498,
           "title": "Older Tech In The Browser Stack",
           "enclosure": {
             "url": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg",
@@ -204,7 +194,7 @@
           "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.",
           "link": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
           "publishedOn": "2025-11-07T15:00:00.000Z",
-          "wordCount": 4731,
+          "wordCount": 4719,
           "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg",
@@ -249,7 +239,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
           "publishedOn": "2025-10-31T12:00:00.000Z",
-          "wordCount": 4786,
+          "wordCount": 4777,
           "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -264,7 +254,7 @@
           "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
           "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
           "publishedOn": "2025-10-27T13:00:00.000Z",
-          "wordCount": 4452,
+          "wordCount": 4460,
           "title": "JavaScript For Everyone: Iterators",
           "imageUrl": "https:null"
         },
@@ -274,7 +264,7 @@
           "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.",
           "link": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
           "publishedOn": "2025-10-22T13:00:00.000Z",
-          "wordCount": 4608,
+          "wordCount": 4604,
           "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
           "imageUrl": "https:null"
         }
@@ -285,6 +275,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "691e0d7802a17c33f13c6a0c",
+          "author": "Manish Shivanandhan",
+          "description": "Artificial intelligence is changing how big companies work every single day. What used to take hours of manual effort or long approval chains can now happen in seconds with AI-powered systems.  From supply chains to IT operations, AI is helping enter...",
+          "link": "https://www.freecodecamp.org/news/how-ai-is-transforming-enterprise-operations/",
+          "publishedOn": "2025-11-19T18:33:28.000Z",
+          "wordCount": 1969,
+          "title": "How AI is Transforming Enterprise Operations",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763502776458/34e6fd23-d8ae-4392-ac1a-905ecc8bccbc.png"
+        },
+        {
+          "id": "691de96a0dec4f292a0f8ff0",
+          "author": "Manish Shivanandhan",
+          "description": "Every game developer obsesses over performance, textures, and frame rates, but resolution is the quiet foundation that makes or breaks visual quality.  Whether you are building a pixel-art indie game or a high-fidelity 3D world, understanding how res...",
+          "link": "https://www.freecodecamp.org/news/a-game-developers-guide-to-understanding-screen-resolution/",
+          "publishedOn": "2025-11-19T15:59:38.000Z",
+          "wordCount": 2030,
+          "title": "A Game Developer’s Guide to Understanding Screen Resolution",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763567809746/3fb2c926-9602-4765-9ef4-5ea565e0e148.png"
+        },
+        {
+          "id": "691db3b57953797388329ea6",
+          "author": "Beau Carnes",
+          "description": "Learn how to use Three.js and Blender to design a stunning and interactive 3D portfolio! We just posted a course on the freeCodeCamp.org YouTube channel that will take you from the foundational concepts of 3D modeling in Blender to creating a fully f...",
+          "link": "https://www.freecodecamp.org/news/create-a-cute-room-portfolio-with-threejs-blender-javascript/",
+          "publishedOn": "2025-11-19T12:10:29.000Z",
+          "wordCount": 1339,
+          "title": "Create a Cute Room Portfolio with Three.js, Blender, JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763546767762/f0471b3d-33da-4cec-9d70-f2dd795d687e.jpeg"
+        },
+        {
+          "id": "691cf09fea147a95b92d3551",
+          "author": "oghenekparobo Stephen",
+          "description": "In this handbook, you’ll learn what Docker is, why it’s become an essential, must-have skill for backend and full-stack developers in 2025, and most importantly, how to use it in real-world projects from start to finish. We will go far beyond the usu...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-to-docker-with-nodejs-handbook/",
+          "publishedOn": "2025-11-18T22:18:07.000Z",
+          "wordCount": 12061,
+          "title": "How to Use to Docker with Node.js: A Handbook for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763502750050/74610cbc-124b-48aa-9cb6-7ed861123511.png"
+        },
+        {
+          "id": "691cc4c083c778add388cc95",
+          "author": "Manish Shivanandhan",
+          "description": "Every developer working with large language models eventually faces the same challenge: prompts keep getting longer, models keep getting slower, and API bills keep getting higher. Whether you’re building a retrieval-augmented generation (RAG) system ...",
+          "link": "https://www.freecodecamp.org/news/how-to-compress-your-prompts-and-reduce-llm-costs/",
+          "publishedOn": "2025-11-18T19:10:56.000Z",
+          "wordCount": 2195,
+          "title": "How to Compress Your Prompts and Reduce LLM Costs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763493041384/75c787b8-6e41-4733-bf8d-815170196b5b.png"
+        },
         {
           "id": "691c87f2e14e4f3c7eeb659e",
           "author": "Beau Carnes",
@@ -334,56 +374,6 @@
           "wordCount": 1211,
           "title": "Intro to Backend Web Development – Node.js, Express, MongoDB",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763372629451/d682e5f7-31d1-48af-8957-8e916b7b506a.jpeg"
-        },
-        {
-          "id": "691770eb5879bafaa784b694",
-          "author": "Manish Shivanandhan",
-          "description": "If you’re a developer looking for a simple, fast, and self-hosted backend, PocketBase might be exactly what you need. It’s an open-source backend written in Go that lets you set up a complete backend with database, authentication, file storage, and r...",
-          "link": "https://www.freecodecamp.org/news/how-to-get-started-with-pocketbase-build-a-lightweight-backend-in-minutes/",
-          "publishedOn": "2025-11-14T18:11:55.000Z",
-          "wordCount": 2511,
-          "title": "How to Get Started with PocketBase: Build a Lightweight Backend in Minutes",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763143867523/1a4c8cd4-629f-4dd7-8a82-5b6d0d34d90e.png"
-        },
-        {
-          "id": "69174b1090e746d252948913",
-          "author": "Beau Carnes",
-          "description": "Dr. David J. Malan teaches computer science at Harvard. Over the past decade, millions of people have taken his CS50 course both in person and online. He joins us to talk about: Why he still recommends learning the C programming language in 2026 Ho...",
-          "link": "https://www.freecodecamp.org/news/harvard-cs50-prof-david-j-malan-on-why-you-should-learn-programming-slowly-podcast-197/",
-          "publishedOn": "2025-11-14T15:30:24.000Z",
-          "wordCount": 1305,
-          "title": "Harvard CS50 prof David J. Malan on why you should learn programming slowly [Podcast #197]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763049586370/5f7786af-7213-444f-acff-a8060ccbfc88.jpeg"
-        },
-        {
-          "id": "691740a91f4fa448325a55f9",
-          "author": "Nneoma Uche",
-          "description": "Several languages and frameworks depend on dependency injection—no pun intended. Go, Angular, NestJS, and Python's FastAPI all use it as a core pattern. If you've been working with FastAPI, you've likely encountered dependencies in action. Perhaps yo...",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-dependency-injection-in-fastapi/",
-          "publishedOn": "2025-11-14T14:46:01.000Z",
-          "wordCount": 3191,
-          "title": "How to Implement Dependency Injection in FastAPI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763131442081/76eff35b-be68-49c1-9743-d78ebc87b292.png"
-        },
-        {
-          "id": "69164b0a612455db63b30bdc",
-          "author": "Manish Shivanandhan",
-          "description": "When people think of artificial intelligence, they imagine complex models, data centers, and cloud servers. What most don’t realize is that the real engine behind this AI revolution started in a place few expected: inside the humble gaming PC. The sa...",
-          "link": "https://www.freecodecamp.org/news/from-pixels-to-predictions-how-gpus-started-powering-modern-ai/",
-          "publishedOn": "2025-11-13T21:18:02.000Z",
-          "wordCount": 1964,
-          "title": "From Pixels to Predictions: How GPUs Started Powering Modern AI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763068628238/531621b6-1931-422f-b8ff-455c1ef58dab.png"
-        },
-        {
-          "id": "69164aadd6505b750fa4b659",
-          "author": "Nikheel Vishwas Savant",
-          "description": "Picture this: you’re sitting in a café with your laptop open, phone on the table, smartwatch buzzing every few minutes, and Bluetooth earbuds playing music. From your perspective, life is peaceful. From your phone’s perspective, it’s juggling a ridic...",
-          "link": "https://www.freecodecamp.org/news/how-bluetooth-socket-settings-power-androids-low-power-island-a-friendly-deep-dive-into-aosps-hidden-energy-saver/",
-          "publishedOn": "2025-11-13T21:16:29.000Z",
-          "wordCount": 4194,
-          "title": "How Bluetooth Socket Settings Power Android’s Low Power Island: A Friendly Deep Dive into AOSP’s Hidden Energy Saver",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763071691608/30075d98-7eb4-4f87-9396-d76d91c92fea.png"
         }
       ]
     }

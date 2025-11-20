@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-19T00:34:35.445Z</id>
+    <id>urn:2025-11-20T00:33:44.348Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-19T00:34:35.445Z</updated>
+    <updated>2025-11-20T00:33:44.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How AI is Transforming Enterprise Operations]]></title>
+        <id>691e0d7802a17c33f13c6a0c</id>
+        <link href="https://www.freecodecamp.org/news/how-ai-is-transforming-enterprise-operations/"/>
+        <updated>2025-11-19T18:33:28.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence is changing how big companies work every single day. What used to take hours of manual effort or long approval chains can now happen in seconds with AI-powered systems.  From supply chains to IT operations, AI is helping enter...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Game Developer’s Guide to Understanding Screen Resolution]]></title>
+        <id>691de96a0dec4f292a0f8ff0</id>
+        <link href="https://www.freecodecamp.org/news/a-game-developers-guide-to-understanding-screen-resolution/"/>
+        <updated>2025-11-19T15:59:38.000Z</updated>
+        <summary type="html"><![CDATA[Every game developer obsesses over performance, textures, and frame rates, but resolution is the quiet foundation that makes or breaks visual quality.  Whether you are building a pixel-art indie game or a high-fidelity 3D world, understanding how res...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Cute Room Portfolio with Three.js, Blender, JavaScript]]></title>
+        <id>691db3b57953797388329ea6</id>
+        <link href="https://www.freecodecamp.org/news/create-a-cute-room-portfolio-with-threejs-blender-javascript/"/>
+        <updated>2025-11-19T12:10:29.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to use Three.js and Blender to design a stunning and interactive 3D portfolio! We just posted a course on the freeCodeCamp.org YouTube channel that will take you from the foundational concepts of 3D modeling in Blender to creating a fully f...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use to Docker with Node.js: A Handbook for Developers]]></title>
+        <id>691cf09fea147a95b92d3551</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-to-docker-with-nodejs-handbook/"/>
+        <updated>2025-11-18T22:18:07.000Z</updated>
+        <summary type="html"><![CDATA[In this handbook, you’ll learn what Docker is, why it’s become an essential, must-have skill for backend and full-stack developers in 2025, and most importantly, how to use it in real-world projects from start to finish. We will go far beyond the usu...]]></summary>
+        <author>
+            <name>oghenekparobo Stephen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Compress Your Prompts and Reduce LLM Costs]]></title>
+        <id>691cc4c083c778add388cc95</id>
+        <link href="https://www.freecodecamp.org/news/how-to-compress-your-prompts-and-reduce-llm-costs/"/>
+        <updated>2025-11-18T19:10:56.000Z</updated>
+        <summary type="html"><![CDATA[Every developer working with large language models eventually faces the same challenge: prompts keep getting longer, models keep getting slower, and API bills keep getting higher. Whether you’re building a retrieval-augmented generation (RAG) system ...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Level Up Your JavaScript – Detect Smells & Write Clean Code]]></title>
         <id>691c87f2e14e4f3c7eeb659e</id>
@@ -77,16 +127,6 @@ The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Get Started with PocketBase: Build a Lightweight Backend in Minutes]]></title>
-        <id>691770eb5879bafaa784b694</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-pocketbase-build-a-lightweight-backend-in-minutes/"/>
-        <updated>2025-11-14T18:11:55.000Z</updated>
-        <summary type="html"><![CDATA[If you’re a developer looking for a simple, fast, and self-hosted backend, PocketBase might be exactly what you need. It’s an open-source backend written in Go that lets you set up a complete backend with database, authentication, file storage, and r...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Quiet UI Came and Went, Quiet as a Mouse]]></title>
         <id>https://css-tricks.com/?p=390408</id>
         <link href="https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/"/>
@@ -98,26 +138,6 @@ Quiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, whi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Harvard CS50 prof David J. Malan on why you should learn programming slowly [Podcast #197]]]></title>
-        <id>69174b1090e746d252948913</id>
-        <link href="https://www.freecodecamp.org/news/harvard-cs50-prof-david-j-malan-on-why-you-should-learn-programming-slowly-podcast-197/"/>
-        <updated>2025-11-14T15:30:24.000Z</updated>
-        <summary type="html"><![CDATA[Dr. David J. Malan teaches computer science at Harvard. Over the past decade, millions of people have taken his CS50 course both in person and online. He joins us to talk about: Why he still recommends learning the C programming language in 2026 Ho...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Dependency Injection in FastAPI]]></title>
-        <id>691740a91f4fa448325a55f9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-dependency-injection-in-fastapi/"/>
-        <updated>2025-11-14T14:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Several languages and frameworks depend on dependency injection—no pun intended. Go, Angular, NestJS, and Python's FastAPI all use it as a core pattern. If you've been working with FastAPI, you've likely encountered dependencies in action. Perhaps yo...]]></summary>
-        <author>
-            <name>Nneoma Uche</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSS Gamepad API Visual Debugging With CSS Layers]]></title>
         <id>https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/</id>
         <link href="https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/"/>
@@ -125,26 +145,6 @@ Quiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, whi
         <summary type="html"><![CDATA[Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Godstime Aburu)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Pixels to Predictions: How GPUs Started Powering Modern AI]]></title>
-        <id>69164b0a612455db63b30bdc</id>
-        <link href="https://www.freecodecamp.org/news/from-pixels-to-predictions-how-gpus-started-powering-modern-ai/"/>
-        <updated>2025-11-13T21:18:02.000Z</updated>
-        <summary type="html"><![CDATA[When people think of artificial intelligence, they imagine complex models, data centers, and cloud servers. What most don’t realize is that the real engine behind this AI revolution started in a place few expected: inside the humble gaming PC. The sa...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Bluetooth Socket Settings Power Android’s Low Power Island: A Friendly Deep Dive into AOSP’s Hidden Energy Saver]]></title>
-        <id>69164aadd6505b750fa4b659</id>
-        <link href="https://www.freecodecamp.org/news/how-bluetooth-socket-settings-power-androids-low-power-island-a-friendly-deep-dive-into-aosps-hidden-energy-saver/"/>
-        <updated>2025-11-13T21:16:29.000Z</updated>
-        <summary type="html"><![CDATA[Picture this: you’re sitting in a café with your laptop open, phone on the table, smartwatch buzzing every few minutes, and Bluetooth earbuds playing music. From your perspective, life is peaceful. From your phone’s perspective, it’s juggling a ridic...]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
         </author>
     </entry>
     <entry>
@@ -314,17 +314,6 @@ An Introduction to JavaScript Expressions originally published on CSS-Tricks, wh
         <summary type="html"><![CDATA[Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Honeypot Field That Works]]></title>
-        <id>https://css-tricks.com/?p=388560</id>
-        <link href="https://css-tricks.com/building-a-honeypot-field-that-works/"/>
-        <updated>2025-10-20T16:11:40.000Z</updated>
-        <summary type="html"><![CDATA[Honeypots are fields that developers use to prevent spam submissions. They still work in 2025. But you got to set a couple of tricks in place so spambots can’t detect your honeypot field.
-Building a Honeypot Field That Works originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
 </feed>
