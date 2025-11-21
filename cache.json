@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390115",
+          "author": "Sunkanmi Fafowora",
+          "description": "Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a thing.\nShould We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/should-we-even-have-closed/",
+          "publishedOn": "2025-11-20T15:10:26.000Z",
+          "wordCount": 2420,
+          "title": "Should We Even Have :closed?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/12/opinon-this-that-signs.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=390236",
           "author": "Juan Diego Rodríguez",
           "description": "If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric functions come in!\nThe “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/",
           "publishedOn": "2025-11-17T14:47:54.000Z",
-          "wordCount": 4193,
+          "wordCount": 4215,
           "title": "The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/css-trig-unit-circle-diagram.jpg"
         },
@@ -139,9 +149,9 @@
           "description": "Server chaos doesn’t have to be the norm. AI-ready infrastructure and automation can bring clarity, performance, and focus back to your web work.",
           "link": "https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/",
           "publishedOn": "2025-11-18T10:00:00.000Z",
-          "wordCount": 3718,
+          "wordCount": null,
           "title": "From Chaos To Clarity: Simplifying Server Management With AI And Automation",
-          "imageUrl": "https:null"
+          "imageUrl": null
         },
         {
           "id": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
@@ -149,7 +159,7 @@
           "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.",
           "link": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
           "publishedOn": "2025-11-14T13:00:00.000Z",
-          "wordCount": 6490,
+          "wordCount": null,
           "title": "CSS Gamepad API Visual Debugging With CSS Layers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg",
@@ -164,7 +174,7 @@
           "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.",
           "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
           "publishedOn": "2025-11-13T08:00:00.000Z",
-          "wordCount": 6498,
+          "wordCount": 6495,
           "title": "Older Tech In The Browser Stack",
           "enclosure": {
             "url": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg",
@@ -194,7 +204,7 @@
           "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.",
           "link": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
           "publishedOn": "2025-11-07T15:00:00.000Z",
-          "wordCount": 4719,
+          "wordCount": 4725,
           "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg",
@@ -209,7 +219,7 @@
           "description": "Let’s dive into the building blocks of UX strategy and see how it speaks the language of product and business strategy to create user value while achieving company goals. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).",
           "link": "https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/",
           "publishedOn": "2025-11-05T13:00:00.000Z",
-          "wordCount": 3929,
+          "wordCount": null,
           "title": "Six Key Components of UX Strategy",
           "enclosure": {
             "url": "http://files.smashing.media/articles/key-components-ux-strategy/practical-guide-ux-strategy.jpg",
@@ -224,7 +234,7 @@
           "description": "With component variants, design systems become more flexible, letting you reuse the same component while adapting its look or state with ease. In this article, Daniel Schwarz demonstrates how design tokens can be leveraged to manage components and their variations using Penpot, the open-source tool built for scalable, consistent design.",
           "link": "https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/",
           "publishedOn": "2025-11-04T10:00:00.000Z",
-          "wordCount": 4411,
+          "wordCount": null,
           "title": "How To Leverage Component Variants In Penpot",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-leverage-component-variants-penpot/how-leverage-component-variants-penpot.jpg",
@@ -239,7 +249,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
           "publishedOn": "2025-10-31T12:00:00.000Z",
-          "wordCount": 4777,
+          "wordCount": 4784,
           "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -254,7 +264,7 @@
           "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
           "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
           "publishedOn": "2025-10-27T13:00:00.000Z",
-          "wordCount": 4460,
+          "wordCount": 4461,
           "title": "JavaScript For Everyone: Iterators",
           "imageUrl": "https:null"
         },
@@ -301,14 +311,14 @@
           "description": "Learn how to use Three.js and Blender to design a stunning and interactive 3D portfolio! We just posted a course on the freeCodeCamp.org YouTube channel that will take you from the foundational concepts of 3D modeling in Blender to creating a fully f...",
           "link": "https://www.freecodecamp.org/news/create-a-cute-room-portfolio-with-threejs-blender-javascript/",
           "publishedOn": "2025-11-19T12:10:29.000Z",
-          "wordCount": 1339,
+          "wordCount": 1334,
           "title": "Create a Cute Room Portfolio with Three.js, Blender, JavaScript",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763546767762/f0471b3d-33da-4cec-9d70-f2dd795d687e.jpeg"
         },
         {
           "id": "691cf09fea147a95b92d3551",
-          "author": "oghenekparobo Stephen",
-          "description": "In this handbook, you’ll learn what Docker is, why it’s become an essential, must-have skill for backend and full-stack developers in 2025, and most importantly, how to use it in real-world projects from start to finish. We will go far beyond the usu...",
+          "author": "Oghenekparobo Stephen",
+          "description": "In this handbook, you’ll learn what Docker is and why it’s a must-have skill for backend and full-stack developers. And, most importantly, you’ll learn how to use it in real-world projects from start to finish. We will go far beyond the usual “Hello ...",
           "link": "https://www.freecodecamp.org/news/how-to-use-to-docker-with-nodejs-handbook/",
           "publishedOn": "2025-11-18T22:18:07.000Z",
           "wordCount": 12061,
@@ -331,8 +341,8 @@
           "description": "We just posted course on freeCodeCamp.org YouTube channel that will teach you how to transform messy, hard-to-maintain JavaScript code into clean, readable, and professional-quality code that scales. This course was developed by Tapas Adhikary. He'll...",
           "link": "https://www.freecodecamp.org/news/level-up-your-javascript-detect-smells-and-write-clean-code/",
           "publishedOn": "2025-11-18T14:51:30.000Z",
-          "wordCount": 1008,
-          "title": "Level Up Your JavaScript – Detect Smells & Write Clean Code",
+          "wordCount": 1014,
+          "title": "JavaScript Clean Code Course – How to Detect Code Smells and Refactor Accordingly",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763477401188/23bf5316-c553-4868-879f-303af09d4f4b.jpeg"
         },
         {
@@ -368,7 +378,7 @@
         {
           "id": "691b3887dbd8303d75f4137c",
           "author": "Beau Carnes",
-          "description": "Backend development involves building the server-side \"brain\" of a website that manages user data, authentication, and database communication. We just posted a tutorial on the freeCodeCamp.org YouTube channel that will teach you how to construct a ba...",
+          "description": "Backend development involves building the server-side \"brain\" of a website that manages user data, authentication, and database communication. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to construct a basi...",
           "link": "https://www.freecodecamp.org/news/intro-to-backend-web-development-nodejs-express-mongodb/",
           "publishedOn": "2025-11-17T15:00:23.000Z",
           "wordCount": 1211,
