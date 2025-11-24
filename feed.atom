@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-23T00:39:41.788Z</id>
+    <id>urn:2025-11-24T00:37:01.279Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-23T00:39:41.788Z</updated>
+    <updated>2025-11-24T00:37:01.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -314,17 +314,6 @@ Pure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks
         <summary type="html"><![CDATA[Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mat Marquis)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Animations That Leverage the Parent-Child Relationship]]></title>
-        <id>https://css-tricks.com/?p=389794</id>
-        <link href="https://css-tricks.com/css-animations-that-leverage-the-parent-child-relationship/"/>
-        <updated>2025-10-24T14:18:03.000Z</updated>
-        <summary type="html"><![CDATA[When we change an element’s intrinsic sizing, its children are affected, too. This is something we can use to our advantage.
-CSS Animations That Leverage the Parent-Child Relationship originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
 </feed>
