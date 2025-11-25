@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389944",
+          "author": "Daniel Schwarz",
+          "description": "There are many ways to share properties, but what would it look like to inherit and use any parent property value on a child?\nOn Inheriting and Sharing Property Values originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/on-inheriting-and-sharing-property-values/",
+          "publishedOn": "2025-11-24T14:22:30.000Z",
+          "wordCount": 3339,
+          "title": "On Inheriting and Sharing Property Values",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/dashy-circles.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=390539",
           "author": "Geoff Graham",
           "description": "Sketch probably didn't \"have\" to redesign its UI to line up with macOS Tahoe, but a big part of its appeal is the fact that it feels like it totally belongs to the Mac.\nSketch: A guided tour of Copenhagen originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -27,7 +37,7 @@
           "description": "Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a thing.\nShould We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/should-we-even-have-closed/",
           "publishedOn": "2025-11-20T15:10:26.000Z",
-          "wordCount": 2477,
+          "wordCount": 2478,
           "title": "Should We Even Have :closed?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/12/opinon-this-that-signs.png"
         },
@@ -57,7 +67,7 @@
           "description": "Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric values as well as numeric values tokenized by custom properties or the attr() function.\nThe Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-range-syntax-has-come-to-container-style-queries-and-if/",
           "publishedOn": "2025-11-13T15:00:20.000Z",
-          "wordCount": 3249,
+          "wordCount": 3301,
           "title": "The Range Syntax Has Come to Container Style Queries and if()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/media-query-range-syntax.png"
         },
@@ -112,7 +122,7 @@
           "description": "Can we use the <details> element as the foundation for a tabbed interface? Why yes, we can!\nPure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/pure-css-tabs-with-details-grid-and-subgrid/",
           "publishedOn": "2025-10-27T14:33:17.000Z",
-          "wordCount": 3261,
+          "wordCount": 3351,
           "title": "Pure CSS Tabs With Details, Grid, and Subgrid",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2025/10/demo-1.mp4",
@@ -129,12 +139,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/11/designing-for-stress-emergency/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Practical guidelines on designing time-critical products that prevent errors and improve accuracy. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today). With a live UX training starting next week.",
+          "link": "https://smashingmagazine.com/2025/11/designing-for-stress-emergency/",
+          "publishedOn": "2025-11-24T13:00:00.000Z",
+          "wordCount": 4023,
+          "title": "Designing For Stress And Emergency",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-for-stress-and-emergency/designing-for-stress-emergency.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-for-stress-and-emergency/designing-for-stress-emergency.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
           "author": "hello@smashingmagazine.com (Amit Sheen)",
           "description": "Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.",
           "link": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
           "publishedOn": "2025-11-21T08:00:00.000Z",
-          "wordCount": 7584,
+          "wordCount": 7576,
           "title": "Keyframes Tokens: Standardizing Animation Across Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg",
@@ -159,7 +184,7 @@
           "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.",
           "link": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
           "publishedOn": "2025-11-14T13:00:00.000Z",
-          "wordCount": 6486,
+          "wordCount": 6493,
           "title": "CSS Gamepad API Visual Debugging With CSS Layers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg",
@@ -174,7 +199,7 @@
           "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.",
           "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
           "publishedOn": "2025-11-13T08:00:00.000Z",
-          "wordCount": 6495,
+          "wordCount": 6493,
           "title": "Older Tech In The Browser Stack",
           "enclosure": {
             "url": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg",
@@ -249,7 +274,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
           "publishedOn": "2025-10-31T12:00:00.000Z",
-          "wordCount": 4775,
+          "wordCount": 4769,
           "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -264,7 +289,7 @@
           "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
           "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
           "publishedOn": "2025-10-27T13:00:00.000Z",
-          "wordCount": 4472,
+          "wordCount": 4456,
           "title": "JavaScript For Everyone: Iterators",
           "imageUrl": "https:null"
         }
@@ -275,6 +300,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6924c6fb01ae89275dfb14f6",
+          "author": "Olaleye Blessing",
+          "description": "React simplifies building user interfaces with hooks like useState for managing dynamic values. But it's common to overuse useState. This often leads to duplicated data and unnecessary complexity. For instance, you might store a full name in state wh...",
+          "link": "https://www.freecodecamp.org/news/simplify-react-components-with-derived-state/",
+          "publishedOn": "2025-11-24T20:58:35.000Z",
+          "wordCount": 4527,
+          "title": "How to Simplify Your React Components with Derived State",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764017894421/6bbd5cf2-c221-490c-891a-bf984cfaa92c.png"
+        },
         {
           "id": "6920d692526d14e1b0e126b7",
           "author": "Manish Shivanandhan",
@@ -364,16 +399,6 @@
           "wordCount": 2195,
           "title": "How to Compress Your Prompts and Reduce LLM Costs",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763493041384/75c787b8-6e41-4733-bf8d-815170196b5b.png"
-        },
-        {
-          "id": "691c87f2e14e4f3c7eeb659e",
-          "author": "Beau Carnes",
-          "description": "We just posted course on freeCodeCamp.org YouTube channel that will teach you how to transform messy, hard-to-maintain JavaScript code into clean, readable, and professional-quality code that scales. This course was developed by Tapas Adhikary. He'll...",
-          "link": "https://www.freecodecamp.org/news/level-up-your-javascript-detect-smells-and-write-clean-code/",
-          "publishedOn": "2025-11-18T14:51:30.000Z",
-          "wordCount": 1014,
-          "title": "JavaScript Clean Code Course – How to Detect Code Smells and Refactor Accordingly",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763477401188/23bf5316-c553-4868-879f-303af09d4f4b.jpeg"
         }
       ]
     }
