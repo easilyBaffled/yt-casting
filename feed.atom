@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-25T00:32:45.255Z</id>
+    <id>urn:2025-11-26T00:34:33.079Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-25T00:32:45.255Z</updated>
+    <updated>2025-11-26T00:34:33.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp's Top Open Source Contributors of 2025]]></title>
+        <id>69260ed9916e6c8689496788</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-top-open-source-contributors-2025/"/>
+        <updated>2025-11-25T20:17:29.000Z</updated>
+        <summary type="html"><![CDATA[2025 has been a super productive year for the global freeCodeCamp community. As we start our 12th year as a community, we’re firing on all cylinders, pushing forward more steadily than ever. This year we made substantial improvements to the new Full ...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Secure Authentication System with JWT and Refresh Tokens]]></title>
+        <id>6925f655569c4dde127d2f88</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-secure-authentication-system-with-jwt-and-refresh-tokens/"/>
+        <updated>2025-11-25T18:32:53.000Z</updated>
+        <summary type="html"><![CDATA[Every app that handles user accounts needs a way to confirm who’s who. That’s what authentication is for, making sure the person using an app is the person they claim to be. But doing this securely is harder than it sounds. Traditional methods often ...]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS Flexbox for Beginners [Free 2-hour course]]]></title>
+        <id>6925eef4915ee815a9b000df</id>
+        <link href="https://www.freecodecamp.org/news/learn-css-flexbox-for-beginners-free-2-hour-course/"/>
+        <updated>2025-11-25T18:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Flexbox is a powerful CSS feature that lets you build user interfaces that fit any screen size. freeCodeCamp just published a Flexbox for beginners course where you'll learn the concepts and code syntax by building your own website navigation bar. If...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design System Culture: What It Is And Why It Matters (Excerpt)]]></title>
+        <id>https://smashingmagazine.com/2025/11/design-system-culture/</id>
+        <link href="https://smashingmagazine.com/2025/11/design-system-culture/"/>
+        <updated>2025-11-25T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re so happy to announce that “Maturing Design Systems”—a Smashing book by Ben Callahan — will soon be joining the Smashing Library! Ben’s insights and advice are so powerful, we thought you might like to read an excerpt from the book. Subscribe to our Smashing newsletter to be notified when orders are open.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ari Stiles)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Your Own Cockroach DB  Instance on Kubernetes [Full Book for Devs]]]></title>
+        <id>6925e482ccc8b29b82c002c5</id>
+        <link href="https://www.freecodecamp.org/news/deploy-your-own-cockroach-db-instance-on-kubernetes-full-book-for-devs/"/>
+        <updated>2025-11-25T17:16:50.000Z</updated>
+        <summary type="html"><![CDATA[Developers are smart, wonderful people, and they’re some of the most logical thinkers you’ll ever meet. But we’re pretty terrible at naming things 😂 Like, what in the world – out of every other possible name, they decided to name a database after a ...]]></summary>
+        <author>
+            <name>Prince Onukwili</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Vibe Coding Effectively as a Dev]]></title>
+        <id>6925deb0b459e862808eb04c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-vibe-coding-effectively-as-a-dev/"/>
+        <updated>2025-11-25T16:52:00.000Z</updated>
+        <summary type="html"><![CDATA[It may seem like everyone is a vibe coder these days, and prompting seemed like it would become the new coding. But is this AI-generated code really deployable? Bragging on social media about a clever script is one thing, but pushing a vibe coded app...]]></summary>
+        <author>
+            <name>Ankur Tyagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Closures Work in JavaScript: A Handbook for Developers]]></title>
+        <id>6925c63dff3af82fd3477d27</id>
+        <link href="https://www.freecodecamp.org/news/how-closures-work-in-javascript-a-handbook-for-developers/"/>
+        <updated>2025-11-25T15:07:41.000Z</updated>
+        <summary type="html"><![CDATA[If you're learning JavaScript, you've probably heard the term "closure" at some point. In many developers' experience, just hearing this word can trigger anxiety. In nearly 17 years of programming experience, I've noticed that closures are one of the...]]></summary>
+        <author>
+            <name>Sumit Saha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Simplify Your React Components with Derived State]]></title>
         <id>6924c6fb01ae89275dfb14f6</id>
@@ -78,16 +148,6 @@ Sketch: A guided tour of Copenhagen originally published on CSS-Tricks, which is
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When NOT to use AI in your hackathon project with MLH winners Cindy Cui and Alison Co [Podcast #198]]]></title>
-        <id>69207ea2005b143f71163cb0</id>
-        <link href="https://www.freecodecamp.org/news/when-not-to-use-ai-in-your-hackathon-project-with-mlh-winners-cindy-cui-and-alison-co-podcast-198/"/>
-        <updated>2025-11-21T15:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Alison Co and Cindy Cui, two university students who won the NW Hacks hackathon with their tool that helps people who are losing their vision learn to read Braille. He met them when GitHub invited them to their big San ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Keyframes Tokens: Standardizing Animation Across Projects]]></title>
         <id>https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/</id>
         <link href="https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/"/>
@@ -106,56 +166,6 @@ Sketch: A guided tour of Copenhagen originally published on CSS-Tricks, which is
 Should We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI is Transforming Enterprise Operations]]></title>
-        <id>691e0d7802a17c33f13c6a0c</id>
-        <link href="https://www.freecodecamp.org/news/how-ai-is-transforming-enterprise-operations/"/>
-        <updated>2025-11-19T18:33:28.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence is changing how big companies work every single day. What used to take hours of manual effort or long approval chains can now happen in seconds with AI-powered systems.  From supply chains to IT operations, AI is helping enter...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Game Developer’s Guide to Understanding Screen Resolution]]></title>
-        <id>691de96a0dec4f292a0f8ff0</id>
-        <link href="https://www.freecodecamp.org/news/a-game-developers-guide-to-understanding-screen-resolution/"/>
-        <updated>2025-11-19T15:59:38.000Z</updated>
-        <summary type="html"><![CDATA[Every game developer obsesses over performance, textures, and frame rates, but resolution is the quiet foundation that makes or breaks visual quality.  Whether you are building a pixel-art indie game or a high-fidelity 3D world, understanding how res...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a Cute Room Portfolio with Three.js, Blender, JavaScript]]></title>
-        <id>691db3b57953797388329ea6</id>
-        <link href="https://www.freecodecamp.org/news/create-a-cute-room-portfolio-with-threejs-blender-javascript/"/>
-        <updated>2025-11-19T12:10:29.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to use Three.js and Blender to design a stunning and interactive 3D portfolio! We just posted a course on the freeCodeCamp.org YouTube channel that will take you from the foundational concepts of 3D modeling in Blender to creating a fully f...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use to Docker with Node.js: A Handbook for Developers]]></title>
-        <id>691cf09fea147a95b92d3551</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-to-docker-with-nodejs-handbook/"/>
-        <updated>2025-11-18T22:18:07.000Z</updated>
-        <summary type="html"><![CDATA[In this handbook, you’ll learn what Docker is and why it’s a must-have skill for backend and full-stack developers. And, most importantly, you’ll learn how to use it in real-world projects from start to finish. We will go far beyond the usual “Hello ...]]></summary>
-        <author>
-            <name>Oghenekparobo Stephen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Compress Your Prompts and Reduce LLM Costs]]></title>
-        <id>691cc4c083c778add388cc95</id>
-        <link href="https://www.freecodecamp.org/news/how-to-compress-your-prompts-and-reduce-llm-costs/"/>
-        <updated>2025-11-18T19:10:56.000Z</updated>
-        <summary type="html"><![CDATA[Every developer working with large language models eventually faces the same challenge: prompts keep getting longer, models keep getting slower, and API bills keep getting higher. Whether you’re building a retrieval-augmented generation (RAG) system ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
