@@ -17,7 +17,7 @@
           "description": "There are many ways to share properties, but what would it look like to inherit and use any parent property value on a child?\nOn Inheriting and Sharing Property Values originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/on-inheriting-and-sharing-property-values/",
           "publishedOn": "2025-11-24T14:22:30.000Z",
-          "wordCount": 3339,
+          "wordCount": 3401,
           "title": "On Inheriting and Sharing Property Values",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/dashy-circles.png"
         },
@@ -115,21 +115,6 @@
           "wordCount": 3688,
           "title": "Getting Creative With Small Screens",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/s_E63F027435C482D5813799164A830B3E060276A78A7A02CCD5EC79D53323A5B8_1761081109189_2025-10-21-8.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389805",
-          "author": "Silvestar Bistrović",
-          "description": "Can we use the <details> element as the foundation for a tabbed interface? Why yes, we can!\nPure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/pure-css-tabs-with-details-grid-and-subgrid/",
-          "publishedOn": "2025-10-27T14:33:17.000Z",
-          "wordCount": 3351,
-          "title": "Pure CSS Tabs With Details, Grid, and Subgrid",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/10/demo-1.mp4",
-            "length": "60442",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/details-tabs-subgrid.webp"
         }
       ]
     },
@@ -174,7 +159,7 @@
           "description": "Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.",
           "link": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
           "publishedOn": "2025-11-21T08:00:00.000Z",
-          "wordCount": 7574,
+          "wordCount": 7579,
           "title": "Keyframes Tokens: Standardizing Animation Across Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg",
@@ -199,7 +184,7 @@
           "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.",
           "link": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
           "publishedOn": "2025-11-14T13:00:00.000Z",
-          "wordCount": 6493,
+          "wordCount": 6486,
           "title": "CSS Gamepad API Visual Debugging With CSS Layers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg",
@@ -214,7 +199,7 @@
           "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.",
           "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
           "publishedOn": "2025-11-13T08:00:00.000Z",
-          "wordCount": 6490,
+          "wordCount": 6503,
           "title": "Older Tech In The Browser Stack",
           "enclosure": {
             "url": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg",
@@ -244,7 +229,7 @@
           "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.",
           "link": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
           "publishedOn": "2025-11-07T15:00:00.000Z",
-          "wordCount": 4724,
+          "wordCount": 4720,
           "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg",
@@ -289,7 +274,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
           "publishedOn": "2025-10-31T12:00:00.000Z",
-          "wordCount": 4766,
+          "wordCount": 4776,
           "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -297,16 +282,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
-          "author": "hello@smashingmagazine.com (Mat Marquis)",
-          "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
-          "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
-          "publishedOn": "2025-10-27T13:00:00.000Z",
-          "wordCount": 4563,
-          "title": "JavaScript For Everyone: Iterators",
-          "imageUrl": "https:null"
         }
       ]
     },
@@ -315,6 +290,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6927302dc91eac2c85873f95",
+          "author": "Atuoha Anthony",
+          "description": "Design is not just about how something looks. In product engineering, design shapes how an experience feels, how users interact with it, and how consistently the brand comes alive across every screen. Flutter provides powerful tools for this, but tru...",
+          "link": "https://www.freecodecamp.org/news/theming-and-customization-in-flutter-a-handbook-for-developers/",
+          "publishedOn": "2025-11-26T16:51:57.000Z",
+          "wordCount": 6397,
+          "title": "Theming and Customization in Flutter: A Handbook for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764175215268/a0a8da8f-6101-40f9-8b4a-db7234ae0793.png"
+        },
         {
           "id": "69260ed9916e6c8689496788",
           "author": "Quincy Larson",
@@ -351,7 +336,7 @@
           "description": "Developers are smart, wonderful people, and they’re some of the most logical thinkers you’ll ever meet. But we’re pretty terrible at naming things 😂 Like, what in the world – out of every other possible name, they decided to name a database after a ...",
           "link": "https://www.freecodecamp.org/news/deploy-your-own-cockroach-db-instance-on-kubernetes-full-book-for-devs/",
           "publishedOn": "2025-11-25T17:16:50.000Z",
-          "wordCount": 26240,
+          "wordCount": 26234,
           "title": "How to Deploy Your Own Cockroach DB  Instance on Kubernetes [Full Book for Devs]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764088553942/496bf5f4-f059-4873-b6c1-419a86e594ef.png"
         },
@@ -404,16 +389,6 @@
           "wordCount": 2954,
           "title": "How to Use the Django REST Framework - Build Backend APIs with DRF",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763759552021/cc57d91b-c2b9-4a40-8bb9-52c517dbbc35.png"
-        },
-        {
-          "id": "692096d4afb994c2aecc26e9",
-          "author": "Oleh Romanyuk",
-          "description": "Nowadays, computers can comprehend and produce human-like language thanks to Natural Language Processing. And this opens up numerous opportunities for you as a developer. This guide will teach you how to create NLP projects from scratch. It includes ...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-nlp-techniques-and-tools-in-your-projects-full-handbook/",
-          "publishedOn": "2025-11-21T16:44:04.000Z",
-          "wordCount": 8868,
-          "title": "How to Use NLP Techniques and Tools in Your Projects [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763743424066/393a4384-ce7a-4ff8-9e98-1edaaa322bc6.png"
         }
       ]
     }

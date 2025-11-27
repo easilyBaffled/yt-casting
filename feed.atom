@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-26T00:34:33.079Z</id>
+    <id>urn:2025-11-27T00:33:48.745Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-26T00:34:33.079Z</updated>
+    <updated>2025-11-27T00:33:48.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Theming and Customization in Flutter: A Handbook for Developers]]></title>
+        <id>6927302dc91eac2c85873f95</id>
+        <link href="https://www.freecodecamp.org/news/theming-and-customization-in-flutter-a-handbook-for-developers/"/>
+        <updated>2025-11-26T16:51:57.000Z</updated>
+        <summary type="html"><![CDATA[Design is not just about how something looks. In product engineering, design shapes how an experience feels, how users interact with it, and how consistently the brand comes alive across every screen. Flutter provides powerful tools for this, but tru...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[freeCodeCamp's Top Open Source Contributors of 2025]]></title>
         <id>69260ed9916e6c8689496788</id>
@@ -135,16 +145,6 @@ On Inheriting and Sharing Property Values originally published on CSS-Tricks, wh
 Sketch: A guided tour of Copenhagen originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use NLP Techniques and Tools in Your Projects [Full Handbook]]]></title>
-        <id>692096d4afb994c2aecc26e9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-nlp-techniques-and-tools-in-your-projects-full-handbook/"/>
-        <updated>2025-11-21T16:44:04.000Z</updated>
-        <summary type="html"><![CDATA[Nowadays, computers can comprehend and produce human-like language thanks to Natural Language Processing. And this opens up numerous opportunities for you as a developer. This guide will teach you how to create NLP projects from scratch. It includes ...]]></summary>
-        <author>
-            <name>Oleh Romanyuk</name>
         </author>
     </entry>
     <entry>
@@ -324,27 +324,6 @@ The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, whic
 Getting Creative With Small Screens originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Andy Clarke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pure CSS Tabs With Details, Grid, and Subgrid]]></title>
-        <id>https://css-tricks.com/?p=389805</id>
-        <link href="https://css-tricks.com/pure-css-tabs-with-details-grid-and-subgrid/"/>
-        <updated>2025-10-27T14:33:17.000Z</updated>
-        <summary type="html"><![CDATA[Can we use the <details> element as the foundation for a tabbed interface? Why yes, we can!
-Pure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Silvestar Bistrović</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript For Everyone: Iterators]]></title>
-        <id>https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/</id>
-        <link href="https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/"/>
-        <updated>2025-10-27T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mat Marquis)</name>
         </author>
     </entry>
 </feed>
