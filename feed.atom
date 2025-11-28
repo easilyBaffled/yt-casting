@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-27T00:33:48.745Z</id>
+    <id>urn:2025-11-28T00:33:36.607Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-27T00:33:48.745Z</updated>
+    <updated>2025-11-28T00:33:36.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Accessibility Problem With Authentication Methods Like CAPTCHA]]></title>
+        <id>https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/</id>
+        <link href="https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/"/>
+        <updated>2025-11-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI-Driven Search Experience using Meilisearch]]></title>
+        <id>692782273df4e33b78a46d72</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-driven-search-experience-using-meilisearch/"/>
+        <updated>2025-11-26T22:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Search is one of the most important features in modern applications. Users expect instant answers, useful suggestions, and results that match their intent even when they make spelling mistakes.  Most traditional search systems struggle to deliver thi...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Theming and Customization in Flutter: A Handbook for Developers]]></title>
         <id>6927302dc91eac2c85873f95</id>
@@ -124,16 +144,6 @@ On Inheriting and Sharing Property Values originally published on CSS-Tricks, wh
         <summary type="html"><![CDATA[Python development looks simple from the outside. But managing real projects is rarely easy. You need to install packages, update them, avoid version conflicts, create virtual environments, and prepare your project for distribution. Many beginners th...]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Django REST Framework - Build Backend APIs with DRF]]></title>
-        <id>6920d5f802099ac646b401c5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-django-rest-framework/"/>
-        <updated>2025-11-21T21:13:28.000Z</updated>
-        <summary type="html"><![CDATA[When you click on most backend development tutorials, they often teach you what to do, not how to think.That’s why many developers only realize their mistakes after they start building. So, how does one actually think like a backend developer? Before...]]></summary>
-        <author>
-            <name>Mari</name>
         </author>
     </entry>
     <entry>
