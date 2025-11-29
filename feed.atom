@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-28T00:33:36.607Z</id>
+    <id>urn:2025-11-29T00:33:14.934Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-28T00:33:36.607Z</updated>
+    <updated>2025-11-29T00:33:14.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tips from a Serial Career Changer with GitHub's Andrea Griffiths [Podcast #199]]]></title>
+        <id>6929b680d93baaf4c44b19fa</id>
+        <link href="https://www.freecodecamp.org/news/tips-from-serial-career-changer-github-andrea-griffiths-podcast-199/"/>
+        <updated>2025-11-28T14:49:36.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Andrea Griffiths, who taught herself programming using freeCodeCamp while working in construction. She moved to the US from Colombia when she was 17, and within 6 months she joined the US Army. She ran a chain of gyms b...]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Accessibility Problem With Authentication Methods Like CAPTCHA]]></title>
         <id>https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/</id>
@@ -134,16 +144,6 @@ On Inheriting and Sharing Property Values originally published on CSS-Tricks, wh
         <summary type="html"><![CDATA[Practical guidelines on designing time-critical products that prevent errors and improve accuracy. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today). With a live UX training starting next week.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manage Your Python Projects with Poetry]]></title>
-        <id>6920d692526d14e1b0e126b7</id>
-        <link href="https://www.freecodecamp.org/news/how-to-manage-your-python-projects-with-poetry/"/>
-        <updated>2025-11-21T21:16:02.000Z</updated>
-        <summary type="html"><![CDATA[Python development looks simple from the outside. But managing real projects is rarely easy. You need to install packages, update them, avoid version conflicts, create virtual environments, and prepare your project for distribution. Many beginners th...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
@@ -323,17 +323,6 @@ The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, whic
         <summary type="html"><![CDATA[The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Creative With Small Screens]]></title>
-        <id>https://css-tricks.com/?p=390031</id>
-        <link href="https://css-tricks.com/getting-creative-with-small-screens/"/>
-        <updated>2025-10-29T16:22:28.000Z</updated>
-        <summary type="html"><![CDATA[On mobile, people can lose their sense of context and can’t easily tell where a section begins or ends. Good small-screen design can help orient them using a variety of techniques.
-Getting Creative With Small Screens originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Andy Clarke</name>
         </author>
     </entry>
 </feed>
