@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-29T00:33:14.934Z</id>
+    <id>urn:2025-11-30T00:39:02.108Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-29T00:33:14.934Z</updated>
+    <updated>2025-11-30T00:39:02.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -313,16 +313,6 @@ That shocked me. I may have even been a little offended, being a math nerd and �
 The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fading Light And Falling Leaves (November 2025 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/</id>
-        <link href="https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/"/>
-        <updated>2025-10-31T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
