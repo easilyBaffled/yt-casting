@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-30T00:39:02.108Z</id>
+    <id>urn:2025-12-01T00:42:40.603Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-30T00:39:02.108Z</updated>
+    <updated>2025-12-01T00:42:40.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Sparkle Of December Magic (2025 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/</id>
+        <link href="https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/"/>
+        <updated>2025-11-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re celebrating? Our latest edition of monthly wallpapers has got you covered. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tips from a Serial Career Changer with GitHub's Andrea Griffiths [Podcast #199]]]></title>
         <id>6929b680d93baaf4c44b19fa</id>

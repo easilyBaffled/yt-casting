@@ -27,7 +27,7 @@
           "description": "Sketch probably didn't \"have\" to redesign its UI to line up with macOS Tahoe, but a big part of its appeal is the fact that it feels like it totally belongs to the Mac.\nSketch: A guided tour of Copenhagen originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/sketch-a-guided-tour-of-copenhagen/",
           "publishedOn": "2025-11-21T18:53:05.000Z",
-          "wordCount": 2014,
+          "wordCount": 2024,
           "title": "Sketch: A guided tour of Copenhagen",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/sketch-liquid-glass.png"
         },
@@ -37,7 +37,7 @@
           "description": "Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a thing.\nShould We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/should-we-even-have-closed/",
           "publishedOn": "2025-11-20T15:10:26.000Z",
-          "wordCount": 2494,
+          "wordCount": 2543,
           "title": "Should We Even Have :closed?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/12/opinon-this-that-signs.png"
         },
@@ -114,12 +114,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re celebrating? Our latest edition of monthly wallpapers has got you covered. Enjoy!",
+          "link": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
+          "publishedOn": "2025-11-30T09:00:00.000Z",
+          "wordCount": 4968,
+          "title": "A Sparkle Of December Magic (2025 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2025/dec-25-zero-gravity-december-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2025/dec-25-zero-gravity-december-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
           "author": "hello@smashingmagazine.com (Eleanor Hecks)",
           "description": "CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.",
           "link": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
           "publishedOn": "2025-11-27T10:00:00.000Z",
-          "wordCount": 4704,
+          "wordCount": 4710,
           "title": "The Accessibility Problem With Authentication Methods Like CAPTCHA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessibility-problem-authentication-methods-captcha/accessibility-problem-authentication-methods-captcha.jpg",
@@ -164,7 +179,7 @@
           "description": "Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.",
           "link": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
           "publishedOn": "2025-11-21T08:00:00.000Z",
-          "wordCount": 7574,
+          "wordCount": 7582,
           "title": "Keyframes Tokens: Standardizing Animation Across Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg",
@@ -189,7 +204,7 @@
           "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.",
           "link": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
           "publishedOn": "2025-11-14T13:00:00.000Z",
-          "wordCount": 6490,
+          "wordCount": 6488,
           "title": "CSS Gamepad API Visual Debugging With CSS Layers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg",
@@ -204,7 +219,7 @@
           "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.",
           "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
           "publishedOn": "2025-11-13T08:00:00.000Z",
-          "wordCount": 6493,
+          "wordCount": 6504,
           "title": "Older Tech In The Browser Stack",
           "enclosure": {
             "url": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg",
@@ -234,7 +249,7 @@
           "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.",
           "link": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
           "publishedOn": "2025-11-07T15:00:00.000Z",
-          "wordCount": 4719,
+          "wordCount": 4728,
           "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg",
