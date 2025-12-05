@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-04T00:35:19.637Z</id>
+    <id>urn:2025-12-05T00:35:49.134Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-04T00:35:19.637Z</updated>
+    <updated>2025-12-05T00:35:49.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Git & GitHub Crash Course for Beginners]]></title>
+        <id>6931ef1a5feb2860f3beafd6</id>
+        <link href="https://www.freecodecamp.org/news/git-and-github-crash-course-for-beginners/"/>
+        <updated>2025-12-04T20:29:14.000Z</updated>
+        <summary type="html"><![CDATA[Git is important for any developer. We just posted a course that will help you learn Git and GitHub from scratch with clear examples, real workflows, branching, merging, stashing, rebase, pull requests, and more. This course is great for beginners wh...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Become an AI Researcher]]></title>
+        <id>6931ed67859ffe0c32f1133b</id>
+        <link href="https://www.freecodecamp.org/news/become-an-ai-researcher/"/>
+        <updated>2025-12-04T20:21:59.000Z</updated>
+        <summary type="html"><![CDATA[We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to become an AI Researcher. This course will guide you step-by-step, starting with the foundational mathematics essential for understanding modern AI, before divi...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Admin Dashboard with shadcn/ui and TanStack Start]]></title>
+        <id>6931bd617fcd342128f08ed6</id>
+        <link href="https://www.freecodecamp.org/news/build-an-admin-dashboard-with-shadcnui-and-tanstack-start/"/>
+        <updated>2025-12-04T16:57:05.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, we’ll build a feature-rich admin dashboard using shadcn/ui for beautiful, reusable components and TanStack Start for a powerful, type-safe full-stack framework. By the end, you’ll have: A fully functional /dashboard layout A statisti...]]></summary>
+        <author>
+            <name>Ajay Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Creative With “The Measure”]]></title>
+        <id>https://css-tricks.com/?p=390477</id>
+        <link href="https://css-tricks.com/getting-creative-with-the-measure/"/>
+        <updated>2025-12-04T14:04:52.000Z</updated>
+        <summary type="html"><![CDATA[A good measure makes reading text comfortable, while a bad one makes it more difficult. So, rather than allowing layout to dictate the measure, doesn’t it make more sense for the measure to inform layout decisions?
+Getting Creative With “The Measure” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI-Powered RAG Chatbot with Amazon Lex, Bedrock, and S3]]></title>
+        <id>6930baf2becf9d70ca80fcd0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-powered-rag-chatbot/"/>
+        <updated>2025-12-03T22:34:26.000Z</updated>
+        <summary type="html"><![CDATA[Chatbots are widely adopted among software companies, especially those that interact heavily with customers. It is typically used for tasks such as customer support, answering questions, and providing information on websites, apps, and messaging plat...]]></summary>
+        <author>
+            <name>Chisom Uma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up CUDA and WSL2 for Windows 11 (including PyTorch and TensorFlow GPU)]]></title>
         <id>69309b9e8c594b8177306456</id>
@@ -110,16 +161,6 @@ Prevent a page from scrolling while a dialog is open originally published on CSS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tips from a Serial Career Changer with GitHub's Andrea Griffiths [Podcast #199]]]></title>
-        <id>6929b680d93baaf4c44b19fa</id>
-        <link href="https://www.freecodecamp.org/news/tips-from-serial-career-changer-github-andrea-griffiths-podcast-199/"/>
-        <updated>2025-11-28T14:49:36.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Andrea Griffiths, who taught herself programming using freeCodeCamp while working in construction. She moved to the US from Colombia when she was 17, and within 6 months she joined the US Army. She ran a chain of gyms b...]]></summary>
-        <author>
-            <name>Estefania Cassingena Navone</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Accessibility Problem With Authentication Methods Like CAPTCHA]]></title>
         <id>https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/</id>
         <link href="https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/"/>
@@ -127,36 +168,6 @@ Prevent a page from scrolling while a dialog is open originally published on CSS
         <summary type="html"><![CDATA[CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI-Driven Search Experience using Meilisearch]]></title>
-        <id>692782273df4e33b78a46d72</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-driven-search-experience-using-meilisearch/"/>
-        <updated>2025-11-26T22:41:43.000Z</updated>
-        <summary type="html"><![CDATA[Search is one of the most important features in modern applications. Users expect instant answers, useful suggestions, and results that match their intent even when they make spelling mistakes.  Most traditional search systems struggle to deliver thi...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theming and Customization in Flutter: A Handbook for Developers]]></title>
-        <id>6927302dc91eac2c85873f95</id>
-        <link href="https://www.freecodecamp.org/news/theming-and-customization-in-flutter-a-handbook-for-developers/"/>
-        <updated>2025-11-26T16:51:57.000Z</updated>
-        <summary type="html"><![CDATA[Design is not just about how something looks. In product engineering, design shapes how an experience feels, how users interact with it, and how consistently the brand comes alive across every screen. Flutter provides powerful tools for this, but tru...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp's Top Open Source Contributors of 2025]]></title>
-        <id>69260ed9916e6c8689496788</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-top-open-source-contributors-2025/"/>
-        <updated>2025-11-25T20:17:29.000Z</updated>
-        <summary type="html"><![CDATA[2025 has been a super productive year for the global freeCodeCamp community. As we start our 12th year as a community, we’re firing on all cylinders, pushing forward more steadily than ever. This year we made substantial improvements to the new Full ...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>
