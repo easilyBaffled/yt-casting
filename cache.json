@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390691",
+          "author": "Geoff Graham",
+          "description": "It's easy to think of HTML Web Components as a recent feature, but it has roots that go all the way back to 1998.\nHTML Web Components Proposal From 1998 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/html-web-components-proposal-from-1998/",
+          "publishedOn": "2025-12-05T18:16:48.000Z",
+          "wordCount": 1087,
+          "title": "HTML Web Components Proposal From 1998",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/07/wev-components-logo.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=390477",
           "author": "Andy Clarke",
           "description": "A good measure makes reading text comfortable, while a bad one makes it more difficult. So, rather than allowing layout to dictate the measure, doesn’t it make more sense for the measure to inform layout decisions?\nGetting Creative With “The Measure” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/getting-creative-with-the-measure/",
           "publishedOn": "2025-12-04T14:04:52.000Z",
-          "wordCount": 2156,
+          "wordCount": 2223,
           "title": "Getting Creative With “The Measure”",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/s_56AFCBE7DCEED351817E3696EEEE003B5BEE9737CDC6205474FB62E233A2CF20_1763072955406_2025-11-13-1.webp"
         },
@@ -134,6 +144,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.",
+          "link": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
+          "publishedOn": "2025-12-05T15:00:00.000Z",
+          "wordCount": 6868,
+          "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/beyond-black-box-practical-xai-ux-practitioners/beyond-black-box-practical-xai-ux-practitioners.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/beyond-black-box-practical-xai-ux-practitioners/beyond-black-box-practical-xai-ux-practitioners.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
           "author": "hello@smashingmagazine.com (Patrick Brosset)",
           "description": "CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.",
@@ -154,7 +179,7 @@
           "description": "With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re celebrating? Our latest edition of monthly wallpapers has got you covered. Enjoy!",
           "link": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
           "publishedOn": "2025-11-30T09:00:00.000Z",
-          "wordCount": 4963,
+          "wordCount": 4975,
           "title": "A Sparkle Of December Magic (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2025/dec-25-zero-gravity-december-preview-opt.png",
@@ -169,7 +194,7 @@
           "description": "CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.",
           "link": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
           "publishedOn": "2025-11-27T10:00:00.000Z",
-          "wordCount": 4713,
+          "wordCount": 4718,
           "title": "The Accessibility Problem With Authentication Methods Like CAPTCHA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessibility-problem-authentication-methods-captcha/accessibility-problem-authentication-methods-captcha.jpg",
@@ -214,7 +239,7 @@
           "description": "Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.",
           "link": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
           "publishedOn": "2025-11-21T08:00:00.000Z",
-          "wordCount": 7571,
+          "wordCount": 7580,
           "title": "Keyframes Tokens: Standardizing Animation Across Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg",
@@ -239,7 +264,7 @@
           "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.",
           "link": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
           "publishedOn": "2025-11-14T13:00:00.000Z",
-          "wordCount": 6492,
+          "wordCount": 6490,
           "title": "CSS Gamepad API Visual Debugging With CSS Layers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg",
@@ -292,21 +317,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Let’s dive into the building blocks of UX strategy and see how it speaks the language of product and business strategy to create user value while achieving company goals. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).",
-          "link": "https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/",
-          "publishedOn": "2025-11-05T13:00:00.000Z",
-          "wordCount": 3929,
-          "title": "Six Key Components of UX Strategy",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/key-components-ux-strategy/practical-guide-ux-strategy.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/key-components-ux-strategy/practical-guide-ux-strategy.jpg"
         }
       ]
     },
@@ -315,6 +325,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6932fc1b589bda49dd014db7",
+          "author": "Manish Shivanandhan",
+          "description": "Artificial intelligence is now part of daily work for many teams. People use it to write content, analyse data, answer support requests, and guide business decisions. But building AI workflows is still hard for many users. Most tools need code, a com...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-no-code-ai-workflows-using-activepieces/",
+          "publishedOn": "2025-12-05T15:36:59.000Z",
+          "wordCount": 2197,
+          "title": "How to Build No-Code AI Workflows Using Activepieces",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764948981880/a78ae4ab-0430-4f37-a30a-1683e1403c0a.png"
+        },
+        {
+          "id": "6932f37cc34687e487990bf9",
+          "author": "Beau Carnes",
+          "description": "Today Quincy Larson interviews Kunal Kushwaha. He's a software engineer and prolific computer science teacher on YouTube. He failed the JEE, the Indian Engineering Entrance Exam, TWICE. But he persevered. He did 4 years of university but attended ZER...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-learning-path-using-open-source-with-kunal-kushwaha-podcast-200/",
+          "publishedOn": "2025-12-05T15:00:12.000Z",
+          "wordCount": 1497,
+          "title": "How to build your own learning path using Open Source with Kunal Kushwaha [Podcast #200]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764933995860/f4478488-9969-456e-8ca7-f0e41be34464.jpeg"
+        },
         {
           "id": "6931ef1a5feb2860f3beafd6",
           "author": "Beau Carnes",
@@ -394,26 +424,6 @@
           "wordCount": 1035,
           "title": "Learn NestJS for Beginners",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764714228452/cd896109-228c-4060-b596-2bb072058976.png"
-        },
-        {
-          "id": "692f65b7eaee334f9337fc73",
-          "author": "Beau Carnes",
-          "description": "Harvard University creates amazing beginner computer science courses. We just released Harvard CS50’s introduction to programming using a language called R, a popular language for statistical computing and graphics in data science and other domains. ...",
-          "link": "https://www.freecodecamp.org/news/learn-r-programming-from-harvard-university/",
-          "publishedOn": "2025-12-02T22:18:31.000Z",
-          "wordCount": 1017,
-          "title": "Learn R Programming from Harvard University",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764713896891/8c4848e6-27f8-4f1f-aeb5-1c14e1a3ecd6.png"
-        },
-        {
-          "id": "692f044a17ed56d5a1781fb1",
-          "author": "Jessica Wilkins",
-          "description": "The freeCodeCamp community just published our new Responsive Web Design certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with ...",
-          "link": "https://www.freecodecamp.org/news/freecodecamps-new-responsive-web-design-certification-is-now-live/",
-          "publishedOn": "2025-12-02T15:22:50.000Z",
-          "wordCount": 2726,
-          "title": "freeCodeCamp's New Responsive Web Design Certification is Now Live",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763760123080/749604bf-3620-40ad-bd5f-488bd8faa251.png"
         }
       ]
     }

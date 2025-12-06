@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-05T00:35:49.134Z</id>
+    <id>urn:2025-12-06T00:33:57.117Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-05T00:35:49.134Z</updated>
+    <updated>2025-12-06T00:33:57.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[HTML Web Components Proposal From 1998]]></title>
+        <id>https://css-tricks.com/?p=390691</id>
+        <link href="https://css-tricks.com/html-web-components-proposal-from-1998/"/>
+        <updated>2025-12-05T18:16:48.000Z</updated>
+        <summary type="html"><![CDATA[It's easy to think of HTML Web Components as a recent feature, but it has roots that go all the way back to 1998.
+HTML Web Components Proposal From 1998 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build No-Code AI Workflows Using Activepieces]]></title>
+        <id>6932fc1b589bda49dd014db7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-no-code-ai-workflows-using-activepieces/"/>
+        <updated>2025-12-05T15:36:59.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence is now part of daily work for many teams. People use it to write content, analyse data, answer support requests, and guide business decisions. But building AI workflows is still hard for many users. Most tools need code, a com...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to build your own learning path using Open Source with Kunal Kushwaha [Podcast #200]]]></title>
+        <id>6932f37cc34687e487990bf9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-learning-path-using-open-source-with-kunal-kushwaha-podcast-200/"/>
+        <updated>2025-12-05T15:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Kunal Kushwaha. He's a software engineer and prolific computer science teacher on YouTube. He failed the JEE, the Indian Engineering Entrance Exam, TWICE. But he persevered. He did 4 years of university but attended ZER...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond The Black Box: Practical XAI For UX Practitioners]]></title>
+        <id>https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/</id>
+        <link href="https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/"/>
+        <updated>2025-12-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Git & GitHub Crash Course for Beginners]]></title>
         <id>6931ef1a5feb2860f3beafd6</id>
@@ -97,16 +138,6 @@ Getting Creative With “The Measure” originally published on CSS-Tricks, whic
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn R Programming from Harvard University]]></title>
-        <id>692f65b7eaee334f9337fc73</id>
-        <link href="https://www.freecodecamp.org/news/learn-r-programming-from-harvard-university/"/>
-        <updated>2025-12-02T22:18:31.000Z</updated>
-        <summary type="html"><![CDATA[Harvard University creates amazing beginner computer science courses. We just released Harvard CS50’s introduction to programming using a language called R, a popular language for statistical computing and graphics in data science and other domains. ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Scrollytelling on Steroids With Scroll-State Queries]]></title>
         <id>https://css-tricks.com/?p=390205</id>
         <link href="https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/"/>
@@ -115,16 +146,6 @@ Getting Creative With “The Measure” originally published on CSS-Tricks, whic
 Scrollytelling on Steroids With Scroll-State Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp's New Responsive Web Design Certification is Now Live]]></title>
-        <id>692f044a17ed56d5a1781fb1</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamps-new-responsive-web-design-certification-is-now-live/"/>
-        <updated>2025-12-02T15:22:50.000Z</updated>
-        <summary type="html"><![CDATA[The freeCodeCamp community just published our new Responsive Web Design certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with ...]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
         </author>
     </entry>
     <entry>
@@ -336,16 +357,6 @@ Headings: Semantics, Fluidity, and Styling — Oh My! originally published on CS
 Explaining the Accessible Benefits of Using Semantic HTML Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Six Key Components of UX Strategy]]></title>
-        <id>https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/</id>
-        <link href="https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/"/>
-        <updated>2025-11-05T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s dive into the building blocks of UX strategy and see how it speaks the language of product and business strategy to create user value while achieving company goals. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
