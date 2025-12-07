@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-06T00:33:57.117Z</id>
+    <id>urn:2025-12-07T00:38:59.365Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-06T00:33:57.117Z</updated>
+    <updated>2025-12-07T00:38:59.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -346,17 +346,6 @@ Headings: Semantics, Fluidity, and Styling — Oh My! originally published on CS
         <summary type="html"><![CDATA[SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explaining the Accessible Benefits of Using Semantic HTML Elements]]></title>
-        <id>https://css-tricks.com/?p=385769</id>
-        <link href="https://css-tricks.com/explaining-the-accessible-benefits-of-using-semantic-html-elements/"/>
-        <updated>2025-11-06T15:57:49.000Z</updated>
-        <summary type="html"><![CDATA[Why should you use a semantic <button> instead of a generic <div>? Accessibility, right? By how exactly does it help accessibility?
-Explaining the Accessible Benefits of Using Semantic HTML Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
