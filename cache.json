@@ -7,17 +7,164 @@
       "articles": []
     },
     {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=390475",
+          "author": "Kevine Nzapdi",
+          "description": "I would like to tell you what I learned from a five-year old child about HTML and CSS. It’s funny how explaining something you do almost naturally teaches you about yourself and what you take for granted.\nThat Time I Tried Explaining HTML and CSS to My 5-Year Old Niece originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/that-time-i-tried-explaining-html-and-css-to-my-5-year-old-niece/",
+          "publishedOn": "2025-12-08T14:45:43.000Z",
+          "wordCount": 2934,
+          "title": "That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/apple-css.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390691",
+          "author": "Geoff Graham",
+          "description": "It's easy to think of HTML Web Components as a recent feature, but it has roots that go all the way back to 1998.\nHTML Web Components Proposal From 1998 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/html-web-components-proposal-from-1998/",
+          "publishedOn": "2025-12-05T18:16:48.000Z",
+          "wordCount": 1134,
+          "title": "HTML Web Components Proposal From 1998",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/07/wev-components-logo.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390477",
+          "author": "Andy Clarke",
+          "description": "A good measure makes reading text comfortable, while a bad one makes it more difficult. So, rather than allowing layout to dictate the measure, doesn’t it make more sense for the measure to inform layout decisions?\nGetting Creative With “The Measure” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-creative-with-the-measure/",
+          "publishedOn": "2025-12-04T14:04:52.000Z",
+          "wordCount": 2223,
+          "title": "Getting Creative With “The Measure”",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/s_56AFCBE7DCEED351817E3696EEEE003B5BEE9737CDC6205474FB62E233A2CF20_1763072955406_2025-11-13-1.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390205",
+          "author": "Lee Meyer",
+          "description": "Unconvinced of the value of scrollytelling? Alright, skeptic, let’s first warm up with some common use cases for scroll-based styling.\nScrollytelling on Steroids With Scroll-State Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/",
+          "publishedOn": "2025-12-02T16:47:14.000Z",
+          "wordCount": 4107,
+          "title": "Scrollytelling on Steroids With Scroll-State Queries",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/taylor-flowe-aXeVH4FcS1k-unsplash-scaled.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390613",
+          "author": "Geoff Graham",
+          "description": "Bramus:\nChrome 144 features a small change to overscroll-behavior: it now also works on non-scrollable scroll containers. While this change might seem trivial, it fixes an issue developers have been dealing with for ages: prevent a page from \n…\nPrevent a page from scrolling while a dialog is open originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/prevent-a-page-from-scrolling-while-a-dialog-is-open/",
+          "publishedOn": "2025-12-01T17:25:28.000Z",
+          "wordCount": 1148,
+          "title": "Prevent a page from scrolling while a dialog is open",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=389944",
+          "author": "Daniel Schwarz",
+          "description": "There are many ways to share properties, but what would it look like to inherit and use any parent property value on a child?\nOn Inheriting and Sharing Property Values originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/on-inheriting-and-sharing-property-values/",
+          "publishedOn": "2025-11-24T14:22:30.000Z",
+          "wordCount": 2820,
+          "title": "On Inheriting and Sharing Property Values",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/dashy-circles.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390539",
+          "author": "Geoff Graham",
+          "description": "Sketch probably didn't \"have\" to redesign its UI to line up with macOS Tahoe, but a big part of its appeal is the fact that it feels like it totally belongs to the Mac.\nSketch: A guided tour of Copenhagen originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/sketch-a-guided-tour-of-copenhagen/",
+          "publishedOn": "2025-11-21T18:53:05.000Z",
+          "wordCount": 1443,
+          "title": "Sketch: A guided tour of Copenhagen",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/sketch-liquid-glass.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390115",
+          "author": "Sunkanmi Fafowora",
+          "description": "Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a thing.\nShould We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/should-we-even-have-closed/",
+          "publishedOn": "2025-11-20T15:10:26.000Z",
+          "wordCount": 1834,
+          "title": "Should We Even Have :closed?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/12/opinon-this-that-signs.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390236",
+          "author": "Juan Diego Rodríguez",
+          "description": "If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric functions come in!\nThe “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/",
+          "publishedOn": "2025-11-17T14:47:54.000Z",
+          "wordCount": 3638,
+          "title": "The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/css-trig-unit-circle-diagram.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390408",
+          "author": "Ryan Trimble",
+          "description": "The extremely new framework that caught lots of attention will continue as a personal project.\nQuiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/",
+          "publishedOn": "2025-11-14T15:32:50.000Z",
+          "wordCount": 1219,
+          "title": "Quiet UI Came and Went, Quiet as a Mouse",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/quiet-ui.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390178",
+          "author": "Daniel Schwarz",
+          "description": "Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric values as well as numeric values tokenized by custom properties or the attr() function.\nThe Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-range-syntax-has-come-to-container-style-queries-and-if/",
+          "publishedOn": "2025-11-13T15:00:20.000Z",
+          "wordCount": 2578,
+          "title": "The Range Syntax Has Come to Container Style Queries and if()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/media-query-range-syntax.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=389885",
+          "author": "Geoff Graham",
+          "description": "A few links about headings that I've had stored under my top hat.\nHeadings: Semantics, Fluidity, and Styling — Oh My! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/headings-semantics-fluidity-and-styling-oh-my/",
+          "publishedOn": "2025-11-10T14:44:13.000Z",
+          "wordCount": 2316,
+          "title": "Headings: Semantics, Fluidity, and Styling — Oh My!",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/10/fluid-heading.mov",
+            "length": "6253881",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/heading-levels-h1-h3.jpg"
+        }
+      ]
+    },
+    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.",
+          "link": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
+          "publishedOn": "2025-12-08T08:00:00.000Z",
+          "wordCount": 4459,
+          "title": "How UX Professionals Can Lead AI Strategy",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
           "author": "hello@smashingmagazine.com (Victor Yocco)",
           "description": "Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.",
           "link": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
           "publishedOn": "2025-12-05T15:00:00.000Z",
-          "wordCount": 6859,
+          "wordCount": null,
           "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-black-box-practical-xai-ux-practitioners/beyond-black-box-practical-xai-ux-practitioners.jpg",
@@ -32,7 +179,7 @@
           "description": "CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.",
           "link": "https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
           "publishedOn": "2025-12-02T10:00:00.000Z",
-          "wordCount": 6718,
+          "wordCount": 6720,
           "title": "Masonry: Things You Won’t Need A Library For Anymore",
           "enclosure": {
             "url": "http://files.smashing.media/articles/masonry-things-you-wont-need-library-anymore/masonry-things-you-wont-need-library-anymore.jpg",
@@ -62,7 +209,7 @@
           "description": "CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.",
           "link": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
           "publishedOn": "2025-11-27T10:00:00.000Z",
-          "wordCount": 4714,
+          "wordCount": 4708,
           "title": "The Accessibility Problem With Authentication Methods Like CAPTCHA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessibility-problem-authentication-methods-captcha/accessibility-problem-authentication-methods-captcha.jpg",
@@ -107,7 +254,7 @@
           "description": "Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.",
           "link": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
           "publishedOn": "2025-11-21T08:00:00.000Z",
-          "wordCount": 7575,
+          "wordCount": 7577,
           "title": "Keyframes Tokens: Standardizing Animation Across Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg",
@@ -132,7 +279,7 @@
           "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.",
           "link": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
           "publishedOn": "2025-11-14T13:00:00.000Z",
-          "wordCount": 6485,
+          "wordCount": 6498,
           "title": "CSS Gamepad API Visual Debugging With CSS Layers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg",
@@ -147,7 +294,7 @@
           "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.",
           "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
           "publishedOn": "2025-11-13T08:00:00.000Z",
-          "wordCount": 6490,
+          "wordCount": 6496,
           "title": "Older Tech In The Browser Stack",
           "enclosure": {
             "url": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg",
@@ -178,6 +325,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "693704c4f37606a62f1727d3",
+          "author": "Manish Shivanandhan",
+          "description": "Most business apps capture data. They track orders, tickets, leads, expenses, tasks, or deliveries. But when someone needs insights, they often leave the app, export a file or open a BI tool to get answers. This extra step slows down decisions and cr...",
+          "link": "https://www.freecodecamp.org/news/how-embedded-analytics-makes-your-app-more-valuable/",
+          "publishedOn": "2025-12-08T17:03:00.000Z",
+          "wordCount": 2248,
+          "title": "How Embedded Analytics Makes Your App More Valuable",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765213278642/9bbd88ba-c803-45d5-bace-97cf7ccca83e.png"
+        },
+        {
+          "id": "693703cb19e18638588e6285",
+          "author": "Shrijal Acharya",
+          "description": "Frontend automation is moving fast. Tools like Figma MCP and Kombai can read design context and generate working UI code. I wanted to see what you actually get in practice, so I decided to compare them. Figma MCP exposes design metadata to AI clients...",
+          "link": "https://www.freecodecamp.org/news/figma-mcp-vs-kombai-frontend-clone-comparison/",
+          "publishedOn": "2025-12-08T16:58:51.000Z",
+          "wordCount": 4337,
+          "title": "Figma MCP vs Kombai: Cloning the Front End from Figma with AI Tools",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765205804241/295ef345-b776-458a-bcdb-f1157c9c185b.png"
+        },
+        {
+          "id": "6936e6e9ba6866f4046b4f36",
+          "author": "Jessica Wilkins",
+          "description": "The freeCodeCamp community just published our new JavaScript certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with hundreds of...",
+          "link": "https://www.freecodecamp.org/news/freecodecamps-new-javascript-certification-is-now-live/",
+          "publishedOn": "2025-12-08T14:55:37.000Z",
+          "wordCount": 2716,
+          "title": "freeCodeCamp's New JavaScript Certification is Now Live",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763760147447/32b0f575-098c-4898-945c-a2c696c699bb.png"
+        },
         {
           "id": "6932fc1b589bda49dd014db7",
           "author": "Manish Shivanandhan",
@@ -247,36 +424,6 @@
           "wordCount": 4353,
           "title": "How to Set Up CUDA and WSL2 for Windows 11 (including PyTorch and TensorFlow GPU)",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764786287487/f0c28401-ce77-4873-b238-59fc6b737ce7.png"
-        },
-        {
-          "id": "69307a1e2b79515d02383320",
-          "author": "Nikheel Vishwas Savant",
-          "description": "Every time you check your smartwatch for heart rate, read the battery level of wireless earbuds, unlock a Bluetooth smart lock, or watch sensor data stream into an app, you are experiencing the result of GATT working quietly in the background. GATT i...",
-          "link": "https://www.freecodecamp.org/news/how-bluetooth-low-energy-devices-work-gatt-services-and-characteristics-explained/",
-          "publishedOn": "2025-12-03T17:57:50.000Z",
-          "wordCount": 9320,
-          "title": "How Bluetooth Low Energy Devices Work: GATT Services and Characteristics Explained",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764781967963/2ccd66f7-3a5f-490f-af66-e1091ef4e34d.png"
-        },
-        {
-          "id": "693070aab61ab28f12ea4687",
-          "author": "Manish Shivanandhan",
-          "description": "Model Context Protocol, or MCP, is changing how large language models connect with data and tools.  Instead of treating an AI model as a black box, MCP gives it structured access to information and actions.  It is like the USB-C port for AI, creating...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-your-first-mcp-server-using-fastmcp/",
-          "publishedOn": "2025-12-03T17:17:30.000Z",
-          "wordCount": 2503,
-          "title": "How to Build Your First MCP Server using FastMCP",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764782216715/fc1f7b09-d71d-4917-a249-f95686d23520.png"
-        },
-        {
-          "id": "692f67007fa18557e4b8ce73",
-          "author": "Beau Carnes",
-          "description": "NestJS is a progressive Node.js framework for building efficient and reliable server-side applications. It uses TypeScript by default and encourages clean, modular code with concepts including controllers, services, and dependency injection. We just ...",
-          "link": "https://www.freecodecamp.org/news/learn-nestjs-for-beginners/",
-          "publishedOn": "2025-12-02T22:24:00.000Z",
-          "wordCount": 1035,
-          "title": "Learn NestJS for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764714228452/cd896109-228c-4060-b596-2bb072058976.png"
         }
       ]
     }
