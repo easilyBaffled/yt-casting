@@ -7,6 +7,163 @@
       "articles": []
     },
     {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=390516",
+          "author": "Preethi",
+          "description": "It’s not that hard to do! Preethi shows you how it's really the same old animation you’re used to writing in CSS, only applied on a view timeline instead of a normal timeline.\nCreating Scroll-Based Animations in Full view() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/creating-scroll-based-animations-in-full-view/",
+          "publishedOn": "2025-12-10T15:04:08.000Z",
+          "wordCount": 2292,
+          "title": "Creating Scroll-Based Animations in Full view()",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/11/scroll-animation-carousel.mov",
+            "length": "6975029",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/scroll-animations-range-not-set.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390785",
+          "author": "Ryan Trimble",
+          "description": "The Chrome Dev Team recaps the new CSS features that shipped in Google Chrome this past year in one amazingly designed webpage. They cover new functionality for creating more customizable components, next-gen interactions, and optimizing ergonomics.\nWe’ve …\nCSS Wrapped 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-wrapped-2025/",
+          "publishedOn": "2025-12-09T15:52:20.000Z",
+          "wordCount": 1068,
+          "title": "CSS Wrapped 2025",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/chrome-wrapped-2025-scaled.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390777",
+          "author": "Geoff Graham",
+          "description": "The Chrome team recently prototyped a working solution for fitting text to the width of a container in CSS using a text-grow property.\nFit width text in 1 line of CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/fit-width-text-in-1-line-of-css/",
+          "publishedOn": "2025-12-09T15:00:56.000Z",
+          "wordCount": 1170,
+          "title": "Fit width text in 1 line of CSS",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/12/text-grow.mov",
+            "length": "19250189",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/04/type-scale.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390475",
+          "author": "Kevine Nzapdi",
+          "description": "I would like to tell you what I learned from a five-year old child about HTML and CSS. It’s funny how explaining something you do almost naturally teaches you about yourself and what you take for granted.\nThat Time I Tried Explaining HTML and CSS to My 5-Year Old Niece originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/that-time-i-tried-explaining-html-and-css-to-my-5-year-old-niece/",
+          "publishedOn": "2025-12-08T14:45:43.000Z",
+          "wordCount": 3099,
+          "title": "That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/apple-css.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390691",
+          "author": "Geoff Graham",
+          "description": "It's easy to think of HTML Web Components as a recent feature, but it has roots that go all the way back to 1998.\nHTML Web Components Proposal From 1998 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/html-web-components-proposal-from-1998/",
+          "publishedOn": "2025-12-05T18:16:48.000Z",
+          "wordCount": 1134,
+          "title": "HTML Web Components Proposal From 1998",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/07/wev-components-logo.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390477",
+          "author": "Andy Clarke",
+          "description": "A good measure makes reading text comfortable, while a bad one makes it more difficult. So, rather than allowing layout to dictate the measure, doesn’t it make more sense for the measure to inform layout decisions?\nGetting Creative With “The Measure” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-creative-with-the-measure/",
+          "publishedOn": "2025-12-04T14:04:52.000Z",
+          "wordCount": 2223,
+          "title": "Getting Creative With “The Measure”",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/s_56AFCBE7DCEED351817E3696EEEE003B5BEE9737CDC6205474FB62E233A2CF20_1763072955406_2025-11-13-1.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390205",
+          "author": "Lee Meyer",
+          "description": "Unconvinced of the value of scrollytelling? Alright, skeptic, let’s first warm up with some common use cases for scroll-based styling.\nScrollytelling on Steroids With Scroll-State Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/",
+          "publishedOn": "2025-12-02T16:47:14.000Z",
+          "wordCount": 4161,
+          "title": "Scrollytelling on Steroids With Scroll-State Queries",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/taylor-flowe-aXeVH4FcS1k-unsplash-scaled.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390613",
+          "author": "Geoff Graham",
+          "description": "Bramus:\nChrome 144 features a small change to overscroll-behavior: it now also works on non-scrollable scroll containers. While this change might seem trivial, it fixes an issue developers have been dealing with for ages: prevent a page from \n…\nPrevent a page from scrolling while a dialog is open originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/prevent-a-page-from-scrolling-while-a-dialog-is-open/",
+          "publishedOn": "2025-12-01T17:25:28.000Z",
+          "wordCount": 1148,
+          "title": "Prevent a page from scrolling while a dialog is open",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=389944",
+          "author": "Daniel Schwarz",
+          "description": "There are many ways to share properties, but what would it look like to inherit and use any parent property value on a child?\nOn Inheriting and Sharing Property Values originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/on-inheriting-and-sharing-property-values/",
+          "publishedOn": "2025-11-24T14:22:30.000Z",
+          "wordCount": 2820,
+          "title": "On Inheriting and Sharing Property Values",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/dashy-circles.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390539",
+          "author": "Geoff Graham",
+          "description": "Sketch probably didn't \"have\" to redesign its UI to line up with macOS Tahoe, but a big part of its appeal is the fact that it feels like it totally belongs to the Mac.\nSketch: A guided tour of Copenhagen originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/sketch-a-guided-tour-of-copenhagen/",
+          "publishedOn": "2025-11-21T18:53:05.000Z",
+          "wordCount": 1443,
+          "title": "Sketch: A guided tour of Copenhagen",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/sketch-liquid-glass.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390115",
+          "author": "Sunkanmi Fafowora",
+          "description": "Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a thing.\nShould We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/should-we-even-have-closed/",
+          "publishedOn": "2025-11-20T15:10:26.000Z",
+          "wordCount": 1834,
+          "title": "Should We Even Have :closed?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/12/opinon-this-that-signs.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390236",
+          "author": "Juan Diego Rodríguez",
+          "description": "If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric functions come in!\nThe “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/",
+          "publishedOn": "2025-11-17T14:47:54.000Z",
+          "wordCount": 3638,
+          "title": "The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/css-trig-unit-circle-diagram.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390408",
+          "author": "Ryan Trimble",
+          "description": "The extremely new framework that caught lots of attention will continue as a personal project.\nQuiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/",
+          "publishedOn": "2025-11-14T15:32:50.000Z",
+          "wordCount": 1219,
+          "title": "Quiet UI Came and Went, Quiet as a Mouse",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/quiet-ui.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390178",
+          "author": "Daniel Schwarz",
+          "description": "Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric values as well as numeric values tokenized by custom properties or the attr() function.\nThe Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-range-syntax-has-come-to-container-style-queries-and-if/",
+          "publishedOn": "2025-11-13T15:00:20.000Z",
+          "wordCount": 2578,
+          "title": "The Range Syntax Has Come to Container Style Queries and if()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/media-query-range-syntax.png"
+        }
+      ]
+    },
+    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
@@ -14,10 +171,10 @@
         {
           "id": "https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/",
           "author": "hello@smashingmagazine.com (Ari Stiles)",
-          "description": "eBook versions of “Accessible UX Research,” a new Smashing Book by Michele A. Williams, are now available for download! Which means soon the book will go to the printer. Order the eBook for instant download now or reserve your print copy at the presale price.",
+          "description": "We’ve got exciting news! eBook versions of “Accessible UX Research,” a new Smashing Book by Michele A. Williams, are now available for download! Which means soon the book will go to the printer. Order the eBook for instant download now or reserve your print copy at the presale price.",
           "link": "https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/",
           "publishedOn": "2025-12-09T16:00:00.000Z",
-          "wordCount": 4049,
+          "wordCount": 4099,
           "title": "Accessible UX Research, eBook Now Available For Download",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessible-ux-research-pre-release/accessible-ux-research-coming-soon-light-varnish-opt.png",
@@ -32,7 +189,7 @@
           "description": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.",
           "link": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
           "publishedOn": "2025-12-09T10:00:00.000Z",
-          "wordCount": 4607,
+          "wordCount": null,
           "title": "State, Logic, And Native Power: CSS Wrapped 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/state-logic-native-power-css-wrapped-2025/state-logic-native-power-css-wrapped-2025.jpg",
@@ -47,7 +204,7 @@
           "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.",
           "link": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
           "publishedOn": "2025-12-08T08:00:00.000Z",
-          "wordCount": 4463,
+          "wordCount": null,
           "title": "How UX Professionals Can Lead AI Strategy",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg",
@@ -62,7 +219,7 @@
           "description": "Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.",
           "link": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
           "publishedOn": "2025-12-05T15:00:00.000Z",
-          "wordCount": 6880,
+          "wordCount": 6882,
           "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-black-box-practical-xai-ux-practitioners/beyond-black-box-practical-xai-ux-practitioners.jpg",
@@ -77,7 +234,7 @@
           "description": "CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.",
           "link": "https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
           "publishedOn": "2025-12-02T10:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6738,
           "title": "Masonry: Things You Won’t Need A Library For Anymore",
           "enclosure": {
             "url": "http://files.smashing.media/articles/masonry-things-you-wont-need-library-anymore/masonry-things-you-wont-need-library-anymore.jpg",
@@ -92,7 +249,7 @@
           "description": "With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re celebrating? Our latest edition of monthly wallpapers has got you covered. Enjoy!",
           "link": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
           "publishedOn": "2025-11-30T09:00:00.000Z",
-          "wordCount": 4986,
+          "wordCount": 4979,
           "title": "A Sparkle Of December Magic (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2025/dec-25-zero-gravity-december-preview-opt.png",
@@ -107,7 +264,7 @@
           "description": "CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.",
           "link": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
           "publishedOn": "2025-11-27T10:00:00.000Z",
-          "wordCount": 4733,
+          "wordCount": 4727,
           "title": "The Accessibility Problem With Authentication Methods Like CAPTCHA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessibility-problem-authentication-methods-captcha/accessibility-problem-authentication-methods-captcha.jpg",
@@ -122,7 +279,7 @@
           "description": "We’re so happy to announce that “Maturing Design Systems”—a Smashing book by Ben Callahan — will soon be joining the Smashing Library! Ben’s insights and advice are so powerful, we thought you might like to read an excerpt from the book. Subscribe to our Smashing newsletter to be notified when orders are open.",
           "link": "https://smashingmagazine.com/2025/11/design-system-culture/",
           "publishedOn": "2025-11-25T18:00:00.000Z",
-          "wordCount": 5023,
+          "wordCount": null,
           "title": "Design System Culture: What It Is And Why It Matters (Excerpt)",
           "enclosure": {
             "url": "http://files.smashing.media/maturing-design-systems.png",
@@ -152,7 +309,7 @@
           "description": "Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.",
           "link": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
           "publishedOn": "2025-11-21T08:00:00.000Z",
-          "wordCount": 7591,
+          "wordCount": 7599,
           "title": "Keyframes Tokens: Standardizing Animation Across Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg",
@@ -177,7 +334,7 @@
           "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.",
           "link": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
           "publishedOn": "2025-11-14T13:00:00.000Z",
-          "wordCount": 6511,
+          "wordCount": 6502,
           "title": "CSS Gamepad API Visual Debugging With CSS Layers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg",
@@ -192,7 +349,7 @@
           "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.",
           "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
           "publishedOn": "2025-11-13T08:00:00.000Z",
-          "wordCount": 6510,
+          "wordCount": null,
           "title": "Older Tech In The Browser Stack",
           "enclosure": {
             "url": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg",
@@ -200,21 +357,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/",
-          "author": "hello@smashingmagazine.com (Matt Zeunert)",
-          "description": "There are lots of tips for [improving your website performance](https://www.debugbear.com/blog/improve-website-performance?utm_campaign=sm-10). But even if you follow all of the advice, are you able to maintain an optimized site? And are you targeting the right pages? Matt Zeunert outlines an effective strategy for web performance optimization and explains the roles that different types of data play in it.",
-          "link": "https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/",
-          "publishedOn": "2025-11-11T10:00:00.000Z",
-          "wordCount": 3979,
-          "title": "Effectively Monitoring Web Performance",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/effectively-monitoring-web-performance/effectively-monitoring-web-performance.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/effectively-monitoring-web-performance/effectively-monitoring-web-performance.jpg"
         }
       ]
     },
@@ -223,6 +365,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6939b88a5a4b3354fde8c07b",
+          "author": "Sara Jadhav",
+          "description": "In this article, I’ll give you a beginner-friendly introduction to the Polars library in Python. Polars is an open-source library, originally written in Rust, which makes data wrangling easier in Python. The syntax of Polars is very similar to Pandas...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-polars-library-in-python-for-data-analysis/",
+          "publishedOn": "2025-12-10T18:14:34.000Z",
+          "wordCount": 6245,
+          "title": "How to Use the Polars Library in Python for Data Analysis",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765325732081/94ab547b-fdaf-41bb-ae60-ad03be31211a.png"
+        },
+        {
+          "id": "6939b6ee10076c81dd6c3f49",
+          "author": "Arunachalam B",
+          "description": "Web development is always evolving, and sometimes those changes happen a bit under the hood. One such change involved the shift to React Server Components (RSC). If you’re a NextJS or React developer, especially using the App Router, understanding th...",
+          "link": "https://www.freecodecamp.org/news/reacts-critical-react2shell-vulnerability-what-you-should-know-and-how-to-upgrade-your-app/",
+          "publishedOn": "2025-12-10T18:07:42.000Z",
+          "wordCount": 2413,
+          "title": "React’s Critical \"React2Shell\" Vulnerability — What You Should Know, and How to Upgrade Your App",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765328805925/a9c016a1-90a9-4123-bbb0-17c7d46da035.png"
+        },
+        {
+          "id": "6939973f5518db00ad552055",
+          "author": "Nielda Karla",
+          "description": "The freeCodeCamp community just published our new A2 English for Developers certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. How Does the A2 English for D...",
+          "link": "https://www.freecodecamp.org/news/freecodecamps-a2-english-for-developers-certification-is-now-live/",
+          "publishedOn": "2025-12-10T15:52:31.000Z",
+          "wordCount": 2480,
+          "title": "freeCodeCamp's A2 English for Developers Certification is Now Live",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764781521906/b24af8b2-4bc2-4e0c-88ae-c121507cebdc.png"
+        },
+        {
+          "id": "6939907d149667a2e0b357dd",
+          "author": "Beau Carnes",
+          "description": "Learn about the complete neural machine translation journey. We just posted a course on the freeCodeCamp.org YouTube channel that is a comprehensive journey through the evolution of sequence models and neural machine translation (NMT). It blends hist...",
+          "link": "https://www.freecodecamp.org/news/building-nmt-from-scratch-pytorch-replications-of-7-landmark-papers/",
+          "publishedOn": "2025-12-10T15:23:41.000Z",
+          "wordCount": 1186,
+          "title": "Building NMT from Scratch – PyTorch Replications of 7 Landmark Papers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765380195051/cafca462-96d6-49a4-b182-24d7a4f438f9.jpeg"
+        },
+        {
+          "id": "69398d140eb4fb84a7ed1561",
+          "author": "Beau Carnes",
+          "description": "Learn to build AI agents with Langbase. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to create context-engineered agents that use memory and AI primitives to take action and deliver accurate, production-read...",
+          "link": "https://www.freecodecamp.org/news/build-ai-agents-with-langbase/",
+          "publishedOn": "2025-12-10T15:09:08.000Z",
+          "wordCount": 1058,
+          "title": "Build AI Agents with Langbase",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765379245144/d2dd6d43-155d-4336-a277-db7b8dbae70a.jpeg"
+        },
+        {
+          "id": "69398520ef68a953062588d1",
+          "author": "Amina Lawal",
+          "description": "You've built your first Generative AI feature. Now what? When deploying AI, the challenge is no longer if the model can answer, but how fast it can answer for a user halfway across the globe. Low latency is not a luxury, it's a requirement for good u...",
+          "link": "https://www.freecodecamp.org/news/how-to-reduce-latency-in-your-generative-ai-apps-with-gemini-and-cloud-run/",
+          "publishedOn": "2025-12-10T14:35:12.000Z",
+          "wordCount": 3743,
+          "title": "How to Reduce Latency in Your Generative AI Apps with Gemini and Cloud Run",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765370930321/e4256d2f-cab3-4ae3-9486-c6651e363366.png"
+        },
         {
           "id": "693775071df2bd7125d8e5f3",
           "author": "Wisamul Haque",
@@ -262,66 +464,6 @@
           "wordCount": 4337,
           "title": "Figma MCP vs Kombai: Cloning the Front End from Figma with AI Tools",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765205804241/295ef345-b776-458a-bcdb-f1157c9c185b.png"
-        },
-        {
-          "id": "6936e6e9ba6866f4046b4f36",
-          "author": "Jessica Wilkins",
-          "description": "The freeCodeCamp community just published our new JavaScript certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with hundreds of...",
-          "link": "https://www.freecodecamp.org/news/freecodecamps-new-javascript-certification-is-now-live/",
-          "publishedOn": "2025-12-08T14:55:37.000Z",
-          "wordCount": 2716,
-          "title": "freeCodeCamp's New JavaScript Certification is Now Live",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763760147447/32b0f575-098c-4898-945c-a2c696c699bb.png"
-        },
-        {
-          "id": "6932fc1b589bda49dd014db7",
-          "author": "Manish Shivanandhan",
-          "description": "Artificial intelligence is now part of daily work for many teams. People use it to write content, analyse data, answer support requests, and guide business decisions. But building AI workflows is still hard for many users. Most tools need code, a com...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-no-code-ai-workflows-using-activepieces/",
-          "publishedOn": "2025-12-05T15:36:59.000Z",
-          "wordCount": 2197,
-          "title": "How to Build No-Code AI Workflows Using Activepieces",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764948981880/a78ae4ab-0430-4f37-a30a-1683e1403c0a.png"
-        },
-        {
-          "id": "6932f37cc34687e487990bf9",
-          "author": "Beau Carnes",
-          "description": "Today Quincy Larson interviews Kunal Kushwaha. He's a software engineer and prolific computer science teacher on YouTube. He failed the JEE, the Indian Engineering Entrance Exam, TWICE. But he persevered. He did 4 years of university but attended ZER...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-learning-path-using-open-source-with-kunal-kushwaha-podcast-200/",
-          "publishedOn": "2025-12-05T15:00:12.000Z",
-          "wordCount": 1497,
-          "title": "How to build your own learning path using Open Source with Kunal Kushwaha [Podcast #200]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764933995860/f4478488-9969-456e-8ca7-f0e41be34464.jpeg"
-        },
-        {
-          "id": "6931ef1a5feb2860f3beafd6",
-          "author": "Beau Carnes",
-          "description": "Git is important for any developer. We just posted a course that will help you learn Git and GitHub from scratch with clear examples, real workflows, branching, merging, stashing, rebase, pull requests, and more. This course is great for beginners wh...",
-          "link": "https://www.freecodecamp.org/news/git-and-github-crash-course-for-beginners/",
-          "publishedOn": "2025-12-04T20:29:14.000Z",
-          "wordCount": 998,
-          "title": "Git & GitHub Crash Course for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764880033392/03198f4c-c7c0-4ba1-a383-24c546a418cf.jpeg"
-        },
-        {
-          "id": "6931ed67859ffe0c32f1133b",
-          "author": "Beau Carnes",
-          "description": "We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to become an AI Researcher. This course will guide you step-by-step, starting with the foundational mathematics essential for understanding modern AI, before divi...",
-          "link": "https://www.freecodecamp.org/news/become-an-ai-researcher/",
-          "publishedOn": "2025-12-04T20:21:59.000Z",
-          "wordCount": 1126,
-          "title": "Become an AI Researcher",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764879600871/035df186-2ce4-4c89-bf2d-0e52b2b44d8a.jpeg"
-        },
-        {
-          "id": "6931bd617fcd342128f08ed6",
-          "author": "Ajay Patel",
-          "description": "In this guide, we’ll build a feature-rich admin dashboard using shadcn/ui for beautiful, reusable components and TanStack Start for a powerful, type-safe full-stack framework. By the end, you’ll have: A fully functional /dashboard layout A statisti...",
-          "link": "https://www.freecodecamp.org/news/build-an-admin-dashboard-with-shadcnui-and-tanstack-start/",
-          "publishedOn": "2025-12-04T16:57:05.000Z",
-          "wordCount": 6009,
-          "title": "How to Build an Admin Dashboard with shadcn/ui and TanStack Start",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764780775287/b8cb826d-ac42-497c-8bb9-b9ffe797df83.png"
         }
       ]
     }

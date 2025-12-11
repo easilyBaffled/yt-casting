@@ -1,18 +1,112 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-10T00:36:46.320Z</id>
+    <id>urn:2025-12-11T00:36:53.155Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-10T00:36:46.320Z</updated>
+    <updated>2025-12-11T00:36:53.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Polars Library in Python for Data Analysis]]></title>
+        <id>6939b88a5a4b3354fde8c07b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-polars-library-in-python-for-data-analysis/"/>
+        <updated>2025-12-10T18:14:34.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I’ll give you a beginner-friendly introduction to the Polars library in Python. Polars is an open-source library, originally written in Rust, which makes data wrangling easier in Python. The syntax of Polars is very similar to Pandas...]]></summary>
+        <author>
+            <name>Sara Jadhav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React’s Critical "React2Shell" Vulnerability — What You Should Know, and How to Upgrade Your App]]></title>
+        <id>6939b6ee10076c81dd6c3f49</id>
+        <link href="https://www.freecodecamp.org/news/reacts-critical-react2shell-vulnerability-what-you-should-know-and-how-to-upgrade-your-app/"/>
+        <updated>2025-12-10T18:07:42.000Z</updated>
+        <summary type="html"><![CDATA[Web development is always evolving, and sometimes those changes happen a bit under the hood. One such change involved the shift to React Server Components (RSC). If you’re a NextJS or React developer, especially using the App Router, understanding th...]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp's A2 English for Developers Certification is Now Live]]></title>
+        <id>6939973f5518db00ad552055</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamps-a2-english-for-developers-certification-is-now-live/"/>
+        <updated>2025-12-10T15:52:31.000Z</updated>
+        <summary type="html"><![CDATA[The freeCodeCamp community just published our new A2 English for Developers certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. How Does the A2 English for D...]]></summary>
+        <author>
+            <name>Nielda Karla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building NMT from Scratch – PyTorch Replications of 7 Landmark Papers]]></title>
+        <id>6939907d149667a2e0b357dd</id>
+        <link href="https://www.freecodecamp.org/news/building-nmt-from-scratch-pytorch-replications-of-7-landmark-papers/"/>
+        <updated>2025-12-10T15:23:41.000Z</updated>
+        <summary type="html"><![CDATA[Learn about the complete neural machine translation journey. We just posted a course on the freeCodeCamp.org YouTube channel that is a comprehensive journey through the evolution of sequence models and neural machine translation (NMT). It blends hist...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build AI Agents with Langbase]]></title>
+        <id>69398d140eb4fb84a7ed1561</id>
+        <link href="https://www.freecodecamp.org/news/build-ai-agents-with-langbase/"/>
+        <updated>2025-12-10T15:09:08.000Z</updated>
+        <summary type="html"><![CDATA[Learn to build AI agents with Langbase. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to create context-engineered agents that use memory and AI primitives to take action and deliver accurate, production-read...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Scroll-Based Animations in Full view()]]></title>
+        <id>https://css-tricks.com/?p=390516</id>
+        <link href="https://css-tricks.com/creating-scroll-based-animations-in-full-view/"/>
+        <updated>2025-12-10T15:04:08.000Z</updated>
+        <summary type="html"><![CDATA[It’s not that hard to do! Preethi shows you how it's really the same old animation you’re used to writing in CSS, only applied on a view timeline instead of a normal timeline.
+Creating Scroll-Based Animations in Full view() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Reduce Latency in Your Generative AI Apps with Gemini and Cloud Run]]></title>
+        <id>69398520ef68a953062588d1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-reduce-latency-in-your-generative-ai-apps-with-gemini-and-cloud-run/"/>
+        <updated>2025-12-10T14:35:12.000Z</updated>
+        <summary type="html"><![CDATA[You've built your first Generative AI feature. Now what? When deploying AI, the challenge is no longer if the model can answer, but how fast it can answer for a user halfway across the globe. Low latency is not a luxury, it's a requirement for good u...]]></summary>
+        <author>
+            <name>Amina Lawal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accessible UX Research, eBook Now Available For Download]]></title>
         <id>https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/</id>
         <link href="https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/"/>
         <updated>2025-12-09T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[eBook versions of “Accessible UX Research,” a new Smashing Book by Michele A. Williams, are now available for download! Which means soon the book will go to the printer. Order the eBook for instant download now or reserve your print copy at the presale price.]]></summary>
+        <summary type="html"><![CDATA[We’ve got exciting news! eBook versions of “Accessible UX Research,” a new Smashing Book by Michele A. Williams, are now available for download! Which means soon the book will go to the printer. Order the eBook for instant download now or reserve your print copy at the presale price.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ari Stiles)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Wrapped 2025]]></title>
+        <id>https://css-tricks.com/?p=390785</id>
+        <link href="https://css-tricks.com/css-wrapped-2025/"/>
+        <updated>2025-12-09T15:52:20.000Z</updated>
+        <summary type="html"><![CDATA[The Chrome Dev Team recaps the new CSS features that shipped in Google Chrome this past year in one amazingly designed webpage. They cover new functionality for creating more customizable components, next-gen interactions, and optimizing ergonomics.
+We’ve …
+CSS Wrapped 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ryan Trimble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fit width text in 1 line of CSS]]></title>
+        <id>https://css-tricks.com/?p=390777</id>
+        <link href="https://css-tricks.com/fit-width-text-in-1-line-of-css/"/>
+        <updated>2025-12-09T15:00:56.000Z</updated>
+        <summary type="html"><![CDATA[The Chrome team recently prototyped a working solution for fitting text to the width of a container in CSS using a text-grow property.
+Fit width text in 1 line of CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -66,13 +160,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[freeCodeCamp's New JavaScript Certification is Now Live]]></title>
-        <id>6936e6e9ba6866f4046b4f36</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamps-new-javascript-certification-is-now-live/"/>
-        <updated>2025-12-08T14:55:37.000Z</updated>
-        <summary type="html"><![CDATA[The freeCodeCamp community just published our new JavaScript certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with hundreds of...]]></summary>
+        <title type="html"><![CDATA[That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece]]></title>
+        <id>https://css-tricks.com/?p=390475</id>
+        <link href="https://css-tricks.com/that-time-i-tried-explaining-html-and-css-to-my-5-year-old-niece/"/>
+        <updated>2025-12-08T14:45:43.000Z</updated>
+        <summary type="html"><![CDATA[I would like to tell you what I learned from a five-year old child about HTML and CSS. It’s funny how explaining something you do almost naturally teaches you about yourself and what you take for granted.
+That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
-            <name>Jessica Wilkins</name>
+            <name>Kevine Nzapdi</name>
         </author>
     </entry>
     <entry>
@@ -86,23 +181,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build No-Code AI Workflows Using Activepieces]]></title>
-        <id>6932fc1b589bda49dd014db7</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-no-code-ai-workflows-using-activepieces/"/>
-        <updated>2025-12-05T15:36:59.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence is now part of daily work for many teams. People use it to write content, analyse data, answer support requests, and guide business decisions. But building AI workflows is still hard for many users. Most tools need code, a com...]]></summary>
+        <title type="html"><![CDATA[HTML Web Components Proposal From 1998]]></title>
+        <id>https://css-tricks.com/?p=390691</id>
+        <link href="https://css-tricks.com/html-web-components-proposal-from-1998/"/>
+        <updated>2025-12-05T18:16:48.000Z</updated>
+        <summary type="html"><![CDATA[It's easy to think of HTML Web Components as a recent feature, but it has roots that go all the way back to 1998.
+HTML Web Components Proposal From 1998 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to build your own learning path using Open Source with Kunal Kushwaha [Podcast #200]]]></title>
-        <id>6932f37cc34687e487990bf9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-learning-path-using-open-source-with-kunal-kushwaha-podcast-200/"/>
-        <updated>2025-12-05T15:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Kunal Kushwaha. He's a software engineer and prolific computer science teacher on YouTube. He failed the JEE, the Indian Engineering Entrance Exam, TWICE. But he persevered. He did 4 years of university but attended ZER...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -116,33 +202,25 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Git & GitHub Crash Course for Beginners]]></title>
-        <id>6931ef1a5feb2860f3beafd6</id>
-        <link href="https://www.freecodecamp.org/news/git-and-github-crash-course-for-beginners/"/>
-        <updated>2025-12-04T20:29:14.000Z</updated>
-        <summary type="html"><![CDATA[Git is important for any developer. We just posted a course that will help you learn Git and GitHub from scratch with clear examples, real workflows, branching, merging, stashing, rebase, pull requests, and more. This course is great for beginners wh...]]></summary>
+        <title type="html"><![CDATA[Getting Creative With “The Measure”]]></title>
+        <id>https://css-tricks.com/?p=390477</id>
+        <link href="https://css-tricks.com/getting-creative-with-the-measure/"/>
+        <updated>2025-12-04T14:04:52.000Z</updated>
+        <summary type="html"><![CDATA[A good measure makes reading text comfortable, while a bad one makes it more difficult. So, rather than allowing layout to dictate the measure, doesn’t it make more sense for the measure to inform layout decisions?
+Getting Creative With “The Measure” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>Andy Clarke</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Become an AI Researcher]]></title>
-        <id>6931ed67859ffe0c32f1133b</id>
-        <link href="https://www.freecodecamp.org/news/become-an-ai-researcher/"/>
-        <updated>2025-12-04T20:21:59.000Z</updated>
-        <summary type="html"><![CDATA[We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to become an AI Researcher. This course will guide you step-by-step, starting with the foundational mathematics essential for understanding modern AI, before divi...]]></summary>
+        <title type="html"><![CDATA[Scrollytelling on Steroids With Scroll-State Queries]]></title>
+        <id>https://css-tricks.com/?p=390205</id>
+        <link href="https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/"/>
+        <updated>2025-12-02T16:47:14.000Z</updated>
+        <summary type="html"><![CDATA[Unconvinced of the value of scrollytelling? Alright, skeptic, let’s first warm up with some common use cases for scroll-based styling.
+Scrollytelling on Steroids With Scroll-State Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Admin Dashboard with shadcn/ui and TanStack Start]]></title>
-        <id>6931bd617fcd342128f08ed6</id>
-        <link href="https://www.freecodecamp.org/news/build-an-admin-dashboard-with-shadcnui-and-tanstack-start/"/>
-        <updated>2025-12-04T16:57:05.000Z</updated>
-        <summary type="html"><![CDATA[In this guide, we’ll build a feature-rich admin dashboard using shadcn/ui for beautiful, reusable components and TanStack Start for a powerful, type-safe full-stack framework. By the end, you’ll have: A fully functional /dashboard layout A statisti...]]></summary>
-        <author>
-            <name>Ajay Patel</name>
+            <name>Lee Meyer</name>
         </author>
     </entry>
     <entry>
@@ -153,6 +231,19 @@
         <summary type="html"><![CDATA[CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Patrick Brosset)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prevent a page from scrolling while a dialog is open]]></title>
+        <id>https://css-tricks.com/?p=390613</id>
+        <link href="https://css-tricks.com/prevent-a-page-from-scrolling-while-a-dialog-is-open/"/>
+        <updated>2025-12-01T17:25:28.000Z</updated>
+        <summary type="html"><![CDATA[Bramus:
+Chrome 144 features a small change to overscroll-behavior: it now also works on non-scrollable scroll containers. While this change might seem trivial, it fixes an issue developers have been dealing with for ages: prevent a page from 
+…
+Prevent a page from scrolling while a dialog is open originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -186,6 +277,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[On Inheriting and Sharing Property Values]]></title>
+        <id>https://css-tricks.com/?p=389944</id>
+        <link href="https://css-tricks.com/on-inheriting-and-sharing-property-values/"/>
+        <updated>2025-11-24T14:22:30.000Z</updated>
+        <summary type="html"><![CDATA[There are many ways to share properties, but what would it look like to inherit and use any parent property value on a child?
+On Inheriting and Sharing Property Values originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Designing For Stress And Emergency]]></title>
         <id>https://smashingmagazine.com/2025/11/designing-for-stress-emergency/</id>
         <link href="https://smashingmagazine.com/2025/11/designing-for-stress-emergency/"/>
@@ -193,6 +295,17 @@
         <summary type="html"><![CDATA[Practical guidelines on designing time-critical products that prevent errors and improve accuracy. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today). With a live UX training starting next week.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sketch: A guided tour of Copenhagen]]></title>
+        <id>https://css-tricks.com/?p=390539</id>
+        <link href="https://css-tricks.com/sketch-a-guided-tour-of-copenhagen/"/>
+        <updated>2025-11-21T18:53:05.000Z</updated>
+        <summary type="html"><![CDATA[Sketch probably didn't "have" to redesign its UI to line up with macOS Tahoe, but a big part of its appeal is the fact that it feels like it totally belongs to the Mac.
+Sketch: A guided tour of Copenhagen originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -206,6 +319,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Should We Even Have :closed?]]></title>
+        <id>https://css-tricks.com/?p=390115</id>
+        <link href="https://css-tricks.com/should-we-even-have-closed/"/>
+        <updated>2025-11-20T15:10:26.000Z</updated>
+        <summary type="html"><![CDATA[Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a thing.
+Should We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[From Chaos To Clarity: Simplifying Server Management With AI And Automation]]></title>
         <id>https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/</id>
         <link href="https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/"/>
@@ -213,6 +337,28 @@
         <summary type="html"><![CDATA[Server chaos doesn’t have to be the norm. AI-ready infrastructure and automation can bring clarity, performance, and focus back to your web work.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mansoor Ahmed Khan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()]]></title>
+        <id>https://css-tricks.com/?p=390236</id>
+        <link href="https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/"/>
+        <updated>2025-11-17T14:47:54.000Z</updated>
+        <summary type="html"><![CDATA[If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric functions come in!
+The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quiet UI Came and Went, Quiet as a Mouse]]></title>
+        <id>https://css-tricks.com/?p=390408</id>
+        <link href="https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/"/>
+        <updated>2025-11-14T15:32:50.000Z</updated>
+        <summary type="html"><![CDATA[The extremely new framework that caught lots of attention will continue as a personal project.
+Quiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ryan Trimble</name>
         </author>
     </entry>
     <entry>
@@ -226,6 +372,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Range Syntax Has Come to Container Style Queries and if()]]></title>
+        <id>https://css-tricks.com/?p=390178</id>
+        <link href="https://css-tricks.com/the-range-syntax-has-come-to-container-style-queries-and-if/"/>
+        <updated>2025-11-13T15:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric values as well as numeric values tokenized by custom properties or the attr() function.
+The Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Older Tech In The Browser Stack]]></title>
         <id>https://smashingmagazine.com/2025/11/older-tech-browser-stack/</id>
         <link href="https://smashingmagazine.com/2025/11/older-tech-browser-stack/"/>
@@ -233,16 +390,6 @@
         <summary type="html"><![CDATA[There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Bryan Rasmussen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effectively Monitoring Web Performance]]></title>
-        <id>https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/</id>
-        <link href="https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/"/>
-        <updated>2025-11-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are lots of tips for [improving your website performance](https://www.debugbear.com/blog/improve-website-performance?utm_campaign=sm-10). But even if you follow all of the advice, are you able to maintain an optimized site? And are you targeting the right pages? Matt Zeunert outlines an effective strategy for web performance optimization and explains the roles that different types of data play in it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Matt Zeunert)</name>
         </author>
     </entry>
 </feed>
