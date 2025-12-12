@@ -17,7 +17,7 @@
           "description": "It’s not that hard to do! Preethi shows you how it's really the same old animation you’re used to writing in CSS, only applied on a view timeline instead of a normal timeline.\nCreating Scroll-Based Animations in Full view() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/creating-scroll-based-animations-in-full-view/",
           "publishedOn": "2025-12-10T15:04:08.000Z",
-          "wordCount": 2292,
+          "wordCount": 2308,
           "title": "Creating Scroll-Based Animations in Full view()",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2025/11/scroll-animation-carousel.mov",
@@ -32,7 +32,7 @@
           "description": "The Chrome Dev Team recaps the new CSS features that shipped in Google Chrome this past year in one amazingly designed webpage. They cover new functionality for creating more customizable components, next-gen interactions, and optimizing ergonomics.\nWe’ve …\nCSS Wrapped 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-wrapped-2025/",
           "publishedOn": "2025-12-09T15:52:20.000Z",
-          "wordCount": 1068,
+          "wordCount": 1137,
           "title": "CSS Wrapped 2025",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/chrome-wrapped-2025-scaled.jpg"
         },
@@ -77,7 +77,7 @@
           "description": "A good measure makes reading text comfortable, while a bad one makes it more difficult. So, rather than allowing layout to dictate the measure, doesn’t it make more sense for the measure to inform layout decisions?\nGetting Creative With “The Measure” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/getting-creative-with-the-measure/",
           "publishedOn": "2025-12-04T14:04:52.000Z",
-          "wordCount": 2223,
+          "wordCount": 2289,
           "title": "Getting Creative With “The Measure”",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/s_56AFCBE7DCEED351817E3696EEEE003B5BEE9737CDC6205474FB62E233A2CF20_1763072955406_2025-11-13-1.webp"
         },
@@ -189,7 +189,7 @@
           "description": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.",
           "link": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
           "publishedOn": "2025-12-09T10:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4597,
           "title": "State, Logic, And Native Power: CSS Wrapped 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/state-logic-native-power-css-wrapped-2025/state-logic-native-power-css-wrapped-2025.jpg",
@@ -204,7 +204,7 @@
           "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.",
           "link": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
           "publishedOn": "2025-12-08T08:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4451,
           "title": "How UX Professionals Can Lead AI Strategy",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg",
@@ -219,7 +219,7 @@
           "description": "Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.",
           "link": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
           "publishedOn": "2025-12-05T15:00:00.000Z",
-          "wordCount": 6882,
+          "wordCount": 6876,
           "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-black-box-practical-xai-ux-practitioners/beyond-black-box-practical-xai-ux-practitioners.jpg",
@@ -234,7 +234,7 @@
           "description": "CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.",
           "link": "https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
           "publishedOn": "2025-12-02T10:00:00.000Z",
-          "wordCount": 6738,
+          "wordCount": 6733,
           "title": "Masonry: Things You Won’t Need A Library For Anymore",
           "enclosure": {
             "url": "http://files.smashing.media/articles/masonry-things-you-wont-need-library-anymore/masonry-things-you-wont-need-library-anymore.jpg",
@@ -249,7 +249,7 @@
           "description": "With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re celebrating? Our latest edition of monthly wallpapers has got you covered. Enjoy!",
           "link": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
           "publishedOn": "2025-11-30T09:00:00.000Z",
-          "wordCount": 4979,
+          "wordCount": null,
           "title": "A Sparkle Of December Magic (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2025/dec-25-zero-gravity-december-preview-opt.png",
@@ -264,7 +264,7 @@
           "description": "CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.",
           "link": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
           "publishedOn": "2025-11-27T10:00:00.000Z",
-          "wordCount": 4727,
+          "wordCount": 4733,
           "title": "The Accessibility Problem With Authentication Methods Like CAPTCHA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessibility-problem-authentication-methods-captcha/accessibility-problem-authentication-methods-captcha.jpg",
@@ -279,7 +279,7 @@
           "description": "We’re so happy to announce that “Maturing Design Systems”—a Smashing book by Ben Callahan — will soon be joining the Smashing Library! Ben’s insights and advice are so powerful, we thought you might like to read an excerpt from the book. Subscribe to our Smashing newsletter to be notified when orders are open.",
           "link": "https://smashingmagazine.com/2025/11/design-system-culture/",
           "publishedOn": "2025-11-25T18:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5023,
           "title": "Design System Culture: What It Is And Why It Matters (Excerpt)",
           "enclosure": {
             "url": "http://files.smashing.media/maturing-design-systems.png",
@@ -309,7 +309,7 @@
           "description": "Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.",
           "link": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
           "publishedOn": "2025-11-21T08:00:00.000Z",
-          "wordCount": 7599,
+          "wordCount": 7593,
           "title": "Keyframes Tokens: Standardizing Animation Across Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg",
@@ -349,7 +349,7 @@
           "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.",
           "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
           "publishedOn": "2025-11-13T08:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6513,
           "title": "Older Tech In The Browser Stack",
           "enclosure": {
             "url": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg",
@@ -365,6 +365,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "693b0c06b189322615083d9f",
+          "author": "Beau Carnes",
+          "description": "n8n is an open-source, visual workflow automation tool that lets you connect applications, APIs, and AI models to build complex, intelligent automations. We just posted a course on the freeCodeCamp.org YouTube channel that will be your guide to maste...",
+          "link": "https://www.freecodecamp.org/news/learn-n8n-to-design-develop-and-deploy-production-grade-ai-agents/",
+          "publishedOn": "2025-12-11T18:23:02.000Z",
+          "wordCount": 1094,
+          "title": "Learn n8n to Design, Develop, and Deploy Production-Grade AI Agents",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765477338398/5c72b733-c04f-4722-8c30-67e3bb9043e5.jpeg"
+        },
+        {
+          "id": "6939fb2773d2f31ad28cfef5",
+          "author": "Bala Priya C",
+          "description": "If you've ever worked with configuration files, Docker Compose, Kubernetes, or CI/CD pipelines, you've probably used YAML. It's everywhere in modern development, and for good reason: it’s human-readable, simple, and powerful. In this guide, you'll le...",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-yaml-in-python-a-guide-with-examples/",
+          "publishedOn": "2025-12-10T22:58:47.000Z",
+          "wordCount": 2128,
+          "title": "How to Work with YAML in Python – A Guide with Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765407508788/61769835-bd12-486e-8f8e-ba0f3a7af83c.png"
+        },
         {
           "id": "6939b88a5a4b3354fde8c07b",
           "author": "Sara Jadhav",
@@ -444,26 +464,6 @@
           "wordCount": 3280,
           "title": "Learn Cloud Security Fundamentals in AWS – A Guide for Beginners",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764958826138/12b261c3-9a38-4b0b-b67a-48ce54452d5f.png"
-        },
-        {
-          "id": "693704c4f37606a62f1727d3",
-          "author": "Manish Shivanandhan",
-          "description": "Most business apps capture data. They track orders, tickets, leads, expenses, tasks, or deliveries. But when someone needs insights, they often leave the app, export a file or open a BI tool to get answers. This extra step slows down decisions and cr...",
-          "link": "https://www.freecodecamp.org/news/how-embedded-analytics-makes-your-app-more-valuable/",
-          "publishedOn": "2025-12-08T17:03:00.000Z",
-          "wordCount": 2248,
-          "title": "How Embedded Analytics Makes Your App More Valuable",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765213278642/9bbd88ba-c803-45d5-bace-97cf7ccca83e.png"
-        },
-        {
-          "id": "693703cb19e18638588e6285",
-          "author": "Shrijal Acharya",
-          "description": "Frontend automation is moving fast. Tools like Figma MCP and Kombai can read design context and generate working UI code. I wanted to see what you actually get in practice, so I decided to compare them. Figma MCP exposes design metadata to AI clients...",
-          "link": "https://www.freecodecamp.org/news/figma-mcp-vs-kombai-frontend-clone-comparison/",
-          "publishedOn": "2025-12-08T16:58:51.000Z",
-          "wordCount": 4337,
-          "title": "Figma MCP vs Kombai: Cloning the Front End from Figma with AI Tools",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765205804241/295ef345-b776-458a-bcdb-f1157c9c185b.png"
         }
       ]
     }

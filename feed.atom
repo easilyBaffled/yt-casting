@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-11T00:36:53.155Z</id>
+    <id>urn:2025-12-12T00:36:12.324Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-11T00:36:53.155Z</updated>
+    <updated>2025-12-12T00:36:12.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn n8n to Design, Develop, and Deploy Production-Grade AI Agents]]></title>
+        <id>693b0c06b189322615083d9f</id>
+        <link href="https://www.freecodecamp.org/news/learn-n8n-to-design-develop-and-deploy-production-grade-ai-agents/"/>
+        <updated>2025-12-11T18:23:02.000Z</updated>
+        <summary type="html"><![CDATA[n8n is an open-source, visual workflow automation tool that lets you connect applications, APIs, and AI models to build complex, intelligent automations. We just posted a course on the freeCodeCamp.org YouTube channel that will be your guide to maste...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Work with YAML in Python – A Guide with Examples]]></title>
+        <id>6939fb2773d2f31ad28cfef5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-yaml-in-python-a-guide-with-examples/"/>
+        <updated>2025-12-10T22:58:47.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever worked with configuration files, Docker Compose, Kubernetes, or CI/CD pipelines, you've probably used YAML. It's everywhere in modern development, and for good reason: it’s human-readable, simple, and powerful. In this guide, you'll le...]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use the Polars Library in Python for Data Analysis]]></title>
         <id>6939b88a5a4b3354fde8c07b</id>
@@ -137,26 +157,6 @@ Fit width text in 1 line of CSS originally published on CSS-Tricks, which is par
         <summary type="html"><![CDATA[Security is a vital part of every system and infrastructure. The word "security" comes from the Latin securitas, which is composed of se- (meaning “without”) and cura (meaning “care” or “worry”). Originally, it meant "without worry." Over time, it ha...]]></summary>
         <author>
             <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Embedded Analytics Makes Your App More Valuable]]></title>
-        <id>693704c4f37606a62f1727d3</id>
-        <link href="https://www.freecodecamp.org/news/how-embedded-analytics-makes-your-app-more-valuable/"/>
-        <updated>2025-12-08T17:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Most business apps capture data. They track orders, tickets, leads, expenses, tasks, or deliveries. But when someone needs insights, they often leave the app, export a file or open a BI tool to get answers. This extra step slows down decisions and cr...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Figma MCP vs Kombai: Cloning the Front End from Figma with AI Tools]]></title>
-        <id>693703cb19e18638588e6285</id>
-        <link href="https://www.freecodecamp.org/news/figma-mcp-vs-kombai-frontend-clone-comparison/"/>
-        <updated>2025-12-08T16:58:51.000Z</updated>
-        <summary type="html"><![CDATA[Frontend automation is moving fast. Tools like Figma MCP and Kombai can read design context and generate working UI code. I wanted to see what you actually get in practice, so I decided to compare them. Figma MCP exposes design metadata to AI clients...]]></summary>
-        <author>
-            <name>Shrijal Acharya</name>
         </author>
     </entry>
     <entry>
