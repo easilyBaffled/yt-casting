@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-12T00:36:12.324Z</id>
+    <id>urn:2025-12-13T00:33:54.181Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-12T00:36:12.324Z</updated>
+    <updated>2025-12-13T00:33:54.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Use Git and GitHub – A Beginner-Friendly Handbook]]></title>
+        <id>693c859b176ed5964e28b921</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-use-git-and-github-a-beginner-friendly-handbook/"/>
+        <updated>2025-12-12T21:14:03.000Z</updated>
+        <summary type="html"><![CDATA[In this handbook, you’re going to dive into something really exciting: Git and GitHub. To start, let’s clear one thing up: Git and GitHub are not the same thing. In short, Git is the tool that runs on your own computer and keeps track of changes in y...]]></summary>
+        <author>
+            <name>Sumit Saha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Optimistic UI Pattern with the useOptimistic() Hook in React]]></title>
+        <id>693c5d28a2bfa1537f407a65</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-optimistic-ui-pattern-with-the-useoptimistic-hook-in-react/"/>
+        <updated>2025-12-12T18:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever clicked a Like icon on a social media app and noticed the count jumps instantly? The colour of the icon changes at the same time, even before the server finishes the action. Now imagine you hit the same Like button, but it takes its swe...]]></summary>
+        <author>
+            <name>Tapas Adhikary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The "AI is going to replace devs" hype is over – 22-year developer veteran Jason Lengstorf [Podcast #201]]]></title>
+        <id>693c2e0a16d9b095b8e7825d</id>
+        <link href="https://www.freecodecamp.org/news/the-ai-is-going-to-replace-devs-hype-is-over-22-year-developer-veteran-jason-lengstorf-podcast-201/"/>
+        <updated>2025-12-12T15:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Jason Lengstorf. He's a college dropout who taught himself programming while building websites for his emo band. 22 years later he's worked as a developer at IBM, Netlify, run his own dev consultancy, and he now runs Co...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Else Could Container Queries… Query?]]></title>
+        <id>https://css-tricks.com/?p=390654</id>
+        <link href="https://css-tricks.com/what-else-could-container-queries-query/"/>
+        <updated>2025-12-12T14:38:18.000Z</updated>
+        <summary type="html"><![CDATA[How far can we really go with container queries? There are dozens of media queries now, so what if there were dozens of container queries as well? What could we use them for?
+What Else Could Container Queries… Query? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn n8n to Design, Develop, and Deploy Production-Grade AI Agents]]></title>
         <id>693b0c06b189322615083d9f</id>
@@ -87,16 +128,6 @@ Creating Scroll-Based Animations in Full view() originally published on CSS-Tri
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Reduce Latency in Your Generative AI Apps with Gemini and Cloud Run]]></title>
-        <id>69398520ef68a953062588d1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-reduce-latency-in-your-generative-ai-apps-with-gemini-and-cloud-run/"/>
-        <updated>2025-12-10T14:35:12.000Z</updated>
-        <summary type="html"><![CDATA[You've built your first Generative AI feature. Now what? When deploying AI, the challenge is no longer if the model can answer, but how fast it can answer for a user halfway across the globe. Low latency is not a luxury, it's a requirement for good u...]]></summary>
-        <author>
-            <name>Amina Lawal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Accessible UX Research, eBook Now Available For Download]]></title>
         <id>https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/</id>
         <link href="https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/"/>
@@ -137,26 +168,6 @@ Fit width text in 1 line of CSS originally published on CSS-Tricks, which is par
         <summary type="html"><![CDATA[CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Production-Grade Generative AI Applications]]></title>
-        <id>693775071df2bd7125d8e5f3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-production-grade-generative-ai-applications/"/>
-        <updated>2025-12-09T01:01:59.000Z</updated>
-        <summary type="html"><![CDATA[Generative AI applications are everywhere today, from chatbots to code assistants to knowledge tools. With so many frameworks and models available, getting started seems pretty easy. But taking an LLM prototype and turning it into a reliable, scalabl...]]></summary>
-        <author>
-            <name>Wisamul Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Cloud Security Fundamentals in AWS – A Guide for Beginners]]></title>
-        <id>69377429f6e4912378332463</id>
-        <link href="https://www.freecodecamp.org/news/learn-cloud-security-fundamentals-in-aws-a-guide-for-beginners/"/>
-        <updated>2025-12-09T00:58:17.000Z</updated>
-        <summary type="html"><![CDATA[Security is a vital part of every system and infrastructure. The word "security" comes from the Latin securitas, which is composed of se- (meaning “without”) and cura (meaning “care” or “worry”). Originally, it meant "without worry." Over time, it ha...]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
         </author>
     </entry>
     <entry>
@@ -380,16 +391,6 @@ Quiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, whi
 The Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Older Tech In The Browser Stack]]></title>
-        <id>https://smashingmagazine.com/2025/11/older-tech-browser-stack/</id>
-        <link href="https://smashingmagazine.com/2025/11/older-tech-browser-stack/"/>
-        <updated>2025-11-13T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Bryan Rasmussen)</name>
         </author>
     </entry>
 </feed>
