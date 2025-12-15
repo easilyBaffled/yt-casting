@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-14T00:39:44.975Z</id>
+    <id>urn:2025-12-15T00:38:24.138Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-14T00:39:44.975Z</updated>
+    <updated>2025-12-15T00:38:24.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -359,27 +359,6 @@ Should We Even Have :closed? originally published on CSS-Tricks, which is part 
 The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quiet UI Came and Went, Quiet as a Mouse]]></title>
-        <id>https://css-tricks.com/?p=390408</id>
-        <link href="https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/"/>
-        <updated>2025-11-14T15:32:50.000Z</updated>
-        <summary type="html"><![CDATA[The extremely new framework that caught lots of attention will continue as a personal project.
-Quiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Gamepad API Visual Debugging With CSS Layers]]></title>
-        <id>https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/</id>
-        <link href="https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/"/>
-        <updated>2025-11-14T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Godstime Aburu)</name>
         </author>
     </entry>
 </feed>
