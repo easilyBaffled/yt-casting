@@ -12,12 +12,37 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391095",
+          "author": "Geoff Graham",
+          "description": "Andy Clarke with a brand-new resource. It generates the sort of fun typography that Andy commonly uses in his own work that's geared towards cartoon headings.\nToon Title Text Generator originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/toon-title-text-generator/",
+          "publishedOn": "2025-12-15T17:55:55.000Z",
+          "wordCount": 1134,
+          "title": "Toon Title Text Generator",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/Screenshot-2025-12-15-at-10.45.29-AM.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390560",
+          "author": "Temani Afif",
+          "description": "A list of rounded images that slightly overlap each other is a classic web design pattern. The main idea is not complex, but the new thing is the responsive part. that dynamically adjusts the overlap between the images so they fit inside the container.\nResponsive List of Avatars Using Modern CSS (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-1/",
+          "publishedOn": "2025-12-15T16:19:23.000Z",
+          "wordCount": 3327,
+          "title": "Responsive List of Avatars Using Modern CSS (Part 1)",
+          "enclosure": {
+            "url": "http://css-tricks.com/wp-content/uploads/2025/11/stacked-images-responsive-10.mov",
+            "length": "0",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-9.32.20-AM.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=390654",
           "author": "Daniel Schwarz",
           "description": "How far can we really go with container queries? There are dozens of media queries now, so what if there were dozens of container queries as well? What could we use them for?\nWhat Else Could Container Queries… Query? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/what-else-could-container-queries-query/",
           "publishedOn": "2025-12-12T14:38:18.000Z",
-          "wordCount": 1996,
+          "wordCount": 2061,
           "title": "What Else Could Container Queries… Query?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/container-style-queries.png"
         },
@@ -179,7 +204,7 @@
           "description": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.",
           "link": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
           "publishedOn": "2025-12-09T10:00:00.000Z",
-          "wordCount": 4594,
+          "wordCount": 4599,
           "title": "State, Logic, And Native Power: CSS Wrapped 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/state-logic-native-power-css-wrapped-2025/state-logic-native-power-css-wrapped-2025.jpg",
@@ -194,7 +219,7 @@
           "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.",
           "link": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
           "publishedOn": "2025-12-08T08:00:00.000Z",
-          "wordCount": 4434,
+          "wordCount": 4437,
           "title": "How UX Professionals Can Lead AI Strategy",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg",
@@ -209,7 +234,7 @@
           "description": "Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.",
           "link": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
           "publishedOn": "2025-12-05T15:00:00.000Z",
-          "wordCount": 6874,
+          "wordCount": 6872,
           "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-black-box-practical-xai-ux-practitioners/beyond-black-box-practical-xai-ux-practitioners.jpg",
@@ -224,7 +249,7 @@
           "description": "CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.",
           "link": "https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
           "publishedOn": "2025-12-02T10:00:00.000Z",
-          "wordCount": 6740,
+          "wordCount": 6731,
           "title": "Masonry: Things You Won’t Need A Library For Anymore",
           "enclosure": {
             "url": "http://files.smashing.media/articles/masonry-things-you-wont-need-library-anymore/masonry-things-you-wont-need-library-anymore.jpg",
@@ -239,7 +264,7 @@
           "description": "With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re celebrating? Our latest edition of monthly wallpapers has got you covered. Enjoy!",
           "link": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
           "publishedOn": "2025-11-30T09:00:00.000Z",
-          "wordCount": 4979,
+          "wordCount": 4981,
           "title": "A Sparkle Of December Magic (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2025/dec-25-zero-gravity-december-preview-opt.png",
@@ -254,7 +279,7 @@
           "description": "CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.",
           "link": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
           "publishedOn": "2025-11-27T10:00:00.000Z",
-          "wordCount": 4719,
+          "wordCount": 4721,
           "title": "The Accessibility Problem With Authentication Methods Like CAPTCHA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessibility-problem-authentication-methods-captcha/accessibility-problem-authentication-methods-captcha.jpg",
@@ -299,7 +324,7 @@
           "description": "Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.",
           "link": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
           "publishedOn": "2025-11-21T08:00:00.000Z",
-          "wordCount": 7582,
+          "wordCount": 7590,
           "title": "Keyframes Tokens: Standardizing Animation Across Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg",
@@ -325,6 +350,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6940200b3e9f58ff90228d6c",
+          "author": "Jessica Wilkins",
+          "description": "The freeCodeCamp community just published our new Python certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with hundreds of hou...",
+          "link": "https://www.freecodecamp.org/news/freecodecamps-new-python-certification-is-now-live/",
+          "publishedOn": "2025-12-15T14:49:47.000Z",
+          "wordCount": 2707,
+          "title": "freeCodeCamp's New Python Certification is Now Live",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765407487534/39d17b0d-bdb1-44c4-b330-2222a45cea91.png"
+        },
         {
           "id": "693c859b176ed5964e28b921",
           "author": "Sumit Saha",
@@ -371,7 +406,7 @@
           "description": "If you've ever worked with configuration files, Docker Compose, Kubernetes, or CI/CD pipelines, you've probably used YAML. It's everywhere in modern development, and for good reason: it’s human-readable, simple, and powerful. In this guide, you'll le...",
           "link": "https://www.freecodecamp.org/news/how-to-work-with-yaml-in-python-a-guide-with-examples/",
           "publishedOn": "2025-12-10T22:58:47.000Z",
-          "wordCount": 2128,
+          "wordCount": 2116,
           "title": "How to Work with YAML in Python – A Guide with Examples",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765407508788/61769835-bd12-486e-8f8e-ba0f3a7af83c.png"
         },
@@ -414,16 +449,6 @@
           "wordCount": 1186,
           "title": "Building NMT from Scratch – PyTorch Replications of 7 Landmark Papers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765380195051/cafca462-96d6-49a4-b182-24d7a4f438f9.jpeg"
-        },
-        {
-          "id": "69398d140eb4fb84a7ed1561",
-          "author": "Beau Carnes",
-          "description": "Learn to build AI agents with Langbase. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to create context-engineered agents that use memory and AI primitives to take action and deliver accurate, production-read...",
-          "link": "https://www.freecodecamp.org/news/build-ai-agents-with-langbase/",
-          "publishedOn": "2025-12-10T15:09:08.000Z",
-          "wordCount": 1058,
-          "title": "Build AI Agents with Langbase",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765379245144/d2dd6d43-155d-4336-a277-db7b8dbae70a.jpeg"
         }
       ]
     }
