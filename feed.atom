@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-16T00:36:45.744Z</id>
+    <id>urn:2025-12-17T00:35:09.871Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-16T00:36:45.744Z</updated>
+    <updated>2025-12-17T00:35:09.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Does an MCP Work Under the Hood? MCP Workflow Explained]]></title>
+        <id>6941a65f3076ac3edd6fdaf0</id>
+        <link href="https://www.freecodecamp.org/news/how-does-an-mcp-work-under-the-hood/"/>
+        <updated>2025-12-16T18:35:11.000Z</updated>
+        <summary type="html"><![CDATA[We’ve all faced that awkward limitation with AI: it can write code or explain complex topics in seconds, but the moment you ask it to check a local file or run a quick database query, it hits a wall. It’s like having a genius assistant who is locked ...]]></summary>
+        <author>
+            <name>Ajay Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More]]></title>
+        <id>https://css-tricks.com/?p=391134</id>
+        <link href="https://css-tricks.com/whats-important-1/"/>
+        <updated>2025-12-16T17:03:46.000Z</updated>
+        <summary type="html"><![CDATA[The best CSS news from around the web from the last two weeks. In this edition: advent calendars, CSS Wrapped 2025, and the latest Web Platform Updates.
+What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Debug Kubernetes Apps When Logs Fail You – An eBPF Tracing Handbook]]></title>
+        <id>694190c566a5d5cb99995f9f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-debug-kubernetes-apps-when-logs-fail-you-an-ebpf-tracing-handbook/"/>
+        <updated>2025-12-16T17:03:01.000Z</updated>
+        <summary type="html"><![CDATA[Let’s say your Kubernetes pod crashes at 3am and the logs show nothing useful. By the time you SSH into the node, the container is gone, and you're left guessing what happened in those final moments. This is the reality of debugging modern applicatio...]]></summary>
+        <author>
+            <name>Opaluwa Emidowojo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supabase for Beginners]]></title>
+        <id>694189cc7d760e7dd4cabc0a</id>
+        <link href="https://www.freecodecamp.org/news/supabase-for-beginners/"/>
+        <updated>2025-12-16T16:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Supabase is an open-source Backend-as-a-Service (BaaS) platform that provides developers with a powerful set of tools to build applications quickly. This comprehensive video tutorial introduces you to Supabase by building a real-world React.js Sales ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Perform Secure Hashing Using Python's hashlib Module]]></title>
+        <id>69409201ee1f8b8545e218b8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-perform-secure-hashing-using-pythons-hashlib-module/"/>
+        <updated>2025-12-15T22:56:01.000Z</updated>
+        <summary type="html"><![CDATA[Hashing is a fundamental technique in programming that converts data into a fixed-size string of characters. Unlike encryption, hashing is a one-way process: you can't reverse it to get the original data back. This makes hashing perfect for storing p...]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Toon Title Text Generator]]></title>
         <id>https://css-tricks.com/?p=391095</id>
@@ -96,46 +147,6 @@ What Else Could Container Queries… Query? originally published on CSS-Tricks, 
         <summary type="html"><![CDATA[If you've ever worked with configuration files, Docker Compose, Kubernetes, or CI/CD pipelines, you've probably used YAML. It's everywhere in modern development, and for good reason: it’s human-readable, simple, and powerful. In this guide, you'll le...]]></summary>
         <author>
             <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Polars Library in Python for Data Analysis]]></title>
-        <id>6939b88a5a4b3354fde8c07b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-polars-library-in-python-for-data-analysis/"/>
-        <updated>2025-12-10T18:14:34.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I’ll give you a beginner-friendly introduction to the Polars library in Python. Polars is an open-source library, originally written in Rust, which makes data wrangling easier in Python. The syntax of Polars is very similar to Pandas...]]></summary>
-        <author>
-            <name>Sara Jadhav</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React’s Critical "React2Shell" Vulnerability — What You Should Know, and How to Upgrade Your App]]></title>
-        <id>6939b6ee10076c81dd6c3f49</id>
-        <link href="https://www.freecodecamp.org/news/reacts-critical-react2shell-vulnerability-what-you-should-know-and-how-to-upgrade-your-app/"/>
-        <updated>2025-12-10T18:07:42.000Z</updated>
-        <summary type="html"><![CDATA[Web development is always evolving, and sometimes those changes happen a bit under the hood. One such change involved the shift to React Server Components (RSC). If you’re a NextJS or React developer, especially using the App Router, understanding th...]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp's A2 English for Developers Certification is Now Live]]></title>
-        <id>6939973f5518db00ad552055</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamps-a2-english-for-developers-certification-is-now-live/"/>
-        <updated>2025-12-10T15:52:31.000Z</updated>
-        <summary type="html"><![CDATA[The freeCodeCamp community just published our new A2 English for Developers certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. How Does the A2 English for D...]]></summary>
-        <author>
-            <name>Nielda Karla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building NMT from Scratch – PyTorch Replications of 7 Landmark Papers]]></title>
-        <id>6939907d149667a2e0b357dd</id>
-        <link href="https://www.freecodecamp.org/news/building-nmt-from-scratch-pytorch-replications-of-7-landmark-papers/"/>
-        <updated>2025-12-10T15:23:41.000Z</updated>
-        <summary type="html"><![CDATA[Learn about the complete neural machine translation journey. We just posted a course on the freeCodeCamp.org YouTube channel that is a comprehensive journey through the evolution of sequence models and neural machine translation (NMT). It blends hist...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -370,17 +381,6 @@ Should We Even Have :closed? originally published on CSS-Tricks, which is part 
         <summary type="html"><![CDATA[Server chaos doesn’t have to be the norm. AI-ready infrastructure and automation can bring clarity, performance, and focus back to your web work.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mansoor Ahmed Khan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()]]></title>
-        <id>https://css-tricks.com/?p=390236</id>
-        <link href="https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/"/>
-        <updated>2025-11-17T14:47:54.000Z</updated>
-        <summary type="html"><![CDATA[If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric functions come in!
-The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391134",
+          "author": "Daniel Schwarz",
+          "description": "The best CSS news from around the web from the last two weeks. In this edition: advent calendars, CSS Wrapped 2025, and the latest Web Platform Updates.\nWhat’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/whats-important-1/",
+          "publishedOn": "2025-12-16T17:03:46.000Z",
+          "wordCount": 1663,
+          "title": "What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/css-wrapped.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=391095",
           "author": "Geoff Graham",
           "description": "Andy Clarke with a brand-new resource. It generates the sort of fun typography that Andy commonly uses in his own work that's geared towards cartoon headings.\nToon Title Text Generator originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -42,7 +52,7 @@
           "description": "How far can we really go with container queries? There are dozens of media queries now, so what if there were dozens of container queries as well? What could we use them for?\nWhat Else Could Container Queries… Query? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/what-else-could-container-queries-query/",
           "publishedOn": "2025-12-12T14:38:18.000Z",
-          "wordCount": 2061,
+          "wordCount": 2130,
           "title": "What Else Could Container Queries… Query?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/container-style-queries.png"
         },
@@ -165,16 +175,6 @@
           "wordCount": 1834,
           "title": "Should We Even Have :closed?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/12/opinon-this-that-signs.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390236",
-          "author": "Juan Diego Rodríguez",
-          "description": "If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric functions come in!\nThe “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/",
-          "publishedOn": "2025-11-17T14:47:54.000Z",
-          "wordCount": 3638,
-          "title": "The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/css-trig-unit-circle-diagram.jpg"
         }
       ]
     },
@@ -189,7 +189,7 @@
           "description": "We’ve got exciting news! eBook versions of “Accessible UX Research,” a new Smashing Book by Michele A. Williams, are now available for download! Which means soon the book will go to the printer. Order the eBook for instant download now or reserve your print copy at the presale price.",
           "link": "https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/",
           "publishedOn": "2025-12-09T16:00:00.000Z",
-          "wordCount": 4099,
+          "wordCount": null,
           "title": "Accessible UX Research, eBook Now Available For Download",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessible-ux-research-pre-release/accessible-ux-research-coming-soon-light-varnish-opt.png",
@@ -204,7 +204,7 @@
           "description": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.",
           "link": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
           "publishedOn": "2025-12-09T10:00:00.000Z",
-          "wordCount": 4599,
+          "wordCount": 4606,
           "title": "State, Logic, And Native Power: CSS Wrapped 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/state-logic-native-power-css-wrapped-2025/state-logic-native-power-css-wrapped-2025.jpg",
@@ -219,7 +219,7 @@
           "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.",
           "link": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
           "publishedOn": "2025-12-08T08:00:00.000Z",
-          "wordCount": 4437,
+          "wordCount": 4432,
           "title": "How UX Professionals Can Lead AI Strategy",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg",
@@ -234,7 +234,7 @@
           "description": "Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.",
           "link": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
           "publishedOn": "2025-12-05T15:00:00.000Z",
-          "wordCount": 6872,
+          "wordCount": 6869,
           "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-black-box-practical-xai-ux-practitioners/beyond-black-box-practical-xai-ux-practitioners.jpg",
@@ -249,7 +249,7 @@
           "description": "CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.",
           "link": "https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
           "publishedOn": "2025-12-02T10:00:00.000Z",
-          "wordCount": 6731,
+          "wordCount": 6737,
           "title": "Masonry: Things You Won’t Need A Library For Anymore",
           "enclosure": {
             "url": "http://files.smashing.media/articles/masonry-things-you-wont-need-library-anymore/masonry-things-you-wont-need-library-anymore.jpg",
@@ -264,7 +264,7 @@
           "description": "With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re celebrating? Our latest edition of monthly wallpapers has got you covered. Enjoy!",
           "link": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
           "publishedOn": "2025-11-30T09:00:00.000Z",
-          "wordCount": 4981,
+          "wordCount": 4966,
           "title": "A Sparkle Of December Magic (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2025/dec-25-zero-gravity-december-preview-opt.png",
@@ -279,7 +279,7 @@
           "description": "CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.",
           "link": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
           "publishedOn": "2025-11-27T10:00:00.000Z",
-          "wordCount": 4721,
+          "wordCount": 4722,
           "title": "The Accessibility Problem With Authentication Methods Like CAPTCHA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessibility-problem-authentication-methods-captcha/accessibility-problem-authentication-methods-captcha.jpg",
@@ -324,7 +324,7 @@
           "description": "Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.",
           "link": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
           "publishedOn": "2025-11-21T08:00:00.000Z",
-          "wordCount": 7590,
+          "wordCount": 7588,
           "title": "Keyframes Tokens: Standardizing Animation Across Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg",
@@ -350,6 +350,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6941a65f3076ac3edd6fdaf0",
+          "author": "Ajay Patel",
+          "description": "We’ve all faced that awkward limitation with AI: it can write code or explain complex topics in seconds, but the moment you ask it to check a local file or run a quick database query, it hits a wall. It’s like having a genius assistant who is locked ...",
+          "link": "https://www.freecodecamp.org/news/how-does-an-mcp-work-under-the-hood/",
+          "publishedOn": "2025-12-16T18:35:11.000Z",
+          "wordCount": 2662,
+          "title": "How Does an MCP Work Under the Hood? MCP Workflow Explained",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765909617721/fa533504-3dab-48c3-9b92-0b89a81af025.png"
+        },
+        {
+          "id": "694190c566a5d5cb99995f9f",
+          "author": "Opaluwa Emidowojo",
+          "description": "Let’s say your Kubernetes pod crashes at 3am and the logs show nothing useful. By the time you SSH into the node, the container is gone, and you're left guessing what happened in those final moments. This is the reality of debugging modern applicatio...",
+          "link": "https://www.freecodecamp.org/news/how-to-debug-kubernetes-apps-when-logs-fail-you-an-ebpf-tracing-handbook/",
+          "publishedOn": "2025-12-16T17:03:01.000Z",
+          "wordCount": 6328,
+          "title": "How to Debug Kubernetes Apps When Logs Fail You – An eBPF Tracing Handbook",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765899860869/3eadf316-8539-4624-afba-1d4190b6c62a.png"
+        },
+        {
+          "id": "694189cc7d760e7dd4cabc0a",
+          "author": "Beau Carnes",
+          "description": "Supabase is an open-source Backend-as-a-Service (BaaS) platform that provides developers with a powerful set of tools to build applications quickly. This comprehensive video tutorial introduces you to Supabase by building a real-world React.js Sales ...",
+          "link": "https://www.freecodecamp.org/news/supabase-for-beginners/",
+          "publishedOn": "2025-12-16T16:33:16.000Z",
+          "wordCount": 1056,
+          "title": "Supabase for Beginners",
+          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
+        },
+        {
+          "id": "69409201ee1f8b8545e218b8",
+          "author": "Bala Priya C",
+          "description": "Hashing is a fundamental technique in programming that converts data into a fixed-size string of characters. Unlike encryption, hashing is a one-way process: you can't reverse it to get the original data back. This makes hashing perfect for storing p...",
+          "link": "https://www.freecodecamp.org/news/how-to-perform-secure-hashing-using-pythons-hashlib-module/",
+          "publishedOn": "2025-12-15T22:56:01.000Z",
+          "wordCount": 2297,
+          "title": "How to Perform Secure Hashing Using Python's hashlib Module",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765839274048/2110b9d7-00c4-4e85-a69b-7223f21f2ac3.png"
+        },
         {
           "id": "6940200b3e9f58ff90228d6c",
           "author": "Jessica Wilkins",
@@ -409,46 +449,6 @@
           "wordCount": 2116,
           "title": "How to Work with YAML in Python – A Guide with Examples",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765407508788/61769835-bd12-486e-8f8e-ba0f3a7af83c.png"
-        },
-        {
-          "id": "6939b88a5a4b3354fde8c07b",
-          "author": "Sara Jadhav",
-          "description": "In this article, I’ll give you a beginner-friendly introduction to the Polars library in Python. Polars is an open-source library, originally written in Rust, which makes data wrangling easier in Python. The syntax of Polars is very similar to Pandas...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-polars-library-in-python-for-data-analysis/",
-          "publishedOn": "2025-12-10T18:14:34.000Z",
-          "wordCount": 6245,
-          "title": "How to Use the Polars Library in Python for Data Analysis",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765325732081/94ab547b-fdaf-41bb-ae60-ad03be31211a.png"
-        },
-        {
-          "id": "6939b6ee10076c81dd6c3f49",
-          "author": "Arunachalam B",
-          "description": "Web development is always evolving, and sometimes those changes happen a bit under the hood. One such change involved the shift to React Server Components (RSC). If you’re a NextJS or React developer, especially using the App Router, understanding th...",
-          "link": "https://www.freecodecamp.org/news/reacts-critical-react2shell-vulnerability-what-you-should-know-and-how-to-upgrade-your-app/",
-          "publishedOn": "2025-12-10T18:07:42.000Z",
-          "wordCount": 2413,
-          "title": "React’s Critical \"React2Shell\" Vulnerability — What You Should Know, and How to Upgrade Your App",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765328805925/a9c016a1-90a9-4123-bbb0-17c7d46da035.png"
-        },
-        {
-          "id": "6939973f5518db00ad552055",
-          "author": "Nielda Karla",
-          "description": "The freeCodeCamp community just published our new A2 English for Developers certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. How Does the A2 English for D...",
-          "link": "https://www.freecodecamp.org/news/freecodecamps-a2-english-for-developers-certification-is-now-live/",
-          "publishedOn": "2025-12-10T15:52:31.000Z",
-          "wordCount": 2480,
-          "title": "freeCodeCamp's A2 English for Developers Certification is Now Live",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764781521906/b24af8b2-4bc2-4e0c-88ae-c121507cebdc.png"
-        },
-        {
-          "id": "6939907d149667a2e0b357dd",
-          "author": "Beau Carnes",
-          "description": "Learn about the complete neural machine translation journey. We just posted a course on the freeCodeCamp.org YouTube channel that is a comprehensive journey through the evolution of sequence models and neural machine translation (NMT). It blends hist...",
-          "link": "https://www.freecodecamp.org/news/building-nmt-from-scratch-pytorch-replications-of-7-landmark-papers/",
-          "publishedOn": "2025-12-10T15:23:41.000Z",
-          "wordCount": 1186,
-          "title": "Building NMT from Scratch – PyTorch Replications of 7 Landmark Papers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765380195051/cafca462-96d6-49a4-b182-24d7a4f438f9.jpeg"
         }
       ]
     }
