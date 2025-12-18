@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390660",
+          "author": "Temani Afif",
+          "description": "In this article, we follow up the work we did to create responsive rows of circular images in a previous article by arranging the images around a circle with a clean hover effect.\nResponsive List of Avatars Using Modern CSS (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-2/",
+          "publishedOn": "2025-12-17T15:21:34.000Z",
+          "wordCount": 3208,
+          "title": "Responsive List of Avatars Using Modern CSS (Part 2)",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/luZQsrO2qg-1070.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=391134",
           "author": "Daniel Schwarz",
           "description": "The best CSS news from around the web from the last two weeks. In this edition: advent calendars, CSS Wrapped 2025, and the latest Web Platform Updates.\nWhat’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/whats-important-1/",
           "publishedOn": "2025-12-16T17:03:46.000Z",
-          "wordCount": 1663,
+          "wordCount": 1726,
           "title": "What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/css-wrapped.png"
         },
@@ -27,7 +37,7 @@
           "description": "Andy Clarke with a brand-new resource. It generates the sort of fun typography that Andy commonly uses in his own work that's geared towards cartoon headings.\nToon Title Text Generator originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/toon-title-text-generator/",
           "publishedOn": "2025-12-15T17:55:55.000Z",
-          "wordCount": 1134,
+          "wordCount": 1197,
           "title": "Toon Title Text Generator",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/Screenshot-2025-12-15-at-10.45.29-AM.png"
         },
@@ -37,7 +47,7 @@
           "description": "A list of rounded images that slightly overlap each other is a classic web design pattern. The main idea is not complex, but the new thing is the responsive part. that dynamically adjusts the overlap between the images so they fit inside the container.\nResponsive List of Avatars Using Modern CSS (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-1/",
           "publishedOn": "2025-12-15T16:19:23.000Z",
-          "wordCount": 3327,
+          "wordCount": 3389,
           "title": "Responsive List of Avatars Using Modern CSS (Part 1)",
           "enclosure": {
             "url": "http://css-tricks.com/wp-content/uploads/2025/11/stacked-images-responsive-10.mov",
@@ -52,7 +62,7 @@
           "description": "How far can we really go with container queries? There are dozens of media queries now, so what if there were dozens of container queries as well? What could we use them for?\nWhat Else Could Container Queries… Query? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/what-else-could-container-queries-query/",
           "publishedOn": "2025-12-12T14:38:18.000Z",
-          "wordCount": 2130,
+          "wordCount": 2193,
           "title": "What Else Could Container Queries… Query?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/container-style-queries.png"
         },
@@ -62,7 +72,7 @@
           "description": "It’s not that hard to do! Preethi shows you how it's really the same old animation you’re used to writing in CSS, only applied on a view timeline instead of a normal timeline.\nCreating Scroll-Based Animations in Full view() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/creating-scroll-based-animations-in-full-view/",
           "publishedOn": "2025-12-10T15:04:08.000Z",
-          "wordCount": 2308,
+          "wordCount": 2371,
           "title": "Creating Scroll-Based Animations in Full view()",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2025/11/scroll-animation-carousel.mov",
@@ -77,7 +87,7 @@
           "description": "The Chrome Dev Team recaps the new CSS features that shipped in Google Chrome this past year in one amazingly designed webpage. They cover new functionality for creating more customizable components, next-gen interactions, and optimizing ergonomics.\nWe’ve …\nCSS Wrapped 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-wrapped-2025/",
           "publishedOn": "2025-12-09T15:52:20.000Z",
-          "wordCount": 1137,
+          "wordCount": 1200,
           "title": "CSS Wrapped 2025",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/chrome-wrapped-2025-scaled.jpg"
         },
@@ -87,7 +97,7 @@
           "description": "The Chrome team recently prototyped a working solution for fitting text to the width of a container in CSS using a text-grow property.\nFit width text in 1 line of CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/fit-width-text-in-1-line-of-css/",
           "publishedOn": "2025-12-09T15:00:56.000Z",
-          "wordCount": 1170,
+          "wordCount": 1233,
           "title": "Fit width text in 1 line of CSS",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2025/12/text-grow.mov",
@@ -102,7 +112,7 @@
           "description": "I would like to tell you what I learned from a five-year old child about HTML and CSS. It’s funny how explaining something you do almost naturally teaches you about yourself and what you take for granted.\nThat Time I Tried Explaining HTML and CSS to My 5-Year Old Niece originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/that-time-i-tried-explaining-html-and-css-to-my-5-year-old-niece/",
           "publishedOn": "2025-12-08T14:45:43.000Z",
-          "wordCount": 3099,
+          "wordCount": 3162,
           "title": "That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/apple-css.webp"
         },
@@ -112,7 +122,7 @@
           "description": "It's easy to think of HTML Web Components as a recent feature, but it has roots that go all the way back to 1998.\nHTML Web Components Proposal From 1998 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/html-web-components-proposal-from-1998/",
           "publishedOn": "2025-12-05T18:16:48.000Z",
-          "wordCount": 1134,
+          "wordCount": 1197,
           "title": "HTML Web Components Proposal From 1998",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/07/wev-components-logo.jpg"
         },
@@ -122,7 +132,7 @@
           "description": "A good measure makes reading text comfortable, while a bad one makes it more difficult. So, rather than allowing layout to dictate the measure, doesn’t it make more sense for the measure to inform layout decisions?\nGetting Creative With “The Measure” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/getting-creative-with-the-measure/",
           "publishedOn": "2025-12-04T14:04:52.000Z",
-          "wordCount": 2289,
+          "wordCount": 2352,
           "title": "Getting Creative With “The Measure”",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/s_56AFCBE7DCEED351817E3696EEEE003B5BEE9737CDC6205474FB62E233A2CF20_1763072955406_2025-11-13-1.webp"
         },
@@ -132,7 +142,7 @@
           "description": "Unconvinced of the value of scrollytelling? Alright, skeptic, let’s first warm up with some common use cases for scroll-based styling.\nScrollytelling on Steroids With Scroll-State Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/",
           "publishedOn": "2025-12-02T16:47:14.000Z",
-          "wordCount": 4161,
+          "wordCount": 4224,
           "title": "Scrollytelling on Steroids With Scroll-State Queries",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/taylor-flowe-aXeVH4FcS1k-unsplash-scaled.jpg"
         },
@@ -142,7 +152,7 @@
           "description": "Bramus:\nChrome 144 features a small change to overscroll-behavior: it now also works on non-scrollable scroll containers. While this change might seem trivial, it fixes an issue developers have been dealing with for ages: prevent a page from \n…\nPrevent a page from scrolling while a dialog is open originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/prevent-a-page-from-scrolling-while-a-dialog-is-open/",
           "publishedOn": "2025-12-01T17:25:28.000Z",
-          "wordCount": 1148,
+          "wordCount": 1211,
           "title": "Prevent a page from scrolling while a dialog is open",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
         },
@@ -152,7 +162,7 @@
           "description": "There are many ways to share properties, but what would it look like to inherit and use any parent property value on a child?\nOn Inheriting and Sharing Property Values originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/on-inheriting-and-sharing-property-values/",
           "publishedOn": "2025-11-24T14:22:30.000Z",
-          "wordCount": 2820,
+          "wordCount": 2883,
           "title": "On Inheriting and Sharing Property Values",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/dashy-circles.png"
         },
@@ -162,19 +172,9 @@
           "description": "Sketch probably didn't \"have\" to redesign its UI to line up with macOS Tahoe, but a big part of its appeal is the fact that it feels like it totally belongs to the Mac.\nSketch: A guided tour of Copenhagen originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/sketch-a-guided-tour-of-copenhagen/",
           "publishedOn": "2025-11-21T18:53:05.000Z",
-          "wordCount": 1443,
+          "wordCount": 1506,
           "title": "Sketch: A guided tour of Copenhagen",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/sketch-liquid-glass.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390115",
-          "author": "Sunkanmi Fafowora",
-          "description": "Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a thing.\nShould We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/should-we-even-have-closed/",
-          "publishedOn": "2025-11-20T15:10:26.000Z",
-          "wordCount": 1834,
-          "title": "Should We Even Have :closed?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/12/opinon-this-that-signs.png"
         }
       ]
     },
@@ -184,12 +184,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.",
+          "link": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
+          "publishedOn": "2025-12-17T10:00:00.000Z",
+          "wordCount": 4935,
+          "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/",
           "author": "hello@smashingmagazine.com (Ari Stiles)",
           "description": "We’ve got exciting news! eBook versions of “Accessible UX Research,” a new Smashing Book by Michele A. Williams, are now available for download! Which means soon the book will go to the printer. Order the eBook for instant download now or reserve your print copy at the presale price.",
           "link": "https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/",
           "publishedOn": "2025-12-09T16:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4099,
           "title": "Accessible UX Research, eBook Now Available For Download",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessible-ux-research-pre-release/accessible-ux-research-coming-soon-light-varnish-opt.png",
@@ -204,7 +219,7 @@
           "description": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.",
           "link": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
           "publishedOn": "2025-12-09T10:00:00.000Z",
-          "wordCount": 4606,
+          "wordCount": 4599,
           "title": "State, Logic, And Native Power: CSS Wrapped 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/state-logic-native-power-css-wrapped-2025/state-logic-native-power-css-wrapped-2025.jpg",
@@ -219,7 +234,7 @@
           "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.",
           "link": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
           "publishedOn": "2025-12-08T08:00:00.000Z",
-          "wordCount": 4432,
+          "wordCount": 4440,
           "title": "How UX Professionals Can Lead AI Strategy",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg",
@@ -234,7 +249,7 @@
           "description": "Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.",
           "link": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
           "publishedOn": "2025-12-05T15:00:00.000Z",
-          "wordCount": 6869,
+          "wordCount": 6880,
           "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-black-box-practical-xai-ux-practitioners/beyond-black-box-practical-xai-ux-practitioners.jpg",
@@ -249,7 +264,7 @@
           "description": "CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.",
           "link": "https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
           "publishedOn": "2025-12-02T10:00:00.000Z",
-          "wordCount": 6737,
+          "wordCount": 6723,
           "title": "Masonry: Things You Won’t Need A Library For Anymore",
           "enclosure": {
             "url": "http://files.smashing.media/articles/masonry-things-you-wont-need-library-anymore/masonry-things-you-wont-need-library-anymore.jpg",
@@ -264,7 +279,7 @@
           "description": "With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re celebrating? Our latest edition of monthly wallpapers has got you covered. Enjoy!",
           "link": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
           "publishedOn": "2025-11-30T09:00:00.000Z",
-          "wordCount": 4966,
+          "wordCount": 4979,
           "title": "A Sparkle Of December Magic (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2025/dec-25-zero-gravity-december-preview-opt.png",
@@ -279,7 +294,7 @@
           "description": "CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.",
           "link": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
           "publishedOn": "2025-11-27T10:00:00.000Z",
-          "wordCount": 4722,
+          "wordCount": 4718,
           "title": "The Accessibility Problem With Authentication Methods Like CAPTCHA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessibility-problem-authentication-methods-captcha/accessibility-problem-authentication-methods-captcha.jpg",
@@ -324,7 +339,7 @@
           "description": "Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.",
           "link": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
           "publishedOn": "2025-11-21T08:00:00.000Z",
-          "wordCount": 7588,
+          "wordCount": 7592,
           "title": "Keyframes Tokens: Standardizing Animation Across Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg",
@@ -332,16 +347,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/",
-          "author": "hello@smashingmagazine.com (Mansoor Ahmed Khan)",
-          "description": "Server chaos doesn’t have to be the norm. AI-ready infrastructure and automation can bring clarity, performance, and focus back to your web work.",
-          "link": "https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/",
-          "publishedOn": "2025-11-18T10:00:00.000Z",
-          "wordCount": 3736,
-          "title": "From Chaos To Clarity: Simplifying Server Management With AI And Automation",
-          "imageUrl": "https:null"
         }
       ]
     },
@@ -350,6 +355,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6942e1421e5725744121909c",
+          "author": "Nielda Karla",
+          "description": "The freeCodeCamp community just published the first three chapters of our new A1 Professional Spanish Curriculum. Each chapter includes hundreds of interactive tasks designed to help you take your first steps in learning Spanish with confidence. How...",
+          "link": "https://www.freecodecamp.org/news/freecodecamps-a1-professional-spanish-curriculum-beta-is-now-live/",
+          "publishedOn": "2025-12-17T16:58:42.000Z",
+          "wordCount": 1584,
+          "title": "freeCodeCamp's A1 Professional Spanish Curriculum (Beta) is Now Live",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765990696599/34882a7b-fa94-414f-8a81-6bf5a0a18118.png"
+        },
         {
           "id": "6941a65f3076ac3edd6fdaf0",
           "author": "Ajay Patel",
@@ -378,7 +393,7 @@
           "publishedOn": "2025-12-16T16:33:16.000Z",
           "wordCount": 1056,
           "title": "Supabase for Beginners",
-          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765925162547/def59028-379b-4324-93b2-79cea57c3b35.jpeg"
         },
         {
           "id": "69409201ee1f8b8545e218b8",
@@ -439,16 +454,6 @@
           "wordCount": 1094,
           "title": "Learn n8n to Design, Develop, and Deploy Production-Grade AI Agents",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765477338398/5c72b733-c04f-4722-8c30-67e3bb9043e5.jpeg"
-        },
-        {
-          "id": "6939fb2773d2f31ad28cfef5",
-          "author": "Bala Priya C",
-          "description": "If you've ever worked with configuration files, Docker Compose, Kubernetes, or CI/CD pipelines, you've probably used YAML. It's everywhere in modern development, and for good reason: it’s human-readable, simple, and powerful. In this guide, you'll le...",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-yaml-in-python-a-guide-with-examples/",
-          "publishedOn": "2025-12-10T22:58:47.000Z",
-          "wordCount": 2116,
-          "title": "How to Work with YAML in Python – A Guide with Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765407508788/61769835-bd12-486e-8f8e-ba0f3a7af83c.png"
         }
       ]
     }

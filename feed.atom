@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-17T00:35:09.871Z</id>
+    <id>urn:2025-12-18T00:32:42.736Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-17T00:35:09.871Z</updated>
+    <updated>2025-12-18T00:32:42.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp's A1 Professional Spanish Curriculum (Beta) is Now Live]]></title>
+        <id>6942e1421e5725744121909c</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamps-a1-professional-spanish-curriculum-beta-is-now-live/"/>
+        <updated>2025-12-17T16:58:42.000Z</updated>
+        <summary type="html"><![CDATA[The freeCodeCamp community just published the first three chapters of our new A1 Professional Spanish Curriculum. Each chapter includes hundreds of interactive tasks designed to help you take your first steps in learning Spanish with confidence. How...]]></summary>
+        <author>
+            <name>Nielda Karla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsive List of Avatars Using Modern CSS (Part 2)]]></title>
+        <id>https://css-tricks.com/?p=390660</id>
+        <link href="https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-2/"/>
+        <updated>2025-12-17T15:21:34.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we follow up the work we did to create responsive rows of circular images in a previous article by arranging the images around a circle with a clean hover effect.
+Responsive List of Avatars Using Modern CSS (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Animations Part 7: Recreating Toon Text With CSS And SVG]]></title>
+        <id>https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/</id>
+        <link href="https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/"/>
+        <updated>2025-12-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Does an MCP Work Under the Hood? MCP Workflow Explained]]></title>
         <id>6941a65f3076ac3edd6fdaf0</id>
@@ -137,16 +168,6 @@ What Else Could Container Queries… Query? originally published on CSS-Tricks, 
         <summary type="html"><![CDATA[n8n is an open-source, visual workflow automation tool that lets you connect applications, APIs, and AI models to build complex, intelligent automations. We just posted a course on the freeCodeCamp.org YouTube channel that will be your guide to maste...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with YAML in Python – A Guide with Examples]]></title>
-        <id>6939fb2773d2f31ad28cfef5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-yaml-in-python-a-guide-with-examples/"/>
-        <updated>2025-12-10T22:58:47.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever worked with configuration files, Docker Compose, Kubernetes, or CI/CD pipelines, you've probably used YAML. It's everywhere in modern development, and for good reason: it’s human-readable, simple, and powerful. In this guide, you'll le...]]></summary>
-        <author>
-            <name>Bala Priya C</name>
         </author>
     </entry>
     <entry>
@@ -360,27 +381,6 @@ Sketch: A guided tour of Copenhagen originally published on CSS-Tricks, which is
         <summary type="html"><![CDATA[Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Amit Sheen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should We Even Have :closed?]]></title>
-        <id>https://css-tricks.com/?p=390115</id>
-        <link href="https://css-tricks.com/should-we-even-have-closed/"/>
-        <updated>2025-11-20T15:10:26.000Z</updated>
-        <summary type="html"><![CDATA[Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a thing.
-Should We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Chaos To Clarity: Simplifying Server Management With AI And Automation]]></title>
-        <id>https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/</id>
-        <link href="https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/"/>
-        <updated>2025-11-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Server chaos doesn’t have to be the norm. AI-ready infrastructure and automation can bring clarity, performance, and focus back to your web work.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mansoor Ahmed Khan)</name>
         </author>
     </entry>
 </feed>
