@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391171",
+          "author": "Geoff Graham",
+          "description": "Jelte Lagendijk built a Raycast extension for searching CSS-Tricks articles where you simply type and a get a solid set of real-time results.\nSearch CSS-Tricks Raycast Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/search-css-tricks-raycast-extension/",
+          "publishedOn": "2025-12-18T15:34:23.000Z",
+          "wordCount": 1231,
+          "title": "Search CSS-Tricks Raycast Extension",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/raycast-extension.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=390660",
           "author": "Temani Afif",
           "description": "In this article, we follow up the work we did to create responsive rows of circular images in a previous article by arranging the images around a circle with a clean hover effect.\nResponsive List of Avatars Using Modern CSS (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-2/",
           "publishedOn": "2025-12-17T15:21:34.000Z",
-          "wordCount": 3208,
+          "wordCount": 3272,
           "title": "Responsive List of Avatars Using Modern CSS (Part 2)",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/luZQsrO2qg-1070.png"
         },
@@ -72,7 +82,7 @@
           "description": "It’s not that hard to do! Preethi shows you how it's really the same old animation you’re used to writing in CSS, only applied on a view timeline instead of a normal timeline.\nCreating Scroll-Based Animations in Full view() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/creating-scroll-based-animations-in-full-view/",
           "publishedOn": "2025-12-10T15:04:08.000Z",
-          "wordCount": 2371,
+          "wordCount": 2413,
           "title": "Creating Scroll-Based Animations in Full view()",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2025/11/scroll-animation-carousel.mov",
@@ -162,19 +172,9 @@
           "description": "There are many ways to share properties, but what would it look like to inherit and use any parent property value on a child?\nOn Inheriting and Sharing Property Values originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/on-inheriting-and-sharing-property-values/",
           "publishedOn": "2025-11-24T14:22:30.000Z",
-          "wordCount": 2883,
+          "wordCount": 3020,
           "title": "On Inheriting and Sharing Property Values",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/dashy-circles.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390539",
-          "author": "Geoff Graham",
-          "description": "Sketch probably didn't \"have\" to redesign its UI to line up with macOS Tahoe, but a big part of its appeal is the fact that it feels like it totally belongs to the Mac.\nSketch: A guided tour of Copenhagen originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/sketch-a-guided-tour-of-copenhagen/",
-          "publishedOn": "2025-11-21T18:53:05.000Z",
-          "wordCount": 1506,
-          "title": "Sketch: A guided tour of Copenhagen",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/sketch-liquid-glass.png"
         }
       ]
     },
@@ -189,7 +189,7 @@
           "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.",
           "link": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
           "publishedOn": "2025-12-17T10:00:00.000Z",
-          "wordCount": 4935,
+          "wordCount": 4936,
           "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg",
@@ -234,7 +234,7 @@
           "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.",
           "link": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
           "publishedOn": "2025-12-08T08:00:00.000Z",
-          "wordCount": 4440,
+          "wordCount": 4429,
           "title": "How UX Professionals Can Lead AI Strategy",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg",
@@ -249,7 +249,7 @@
           "description": "Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.",
           "link": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
           "publishedOn": "2025-12-05T15:00:00.000Z",
-          "wordCount": 6880,
+          "wordCount": 6865,
           "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-black-box-practical-xai-ux-practitioners/beyond-black-box-practical-xai-ux-practitioners.jpg",
@@ -264,7 +264,7 @@
           "description": "CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.",
           "link": "https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
           "publishedOn": "2025-12-02T10:00:00.000Z",
-          "wordCount": 6723,
+          "wordCount": 6736,
           "title": "Masonry: Things You Won’t Need A Library For Anymore",
           "enclosure": {
             "url": "http://files.smashing.media/articles/masonry-things-you-wont-need-library-anymore/masonry-things-you-wont-need-library-anymore.jpg",
@@ -279,7 +279,7 @@
           "description": "With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re celebrating? Our latest edition of monthly wallpapers has got you covered. Enjoy!",
           "link": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
           "publishedOn": "2025-11-30T09:00:00.000Z",
-          "wordCount": 4979,
+          "wordCount": 4970,
           "title": "A Sparkle Of December Magic (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2025/dec-25-zero-gravity-december-preview-opt.png",
@@ -294,7 +294,7 @@
           "description": "CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.",
           "link": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
           "publishedOn": "2025-11-27T10:00:00.000Z",
-          "wordCount": 4718,
+          "wordCount": 4719,
           "title": "The Accessibility Problem With Authentication Methods Like CAPTCHA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessibility-problem-authentication-methods-captcha/accessibility-problem-authentication-methods-captcha.jpg",
@@ -339,7 +339,7 @@
           "description": "Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.",
           "link": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
           "publishedOn": "2025-11-21T08:00:00.000Z",
-          "wordCount": 7592,
+          "wordCount": 7585,
           "title": "Keyframes Tokens: Standardizing Animation Across Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg",
@@ -355,6 +355,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6944631e80f40a442d1799df",
+          "author": "Ramesh Sinha",
+          "description": "Databases are one of the most important parts of a software system. They allow us to store huge amounts of data in an organized way and retrieve it efficiently when we need it. In the early days, when the volume of data was relatively small, engineer...",
+          "link": "https://www.freecodecamp.org/news/build-an-lsm-tree-storage-engine-from-scratch-handbook/",
+          "publishedOn": "2025-12-18T20:25:02.000Z",
+          "wordCount": 9176,
+          "title": "How to Build an LSM Tree Storage Engine from Scratch – Full Handbook",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766089431510/433ff03f-8aca-4a87-82d3-0b6d6c1f371c.png"
+        },
+        {
+          "id": "694417d0824ee9f1eae819f5",
+          "author": "Beau Carnes",
+          "description": "Learn how to build a complete 2D Pixel Art Tower Defense game in Unity from scratch! We just posted a step-by-step tutorial on the freeCodeCamp.org YouTube channel that will guide you from a blank project to a fully playable game with a main menu, mu...",
+          "link": "https://www.freecodecamp.org/news/create-a-2d-pixel-art-game-in-unity/",
+          "publishedOn": "2025-12-18T15:03:44.000Z",
+          "wordCount": 1005,
+          "title": "Create a 2D Pixel Art Game in Unity",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766070221236/5ec09f0c-177f-48cd-aec9-0e698b2ede32.jpeg"
+        },
         {
           "id": "6942e1421e5725744121909c",
           "author": "Nielda Karla",
@@ -434,26 +454,6 @@
           "wordCount": 3033,
           "title": "How to Use the Optimistic UI Pattern with the useOptimistic() Hook in React",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765561440350/c3546e6c-8b23-476a-86d4-b63fd2cb9f6c.png"
-        },
-        {
-          "id": "693c2e0a16d9b095b8e7825d",
-          "author": "Beau Carnes",
-          "description": "Today Quincy Larson interviews Jason Lengstorf. He's a college dropout who taught himself programming while building websites for his emo band. 22 years later he's worked as a developer at IBM, Netlify, run his own dev consultancy, and he now runs Co...",
-          "link": "https://www.freecodecamp.org/news/the-ai-is-going-to-replace-devs-hype-is-over-22-year-developer-veteran-jason-lengstorf-podcast-201/",
-          "publishedOn": "2025-12-12T15:00:26.000Z",
-          "wordCount": 1353,
-          "title": "The \"AI is going to replace devs\" hype is over – 22-year developer veteran Jason Lengstorf [Podcast #201]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765503442357/425ab16a-040b-4a56-8dd9-32910ae8752f.jpeg"
-        },
-        {
-          "id": "693b0c06b189322615083d9f",
-          "author": "Beau Carnes",
-          "description": "n8n is an open-source, visual workflow automation tool that lets you connect applications, APIs, and AI models to build complex, intelligent automations. We just posted a course on the freeCodeCamp.org YouTube channel that will be your guide to maste...",
-          "link": "https://www.freecodecamp.org/news/learn-n8n-to-design-develop-and-deploy-production-grade-ai-agents/",
-          "publishedOn": "2025-12-11T18:23:02.000Z",
-          "wordCount": 1094,
-          "title": "Learn n8n to Design, Develop, and Deploy Production-Grade AI Agents",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765477338398/5c72b733-c04f-4722-8c30-67e3bb9043e5.jpeg"
         }
       ]
     }
