@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-19T00:36:09.628Z</id>
+    <id>urn:2025-12-20T00:34:21.701Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-19T00:36:09.628Z</updated>
+    <updated>2025-12-20T00:34:21.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp's New Relational Databases Certification is Now Live]]></title>
+        <id>694595068a4df0c53d579475</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamps-new-relational-databases-certification-is-now-live/"/>
+        <updated>2025-12-19T18:10:14.000Z</updated>
+        <summary type="html"><![CDATA[The freeCodeCamp community just published our new Relational Databases certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with h...]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Firewalls Really Do and Why Every Network (Still) Needs Them]]></title>
+        <id>69458cd3b6f1f6f9219e5bf5</id>
+        <link href="https://www.freecodecamp.org/news/what-firewalls-really-do-and-why-every-network-still-needs-them/"/>
+        <updated>2025-12-19T17:35:15.000Z</updated>
+        <summary type="html"><![CDATA[Firewalls are one of the oldest tools in network security.  Many people think they are outdated or replaced by newer tools like endpoint security or cloud security platforms, but that’s not the case. Firewalls still play a critical role in protecting...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Real-time AI Gym Coach with Vision Agents]]></title>
+        <id>69458b6967b30377c55c8aa3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-real-time-ai-gym-coach-with-vision-agents/"/>
+        <updated>2025-12-19T17:29:13.000Z</updated>
+        <summary type="html"><![CDATA[Computer vision is transforming how people train, from at-home workouts to smart gym mirrors. Imagine walking into your home gym, turning on your camera, and having an AI coach that sees your movements, counts your reps, and corrects your form in rea...]]></summary>
+        <author>
+            <name>Ekemini Samuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp's B1 English for Developers Certification is Now Live]]></title>
+        <id>69458ad0ac78bce0b11301d9</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamps-b1-english-for-developers-certification-is-now-live/"/>
+        <updated>2025-12-19T17:26:40.000Z</updated>
+        <summary type="html"><![CDATA[The freeCodeCamp community just published our new B1 English for Developers certification for intermediate learners of English as a second language. You can now sit for the exam to earn the free verified certification, which you can add to your résum...]]></summary>
+        <author>
+            <name>Nielda Karla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Masonry Layout is Now grid-lanes]]></title>
+        <id>https://css-tricks.com/?p=390640</id>
+        <link href="https://css-tricks.com/masonry-layout-is-now-grid-lanes/"/>
+        <updated>2025-12-19T16:08:28.000Z</updated>
+        <summary type="html"><![CDATA[It's settled! A new CSS display property keyword called grid-lanes will trigger a masonry layout mode.
+Masonry Layout is Now grid-lanes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get promoted as a dev without becoming a manager – Staff Engineer Santosh Yadav interview [Podcast #202]]]></title>
+        <id>6945687d98d5297cf37169d5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-promoted-as-a-dev-without-becoming-a-manager-staff-engineer-santosh-yadav-interview-podcast-202/"/>
+        <updated>2025-12-19T15:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Santosh Yadav. The son of a textile worker, he grew up inner-city Mumbai and studied hard to get into university. From there he's worked as a software engineer for 16 years. Along the way, he's picked up every distincti...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Measure The Impact Of Features]]></title>
+        <id>https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/</id>
+        <link href="https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/"/>
+        <updated>2025-12-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet TARS — a simple, repeatable, and meaningful UX metric designed specifically to track the performance of product features. Upcoming part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Smart HomeKit Virtual Light in Go]]></title>
+        <id>69449f453cbff85be8965f37</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-smart-homekit-virtual-light-in-go/"/>
+        <updated>2025-12-19T00:41:41.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I wanted to understand how smart home devices actually work. When you scan a QR code and a light appears in your Home app, what's really happening? When you tap "on", what bytes travel across your network? The best way I know to understand...]]></summary>
+        <author>
+            <name>Rez Moss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Agent with LangChain and LangGraph: Build an Autonomous Starbucks Agent]]></title>
+        <id>69449a6dcd2a4eec1f27eb1b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-starbucks-ai-agent-with-langchain/"/>
+        <updated>2025-12-19T00:21:01.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2023, when I started using ChatGPT, it was just another chatbot that I could ask complex questions to and it would identify errors in my code snippets. Everything was fine. The application had no memory of previous states or what was said the...]]></summary>
+        <author>
+            <name>Djibril-M🍀</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an LSM Tree Storage Engine from Scratch – Full Handbook]]></title>
         <id>6944631e80f40a442d1799df</id>
@@ -68,16 +159,6 @@ Responsive List of Avatars Using Modern CSS (Part 2) originally published on CSS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Does an MCP Work Under the Hood? MCP Workflow Explained]]></title>
-        <id>6941a65f3076ac3edd6fdaf0</id>
-        <link href="https://www.freecodecamp.org/news/how-does-an-mcp-work-under-the-hood/"/>
-        <updated>2025-12-16T18:35:11.000Z</updated>
-        <summary type="html"><![CDATA[We’ve all faced that awkward limitation with AI: it can write code or explain complex topics in seconds, but the moment you ask it to check a local file or run a quick database query, it hits a wall. It’s like having a genius assistant who is locked ...]]></summary>
-        <author>
-            <name>Ajay Patel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More]]></title>
         <id>https://css-tricks.com/?p=391134</id>
         <link href="https://css-tricks.com/whats-important-1/"/>
@@ -86,36 +167,6 @@ Responsive List of Avatars Using Modern CSS (Part 2) originally published on CSS
 What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Debug Kubernetes Apps When Logs Fail You – An eBPF Tracing Handbook]]></title>
-        <id>694190c566a5d5cb99995f9f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-debug-kubernetes-apps-when-logs-fail-you-an-ebpf-tracing-handbook/"/>
-        <updated>2025-12-16T17:03:01.000Z</updated>
-        <summary type="html"><![CDATA[Let’s say your Kubernetes pod crashes at 3am and the logs show nothing useful. By the time you SSH into the node, the container is gone, and you're left guessing what happened in those final moments. This is the reality of debugging modern applicatio...]]></summary>
-        <author>
-            <name>Opaluwa Emidowojo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supabase for Beginners]]></title>
-        <id>694189cc7d760e7dd4cabc0a</id>
-        <link href="https://www.freecodecamp.org/news/supabase-for-beginners/"/>
-        <updated>2025-12-16T16:33:16.000Z</updated>
-        <summary type="html"><![CDATA[Supabase is an open-source Backend-as-a-Service (BaaS) platform that provides developers with a powerful set of tools to build applications quickly. This comprehensive video tutorial introduces you to Supabase by building a real-world React.js Sales ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Perform Secure Hashing Using Python's hashlib Module]]></title>
-        <id>69409201ee1f8b8545e218b8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-perform-secure-hashing-using-pythons-hashlib-module/"/>
-        <updated>2025-12-15T22:56:01.000Z</updated>
-        <summary type="html"><![CDATA[Hashing is a fundamental technique in programming that converts data into a fixed-size string of characters. Unlike encryption, hashing is a one-way process: you can't reverse it to get the original data back. This makes hashing perfect for storing p...]]></summary>
-        <author>
-            <name>Bala Priya C</name>
         </author>
     </entry>
     <entry>
@@ -138,36 +189,6 @@ Toon Title Text Generator originally published on CSS-Tricks, which is part of t
 Responsive List of Avatars Using Modern CSS (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp's New Python Certification is Now Live]]></title>
-        <id>6940200b3e9f58ff90228d6c</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamps-new-python-certification-is-now-live/"/>
-        <updated>2025-12-15T14:49:47.000Z</updated>
-        <summary type="html"><![CDATA[The freeCodeCamp community just published our new Python certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with hundreds of hou...]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Use Git and GitHub – A Beginner-Friendly Handbook]]></title>
-        <id>693c859b176ed5964e28b921</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-use-git-and-github-a-beginner-friendly-handbook/"/>
-        <updated>2025-12-12T21:14:03.000Z</updated>
-        <summary type="html"><![CDATA[In this handbook, you’re going to dive into something really exciting: Git and GitHub. To start, let’s clear one thing up: Git and GitHub are not the same thing. In short, Git is the tool that runs on your own computer and keeps track of changes in y...]]></summary>
-        <author>
-            <name>Sumit Saha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Optimistic UI Pattern with the useOptimistic() Hook in React]]></title>
-        <id>693c5d28a2bfa1537f407a65</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-optimistic-ui-pattern-with-the-useoptimistic-hook-in-react/"/>
-        <updated>2025-12-12T18:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever clicked a Like icon on a social media app and noticed the count jumps instantly? The colour of the icon changes at the same time, even before the server finishes the action. Now imagine you hit the same Like button, but it takes its swe...]]></summary>
-        <author>
-            <name>Tapas Adhikary</name>
         </author>
     </entry>
     <entry>
@@ -350,17 +371,6 @@ Prevent a page from scrolling while a dialog is open originally published on CSS
         <summary type="html"><![CDATA[We’re so happy to announce that “Maturing Design Systems”—a Smashing book by Ben Callahan — will soon be joining the Smashing Library! Ben’s insights and advice are so powerful, we thought you might like to read an excerpt from the book. Subscribe to our Smashing newsletter to be notified when orders are open.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ari Stiles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Inheriting and Sharing Property Values]]></title>
-        <id>https://css-tricks.com/?p=389944</id>
-        <link href="https://css-tricks.com/on-inheriting-and-sharing-property-values/"/>
-        <updated>2025-11-24T14:22:30.000Z</updated>
-        <summary type="html"><![CDATA[There are many ways to share properties, but what would it look like to inherit and use any parent property value on a child?
-On Inheriting and Sharing Property Values originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
