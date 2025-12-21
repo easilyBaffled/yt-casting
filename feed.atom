@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-20T00:34:21.701Z</id>
+    <id>urn:2025-12-21T00:39:49.097Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-20T00:34:21.701Z</updated>
+    <updated>2025-12-21T00:39:49.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -381,16 +381,6 @@ Prevent a page from scrolling while a dialog is open originally published on CSS
         <summary type="html"><![CDATA[Practical guidelines on designing time-critical products that prevent errors and improve accuracy. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today). With a live UX training starting next week.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keyframes Tokens: Standardizing Animation Across Projects]]></title>
-        <id>https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/</id>
-        <link href="https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/"/>
-        <updated>2025-11-21T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Amit Sheen)</name>
         </author>
     </entry>
 </feed>
