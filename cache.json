@@ -12,12 +12,27 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390681",
+          "author": "Daniel Schwarz",
+          "description": "The text-decoration-inset property solves a problem that we’ve had since the beginning of the web, which is that text decorations such as underlines extend beyond the first and last characters, resulting in vertical misalignment.\ntext-decoration-inset is Like Padding for Text Decorations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/text-decoration-inset-is-like-padding-for-text-decorations/",
+          "publishedOn": "2025-12-22T14:39:52.000Z",
+          "wordCount": 1897,
+          "title": "text-decoration-inset is Like Padding for Text Decorations",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/12/Screen-Recording-2025-12-05-at-9.32.03-AM.mp4",
+            "length": "88976",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/Screenshot-2025-12-22-at-7.41.21-AM.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=390640",
           "author": "Sunkanmi Fafowora",
           "description": "It's settled! A new CSS display property keyword called grid-lanes will trigger a masonry layout mode.\nMasonry Layout is Now grid-lanes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/masonry-layout-is-now-grid-lanes/",
           "publishedOn": "2025-12-19T16:08:28.000Z",
-          "wordCount": 2666,
+          "wordCount": 2701,
           "title": "Masonry Layout is Now grid-lanes",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/05/css-masonry.png"
         },
@@ -165,16 +180,6 @@
           "wordCount": 4224,
           "title": "Scrollytelling on Steroids With Scroll-State Queries",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/taylor-flowe-aXeVH4FcS1k-unsplash-scaled.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390613",
-          "author": "Geoff Graham",
-          "description": "Bramus:\nChrome 144 features a small change to overscroll-behavior: it now also works on non-scrollable scroll containers. While this change might seem trivial, it fixes an issue developers have been dealing with for ages: prevent a page from \n…\nPrevent a page from scrolling while a dialog is open originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/prevent-a-page-from-scrolling-while-a-dialog-is-open/",
-          "publishedOn": "2025-12-01T17:25:28.000Z",
-          "wordCount": 1211,
-          "title": "Prevent a page from scrolling while a dialog is open",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
         }
       ]
     },
@@ -204,7 +209,7 @@
           "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.",
           "link": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
           "publishedOn": "2025-12-17T10:00:00.000Z",
-          "wordCount": 4935,
+          "wordCount": 4938,
           "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg",
@@ -234,7 +239,7 @@
           "description": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.",
           "link": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
           "publishedOn": "2025-12-09T10:00:00.000Z",
-          "wordCount": 4601,
+          "wordCount": 4599,
           "title": "State, Logic, And Native Power: CSS Wrapped 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/state-logic-native-power-css-wrapped-2025/state-logic-native-power-css-wrapped-2025.jpg",
@@ -249,7 +254,7 @@
           "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.",
           "link": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
           "publishedOn": "2025-12-08T08:00:00.000Z",
-          "wordCount": 4430,
+          "wordCount": 4444,
           "title": "How UX Professionals Can Lead AI Strategy",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg",
@@ -264,7 +269,7 @@
           "description": "Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.",
           "link": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
           "publishedOn": "2025-12-05T15:00:00.000Z",
-          "wordCount": 6875,
+          "wordCount": null,
           "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-black-box-practical-xai-ux-practitioners/beyond-black-box-practical-xai-ux-practitioners.jpg",
@@ -279,7 +284,7 @@
           "description": "CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.",
           "link": "https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
           "publishedOn": "2025-12-02T10:00:00.000Z",
-          "wordCount": 6727,
+          "wordCount": 6725,
           "title": "Masonry: Things You Won’t Need A Library For Anymore",
           "enclosure": {
             "url": "http://files.smashing.media/articles/masonry-things-you-wont-need-library-anymore/masonry-things-you-wont-need-library-anymore.jpg",
@@ -294,7 +299,7 @@
           "description": "With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re celebrating? Our latest edition of monthly wallpapers has got you covered. Enjoy!",
           "link": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
           "publishedOn": "2025-11-30T09:00:00.000Z",
-          "wordCount": 4972,
+          "wordCount": 4975,
           "title": "A Sparkle Of December Magic (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2025/dec-25-zero-gravity-december-preview-opt.png",
@@ -309,7 +314,7 @@
           "description": "CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.",
           "link": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
           "publishedOn": "2025-11-27T10:00:00.000Z",
-          "wordCount": 4719,
+          "wordCount": 4726,
           "title": "The Accessibility Problem With Authentication Methods Like CAPTCHA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessibility-problem-authentication-methods-captcha/accessibility-problem-authentication-methods-captcha.jpg",
@@ -355,6 +360,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "694968e875dd1910710dddef",
+          "author": "Nielda Karla",
+          "description": "The freeCodeCamp community just published the introductory chapters of our new A1 Professional Chinese Curriculum. You can now get started learning Chinese with what’s already available. Each chapter includes hundreds of interactive tasks designed to...",
+          "link": "https://www.freecodecamp.org/news/freecodecamps-a1-professional-chinese-curriculum-beta-is-now-live/",
+          "publishedOn": "2025-12-22T15:51:04.000Z",
+          "wordCount": 1662,
+          "title": "freeCodeCamp's A1 Professional Chinese Curriculum (Beta) is Now Live",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766435087990/bb79450c-7de2-4e74-9b21-55ff62320b10.png"
+        },
+        {
+          "id": "69491adc842069e2b48bbae7",
+          "author": "Yemi Ojedapo",
+          "description": "In traditional programming, developers rely on unit tests to catch mistakes in applications. But when building AI products, that safety net doesn't exist. Responses can shift with model updates, data changes, and subtle fluctuations in prompts or ret...",
+          "link": "https://www.freecodecamp.org/news/how-to-test-and-improve-ai-applications-with-an-evaluation-flywheel/",
+          "publishedOn": "2025-12-22T10:18:04.000Z",
+          "wordCount": 3925,
+          "title": "How to Test and Improve AI Applications with an Evaluation Flywheel",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766082262126/bc54e004-7acc-49fc-b228-24524f250427.png"
+        },
         {
           "id": "694595068a4df0c53d579475",
           "author": "Jessica Wilkins",
@@ -434,26 +459,6 @@
           "wordCount": 9176,
           "title": "How to Build an LSM Tree Storage Engine from Scratch – Full Handbook",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766089431510/433ff03f-8aca-4a87-82d3-0b6d6c1f371c.png"
-        },
-        {
-          "id": "694417d0824ee9f1eae819f5",
-          "author": "Beau Carnes",
-          "description": "Learn how to build a complete 2D Pixel Art Tower Defense game in Unity from scratch! We just posted a step-by-step tutorial on the freeCodeCamp.org YouTube channel that will guide you from a blank project to a fully playable game with a main menu, mu...",
-          "link": "https://www.freecodecamp.org/news/create-a-2d-pixel-art-game-in-unity/",
-          "publishedOn": "2025-12-18T15:03:44.000Z",
-          "wordCount": 1005,
-          "title": "Create a 2D Pixel Art Game in Unity",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766070221236/5ec09f0c-177f-48cd-aec9-0e698b2ede32.jpeg"
-        },
-        {
-          "id": "6942e1421e5725744121909c",
-          "author": "Nielda Karla",
-          "description": "The freeCodeCamp community just published the first three chapters of our new A1 Professional Spanish Curriculum. Each chapter includes hundreds of interactive tasks designed to help you take your first steps in learning Spanish with confidence. How...",
-          "link": "https://www.freecodecamp.org/news/freecodecamps-a1-professional-spanish-curriculum-beta-is-now-live/",
-          "publishedOn": "2025-12-17T16:58:42.000Z",
-          "wordCount": 1584,
-          "title": "freeCodeCamp's A1 Professional Spanish Curriculum (Beta) is Now Live",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765990696599/34882a7b-fa94-414f-8a81-6bf5a0a18118.png"
         }
       ]
     }

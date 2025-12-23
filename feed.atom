@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-22T00:38:32.300Z</id>
+    <id>urn:2025-12-23T00:36:40.785Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-22T00:38:32.300Z</updated>
+    <updated>2025-12-23T00:36:40.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp's A1 Professional Chinese Curriculum (Beta) is Now Live]]></title>
+        <id>694968e875dd1910710dddef</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamps-a1-professional-chinese-curriculum-beta-is-now-live/"/>
+        <updated>2025-12-22T15:51:04.000Z</updated>
+        <summary type="html"><![CDATA[The freeCodeCamp community just published the introductory chapters of our new A1 Professional Chinese Curriculum. You can now get started learning Chinese with what’s already available. Each chapter includes hundreds of interactive tasks designed to...]]></summary>
+        <author>
+            <name>Nielda Karla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[text-decoration-inset is Like Padding for Text Decorations]]></title>
+        <id>https://css-tricks.com/?p=390681</id>
+        <link href="https://css-tricks.com/text-decoration-inset-is-like-padding-for-text-decorations/"/>
+        <updated>2025-12-22T14:39:52.000Z</updated>
+        <summary type="html"><![CDATA[The text-decoration-inset property solves a problem that we’ve had since the beginning of the web, which is that text decorations such as underlines extend beyond the first and last characters, resulting in vertical misalignment.
+text-decoration-inset is Like Padding for Text Decorations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Test and Improve AI Applications with an Evaluation Flywheel]]></title>
+        <id>69491adc842069e2b48bbae7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-test-and-improve-ai-applications-with-an-evaluation-flywheel/"/>
+        <updated>2025-12-22T10:18:04.000Z</updated>
+        <summary type="html"><![CDATA[In traditional programming, developers rely on unit tests to catch mistakes in applications. But when building AI products, that safety net doesn't exist. Responses can shift with model updates, data changes, and subtle fluctuations in prompts or ret...]]></summary>
+        <author>
+            <name>Yemi Ojedapo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[freeCodeCamp's New Relational Databases Certification is Now Live]]></title>
         <id>694595068a4df0c53d579475</id>
@@ -115,26 +146,6 @@ Masonry Layout is Now grid-lanes originally published on CSS-Tricks, which is pa
 Search CSS-Tricks Raycast Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a 2D Pixel Art Game in Unity]]></title>
-        <id>694417d0824ee9f1eae819f5</id>
-        <link href="https://www.freecodecamp.org/news/create-a-2d-pixel-art-game-in-unity/"/>
-        <updated>2025-12-18T15:03:44.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to build a complete 2D Pixel Art Tower Defense game in Unity from scratch! We just posted a step-by-step tutorial on the freeCodeCamp.org YouTube channel that will guide you from a blank project to a fully playable game with a main menu, mu...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp's A1 Professional Spanish Curriculum (Beta) is Now Live]]></title>
-        <id>6942e1421e5725744121909c</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamps-a1-professional-spanish-curriculum-beta-is-now-live/"/>
-        <updated>2025-12-17T16:58:42.000Z</updated>
-        <summary type="html"><![CDATA[The freeCodeCamp community just published the first three chapters of our new A1 Professional Spanish Curriculum. Each chapter includes hundreds of interactive tasks designed to help you take your first steps in learning Spanish with confidence. How...]]></summary>
-        <author>
-            <name>Nielda Karla</name>
         </author>
     </entry>
     <entry>
@@ -328,19 +339,6 @@ Scrollytelling on Steroids With Scroll-State Queries originally published on CSS
         <summary type="html"><![CDATA[CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Patrick Brosset)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prevent a page from scrolling while a dialog is open]]></title>
-        <id>https://css-tricks.com/?p=390613</id>
-        <link href="https://css-tricks.com/prevent-a-page-from-scrolling-while-a-dialog-is-open/"/>
-        <updated>2025-12-01T17:25:28.000Z</updated>
-        <summary type="html"><![CDATA[Bramus:
-Chrome 144 features a small change to overscroll-behavior: it now also works on non-scrollable scroll containers. While this change might seem trivial, it fixes an issue developers have been dealing with for ages: prevent a page from 
-…
-Prevent a page from scrolling while a dialog is open originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
