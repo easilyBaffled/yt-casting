@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-23T00:36:40.785Z</id>
+    <id>urn:2025-12-24T00:36:07.854Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-23T00:36:40.785Z</updated>
+    <updated>2025-12-24T00:36:07.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use GenUI in Flutter to Build Dynamic, AI-Driven Interfaces]]></title>
+        <id>694aca4b18de35b28c2daacb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-genui-in-flutter-to-build-dynamic-ai-driven-interfaces/"/>
+        <updated>2025-12-23T16:58:51.000Z</updated>
+        <summary type="html"><![CDATA[In standard app development, the User Interface (UI) is static. You write code for a button, compile it, and it remains a button forever. GenUI flips this model on its head. With GenUI, Google’s Generative UI SDK, your application's interface becomes...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Support Agent with Vercel AI SDK]]></title>
+        <id>694ac4a879c823aae0f86bc9</id>
+        <link href="https://www.freecodecamp.org/news/build-a-support-agent-with-vercel-ai-sdk/"/>
+        <updated>2025-12-23T16:34:48.000Z</updated>
+        <summary type="html"><![CDATA[Vercel AI SDK is a TypeScript-first toolkit for building AI features. It streamlines text generation, embeddings, and structured outputs. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you to use the Vercel AI SDK to ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thank You (2025 Edition)]]></title>
+        <id>https://css-tricks.com/?p=391203</id>
+        <link href="https://css-tricks.com/thank-you-2025-edition/"/>
+        <updated>2025-12-23T15:52:53.000Z</updated>
+        <summary type="html"><![CDATA[This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-front-end (and a little CSS, of course) with us.
+Thank You (2025 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giving Users A Voice Through Virtual Personas]]></title>
+        <id>https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/</id>
+        <link href="https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/"/>
+        <updated>2025-12-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[freeCodeCamp's A1 Professional Chinese Curriculum (Beta) is Now Live]]></title>
         <id>694968e875dd1910710dddef</id>
@@ -115,26 +156,6 @@ Masonry Layout is Now grid-lanes originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[Recently, I wanted to understand how smart home devices actually work. When you scan a QR code and a light appears in your Home app, what's really happening? When you tap "on", what bytes travel across your network? The best way I know to understand...]]></summary>
         <author>
             <name>Rez Moss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Agent with LangChain and LangGraph: Build an Autonomous Starbucks Agent]]></title>
-        <id>69449a6dcd2a4eec1f27eb1b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-starbucks-ai-agent-with-langchain/"/>
-        <updated>2025-12-19T00:21:01.000Z</updated>
-        <summary type="html"><![CDATA[Back in 2023, when I started using ChatGPT, it was just another chatbot that I could ask complex questions to and it would identify errors in my code snippets. Everything was fine. The application had no memory of previous states or what was said the...]]></summary>
-        <author>
-            <name>Djibril-M🍀</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an LSM Tree Storage Engine from Scratch – Full Handbook]]></title>
-        <id>6944631e80f40a442d1799df</id>
-        <link href="https://www.freecodecamp.org/news/build-an-lsm-tree-storage-engine-from-scratch-handbook/"/>
-        <updated>2025-12-18T20:25:02.000Z</updated>
-        <summary type="html"><![CDATA[Databases are one of the most important parts of a software system. They allow us to store huge amounts of data in an organized way and retrieve it efficiently when we need it. In the early days, when the volume of data was relatively small, engineer...]]></summary>
-        <author>
-            <name>Ramesh Sinha</name>
         </author>
     </entry>
     <entry>
@@ -318,17 +339,6 @@ HTML Web Components Proposal From 1998 originally published on CSS-Tricks, which
 Getting Creative With “The Measure” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Andy Clarke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scrollytelling on Steroids With Scroll-State Queries]]></title>
-        <id>https://css-tricks.com/?p=390205</id>
-        <link href="https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/"/>
-        <updated>2025-12-02T16:47:14.000Z</updated>
-        <summary type="html"><![CDATA[Unconvinced of the value of scrollytelling? Alright, skeptic, let’s first warm up with some common use cases for scroll-based styling.
-Scrollytelling on Steroids With Scroll-State Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
         </author>
     </entry>
     <entry>
