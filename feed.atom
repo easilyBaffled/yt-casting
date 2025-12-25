@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-24T00:36:07.854Z</id>
+    <id>urn:2025-12-25T00:36:22.147Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-24T00:36:07.854Z</updated>
+    <updated>2025-12-25T00:36:22.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Prepare for Technical Job Interviews –  Based on My Experience Landing a Job]]></title>
+        <id>694c23da6c9dee59dd506fea</id>
+        <link href="https://www.freecodecamp.org/news/how-to-prepare-for-technical-job-interviews-based-on-my-experience-landing-a-job/"/>
+        <updated>2025-12-24T17:33:14.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I’m Ilyas. I’m a web developer, and this is my story about how I struggled with interviews for a long time and what finally helped me break through. I’ll talk about what failing basic interview questions taught me about recall, preparation, and s...]]></summary>
+        <author>
+            <name>Ilyas Seisov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christmas gifts for you from the freeCodeCamp community: Learn Python, SQL, Spanish, and more]]></title>
+        <id>694b1ba8c5784bd06a2425d7</id>
+        <link href="https://www.freecodecamp.org/news/christmas-gifts-freecodecamp-community-2025/"/>
+        <updated>2025-12-23T22:46:00.000Z</updated>
+        <summary type="html"><![CDATA[2025 has been an amazing year for the global freeCodeCamp community. And we’re thrilled to cap it off with the launch of several Christmas Gifts for you: freeCodeCamp's Python certification freeCodeCamp's JavaScript certification (Version 10) free...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use GenUI in Flutter to Build Dynamic, AI-Driven Interfaces]]></title>
         <id>694aca4b18de35b28c2daacb</id>
@@ -129,16 +149,6 @@ Masonry Layout is Now grid-lanes originally published on CSS-Tricks, which is pa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to get promoted as a dev without becoming a manager – Staff Engineer Santosh Yadav interview [Podcast #202]]]></title>
-        <id>6945687d98d5297cf37169d5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-promoted-as-a-dev-without-becoming-a-manager-staff-engineer-santosh-yadav-interview-podcast-202/"/>
-        <updated>2025-12-19T15:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Santosh Yadav. The son of a textile worker, he grew up inner-city Mumbai and studied hard to get into university. From there he's worked as a software engineer for 16 years. Along the way, he's picked up every distincti...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Measure The Impact Of Features]]></title>
         <id>https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/</id>
         <link href="https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/"/>
@@ -146,16 +156,6 @@ Masonry Layout is Now grid-lanes originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[Meet TARS — a simple, repeatable, and meaningful UX metric designed specifically to track the performance of product features. Upcoming part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Smart HomeKit Virtual Light in Go]]></title>
-        <id>69449f453cbff85be8965f37</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-smart-homekit-virtual-light-in-go/"/>
-        <updated>2025-12-19T00:41:41.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I wanted to understand how smart home devices actually work. When you scan a QR code and a light appears in your Home app, what's really happening? When you tap "on", what bytes travel across your network? The best way I know to understand...]]></summary>
-        <author>
-            <name>Rez Moss</name>
         </author>
     </entry>
     <entry>
@@ -379,16 +379,6 @@ Getting Creative With “The Measure” originally published on CSS-Tricks, whic
         <summary type="html"><![CDATA[We’re so happy to announce that “Maturing Design Systems”—a Smashing book by Ben Callahan — will soon be joining the Smashing Library! Ben’s insights and advice are so powerful, we thought you might like to read an excerpt from the book. Subscribe to our Smashing newsletter to be notified when orders are open.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ari Stiles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing For Stress And Emergency]]></title>
-        <id>https://smashingmagazine.com/2025/11/designing-for-stress-emergency/</id>
-        <link href="https://smashingmagazine.com/2025/11/designing-for-stress-emergency/"/>
-        <updated>2025-11-24T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Practical guidelines on designing time-critical products that prevent errors and improve accuracy. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today). With a live UX training starting next week.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>

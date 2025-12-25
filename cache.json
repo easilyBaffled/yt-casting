@@ -17,7 +17,7 @@
           "description": "This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-front-end (and a little CSS, of course) with us.\nThank You (2025 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/thank-you-2025-edition/",
           "publishedOn": "2025-12-23T15:52:53.000Z",
-          "wordCount": 2664,
+          "wordCount": 2746,
           "title": "Thank You (2025 Edition)",
           "enclosure": {
             "url": "http://css-tricks.com/wp-content/uploads/2025/12/almanac-scroll-animation.mov",
@@ -199,7 +199,7 @@
           "description": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
           "link": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
           "publishedOn": "2025-12-23T10:00:00.000Z",
-          "wordCount": 4646,
+          "wordCount": 4652,
           "title": "Giving Users A Voice Through Virtual Personas",
           "enclosure": {
             "url": "http://files.smashing.media/articles/giving-users-voice-virtual-personas/giving-users-voice-virtual-personas.jpg",
@@ -229,7 +229,7 @@
           "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.",
           "link": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
           "publishedOn": "2025-12-17T10:00:00.000Z",
-          "wordCount": 4949,
+          "wordCount": 4940,
           "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg",
@@ -259,7 +259,7 @@
           "description": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.",
           "link": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
           "publishedOn": "2025-12-09T10:00:00.000Z",
-          "wordCount": 4608,
+          "wordCount": 4595,
           "title": "State, Logic, And Native Power: CSS Wrapped 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/state-logic-native-power-css-wrapped-2025/state-logic-native-power-css-wrapped-2025.jpg",
@@ -274,7 +274,7 @@
           "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.",
           "link": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
           "publishedOn": "2025-12-08T08:00:00.000Z",
-          "wordCount": 4440,
+          "wordCount": null,
           "title": "How UX Professionals Can Lead AI Strategy",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg",
@@ -289,7 +289,7 @@
           "description": "Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.",
           "link": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
           "publishedOn": "2025-12-05T15:00:00.000Z",
-          "wordCount": 6877,
+          "wordCount": 6880,
           "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-black-box-practical-xai-ux-practitioners/beyond-black-box-practical-xai-ux-practitioners.jpg",
@@ -304,7 +304,7 @@
           "description": "CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.",
           "link": "https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
           "publishedOn": "2025-12-02T10:00:00.000Z",
-          "wordCount": 6739,
+          "wordCount": 6741,
           "title": "Masonry: Things You Won’t Need A Library For Anymore",
           "enclosure": {
             "url": "http://files.smashing.media/articles/masonry-things-you-wont-need-library-anymore/masonry-things-you-wont-need-library-anymore.jpg",
@@ -334,7 +334,7 @@
           "description": "CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.",
           "link": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
           "publishedOn": "2025-11-27T10:00:00.000Z",
-          "wordCount": 4717,
+          "wordCount": 4716,
           "title": "The Accessibility Problem With Authentication Methods Like CAPTCHA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessibility-problem-authentication-methods-captcha/accessibility-problem-authentication-methods-captcha.jpg",
@@ -357,21 +357,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/maturing-design-systems.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/11/designing-for-stress-emergency/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Practical guidelines on designing time-critical products that prevent errors and improve accuracy. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today). With a live UX training starting next week.",
-          "link": "https://smashingmagazine.com/2025/11/designing-for-stress-emergency/",
-          "publishedOn": "2025-11-24T13:00:00.000Z",
-          "wordCount": 4041,
-          "title": "Designing For Stress And Emergency",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-for-stress-and-emergency/designing-for-stress-emergency.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-for-stress-and-emergency/designing-for-stress-emergency.jpg"
         }
       ]
     },
@@ -380,6 +365,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "694c23da6c9dee59dd506fea",
+          "author": "Ilyas Seisov",
+          "description": "Hi, I’m Ilyas. I’m a web developer, and this is my story about how I struggled with interviews for a long time and what finally helped me break through. I’ll talk about what failing basic interview questions taught me about recall, preparation, and s...",
+          "link": "https://www.freecodecamp.org/news/how-to-prepare-for-technical-job-interviews-based-on-my-experience-landing-a-job/",
+          "publishedOn": "2025-12-24T17:33:14.000Z",
+          "wordCount": 2452,
+          "title": "How to Prepare for Technical Job Interviews –  Based on My Experience Landing a Job",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766597367293/515dd71a-fb65-4508-bdd2-39b103ddb438.png"
+        },
+        {
+          "id": "694b1ba8c5784bd06a2425d7",
+          "author": "Quincy Larson",
+          "description": "2025 has been an amazing year for the global freeCodeCamp community. And we’re thrilled to cap it off with the launch of several Christmas Gifts for you: freeCodeCamp's Python certification freeCodeCamp's JavaScript certification (Version 10) free...",
+          "link": "https://www.freecodecamp.org/news/christmas-gifts-freecodecamp-community-2025/",
+          "publishedOn": "2025-12-23T22:46:00.000Z",
+          "wordCount": 2038,
+          "title": "Christmas gifts for you from the freeCodeCamp community: Learn Python, SQL, Spanish, and more",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766525007211/919f4a73-c6de-47b1-933c-3992a05050be.png"
+        },
         {
           "id": "694aca4b18de35b28c2daacb",
           "author": "Atuoha Anthony",
@@ -446,7 +451,7 @@
           "description": "Computer vision is transforming how people train, from at-home workouts to smart gym mirrors. Imagine walking into your home gym, turning on your camera, and having an AI coach that sees your movements, counts your reps, and corrects your form in rea...",
           "link": "https://www.freecodecamp.org/news/how-to-build-a-real-time-ai-gym-coach-with-vision-agents/",
           "publishedOn": "2025-12-19T17:29:13.000Z",
-          "wordCount": 3386,
+          "wordCount": 3479,
           "title": "How to Build a Real-time AI Gym Coach with Vision Agents",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766158143362/b5d2947c-cc24-4948-a7fd-7ef2b3a79d5f.png"
         },
@@ -459,26 +464,6 @@
           "wordCount": 2506,
           "title": "freeCodeCamp's B1 English for Developers Certification is Now Live",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765908045980/195acca4-af23-4800-9889-378c893cf9ff.png"
-        },
-        {
-          "id": "6945687d98d5297cf37169d5",
-          "author": "Beau Carnes",
-          "description": "Today Quincy Larson interviews Santosh Yadav. The son of a textile worker, he grew up inner-city Mumbai and studied hard to get into university. From there he's worked as a software engineer for 16 years. Along the way, he's picked up every distincti...",
-          "link": "https://www.freecodecamp.org/news/how-to-get-promoted-as-a-dev-without-becoming-a-manager-staff-engineer-santosh-yadav-interview-podcast-202/",
-          "publishedOn": "2025-12-19T15:00:13.000Z",
-          "wordCount": 1359,
-          "title": "How to get promoted as a dev without becoming a manager – Staff Engineer Santosh Yadav interview [Podcast #202]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766099234403/d0186a4e-1f13-43f6-ab46-4fa3bc7cbb5e.jpeg"
-        },
-        {
-          "id": "69449f453cbff85be8965f37",
-          "author": "Rez Moss",
-          "description": "Recently, I wanted to understand how smart home devices actually work. When you scan a QR code and a light appears in your Home app, what's really happening? When you tap \"on\", what bytes travel across your network? The best way I know to understand...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-smart-homekit-virtual-light-in-go/",
-          "publishedOn": "2025-12-19T00:41:41.000Z",
-          "wordCount": 3448,
-          "title": "How to Build a Smart HomeKit Virtual Light in Go",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766104866742/8d8c0158-95d0-493b-a311-cd99189654e1.png"
         }
       ]
     }
