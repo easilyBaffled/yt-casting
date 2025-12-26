@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-25T00:36:22.147Z</id>
+    <id>urn:2025-12-26T00:36:30.300Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-25T00:36:22.147Z</updated>
+    <updated>2025-12-26T00:36:30.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Run a Docker Container in AWS Lambda]]></title>
+        <id>694c7990b7478745bce04604</id>
+        <link href="https://www.freecodecamp.org/news/how-to-run-a-docker-container-in-aws-lambda/"/>
+        <updated>2025-12-24T23:38:56.000Z</updated>
+        <summary type="html"><![CDATA[While containers are quite lightweight and provide various benefits, it can be challenging to decide how best to deploy them. There are a number of ways to deploy and run Docker containers. But some are best for orchestrating and managing containers,...]]></summary>
+        <author>
+            <name>Agnes Olorundare</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Prepare for Technical Job Interviews –  Based on My Experience Landing a Job]]></title>
         <id>694c23da6c9dee59dd506fea</id>
@@ -125,16 +135,6 @@ text-decoration-inset is Like Padding for Text Decorations originally published 
         <summary type="html"><![CDATA[Computer vision is transforming how people train, from at-home workouts to smart gym mirrors. Imagine walking into your home gym, turning on your camera, and having an AI coach that sees your movements, counts your reps, and corrects your form in rea...]]></summary>
         <author>
             <name>Ekemini Samuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp's B1 English for Developers Certification is Now Live]]></title>
-        <id>69458ad0ac78bce0b11301d9</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamps-b1-english-for-developers-certification-is-now-live/"/>
-        <updated>2025-12-19T17:26:40.000Z</updated>
-        <summary type="html"><![CDATA[The freeCodeCamp community just published our new B1 English for Developers certification for intermediate learners of English as a second language. You can now sit for the exam to earn the free verified certification, which you can add to your résum...]]></summary>
-        <author>
-            <name>Nielda Karla</name>
         </author>
     </entry>
     <entry>
@@ -369,16 +369,6 @@ Getting Creative With “The Measure” originally published on CSS-Tricks, whic
         <summary type="html"><![CDATA[CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design System Culture: What It Is And Why It Matters (Excerpt)]]></title>
-        <id>https://smashingmagazine.com/2025/11/design-system-culture/</id>
-        <link href="https://smashingmagazine.com/2025/11/design-system-culture/"/>
-        <updated>2025-11-25T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re so happy to announce that “Maturing Design Systems”—a Smashing book by Ben Callahan — will soon be joining the Smashing Library! Ben’s insights and advice are so powerful, we thought you might like to read an excerpt from the book. Subscribe to our Smashing newsletter to be notified when orders are open.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ari Stiles)</name>
         </author>
     </entry>
 </feed>
