@@ -199,7 +199,7 @@
           "description": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
           "link": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
           "publishedOn": "2025-12-23T10:00:00.000Z",
-          "wordCount": 4640,
+          "wordCount": 4634,
           "title": "Giving Users A Voice Through Virtual Personas",
           "enclosure": {
             "url": "http://files.smashing.media/articles/giving-users-voice-virtual-personas/giving-users-voice-virtual-personas.jpg",
@@ -259,7 +259,7 @@
           "description": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.",
           "link": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
           "publishedOn": "2025-12-09T10:00:00.000Z",
-          "wordCount": 4602,
+          "wordCount": 4603,
           "title": "State, Logic, And Native Power: CSS Wrapped 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/state-logic-native-power-css-wrapped-2025/state-logic-native-power-css-wrapped-2025.jpg",
@@ -289,7 +289,7 @@
           "description": "Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.",
           "link": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
           "publishedOn": "2025-12-05T15:00:00.000Z",
-          "wordCount": 6874,
+          "wordCount": 6878,
           "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-black-box-practical-xai-ux-practitioners/beyond-black-box-practical-xai-ux-practitioners.jpg",
@@ -304,7 +304,7 @@
           "description": "CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.",
           "link": "https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
           "publishedOn": "2025-12-02T10:00:00.000Z",
-          "wordCount": 6736,
+          "wordCount": 6741,
           "title": "Masonry: Things You Won’t Need A Library For Anymore",
           "enclosure": {
             "url": "http://files.smashing.media/articles/masonry-things-you-wont-need-library-anymore/masonry-things-you-wont-need-library-anymore.jpg",
@@ -312,21 +312,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/masonry-things-you-wont-need-library-anymore/masonry-things-you-wont-need-library-anymore.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re celebrating? Our latest edition of monthly wallpapers has got you covered. Enjoy!",
-          "link": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
-          "publishedOn": "2025-11-30T09:00:00.000Z",
-          "wordCount": 4967,
-          "title": "A Sparkle Of December Magic (2025 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2025/dec-25-zero-gravity-december-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2025/dec-25-zero-gravity-december-preview-opt.png"
         }
       ]
     },
