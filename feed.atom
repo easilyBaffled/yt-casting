@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-30T00:36:29.762Z</id>
+    <id>urn:2025-12-31T00:36:49.626Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-30T00:36:29.762Z</updated>
+    <updated>2025-12-31T00:36:49.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How To Design For (And With) Deaf People]]></title>
+        <id>https://smashingmagazine.com/2025/12/how-design-for-with-deaf-people/</id>
+        <link href="https://smashingmagazine.com/2025/12/how-design-for-with-deaf-people/"/>
+        <updated>2025-12-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Practical UX guidelines to keep in mind for 466 million people who experience hearing loss. More design patterns in Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Run a Docker Container in AWS Lambda]]></title>
         <id>694c7990b7478745bce04604</id>
