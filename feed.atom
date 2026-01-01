@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-31T00:36:49.626Z</id>
+    <id>urn:2026-01-01T00:42:14.437Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-31T00:36:49.626Z</updated>
+    <updated>2026-01-01T00:42:14.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More]]></title>
+        <id>https://css-tricks.com/?p=391298</id>
+        <link href="https://css-tricks.com/whats-important-2/"/>
+        <updated>2025-12-31T16:18:23.000Z</updated>
+        <summary type="html"><![CDATA[2026 is almost upon us. I know we’re all itching to see the clock strike midnight (cue The Final Countdown by Europe), but not without recapping the best CSS-related things that happened over the last two weeks!
+What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Design For (And With) Deaf People]]></title>
         <id>https://smashingmagazine.com/2025/12/how-design-for-with-deaf-people/</id>
@@ -338,27 +349,6 @@ HTML Web Components Proposal From 1998 originally published on CSS-Tricks, which
         <summary type="html"><![CDATA[Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Creative With “The Measure”]]></title>
-        <id>https://css-tricks.com/?p=390477</id>
-        <link href="https://css-tricks.com/getting-creative-with-the-measure/"/>
-        <updated>2025-12-04T14:04:52.000Z</updated>
-        <summary type="html"><![CDATA[A good measure makes reading text comfortable, while a bad one makes it more difficult. So, rather than allowing layout to dictate the measure, doesn’t it make more sense for the measure to inform layout decisions?
-Getting Creative With “The Measure” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Andy Clarke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Masonry: Things You Won’t Need A Library For Anymore]]></title>
-        <id>https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/</id>
-        <link href="https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/"/>
-        <updated>2025-12-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Patrick Brosset)</name>
         </author>
     </entry>
 </feed>
