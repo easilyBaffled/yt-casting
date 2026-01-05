@@ -27,7 +27,7 @@
           "description": "This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-front-end (and a little CSS, of course) with us.\nThank You (2025 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/thank-you-2025-edition/",
           "publishedOn": "2025-12-23T15:52:53.000Z",
-          "wordCount": 3084,
+          "wordCount": 3164,
           "title": "Thank You (2025 Edition)",
           "enclosure": {
             "url": "http://css-tricks.com/wp-content/uploads/2025/12/almanac-scroll-animation.mov",
@@ -175,16 +175,6 @@
           "wordCount": 3162,
           "title": "That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/apple-css.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390691",
-          "author": "Geoff Graham",
-          "description": "It's easy to think of HTML Web Components as a recent feature, but it has roots that go all the way back to 1998.\nHTML Web Components Proposal From 1998 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/html-web-components-proposal-from-1998/",
-          "publishedOn": "2025-12-05T18:16:48.000Z",
-          "wordCount": 1197,
-          "title": "HTML Web Components Proposal From 1998",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/07/wev-components-logo.jpg"
         }
       ]
     },
@@ -214,7 +204,7 @@
           "description": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
           "link": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
           "publishedOn": "2025-12-23T10:00:00.000Z",
-          "wordCount": 4647,
+          "wordCount": 4641,
           "title": "Giving Users A Voice Through Virtual Personas",
           "enclosure": {
             "url": "http://files.smashing.media/articles/giving-users-voice-virtual-personas/giving-users-voice-virtual-personas.jpg",
@@ -244,7 +234,7 @@
           "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.",
           "link": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
           "publishedOn": "2025-12-17T10:00:00.000Z",
-          "wordCount": 4941,
+          "wordCount": 4942,
           "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg",
@@ -274,7 +264,7 @@
           "description": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.",
           "link": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
           "publishedOn": "2025-12-09T10:00:00.000Z",
-          "wordCount": 4606,
+          "wordCount": 4601,
           "title": "State, Logic, And Native Power: CSS Wrapped 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/state-logic-native-power-css-wrapped-2025/state-logic-native-power-css-wrapped-2025.jpg",
@@ -289,7 +279,7 @@
           "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.",
           "link": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
           "publishedOn": "2025-12-08T08:00:00.000Z",
-          "wordCount": 4442,
+          "wordCount": 4443,
           "title": "How UX Professionals Can Lead AI Strategy",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg",
@@ -297,21 +287,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
-          "author": "hello@smashingmagazine.com (Victor Yocco)",
-          "description": "Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.",
-          "link": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
-          "publishedOn": "2025-12-05T15:00:00.000Z",
-          "wordCount": 6874,
-          "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/beyond-black-box-practical-xai-ux-practitioners/beyond-black-box-practical-xai-ux-practitioners.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/beyond-black-box-practical-xai-ux-practitioners/beyond-black-box-practical-xai-ux-practitioners.jpg"
         }
       ]
     },

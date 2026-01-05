@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-04T00:41:21.585Z</id>
+    <id>urn:2026-01-05T00:40:30.657Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-04T00:41:21.585Z</updated>
+    <updated>2026-01-05T00:40:30.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -328,27 +328,6 @@ That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece originally publ
         <summary type="html"><![CDATA[Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Web Components Proposal From 1998]]></title>
-        <id>https://css-tricks.com/?p=390691</id>
-        <link href="https://css-tricks.com/html-web-components-proposal-from-1998/"/>
-        <updated>2025-12-05T18:16:48.000Z</updated>
-        <summary type="html"><![CDATA[It's easy to think of HTML Web Components as a recent feature, but it has roots that go all the way back to 1998.
-HTML Web Components Proposal From 1998 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond The Black Box: Practical XAI For UX Practitioners]]></title>
-        <id>https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/</id>
-        <link href="https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/"/>
-        <updated>2025-12-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Yocco)</name>
         </author>
     </entry>
 </feed>
