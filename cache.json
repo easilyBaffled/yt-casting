@@ -184,6 +184,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Whether 2026 has already begun as you’re reading this or you’re still waiting for the big countdown to start, how about some new wallpapers to get your desktop ready for the new year? We’ve got you covered.",
+          "link": "https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/",
+          "publishedOn": "2025-12-31T09:00:00.000Z",
+          "wordCount": 4443,
+          "title": "Countdown To New Adventures (January 2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/12/how-design-for-with-deaf-people/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Practical UX guidelines to keep in mind for 466 million people who experience hearing loss. More design patterns in Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.",
@@ -204,7 +219,7 @@
           "description": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
           "link": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
           "publishedOn": "2025-12-23T10:00:00.000Z",
-          "wordCount": 4641,
+          "wordCount": null,
           "title": "Giving Users A Voice Through Virtual Personas",
           "enclosure": {
             "url": "http://files.smashing.media/articles/giving-users-voice-virtual-personas/giving-users-voice-virtual-personas.jpg",
@@ -234,7 +249,7 @@
           "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.",
           "link": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
           "publishedOn": "2025-12-17T10:00:00.000Z",
-          "wordCount": 4942,
+          "wordCount": 4938,
           "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg",
@@ -264,7 +279,7 @@
           "description": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.",
           "link": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
           "publishedOn": "2025-12-09T10:00:00.000Z",
-          "wordCount": 4601,
+          "wordCount": 4603,
           "title": "State, Logic, And Native Power: CSS Wrapped 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/state-logic-native-power-css-wrapped-2025/state-logic-native-power-css-wrapped-2025.jpg",
@@ -279,7 +294,7 @@
           "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.",
           "link": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
           "publishedOn": "2025-12-08T08:00:00.000Z",
-          "wordCount": 4443,
+          "wordCount": 4435,
           "title": "How UX Professionals Can Lead AI Strategy",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg",
@@ -295,6 +310,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "695bde18d63e0c63c9fefea8",
+          "author": "Mayur Vekariya",
+          "description": "Have you ever wanted to add an AI-powered chatbot to your website, like Intercom or Drift, without paying high monthly fees? In this tutorial, you'll learn how to build a fully functional, embeddable AI chatbot widget using Cloudflare's serverless st...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-embeddable-ai-chatbot-widget-with-cloudflare-workers/",
+          "publishedOn": "2026-01-05T15:51:52.000Z",
+          "wordCount": 4906,
+          "title": "How to Build an Embeddable AI Chatbot Widget with Cloudflare Workers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767626158079/0b9e58c9-9299-4342-8c97-1a2de185cc60.png"
+        },
+        {
+          "id": "695ba922d307c8d32fc522ea",
+          "author": "Tiffany Mojo Omondi",
+          "description": "You can use R as a powerful tool for data analysis, data visualization, and statistical modelling. In this guide, you’ll learn how to load real-world data into R, visualize patterns using ggplot2, build simple linear and logistic regression models, a...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-scatterplots-and-model-data-in-r/",
+          "publishedOn": "2026-01-05T12:05:54.000Z",
+          "wordCount": 2865,
+          "title": "How to Create Scatterplots and Model Data in R Using ggplot2",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767614352690/8b993426-f193-4ff3-b5ec-dd6dda11028e.png"
+        },
         {
           "id": "694c7990b7478745bce04604",
           "author": "Agnes Olorundare",
@@ -331,7 +366,7 @@
           "description": "In standard app development, the User Interface (UI) is static. You write code for a button, compile it, and it remains a button forever. GenUI flips this model on its head. With GenUI, Google’s Generative UI SDK, your application's interface becomes...",
           "link": "https://www.freecodecamp.org/news/how-to-use-genui-in-flutter-to-build-dynamic-ai-driven-interfaces/",
           "publishedOn": "2025-12-23T16:58:51.000Z",
-          "wordCount": 6511,
+          "wordCount": 6513,
           "title": "How to Use GenUI in Flutter to Build Dynamic, AI-Driven Interfaces",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766509116517/64c3ad0a-9328-4731-8292-90cc7fdbb60b.png"
         },
@@ -374,26 +409,6 @@
           "wordCount": 2750,
           "title": "freeCodeCamp's New Relational Databases Certification is Now Live",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765839442063/a5db9c4a-cb34-468b-b097-e4257803c29d.png"
-        },
-        {
-          "id": "69458cd3b6f1f6f9219e5bf5",
-          "author": "Manish Shivanandhan",
-          "description": "Firewalls are one of the oldest tools in network security.  Many people think they are outdated or replaced by newer tools like endpoint security or cloud security platforms, but that’s not the case. Firewalls still play a critical role in protecting...",
-          "link": "https://www.freecodecamp.org/news/what-firewalls-really-do-and-why-every-network-still-needs-them/",
-          "publishedOn": "2025-12-19T17:35:15.000Z",
-          "wordCount": 2451,
-          "title": "What Firewalls Really Do and Why Every Network (Still) Needs Them",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766165681001/895e7957-b66d-47be-ace8-5da5dbb343ed.png"
-        },
-        {
-          "id": "69458b6967b30377c55c8aa3",
-          "author": "Ekemini Samuel",
-          "description": "Computer vision is transforming how people train, from at-home workouts to smart gym mirrors. Imagine walking into your home gym, turning on your camera, and having an AI coach that sees your movements, counts your reps, and corrects your form in rea...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-real-time-ai-gym-coach-with-vision-agents/",
-          "publishedOn": "2025-12-19T17:29:13.000Z",
-          "wordCount": 3479,
-          "title": "How to Build a Real-time AI Gym Coach with Vision Agents",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766158143362/b5d2947c-cc24-4948-a7fd-7ef2b3a79d5f.png"
         }
       ]
     }

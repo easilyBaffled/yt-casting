@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-05T00:40:30.657Z</id>
+    <id>urn:2026-01-06T00:37:51.983Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-05T00:40:30.657Z</updated>
+    <updated>2026-01-06T00:37:51.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Embeddable AI Chatbot Widget with Cloudflare Workers]]></title>
+        <id>695bde18d63e0c63c9fefea8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-embeddable-ai-chatbot-widget-with-cloudflare-workers/"/>
+        <updated>2026-01-05T15:51:52.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wanted to add an AI-powered chatbot to your website, like Intercom or Drift, without paying high monthly fees? In this tutorial, you'll learn how to build a fully functional, embeddable AI chatbot widget using Cloudflare's serverless st...]]></summary>
+        <author>
+            <name>Mayur Vekariya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Scatterplots and Model Data in R Using ggplot2]]></title>
+        <id>695ba922d307c8d32fc522ea</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-scatterplots-and-model-data-in-r/"/>
+        <updated>2026-01-05T12:05:54.000Z</updated>
+        <summary type="html"><![CDATA[You can use R as a powerful tool for data analysis, data visualization, and statistical modelling. In this guide, you’ll learn how to load real-world data into R, visualize patterns using ggplot2, build simple linear and logistic regression models, a...]]></summary>
+        <author>
+            <name>Tiffany Mojo Omondi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More]]></title>
         <id>https://css-tricks.com/?p=391298</id>
@@ -14,6 +34,16 @@
 What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Countdown To New Adventures (January 2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/</id>
+        <link href="https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/"/>
+        <updated>2025-12-31T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether 2026 has already begun as you’re reading this or you’re still waiting for the big countdown to start, how about some new wallpapers to get your desktop ready for the new year? We’ve got you covered.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
     <entry>
@@ -136,26 +166,6 @@ text-decoration-inset is Like Padding for Text Decorations originally published 
         <summary type="html"><![CDATA[The freeCodeCamp community just published our new Relational Databases certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with h...]]></summary>
         <author>
             <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Firewalls Really Do and Why Every Network (Still) Needs Them]]></title>
-        <id>69458cd3b6f1f6f9219e5bf5</id>
-        <link href="https://www.freecodecamp.org/news/what-firewalls-really-do-and-why-every-network-still-needs-them/"/>
-        <updated>2025-12-19T17:35:15.000Z</updated>
-        <summary type="html"><![CDATA[Firewalls are one of the oldest tools in network security.  Many people think they are outdated or replaced by newer tools like endpoint security or cloud security platforms, but that’s not the case. Firewalls still play a critical role in protecting...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Real-time AI Gym Coach with Vision Agents]]></title>
-        <id>69458b6967b30377c55c8aa3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-real-time-ai-gym-coach-with-vision-agents/"/>
-        <updated>2025-12-19T17:29:13.000Z</updated>
-        <summary type="html"><![CDATA[Computer vision is transforming how people train, from at-home workouts to smart gym mirrors. Imagine walking into your home gym, turning on your camera, and having an AI coach that sees your movements, counts your reps, and corrects your form in rea...]]></summary>
-        <author>
-            <name>Ekemini Samuel</name>
         </author>
     </entry>
     <entry>
