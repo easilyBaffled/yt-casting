@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-06T00:37:51.983Z</id>
+    <id>urn:2026-01-07T00:36:28.613Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-06T00:37:51.983Z</updated>
+    <updated>2026-01-07T00:36:28.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Agentic AI Workflows]]></title>
+        <id>695d4359c1e4a2d9c18a0528</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-agentic-ai-workflows/"/>
+        <updated>2026-01-06T17:16:09.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build agentic AI workflows. We just posted a course on the freeCodeCamp.org YouTube channel that provides a comprehensive overview of agentic AI, defining agents as software entities that use LLMs to perceive environments, make decisions...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OAuth 2.0 Course for Beginners]]></title>
+        <id>695d42043e4222528514d287</id>
+        <link href="https://www.freecodecamp.org/news/oauth-2-course-for-beginners/"/>
+        <updated>2026-01-06T17:10:28.000Z</updated>
+        <summary type="html"><![CDATA[OAuth 2.0 is an industry-standard authorization framework allowing third-party apps to access user data on another service (like Google or Facebook) without sharing passwords, instead using temporary, limited-scope access tokens for delegated access,...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Music Production with FL Studio]]></title>
+        <id>695d4101b1490823e299f4ec</id>
+        <link href="https://www.freecodecamp.org/news/learn-music-production-with-fl-studio/"/>
+        <updated>2026-01-06T17:06:09.000Z</updated>
+        <summary type="html"><![CDATA[We just posted a comprehensive music production course on the freeCodeCamp.org YouTube channel that bridges the gap between basic theory and professional execution. Miguel guides you through the entire lifecycle of a song using tools like FL Studio. ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an Embeddable AI Chatbot Widget with Cloudflare Workers]]></title>
         <id>695bde18d63e0c63c9fefea8</id>
@@ -128,16 +158,6 @@ Thank You (2025 Edition) originally published on CSS-Tricks, which is part of th
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[freeCodeCamp's A1 Professional Chinese Curriculum (Beta) is Now Live]]></title>
-        <id>694968e875dd1910710dddef</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamps-a1-professional-chinese-curriculum-beta-is-now-live/"/>
-        <updated>2025-12-22T15:51:04.000Z</updated>
-        <summary type="html"><![CDATA[The freeCodeCamp community just published the introductory chapters of our new A1 Professional Chinese Curriculum. You can now get started learning Chinese with what’s already available. Each chapter includes hundreds of interactive tasks designed to...]]></summary>
-        <author>
-            <name>Nielda Karla</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[text-decoration-inset is Like Padding for Text Decorations]]></title>
         <id>https://css-tricks.com/?p=390681</id>
         <link href="https://css-tricks.com/text-decoration-inset-is-like-padding-for-text-decorations/"/>
@@ -146,26 +166,6 @@ Thank You (2025 Edition) originally published on CSS-Tricks, which is part of th
 text-decoration-inset is Like Padding for Text Decorations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test and Improve AI Applications with an Evaluation Flywheel]]></title>
-        <id>69491adc842069e2b48bbae7</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-and-improve-ai-applications-with-an-evaluation-flywheel/"/>
-        <updated>2025-12-22T10:18:04.000Z</updated>
-        <summary type="html"><![CDATA[In traditional programming, developers rely on unit tests to catch mistakes in applications. But when building AI products, that safety net doesn't exist. Responses can shift with model updates, data changes, and subtle fluctuations in prompts or ret...]]></summary>
-        <author>
-            <name>Yemi Ojedapo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp's New Relational Databases Certification is Now Live]]></title>
-        <id>694595068a4df0c53d579475</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamps-new-relational-databases-certification-is-now-live/"/>
-        <updated>2025-12-19T18:10:14.000Z</updated>
-        <summary type="html"><![CDATA[The freeCodeCamp community just published our new Relational Databases certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with h...]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
         </author>
     </entry>
     <entry>
@@ -328,16 +328,6 @@ Fit width text in 1 line of CSS originally published on CSS-Tricks, which is par
 That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Kevine Nzapdi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How UX Professionals Can Lead AI Strategy]]></title>
-        <id>https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/</id>
-        <link href="https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/"/>
-        <updated>2025-12-08T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
         </author>
     </entry>
 </feed>

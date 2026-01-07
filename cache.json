@@ -27,7 +27,7 @@
           "description": "This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-front-end (and a little CSS, of course) with us.\nThank You (2025 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/thank-you-2025-edition/",
           "publishedOn": "2025-12-23T15:52:53.000Z",
-          "wordCount": 3164,
+          "wordCount": 3187,
           "title": "Thank You (2025 Edition)",
           "enclosure": {
             "url": "http://css-tricks.com/wp-content/uploads/2025/12/almanac-scroll-animation.mov",
@@ -57,7 +57,7 @@
           "description": "It's settled! A new CSS display property keyword called grid-lanes will trigger a masonry layout mode.\nMasonry Layout is Now grid-lanes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/masonry-layout-is-now-grid-lanes/",
           "publishedOn": "2025-12-19T16:08:28.000Z",
-          "wordCount": 2733,
+          "wordCount": 2749,
           "title": "Masonry Layout is Now grid-lanes",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/05/css-masonry.png"
         },
@@ -189,7 +189,7 @@
           "description": "Whether 2026 has already begun as you’re reading this or you’re still waiting for the big countdown to start, how about some new wallpapers to get your desktop ready for the new year? We’ve got you covered.",
           "link": "https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/",
           "publishedOn": "2025-12-31T09:00:00.000Z",
-          "wordCount": 4443,
+          "wordCount": 4449,
           "title": "Countdown To New Adventures (January 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
@@ -219,7 +219,7 @@
           "description": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
           "link": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
           "publishedOn": "2025-12-23T10:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4640,
           "title": "Giving Users A Voice Through Virtual Personas",
           "enclosure": {
             "url": "http://files.smashing.media/articles/giving-users-voice-virtual-personas/giving-users-voice-virtual-personas.jpg",
@@ -249,7 +249,7 @@
           "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.",
           "link": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
           "publishedOn": "2025-12-17T10:00:00.000Z",
-          "wordCount": 4938,
+          "wordCount": 4950,
           "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg",
@@ -279,7 +279,7 @@
           "description": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.",
           "link": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
           "publishedOn": "2025-12-09T10:00:00.000Z",
-          "wordCount": 4603,
+          "wordCount": 4606,
           "title": "State, Logic, And Native Power: CSS Wrapped 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/state-logic-native-power-css-wrapped-2025/state-logic-native-power-css-wrapped-2025.jpg",
@@ -287,21 +287,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/state-logic-native-power-css-wrapped-2025/state-logic-native-power-css-wrapped-2025.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.",
-          "link": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
-          "publishedOn": "2025-12-08T08:00:00.000Z",
-          "wordCount": 4435,
-          "title": "How UX Professionals Can Lead AI Strategy",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg"
         }
       ]
     },
@@ -310,6 +295,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "695d4359c1e4a2d9c18a0528",
+          "author": "Beau Carnes",
+          "description": "Learn how to build agentic AI workflows. We just posted a course on the freeCodeCamp.org YouTube channel that provides a comprehensive overview of agentic AI, defining agents as software entities that use LLMs to perceive environments, make decisions...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-agentic-ai-workflows/",
+          "publishedOn": "2026-01-06T17:16:09.000Z",
+          "wordCount": 1220,
+          "title": "How to Build Agentic AI Workflows",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767719466805/ea83b0f9-fdba-418b-b6a8-f6be955ecc53.png"
+        },
+        {
+          "id": "695d42043e4222528514d287",
+          "author": "Beau Carnes",
+          "description": "OAuth 2.0 is an industry-standard authorization framework allowing third-party apps to access user data on another service (like Google or Facebook) without sharing passwords, instead using temporary, limited-scope access tokens for delegated access,...",
+          "link": "https://www.freecodecamp.org/news/oauth-2-course-for-beginners/",
+          "publishedOn": "2026-01-06T17:10:28.000Z",
+          "wordCount": 1013,
+          "title": "OAuth 2.0 Course for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767719400244/396c143c-d21a-409a-b315-6b58d120b44c.png"
+        },
+        {
+          "id": "695d4101b1490823e299f4ec",
+          "author": "Beau Carnes",
+          "description": "We just posted a comprehensive music production course on the freeCodeCamp.org YouTube channel that bridges the gap between basic theory and professional execution. Miguel guides you through the entire lifecycle of a song using tools like FL Studio. ...",
+          "link": "https://www.freecodecamp.org/news/learn-music-production-with-fl-studio/",
+          "publishedOn": "2026-01-06T17:06:09.000Z",
+          "wordCount": 1202,
+          "title": "Learn Music Production with FL Studio",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767718966641/3d1b66bc-19ad-4cdb-bcf9-9119c81f89f3.png"
+        },
         {
           "id": "695bde18d63e0c63c9fefea8",
           "author": "Mayur Vekariya",
@@ -379,36 +394,6 @@
           "wordCount": 1140,
           "title": "Build a Support Agent with Vercel AI SDK",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766507669760/bf3fe42c-d729-4b59-9eca-2677e1b49e2a.jpeg"
-        },
-        {
-          "id": "694968e875dd1910710dddef",
-          "author": "Nielda Karla",
-          "description": "The freeCodeCamp community just published the introductory chapters of our new A1 Professional Chinese Curriculum. You can now get started learning Chinese with what’s already available. Each chapter includes hundreds of interactive tasks designed to...",
-          "link": "https://www.freecodecamp.org/news/freecodecamps-a1-professional-chinese-curriculum-beta-is-now-live/",
-          "publishedOn": "2025-12-22T15:51:04.000Z",
-          "wordCount": 1662,
-          "title": "freeCodeCamp's A1 Professional Chinese Curriculum (Beta) is Now Live",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766435087990/bb79450c-7de2-4e74-9b21-55ff62320b10.png"
-        },
-        {
-          "id": "69491adc842069e2b48bbae7",
-          "author": "Yemi Ojedapo",
-          "description": "In traditional programming, developers rely on unit tests to catch mistakes in applications. But when building AI products, that safety net doesn't exist. Responses can shift with model updates, data changes, and subtle fluctuations in prompts or ret...",
-          "link": "https://www.freecodecamp.org/news/how-to-test-and-improve-ai-applications-with-an-evaluation-flywheel/",
-          "publishedOn": "2025-12-22T10:18:04.000Z",
-          "wordCount": 3925,
-          "title": "How to Test and Improve AI Applications with an Evaluation Flywheel",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766082262126/bc54e004-7acc-49fc-b228-24524f250427.png"
-        },
-        {
-          "id": "694595068a4df0c53d579475",
-          "author": "Jessica Wilkins",
-          "description": "The freeCodeCamp community just published our new Relational Databases certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with h...",
-          "link": "https://www.freecodecamp.org/news/freecodecamps-new-relational-databases-certification-is-now-live/",
-          "publishedOn": "2025-12-19T18:10:14.000Z",
-          "wordCount": 2750,
-          "title": "freeCodeCamp's New Relational Databases Certification is Now Live",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765839442063/a5db9c4a-cb34-468b-b097-e4257803c29d.png"
         }
       ]
     }
