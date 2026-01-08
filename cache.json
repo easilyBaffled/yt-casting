@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390960",
+          "author": "Sunkanmi Fafowora",
+          "description": "Have you ever struggled to style an element while it's being dragged? Sunkanmi explains some ways it could become easier in the future.\nFuture CSS: :drag (and Maybe ::dragged-image?) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/future-css-drag-and-maybe-dragged-image/",
+          "publishedOn": "2026-01-07T15:16:47.000Z",
+          "wordCount": 1767,
+          "title": "Future CSS: :drag (and Maybe ::dragged-image?)",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/Screenshot-2025-12-12-at-10.03.09-AM-scaled-e1765559057362.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=391298",
           "author": "Daniel Schwarz",
           "description": "2026 is almost upon us. I know we’re all itching to see the clock strike midnight (cue The Final Countdown by Europe), but not without recapping the best CSS-related things that happened over the last two weeks!\nWhat’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -165,16 +175,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/04/type-scale.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390475",
-          "author": "Kevine Nzapdi",
-          "description": "I would like to tell you what I learned from a five-year old child about HTML and CSS. It’s funny how explaining something you do almost naturally teaches you about yourself and what you take for granted.\nThat Time I Tried Explaining HTML and CSS to My 5-Year Old Niece originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/that-time-i-tried-explaining-html-and-css-to-my-5-year-old-niece/",
-          "publishedOn": "2025-12-08T14:45:43.000Z",
-          "wordCount": 3162,
-          "title": "That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/apple-css.webp"
         }
       ]
     },
@@ -184,12 +184,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
+          "author": "hello@smashingmagazine.com (Joas Pambou)",
+          "description": "Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without starting from scratch, and how the skills you already use, like problem-solving, communication, and empathy, can open new doors.",
+          "link": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
+          "publishedOn": "2026-01-07T10:00:00.000Z",
+          "wordCount": 5446,
+          "title": "Pivoting Your Career Without Starting From Scratch",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/pivoting-career-without-starting-from-scratch/pivoting-career-without-starting-from-scratch.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/pivoting-career-without-starting-from-scratch/pivoting-career-without-starting-from-scratch.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Whether 2026 has already begun as you’re reading this or you’re still waiting for the big countdown to start, how about some new wallpapers to get your desktop ready for the new year? We’ve got you covered.",
           "link": "https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/",
           "publishedOn": "2025-12-31T09:00:00.000Z",
-          "wordCount": 4449,
+          "wordCount": 4767,
           "title": "Countdown To New Adventures (January 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
@@ -219,7 +234,7 @@
           "description": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
           "link": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
           "publishedOn": "2025-12-23T10:00:00.000Z",
-          "wordCount": 4640,
+          "wordCount": 4648,
           "title": "Giving Users A Voice Through Virtual Personas",
           "enclosure": {
             "url": "http://files.smashing.media/articles/giving-users-voice-virtual-personas/giving-users-voice-virtual-personas.jpg",
@@ -249,7 +264,7 @@
           "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.",
           "link": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
           "publishedOn": "2025-12-17T10:00:00.000Z",
-          "wordCount": 4950,
+          "wordCount": 4948,
           "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg",
@@ -272,21 +287,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/accessible-ux-research-pre-release/accessible-ux-research-coming-soon-light-varnish-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
-          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
-          "description": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.",
-          "link": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
-          "publishedOn": "2025-12-09T10:00:00.000Z",
-          "wordCount": 4606,
-          "title": "State, Logic, And Native Power: CSS Wrapped 2025",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/state-logic-native-power-css-wrapped-2025/state-logic-native-power-css-wrapped-2025.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/state-logic-native-power-css-wrapped-2025/state-logic-native-power-css-wrapped-2025.jpg"
         }
       ]
     },
@@ -295,6 +295,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "695e974f4085b2f621c87405",
+          "author": "Anna Muzykina",
+          "description": "As a Flutter developer who’s building a cloud-based ecosystem for digital media lifecycle management, I’m constantly looking for ways to speed up the transition from idea to prototype. In November 2025, Google launched antigravity, a new interactive ...",
+          "link": "https://www.freecodecamp.org/news/build-an-ai-powered-flutter-app-with-google-antigravity/",
+          "publishedOn": "2026-01-07T17:26:39.000Z",
+          "wordCount": 4100,
+          "title": "How to Build an AI-Powered Flutter App with Google Antigravity: A Hands-On Tutorial",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767806742391/846769af-4cbe-482c-b884-8f9ca50d7456.png"
+        },
+        {
+          "id": "695e96b3ee29df356daaf7c0",
+          "author": "Emmanuel Etukudo",
+          "description": "Many developers think that “real-time” is about Websockets, Live data, or instant refreshes on web application dashboards. And although these concepts are closely related to what real-time means, the systems engineering definition is a bit different....",
+          "link": "https://www.freecodecamp.org/news/real-time-systems-for-web-developers-from-theory-to-a-live-go-react-app/",
+          "publishedOn": "2026-01-07T17:24:03.000Z",
+          "wordCount": 3839,
+          "title": "Real-Time Systems for Web Developers: From Theory to a Live Go + React App",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767748231282/074fcd8b-8808-4a3d-8c9c-17d5a7b388e6.png"
+        },
+        {
+          "id": "695db23365ab0e59d902fa64",
+          "author": "Manish Shivanandhan",
+          "description": "Every time you open a website, your device talks directly to another server on the internet.  Your IP address, location, and basic network details are visible to that server.  In many cases, this is fine. But there are situations where you may want m...",
+          "link": "https://www.freecodecamp.org/news/a-developers-guide-to-proxy-servers/",
+          "publishedOn": "2026-01-07T01:09:07.000Z",
+          "wordCount": 2268,
+          "title": "A Developer’s Guide to Proxy Servers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767748085260/ef495b53-f484-4f55-af29-57432aaf1dba.png"
+        },
+        {
+          "id": "695d974f512957bf332d653a",
+          "author": "Tiago Capelo Monteiro",
+          "description": "\"To understand is to perceive patterns.\" - Isaiah Berlin This is not a math book filled with complex formulas, theorems, and concepts that are hard to grasp. Instead, it’s a detailed guide where we’ll break complex ideas down into simpler terms. Eve...",
+          "link": "https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book/",
+          "publishedOn": "2026-01-06T23:14:23.000Z",
+          "wordCount": 22018,
+          "title": "The Math Behind Artificial Intelligence: A Guide to AI Foundations [Full Book]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767723634484/4748bd8a-26a1-4d9c-89c3-1a6d07bde69e.png"
+        },
         {
           "id": "695d4359c1e4a2d9c18a0528",
           "author": "Beau Carnes",
@@ -354,46 +394,6 @@
           "wordCount": 2316,
           "title": "How to Run a Docker Container in AWS Lambda",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766599506861/86c07e37-7838-4186-971e-29722ccec785.png"
-        },
-        {
-          "id": "694c23da6c9dee59dd506fea",
-          "author": "Ilyas Seisov",
-          "description": "Hi, I’m Ilyas. I’m a web developer, and this is my story about how I struggled with interviews for a long time and what finally helped me break through. I’ll talk about what failing basic interview questions taught me about recall, preparation, and s...",
-          "link": "https://www.freecodecamp.org/news/how-to-prepare-for-technical-job-interviews-based-on-my-experience-landing-a-job/",
-          "publishedOn": "2025-12-24T17:33:14.000Z",
-          "wordCount": 2452,
-          "title": "How to Prepare for Technical Job Interviews –  Based on My Experience Landing a Job",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766597367293/515dd71a-fb65-4508-bdd2-39b103ddb438.png"
-        },
-        {
-          "id": "694b1ba8c5784bd06a2425d7",
-          "author": "Quincy Larson",
-          "description": "2025 has been an amazing year for the global freeCodeCamp community. And we’re thrilled to cap it off with the launch of several Christmas Gifts for you: freeCodeCamp's Python certification freeCodeCamp's JavaScript certification (Version 10) free...",
-          "link": "https://www.freecodecamp.org/news/christmas-gifts-freecodecamp-community-2025/",
-          "publishedOn": "2025-12-23T22:46:00.000Z",
-          "wordCount": 2038,
-          "title": "Christmas gifts for you from the freeCodeCamp community: Learn Python, SQL, Spanish, and more",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766525007211/919f4a73-c6de-47b1-933c-3992a05050be.png"
-        },
-        {
-          "id": "694aca4b18de35b28c2daacb",
-          "author": "Atuoha Anthony",
-          "description": "In standard app development, the User Interface (UI) is static. You write code for a button, compile it, and it remains a button forever. GenUI flips this model on its head. With GenUI, Google’s Generative UI SDK, your application's interface becomes...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-genui-in-flutter-to-build-dynamic-ai-driven-interfaces/",
-          "publishedOn": "2025-12-23T16:58:51.000Z",
-          "wordCount": 6513,
-          "title": "How to Use GenUI in Flutter to Build Dynamic, AI-Driven Interfaces",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766509116517/64c3ad0a-9328-4731-8292-90cc7fdbb60b.png"
-        },
-        {
-          "id": "694ac4a879c823aae0f86bc9",
-          "author": "Beau Carnes",
-          "description": "Vercel AI SDK is a TypeScript-first toolkit for building AI features. It streamlines text generation, embeddings, and structured outputs. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you to use the Vercel AI SDK to ...",
-          "link": "https://www.freecodecamp.org/news/build-a-support-agent-with-vercel-ai-sdk/",
-          "publishedOn": "2025-12-23T16:34:48.000Z",
-          "wordCount": 1140,
-          "title": "Build a Support Agent with Vercel AI SDK",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766507669760/bf3fe42c-d729-4b59-9eca-2677e1b49e2a.jpeg"
         }
       ]
     }

@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-07T00:36:28.613Z</id>
+    <id>urn:2026-01-08T00:37:49.078Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-07T00:36:28.613Z</updated>
+    <updated>2026-01-08T00:37:49.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI-Powered Flutter App with Google Antigravity: A Hands-On Tutorial]]></title>
+        <id>695e974f4085b2f621c87405</id>
+        <link href="https://www.freecodecamp.org/news/build-an-ai-powered-flutter-app-with-google-antigravity/"/>
+        <updated>2026-01-07T17:26:39.000Z</updated>
+        <summary type="html"><![CDATA[As a Flutter developer who’s building a cloud-based ecosystem for digital media lifecycle management, I’m constantly looking for ways to speed up the transition from idea to prototype. In November 2025, Google launched antigravity, a new interactive ...]]></summary>
+        <author>
+            <name>Anna Muzykina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-Time Systems for Web Developers: From Theory to a Live Go + React App]]></title>
+        <id>695e96b3ee29df356daaf7c0</id>
+        <link href="https://www.freecodecamp.org/news/real-time-systems-for-web-developers-from-theory-to-a-live-go-react-app/"/>
+        <updated>2026-01-07T17:24:03.000Z</updated>
+        <summary type="html"><![CDATA[Many developers think that “real-time” is about Websockets, Live data, or instant refreshes on web application dashboards. And although these concepts are closely related to what real-time means, the systems engineering definition is a bit different....]]></summary>
+        <author>
+            <name>Emmanuel Etukudo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Future CSS: :drag (and Maybe ::dragged-image?)]]></title>
+        <id>https://css-tricks.com/?p=390960</id>
+        <link href="https://css-tricks.com/future-css-drag-and-maybe-dragged-image/"/>
+        <updated>2026-01-07T15:16:47.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever struggled to style an element while it's being dragged? Sunkanmi explains some ways it could become easier in the future.
+Future CSS: :drag (and Maybe ::dragged-image?) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pivoting Your Career Without Starting From Scratch]]></title>
+        <id>https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/</id>
+        <link href="https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/"/>
+        <updated>2026-01-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without starting from scratch, and how the skills you already use, like problem-solving, communication, and empathy, can open new doors.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joas Pambou)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Developer’s Guide to Proxy Servers]]></title>
+        <id>695db23365ab0e59d902fa64</id>
+        <link href="https://www.freecodecamp.org/news/a-developers-guide-to-proxy-servers/"/>
+        <updated>2026-01-07T01:09:07.000Z</updated>
+        <summary type="html"><![CDATA[Every time you open a website, your device talks directly to another server on the internet.  Your IP address, location, and basic network details are visible to that server.  In many cases, this is fine. But there are situations where you may want m...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Math Behind Artificial Intelligence: A Guide to AI Foundations [Full Book]]]></title>
+        <id>695d974f512957bf332d653a</id>
+        <link href="https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book/"/>
+        <updated>2026-01-06T23:14:23.000Z</updated>
+        <summary type="html"><![CDATA["To understand is to perceive patterns." - Isaiah Berlin This is not a math book filled with complex formulas, theorems, and concepts that are hard to grasp. Instead, it’s a detailed guide where we’ll break complex ideas down into simpler terms. Eve...]]></summary>
+        <author>
+            <name>Tiago Capelo Monteiro</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Agentic AI Workflows]]></title>
         <id>695d4359c1e4a2d9c18a0528</id>
@@ -94,46 +155,6 @@ What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the 
         <summary type="html"><![CDATA[While containers are quite lightweight and provide various benefits, it can be challenging to decide how best to deploy them. There are a number of ways to deploy and run Docker containers. But some are best for orchestrating and managing containers,...]]></summary>
         <author>
             <name>Agnes Olorundare</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Prepare for Technical Job Interviews –  Based on My Experience Landing a Job]]></title>
-        <id>694c23da6c9dee59dd506fea</id>
-        <link href="https://www.freecodecamp.org/news/how-to-prepare-for-technical-job-interviews-based-on-my-experience-landing-a-job/"/>
-        <updated>2025-12-24T17:33:14.000Z</updated>
-        <summary type="html"><![CDATA[Hi, I’m Ilyas. I’m a web developer, and this is my story about how I struggled with interviews for a long time and what finally helped me break through. I’ll talk about what failing basic interview questions taught me about recall, preparation, and s...]]></summary>
-        <author>
-            <name>Ilyas Seisov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christmas gifts for you from the freeCodeCamp community: Learn Python, SQL, Spanish, and more]]></title>
-        <id>694b1ba8c5784bd06a2425d7</id>
-        <link href="https://www.freecodecamp.org/news/christmas-gifts-freecodecamp-community-2025/"/>
-        <updated>2025-12-23T22:46:00.000Z</updated>
-        <summary type="html"><![CDATA[2025 has been an amazing year for the global freeCodeCamp community. And we’re thrilled to cap it off with the launch of several Christmas Gifts for you: freeCodeCamp's Python certification freeCodeCamp's JavaScript certification (Version 10) free...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use GenUI in Flutter to Build Dynamic, AI-Driven Interfaces]]></title>
-        <id>694aca4b18de35b28c2daacb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-genui-in-flutter-to-build-dynamic-ai-driven-interfaces/"/>
-        <updated>2025-12-23T16:58:51.000Z</updated>
-        <summary type="html"><![CDATA[In standard app development, the User Interface (UI) is static. You write code for a button, compile it, and it remains a button forever. GenUI flips this model on its head. With GenUI, Google’s Generative UI SDK, your application's interface becomes...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Support Agent with Vercel AI SDK]]></title>
-        <id>694ac4a879c823aae0f86bc9</id>
-        <link href="https://www.freecodecamp.org/news/build-a-support-agent-with-vercel-ai-sdk/"/>
-        <updated>2025-12-23T16:34:48.000Z</updated>
-        <summary type="html"><![CDATA[Vercel AI SDK is a TypeScript-first toolkit for building AI features. It streamlines text generation, embeddings, and structured outputs. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you to use the Vercel AI SDK to ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -307,27 +328,6 @@ CSS Wrapped 2025 originally published on CSS-Tricks, which is part of the Digita
 Fit width text in 1 line of CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State, Logic, And Native Power: CSS Wrapped 2025]]></title>
-        <id>https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/</id>
-        <link href="https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/"/>
-        <updated>2025-12-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece]]></title>
-        <id>https://css-tricks.com/?p=390475</id>
-        <link href="https://css-tricks.com/that-time-i-tried-explaining-html-and-css-to-my-5-year-old-niece/"/>
-        <updated>2025-12-08T14:45:43.000Z</updated>
-        <summary type="html"><![CDATA[I would like to tell you what I learned from a five-year old child about HTML and CSS. It’s funny how explaining something you do almost naturally teaches you about yourself and what you take for granted.
-That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Kevine Nzapdi</name>
         </author>
     </entry>
 </feed>
