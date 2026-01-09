@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-08T00:37:49.078Z</id>
+    <id>urn:2026-01-09T00:37:16.575Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-08T00:37:49.078Z</updated>
+    <updated>2026-01-09T00:37:16.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Not Be Overwhelmed by AI – A Developer’s Guide to Using AI Tools Effectively]]></title>
+        <id>695fd3ec01d33dbb4b94d8a9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-not-be-overwhelmed-by-ai/"/>
+        <updated>2026-01-08T15:57:32.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a developer, you’ll likely want to use AI to boost your productivity and help you save time on menial, repetitive tasks. And nearly every recruiter these days will expect you to understand how to work with AI tools effectively. But there’s ...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize React]]></title>
+        <id>695fce0e01d33dbb4b94d874</id>
+        <link href="https://www.freecodecamp.org/news/how-to-optimize-react/"/>
+        <updated>2026-01-08T15:32:30.000Z</updated>
+        <summary type="html"><![CDATA[React makes it easy to build UIs, but building fast React apps is a different skill altogether. We just posted a hands-on, real-world React Performance Optimization course on the freeCodeCamp.org YouTube channel. You’ll learn how React actually re-re...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penpot Is Experimenting With MCP Servers For AI-Powered Design Workflows]]></title>
+        <id>https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/</id>
+        <link href="https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/"/>
+        <updated>2026-01-08T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[Penpot](https://penpot.app/?utm_source=SmashingMagazine&utm_medium=Article&utm_campaign=MCPserver) is experimenting with MCP (Model Context Protocol) servers, which could lead to designers and developers being able to perform tasks in Penpot using AI that’s able to understand and interact with Penpot design files. Daniel Schwarz explains how [Penpot MCP](https://github.com/penpot/penpot-mcp) servers work, what they could mean for creating and managing designs in Penpot, and what you can do to help shape their development.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Daniel Schwarz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Neural Networks Work – Explained Using the Straight Line Equation y = ax + b]]></title>
+        <id>695ef4246f1bfe13bf31abe9</id>
+        <link href="https://www.freecodecamp.org/news/neural-networks-explained-using-y-ax-b/"/>
+        <updated>2026-01-08T00:02:44.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that every data scientist who builds a complex neural network starts with a fundamental question, “How does the output change when the input changes?“ A straight line equation y = ax+b answers it in the simplest way possible. y can incre...]]></summary>
+        <author>
+            <name>Samyukta Hegde</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an AI-Powered Flutter App with Google Antigravity: A Hands-On Tutorial]]></title>
         <id>695e974f4085b2f621c87405</id>
@@ -97,26 +137,6 @@ Future CSS: :drag (and Maybe ::dragged-image?) originally published on CSS-Trick
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build an Embeddable AI Chatbot Widget with Cloudflare Workers]]></title>
-        <id>695bde18d63e0c63c9fefea8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-embeddable-ai-chatbot-widget-with-cloudflare-workers/"/>
-        <updated>2026-01-05T15:51:52.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wanted to add an AI-powered chatbot to your website, like Intercom or Drift, without paying high monthly fees? In this tutorial, you'll learn how to build a fully functional, embeddable AI chatbot widget using Cloudflare's serverless st...]]></summary>
-        <author>
-            <name>Mayur Vekariya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Scatterplots and Model Data in R Using ggplot2]]></title>
-        <id>695ba922d307c8d32fc522ea</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-scatterplots-and-model-data-in-r/"/>
-        <updated>2026-01-05T12:05:54.000Z</updated>
-        <summary type="html"><![CDATA[You can use R as a powerful tool for data analysis, data visualization, and statistical modelling. In this guide, you’ll learn how to load real-world data into R, visualize patterns using ggplot2, build simple linear and logistic regression models, a...]]></summary>
-        <author>
-            <name>Tiffany Mojo Omondi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More]]></title>
         <id>https://css-tricks.com/?p=391298</id>
         <link href="https://css-tricks.com/whats-important-2/"/>
@@ -145,16 +165,6 @@ What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the 
         <summary type="html"><![CDATA[Practical UX guidelines to keep in mind for 466 million people who experience hearing loss. More design patterns in Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run a Docker Container in AWS Lambda]]></title>
-        <id>694c7990b7478745bce04604</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-a-docker-container-in-aws-lambda/"/>
-        <updated>2025-12-24T23:38:56.000Z</updated>
-        <summary type="html"><![CDATA[While containers are quite lightweight and provide various benefits, it can be challenging to decide how best to deploy them. There are a number of ways to deploy and run Docker containers. But some are best for orchestrating and managing containers,...]]></summary>
-        <author>
-            <name>Agnes Olorundare</name>
         </author>
     </entry>
     <entry>
@@ -295,39 +305,6 @@ What Else Could Container Queries… Query? originally published on CSS-Tricks, 
 Creating Scroll-Based Animations in Full view() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessible UX Research, eBook Now Available For Download]]></title>
-        <id>https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/</id>
-        <link href="https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/"/>
-        <updated>2025-12-09T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’ve got exciting news! eBook versions of “Accessible UX Research,” a new Smashing Book by Michele A. Williams, are now available for download! Which means soon the book will go to the printer. Order the eBook for instant download now or reserve your print copy at the presale price.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ari Stiles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Wrapped 2025]]></title>
-        <id>https://css-tricks.com/?p=390785</id>
-        <link href="https://css-tricks.com/css-wrapped-2025/"/>
-        <updated>2025-12-09T15:52:20.000Z</updated>
-        <summary type="html"><![CDATA[The Chrome Dev Team recaps the new CSS features that shipped in Google Chrome this past year in one amazingly designed webpage. They cover new functionality for creating more customizable components, next-gen interactions, and optimizing ergonomics.
-We’ve …
-CSS Wrapped 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fit width text in 1 line of CSS]]></title>
-        <id>https://css-tricks.com/?p=390777</id>
-        <link href="https://css-tricks.com/fit-width-text-in-1-line-of-css/"/>
-        <updated>2025-12-09T15:00:56.000Z</updated>
-        <summary type="html"><![CDATA[The Chrome team recently prototyped a working solution for fitting text to the width of a container in CSS using a text-grow property.
-Fit width text in 1 line of CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>

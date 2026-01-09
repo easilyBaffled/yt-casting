@@ -77,7 +77,7 @@
           "description": "Jelte Lagendijk built a Raycast extension for searching CSS-Tricks articles where you simply type and a get a solid set of real-time results.\nSearch CSS-Tricks Raycast Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/search-css-tricks-raycast-extension/",
           "publishedOn": "2025-12-18T15:34:23.000Z",
-          "wordCount": 1248,
+          "wordCount": 1282,
           "title": "Search CSS-Tricks Raycast Extension",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/raycast-extension.png"
         },
@@ -150,31 +150,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/scroll-animations-range-not-set.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390785",
-          "author": "Ryan Trimble",
-          "description": "The Chrome Dev Team recaps the new CSS features that shipped in Google Chrome this past year in one amazingly designed webpage. They cover new functionality for creating more customizable components, next-gen interactions, and optimizing ergonomics.\nWe’ve …\nCSS Wrapped 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-wrapped-2025/",
-          "publishedOn": "2025-12-09T15:52:20.000Z",
-          "wordCount": 1200,
-          "title": "CSS Wrapped 2025",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/chrome-wrapped-2025-scaled.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390777",
-          "author": "Geoff Graham",
-          "description": "The Chrome team recently prototyped a working solution for fitting text to the width of a container in CSS using a text-grow property.\nFit width text in 1 line of CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/fit-width-text-in-1-line-of-css/",
-          "publishedOn": "2025-12-09T15:00:56.000Z",
-          "wordCount": 1233,
-          "title": "Fit width text in 1 line of CSS",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/12/text-grow.mov",
-            "length": "19250189",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/04/type-scale.png"
         }
       ]
     },
@@ -183,6 +158,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/",
+          "author": "hello@smashingmagazine.com (Daniel Schwarz)",
+          "description": "[Penpot](https://penpot.app/?utm_source=SmashingMagazine&utm_medium=Article&utm_campaign=MCPserver) is experimenting with MCP (Model Context Protocol) servers, which could lead to designers and developers being able to perform tasks in Penpot using AI that’s able to understand and interact with Penpot design files. Daniel Schwarz explains how [Penpot MCP](https://github.com/penpot/penpot-mcp) servers work, what they could mean for creating and managing designs in Penpot, and what you can do to help shape their development.",
+          "link": "https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/",
+          "publishedOn": "2026-01-08T08:00:00.000Z",
+          "wordCount": 3830,
+          "title": "Penpot Is Experimenting With MCP Servers For AI-Powered Design Workflows",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/penpot-experimenting-mcp-servers-ai-powered-design-workflows/penpot-experimenting-mcp-servers-ai-powered-design-workflows.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/penpot-experimenting-mcp-servers-ai-powered-design-workflows/penpot-experimenting-mcp-servers-ai-powered-design-workflows.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
           "author": "hello@smashingmagazine.com (Joas Pambou)",
@@ -204,7 +194,7 @@
           "description": "Whether 2026 has already begun as you’re reading this or you’re still waiting for the big countdown to start, how about some new wallpapers to get your desktop ready for the new year? We’ve got you covered.",
           "link": "https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/",
           "publishedOn": "2025-12-31T09:00:00.000Z",
-          "wordCount": 4767,
+          "wordCount": 4762,
           "title": "Countdown To New Adventures (January 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
@@ -234,7 +224,7 @@
           "description": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
           "link": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
           "publishedOn": "2025-12-23T10:00:00.000Z",
-          "wordCount": 4648,
+          "wordCount": 4647,
           "title": "Giving Users A Voice Through Virtual Personas",
           "enclosure": {
             "url": "http://files.smashing.media/articles/giving-users-voice-virtual-personas/giving-users-voice-virtual-personas.jpg",
@@ -264,7 +254,7 @@
           "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.",
           "link": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
           "publishedOn": "2025-12-17T10:00:00.000Z",
-          "wordCount": 4948,
+          "wordCount": 4949,
           "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg",
@@ -272,21 +262,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/",
-          "author": "hello@smashingmagazine.com (Ari Stiles)",
-          "description": "We’ve got exciting news! eBook versions of “Accessible UX Research,” a new Smashing Book by Michele A. Williams, are now available for download! Which means soon the book will go to the printer. Order the eBook for instant download now or reserve your print copy at the presale price.",
-          "link": "https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/",
-          "publishedOn": "2025-12-09T16:00:00.000Z",
-          "wordCount": 4099,
-          "title": "Accessible UX Research, eBook Now Available For Download",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/accessible-ux-research-pre-release/accessible-ux-research-coming-soon-light-varnish-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/accessible-ux-research-pre-release/accessible-ux-research-coming-soon-light-varnish-opt.png"
         }
       ]
     },
@@ -295,6 +270,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "695fd3ec01d33dbb4b94d8a9",
+          "author": "Atuoha Anthony",
+          "description": "If you’re a developer, you’ll likely want to use AI to boost your productivity and help you save time on menial, repetitive tasks. And nearly every recruiter these days will expect you to understand how to work with AI tools effectively. But there’s ...",
+          "link": "https://www.freecodecamp.org/news/how-to-not-be-overwhelmed-by-ai/",
+          "publishedOn": "2026-01-08T15:57:32.000Z",
+          "wordCount": 5465,
+          "title": "How to Not Be Overwhelmed by AI – A Developer’s Guide to Using AI Tools Effectively",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767815506134/4a0a4e5a-ff09-4ebe-a62a-b29a8505edb4.png"
+        },
+        {
+          "id": "695fce0e01d33dbb4b94d874",
+          "author": "Beau Carnes",
+          "description": "React makes it easy to build UIs, but building fast React apps is a different skill altogether. We just posted a hands-on, real-world React Performance Optimization course on the freeCodeCamp.org YouTube channel. You’ll learn how React actually re-re...",
+          "link": "https://www.freecodecamp.org/news/how-to-optimize-react/",
+          "publishedOn": "2026-01-08T15:32:30.000Z",
+          "wordCount": 992,
+          "title": "How to Optimize React",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767886210356/5acb2070-3390-4982-8ca2-452043857d8e.png"
+        },
+        {
+          "id": "695ef4246f1bfe13bf31abe9",
+          "author": "Samyukta Hegde",
+          "description": "Did you know that every data scientist who builds a complex neural network starts with a fundamental question, “How does the output change when the input changes?“ A straight line equation y = ax+b answers it in the simplest way possible. y can incre...",
+          "link": "https://www.freecodecamp.org/news/neural-networks-explained-using-y-ax-b/",
+          "publishedOn": "2026-01-08T00:02:44.000Z",
+          "wordCount": 3899,
+          "title": "How Neural Networks Work – Explained Using the Straight Line Equation y = ax + b",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767800625537/5bb99a58-d247-4933-b60b-fd2c14651542.png"
+        },
         {
           "id": "695e974f4085b2f621c87405",
           "author": "Anna Muzykina",
@@ -364,36 +369,6 @@
           "wordCount": 1202,
           "title": "Learn Music Production with FL Studio",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767718966641/3d1b66bc-19ad-4cdb-bcf9-9119c81f89f3.png"
-        },
-        {
-          "id": "695bde18d63e0c63c9fefea8",
-          "author": "Mayur Vekariya",
-          "description": "Have you ever wanted to add an AI-powered chatbot to your website, like Intercom or Drift, without paying high monthly fees? In this tutorial, you'll learn how to build a fully functional, embeddable AI chatbot widget using Cloudflare's serverless st...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-embeddable-ai-chatbot-widget-with-cloudflare-workers/",
-          "publishedOn": "2026-01-05T15:51:52.000Z",
-          "wordCount": 4906,
-          "title": "How to Build an Embeddable AI Chatbot Widget with Cloudflare Workers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767626158079/0b9e58c9-9299-4342-8c97-1a2de185cc60.png"
-        },
-        {
-          "id": "695ba922d307c8d32fc522ea",
-          "author": "Tiffany Mojo Omondi",
-          "description": "You can use R as a powerful tool for data analysis, data visualization, and statistical modelling. In this guide, you’ll learn how to load real-world data into R, visualize patterns using ggplot2, build simple linear and logistic regression models, a...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-scatterplots-and-model-data-in-r/",
-          "publishedOn": "2026-01-05T12:05:54.000Z",
-          "wordCount": 2865,
-          "title": "How to Create Scatterplots and Model Data in R Using ggplot2",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767614352690/8b993426-f193-4ff3-b5ec-dd6dda11028e.png"
-        },
-        {
-          "id": "694c7990b7478745bce04604",
-          "author": "Agnes Olorundare",
-          "description": "While containers are quite lightweight and provide various benefits, it can be challenging to decide how best to deploy them. There are a number of ways to deploy and run Docker containers. But some are best for orchestrating and managing containers,...",
-          "link": "https://www.freecodecamp.org/news/how-to-run-a-docker-container-in-aws-lambda/",
-          "publishedOn": "2025-12-24T23:38:56.000Z",
-          "wordCount": 2316,
-          "title": "How to Run a Docker Container in AWS Lambda",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766599506861/86c07e37-7838-4186-971e-29722ccec785.png"
         }
       ]
     }
