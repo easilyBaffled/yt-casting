@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-09T00:37:16.575Z</id>
+    <id>urn:2026-01-10T00:36:32.722Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-09T00:37:16.575Z</updated>
+    <updated>2026-01-10T00:36:32.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an In-Memory Rate Limiter in Next.js]]></title>
+        <id>696155ea25d7491ccd74da74</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-in-memory-rate-limiter-in-nextjs/"/>
+        <updated>2026-01-09T19:24:26.000Z</updated>
+        <summary type="html"><![CDATA[An API rate limiter is a server-side component of a web service that limits the number of API requests a client can make to an endpoint within a period of time. For example, X (formerly known as Twitter) limits the number of tweets that a specific us...]]></summary>
+        <author>
+            <name>Orim Dominic Adah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First developer job at age 38 with lawyer turned software engineer Zubin Pratap [Podcast #203]]]></title>
+        <id>696118028d177346b8030c45</id>
+        <link href="https://www.freecodecamp.org/news/first-developer-job-at-age-38-with-lawyer-turned-software-engineer-zubin-pratap-podcast-203/"/>
+        <updated>2026-01-09T15:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Zubin Pratap, a software engineer and manager from Melbourne, Australia. After nearly two decades working as a corporate lawyer, he taught himself programming using freeCodeCamp.org. Within two years, he landed a job as...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Deploy an AI Agent with LangChain, FastAPI, and Sevalla]]></title>
+        <id>6960413b864205dd1936a070</id>
+        <link href="https://www.freecodecamp.org/news/build-ai-agent-with-langchain-fastapi-and-sevalla/"/>
+        <updated>2026-01-08T23:43:55.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence is changing how we build software. Just a few years ago, writing code that could talk, decide, or use external data felt hard. Today, thanks to new tools, developers can build smart agents that read messages, reason about them...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen3 vs GPT-5.2 vs Gemini 3 Pro: Which Should You Use and When?]]></title>
+        <id>69603fa35fca2eedc43563d3</id>
+        <link href="https://www.freecodecamp.org/news/qwen-vs-gpt-vs-gemini-which-should-you-use/"/>
+        <updated>2026-01-08T23:37:07.000Z</updated>
+        <summary type="html"><![CDATA[A few years back, choosing an AI model was simple. You pick the most capable one you can afford and move on. But today, that approach no longer works. Today, teams use AI across many parts of a system. Customer-facing features. Internal tooling. Rese...]]></summary>
+        <author>
+            <name>Oyedele Tioluwani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your First Shopify App: A Beginner’s Guide]]></title>
+        <id>696023bf8de30d6097e30e99</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-first-shopify-app-a-beginners-guide/"/>
+        <updated>2026-01-08T21:38:07.000Z</updated>
+        <summary type="html"><![CDATA[Shopify powers more than a million online stores around the world.  Many store features you see every day, such as discounts, bundles, and order fulfillment are built using apps. These apps are created by developers to extend Shopify and solve real p...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Not Be Overwhelmed by AI – A Developer’s Guide to Using AI Tools Effectively]]></title>
         <id>695fd3ec01d33dbb4b94d8a9</id>
@@ -84,56 +134,6 @@ Future CSS: :drag (and Maybe ::dragged-image?) originally published on CSS-Trick
         <summary type="html"><![CDATA[Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without starting from scratch, and how the skills you already use, like problem-solving, communication, and empathy, can open new doors.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joas Pambou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Developer’s Guide to Proxy Servers]]></title>
-        <id>695db23365ab0e59d902fa64</id>
-        <link href="https://www.freecodecamp.org/news/a-developers-guide-to-proxy-servers/"/>
-        <updated>2026-01-07T01:09:07.000Z</updated>
-        <summary type="html"><![CDATA[Every time you open a website, your device talks directly to another server on the internet.  Your IP address, location, and basic network details are visible to that server.  In many cases, this is fine. But there are situations where you may want m...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Math Behind Artificial Intelligence: A Guide to AI Foundations [Full Book]]]></title>
-        <id>695d974f512957bf332d653a</id>
-        <link href="https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book/"/>
-        <updated>2026-01-06T23:14:23.000Z</updated>
-        <summary type="html"><![CDATA["To understand is to perceive patterns." - Isaiah Berlin This is not a math book filled with complex formulas, theorems, and concepts that are hard to grasp. Instead, it’s a detailed guide where we’ll break complex ideas down into simpler terms. Eve...]]></summary>
-        <author>
-            <name>Tiago Capelo Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Agentic AI Workflows]]></title>
-        <id>695d4359c1e4a2d9c18a0528</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-agentic-ai-workflows/"/>
-        <updated>2026-01-06T17:16:09.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to build agentic AI workflows. We just posted a course on the freeCodeCamp.org YouTube channel that provides a comprehensive overview of agentic AI, defining agents as software entities that use LLMs to perceive environments, make decisions...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OAuth 2.0 Course for Beginners]]></title>
-        <id>695d42043e4222528514d287</id>
-        <link href="https://www.freecodecamp.org/news/oauth-2-course-for-beginners/"/>
-        <updated>2026-01-06T17:10:28.000Z</updated>
-        <summary type="html"><![CDATA[OAuth 2.0 is an industry-standard authorization framework allowing third-party apps to access user data on another service (like Google or Facebook) without sharing passwords, instead using temporary, limited-scope access tokens for delegated access,...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Music Production with FL Studio]]></title>
-        <id>695d4101b1490823e299f4ec</id>
-        <link href="https://www.freecodecamp.org/news/learn-music-production-with-fl-studio/"/>
-        <updated>2026-01-06T17:06:09.000Z</updated>
-        <summary type="html"><![CDATA[We just posted a comprehensive music production course on the freeCodeCamp.org YouTube channel that bridges the gap between basic theory and professional execution. Miguel guides you through the entire lifecycle of a song using tools like FL Studio. ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -294,17 +294,6 @@ Responsive List of Avatars Using Modern CSS (Part 1) originally published on CSS
 What Else Could Container Queries… Query? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Scroll-Based Animations in Full view()]]></title>
-        <id>https://css-tricks.com/?p=390516</id>
-        <link href="https://css-tricks.com/creating-scroll-based-animations-in-full-view/"/>
-        <updated>2025-12-10T15:04:08.000Z</updated>
-        <summary type="html"><![CDATA[It’s not that hard to do! Preethi shows you how it's really the same old animation you’re used to writing in CSS, only applied on a view timeline instead of a normal timeline.
-Creating Scroll-Based Animations in Full view() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
 </feed>

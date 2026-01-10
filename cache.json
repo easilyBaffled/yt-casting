@@ -17,7 +17,7 @@
           "description": "Have you ever struggled to style an element while it's being dragged? Sunkanmi explains some ways it could become easier in the future.\nFuture CSS: :drag (and Maybe ::dragged-image?) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/future-css-drag-and-maybe-dragged-image/",
           "publishedOn": "2026-01-07T15:16:47.000Z",
-          "wordCount": 1767,
+          "wordCount": 1896,
           "title": "Future CSS: :drag (and Maybe ::dragged-image?)",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/Screenshot-2025-12-12-at-10.03.09-AM-scaled-e1765559057362.png"
         },
@@ -27,7 +27,7 @@
           "description": "2026 is almost upon us. I know we’re all itching to see the clock strike midnight (cue The Final Countdown by Europe), but not without recapping the best CSS-related things that happened over the last two weeks!\nWhat’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/whats-important-2/",
           "publishedOn": "2025-12-31T16:18:23.000Z",
-          "wordCount": 2059,
+          "wordCount": 2056,
           "title": "What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/wi-2.png"
         },
@@ -37,7 +37,7 @@
           "description": "This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-front-end (and a little CSS, of course) with us.\nThank You (2025 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/thank-you-2025-edition/",
           "publishedOn": "2025-12-23T15:52:53.000Z",
-          "wordCount": 3187,
+          "wordCount": 3184,
           "title": "Thank You (2025 Edition)",
           "enclosure": {
             "url": "http://css-tricks.com/wp-content/uploads/2025/12/almanac-scroll-animation.mov",
@@ -52,7 +52,7 @@
           "description": "The text-decoration-inset property solves a problem that we’ve had since the beginning of the web, which is that text decorations such as underlines extend beyond the first and last characters, resulting in vertical misalignment.\ntext-decoration-inset is Like Padding for Text Decorations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/text-decoration-inset-is-like-padding-for-text-decorations/",
           "publishedOn": "2025-12-22T14:39:52.000Z",
-          "wordCount": 1951,
+          "wordCount": 1948,
           "title": "text-decoration-inset is Like Padding for Text Decorations",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2025/12/Screen-Recording-2025-12-05-at-9.32.03-AM.mp4",
@@ -67,7 +67,7 @@
           "description": "It's settled! A new CSS display property keyword called grid-lanes will trigger a masonry layout mode.\nMasonry Layout is Now grid-lanes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/masonry-layout-is-now-grid-lanes/",
           "publishedOn": "2025-12-19T16:08:28.000Z",
-          "wordCount": 2749,
+          "wordCount": 2746,
           "title": "Masonry Layout is Now grid-lanes",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/05/css-masonry.png"
         },
@@ -77,7 +77,7 @@
           "description": "Jelte Lagendijk built a Raycast extension for searching CSS-Tricks articles where you simply type and a get a solid set of real-time results.\nSearch CSS-Tricks Raycast Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/search-css-tricks-raycast-extension/",
           "publishedOn": "2025-12-18T15:34:23.000Z",
-          "wordCount": 1282,
+          "wordCount": 1279,
           "title": "Search CSS-Tricks Raycast Extension",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/raycast-extension.png"
         },
@@ -87,7 +87,7 @@
           "description": "In this article, we follow up the work we did to create responsive rows of circular images in a previous article by arranging the images around a circle with a clean hover effect.\nResponsive List of Avatars Using Modern CSS (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-2/",
           "publishedOn": "2025-12-17T15:21:34.000Z",
-          "wordCount": 3272,
+          "wordCount": 3269,
           "title": "Responsive List of Avatars Using Modern CSS (Part 2)",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/luZQsrO2qg-1070.png"
         },
@@ -97,7 +97,7 @@
           "description": "The best CSS news from around the web from the last two weeks. In this edition: advent calendars, CSS Wrapped 2025, and the latest Web Platform Updates.\nWhat’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/whats-important-1/",
           "publishedOn": "2025-12-16T17:03:46.000Z",
-          "wordCount": 1726,
+          "wordCount": 1723,
           "title": "What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/css-wrapped.png"
         },
@@ -107,7 +107,7 @@
           "description": "Andy Clarke with a brand-new resource. It generates the sort of fun typography that Andy commonly uses in his own work that's geared towards cartoon headings.\nToon Title Text Generator originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/toon-title-text-generator/",
           "publishedOn": "2025-12-15T17:55:55.000Z",
-          "wordCount": 1197,
+          "wordCount": 1194,
           "title": "Toon Title Text Generator",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/Screenshot-2025-12-15-at-10.45.29-AM.png"
         },
@@ -117,7 +117,7 @@
           "description": "A list of rounded images that slightly overlap each other is a classic web design pattern. The main idea is not complex, but the new thing is the responsive part. that dynamically adjusts the overlap between the images so they fit inside the container.\nResponsive List of Avatars Using Modern CSS (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-1/",
           "publishedOn": "2025-12-15T16:19:23.000Z",
-          "wordCount": 3389,
+          "wordCount": 3386,
           "title": "Responsive List of Avatars Using Modern CSS (Part 1)",
           "enclosure": {
             "url": "http://css-tricks.com/wp-content/uploads/2025/11/stacked-images-responsive-10.mov",
@@ -132,24 +132,9 @@
           "description": "How far can we really go with container queries? There are dozens of media queries now, so what if there were dozens of container queries as well? What could we use them for?\nWhat Else Could Container Queries… Query? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/what-else-could-container-queries-query/",
           "publishedOn": "2025-12-12T14:38:18.000Z",
-          "wordCount": 2193,
+          "wordCount": 2190,
           "title": "What Else Could Container Queries… Query?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/container-style-queries.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390516",
-          "author": "Preethi",
-          "description": "It’s not that hard to do! Preethi shows you how it's really the same old animation you’re used to writing in CSS, only applied on a view timeline instead of a normal timeline.\nCreating Scroll-Based Animations in Full view() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/creating-scroll-based-animations-in-full-view/",
-          "publishedOn": "2025-12-10T15:04:08.000Z",
-          "wordCount": 2413,
-          "title": "Creating Scroll-Based Animations in Full view()",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/11/scroll-animation-carousel.mov",
-            "length": "6975029",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/scroll-animations-range-not-set.png"
         }
       ]
     },
@@ -179,7 +164,7 @@
           "description": "Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without starting from scratch, and how the skills you already use, like problem-solving, communication, and empathy, can open new doors.",
           "link": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
           "publishedOn": "2026-01-07T10:00:00.000Z",
-          "wordCount": 5446,
+          "wordCount": 5438,
           "title": "Pivoting Your Career Without Starting From Scratch",
           "enclosure": {
             "url": "http://files.smashing.media/articles/pivoting-career-without-starting-from-scratch/pivoting-career-without-starting-from-scratch.jpg",
@@ -194,7 +179,7 @@
           "description": "Whether 2026 has already begun as you’re reading this or you’re still waiting for the big countdown to start, how about some new wallpapers to get your desktop ready for the new year? We’ve got you covered.",
           "link": "https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/",
           "publishedOn": "2025-12-31T09:00:00.000Z",
-          "wordCount": 4762,
+          "wordCount": 4864,
           "title": "Countdown To New Adventures (January 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
@@ -239,7 +224,7 @@
           "description": "Meet TARS — a simple, repeatable, and meaningful UX metric designed specifically to track the performance of product features. Upcoming part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).",
           "link": "https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/",
           "publishedOn": "2025-12-19T10:00:00.000Z",
-          "wordCount": 4051,
+          "wordCount": null,
           "title": "How To Measure The Impact Of Features",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-measure-impact-features-tars/how-measure-impact-features-tars.jpg",
@@ -254,7 +239,7 @@
           "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.",
           "link": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
           "publishedOn": "2025-12-17T10:00:00.000Z",
-          "wordCount": 4949,
+          "wordCount": 4941,
           "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg",
@@ -270,6 +255,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "696155ea25d7491ccd74da74",
+          "author": "Orim Dominic Adah",
+          "description": "An API rate limiter is a server-side component of a web service that limits the number of API requests a client can make to an endpoint within a period of time. For example, X (formerly known as Twitter) limits the number of tweets that a specific us...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-in-memory-rate-limiter-in-nextjs/",
+          "publishedOn": "2026-01-09T19:24:26.000Z",
+          "wordCount": 3796,
+          "title": "How to Build an In-Memory Rate Limiter in Next.js",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767981990510/95306973-8c9a-435b-936e-ae5476f600de.png"
+        },
+        {
+          "id": "696118028d177346b8030c45",
+          "author": "Beau Carnes",
+          "description": "Today Quincy Larson interviews Zubin Pratap, a software engineer and manager from Melbourne, Australia. After nearly two decades working as a corporate lawyer, he taught himself programming using freeCodeCamp.org. Within two years, he landed a job as...",
+          "link": "https://www.freecodecamp.org/news/first-developer-job-at-age-38-with-lawyer-turned-software-engineer-zubin-pratap-podcast-203/",
+          "publishedOn": "2026-01-09T15:00:18.000Z",
+          "wordCount": 1263,
+          "title": "First developer job at age 38 with lawyer turned software engineer Zubin Pratap [Podcast #203]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767924563409/5f3cd301-b57e-443d-9244-ecf59c4ba149.png"
+        },
+        {
+          "id": "6960413b864205dd1936a070",
+          "author": "Manish Shivanandhan",
+          "description": "Artificial intelligence is changing how we build software. Just a few years ago, writing code that could talk, decide, or use external data felt hard. Today, thanks to new tools, developers can build smart agents that read messages, reason about them...",
+          "link": "https://www.freecodecamp.org/news/build-ai-agent-with-langchain-fastapi-and-sevalla/",
+          "publishedOn": "2026-01-08T23:43:55.000Z",
+          "wordCount": 2249,
+          "title": "How to Build and Deploy an AI Agent with LangChain, FastAPI, and Sevalla",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767915474046/728b3bd5-2dfe-45a3-a2a9-c682e4719d7d.png"
+        },
+        {
+          "id": "69603fa35fca2eedc43563d3",
+          "author": "Oyedele Tioluwani",
+          "description": "A few years back, choosing an AI model was simple. You pick the most capable one you can afford and move on. But today, that approach no longer works. Today, teams use AI across many parts of a system. Customer-facing features. Internal tooling. Rese...",
+          "link": "https://www.freecodecamp.org/news/qwen-vs-gpt-vs-gemini-which-should-you-use/",
+          "publishedOn": "2026-01-08T23:37:07.000Z",
+          "wordCount": 4602,
+          "title": "Qwen3 vs GPT-5.2 vs Gemini 3 Pro: Which Should You Use and When?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767914942568/f7c7250c-661b-46f1-9436-f7e78ae7edd5.png"
+        },
+        {
+          "id": "696023bf8de30d6097e30e99",
+          "author": "Manish Shivanandhan",
+          "description": "Shopify powers more than a million online stores around the world.  Many store features you see every day, such as discounts, bundles, and order fulfillment are built using apps. These apps are created by developers to extend Shopify and solve real p...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-your-first-shopify-app-a-beginners-guide/",
+          "publishedOn": "2026-01-08T21:38:07.000Z",
+          "wordCount": 2285,
+          "title": "How to Build Your First Shopify App: A Beginner’s Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767908229340/434160c9-891e-46d9-82fe-905d1b5ef2cb.png"
+        },
         {
           "id": "695fd3ec01d33dbb4b94d8a9",
           "author": "Atuoha Anthony",
@@ -296,7 +331,7 @@
           "description": "Did you know that every data scientist who builds a complex neural network starts with a fundamental question, “How does the output change when the input changes?“ A straight line equation y = ax+b answers it in the simplest way possible. y can incre...",
           "link": "https://www.freecodecamp.org/news/neural-networks-explained-using-y-ax-b/",
           "publishedOn": "2026-01-08T00:02:44.000Z",
-          "wordCount": 3899,
+          "wordCount": 3907,
           "title": "How Neural Networks Work – Explained Using the Straight Line Equation y = ax + b",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767800625537/5bb99a58-d247-4933-b60b-fd2c14651542.png"
         },
@@ -319,56 +354,6 @@
           "wordCount": 3839,
           "title": "Real-Time Systems for Web Developers: From Theory to a Live Go + React App",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767748231282/074fcd8b-8808-4a3d-8c9c-17d5a7b388e6.png"
-        },
-        {
-          "id": "695db23365ab0e59d902fa64",
-          "author": "Manish Shivanandhan",
-          "description": "Every time you open a website, your device talks directly to another server on the internet.  Your IP address, location, and basic network details are visible to that server.  In many cases, this is fine. But there are situations where you may want m...",
-          "link": "https://www.freecodecamp.org/news/a-developers-guide-to-proxy-servers/",
-          "publishedOn": "2026-01-07T01:09:07.000Z",
-          "wordCount": 2268,
-          "title": "A Developer’s Guide to Proxy Servers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767748085260/ef495b53-f484-4f55-af29-57432aaf1dba.png"
-        },
-        {
-          "id": "695d974f512957bf332d653a",
-          "author": "Tiago Capelo Monteiro",
-          "description": "\"To understand is to perceive patterns.\" - Isaiah Berlin This is not a math book filled with complex formulas, theorems, and concepts that are hard to grasp. Instead, it’s a detailed guide where we’ll break complex ideas down into simpler terms. Eve...",
-          "link": "https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book/",
-          "publishedOn": "2026-01-06T23:14:23.000Z",
-          "wordCount": 22018,
-          "title": "The Math Behind Artificial Intelligence: A Guide to AI Foundations [Full Book]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767723634484/4748bd8a-26a1-4d9c-89c3-1a6d07bde69e.png"
-        },
-        {
-          "id": "695d4359c1e4a2d9c18a0528",
-          "author": "Beau Carnes",
-          "description": "Learn how to build agentic AI workflows. We just posted a course on the freeCodeCamp.org YouTube channel that provides a comprehensive overview of agentic AI, defining agents as software entities that use LLMs to perceive environments, make decisions...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-agentic-ai-workflows/",
-          "publishedOn": "2026-01-06T17:16:09.000Z",
-          "wordCount": 1220,
-          "title": "How to Build Agentic AI Workflows",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767719466805/ea83b0f9-fdba-418b-b6a8-f6be955ecc53.png"
-        },
-        {
-          "id": "695d42043e4222528514d287",
-          "author": "Beau Carnes",
-          "description": "OAuth 2.0 is an industry-standard authorization framework allowing third-party apps to access user data on another service (like Google or Facebook) without sharing passwords, instead using temporary, limited-scope access tokens for delegated access,...",
-          "link": "https://www.freecodecamp.org/news/oauth-2-course-for-beginners/",
-          "publishedOn": "2026-01-06T17:10:28.000Z",
-          "wordCount": 1013,
-          "title": "OAuth 2.0 Course for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767719400244/396c143c-d21a-409a-b315-6b58d120b44c.png"
-        },
-        {
-          "id": "695d4101b1490823e299f4ec",
-          "author": "Beau Carnes",
-          "description": "We just posted a comprehensive music production course on the freeCodeCamp.org YouTube channel that bridges the gap between basic theory and professional execution. Miguel guides you through the entire lifecycle of a song using tools like FL Studio. ...",
-          "link": "https://www.freecodecamp.org/news/learn-music-production-with-fl-studio/",
-          "publishedOn": "2026-01-06T17:06:09.000Z",
-          "wordCount": 1202,
-          "title": "Learn Music Production with FL Studio",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767718966641/3d1b66bc-19ad-4cdb-bcf9-9119c81f89f3.png"
         }
       ]
     }
