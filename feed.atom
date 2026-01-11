@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-10T00:36:32.722Z</id>
+    <id>urn:2026-01-11T00:41:22.266Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-10T00:36:32.722Z</updated>
+    <updated>2026-01-11T00:41:22.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Run an LLM Locally to Interact with Your Documents]]></title>
+        <id>69619f7198022932a4f500a0</id>
+        <link href="https://www.freecodecamp.org/news/run-an-llm-locally-to-interact-with-your-documents/"/>
+        <updated>2026-01-10T00:38:09.000Z</updated>
+        <summary type="html"><![CDATA[Most AI tools require you to send your prompts and files to third-party servers. That’s a non-starter if your data includes private journals, research notes, or sensitive business documents (contracts, board decks, HR files, financials). The good new...]]></summary>
+        <author>
+            <name>Zoe Isabel Senón</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Local-First CLI Financial Tracker with Rust [Full Handbook]]]></title>
+        <id>696183e6f3839d7c9a8133ff</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-local-first-cli-financial-tracker-with-rust/"/>
+        <updated>2026-01-09T22:40:38.000Z</updated>
+        <summary type="html"><![CDATA[Most financial apps store your sensitive data on remote servers. This requires you to trust a company with your records and rely on their service staying online. But if you build a local-first application, you can keep your data on your own machine i...]]></summary>
+        <author>
+            <name>Stephen Emmanuel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an In-Memory Rate Limiter in Next.js]]></title>
         <id>696155ea25d7491ccd74da74</id>
@@ -93,26 +113,6 @@
         <summary type="html"><![CDATA[Did you know that every data scientist who builds a complex neural network starts with a fundamental question, “How does the output change when the input changes?“ A straight line equation y = ax+b answers it in the simplest way possible. y can incre...]]></summary>
         <author>
             <name>Samyukta Hegde</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI-Powered Flutter App with Google Antigravity: A Hands-On Tutorial]]></title>
-        <id>695e974f4085b2f621c87405</id>
-        <link href="https://www.freecodecamp.org/news/build-an-ai-powered-flutter-app-with-google-antigravity/"/>
-        <updated>2026-01-07T17:26:39.000Z</updated>
-        <summary type="html"><![CDATA[As a Flutter developer who’s building a cloud-based ecosystem for digital media lifecycle management, I’m constantly looking for ways to speed up the transition from idea to prototype. In November 2025, Google launched antigravity, a new interactive ...]]></summary>
-        <author>
-            <name>Anna Muzykina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real-Time Systems for Web Developers: From Theory to a Live Go + React App]]></title>
-        <id>695e96b3ee29df356daaf7c0</id>
-        <link href="https://www.freecodecamp.org/news/real-time-systems-for-web-developers-from-theory-to-a-live-go-react-app/"/>
-        <updated>2026-01-07T17:24:03.000Z</updated>
-        <summary type="html"><![CDATA[Many developers think that “real-time” is about Websockets, Live data, or instant refreshes on web application dashboards. And although these concepts are closely related to what real-time means, the systems engineering definition is a bit different....]]></summary>
-        <author>
-            <name>Emmanuel Etukudo</name>
         </author>
     </entry>
     <entry>

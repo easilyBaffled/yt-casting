@@ -164,7 +164,7 @@
           "description": "Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without starting from scratch, and how the skills you already use, like problem-solving, communication, and empathy, can open new doors.",
           "link": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
           "publishedOn": "2026-01-07T10:00:00.000Z",
-          "wordCount": 5438,
+          "wordCount": 5437,
           "title": "Pivoting Your Career Without Starting From Scratch",
           "enclosure": {
             "url": "http://files.smashing.media/articles/pivoting-career-without-starting-from-scratch/pivoting-career-without-starting-from-scratch.jpg",
@@ -179,7 +179,7 @@
           "description": "Whether 2026 has already begun as you’re reading this or you’re still waiting for the big countdown to start, how about some new wallpapers to get your desktop ready for the new year? We’ve got you covered.",
           "link": "https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/",
           "publishedOn": "2025-12-31T09:00:00.000Z",
-          "wordCount": 4864,
+          "wordCount": 4765,
           "title": "Countdown To New Adventures (January 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
@@ -209,7 +209,7 @@
           "description": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
           "link": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
           "publishedOn": "2025-12-23T10:00:00.000Z",
-          "wordCount": 4647,
+          "wordCount": 4632,
           "title": "Giving Users A Voice Through Virtual Personas",
           "enclosure": {
             "url": "http://files.smashing.media/articles/giving-users-voice-virtual-personas/giving-users-voice-virtual-personas.jpg",
@@ -224,7 +224,7 @@
           "description": "Meet TARS — a simple, repeatable, and meaningful UX metric designed specifically to track the performance of product features. Upcoming part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).",
           "link": "https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/",
           "publishedOn": "2025-12-19T10:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4051,
           "title": "How To Measure The Impact Of Features",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-measure-impact-features-tars/how-measure-impact-features-tars.jpg",
@@ -239,7 +239,7 @@
           "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.",
           "link": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
           "publishedOn": "2025-12-17T10:00:00.000Z",
-          "wordCount": 4941,
+          "wordCount": 4944,
           "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg",
@@ -255,6 +255,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69619f7198022932a4f500a0",
+          "author": "Zoe Isabel Senón",
+          "description": "Most AI tools require you to send your prompts and files to third-party servers. That’s a non-starter if your data includes private journals, research notes, or sensitive business documents (contracts, board decks, HR files, financials). The good new...",
+          "link": "https://www.freecodecamp.org/news/run-an-llm-locally-to-interact-with-your-documents/",
+          "publishedOn": "2026-01-10T00:38:09.000Z",
+          "wordCount": 2346,
+          "title": "How to Run an LLM Locally to Interact with Your Documents",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767976983680/2e3671cd-4280-4a32-9508-47fe9c06ab22.png"
+        },
+        {
+          "id": "696183e6f3839d7c9a8133ff",
+          "author": "Stephen Emmanuel",
+          "description": "Most financial apps store your sensitive data on remote servers. This requires you to trust a company with your records and rely on their service staying online. But if you build a local-first application, you can keep your data on your own machine i...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-local-first-cli-financial-tracker-with-rust/",
+          "publishedOn": "2026-01-09T22:40:38.000Z",
+          "wordCount": 9506,
+          "title": "How to Build a Local-First CLI Financial Tracker with Rust [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767998415383/82c48f39-cd5e-4f66-af83-2b65bafccd65.png"
+        },
         {
           "id": "696155ea25d7491ccd74da74",
           "author": "Orim Dominic Adah",
@@ -334,26 +354,6 @@
           "wordCount": 3907,
           "title": "How Neural Networks Work – Explained Using the Straight Line Equation y = ax + b",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767800625537/5bb99a58-d247-4933-b60b-fd2c14651542.png"
-        },
-        {
-          "id": "695e974f4085b2f621c87405",
-          "author": "Anna Muzykina",
-          "description": "As a Flutter developer who’s building a cloud-based ecosystem for digital media lifecycle management, I’m constantly looking for ways to speed up the transition from idea to prototype. In November 2025, Google launched antigravity, a new interactive ...",
-          "link": "https://www.freecodecamp.org/news/build-an-ai-powered-flutter-app-with-google-antigravity/",
-          "publishedOn": "2026-01-07T17:26:39.000Z",
-          "wordCount": 4100,
-          "title": "How to Build an AI-Powered Flutter App with Google Antigravity: A Hands-On Tutorial",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767806742391/846769af-4cbe-482c-b884-8f9ca50d7456.png"
-        },
-        {
-          "id": "695e96b3ee29df356daaf7c0",
-          "author": "Emmanuel Etukudo",
-          "description": "Many developers think that “real-time” is about Websockets, Live data, or instant refreshes on web application dashboards. And although these concepts are closely related to what real-time means, the systems engineering definition is a bit different....",
-          "link": "https://www.freecodecamp.org/news/real-time-systems-for-web-developers-from-theory-to-a-live-go-react-app/",
-          "publishedOn": "2026-01-07T17:24:03.000Z",
-          "wordCount": 3839,
-          "title": "Real-Time Systems for Web Developers: From Theory to a Live Go + React App",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767748231282/074fcd8b-8808-4a3d-8c9c-17d5a7b388e6.png"
         }
       ]
     }
