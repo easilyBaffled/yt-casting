@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391345",
+          "author": "Lee Meyer",
+          "description": "Lee Meyer recently spoke at Web Directions Summit 2025. This is his experience, not only speaking at the event, but experiencing the event through the lens of anxiety and imposter syndrome.\nPostcard From Web Directions Dev Summit, 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/postcard-from-web-directions-dev-summit-2025/",
+          "publishedOn": "2026-01-12T14:54:32.000Z",
+          "wordCount": 4360,
+          "title": "Postcard From Web Directions Dev Summit, 2025",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/01/lee-meyer-web-directions-demo.mp4",
+            "length": "779557",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/lee-web-directions.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=390960",
           "author": "Sunkanmi Fafowora",
           "description": "Have you ever struggled to style an element while it's being dragged? Sunkanmi explains some ways it could become easier in the future.\nFuture CSS: :drag (and Maybe ::dragged-image?) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -37,7 +52,7 @@
           "description": "This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-front-end (and a little CSS, of course) with us.\nThank You (2025 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/thank-you-2025-edition/",
           "publishedOn": "2025-12-23T15:52:53.000Z",
-          "wordCount": 3184,
+          "wordCount": 3195,
           "title": "Thank You (2025 Edition)",
           "enclosure": {
             "url": "http://css-tricks.com/wp-content/uploads/2025/12/almanac-scroll-animation.mov",
@@ -134,6 +149,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/01/ux-product-designer-career-paths/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "How to shape your career path for 2026, with decision trees for designers and a UX skills self-assessment matrix. The only limits for tomorrow are the doubts we have today. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.",
+          "link": "https://smashingmagazine.com/2026/01/ux-product-designer-career-paths/",
+          "publishedOn": "2026-01-12T10:00:00.000Z",
+          "wordCount": 4382,
+          "title": "UX And Product Designer’s Career Paths In 2026",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/product-designer-career-paths/ux-product-designer-career-paths.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/product-designer-career-paths/ux-product-designer-career-paths.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/",
           "author": "hello@smashingmagazine.com (Daniel Schwarz)",
           "description": "[Penpot](https://penpot.app/?utm_source=SmashingMagazine&utm_medium=Article&utm_campaign=MCPserver) is experimenting with MCP (Model Context Protocol) servers, which could lead to designers and developers being able to perform tasks in Penpot using AI that’s able to understand and interact with Penpot design files. Daniel Schwarz explains how [Penpot MCP](https://github.com/penpot/penpot-mcp) servers work, what they could mean for creating and managing designs in Penpot, and what you can do to help shape their development.",
@@ -154,7 +184,7 @@
           "description": "Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without starting from scratch, and how the skills you already use, like problem-solving, communication, and empathy, can open new doors.",
           "link": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
           "publishedOn": "2026-01-07T10:00:00.000Z",
-          "wordCount": 5448,
+          "wordCount": 5441,
           "title": "Pivoting Your Career Without Starting From Scratch",
           "enclosure": {
             "url": "http://files.smashing.media/articles/pivoting-career-without-starting-from-scratch/pivoting-career-without-starting-from-scratch.jpg",
@@ -169,7 +199,7 @@
           "description": "Whether 2026 has already begun as you’re reading this or you’re still waiting for the big countdown to start, how about some new wallpapers to get your desktop ready for the new year? We’ve got you covered.",
           "link": "https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/",
           "publishedOn": "2025-12-31T09:00:00.000Z",
-          "wordCount": 4861,
+          "wordCount": 4754,
           "title": "Countdown To New Adventures (January 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
@@ -199,7 +229,7 @@
           "description": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
           "link": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
           "publishedOn": "2025-12-23T10:00:00.000Z",
-          "wordCount": 4637,
+          "wordCount": 4641,
           "title": "Giving Users A Voice Through Virtual Personas",
           "enclosure": {
             "url": "http://files.smashing.media/articles/giving-users-voice-virtual-personas/giving-users-voice-virtual-personas.jpg",
@@ -229,7 +259,7 @@
           "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.",
           "link": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
           "publishedOn": "2025-12-17T10:00:00.000Z",
-          "wordCount": 4939,
+          "wordCount": 4952,
           "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg",
@@ -245,6 +275,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "696535ad7a48c374647910f2",
+          "author": "Gabor Koos",
+          "description": "If you're learning Go and you’re already familiar with the idea of unit testing, the main challenge is usually not why to test, but how to test in Go. Go takes a deliberately minimal approach to testing. There are no built-in assertions, no annotatio...",
+          "link": "https://www.freecodecamp.org/news/unit-testing-in-go-a-beginners-guide/",
+          "publishedOn": "2026-01-12T17:55:57.000Z",
+          "wordCount": 4077,
+          "title": "Unit Testing in Go - A Beginner's Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768240528981/73c9c9f6-4942-4c39-9e62-87f540fd2233.png"
+        },
+        {
+          "id": "696535106ca3442fa7874d4b",
+          "author": "Tarun Singh",
+          "description": "Have you ever updated your backend API property name but neglected to also update the frontend? I'm sure you have. When this occurs, it leads to production crashes and unhappy customers, plus you've wasted your entire week fixing the problem. To reso...",
+          "link": "https://www.freecodecamp.org/news/type-safety-without-code-generation-using-trpc-and-hono/",
+          "publishedOn": "2026-01-12T17:53:20.000Z",
+          "wordCount": 2085,
+          "title": "How to Get Type Safety Without Code Generation Using tRPC and Hono",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768240380001/79d5aa1f-438e-4a1e-a072-3166b9a36333.png"
+        },
         {
           "id": "69619f7198022932a4f500a0",
           "author": "Zoe Isabel Senón",
@@ -324,26 +374,6 @@
           "wordCount": 5465,
           "title": "How to Not Be Overwhelmed by AI – A Developer’s Guide to Using AI Tools Effectively",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767815506134/4a0a4e5a-ff09-4ebe-a62a-b29a8505edb4.png"
-        },
-        {
-          "id": "695fce0e01d33dbb4b94d874",
-          "author": "Beau Carnes",
-          "description": "React makes it easy to build UIs, but building fast React apps is a different skill altogether. We just posted a hands-on, real-world React Performance Optimization course on the freeCodeCamp.org YouTube channel. You’ll learn how React actually re-re...",
-          "link": "https://www.freecodecamp.org/news/how-to-optimize-react/",
-          "publishedOn": "2026-01-08T15:32:30.000Z",
-          "wordCount": 992,
-          "title": "How to Optimize React",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767886210356/5acb2070-3390-4982-8ca2-452043857d8e.png"
-        },
-        {
-          "id": "695ef4246f1bfe13bf31abe9",
-          "author": "Samyukta Hegde",
-          "description": "Did you know that every data scientist who builds a complex neural network starts with a fundamental question, “How does the output change when the input changes?“ A straight line equation y = ax+b answers it in the simplest way possible. y can incre...",
-          "link": "https://www.freecodecamp.org/news/neural-networks-explained-using-y-ax-b/",
-          "publishedOn": "2026-01-08T00:02:44.000Z",
-          "wordCount": 3907,
-          "title": "How Neural Networks Work – Explained Using the Straight Line Equation y = ax + b",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767800625537/5bb99a58-d247-4933-b60b-fd2c14651542.png"
         }
       ]
     }

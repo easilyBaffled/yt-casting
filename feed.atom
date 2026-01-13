@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-12T00:39:24.366Z</id>
+    <id>urn:2026-01-13T00:33:02.483Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-12T00:39:24.366Z</updated>
+    <updated>2026-01-13T00:33:02.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unit Testing in Go - A Beginner's Guide]]></title>
+        <id>696535ad7a48c374647910f2</id>
+        <link href="https://www.freecodecamp.org/news/unit-testing-in-go-a-beginners-guide/"/>
+        <updated>2026-01-12T17:55:57.000Z</updated>
+        <summary type="html"><![CDATA[If you're learning Go and you’re already familiar with the idea of unit testing, the main challenge is usually not why to test, but how to test in Go. Go takes a deliberately minimal approach to testing. There are no built-in assertions, no annotatio...]]></summary>
+        <author>
+            <name>Gabor Koos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Type Safety Without Code Generation Using tRPC and Hono]]></title>
+        <id>696535106ca3442fa7874d4b</id>
+        <link href="https://www.freecodecamp.org/news/type-safety-without-code-generation-using-trpc-and-hono/"/>
+        <updated>2026-01-12T17:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever updated your backend API property name but neglected to also update the frontend? I'm sure you have. When this occurs, it leads to production crashes and unhappy customers, plus you've wasted your entire week fixing the problem. To reso...]]></summary>
+        <author>
+            <name>Tarun Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postcard From Web Directions Dev Summit, 2025]]></title>
+        <id>https://css-tricks.com/?p=391345</id>
+        <link href="https://css-tricks.com/postcard-from-web-directions-dev-summit-2025/"/>
+        <updated>2026-01-12T14:54:32.000Z</updated>
+        <summary type="html"><![CDATA[Lee Meyer recently spoke at Web Directions Summit 2025. This is his experience, not only speaking at the event, but experiencing the event through the lens of anxiety and imposter syndrome.
+Postcard From Web Directions Dev Summit, 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UX And Product Designer’s Career Paths In 2026]]></title>
+        <id>https://smashingmagazine.com/2026/01/ux-product-designer-career-paths/</id>
+        <link href="https://smashingmagazine.com/2026/01/ux-product-designer-career-paths/"/>
+        <updated>2026-01-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to shape your career path for 2026, with decision trees for designers and a UX skills self-assessment matrix. The only limits for tomorrow are the doubts we have today. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Run an LLM Locally to Interact with Your Documents]]></title>
         <id>69619f7198022932a4f500a0</id>
@@ -86,16 +127,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Optimize React]]></title>
-        <id>695fce0e01d33dbb4b94d874</id>
-        <link href="https://www.freecodecamp.org/news/how-to-optimize-react/"/>
-        <updated>2026-01-08T15:32:30.000Z</updated>
-        <summary type="html"><![CDATA[React makes it easy to build UIs, but building fast React apps is a different skill altogether. We just posted a hands-on, real-world React Performance Optimization course on the freeCodeCamp.org YouTube channel. You’ll learn how React actually re-re...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Penpot Is Experimenting With MCP Servers For AI-Powered Design Workflows]]></title>
         <id>https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/</id>
         <link href="https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/"/>
@@ -103,16 +134,6 @@
         <summary type="html"><![CDATA[[Penpot](https://penpot.app/?utm_source=SmashingMagazine&utm_medium=Article&utm_campaign=MCPserver) is experimenting with MCP (Model Context Protocol) servers, which could lead to designers and developers being able to perform tasks in Penpot using AI that’s able to understand and interact with Penpot design files. Daniel Schwarz explains how [Penpot MCP](https://github.com/penpot/penpot-mcp) servers work, what they could mean for creating and managing designs in Penpot, and what you can do to help shape their development.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Daniel Schwarz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Neural Networks Work – Explained Using the Straight Line Equation y = ax + b]]></title>
-        <id>695ef4246f1bfe13bf31abe9</id>
-        <link href="https://www.freecodecamp.org/news/neural-networks-explained-using-y-ax-b/"/>
-        <updated>2026-01-08T00:02:44.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that every data scientist who builds a complex neural network starts with a fundamental question, “How does the output change when the input changes?“ A straight line equation y = ax+b answers it in the simplest way possible. y can incre...]]></summary>
-        <author>
-            <name>Samyukta Hegde</name>
         </author>
     </entry>
     <entry>
