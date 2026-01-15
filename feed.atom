@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-14T00:38:05.288Z</id>
+    <id>urn:2026-01-15T00:34:49.246Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-14T00:38:05.288Z</updated>
+    <updated>2026-01-15T00:34:49.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use the tailwind-sidebar NPM Package in Your React and Next.js Apps]]></title>
+        <id>6967d8278e420016a8b8a729</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-tailwind-sidebar-npm-package-in-react-nextjs/"/>
+        <updated>2026-01-14T17:53:43.000Z</updated>
+        <summary type="html"><![CDATA[These days, developers are increasingly preferring utility-first CSS frameworks like Tailwind CSS to help them build fast, scalable, and highly customizable user interfaces. In this article, you’ll learn what the tailwind-sidebar NPM package is, how ...]]></summary>
+        <author>
+            <name>Hitesh Chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Stop Managing Kafka Manually – A Guide to Kafka UI and Cruise Control]]></title>
+        <id>6967bd3e7b94dad713ce9fae</id>
+        <link href="https://www.freecodecamp.org/news/stop-managing-kafka-manually-a-guide-to-kafka-ui-and-cruise-control/"/>
+        <updated>2026-01-14T15:58:54.000Z</updated>
+        <summary type="html"><![CDATA[Over 80% of Fortune 100 companies use Apache Kafka. That's not surprising, as Kafka has revolutionized how we build real-time data pipelines and streaming applications. If you're working in software engineering today, chances are you've encountered K...]]></summary>
+        <author>
+            <name>Ramesh Sinha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the NixOS Linux Distro – A Tutorial for Developers]]></title>
+        <id>6967bce8f1306e271c8038cf</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-nixos-linux-distro-a-tutorial-for-developers/"/>
+        <updated>2026-01-14T15:57:28.000Z</updated>
+        <summary type="html"><![CDATA[NixOS is a Linux distribution based on the Nix package manager and the Nix language. It’s first stable release was in 2013, and it uses a declarative, reproducible system configuration that allows atomic upgrades and rollbacks. The Nix language is a ...]]></summary>
+        <author>
+            <name>Rajdeep Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playing With CodePen slideVars]]></title>
+        <id>https://css-tricks.com/?p=391494</id>
+        <link href="https://css-tricks.com/playing-with-codepen-slidevars/"/>
+        <updated>2026-01-14T14:59:07.000Z</updated>
+        <summary type="html"><![CDATA[Super cool new CodePen feature alert! You've probably seen a bunch of "interactive" demos that let you changed values on the fly from a UI panel embedded directly in the demo.
+Playing With CodePen slideVars originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Animations Part 8: Theming Animations Using CSS Relative Colour]]></title>
+        <id>https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/</id>
+        <link href="https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/"/>
+        <updated>2026-01-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Deploy a Blog-to-Audio Service Using OpenAI]]></title>
+        <id>69671ceac3577e1210128477</id>
+        <link href="https://www.freecodecamp.org/news/build-and-deploy-blog-to-audio-openai/"/>
+        <updated>2026-01-14T04:34:50.000Z</updated>
+        <summary type="html"><![CDATA[Turning written blog posts into audio is a simple way to reach more people. Many users prefer listening during travel or workouts. Others enjoy having both reading and listening options.  With OpenAI’s text-to-speech models, you can build a clean ser...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Work with the ORC File Format in Python – A Guide with Examples]]></title>
+        <id>6966f05c5adda8c9bd728d3b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-the-orc-file-format-in-python-a-guide-with-examples/"/>
+        <updated>2026-01-14T01:24:44.000Z</updated>
+        <summary type="html"><![CDATA[If you've worked with big data or analytics platforms, you've probably heard about ORC files. But what exactly are they, and how can you work with them in Python? In this tutorial, I'll walk you through the basics of reading, writing, and manipulatin...]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is Debugging Hard? How to Develop an Effective Debugging Mindset]]></title>
+        <id>6966f02a4a96d46c5a7981c0</id>
+        <link href="https://www.freecodecamp.org/news/why-is-debugging-hard-how-to-develop-an-effective-debugging-mindset/"/>
+        <updated>2026-01-14T01:23:54.000Z</updated>
+        <summary type="html"><![CDATA[For years, developers have been told that coding was their primary job. They were encouraged to write clean code, learn tools, understand frameworks, and ship features faster. But in the actual world of Software Engineering, especially in product-foc...]]></summary>
+        <author>
+            <name>Tapas Adhikary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unit Testing in Go - A Beginner's Guide]]></title>
         <id>696535ad7a48c374647910f2</id>
@@ -64,66 +145,6 @@ Postcard From Web Directions Dev Summit, 2025 originally published on CSS-Tricks
         <summary type="html"><![CDATA[Most financial apps store your sensitive data on remote servers. This requires you to trust a company with your records and rely on their service staying online. But if you build a local-first application, you can keep your data on your own machine i...]]></summary>
         <author>
             <name>Stephen Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an In-Memory Rate Limiter in Next.js]]></title>
-        <id>696155ea25d7491ccd74da74</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-in-memory-rate-limiter-in-nextjs/"/>
-        <updated>2026-01-09T19:24:26.000Z</updated>
-        <summary type="html"><![CDATA[An API rate limiter is a server-side component of a web service that limits the number of API requests a client can make to an endpoint within a period of time. For example, X (formerly known as Twitter) limits the number of tweets that a specific us...]]></summary>
-        <author>
-            <name>Orim Dominic Adah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First developer job at age 38 with lawyer turned software engineer Zubin Pratap [Podcast #203]]]></title>
-        <id>696118028d177346b8030c45</id>
-        <link href="https://www.freecodecamp.org/news/first-developer-job-at-age-38-with-lawyer-turned-software-engineer-zubin-pratap-podcast-203/"/>
-        <updated>2026-01-09T15:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Zubin Pratap, a software engineer and manager from Melbourne, Australia. After nearly two decades working as a corporate lawyer, he taught himself programming using freeCodeCamp.org. Within two years, he landed a job as...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build and Deploy an AI Agent with LangChain, FastAPI, and Sevalla]]></title>
-        <id>6960413b864205dd1936a070</id>
-        <link href="https://www.freecodecamp.org/news/build-ai-agent-with-langchain-fastapi-and-sevalla/"/>
-        <updated>2026-01-08T23:43:55.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence is changing how we build software. Just a few years ago, writing code that could talk, decide, or use external data felt hard. Today, thanks to new tools, developers can build smart agents that read messages, reason about them...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwen3 vs GPT-5.2 vs Gemini 3 Pro: Which Should You Use and When?]]></title>
-        <id>69603fa35fca2eedc43563d3</id>
-        <link href="https://www.freecodecamp.org/news/qwen-vs-gpt-vs-gemini-which-should-you-use/"/>
-        <updated>2026-01-08T23:37:07.000Z</updated>
-        <summary type="html"><![CDATA[A few years back, choosing an AI model was simple. You pick the most capable one you can afford and move on. But today, that approach no longer works. Today, teams use AI across many parts of a system. Customer-facing features. Internal tooling. Rese...]]></summary>
-        <author>
-            <name>Oyedele Tioluwani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your First Shopify App: A Beginner’s Guide]]></title>
-        <id>696023bf8de30d6097e30e99</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-your-first-shopify-app-a-beginners-guide/"/>
-        <updated>2026-01-08T21:38:07.000Z</updated>
-        <summary type="html"><![CDATA[Shopify powers more than a million online stores around the world.  Many store features you see every day, such as discounts, bundles, and order fulfillment are built using apps. These apps are created by developers to extend Shopify and solve real p...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Not Be Overwhelmed by AI – A Developer’s Guide to Using AI Tools Effectively]]></title>
-        <id>695fd3ec01d33dbb4b94d8a9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-not-be-overwhelmed-by-ai/"/>
-        <updated>2026-01-08T15:57:32.000Z</updated>
-        <summary type="html"><![CDATA[If you’re a developer, you’ll likely want to use AI to boost your productivity and help you save time on menial, repetitive tasks. And nearly every recruiter these days will expect you to understand how to work with AI tools effectively. But there’s ...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
         </author>
     </entry>
     <entry>
@@ -282,28 +303,6 @@ Responsive List of Avatars Using Modern CSS (Part 2) originally published on CSS
 What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toon Title Text Generator]]></title>
-        <id>https://css-tricks.com/?p=391095</id>
-        <link href="https://css-tricks.com/toon-title-text-generator/"/>
-        <updated>2025-12-15T17:55:55.000Z</updated>
-        <summary type="html"><![CDATA[Andy Clarke with a brand-new resource. It generates the sort of fun typography that Andy commonly uses in his own work that's geared towards cartoon headings.
-Toon Title Text Generator originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsive List of Avatars Using Modern CSS (Part 1)]]></title>
-        <id>https://css-tricks.com/?p=390560</id>
-        <link href="https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-1/"/>
-        <updated>2025-12-15T16:19:23.000Z</updated>
-        <summary type="html"><![CDATA[A list of rounded images that slightly overlap each other is a classic web design pattern. The main idea is not complex, but the new thing is the responsive part. that dynamically adjusts the overlap between the images so they fit inside the container.
-Responsive List of Avatars Using Modern CSS (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
 </feed>
