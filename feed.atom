@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-15T00:34:49.246Z</id>
+    <id>urn:2026-01-16T00:37:52.709Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-15T00:34:49.246Z</updated>
+    <updated>2026-01-16T00:37:52.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create Boxplots and Model Data in R Using ggplot2]]></title>
+        <id>69693680d6f0e208b327d21c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-boxplots-and-model-data-in-r/"/>
+        <updated>2026-01-15T18:48:32.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you’ll walk through a complete data analysis project using the HR Analytics dataset by Saad Haroon on Kaggle. You’ll start by loading and cleaning the data, then explore it visually using boxplots with ggplot2. Finally, you’ll learn...]]></summary>
+        <author>
+            <name>Tiffany Mojo Omondi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage Blue-Green Deployments on AWS ECS with Database Migrations: Complete Implementation Guide]]></title>
+        <id>69693109596ef11a775126fb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manage-blue-green-deployments-on-aws-ecs-with-database-migrations/"/>
+        <updated>2026-01-15T18:25:13.000Z</updated>
+        <summary type="html"><![CDATA[Blue-green deployments are celebrated for enabling zero-downtime releases and instant rollbacks. You deploy your new version (green) alongside the current one (blue), switch traffic over, and if something goes wrong, you switch back. Simple, right? N...]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your Own Kubernetes Operators with Go and Kubebuilder]]></title>
+        <id>696929962e8dfc11a91953f7</id>
+        <link href="https://www.freecodecamp.org/news/build-your-own-kubernetes-operators-with-go-and-kubebuilder/"/>
+        <updated>2026-01-15T17:53:26.000Z</updated>
+        <summary type="html"><![CDATA[We just posted a Kubernetes Operator course on the freeCodeCamp.org YouTube channel. You will learn how to extend Kubernetes by building your own custom operators and controllers from scratch. You’ll go beyond simply using Kubernetes and start treati...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose the Best GPU for Your AI Workloads]]></title>
+        <id>69691ef945288420c3465766</id>
+        <link href="https://www.freecodecamp.org/news/how-to-choose-the-best-gpu-for-your-ai-workloads/"/>
+        <updated>2026-01-15T17:08:09.000Z</updated>
+        <summary type="html"><![CDATA[Choosing a GPU for your AI workload shouldn't be complicated, but it often feels that way. You're weighing specs you don't fully understand, comparing prices that seem arbitrary, and wondering if you're about to waste thousands on GPUs you don't need...]]></summary>
+        <author>
+            <name>Daniel Adeboye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Cal Hacks 2025 – 36 Hours at the World's Largest Collegiate Hackathon]]></title>
+        <id>69690df3acc9251eeb2d4be0</id>
+        <link href="https://www.freecodecamp.org/news/inside-cal-hacks-2025-36-hours-at-the-worlds-largest-collegiate-hackathon/"/>
+        <updated>2026-01-15T15:55:31.000Z</updated>
+        <summary type="html"><![CDATA[What happens when you lock over 2,500 ambitious developers in a massive science museum for an entire weekend? We posted a documentary on the freeCodeCamp.org YouTube channel that takes you to the heart of Cal Hacks 2025, held at the iconic former Exp...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Benchmark Embedding Models On Your Own Data]]></title>
+        <id>69690c920df4a0e609c1db69</id>
+        <link href="https://www.freecodecamp.org/news/how-to-benchmark-embedding-models-on-your-own-data/"/>
+        <updated>2026-01-15T15:49:38.000Z</updated>
+        <summary type="html"><![CDATA[Finding the right embedding model for your specific data can often feel like guesswork, but it doesn't have to be. While generic benchmarks provide a baseline, they rarely reflect how a model will perform on your unique datasets and niche terminology...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More]]></title>
+        <id>https://css-tricks.com/?p=391542</id>
+        <link href="https://css-tricks.com/whats-important-3/"/>
+        <updated>2026-01-15T15:08:58.000Z</updated>
+        <summary type="html"><![CDATA[The developer community hasn’t wasted any time kicking off 2026 with some really great articles, demos, and insights. Firefox 147 and Chrome 144 also shipped, and while they’re not jam-packed with features, the releases are still pretty exciting for what’s normally a slow time of year, so without further ado, here’s what’s important from the last couple of weeks (or should I say the first couple of weeks, of 2026?)…
+What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Relational Database Constraints Work and Why They're Important]]></title>
+        <id>69681d224dcb07c08e435626</id>
+        <link href="https://www.freecodecamp.org/news/how-relational-database-constraints-work-and-why-theyre-important/"/>
+        <updated>2026-01-14T22:48:02.000Z</updated>
+        <summary type="html"><![CDATA[Databases are a crucial tool because they store the data that power our day-to-day lives. Databases are designed to match the real world as much as possible, so they store data of different forms, about different things, just as it is in the world. T...]]></summary>
+        <author>
+            <name>Zubair Idris Aweda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Payroll System with Express and Monnify Using Background Jobs]]></title>
+        <id>69680d9ead82a9267c20097d</id>
+        <link href="https://www.freecodecamp.org/news/build-a-payroll-system-with-express-and-monnify-using-background-jobs/"/>
+        <updated>2026-01-14T21:41:50.000Z</updated>
+        <summary type="html"><![CDATA[Processing payroll payments is an important operation for any business. When you need to pay employees simultaneously, you can't afford to have your server hang, get blocking errors, or timeout while waiting for each payment to complete. Building a p...]]></summary>
+        <author>
+            <name>David Aniebo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use the tailwind-sidebar NPM Package in Your React and Next.js Apps]]></title>
         <id>6967d8278e420016a8b8a729</id>
@@ -23,16 +114,6 @@
         <summary type="html"><![CDATA[Over 80% of Fortune 100 companies use Apache Kafka. That's not surprising, as Kafka has revolutionized how we build real-time data pipelines and streaming applications. If you're working in software engineering today, chances are you've encountered K...]]></summary>
         <author>
             <name>Ramesh Sinha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the NixOS Linux Distro – A Tutorial for Developers]]></title>
-        <id>6967bce8f1306e271c8038cf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-nixos-linux-distro-a-tutorial-for-developers/"/>
-        <updated>2026-01-14T15:57:28.000Z</updated>
-        <summary type="html"><![CDATA[NixOS is a Linux distribution based on the Nix package manager and the Nix language. It’s first stable release was in 2013, and it uses a declarative, reproducible system configuration that allows atomic upgrades and rollbacks. The Nix language is a ...]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
         </author>
     </entry>
     <entry>
@@ -57,56 +138,6 @@ Playing With CodePen slideVars originally published on CSS-Tricks, which is part
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build and Deploy a Blog-to-Audio Service Using OpenAI]]></title>
-        <id>69671ceac3577e1210128477</id>
-        <link href="https://www.freecodecamp.org/news/build-and-deploy-blog-to-audio-openai/"/>
-        <updated>2026-01-14T04:34:50.000Z</updated>
-        <summary type="html"><![CDATA[Turning written blog posts into audio is a simple way to reach more people. Many users prefer listening during travel or workouts. Others enjoy having both reading and listening options.  With OpenAI’s text-to-speech models, you can build a clean ser...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with the ORC File Format in Python – A Guide with Examples]]></title>
-        <id>6966f05c5adda8c9bd728d3b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-the-orc-file-format-in-python-a-guide-with-examples/"/>
-        <updated>2026-01-14T01:24:44.000Z</updated>
-        <summary type="html"><![CDATA[If you've worked with big data or analytics platforms, you've probably heard about ORC files. But what exactly are they, and how can you work with them in Python? In this tutorial, I'll walk you through the basics of reading, writing, and manipulatin...]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is Debugging Hard? How to Develop an Effective Debugging Mindset]]></title>
-        <id>6966f02a4a96d46c5a7981c0</id>
-        <link href="https://www.freecodecamp.org/news/why-is-debugging-hard-how-to-develop-an-effective-debugging-mindset/"/>
-        <updated>2026-01-14T01:23:54.000Z</updated>
-        <summary type="html"><![CDATA[For years, developers have been told that coding was their primary job. They were encouraged to write clean code, learn tools, understand frameworks, and ship features faster. But in the actual world of Software Engineering, especially in product-foc...]]></summary>
-        <author>
-            <name>Tapas Adhikary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unit Testing in Go - A Beginner's Guide]]></title>
-        <id>696535ad7a48c374647910f2</id>
-        <link href="https://www.freecodecamp.org/news/unit-testing-in-go-a-beginners-guide/"/>
-        <updated>2026-01-12T17:55:57.000Z</updated>
-        <summary type="html"><![CDATA[If you're learning Go and you’re already familiar with the idea of unit testing, the main challenge is usually not why to test, but how to test in Go. Go takes a deliberately minimal approach to testing. There are no built-in assertions, no annotatio...]]></summary>
-        <author>
-            <name>Gabor Koos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Type Safety Without Code Generation Using tRPC and Hono]]></title>
-        <id>696535106ca3442fa7874d4b</id>
-        <link href="https://www.freecodecamp.org/news/type-safety-without-code-generation-using-trpc-and-hono/"/>
-        <updated>2026-01-12T17:53:20.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever updated your backend API property name but neglected to also update the frontend? I'm sure you have. When this occurs, it leads to production crashes and unhappy customers, plus you've wasted your entire week fixing the problem. To reso...]]></summary>
-        <author>
-            <name>Tarun Singh</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Postcard From Web Directions Dev Summit, 2025]]></title>
         <id>https://css-tricks.com/?p=391345</id>
         <link href="https://css-tricks.com/postcard-from-web-directions-dev-summit-2025/"/>
@@ -125,26 +156,6 @@ Postcard From Web Directions Dev Summit, 2025 originally published on CSS-Tricks
         <summary type="html"><![CDATA[How to shape your career path for 2026, with decision trees for designers and a UX skills self-assessment matrix. The only limits for tomorrow are the doubts we have today. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run an LLM Locally to Interact with Your Documents]]></title>
-        <id>69619f7198022932a4f500a0</id>
-        <link href="https://www.freecodecamp.org/news/run-an-llm-locally-to-interact-with-your-documents/"/>
-        <updated>2026-01-10T00:38:09.000Z</updated>
-        <summary type="html"><![CDATA[Most AI tools require you to send your prompts and files to third-party servers. That’s a non-starter if your data includes private journals, research notes, or sensitive business documents (contracts, board decks, HR files, financials). The good new...]]></summary>
-        <author>
-            <name>Zoe Isabel Senón</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Local-First CLI Financial Tracker with Rust [Full Handbook]]]></title>
-        <id>696183e6f3839d7c9a8133ff</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-local-first-cli-financial-tracker-with-rust/"/>
-        <updated>2026-01-09T22:40:38.000Z</updated>
-        <summary type="html"><![CDATA[Most financial apps store your sensitive data on remote servers. This requires you to trust a company with your records and rely on their service staying online. But if you build a local-first application, you can keep your data on your own machine i...]]></summary>
-        <author>
-            <name>Stephen Emmanuel</name>
         </author>
     </entry>
     <entry>
@@ -282,27 +293,6 @@ Search CSS-Tricks Raycast Extension originally published on CSS-Tricks, which is
 Responsive List of Avatars Using Modern CSS (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Animations Part 7: Recreating Toon Text With CSS And SVG]]></title>
-        <id>https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/</id>
-        <link href="https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/"/>
-        <updated>2025-12-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More]]></title>
-        <id>https://css-tricks.com/?p=391134</id>
-        <link href="https://css-tricks.com/whats-important-1/"/>
-        <updated>2025-12-16T17:03:46.000Z</updated>
-        <summary type="html"><![CDATA[The best CSS news from around the web from the last two weeks. In this edition: advent calendars, CSS Wrapped 2025, and the latest Web Platform Updates.
-What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
