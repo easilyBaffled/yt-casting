@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-16T00:37:52.709Z</id>
+    <id>urn:2026-01-17T00:35:47.951Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-16T00:37:52.710Z</updated>
+    <updated>2026-01-17T00:35:47.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Decoupling Material and Cupertino in Flutter: Why It Matters and How to Adapt]]></title>
+        <id>696a86fae8c45c0f981bd180</id>
+        <link href="https://www.freecodecamp.org/news/decoupling-material-and-cupertino-in-flutter/"/>
+        <updated>2026-01-16T18:44:10.000Z</updated>
+        <summary type="html"><![CDATA[As Flutter developers, we know that Flutter’s “batteries included” philosophy has long been its superpower. Built on the simple premise to "paint every pixel," the framework shipped with everything needed to build a real app out of the box: a renderi...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Important Skills Going Forward with CTO + Homebrew Maintainer Mike McQuaid [Podcast #204]]]></title>
+        <id>696a527e680a393edd69ec79</id>
+        <link href="https://www.freecodecamp.org/news/the-most-important-skills-going-forward-with-cto-homebrew-maintainer-mike-mcquaid-podcast-204/"/>
+        <updated>2026-01-16T15:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Mike McQuaid. He's a software engineer who previously worked at GitHub, and now serves as lead maintainer of Homebrew, a Mac package manager used by tens of millions of developers. He's based in Edinburgh, Scottland. He...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create Boxplots and Model Data in R Using ggplot2]]></title>
         <id>69693680d6f0e208b327d21c</id>
@@ -46,7 +66,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inside Cal Hacks 2025 – 36 Hours at the World's Largest Collegiate Hackathon]]></title>
+        <title type="html"><![CDATA[Inside UC Berkeley's Cal Hacks – A Documentary About the World's Biggest Collegiate Hackathon]]></title>
         <id>69690df3acc9251eeb2d4be0</id>
         <link href="https://www.freecodecamp.org/news/inside-cal-hacks-2025-36-hours-at-the-worlds-largest-collegiate-hackathon/"/>
         <updated>2026-01-15T15:55:31.000Z</updated>
@@ -63,17 +83,6 @@
         <summary type="html"><![CDATA[Finding the right embedding model for your specific data can often feel like guesswork, but it doesn't have to be. While generic benchmarks provide a baseline, they rarely reflect how a model will perform on your unique datasets and niche terminology...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More]]></title>
-        <id>https://css-tricks.com/?p=391542</id>
-        <link href="https://css-tricks.com/whats-important-3/"/>
-        <updated>2026-01-15T15:08:58.000Z</updated>
-        <summary type="html"><![CDATA[The developer community hasn’t wasted any time kicking off 2026 with some really great articles, demos, and insights. Firefox 147 and Chrome 144 also shipped, and while they’re not jam-packed with features, the releases are still pretty exciting for what’s normally a slow time of year, so without further ado, here’s what’s important from the last couple of weeks (or should I say the first couple of weeks, of 2026?)…
-What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -97,37 +106,6 @@ What’s !important #3: Popover Context Menus, @scope, New Web Platform Features
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use the tailwind-sidebar NPM Package in Your React and Next.js Apps]]></title>
-        <id>6967d8278e420016a8b8a729</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-tailwind-sidebar-npm-package-in-react-nextjs/"/>
-        <updated>2026-01-14T17:53:43.000Z</updated>
-        <summary type="html"><![CDATA[These days, developers are increasingly preferring utility-first CSS frameworks like Tailwind CSS to help them build fast, scalable, and highly customizable user interfaces. In this article, you’ll learn what the tailwind-sidebar NPM package is, how ...]]></summary>
-        <author>
-            <name>Hitesh Chauhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Stop Managing Kafka Manually – A Guide to Kafka UI and Cruise Control]]></title>
-        <id>6967bd3e7b94dad713ce9fae</id>
-        <link href="https://www.freecodecamp.org/news/stop-managing-kafka-manually-a-guide-to-kafka-ui-and-cruise-control/"/>
-        <updated>2026-01-14T15:58:54.000Z</updated>
-        <summary type="html"><![CDATA[Over 80% of Fortune 100 companies use Apache Kafka. That's not surprising, as Kafka has revolutionized how we build real-time data pipelines and streaming applications. If you're working in software engineering today, chances are you've encountered K...]]></summary>
-        <author>
-            <name>Ramesh Sinha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playing With CodePen slideVars]]></title>
-        <id>https://css-tricks.com/?p=391494</id>
-        <link href="https://css-tricks.com/playing-with-codepen-slidevars/"/>
-        <updated>2026-01-14T14:59:07.000Z</updated>
-        <summary type="html"><![CDATA[Super cool new CodePen feature alert! You've probably seen a bunch of "interactive" demos that let you changed values on the fly from a UI panel embedded directly in the demo.
-Playing With CodePen slideVars originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Animations Part 8: Theming Animations Using CSS Relative Colour]]></title>
         <id>https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/</id>
         <link href="https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/"/>
@@ -135,17 +113,6 @@ Playing With CodePen slideVars originally published on CSS-Tricks, which is part
         <summary type="html"><![CDATA[CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postcard From Web Directions Dev Summit, 2025]]></title>
-        <id>https://css-tricks.com/?p=391345</id>
-        <link href="https://css-tricks.com/postcard-from-web-directions-dev-summit-2025/"/>
-        <updated>2026-01-12T14:54:32.000Z</updated>
-        <summary type="html"><![CDATA[Lee Meyer recently spoke at Web Directions Summit 2025. This is his experience, not only speaking at the event, but experiencing the event through the lens of anxiety and imposter syndrome.
-Postcard From Web Directions Dev Summit, 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
         </author>
     </entry>
     <entry>
@@ -169,17 +136,6 @@ Postcard From Web Directions Dev Summit, 2025 originally published on CSS-Tricks
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Future CSS: :drag (and Maybe ::dragged-image?)]]></title>
-        <id>https://css-tricks.com/?p=390960</id>
-        <link href="https://css-tricks.com/future-css-drag-and-maybe-dragged-image/"/>
-        <updated>2026-01-07T15:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever struggled to style an element while it's being dragged? Sunkanmi explains some ways it could become easier in the future.
-Future CSS: :drag (and Maybe ::dragged-image?) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pivoting Your Career Without Starting From Scratch]]></title>
         <id>https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/</id>
         <link href="https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/"/>
@@ -187,17 +143,6 @@ Future CSS: :drag (and Maybe ::dragged-image?) originally published on CSS-Trick
         <summary type="html"><![CDATA[Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without starting from scratch, and how the skills you already use, like problem-solving, communication, and empathy, can open new doors.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joas Pambou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More]]></title>
-        <id>https://css-tricks.com/?p=391298</id>
-        <link href="https://css-tricks.com/whats-important-2/"/>
-        <updated>2025-12-31T16:18:23.000Z</updated>
-        <summary type="html"><![CDATA[2026 is almost upon us. I know we’re all itching to see the clock strike midnight (cue The Final Countdown by Europe), but not without recapping the best CSS-related things that happened over the last two weeks!
-What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -221,17 +166,6 @@ What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thank You (2025 Edition)]]></title>
-        <id>https://css-tricks.com/?p=391203</id>
-        <link href="https://css-tricks.com/thank-you-2025-edition/"/>
-        <updated>2025-12-23T15:52:53.000Z</updated>
-        <summary type="html"><![CDATA[This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-front-end (and a little CSS, of course) with us.
-Thank You (2025 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Giving Users A Voice Through Virtual Personas]]></title>
         <id>https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/</id>
         <link href="https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/"/>
@@ -242,28 +176,6 @@ Thank You (2025 Edition) originally published on CSS-Tricks, which is part of th
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[text-decoration-inset is Like Padding for Text Decorations]]></title>
-        <id>https://css-tricks.com/?p=390681</id>
-        <link href="https://css-tricks.com/text-decoration-inset-is-like-padding-for-text-decorations/"/>
-        <updated>2025-12-22T14:39:52.000Z</updated>
-        <summary type="html"><![CDATA[The text-decoration-inset property solves a problem that we’ve had since the beginning of the web, which is that text decorations such as underlines extend beyond the first and last characters, resulting in vertical misalignment.
-text-decoration-inset is Like Padding for Text Decorations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Masonry Layout is Now grid-lanes]]></title>
-        <id>https://css-tricks.com/?p=390640</id>
-        <link href="https://css-tricks.com/masonry-layout-is-now-grid-lanes/"/>
-        <updated>2025-12-19T16:08:28.000Z</updated>
-        <summary type="html"><![CDATA[It's settled! A new CSS display property keyword called grid-lanes will trigger a masonry layout mode.
-Masonry Layout is Now grid-lanes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Measure The Impact Of Features]]></title>
         <id>https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/</id>
         <link href="https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/"/>
@@ -271,28 +183,6 @@ Masonry Layout is Now grid-lanes originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[Meet TARS — a simple, repeatable, and meaningful UX metric designed specifically to track the performance of product features. Upcoming part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Search CSS-Tricks Raycast Extension]]></title>
-        <id>https://css-tricks.com/?p=391171</id>
-        <link href="https://css-tricks.com/search-css-tricks-raycast-extension/"/>
-        <updated>2025-12-18T15:34:23.000Z</updated>
-        <summary type="html"><![CDATA[Jelte Lagendijk built a Raycast extension for searching CSS-Tricks articles where you simply type and a get a solid set of real-time results.
-Search CSS-Tricks Raycast Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsive List of Avatars Using Modern CSS (Part 2)]]></title>
-        <id>https://css-tricks.com/?p=390660</id>
-        <link href="https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-2/"/>
-        <updated>2025-12-17T15:21:34.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we follow up the work we did to create responsive rows of circular images in a previous article by arranging the images around a circle with a clean hover effect.
-Responsive List of Avatars Using Modern CSS (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
 </feed>
