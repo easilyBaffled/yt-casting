@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-17T00:35:47.951Z</id>
+    <id>urn:2026-01-18T00:41:07.710Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-17T00:35:47.951Z</updated>
+    <updated>2026-01-18T00:41:07.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a MERN Stack Notes App on AWS]]></title>
+        <id>696af32341a3a861f59ed367</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-mern-stack-notes-app-aws/"/>
+        <updated>2026-01-17T02:25:39.000Z</updated>
+        <summary type="html"><![CDATA[Platforms like Vercel, Netlify, and Render simplify deployment by handling infrastructure for you. In this tutorial, we’ll step one layer deeper and work directly with AWS to understand the building blocks behind these platforms. You'll take a small ...]]></summary>
+        <author>
+            <name>Umair Mirza</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Decoupling Material and Cupertino in Flutter: Why It Matters and How to Adapt]]></title>
         <id>696a86fae8c45c0f981bd180</id>
@@ -96,16 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Payroll System with Express and Monnify Using Background Jobs]]></title>
-        <id>69680d9ead82a9267c20097d</id>
-        <link href="https://www.freecodecamp.org/news/build-a-payroll-system-with-express-and-monnify-using-background-jobs/"/>
-        <updated>2026-01-14T21:41:50.000Z</updated>
-        <summary type="html"><![CDATA[Processing payroll payments is an important operation for any business. When you need to pay employees simultaneously, you can't afford to have your server hang, get blocking errors, or timeout while waiting for each payment to complete. Building a p...]]></summary>
-        <author>
-            <name>David Aniebo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Animations Part 8: Theming Animations Using CSS Relative Colour]]></title>
         <id>https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/</id>
         <link href="https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/"/>
@@ -173,16 +173,6 @@
         <summary type="html"><![CDATA[Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Measure The Impact Of Features]]></title>
-        <id>https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/</id>
-        <link href="https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/"/>
-        <updated>2025-12-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet TARS — a simple, repeatable, and meaningful UX metric designed specifically to track the performance of product features. Upcoming part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
