@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-20T00:36:49.084Z</id>
+    <id>urn:2026-01-21T00:38:47.466Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-20T00:36:49.084Z</updated>
+    <updated>2026-01-21T00:38:47.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Execution Context Works in JavaScript – A Handbook for Devs]]></title>
+        <id>696fd4c6078e49955b0f38de</id>
+        <link href="https://www.freecodecamp.org/news/how-execution-context-works-in-javascript-handbook/"/>
+        <updated>2026-01-20T19:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Execution Context is one of the most fundamental yet most misunderstood concepts in JavaScript. It defines how JavaScript code is evaluated and executed, and it plays a central role in determining how variables, functions, and scope behave. Many core...]]></summary>
+        <author>
+            <name>Sumit Saha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking “Pixel Perfect” Web Design]]></title>
+        <id>https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/</id>
+        <link href="https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/"/>
+        <updated>2026-01-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Amit Sheen)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Deploy a MERN Stack Notes App on AWS]]></title>
         <id>696af32341a3a861f59ed367</id>
@@ -58,6 +78,16 @@ HTTP Archive 2025 Web Almanac originally published on CSS-Tricks, which is part 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How Closures Work in JavaScript: A Handbook for Developers]]></title>
+        <id>6925c63dff3af82fd3477d27</id>
+        <link href="https://www.freecodecamp.org/news/how-closures-work-in-javascript-a-handbook-for-developers/"/>
+        <updated>2026-01-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you're learning JavaScript, you've probably heard the term "closure" at some point. In many developers' experience, just hearing this word can trigger anxiety. In nearly 17 years of programming experience, I've noticed that closures are one of the...]]></summary>
+        <author>
+            <name>Sumit Saha</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Create Boxplots and Model Data in R Using ggplot2]]></title>
         <id>69693680d6f0e208b327d21c</id>
         <link href="https://www.freecodecamp.org/news/how-to-create-boxplots-and-model-data-in-r/"/>
@@ -108,16 +138,6 @@ HTTP Archive 2025 Web Almanac originally published on CSS-Tricks, which is part 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Benchmark Embedding Models On Your Own Data]]></title>
-        <id>69690c920df4a0e609c1db69</id>
-        <link href="https://www.freecodecamp.org/news/how-to-benchmark-embedding-models-on-your-own-data/"/>
-        <updated>2026-01-15T15:49:38.000Z</updated>
-        <summary type="html"><![CDATA[Finding the right embedding model for your specific data can often feel like guesswork, but it doesn't have to be. While generic benchmarks provide a baseline, they rarely reflect how a model will perform on your unique datasets and niche terminology...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More]]></title>
         <id>https://css-tricks.com/?p=391542</id>
         <link href="https://css-tricks.com/whats-important-3/"/>
@@ -126,16 +146,6 @@ HTTP Archive 2025 Web Almanac originally published on CSS-Tricks, which is part 
 What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Relational Database Constraints Work and Why They're Important]]></title>
-        <id>69681d224dcb07c08e435626</id>
-        <link href="https://www.freecodecamp.org/news/how-relational-database-constraints-work-and-why-theyre-important/"/>
-        <updated>2026-01-14T22:48:02.000Z</updated>
-        <summary type="html"><![CDATA[Databases are a crucial tool because they store the data that power our day-to-day lives. Databases are designed to match the real world as much as possible, so they store data of different forms, about different things, just as it is in the world. T...]]></summary>
-        <author>
-            <name>Zubair Idris Aweda</name>
         </author>
     </entry>
     <entry>
