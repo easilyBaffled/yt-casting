@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391390",
+          "author": "Hashim Quraishi",
+          "description": "Semantic HTML does a lot more accessibility work than we usually give it credit for already — and ARIA is simple to abuse when we use it both as a shortcut and as a supplement.\nI Learned The First Rule of ARIA the Hard Way originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/i-learned-the-first-rule-of-aria-the-hard-way/",
+          "publishedOn": "2026-01-21T17:51:30.000Z",
+          "wordCount": 2326,
+          "title": "I Learned The First Rule of ARIA the Hard Way",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/08/accessibility-a11y.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=391564",
           "author": "Geoff Graham",
           "description": "I love me some good web research reports. I’m a sucker for them. HTTP Archive’s Web Almanac is one report I look forward to every year, and I know I’m not alone there. It’s one of those highly-anticipated publications on …\nHTTP Archive 2025 Web Almanac originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -100,21 +110,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/thank-you-2025-scaled.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390681",
-          "author": "Daniel Schwarz",
-          "description": "The text-decoration-inset property solves a problem that we’ve had since the beginning of the web, which is that text decorations such as underlines extend beyond the first and last characters, resulting in vertical misalignment.\ntext-decoration-inset is Like Padding for Text Decorations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/text-decoration-inset-is-like-padding-for-text-decorations/",
-          "publishedOn": "2025-12-22T14:39:52.000Z",
-          "wordCount": 1948,
-          "title": "text-decoration-inset is Like Padding for Text Decorations",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/12/Screen-Recording-2025-12-05-at-9.32.03-AM.mp4",
-            "length": "88976",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/Screenshot-2025-12-22-at-7.41.21-AM.png"
         }
       ]
     },
@@ -129,7 +124,7 @@
           "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
           "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
           "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 5112,
+          "wordCount": 5113,
           "title": "Rethinking “Pixel Perfect” Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
@@ -144,7 +139,7 @@
           "description": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.",
           "link": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
           "publishedOn": "2026-01-14T10:00:00.000Z",
-          "wordCount": 5375,
+          "wordCount": 5367,
           "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg",
@@ -159,7 +154,7 @@
           "description": "How to shape your career path for 2026, with decision trees for designers and a UX skills self-assessment matrix. The only limits for tomorrow are the doubts we have today. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.",
           "link": "https://smashingmagazine.com/2026/01/ux-product-designer-career-paths/",
           "publishedOn": "2026-01-12T10:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4382,
           "title": "UX And Product Designer’s Career Paths In 2026",
           "enclosure": {
             "url": "http://files.smashing.media/articles/product-designer-career-paths/ux-product-designer-career-paths.jpg",
@@ -189,7 +184,7 @@
           "description": "Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without starting from scratch, and how the skills you already use, like problem-solving, communication, and empathy, can open new doors.",
           "link": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
           "publishedOn": "2026-01-07T10:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5441,
           "title": "Pivoting Your Career Without Starting From Scratch",
           "enclosure": {
             "url": "http://files.smashing.media/articles/pivoting-career-without-starting-from-scratch/pivoting-career-without-starting-from-scratch.jpg",
@@ -204,7 +199,7 @@
           "description": "Whether 2026 has already begun as you’re reading this or you’re still waiting for the big countdown to start, how about some new wallpapers to get your desktop ready for the new year? We’ve got you covered.",
           "link": "https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/",
           "publishedOn": "2025-12-31T09:00:00.000Z",
-          "wordCount": 4768,
+          "wordCount": 4856,
           "title": "Countdown To New Adventures (January 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
@@ -227,21 +222,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-design-for-with-deaf-people/how-design-for-with-deaf-people.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
-          "link": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
-          "publishedOn": "2025-12-23T10:00:00.000Z",
-          "wordCount": 4642,
-          "title": "Giving Users A Voice Through Virtual Personas",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/giving-users-voice-virtual-personas/giving-users-voice-virtual-personas.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/giving-users-voice-virtual-personas/giving-users-voice-virtual-personas.jpg"
         }
       ]
     },
@@ -250,6 +230,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69711a5a740ddc945562fb4d",
+          "author": "Beau Carnes",
+          "description": "Dynamic programming (DP) is often considered one of the most intimidating topics in coding interviews. It has a reputation for being abstract and counterintuitive, but it doesn't have to be. We just published a comprehensive Dynamic Programming cours...",
+          "link": "https://www.freecodecamp.org/news/learn-dynamic-programming-through-dynamic-visuals/",
+          "publishedOn": "2026-01-21T18:26:34.000Z",
+          "wordCount": 1104,
+          "title": "Learn Dynamic Programming Through Dynamic Visuals",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769019975864/3c8b83cc-8602-4c4c-9476-6c8c1db3227d.jpeg"
+        },
+        {
+          "id": "69711728bb0d008e8a022fe5",
+          "author": "Beau Carnes",
+          "description": "The \"liminal space\" aesthetic of the Backrooms has become a staple of modern indie horror. If you’ve ever wanted to create your own unsettling, claustrophobic experience, the latest course on the freeCodeCamp.org YouTube channel is your perfect start...",
+          "link": "https://www.freecodecamp.org/news/build-a-the-backrooms-game-in-unreal-engine-5/",
+          "publishedOn": "2026-01-21T18:12:56.000Z",
+          "wordCount": 1011,
+          "title": "Build a The Backrooms Game in Unreal Engine 5",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769019160242/cf2c5169-ff82-4981-a20c-89769397f335.jpeg"
+        },
         {
           "id": "696fd4c6078e49955b0f38de",
           "author": "Sumit Saha",
@@ -329,26 +329,6 @@
           "wordCount": 990,
           "title": "Build Your Own Kubernetes Operators with Go and Kubebuilder",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768499578905/0f42cb04-c790-4f52-bf66-bcfe91a0ce79.jpeg"
-        },
-        {
-          "id": "69691ef945288420c3465766",
-          "author": "Daniel Adeboye",
-          "description": "Choosing a GPU for your AI workload shouldn't be complicated, but it often feels that way. You're weighing specs you don't fully understand, comparing prices that seem arbitrary, and wondering if you're about to waste thousands on GPUs you don't need...",
-          "link": "https://www.freecodecamp.org/news/how-to-choose-the-best-gpu-for-your-ai-workloads/",
-          "publishedOn": "2026-01-15T17:08:09.000Z",
-          "wordCount": 2760,
-          "title": "How to Choose the Best GPU for Your AI Workloads",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768427017581/585da014-5cb6-45bd-b6f7-a9a8a257b288.png"
-        },
-        {
-          "id": "69690df3acc9251eeb2d4be0",
-          "author": "Beau Carnes",
-          "description": "What happens when you lock over 2,500 ambitious developers in a massive science museum for an entire weekend? We posted a documentary on the freeCodeCamp.org YouTube channel that takes you to the heart of Cal Hacks 2025, held at the iconic former Exp...",
-          "link": "https://www.freecodecamp.org/news/inside-cal-hacks-2025-36-hours-at-the-worlds-largest-collegiate-hackathon/",
-          "publishedOn": "2026-01-15T15:55:31.000Z",
-          "wordCount": 1139,
-          "title": "Inside UC Berkeley's Cal Hacks – A Documentary About the World's Biggest Collegiate Hackathon",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768512980403/e7f18729-9e9c-479b-9485-e4a4caca19f3.webp"
         }
       ]
     }
