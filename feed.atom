@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-22T00:38:48.723Z</id>
+    <id>urn:2026-01-23T00:38:08.055Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-22T00:38:48.723Z</updated>
+    <updated>2026-01-23T00:38:08.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Singleton in Python (and Why You Probably Shouldn't)]]></title>
+        <id>697268cdbe089d77317d8295</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-singleton-in-python-and-why-you-probably-shouldnt/"/>
+        <updated>2026-01-22T18:13:33.000Z</updated>
+        <summary type="html"><![CDATA[The singleton pattern ensures that a class has exactly one instance throughout your application. You've probably seen it in configuration managers, database connections, or logging systems. While singletons seem useful, they often create more problem...]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn RAG & MCP Fundamentals]]></title>
+        <id>6972357968889fc0fe8adf6b</id>
+        <link href="https://www.freecodecamp.org/news/learn-rag-and-mcp-fundamentals/"/>
+        <updated>2026-01-22T14:34:33.000Z</updated>
+        <summary type="html"><![CDATA[Building AI today is about more than just a clever prompt. If you really want to move from playing with standalone tools to creating integrated systems that actually work with your data, our new crash course on the freeCodeCamp.org YouTube channel is...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Generative: The Rise Of Agentic AI And User-Centric Design]]></title>
+        <id>https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/</id>
+        <link href="https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/"/>
+        <updated>2026-01-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Turn Your Favorite Tech Blogs into a Personal Podcast]]></title>
+        <id>6971493162f064cd7502688f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-turn-your-favorite-blogs-into-personal-podcast/"/>
+        <updated>2026-01-21T21:46:25.000Z</updated>
+        <summary type="html"><![CDATA[These days it feels almost impossible to keep up with tech news. I step away for three days, and suddenly there is a new AI model, a new framework, and a new tool everyone says I must learn. Reading everything no longer scales, but I still want to st...]]></summary>
+        <author>
+            <name>Spruce Emmanuel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Dynamic Programming Through Dynamic Visuals]]></title>
         <id>69711a5a740ddc945562fb4d</id>
@@ -116,36 +156,6 @@ HTTP Archive 2025 Web Almanac originally published on CSS-Tricks, which is part 
         <summary type="html"><![CDATA[If you're learning JavaScript, you've probably heard the term "closure" at some point. In many developers' experience, just hearing this word can trigger anxiety. In nearly 17 years of programming experience, I've noticed that closures are one of the...]]></summary>
         <author>
             <name>Sumit Saha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Boxplots and Model Data in R Using ggplot2]]></title>
-        <id>69693680d6f0e208b327d21c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-boxplots-and-model-data-in-r/"/>
-        <updated>2026-01-15T18:48:32.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you’ll walk through a complete data analysis project using the HR Analytics dataset by Saad Haroon on Kaggle. You’ll start by loading and cleaning the data, then explore it visually using boxplots with ggplot2. Finally, you’ll learn...]]></summary>
-        <author>
-            <name>Tiffany Mojo Omondi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manage Blue-Green Deployments on AWS ECS with Database Migrations: Complete Implementation Guide]]></title>
-        <id>69693109596ef11a775126fb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-manage-blue-green-deployments-on-aws-ecs-with-database-migrations/"/>
-        <updated>2026-01-15T18:25:13.000Z</updated>
-        <summary type="html"><![CDATA[Blue-green deployments are celebrated for enabling zero-downtime releases and instant rollbacks. You deploy your new version (green) alongside the current one (blue), switch traffic over, and if something goes wrong, you switch back. Simple, right? N...]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Your Own Kubernetes Operators with Go and Kubebuilder]]></title>
-        <id>696929962e8dfc11a91953f7</id>
-        <link href="https://www.freecodecamp.org/news/build-your-own-kubernetes-operators-with-go-and-kubebuilder/"/>
-        <updated>2026-01-15T17:53:26.000Z</updated>
-        <summary type="html"><![CDATA[We just posted a Kubernetes Operator course on the freeCodeCamp.org YouTube channel. You will learn how to extend Kubernetes by building your own custom operators and controllers from scratch. You’ll go beyond simply using Kubernetes and start treati...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -261,17 +271,6 @@ What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the 
         <summary type="html"><![CDATA[Practical UX guidelines to keep in mind for 466 million people who experience hearing loss. More design patterns in Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thank You (2025 Edition)]]></title>
-        <id>https://css-tricks.com/?p=391203</id>
-        <link href="https://css-tricks.com/thank-you-2025-edition/"/>
-        <updated>2025-12-23T15:52:53.000Z</updated>
-        <summary type="html"><![CDATA[This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-front-end (and a little CSS, of course) with us.
-Thank You (2025 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
