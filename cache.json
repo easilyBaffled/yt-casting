@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391573",
+          "author": "Temani Afif",
+          "description": "A while back, Temani tacked a repeating grid of hexagon shapes. Well, he's updated it with modern CSS features that result in fewer magic numbers. And it's impressive!\nResponsive Hexagon Grid Using Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/responsive-hexagon-grid-using-modern-css/",
+          "publishedOn": "2026-01-23T14:39:56.000Z",
+          "wordCount": 3014,
+          "title": "Responsive Hexagon Grid Using Modern CSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/hexagon-grid.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=391757",
+          "author": "Geoff Graham",
+          "description": "The @custom-media at-rule has landed in Firefox Nightly! I couldn’t find it in the release notes but Adam Argyle’s on the beat noting that it’s behind a flag for now.\nLook for layout.css.custom-media.enabled\nI often forget the exact name of …\nOpen Props @custom-media Recipes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/open-props-custom-media-recipes/",
+          "publishedOn": "2026-01-23T13:00:00.000Z",
+          "wordCount": 1132,
+          "title": "Open Props @custom-media Recipes",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/open-props-custom-media-queries.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=391390",
           "author": "Hashim Quraishi",
           "description": "Semantic HTML does a lot more accessibility work than we usually give it credit for already — and ARIA is simple to abuse when we use it both as a shortcut and as a supplement.\nI Learned The First Rule of ARIA the Hard Way originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -109,7 +129,7 @@
           "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
           "link": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
           "publishedOn": "2026-01-22T13:00:00.000Z",
-          "wordCount": 6449,
+          "wordCount": 6453,
           "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg",
@@ -124,7 +144,7 @@
           "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
           "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
           "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 5110,
+          "wordCount": 5111,
           "title": "Rethinking “Pixel Perfect” Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
@@ -139,7 +159,7 @@
           "description": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.",
           "link": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
           "publishedOn": "2026-01-14T10:00:00.000Z",
-          "wordCount": 5360,
+          "wordCount": 5363,
           "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg",
@@ -184,7 +204,7 @@
           "description": "Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without starting from scratch, and how the skills you already use, like problem-solving, communication, and empathy, can open new doors.",
           "link": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
           "publishedOn": "2026-01-07T10:00:00.000Z",
-          "wordCount": 5444,
+          "wordCount": 5435,
           "title": "Pivoting Your Career Without Starting From Scratch",
           "enclosure": {
             "url": "http://files.smashing.media/articles/pivoting-career-without-starting-from-scratch/pivoting-career-without-starting-from-scratch.jpg",
@@ -199,7 +219,7 @@
           "description": "Whether 2026 has already begun as you’re reading this or you’re still waiting for the big countdown to start, how about some new wallpapers to get your desktop ready for the new year? We’ve got you covered.",
           "link": "https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/",
           "publishedOn": "2025-12-31T09:00:00.000Z",
-          "wordCount": 4763,
+          "wordCount": 4859,
           "title": "Countdown To New Adventures (January 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
@@ -230,6 +250,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6973c6fe48425c5c266e4979",
+          "author": "Manish Shivanandhan",
+          "description": "PDF files are everywhere. They’re used for reports, invoices, bank statements, research papers, and legal documents. While PDFs are easy to read for humans, they’re not easy to work with in code. Extracting text, splitting pages, or merging files oft...",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-pdf-files-in-python-a-pypdf-guide/",
+          "publishedOn": "2026-01-23T19:07:42.000Z",
+          "wordCount": 2149,
+          "title": "How to Work with PDF Files in Python: A PyPDF Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769195226088/fd3080df-67b9-4366-9432-304fdf438f39.png"
+        },
+        {
+          "id": "69738cfe142ebfb1e40aff80",
+          "author": "Beau Carnes",
+          "description": "Today Quincy Larson interviews Sumit Saha, a software engineer and prolific teacher on YouTube. Sumit is based in Dhaka, Bangladesh, where he runs a developer agency building projects for clients throughout Asia. We talk about: How the hunger for le...",
+          "link": "https://www.freecodecamp.org/news/how-to-stay-curious-as-a-dev-in-the-ai-hype-era-with-sumit-saha-podcast-205/",
+          "publishedOn": "2026-01-23T15:00:14.000Z",
+          "wordCount": 1345,
+          "title": "How to stay curious as a dev in the AI hype era with Sumit Saha [Podcast #205]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769128790797/92cb08ca-844d-4529-8db7-7b9ecd71e63c.jpeg"
+        },
         {
           "id": "697268cdbe089d77317d8295",
           "author": "Bala Priya C",
@@ -309,26 +349,6 @@
           "wordCount": 3692,
           "title": "Decoupling Material and Cupertino in Flutter: Why It Matters and How to Adapt",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768589028324/ec74c3ba-9d2d-4daf-a292-bbd9f8ef6f12.png"
-        },
-        {
-          "id": "696a527e680a393edd69ec79",
-          "author": "Beau Carnes",
-          "description": "Today Quincy Larson interviews Mike McQuaid. He's a software engineer who previously worked at GitHub, and now serves as lead maintainer of Homebrew, a Mac package manager used by tens of millions of developers. He's based in Edinburgh, Scottland. He...",
-          "link": "https://www.freecodecamp.org/news/the-most-important-skills-going-forward-with-cto-homebrew-maintainer-mike-mcquaid-podcast-204/",
-          "publishedOn": "2026-01-16T15:00:14.000Z",
-          "wordCount": 1306,
-          "title": "The Most Important Skills Going Forward with CTO + Homebrew Maintainer Mike McQuaid [Podcast #204]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1768530969277/17c5f7f8-4a08-4622-9312-4354f168150c.jpeg"
-        },
-        {
-          "id": "6925c63dff3af82fd3477d27",
-          "author": "Sumit Saha",
-          "description": "If you're learning JavaScript, you've probably heard the term \"closure\" at some point. In many developers' experience, just hearing this word can trigger anxiety. In nearly 17 years of programming experience, I've noticed that closures are one of the...",
-          "link": "https://www.freecodecamp.org/news/how-closures-work-in-javascript-a-handbook-for-developers/",
-          "publishedOn": "2026-01-16T08:00:00.000Z",
-          "wordCount": 11400,
-          "title": "How Closures Work in JavaScript: A Handbook for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764083198713/3afde98a-fecd-4669-a2ad-3d78c28d3d5a.png"
         }
       ]
     }

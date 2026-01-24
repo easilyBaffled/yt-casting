@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-23T00:38:08.055Z</id>
+    <id>urn:2026-01-24T00:36:30.635Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-23T00:38:08.055Z</updated>
+    <updated>2026-01-24T00:36:30.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Work with PDF Files in Python: A PyPDF Guide]]></title>
+        <id>6973c6fe48425c5c266e4979</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-pdf-files-in-python-a-pypdf-guide/"/>
+        <updated>2026-01-23T19:07:42.000Z</updated>
+        <summary type="html"><![CDATA[PDF files are everywhere. They’re used for reports, invoices, bank statements, research papers, and legal documents. While PDFs are easy to read for humans, they’re not easy to work with in code. Extracting text, splitting pages, or merging files oft...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to stay curious as a dev in the AI hype era with Sumit Saha [Podcast #205]]]></title>
+        <id>69738cfe142ebfb1e40aff80</id>
+        <link href="https://www.freecodecamp.org/news/how-to-stay-curious-as-a-dev-in-the-ai-hype-era-with-sumit-saha-podcast-205/"/>
+        <updated>2026-01-23T15:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Sumit Saha, a software engineer and prolific teacher on YouTube. Sumit is based in Dhaka, Bangladesh, where he runs a developer agency building projects for clients throughout Asia. We talk about: How the hunger for le...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsive Hexagon Grid Using Modern CSS]]></title>
+        <id>https://css-tricks.com/?p=391573</id>
+        <link href="https://css-tricks.com/responsive-hexagon-grid-using-modern-css/"/>
+        <updated>2026-01-23T14:39:56.000Z</updated>
+        <summary type="html"><![CDATA[A while back, Temani tacked a repeating grid of hexagon shapes. Well, he's updated it with modern CSS features that result in fewer magic numbers. And it's impressive!
+Responsive Hexagon Grid Using Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Props @custom-media Recipes]]></title>
+        <id>https://css-tricks.com/?p=391757</id>
+        <link href="https://css-tricks.com/open-props-custom-media-recipes/"/>
+        <updated>2026-01-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The @custom-media at-rule has landed in Firefox Nightly! I couldn’t find it in the release notes but Adam Argyle’s on the beat noting that it’s behind a flag for now.
+Look for layout.css.custom-media.enabled
+I often forget the exact name of …
+Open Props @custom-media Recipes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Singleton in Python (and Why You Probably Shouldn't)]]></title>
         <id>697268cdbe089d77317d8295</id>
@@ -128,16 +172,6 @@ HTTP Archive 2025 Web Almanac originally published on CSS-Tricks, which is part 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Most Important Skills Going Forward with CTO + Homebrew Maintainer Mike McQuaid [Podcast #204]]]></title>
-        <id>696a527e680a393edd69ec79</id>
-        <link href="https://www.freecodecamp.org/news/the-most-important-skills-going-forward-with-cto-homebrew-maintainer-mike-mcquaid-podcast-204/"/>
-        <updated>2026-01-16T15:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Mike McQuaid. He's a software engineer who previously worked at GitHub, and now serves as lead maintainer of Homebrew, a Mac package manager used by tens of millions of developers. He's based in Edinburgh, Scottland. He...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“I Heart CSS” DailyDev Squad]]></title>
         <id>https://css-tricks.com/?p=391529</id>
         <link href="https://css-tricks.com/i-heart-css-dailydev-squad/"/>
@@ -146,16 +180,6 @@ HTTP Archive 2025 Web Almanac originally published on CSS-Tricks, which is part 
 “I Heart CSS” DailyDev Squad originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Closures Work in JavaScript: A Handbook for Developers]]></title>
-        <id>6925c63dff3af82fd3477d27</id>
-        <link href="https://www.freecodecamp.org/news/how-closures-work-in-javascript-a-handbook-for-developers/"/>
-        <updated>2026-01-16T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you're learning JavaScript, you've probably heard the term "closure" at some point. In many developers' experience, just hearing this word can trigger anxiety. In nearly 17 years of programming experience, I've noticed that closures are one of the...]]></summary>
-        <author>
-            <name>Sumit Saha</name>
         </author>
     </entry>
     <entry>
