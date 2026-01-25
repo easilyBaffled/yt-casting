@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-24T00:36:30.635Z</id>
+    <id>urn:2026-01-25T00:41:58.623Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-24T00:36:30.635Z</updated>
+    <updated>2026-01-25T00:41:58.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Singleton Design Pattern in Flutter: Lazy, Eager, and Factory Variations]]></title>
+        <id>69740b7bc3e68b8de44a179f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-singleton-design-pattern-in-flutter-lazy-eager-and-factory-variations/"/>
+        <updated>2026-01-23T23:59:55.000Z</updated>
+        <summary type="html"><![CDATA[In software engineering, sometimes you need only one instance of a class across your entire application. Creating multiple instances in such cases can lead to inconsistent behavior, wasted memory, or resource conflicts. The Singleton Design Pattern i...]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Evaluate and Select the Right LLM for Your GenAI Application]]></title>
+        <id>6974017e2a79920d2cc4e0c0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-evaluate-and-select-the-right-llm-for-your-genai-application/"/>
+        <updated>2026-01-23T23:17:18.000Z</updated>
+        <summary type="html"><![CDATA[Every day, we learn something new about generative AI applications – how they behave, where they shine, and where they fall short. As Large Language Models (LLMs) rapidly evolve, one thing becomes increasingly clear: selecting the right model for you...]]></summary>
+        <author>
+            <name>Wisamul Haque</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Type Safe Unions in C# With OneOf]]></title>
+        <id>6973f8cd15349392f17d3760</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-type-safe-unions-in-c-with-oneof/"/>
+        <updated>2026-01-23T22:40:13.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever needed a method to return different types depending on the situation? Perhaps a payment processor that returns different payment types, an order that can be in various states with different data, or better, a file loader that handles mu...]]></summary>
+        <author>
+            <name>Grant Riordan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Work with PDF Files in Python: A PyPDF Guide]]></title>
         <id>6973c6fe48425c5c266e4979</id>
@@ -121,16 +151,6 @@ I Learned The First Rule of ARIA the Hard Way originally published on CSS-Tricks
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Execution Context Works in JavaScript – A Handbook for Devs]]></title>
-        <id>696fd4c6078e49955b0f38de</id>
-        <link href="https://www.freecodecamp.org/news/how-execution-context-works-in-javascript-handbook/"/>
-        <updated>2026-01-20T19:17:26.000Z</updated>
-        <summary type="html"><![CDATA[Execution Context is one of the most fundamental yet most misunderstood concepts in JavaScript. It defines how JavaScript code is evaluated and executed, and it plays a central role in determining how variables, functions, and scope behave. Many core...]]></summary>
-        <author>
-            <name>Sumit Saha</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rethinking “Pixel Perfect” Web Design]]></title>
         <id>https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/</id>
         <link href="https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/"/>
@@ -138,26 +158,6 @@ I Learned The First Rule of ARIA the Hard Way originally published on CSS-Tricks
         <summary type="html"><![CDATA[Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Amit Sheen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy a MERN Stack Notes App on AWS]]></title>
-        <id>696af32341a3a861f59ed367</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-mern-stack-notes-app-aws/"/>
-        <updated>2026-01-17T02:25:39.000Z</updated>
-        <summary type="html"><![CDATA[Platforms like Vercel, Netlify, and Render simplify deployment by handling infrastructure for you. In this tutorial, we’ll step one layer deeper and work directly with AWS to understand the building blocks behind these platforms. You'll take a small ...]]></summary>
-        <author>
-            <name>Umair Mirza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decoupling Material and Cupertino in Flutter: Why It Matters and How to Adapt]]></title>
-        <id>696a86fae8c45c0f981bd180</id>
-        <link href="https://www.freecodecamp.org/news/decoupling-material-and-cupertino-in-flutter/"/>
-        <updated>2026-01-16T18:44:10.000Z</updated>
-        <summary type="html"><![CDATA[As Flutter developers, we know that Flutter’s “batteries included” philosophy has long been its superpower. Built on the simple premise to "paint every pixel," the framework shipped with everything needed to build a real app out of the box: a renderi...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
         </author>
     </entry>
     <entry>
