@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=388430",
+          "author": "Zell Liew",
+          "description": "Accessibility advice around modals have commonly taught us to trap focus within the modal. Upon further research, it seems like we no longer need to trap focus within the <dialog> (even in modal mode).\nThere is No Need to Trap Focus on a Dialog Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/there-is-no-need-to-trap-focus-on-a-dialog-element/",
+          "publishedOn": "2026-01-26T15:02:27.000Z",
+          "wordCount": 1630,
+          "title": "There is No Need to Trap Focus on a Dialog Element",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/04/tab-key.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=391573",
           "author": "Temani Afif",
           "description": "A while back, Temani tacked a repeating grid of hexagon shapes. Well, he's updated it with modern CSS features that result in fewer magic numbers. And it's impressive!\nResponsive Hexagon Grid Using Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/responsive-hexagon-grid-using-modern-css/",
           "publishedOn": "2026-01-23T14:39:56.000Z",
-          "wordCount": 3014,
+          "wordCount": 3090,
           "title": "Responsive Hexagon Grid Using Modern CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/hexagon-grid.png"
         },
@@ -27,7 +37,7 @@
           "description": "The @custom-media at-rule has landed in Firefox Nightly! I couldn’t find it in the release notes but Adam Argyle’s on the beat noting that it’s behind a flag for now.\nLook for layout.css.custom-media.enabled\nI often forget the exact name of …\nOpen Props @custom-media Recipes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/open-props-custom-media-recipes/",
           "publishedOn": "2026-01-23T13:00:00.000Z",
-          "wordCount": 1132,
+          "wordCount": 1168,
           "title": "Open Props @custom-media Recipes",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/open-props-custom-media-queries.jpg"
         },
@@ -37,7 +47,7 @@
           "description": "Semantic HTML does a lot more accessibility work than we usually give it credit for already — and ARIA is simple to abuse when we use it both as a shortcut and as a supplement.\nI Learned The First Rule of ARIA the Hard Way originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/i-learned-the-first-rule-of-aria-the-hard-way/",
           "publishedOn": "2026-01-21T17:51:30.000Z",
-          "wordCount": 2326,
+          "wordCount": 2376,
           "title": "I Learned The First Rule of ARIA the Hard Way",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/08/accessibility-a11y.png"
         },
@@ -47,7 +57,7 @@
           "description": "I love me some good web research reports. I’m a sucker for them. HTTP Archive’s Web Almanac is one report I look forward to every year, and I know I’m not alone there. It’s one of those highly-anticipated publications on …\nHTTP Archive 2025 Web Almanac originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/http-archive-2025-web-almanac/",
           "publishedOn": "2026-01-16T17:30:43.000Z",
-          "wordCount": 1403,
+          "wordCount": 1410,
           "title": "HTTP Archive 2025 Web Almanac",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/http-archive-2025.jpg"
         },
@@ -57,7 +67,7 @@
           "description": "If you’re reading this, chances are you already have some sort of way that you’re following when we publish new content, whether that’s RSS, Bluesky, Mastodon, or what have you. But I know a lot of folks …\n“I Heart CSS” DailyDev Squad originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/i-heart-css-dailydev-squad/",
           "publishedOn": "2026-01-16T14:46:24.000Z",
-          "wordCount": 1000,
+          "wordCount": 1007,
           "title": "“I Heart CSS” DailyDev Squad",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/i-heart-css.webp"
         },
@@ -67,7 +77,7 @@
           "description": "The developer community hasn’t wasted any time kicking off 2026 with some really great articles, demos, and insights. Firefox 147 and Chrome 144 also shipped, and while they’re not jam-packed with features, the releases are still pretty exciting for what’s normally a slow time of year, so without further ado, here’s what’s important from the last couple of weeks (or should I say the first couple of weeks, of 2026?)…\nWhat’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/whats-important-3/",
           "publishedOn": "2026-01-15T15:08:58.000Z",
-          "wordCount": 2040,
+          "wordCount": 2047,
           "title": "What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/wi3.png"
         },
@@ -77,7 +87,7 @@
           "description": "Super cool new CodePen feature alert! You've probably seen a bunch of \"interactive\" demos that let you changed values on the fly from a UI panel embedded directly in the demo.\nPlaying With CodePen slideVars originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/playing-with-codepen-slidevars/",
           "publishedOn": "2026-01-14T14:59:07.000Z",
-          "wordCount": 1509,
+          "wordCount": 1516,
           "title": "Playing With CodePen slideVars",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/codepen-slidevars.png"
         },
@@ -87,7 +97,7 @@
           "description": "Lee Meyer recently spoke at Web Directions Summit 2025. This is his experience, not only speaking at the event, but experiencing the event through the lens of anxiety and imposter syndrome.\nPostcard From Web Directions Dev Summit, 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/postcard-from-web-directions-dev-summit-2025/",
           "publishedOn": "2026-01-12T14:54:32.000Z",
-          "wordCount": 4444,
+          "wordCount": 4451,
           "title": "Postcard From Web Directions Dev Summit, 2025",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/01/lee-meyer-web-directions-demo.mp4",
@@ -102,7 +112,7 @@
           "description": "Have you ever struggled to style an element while it's being dragged? Sunkanmi explains some ways it could become easier in the future.\nFuture CSS: :drag (and Maybe ::dragged-image?) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/future-css-drag-and-maybe-dragged-image/",
           "publishedOn": "2026-01-07T15:16:47.000Z",
-          "wordCount": 1928,
+          "wordCount": 1935,
           "title": "Future CSS: :drag (and Maybe ::dragged-image?)",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/Screenshot-2025-12-12-at-10.03.09-AM-scaled-e1765559057362.png"
         },
@@ -112,7 +122,7 @@
           "description": "2026 is almost upon us. I know we’re all itching to see the clock strike midnight (cue The Final Countdown by Europe), but not without recapping the best CSS-related things that happened over the last two weeks!\nWhat’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/whats-important-2/",
           "publishedOn": "2025-12-31T16:18:23.000Z",
-          "wordCount": 2056,
+          "wordCount": 2063,
           "title": "What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/wi-2.png"
         }
@@ -129,7 +139,7 @@
           "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
           "link": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
           "publishedOn": "2026-01-22T13:00:00.000Z",
-          "wordCount": 6447,
+          "wordCount": 6453,
           "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg",
@@ -144,7 +154,7 @@
           "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
           "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
           "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 5111,
+          "wordCount": 5121,
           "title": "Rethinking “Pixel Perfect” Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
@@ -159,7 +169,7 @@
           "description": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.",
           "link": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
           "publishedOn": "2026-01-14T10:00:00.000Z",
-          "wordCount": 5374,
+          "wordCount": 5364,
           "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg",
@@ -219,7 +229,7 @@
           "description": "Whether 2026 has already begun as you’re reading this or you’re still waiting for the big countdown to start, how about some new wallpapers to get your desktop ready for the new year? We’ve got you covered.",
           "link": "https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/",
           "publishedOn": "2025-12-31T09:00:00.000Z",
-          "wordCount": 4759,
+          "wordCount": 4766,
           "title": "Countdown To New Adventures (January 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",

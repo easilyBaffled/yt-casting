@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-26T00:41:03.015Z</id>
+    <id>urn:2026-01-27T00:39:53.039Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-26T00:41:03.015Z</updated>
+    <updated>2026-01-27T00:39:53.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[There is No Need to Trap Focus on a Dialog Element]]></title>
+        <id>https://css-tricks.com/?p=388430</id>
+        <link href="https://css-tricks.com/there-is-no-need-to-trap-focus-on-a-dialog-element/"/>
+        <updated>2026-01-26T15:02:27.000Z</updated>
+        <summary type="html"><![CDATA[Accessibility advice around modals have commonly taught us to trap focus within the modal. Upon further research, it seems like we no longer need to trap focus within the <dialog> (even in modal mode).
+There is No Need to Trap Focus on a Dialog Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use the Singleton Design Pattern in Flutter: Lazy, Eager, and Factory Variations]]></title>
         <id>69740b7bc3e68b8de44a179f</id>
