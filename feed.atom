@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-27T00:39:53.039Z</id>
+    <id>urn:2026-01-28T00:37:28.669Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-27T00:39:53.039Z</updated>
+    <updated>2026-01-28T00:37:28.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How the Factory and Abstract Factory Design Patterns Work in Flutter]]></title>
+        <id>6978f477116625d0304ed264</id>
+        <link href="https://www.freecodecamp.org/news/how-the-factory-and-abstract-factory-design-patterns-work-in-flutter/"/>
+        <updated>2026-01-27T17:23:03.000Z</updated>
+        <summary type="html"><![CDATA[In software development, particularly object-oriented programming and design, object creation is a common task. And how you manage this process can impact your app's flexibility, scalability, and maintainability. Creational design patterns govern how...]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI-Powered RAG Search Application with Next.js, Supabase, and OpenAI]]></title>
+        <id>6978f421ead51482f82901bf</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-powered-rag-search-application-with-nextjs-supabase-and-openai/"/>
+        <updated>2026-01-27T17:21:37.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn how to build a complete RAG (Retrieval-Augmented Generation) search application from scratch. Your application will allow users to upload documents, store them securely, and search through them using AI-powered semantic...]]></summary>
+        <author>
+            <name>Mayur Vekariya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Pipeline Parallelism from Scratch]]></title>
+        <id>6978df5e4ec20d569a7d3f44</id>
+        <link href="https://www.freecodecamp.org/news/build-pipeline-parallelism-from-scratch/"/>
+        <updated>2026-01-27T15:53:02.000Z</updated>
+        <summary type="html"><![CDATA[Pipeline parallelism speeds up training of AI models by splitting a massive model across multiple GPUs and processing data like an assembly line, ensuring no single device has to hold the entire model in memory. This course teaches pipeline paralleli...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Relational Database Design]]></title>
+        <id>6978d7fc6e2d7821e11f8935</id>
+        <link href="https://www.freecodecamp.org/news/learn-relational-database-design/"/>
+        <updated>2026-01-27T15:21:32.000Z</updated>
+        <summary type="html"><![CDATA[Relational databases are used all the time in software development. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn relational database design from the ground up. This course covers SQL fundamentals, entity...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unstacking CSS Stacking Contexts]]></title>
+        <id>https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/</id>
+        <link href="https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/"/>
+        <updated>2026-01-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Gabriel Shoyombo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Chat with Your PDF Using Retrieval Augmented Generation]]></title>
+        <id>697822ad5a8ba7b3a0cfc888</id>
+        <link href="https://www.freecodecamp.org/news/how-to-chat-with-your-pdf-using-retrieval-augmented-generation/"/>
+        <updated>2026-01-27T02:27:57.000Z</updated>
+        <summary type="html"><![CDATA[Large language models are good at answering questions, but they have one big limitation: they don’t know what is inside your private documents.  If you upload a PDF like a company policy, research paper, or contract, the model cannot magically read i...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[There is No Need to Trap Focus on a Dialog Element]]></title>
         <id>https://css-tricks.com/?p=388430</id>
@@ -91,26 +151,6 @@ Open Props @custom-media Recipes originally published on CSS-Tricks, which is pa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Singleton in Python (and Why You Probably Shouldn't)]]></title>
-        <id>697268cdbe089d77317d8295</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-singleton-in-python-and-why-you-probably-shouldnt/"/>
-        <updated>2026-01-22T18:13:33.000Z</updated>
-        <summary type="html"><![CDATA[The singleton pattern ensures that a class has exactly one instance throughout your application. You've probably seen it in configuration managers, database connections, or logging systems. While singletons seem useful, they often create more problem...]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn RAG & MCP Fundamentals]]></title>
-        <id>6972357968889fc0fe8adf6b</id>
-        <link href="https://www.freecodecamp.org/news/learn-rag-and-mcp-fundamentals/"/>
-        <updated>2026-01-22T14:34:33.000Z</updated>
-        <summary type="html"><![CDATA[Building AI today is about more than just a clever prompt. If you really want to move from playing with standalone tools to creating integrated systems that actually work with your data, our new crash course on the freeCodeCamp.org YouTube channel is...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Beyond Generative: The Rise Of Agentic AI And User-Centric Design]]></title>
         <id>https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/</id>
         <link href="https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/"/>
@@ -118,36 +158,6 @@ Open Props @custom-media Recipes originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Turn Your Favorite Tech Blogs into a Personal Podcast]]></title>
-        <id>6971493162f064cd7502688f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-turn-your-favorite-blogs-into-personal-podcast/"/>
-        <updated>2026-01-21T21:46:25.000Z</updated>
-        <summary type="html"><![CDATA[These days it feels almost impossible to keep up with tech news. I step away for three days, and suddenly there is a new AI model, a new framework, and a new tool everyone says I must learn. Reading everything no longer scales, but I still want to st...]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Dynamic Programming Through Dynamic Visuals]]></title>
-        <id>69711a5a740ddc945562fb4d</id>
-        <link href="https://www.freecodecamp.org/news/learn-dynamic-programming-through-dynamic-visuals/"/>
-        <updated>2026-01-21T18:26:34.000Z</updated>
-        <summary type="html"><![CDATA[Dynamic programming (DP) is often considered one of the most intimidating topics in coding interviews. It has a reputation for being abstract and counterintuitive, but it doesn't have to be. We just published a comprehensive Dynamic Programming cours...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a The Backrooms Game in Unreal Engine 5]]></title>
-        <id>69711728bb0d008e8a022fe5</id>
-        <link href="https://www.freecodecamp.org/news/build-a-the-backrooms-game-in-unreal-engine-5/"/>
-        <updated>2026-01-21T18:12:56.000Z</updated>
-        <summary type="html"><![CDATA[The "liminal space" aesthetic of the Backrooms has become a staple of modern indie horror. If you’ve ever wanted to create your own unsettling, claustrophobic experience, the latest course on the freeCodeCamp.org YouTube channel is your perfect start...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
