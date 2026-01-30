@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-29T00:42:56.876Z</id>
+    <id>urn:2026-01-30T00:42:59.111Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-29T00:42:56.876Z</updated>
+    <updated>2026-01-30T00:42:59.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,12 +16,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Style the New ::search-text and Other Highlight-y Pseudo-Elements]]></title>
+        <title type="html"><![CDATA[Styling ::search-text and Other Highlight-y Pseudo-Elements]]></title>
         <id>https://css-tricks.com/?p=391705</id>
         <link href="https://css-tricks.com/how-to-style-the-new-search-text-and-other-highlight-pseudo-elements/"/>
         <updated>2026-01-28T15:08:04.000Z</updated>
-        <summary type="html"><![CDATA[Chrome 144 recently shipped ::search-text, which is now one of several highlight-related pseudo-elements. This one selects find-in-page text, which is the text that gets highlighted when you do a Ctrl/Command + F-type search for something on a page and matches are found.
-How to Style the New ::search-text and Other Highlight-y Pseudo-Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <summary type="html"><![CDATA[The new ::search-text pseudo (Chrome 144) matches are yellow while the current target (::search-text:current) is orange, but ::search-text enables us to change that.
+Styling ::search-text and Other Highlight-y Pseudo-Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
         </author>
@@ -318,16 +318,6 @@ Future CSS: :drag (and Maybe ::dragged-image?) originally published on CSS-Trick
 What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Countdown To New Adventures (January 2026 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/</id>
-        <link href="https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/"/>
-        <updated>2025-12-31T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Whether 2026 has already begun as you’re reading this or you’re still waiting for the big countdown to start, how about some new wallpapers to get your desktop ready for the new year? We’ve got you covered.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
