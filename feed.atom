@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-30T00:42:59.111Z</id>
+    <id>urn:2026-01-31T00:41:11.627Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-30T00:42:59.111Z</updated>
+    <updated>2026-01-31T00:41:11.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Go From Hello World to Building Real World Applications]]></title>
+        <id>697d098607632dbd100433e8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-go-from-hello-world-to-building-real-world-applications/"/>
+        <updated>2026-01-30T19:41:58.000Z</updated>
+        <summary type="html"><![CDATA[Many developers start learning programming by building simple projects like todo apps, calculators, and basic CRUD applications. These projects are useful at the beginning, as they help you understand how a programming language works and give you the...]]></summary>
+        <author>
+            <name>Spruce Emmanuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Social Media Post Scheduler Using Gemini and Late API in Next.js]]></title>
+        <id>697cebbfa59b6f85b8ca1c5f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-social-media-post-scheduler-using-gemini-and-late-api-in-nextjs/"/>
+        <updated>2026-01-30T17:34:55.000Z</updated>
+        <summary type="html"><![CDATA[Social media has become a vital tool for people and businesses to share ideas, promote products, and connect with their target audience. But creating posts regularly and managing schedules across multiple platforms can be time-consuming and repetitiv...]]></summary>
+        <author>
+            <name>David Asaolu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #4: Videos & View Transitions, Named Media Queries, How Browsers Work, and More]]></title>
+        <id>https://css-tricks.com/?p=391967</id>
+        <link href="https://css-tricks.com/whats-important-4/"/>
+        <updated>2026-01-30T15:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Neither Chrome, Safari, nor Firefox have shipped new features in the last couple of weeks, but fear not because leading this issue of What’s !important is some of the web development industry’s best educators with, frankly, some killer content.
+What’s !important #4: Videos & View Transitions, Named Media Queries, How Browsers Work, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips from a 20-year developer veteran turned consultancy founder – Tapas Adhikary interview [Podcast #206]]]></title>
+        <id>697cc782ebd78e3e9ac5ac3d</id>
+        <link href="https://www.freecodecamp.org/news/tips-from-a-20-year-developer-veteran-turned-consultancy-founder-tapas-adhikary-interview-podcast-206/"/>
+        <updated>2026-01-30T15:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Tapas Adhikari. He's a software engineer who runs a firm of 20 developers who build projects for companies around the world. He's also a prolific teacher, having written 300 programming tutorials - including 47 for free...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical Use Of AI Coding Tools For The Responsible Developer]]></title>
+        <id>https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/</id>
+        <link href="https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/"/>
+        <updated>2026-01-30T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stefan Kaltenegger)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Prioritize as a Product Manager – Product Prioritization Frameworks Explained]]></title>
+        <id>697bf73e79322b4a93ac0fb8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-prioritize-as-a-product-manager/"/>
+        <updated>2026-01-30T00:11:42.000Z</updated>
+        <summary type="html"><![CDATA[Prioritization in product management is hardly about what metric takes precedence over the other. Of all the roles a product manager plays, one of the most difficult is deciding what to work on next. Why? Because everything feels urgent. Engineers wa...]]></summary>
+        <author>
+            <name>Onyinyechi Nwaucha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Relational Database Design]]></title>
+        <id>697bd350c5c536590f03089b</id>
+        <link href="https://www.freecodecamp.org/news/learn-relational-database-design-1/"/>
+        <updated>2026-01-29T21:38:24.000Z</updated>
+        <summary type="html"><![CDATA[Relational databases are used in many different types of software. We just posted a course on the freeCodeCamp.org YouTube channel that will help you learn relational database design from the ground up. This course covers SQL fundamentals, entity-rel...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use the Builder Pattern in Python – A Practical Guide for Developers]]></title>
         <id>697a3bb24b19a21e89e9cf78</id>
@@ -78,16 +149,6 @@ ReliCSS originally published on CSS-Tricks, which is part of the DigitalOcean fa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Relational Database Design]]></title>
-        <id>6978d7fc6e2d7821e11f8935</id>
-        <link href="https://www.freecodecamp.org/news/learn-relational-database-design/"/>
-        <updated>2026-01-27T15:21:32.000Z</updated>
-        <summary type="html"><![CDATA[Relational databases are used all the time in software development. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn relational database design from the ground up. This course covers SQL fundamentals, entity...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Unstacking CSS Stacking Contexts]]></title>
         <id>https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/</id>
         <link href="https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/"/>
@@ -95,16 +156,6 @@ ReliCSS originally published on CSS-Tricks, which is part of the DigitalOcean fa
         <summary type="html"><![CDATA[In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Gabriel Shoyombo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Chat with Your PDF Using Retrieval Augmented Generation]]></title>
-        <id>697822ad5a8ba7b3a0cfc888</id>
-        <link href="https://www.freecodecamp.org/news/how-to-chat-with-your-pdf-using-retrieval-augmented-generation/"/>
-        <updated>2026-01-27T02:27:57.000Z</updated>
-        <summary type="html"><![CDATA[Large language models are good at answering questions, but they have one big limitation: they don’t know what is inside your private documents.  If you upload a PDF like a company policy, research paper, or contract, the model cannot magically read i...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
@@ -116,36 +167,6 @@ ReliCSS originally published on CSS-Tricks, which is part of the DigitalOcean fa
 There is No Need to Trap Focus on a Dialog Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Singleton Design Pattern in Flutter: Lazy, Eager, and Factory Variations]]></title>
-        <id>69740b7bc3e68b8de44a179f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-singleton-design-pattern-in-flutter-lazy-eager-and-factory-variations/"/>
-        <updated>2026-01-23T23:59:55.000Z</updated>
-        <summary type="html"><![CDATA[In software engineering, sometimes you need only one instance of a class across your entire application. Creating multiple instances in such cases can lead to inconsistent behavior, wasted memory, or resource conflicts. The Singleton Design Pattern i...]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Evaluate and Select the Right LLM for Your GenAI Application]]></title>
-        <id>6974017e2a79920d2cc4e0c0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-evaluate-and-select-the-right-llm-for-your-genai-application/"/>
-        <updated>2026-01-23T23:17:18.000Z</updated>
-        <summary type="html"><![CDATA[Every day, we learn something new about generative AI applications – how they behave, where they shine, and where they fall short. As Large Language Models (LLMs) rapidly evolve, one thing becomes increasingly clear: selecting the right model for you...]]></summary>
-        <author>
-            <name>Wisamul Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Type Safe Unions in C# With OneOf]]></title>
-        <id>6973f8cd15349392f17d3760</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-type-safe-unions-in-c-with-oneof/"/>
-        <updated>2026-01-23T22:40:13.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever needed a method to return different types depending on the situation? Perhaps a payment processor that returns different payment types, an order that can be in various states with different data, or better, a file loader that handles mu...]]></summary>
-        <author>
-            <name>Grant Riordan</name>
         </author>
     </entry>
     <entry>
@@ -307,17 +328,6 @@ Future CSS: :drag (and Maybe ::dragged-image?) originally published on CSS-Trick
         <summary type="html"><![CDATA[Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without starting from scratch, and how the skills you already use, like problem-solving, communication, and empathy, can open new doors.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joas Pambou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More]]></title>
-        <id>https://css-tricks.com/?p=391298</id>
-        <link href="https://css-tricks.com/whats-important-2/"/>
-        <updated>2025-12-31T16:18:23.000Z</updated>
-        <summary type="html"><![CDATA[2026 is almost upon us. I know we’re all itching to see the clock strike midnight (cue The Final Countdown by Europe), but not without recapping the best CSS-related things that happened over the last two weeks!
-What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
