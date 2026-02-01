@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-31T00:41:11.627Z</id>
+    <id>urn:2026-02-01T00:51:40.162Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-31T00:41:11.627Z</updated>
+    <updated>2026-02-01T00:51:40.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Short Month, Big Ideas (February 2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/</id>
+        <link href="https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/"/>
+        <updated>2026-01-31T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Multi-Language Support in Flutter: Manual and AI-Automated Translations for Flutter Apps]]></title>
+        <id>697d5a754655a071649990c6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-multi-language-support-in-flutter-manual-and-ai-automated-translations-for-flutter-apps/"/>
+        <updated>2026-01-31T01:27:17.000Z</updated>
+        <summary type="html"><![CDATA[As Flutter applications scale beyond a single market, language support becomes a critical requirement. A well-designed app should feel natural to users regardless of their locale, automatically adapting to their language preferences while still givin...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Go From Hello World to Building Real World Applications]]></title>
         <id>697d098607632dbd100433e8</id>
@@ -136,16 +156,6 @@ ReliCSS originally published on CSS-Tricks, which is part of the DigitalOcean fa
         <summary type="html"><![CDATA[In this tutorial, you'll learn how to build a complete RAG (Retrieval-Augmented Generation) search application from scratch. Your application will allow users to upload documents, store them securely, and search through them using AI-powered semantic...]]></summary>
         <author>
             <name>Mayur Vekariya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Pipeline Parallelism from Scratch]]></title>
-        <id>6978df5e4ec20d569a7d3f44</id>
-        <link href="https://www.freecodecamp.org/news/build-pipeline-parallelism-from-scratch/"/>
-        <updated>2026-01-27T15:53:02.000Z</updated>
-        <summary type="html"><![CDATA[Pipeline parallelism speeds up training of AI models by splitting a massive model across multiple GPUs and processing data like an assembly line, ensuring no single device has to hold the entire model in memory. This course teaches pipeline paralleli...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
