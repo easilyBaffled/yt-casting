@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-02T00:46:10.166Z</id>
+    <id>urn:2026-02-03T00:45:21.520Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-02T00:46:10.167Z</updated>
+    <updated>2026-02-03T00:45:21.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[No-Hassle Visual Studio Code Theming: Building an Extension]]></title>
+        <id>https://css-tricks.com/?p=390341</id>
+        <link href="https://css-tricks.com/no-hassle-visual-studio-code-theming-building-an-extension/"/>
+        <updated>2026-02-02T14:51:01.000Z</updated>
+        <summary type="html"><![CDATA[I've always thought that creating a VS Code theme was a lot of work. But lo and behold, it took less than six hours to get it working, then a day or two to polish up my final tweaks.
+No-Hassle Visual Studio Code Theming: Building an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Short Month, Big Ideas (February 2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/</id>
