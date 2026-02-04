@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-03T00:45:21.520Z</id>
+    <id>urn:2026-02-04T00:41:30.184Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-03T00:45:21.520Z</updated>
+    <updated>2026-02-04T00:41:30.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[No Hassle Visual Code Theming: Publishing an Extension]]></title>
+        <id>https://css-tricks.com/?p=390379</id>
+        <link href="https://css-tricks.com/no-hassle-visual-code-theming-publishing-an-extension/"/>
+        <updated>2026-02-03T15:54:59.000Z</updated>
+        <summary type="html"><![CDATA[You’d think that publishing a VS Code extension is an easy process, but it’s not. You have to publish your theme in at least two places.
+No Hassle Visual Code Theming: Publishing an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combobox vs. Multiselect vs. Listbox: How To Choose The Right One]]></title>
+        <id>https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/</id>
+        <link href="https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/"/>
+        <updated>2026-02-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Combobox vs. Multi-Select vs. Listbox vs. Dual Listbox? How they are different, what purpose they serve, and how to choose the right one. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Debug React State Updates Like a Pro (Without Polluting Production)]]></title>
+        <id>698115a622cd39b64c5fac49</id>
+        <link href="https://www.freecodecamp.org/news/how-to-debug-react-state-updates-like-a-pro-without-polluting-production/"/>
+        <updated>2026-02-02T21:22:46.000Z</updated>
+        <summary type="html"><![CDATA[When you’re debugging a large React codebase, you might start to feel like a detective. Especially when you are looking for unexpected state changes, components that re-render when they like, or Context values that disappear into thin air without any...]]></summary>
+        <author>
+            <name>Kelechi Apugo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No-Hassle Visual Studio Code Theming: Building an Extension]]></title>
         <id>https://css-tricks.com/?p=390341</id>
@@ -157,16 +188,6 @@ ReliCSS originally published on CSS-Tricks, which is part of the DigitalOcean fa
         <summary type="html"><![CDATA[In software development, particularly object-oriented programming and design, object creation is a common task. And how you manage this process can impact your app's flexibility, scalability, and maintainability. Creational design patterns govern how...]]></summary>
         <author>
             <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI-Powered RAG Search Application with Next.js, Supabase, and OpenAI]]></title>
-        <id>6978f421ead51482f82901bf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-powered-rag-search-application-with-nextjs-supabase-and-openai/"/>
-        <updated>2026-01-27T17:21:37.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll learn how to build a complete RAG (Retrieval-Augmented Generation) search application from scratch. Your application will allow users to upload documents, store them securely, and search through them using AI-powered semantic...]]></summary>
-        <author>
-            <name>Mayur Vekariya</name>
         </author>
     </entry>
     <entry>

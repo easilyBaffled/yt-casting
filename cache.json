@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390379",
+          "author": "Zell Liew",
+          "description": "You’d think that publishing a VS Code extension is an easy process, but it’s not. You have to publish your theme in at least two places.\nNo Hassle Visual Code Theming: Publishing an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/no-hassle-visual-code-theming-publishing-an-extension/",
+          "publishedOn": "2026-02-03T15:54:59.000Z",
+          "wordCount": 2193,
+          "title": "No Hassle Visual Code Theming: Publishing an Extension",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/vs-code-highlight.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=390341",
           "author": "Zell Liew",
           "description": "I've always thought that creating a VS Code theme was a lot of work. But lo and behold, it took less than six hours to get it working, then a day or two to polish up my final tweaks.\nNo-Hassle Visual Studio Code Theming: Building an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -174,12 +184,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Combobox vs. Multi-Select vs. Listbox vs. Dual Listbox? How they are different, what purpose they serve, and how to choose the right one. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
+          "link": "https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/",
+          "publishedOn": "2026-02-03T10:00:00.000Z",
+          "wordCount": 3616,
+          "title": "Combobox vs. Multiselect vs. Listbox: How To Choose The Right One",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/combobox-vs-multiselect-vs-listbox/combobox-vs-multiselect-vs-listbox.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/combobox-vs-multiselect-vs-listbox/combobox-vs-multiselect-vs-listbox.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4597,
+          "wordCount": 4607,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -194,7 +219,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": 4668,
+          "wordCount": 4656,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -209,7 +234,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5818,
+          "wordCount": 5806,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -224,7 +249,7 @@
           "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
           "link": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
           "publishedOn": "2026-01-22T13:00:00.000Z",
-          "wordCount": 6455,
+          "wordCount": 6454,
           "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg",
@@ -239,7 +264,7 @@
           "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
           "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
           "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 5108,
+          "wordCount": 5119,
           "title": "Rethinking “Pixel Perfect” Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
@@ -254,7 +279,7 @@
           "description": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.",
           "link": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
           "publishedOn": "2026-01-14T10:00:00.000Z",
-          "wordCount": 5367,
+          "wordCount": 5365,
           "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg",
@@ -299,7 +324,7 @@
           "description": "Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without starting from scratch, and how the skills you already use, like problem-solving, communication, and empathy, can open new doors.",
           "link": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
           "publishedOn": "2026-01-07T10:00:00.000Z",
-          "wordCount": 5448,
+          "wordCount": 5445,
           "title": "Pivoting Your Career Without Starting From Scratch",
           "enclosure": {
             "url": "http://files.smashing.media/articles/pivoting-career-without-starting-from-scratch/pivoting-career-without-starting-from-scratch.jpg",
@@ -315,6 +340,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "698115a622cd39b64c5fac49",
+          "author": "Kelechi Apugo",
+          "description": "When you’re debugging a large React codebase, you might start to feel like a detective. Especially when you are looking for unexpected state changes, components that re-render when they like, or Context values that disappear into thin air without any...",
+          "link": "https://www.freecodecamp.org/news/how-to-debug-react-state-updates-like-a-pro-without-polluting-production/",
+          "publishedOn": "2026-02-02T21:22:46.000Z",
+          "wordCount": 3922,
+          "title": "How to Debug React State Updates Like a Pro (Without Polluting Production)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770067225475/d0910306-5756-465a-8b6f-adf839fe004a.png"
+        },
         {
           "id": "697d5a754655a071649990c6",
           "author": "Atuoha Anthony",
@@ -351,7 +386,7 @@
           "description": "Today Quincy Larson interviews Tapas Adhikari. He's a software engineer who runs a firm of 20 developers who build projects for companies around the world. He's also a prolific teacher, having written 300 programming tutorials - including 47 for free...",
           "link": "https://www.freecodecamp.org/news/tips-from-a-20-year-developer-veteran-turned-consultancy-founder-tapas-adhikary-interview-podcast-206/",
           "publishedOn": "2026-01-30T15:00:18.000Z",
-          "wordCount": 1322,
+          "wordCount": 1321,
           "title": "Tips from a 20-year developer veteran turned consultancy founder – Tapas Adhikary interview [Podcast #206]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769737467587/d91cb9c7-9eb3-4a42-ae3c-ba334ad028a4.jpeg"
         },
@@ -404,16 +439,6 @@
           "wordCount": 3607,
           "title": "How the Factory and Abstract Factory Design Patterns Work in Flutter",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769533734673/8b5ad88a-13d2-4fec-969b-55fd854df5c1.png"
-        },
-        {
-          "id": "6978f421ead51482f82901bf",
-          "author": "Mayur Vekariya",
-          "description": "In this tutorial, you'll learn how to build a complete RAG (Retrieval-Augmented Generation) search application from scratch. Your application will allow users to upload documents, store them securely, and search through them using AI-powered semantic...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-powered-rag-search-application-with-nextjs-supabase-and-openai/",
-          "publishedOn": "2026-01-27T17:21:37.000Z",
-          "wordCount": 8249,
-          "title": "How to Build an AI-Powered RAG Search Application with Next.js, Supabase, and OpenAI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769534479648/a3f19714-a00b-4444-9289-753902282ac6.png"
         }
       ]
     }
