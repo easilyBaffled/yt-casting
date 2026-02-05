@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-04T00:41:30.184Z</id>
+    <id>urn:2026-02-05T00:45:41.884Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-04T00:41:30.184Z</updated>
+    <updated>2026-02-05T00:45:41.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How AOSP 16 Bluetooth Scanner Works: The Ultimate Guide]]></title>
+        <id>6983ae630a7fef9ac2d90313</id>
+        <link href="https://www.freecodecamp.org/news/how-aosp-16-bluetooth-scanner-works-the-ultimate-guide/"/>
+        <updated>2026-02-04T20:38:59.000Z</updated>
+        <summary type="html"><![CDATA[Ah, Bluetooth. The technology we all love to hate. It's like that one friend who's always just about to connect, but then... doesn't. For years, Android developers have been locked in a dramatic, often tragic, romance with Bluetooth. We've wrestled w...]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Monorepos in Flutter]]></title>
+        <id>6983a70b543e15ed3c801f63</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-monorepos-in-flutter/"/>
+        <updated>2026-02-04T20:07:39.000Z</updated>
+        <summary type="html"><![CDATA[As Flutter applications grow beyond a single mobile app, teams quickly encounter a new class of problems. Shared business logic begins to be copied across projects. UI components drift out of sync. Fixes in one app don’t propagate cleanly to others. ...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Deploy a LogAnalyzer Agent using LangChain]]></title>
+        <id>69837cd8f119ce39fb6041f1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-and-deploy-a-loganalyzer-agent-using-langchain/"/>
+        <updated>2026-02-04T17:07:36.000Z</updated>
+        <summary type="html"><![CDATA[Modern systems generate huge volumes of logs. Application logs, server logs, and infrastructure logs often contain the first clues when something breaks. The problem is not a lack of data, but the effort required to read and understand it. Engineers ...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How TCP Turns Round Trip Time and Jitter into Packet Loss]]></title>
+        <id>69837b8b9eb9655b2349db75</id>
+        <link href="https://www.freecodecamp.org/news/how-tcp-turns-round-trip-time-and-jitter-into-packet-loss/"/>
+        <updated>2026-02-04T17:02:03.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever noticed that your network connection sometimes feels fast and then suddenly slow, even when nothing obvious has changed? A request that takes 20 ms at one moment can take 80 ms the next, and sometimes it does not return at all. Terms li...]]></summary>
+        <author>
+            <name>Syeda Maham Fahim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No Hassle Visual Code Theming: Publishing an Extension]]></title>
         <id>https://css-tricks.com/?p=390379</id>
@@ -129,26 +169,6 @@ What’s !important #4: Videos & View Transitions, Named Media Queries, How Brow
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Relational Database Design]]></title>
-        <id>697bd350c5c536590f03089b</id>
-        <link href="https://www.freecodecamp.org/news/learn-relational-database-design-1/"/>
-        <updated>2026-01-29T21:38:24.000Z</updated>
-        <summary type="html"><![CDATA[Relational databases are used in many different types of software. We just posted a course on the freeCodeCamp.org YouTube channel that will help you learn relational database design from the ground up. This course covers SQL fundamentals, entity-rel...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Builder Pattern in Python – A Practical Guide for Developers]]></title>
-        <id>697a3bb24b19a21e89e9cf78</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-builder-pattern-in-python-a-practical-guide-for-devs/"/>
-        <updated>2026-01-28T16:39:14.000Z</updated>
-        <summary type="html"><![CDATA[Creating complex objects can get messy. You've probably written constructors with too many parameters, struggled with optional arguments, or created objects that require multiple setup steps. The builder pattern solves these problems by separating ob...]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Styling ::search-text and Other Highlight-y Pseudo-Elements]]></title>
         <id>https://css-tricks.com/?p=391705</id>
         <link href="https://css-tricks.com/how-to-style-the-new-search-text-and-other-highlight-pseudo-elements/"/>
@@ -168,26 +188,6 @@ Styling ::search-text and Other Highlight-y Pseudo-Elements originally published
 ReliCSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does Extended Bluetooth Advertising Work in AOSP?]]></title>
-        <id>697944640adf51eaa61e39f8</id>
-        <link href="https://www.freecodecamp.org/news/how-does-extended-bluetooth-advertising-work-in-aosp/"/>
-        <updated>2026-01-27T23:04:04.000Z</updated>
-        <summary type="html"><![CDATA[Bluetooth Low Energy advertising has always been one of those things developers “just use” until it breaks in subtle, painful ways. You set a name, throw in a UUID, maybe add some manufacturer data, and hope everything fits. For years, the unspoken r...]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Factory and Abstract Factory Design Patterns Work in Flutter]]></title>
-        <id>6978f477116625d0304ed264</id>
-        <link href="https://www.freecodecamp.org/news/how-the-factory-and-abstract-factory-design-patterns-work-in-flutter/"/>
-        <updated>2026-01-27T17:23:03.000Z</updated>
-        <summary type="html"><![CDATA[In software development, particularly object-oriented programming and design, object creation is a common task. And how you manage this process can impact your app's flexibility, scalability, and maintainability. Creational design patterns govern how...]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
         </author>
     </entry>
     <entry>
