@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-05T00:45:41.884Z</id>
+    <id>urn:2026-02-06T00:42:41.175Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-05T00:45:41.884Z</updated>
+    <updated>2026-02-06T00:42:41.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Your UI Won’t Update: Debugging Stale Data and Caching in React Apps]]></title>
+        <id>6984d41160b1e5f9aeccaa9e</id>
+        <link href="https://www.freecodecamp.org/news/why-your-ui-wont-update-debugging-stale-data-and-caching-in-react-apps/"/>
+        <updated>2026-02-05T17:32:01.000Z</updated>
+        <summary type="html"><![CDATA[Your UI doesn’t “randomly” refuse to update. In most cases, it’s rendering cached data, which is data that was saved somewhere so the app doesn’t have to do the same work again. Caching is great for performance, but it becomes a pain when you don’t r...]]></summary>
+        <author>
+            <name>Oluwadamisi Samuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harvard CS50 2026 – Free Computer Science University Course]]></title>
+        <id>6984cf23a3b8d53c075bbaa5</id>
+        <link href="https://www.freecodecamp.org/news/harvard-cs50-2026-free-computer-science-university-course/"/>
+        <updated>2026-02-05T17:10:59.000Z</updated>
+        <summary type="html"><![CDATA[Harvard University's CS50 is one of the most popular beginner computer science courses in the world. We just released the entire 25-hour CS50 course on the freeCodeCamp.org YouTube channel. This is the most recent version updated for 2026, with an al...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw Full Tutorial for Beginners]]></title>
+        <id>6984ca1c0d3cc85f508db81e</id>
+        <link href="https://www.freecodecamp.org/news/openclaw-full-tutorial-for-beginners/"/>
+        <updated>2026-02-05T16:49:32.000Z</updated>
+        <summary type="html"><![CDATA[The AI landscape has shifted in 2026 from passive chatbots to proactive autonomous agents, with OpenClaw leading the charge as the most viral open-source project of the year. We just posted a comprehensive introduction to OpenClaw on the freeCodeCamp...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Bar Charts Using Modern Functions]]></title>
+        <id>https://css-tricks.com/?p=391781</id>
+        <link href="https://css-tricks.com/css-bar-charts-using-modern-functions/"/>
+        <updated>2026-02-05T15:13:14.000Z</updated>
+        <summary type="html"><![CDATA[CSS-only bar charts are one of those things we've tackled a bunch of times in different ways. But how can modern CSS features finally make it not only trivial, but fun?
+CSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions]]></title>
+        <id>https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/</id>
+        <link href="https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/"/>
+        <updated>2026-02-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Blake Lundquist)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How AOSP 16 Bluetooth Scanner Works: The Ultimate Guide]]></title>
         <id>6983ae630a7fef9ac2d90313</id>
@@ -108,23 +159,13 @@ No-Hassle Visual Studio Code Theming: Building an Extension originally published
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Go From Hello World to Building Real World Applications]]></title>
+        <title type="html"><![CDATA[How to Go From Hello World to Building Real-World Applications]]></title>
         <id>697d098607632dbd100433e8</id>
         <link href="https://www.freecodecamp.org/news/how-to-go-from-hello-world-to-building-real-world-applications/"/>
         <updated>2026-01-30T19:41:58.000Z</updated>
         <summary type="html"><![CDATA[Many developers start learning programming by building simple projects like todo apps, calculators, and basic CRUD applications. These projects are useful at the beginning, as they help you understand how a programming language works and give you the...]]></summary>
         <author>
             <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Social Media Post Scheduler Using Gemini and Late API in Next.js]]></title>
-        <id>697cebbfa59b6f85b8ca1c5f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-social-media-post-scheduler-using-gemini-and-late-api-in-nextjs/"/>
-        <updated>2026-01-30T17:34:55.000Z</updated>
-        <summary type="html"><![CDATA[Social media has become a vital tool for people and businesses to share ideas, promote products, and connect with their target audience. But creating posts regularly and managing schedules across multiple platforms can be time-consuming and repetitiv...]]></summary>
-        <author>
-            <name>David Asaolu</name>
         </author>
     </entry>
     <entry>
@@ -139,16 +180,6 @@ What’s !important #4: Videos & View Transitions, Named Media Queries, How Brow
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tips from a 20-year developer veteran turned consultancy founder – Tapas Adhikary interview [Podcast #206]]]></title>
-        <id>697cc782ebd78e3e9ac5ac3d</id>
-        <link href="https://www.freecodecamp.org/news/tips-from-a-20-year-developer-veteran-turned-consultancy-founder-tapas-adhikary-interview-podcast-206/"/>
-        <updated>2026-01-30T15:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Tapas Adhikari. He's a software engineer who runs a firm of 20 developers who build projects for companies around the world. He's also a prolific teacher, having written 300 programming tutorials - including 47 for free...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Practical Use Of AI Coding Tools For The Responsible Developer]]></title>
         <id>https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/</id>
         <link href="https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/"/>
@@ -156,16 +187,6 @@ What’s !important #4: Videos & View Transitions, Named Media Queries, How Brow
         <summary type="html"><![CDATA[AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stefan Kaltenegger)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Prioritize as a Product Manager – Product Prioritization Frameworks Explained]]></title>
-        <id>697bf73e79322b4a93ac0fb8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-prioritize-as-a-product-manager/"/>
-        <updated>2026-01-30T00:11:42.000Z</updated>
-        <summary type="html"><![CDATA[Prioritization in product management is hardly about what metric takes precedence over the other. Of all the roles a product manager plays, one of the most difficult is deciding what to work on next. Why? Because everything feels urgent. Engineers wa...]]></summary>
-        <author>
-            <name>Onyinyechi Nwaucha</name>
         </author>
     </entry>
     <entry>
@@ -349,27 +370,6 @@ Postcard From Web Directions Dev Summit, 2025 originally published on CSS-Tricks
         <summary type="html"><![CDATA[[Penpot](https://penpot.app/?utm_source=SmashingMagazine&utm_medium=Article&utm_campaign=MCPserver) is experimenting with MCP (Model Context Protocol) servers, which could lead to designers and developers being able to perform tasks in Penpot using AI that’s able to understand and interact with Penpot design files. Daniel Schwarz explains how [Penpot MCP](https://github.com/penpot/penpot-mcp) servers work, what they could mean for creating and managing designs in Penpot, and what you can do to help shape their development.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Daniel Schwarz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Future CSS: :drag (and Maybe ::dragged-image?)]]></title>
-        <id>https://css-tricks.com/?p=390960</id>
-        <link href="https://css-tricks.com/future-css-drag-and-maybe-dragged-image/"/>
-        <updated>2026-01-07T15:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever struggled to style an element while it's being dragged? Sunkanmi explains some ways it could become easier in the future.
-Future CSS: :drag (and Maybe ::dragged-image?) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pivoting Your Career Without Starting From Scratch]]></title>
-        <id>https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/</id>
-        <link href="https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/"/>
-        <updated>2026-01-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without starting from scratch, and how the skills you already use, like problem-solving, communication, and empathy, can open new doors.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joas Pambou)</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391781",
+          "author": "Preethi",
+          "description": "CSS-only bar charts are one of those things we've tackled a bunch of times in different ways. But how can modern CSS features finally make it not only trivial, but fun?\nCSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-bar-charts-using-modern-functions/",
+          "publishedOn": "2026-02-05T15:13:14.000Z",
+          "wordCount": 1627,
+          "title": "CSS Bar Charts Using Modern Functions",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/bar-chart-horizontal.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=390379",
           "author": "Zell Liew",
           "description": "You’d think that publishing a VS Code extension is an easy process, but it’s not. You have to publish your theme in at least two places.\nNo Hassle Visual Code Theming: Publishing an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -77,7 +87,7 @@
           "description": "Accessibility advice around modals have commonly taught us to trap focus within the modal. Upon further research, it seems like we no longer need to trap focus within the <dialog> (even in modal mode).\nThere is No Need to Trap Focus on a Dialog Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/there-is-no-need-to-trap-focus-on-a-dialog-element/",
           "publishedOn": "2026-01-26T15:02:27.000Z",
-          "wordCount": 2524,
+          "wordCount": 2626,
           "title": "There is No Need to Trap Focus on a Dialog Element",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/04/tab-key.png"
         },
@@ -165,16 +175,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/lee-web-directions.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390960",
-          "author": "Sunkanmi Fafowora",
-          "description": "Have you ever struggled to style an element while it's being dragged? Sunkanmi explains some ways it could become easier in the future.\nFuture CSS: :drag (and Maybe ::dragged-image?) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/future-css-drag-and-maybe-dragged-image/",
-          "publishedOn": "2026-01-07T15:16:47.000Z",
-          "wordCount": 1935,
-          "title": "Future CSS: :drag (and Maybe ::dragged-image?)",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/Screenshot-2025-12-12-at-10.03.09-AM-scaled-e1765559057362.png"
         }
       ]
     },
@@ -183,6 +183,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
+          "author": "hello@smashingmagazine.com (Blake Lundquist)",
+          "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
+          "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
+          "publishedOn": "2026-02-05T08:00:00.000Z",
+          "wordCount": 4504,
+          "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -204,7 +219,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4600,
+          "wordCount": 4610,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -219,7 +234,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": 4659,
+          "wordCount": 4654,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -234,7 +249,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5819,
+          "wordCount": 5820,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -249,7 +264,7 @@
           "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
           "link": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
           "publishedOn": "2026-01-22T13:00:00.000Z",
-          "wordCount": 6443,
+          "wordCount": 6456,
           "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg",
@@ -264,7 +279,7 @@
           "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
           "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
           "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 5116,
+          "wordCount": null,
           "title": "Rethinking “Pixel Perfect” Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
@@ -279,7 +294,7 @@
           "description": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.",
           "link": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
           "publishedOn": "2026-01-14T10:00:00.000Z",
-          "wordCount": 5362,
+          "wordCount": 5365,
           "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg",
@@ -317,21 +332,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/penpot-experimenting-mcp-servers-ai-powered-design-workflows/penpot-experimenting-mcp-servers-ai-powered-design-workflows.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
-          "author": "hello@smashingmagazine.com (Joas Pambou)",
-          "description": "Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without starting from scratch, and how the skills you already use, like problem-solving, communication, and empathy, can open new doors.",
-          "link": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
-          "publishedOn": "2026-01-07T10:00:00.000Z",
-          "wordCount": 5447,
-          "title": "Pivoting Your Career Without Starting From Scratch",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/pivoting-career-without-starting-from-scratch/pivoting-career-without-starting-from-scratch.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/pivoting-career-without-starting-from-scratch/pivoting-career-without-starting-from-scratch.jpg"
         }
       ]
     },
@@ -340,6 +340,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6984d41160b1e5f9aeccaa9e",
+          "author": "Oluwadamisi Samuel",
+          "description": "Your UI doesn’t “randomly” refuse to update. In most cases, it’s rendering cached data, which is data that was saved somewhere so the app doesn’t have to do the same work again. Caching is great for performance, but it becomes a pain when you don’t r...",
+          "link": "https://www.freecodecamp.org/news/why-your-ui-wont-update-debugging-stale-data-and-caching-in-react-apps/",
+          "publishedOn": "2026-02-05T17:32:01.000Z",
+          "wordCount": 3192,
+          "title": "Why Your UI Won’t Update: Debugging Stale Data and Caching in React Apps",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770312709391/8442f6df-1133-47f7-a035-02c958145811.png"
+        },
+        {
+          "id": "6984cf23a3b8d53c075bbaa5",
+          "author": "Beau Carnes",
+          "description": "Harvard University's CS50 is one of the most popular beginner computer science courses in the world. We just released the entire 25-hour CS50 course on the freeCodeCamp.org YouTube channel. This is the most recent version updated for 2026, with an al...",
+          "link": "https://www.freecodecamp.org/news/harvard-cs50-2026-free-computer-science-university-course/",
+          "publishedOn": "2026-02-05T17:10:59.000Z",
+          "wordCount": 1087,
+          "title": "Harvard CS50 2026 – Free Computer Science University Course",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770311427284/e63d5d11-e815-41e2-88c5-50c9ac969098.jpeg"
+        },
+        {
+          "id": "6984ca1c0d3cc85f508db81e",
+          "author": "Beau Carnes",
+          "description": "The AI landscape has shifted in 2026 from passive chatbots to proactive autonomous agents, with OpenClaw leading the charge as the most viral open-source project of the year. We just posted a comprehensive introduction to OpenClaw on the freeCodeCamp...",
+          "link": "https://www.freecodecamp.org/news/openclaw-full-tutorial-for-beginners/",
+          "publishedOn": "2026-02-05T16:49:32.000Z",
+          "wordCount": 1092,
+          "title": "OpenClaw Full Tutorial for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770310153117/f090efe2-ee69-44b6-890d-9158c914c389.jpeg"
+        },
         {
           "id": "6983ae630a7fef9ac2d90313",
           "author": "Nikheel Vishwas Savant",
@@ -406,39 +436,9 @@
           "description": "Many developers start learning programming by building simple projects like todo apps, calculators, and basic CRUD applications. These projects are useful at the beginning, as they help you understand how a programming language works and give you the...",
           "link": "https://www.freecodecamp.org/news/how-to-go-from-hello-world-to-building-real-world-applications/",
           "publishedOn": "2026-01-30T19:41:58.000Z",
-          "wordCount": 5771,
-          "title": "How to Go From Hello World to Building Real World Applications",
+          "wordCount": 5768,
+          "title": "How to Go From Hello World to Building Real-World Applications",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769802056548/2b1b2ede-5f7f-423f-b6ee-19e0c0ac7b43.png"
-        },
-        {
-          "id": "697cebbfa59b6f85b8ca1c5f",
-          "author": "David Asaolu",
-          "description": "Social media has become a vital tool for people and businesses to share ideas, promote products, and connect with their target audience. But creating posts regularly and managing schedules across multiple platforms can be time-consuming and repetitiv...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-social-media-post-scheduler-using-gemini-and-late-api-in-nextjs/",
-          "publishedOn": "2026-01-30T17:34:55.000Z",
-          "wordCount": 3369,
-          "title": "How to Build an AI Social Media Post Scheduler Using Gemini and Late API in Next.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769794478505/be596e27-4c88-45b3-8547-f715c82e0eda.png"
-        },
-        {
-          "id": "697cc782ebd78e3e9ac5ac3d",
-          "author": "Beau Carnes",
-          "description": "Today Quincy Larson interviews Tapas Adhikari. He's a software engineer who runs a firm of 20 developers who build projects for companies around the world. He's also a prolific teacher, having written 300 programming tutorials - including 47 for free...",
-          "link": "https://www.freecodecamp.org/news/tips-from-a-20-year-developer-veteran-turned-consultancy-founder-tapas-adhikary-interview-podcast-206/",
-          "publishedOn": "2026-01-30T15:00:18.000Z",
-          "wordCount": 1321,
-          "title": "Tips from a 20-year developer veteran turned consultancy founder – Tapas Adhikary interview [Podcast #206]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769737467587/d91cb9c7-9eb3-4a42-ae3c-ba334ad028a4.jpeg"
-        },
-        {
-          "id": "697bf73e79322b4a93ac0fb8",
-          "author": "Onyinyechi Nwaucha",
-          "description": "Prioritization in product management is hardly about what metric takes precedence over the other. Of all the roles a product manager plays, one of the most difficult is deciding what to work on next. Why? Because everything feels urgent. Engineers wa...",
-          "link": "https://www.freecodecamp.org/news/how-to-prioritize-as-a-product-manager/",
-          "publishedOn": "2026-01-30T00:11:42.000Z",
-          "wordCount": 3874,
-          "title": "How to Prioritize as a Product Manager – Product Prioritization Frameworks Explained",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769731875495/c2d3feca-a09e-454c-93de-bc00607ac517.png"
         }
       ]
     }
