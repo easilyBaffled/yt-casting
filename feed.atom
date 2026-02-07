@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-06T00:42:41.175Z</id>
+    <id>urn:2026-02-07T00:42:59.993Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-06T00:42:41.175Z</updated>
+    <updated>2026-02-07T00:42:59.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Résumé Screening System Using Python and Multiprocessing]]></title>
+        <id>698614754058fffacf721cc8</id>
+        <link href="https://www.freecodecamp.org/news/python-resume-screening-system/"/>
+        <updated>2026-02-06T16:19:01.000Z</updated>
+        <summary type="html"><![CDATA[Hiring the right candidate starts with one time-consuming task: screening résumés. If you’ve ever posted a job opening, you know the pain of hundreds of applications in your inbox, leaving you to spend hours reviewing each résumé manually. In this ar...]]></summary>
+        <author>
+            <name>Abdul Talha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Dockerize Your Application and Deploy It]]></title>
+        <id>69851e61087459735f840552</id>
+        <link href="https://www.freecodecamp.org/news/how-to-dockerize-your-application-and-deploy-it/"/>
+        <updated>2026-02-05T22:49:05.000Z</updated>
+        <summary type="html"><![CDATA[Modern applications rarely live in isolation. They move between laptops, staging servers, and production environments. Each environment has its own quirks, missing libraries, or slightly different configurations. This is where many “works on my machi...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize PySpark Jobs: Real-World Scenarios for Understanding Logical Plans]]></title>
+        <id>69851d7be613661950e00d8f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-optimize-pyspark-jobs-handbook/"/>
+        <updated>2026-02-05T22:45:15.000Z</updated>
+        <summary type="html"><![CDATA[In the world of big data, performance isn't just about bigger clusters – it's about smarter code. Spark is deceptively simple to write but notoriously difficult to optimize, because what you write isn't what Spark executes. Between your transformatio...]]></summary>
+        <author>
+            <name>Sameer Shukla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Production-Ready Feature Flag System with Next.js and Supabase]]></title>
+        <id>69851c4ec8140c13f9fa09c8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-production-ready-feature-flag-system-with-nextjs-and-supabase/"/>
+        <updated>2026-02-05T22:40:14.000Z</updated>
+        <summary type="html"><![CDATA[Feature flags are powerful tools that let you control which features are visible to users without deploying new code. They enable gradual rollouts, A/B testing, and instant feature toggles, which are all essential for modern software development. In ...]]></summary>
+        <author>
+            <name>David Aniebo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Your UI Won’t Update: Debugging Stale Data and Caching in React Apps]]></title>
         <id>6984d41160b1e5f9aeccaa9e</id>
@@ -87,16 +127,6 @@ CSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How TCP Turns Round Trip Time and Jitter into Packet Loss]]></title>
-        <id>69837b8b9eb9655b2349db75</id>
-        <link href="https://www.freecodecamp.org/news/how-tcp-turns-round-trip-time-and-jitter-into-packet-loss/"/>
-        <updated>2026-02-04T17:02:03.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever noticed that your network connection sometimes feels fast and then suddenly slow, even when nothing obvious has changed? A request that takes 20 ms at one moment can take 80 ms the next, and sometimes it does not return at all. Terms li...]]></summary>
-        <author>
-            <name>Syeda Maham Fahim</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[No Hassle Visual Code Theming: Publishing an Extension]]></title>
         <id>https://css-tricks.com/?p=390379</id>
         <link href="https://css-tricks.com/no-hassle-visual-code-theming-publishing-an-extension/"/>
@@ -118,16 +148,6 @@ No Hassle Visual Code Theming: Publishing an Extension originally published on C
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Debug React State Updates Like a Pro (Without Polluting Production)]]></title>
-        <id>698115a622cd39b64c5fac49</id>
-        <link href="https://www.freecodecamp.org/news/how-to-debug-react-state-updates-like-a-pro-without-polluting-production/"/>
-        <updated>2026-02-02T21:22:46.000Z</updated>
-        <summary type="html"><![CDATA[When you’re debugging a large React codebase, you might start to feel like a detective. Especially when you are looking for unexpected state changes, components that re-render when they like, or Context values that disappear into thin air without any...]]></summary>
-        <author>
-            <name>Kelechi Apugo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[No-Hassle Visual Studio Code Theming: Building an Extension]]></title>
         <id>https://css-tricks.com/?p=390341</id>
         <link href="https://css-tricks.com/no-hassle-visual-studio-code-theming-building-an-extension/"/>
@@ -146,26 +166,6 @@ No-Hassle Visual Studio Code Theming: Building an Extension originally published
         <summary type="html"><![CDATA[Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Multi-Language Support in Flutter: Manual and AI-Automated Translations for Flutter Apps]]></title>
-        <id>697d5a754655a071649990c6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-multi-language-support-in-flutter-manual-and-ai-automated-translations-for-flutter-apps/"/>
-        <updated>2026-01-31T01:27:17.000Z</updated>
-        <summary type="html"><![CDATA[As Flutter applications scale beyond a single market, language support becomes a critical requirement. A well-designed app should feel natural to users regardless of their locale, automatically adapting to their language preferences while still givin...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Go From Hello World to Building Real-World Applications]]></title>
-        <id>697d098607632dbd100433e8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-go-from-hello-world-to-building-real-world-applications/"/>
-        <updated>2026-01-30T19:41:58.000Z</updated>
-        <summary type="html"><![CDATA[Many developers start learning programming by building simple projects like todo apps, calculators, and basic CRUD applications. These projects are useful at the beginning, as they help you understand how a programming language works and give you the...]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
         </author>
     </entry>
     <entry>
@@ -360,16 +360,6 @@ Postcard From Web Directions Dev Summit, 2025 originally published on CSS-Tricks
         <summary type="html"><![CDATA[How to shape your career path for 2026, with decision trees for designers and a UX skills self-assessment matrix. The only limits for tomorrow are the doubts we have today. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Penpot Is Experimenting With MCP Servers For AI-Powered Design Workflows]]></title>
-        <id>https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/</id>
-        <link href="https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/"/>
-        <updated>2026-01-08T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[[Penpot](https://penpot.app/?utm_source=SmashingMagazine&utm_medium=Article&utm_campaign=MCPserver) is experimenting with MCP (Model Context Protocol) servers, which could lead to designers and developers being able to perform tasks in Penpot using AI that’s able to understand and interact with Penpot design files. Daniel Schwarz explains how [Penpot MCP](https://github.com/penpot/penpot-mcp) servers work, what they could mean for creating and managing designs in Penpot, and what you can do to help shape their development.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Daniel Schwarz)</name>
         </author>
     </entry>
 </feed>
