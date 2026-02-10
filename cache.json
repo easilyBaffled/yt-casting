@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391766",
+          "author": "Juan Diego Rodríguez",
+          "description": "Can we make pie chart that's semantic, with flexible markup, and avoids using a JavaScript library? Here's how I tackled it.\nTrying to Make the Perfect Pie Chart in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/trying-to-make-the-perfect-pie-chart-in-css/",
+          "publishedOn": "2026-02-09T17:34:56.000Z",
+          "wordCount": 3717,
+          "title": "Trying to Make the Perfect Pie Chart in CSS",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/ddzynrhrx/video/upload/v1769282762/audio_nvda_tejgbi.mp4",
+            "length": "162076",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/pie-chart.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=391781",
           "author": "Preethi",
           "description": "CSS-only bar charts are one of those things we've tackled a bunch of times in different ways. But how can modern CSS features finally make it not only trivial, but fun?\nCSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -160,21 +175,6 @@
           "wordCount": 1521,
           "title": "Playing With CodePen slideVars",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/codepen-slidevars.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=391345",
-          "author": "Lee Meyer",
-          "description": "Lee Meyer recently spoke at Web Directions Summit 2025. This is his experience, not only speaking at the event, but experiencing the event through the lens of anxiety and imposter syndrome.\nPostcard From Web Directions Dev Summit, 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/postcard-from-web-directions-dev-summit-2025/",
-          "publishedOn": "2026-01-12T14:54:32.000Z",
-          "wordCount": 4451,
-          "title": "Postcard From Web Directions Dev Summit, 2025",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/01/lee-meyer-web-directions-demo.mp4",
-            "length": "779557",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/lee-web-directions.jpg"
         }
       ]
     },
@@ -189,7 +189,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4513,
+          "wordCount": 4499,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -219,7 +219,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4604,
+          "wordCount": 4600,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -234,7 +234,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": 4661,
+          "wordCount": 4669,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -249,7 +249,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5810,
+          "wordCount": 5811,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -264,7 +264,7 @@
           "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
           "link": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
           "publishedOn": "2026-01-22T13:00:00.000Z",
-          "wordCount": 6455,
+          "wordCount": 6449,
           "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg",
@@ -279,7 +279,7 @@
           "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
           "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
           "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 5102,
+          "wordCount": 5112,
           "title": "Rethinking “Pixel Perfect” Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
@@ -294,7 +294,7 @@
           "description": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.",
           "link": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
           "publishedOn": "2026-01-14T10:00:00.000Z",
-          "wordCount": 5370,
+          "wordCount": 5361,
           "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg",
@@ -325,6 +325,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6989f75b7982b0d48a3c2c48",
+          "author": "Bala Priya C",
+          "description": "Design patterns are proven solutions to common problems in software development. If you've ever found yourself writing repetitive object creation code or struggling to manage different types of objects, the factory pattern might be exactly what you n...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-factory-pattern-in-python-a-practical-guide/",
+          "publishedOn": "2026-02-09T15:03:55.000Z",
+          "wordCount": 2479,
+          "title": "How to Use the Factory Pattern in Python - A Practical Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770649418899/f26d3d70-a909-4d8f-92f5-7f263c64f9fe.png"
+        },
+        {
+          "id": "6989f72cfec80c4e91c007a4",
+          "author": "Chidiadi Anyanwu",
+          "description": "Writing code can be similar to writing tutorials. In both cases, you’ll typically need to create and work on multiple drafts before reaching the final version. In an ideal setting, you would write code for a feature, add that code to the staging area...",
+          "link": "https://www.freecodecamp.org/news/how-to-save-multiple-drafts-in-git-a-guide-to-using-stash/",
+          "publishedOn": "2026-02-09T15:03:08.000Z",
+          "wordCount": 1936,
+          "title": "How to Save Multiple Drafts in Git: A Guide to Using Stash",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770649372924/7c949e9d-627a-4b06-99fe-40ce0e7c8507.png"
+        },
         {
           "id": "698614754058fffacf721cc8",
           "author": "Abdul Talha",
@@ -404,26 +424,6 @@
           "wordCount": 13955,
           "title": "How AOSP 16 Bluetooth Scanner Works: The Ultimate Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770234863523/44a1690e-ab8a-4f6b-a12b-2c2636947d8c.png"
-        },
-        {
-          "id": "6983a70b543e15ed3c801f63",
-          "author": "Atuoha Anthony",
-          "description": "As Flutter applications grow beyond a single mobile app, teams quickly encounter a new class of problems. Shared business logic begins to be copied across projects. UI components drift out of sync. Fixes in one app don’t propagate cleanly to others. ...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-monorepos-in-flutter/",
-          "publishedOn": "2026-02-04T20:07:39.000Z",
-          "wordCount": 4302,
-          "title": "How to Use Monorepos in Flutter",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770234857032/469b96ec-07d5-4ca3-9662-d890790a6a75.png"
-        },
-        {
-          "id": "69837cd8f119ce39fb6041f1",
-          "author": "Manish Shivanandhan",
-          "description": "Modern systems generate huge volumes of logs. Application logs, server logs, and infrastructure logs often contain the first clues when something breaks. The problem is not a lack of data, but the effort required to read and understand it. Engineers ...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-and-deploy-a-loganalyzer-agent-using-langchain/",
-          "publishedOn": "2026-02-04T17:07:36.000Z",
-          "wordCount": 2494,
-          "title": "How to Build and Deploy a LogAnalyzer Agent using LangChain",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770224778776/7d5c3a27-adc2-4cde-94d5-4ac7db892673.png"
         }
       ]
     }

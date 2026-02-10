@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-09T00:47:04.856Z</id>
+    <id>urn:2026-02-10T00:51:50.103Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-09T00:47:04.856Z</updated>
+    <updated>2026-02-10T00:51:50.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Trying to Make the Perfect Pie Chart in CSS]]></title>
+        <id>https://css-tricks.com/?p=391766</id>
+        <link href="https://css-tricks.com/trying-to-make-the-perfect-pie-chart-in-css/"/>
+        <updated>2026-02-09T17:34:56.000Z</updated>
+        <summary type="html"><![CDATA[Can we make pie chart that's semantic, with flexible markup, and avoids using a JavaScript library? Here's how I tackled it.
+Trying to Make the Perfect Pie Chart in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Factory Pattern in Python - A Practical Guide]]></title>
+        <id>6989f75b7982b0d48a3c2c48</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-factory-pattern-in-python-a-practical-guide/"/>
+        <updated>2026-02-09T15:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Design patterns are proven solutions to common problems in software development. If you've ever found yourself writing repetitive object creation code or struggling to manage different types of objects, the factory pattern might be exactly what you n...]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Save Multiple Drafts in Git: A Guide to Using Stash]]></title>
+        <id>6989f72cfec80c4e91c007a4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-save-multiple-drafts-in-git-a-guide-to-using-stash/"/>
+        <updated>2026-02-09T15:03:08.000Z</updated>
+        <summary type="html"><![CDATA[Writing code can be similar to writing tutorials. In both cases, you’ll typically need to create and work on multiple drafts before reaching the final version. In an ideal setting, you would write code for a feature, add that code to the staging area...]]></summary>
+        <author>
+            <name>Chidiadi Anyanwu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Résumé Screening System Using Python and Multiprocessing]]></title>
         <id>698614754058fffacf721cc8</id>
@@ -104,26 +135,6 @@ CSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which 
         <summary type="html"><![CDATA[Ah, Bluetooth. The technology we all love to hate. It's like that one friend who's always just about to connect, but then... doesn't. For years, Android developers have been locked in a dramatic, often tragic, romance with Bluetooth. We've wrestled w...]]></summary>
         <author>
             <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Monorepos in Flutter]]></title>
-        <id>6983a70b543e15ed3c801f63</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-monorepos-in-flutter/"/>
-        <updated>2026-02-04T20:07:39.000Z</updated>
-        <summary type="html"><![CDATA[As Flutter applications grow beyond a single mobile app, teams quickly encounter a new class of problems. Shared business logic begins to be copied across projects. UI components drift out of sync. Fixes in one app don’t propagate cleanly to others. ...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build and Deploy a LogAnalyzer Agent using LangChain]]></title>
-        <id>69837cd8f119ce39fb6041f1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-and-deploy-a-loganalyzer-agent-using-langchain/"/>
-        <updated>2026-02-04T17:07:36.000Z</updated>
-        <summary type="html"><![CDATA[Modern systems generate huge volumes of logs. Application logs, server logs, and infrastructure logs often contain the first clues when something breaks. The problem is not a lack of data, but the effort required to read and understand it. Engineers ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
@@ -339,17 +350,6 @@ Playing With CodePen slideVars originally published on CSS-Tricks, which is part
         <summary type="html"><![CDATA[CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postcard From Web Directions Dev Summit, 2025]]></title>
-        <id>https://css-tricks.com/?p=391345</id>
-        <link href="https://css-tricks.com/postcard-from-web-directions-dev-summit-2025/"/>
-        <updated>2026-01-12T14:54:32.000Z</updated>
-        <summary type="html"><![CDATA[Lee Meyer recently spoke at Web Directions Summit 2025. This is his experience, not only speaking at the event, but experiencing the event through the lens of anxiety and imposter syndrome.
-Postcard From Web Directions Dev Summit, 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
         </author>
     </entry>
     <entry>
