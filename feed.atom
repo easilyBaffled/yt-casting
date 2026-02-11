@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-10T00:51:50.103Z</id>
+    <id>urn:2026-02-11T00:50:53.996Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-10T00:51:50.103Z</updated>
+    <updated>2026-02-11T00:50:53.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Prepare for the Kubernetes Administrator Certification and Pass [2026 update]]]></title>
+        <id>698b4fff1eac20c7da3bd7ba</id>
+        <link href="https://www.freecodecamp.org/news/prepare-for-the-kubernetes-administrator-certification-and-pass-2026-update/"/>
+        <updated>2026-02-10T15:34:23.000Z</updated>
+        <summary type="html"><![CDATA[We just posted a course on the freeCodeCamp.org YouTube channel to help prepare you for the Certified Kubernetes Administrator Certification. This course is designed to provide a deep, practical understanding of Kubernetes administration, from founda...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trying to Make the Perfect Pie Chart in CSS]]></title>
         <id>https://css-tricks.com/?p=391766</id>
@@ -125,16 +135,6 @@ CSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which 
         <summary type="html"><![CDATA[Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Blake Lundquist)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AOSP 16 Bluetooth Scanner Works: The Ultimate Guide]]></title>
-        <id>6983ae630a7fef9ac2d90313</id>
-        <link href="https://www.freecodecamp.org/news/how-aosp-16-bluetooth-scanner-works-the-ultimate-guide/"/>
-        <updated>2026-02-04T20:38:59.000Z</updated>
-        <summary type="html"><![CDATA[Ah, Bluetooth. The technology we all love to hate. It's like that one friend who's always just about to connect, but then... doesn't. For years, Android developers have been locked in a dramatic, often tragic, romance with Bluetooth. We've wrestled w...]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
         </author>
     </entry>
     <entry>
@@ -350,16 +350,6 @@ Playing With CodePen slideVars originally published on CSS-Tricks, which is part
         <summary type="html"><![CDATA[CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UX And Product Designer’s Career Paths In 2026]]></title>
-        <id>https://smashingmagazine.com/2026/01/ux-product-designer-career-paths/</id>
-        <link href="https://smashingmagazine.com/2026/01/ux-product-designer-career-paths/"/>
-        <updated>2026-01-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to shape your career path for 2026, with decision trees for designers and a UX skills self-assessment matrix. The only limits for tomorrow are the doubts we have today. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
