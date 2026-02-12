@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391853",
+          "author": "Kevin Hamer",
+          "description": "The new contrast-color() function is not fully supported yet. But can we still implement it in a cross-browser friendly way using other new CSS features?\nApproximating contrast-color() With Other CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/approximating-contrast-color-with-other-css-features/",
+          "publishedOn": "2026-02-11T15:01:09.000Z",
+          "wordCount": 2411,
+          "title": "Approximating contrast-color() With Other CSS Features",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/apca-wcg-color-contrast.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=391766",
           "author": "Juan Diego Rodríguez",
           "description": "Can we make pie chart that's semantic, with flexible markup, and avoids using a JavaScript library? Here's how I tackled it.\nTrying to Make the Perfect Pie Chart in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/trying-to-make-the-perfect-pie-chart-in-css/",
           "publishedOn": "2026-02-09T17:34:56.000Z",
-          "wordCount": 3837,
+          "wordCount": 4166,
           "title": "Trying to Make the Perfect Pie Chart in CSS",
           "enclosure": {
             "url": "https://res.cloudinary.com/ddzynrhrx/video/upload/v1769282762/audio_nvda_tejgbi.mp4",
@@ -165,16 +175,6 @@
           "wordCount": 2047,
           "title": "What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/wi3.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=391494",
-          "author": "Geoff Graham",
-          "description": "Super cool new CodePen feature alert! You've probably seen a bunch of \"interactive\" demos that let you changed values on the fly from a UI panel embedded directly in the demo.\nPlaying With CodePen slideVars originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/playing-with-codepen-slidevars/",
-          "publishedOn": "2026-01-14T14:59:07.000Z",
-          "wordCount": 1521,
-          "title": "Playing With CodePen slideVars",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/codepen-slidevars.png"
         }
       ]
     },
@@ -184,12 +184,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
+          "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
+          "publishedOn": "2026-02-11T13:00:00.000Z",
+          "wordCount": 6490,
+          "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "author": "hello@smashingmagazine.com (Blake Lundquist)",
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4502,
+          "wordCount": 4501,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -219,7 +234,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4597,
+          "wordCount": 4699,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -234,7 +249,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": 4665,
+          "wordCount": 4659,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -249,7 +264,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5818,
+          "wordCount": 5808,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -264,7 +279,7 @@
           "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
           "link": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
           "publishedOn": "2026-01-22T13:00:00.000Z",
-          "wordCount": 6449,
+          "wordCount": null,
           "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg",
@@ -279,7 +294,7 @@
           "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
           "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
           "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 5111,
+          "wordCount": 5106,
           "title": "Rethinking “Pixel Perfect” Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
@@ -294,7 +309,7 @@
           "description": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.",
           "link": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
           "publishedOn": "2026-01-14T10:00:00.000Z",
-          "wordCount": 5371,
+          "wordCount": 5368,
           "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg",
@@ -310,6 +325,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "698cc32db8fec0245bd9996d",
+          "author": "Nataraj Sundar",
+          "description": "Why Personalization Breaks Most AI Agents Personalization is one of the most requested features in AI-powered applications. Users expect an agent to remember their preferences, adapt to their style, and improve over time. In practice, personalization...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-ai-agents-that-remember-user-preferences-without-breaking-context/",
+          "publishedOn": "2026-02-11T17:58:05.000Z",
+          "wordCount": 3430,
+          "title": "How to Build AI Agents That Remember User Preferences (Without Breaking Context)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770832641633/da49bdca-617e-4272-b5b7-012f3c6c1d61.png"
+        },
+        {
+          "id": "698ca68cf15922839824f638",
+          "author": "Beau Carnes",
+          "description": "To protect your applications against threats, it’s helpful to understand the methods that attackers can use against you. We just posted a course on the freeCodeCamp.org YouTube channel that will help you master the fundamentals of cybersecurity and e...",
+          "link": "https://www.freecodecamp.org/news/learn-cybersecurity-and-ethical-hacking-using-kali-linux/",
+          "publishedOn": "2026-02-11T15:55:56.000Z",
+          "wordCount": 1110,
+          "title": "Learn Cybersecurity and Ethical Hacking using Kali Linux",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770825132682/2e29f195-76dc-4def-8931-fc86f409e131.jpeg"
+        },
+        {
+          "id": "698bb499f3de8b702a26aec1",
+          "author": "Aiyedogbon Abraham",
+          "description": "Testing is one of those things that every developer knows they should do, but many put off until problems start appearing in production. If you’re building React applications with Vite, there's a testing framework that fits so naturally into your wor...",
+          "link": "https://www.freecodecamp.org/news/how-to-test-react-applications-with-vitest/",
+          "publishedOn": "2026-02-10T22:43:37.000Z",
+          "wordCount": 4102,
+          "title": "How to Test React Applications with Vitest",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770763375195/82544dec-aec2-4de9-b7f8-f90349394e81.png"
+        },
         {
           "id": "698b4fff1eac20c7da3bd7ba",
           "author": "Beau Carnes",
@@ -379,36 +424,6 @@
           "wordCount": 7304,
           "title": "How to Build a Production-Ready Feature Flag System with Next.js and Supabase",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770312675718/c462d3b5-5369-45e0-ad47-c91b441fe96f.png"
-        },
-        {
-          "id": "6984d41160b1e5f9aeccaa9e",
-          "author": "Oluwadamisi Samuel",
-          "description": "Your UI doesn’t “randomly” refuse to update. In most cases, it’s rendering cached data, which is data that was saved somewhere so the app doesn’t have to do the same work again. Caching is great for performance, but it becomes a pain when you don’t r...",
-          "link": "https://www.freecodecamp.org/news/why-your-ui-wont-update-debugging-stale-data-and-caching-in-react-apps/",
-          "publishedOn": "2026-02-05T17:32:01.000Z",
-          "wordCount": 3192,
-          "title": "Why Your UI Won’t Update: Debugging Stale Data and Caching in React Apps",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770312709391/8442f6df-1133-47f7-a035-02c958145811.png"
-        },
-        {
-          "id": "6984cf23a3b8d53c075bbaa5",
-          "author": "Beau Carnes",
-          "description": "Harvard University's CS50 is one of the most popular beginner computer science courses in the world. We just released the entire 25-hour CS50 course on the freeCodeCamp.org YouTube channel. This is the most recent version updated for 2026, with an al...",
-          "link": "https://www.freecodecamp.org/news/harvard-cs50-2026-free-computer-science-university-course/",
-          "publishedOn": "2026-02-05T17:10:59.000Z",
-          "wordCount": 1087,
-          "title": "Harvard CS50 2026 – Free Computer Science University Course",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770311427284/e63d5d11-e815-41e2-88c5-50c9ac969098.jpeg"
-        },
-        {
-          "id": "6984ca1c0d3cc85f508db81e",
-          "author": "Beau Carnes",
-          "description": "The AI landscape has shifted in 2026 from passive chatbots to proactive autonomous agents, with OpenClaw leading the charge as the most viral open-source project of the year. We just posted a comprehensive introduction to OpenClaw on the freeCodeCamp...",
-          "link": "https://www.freecodecamp.org/news/openclaw-full-tutorial-for-beginners/",
-          "publishedOn": "2026-02-05T16:49:32.000Z",
-          "wordCount": 1092,
-          "title": "OpenClaw Full Tutorial for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770310153117/f090efe2-ee69-44b6-890d-9158c914c389.jpeg"
         }
       ]
     }

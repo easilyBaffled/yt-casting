@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-11T00:50:53.996Z</id>
+    <id>urn:2026-02-12T00:45:37.276Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-11T00:50:53.996Z</updated>
+    <updated>2026-02-12T00:45:37.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build AI Agents That Remember User Preferences (Without Breaking Context)]]></title>
+        <id>698cc32db8fec0245bd9996d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-ai-agents-that-remember-user-preferences-without-breaking-context/"/>
+        <updated>2026-02-11T17:58:05.000Z</updated>
+        <summary type="html"><![CDATA[Why Personalization Breaks Most AI Agents Personalization is one of the most requested features in AI-powered applications. Users expect an agent to remember their preferences, adapt to their style, and improve over time. In practice, personalization...]]></summary>
+        <author>
+            <name>Nataraj Sundar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Cybersecurity and Ethical Hacking using Kali Linux]]></title>
+        <id>698ca68cf15922839824f638</id>
+        <link href="https://www.freecodecamp.org/news/learn-cybersecurity-and-ethical-hacking-using-kali-linux/"/>
+        <updated>2026-02-11T15:55:56.000Z</updated>
+        <summary type="html"><![CDATA[To protect your applications against threats, it’s helpful to understand the methods that attackers can use against you. We just posted a course on the freeCodeCamp.org YouTube channel that will help you master the fundamentals of cybersecurity and e...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Approximating contrast-color() With Other CSS Features]]></title>
+        <id>https://css-tricks.com/?p=391853</id>
+        <link href="https://css-tricks.com/approximating-contrast-color-with-other-css-features/"/>
+        <updated>2026-02-11T15:01:09.000Z</updated>
+        <summary type="html"><![CDATA[The new contrast-color() function is not fully supported yet. But can we still implement it in a cross-browser friendly way using other new CSS features?
+Approximating contrast-color() With Other CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Kevin Hamer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability]]></title>
+        <id>https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/</id>
+        <link href="https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/"/>
+        <updated>2026-02-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Test React Applications with Vitest]]></title>
+        <id>698bb499f3de8b702a26aec1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-test-react-applications-with-vitest/"/>
+        <updated>2026-02-10T22:43:37.000Z</updated>
+        <summary type="html"><![CDATA[Testing is one of those things that every developer knows they should do, but many put off until problems start appearing in production. If you’re building React applications with Vite, there's a testing framework that fits so naturally into your wor...]]></summary>
+        <author>
+            <name>Aiyedogbon Abraham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prepare for the Kubernetes Administrator Certification and Pass [2026 update]]]></title>
         <id>698b4fff1eac20c7da3bd7ba</id>
@@ -84,36 +135,6 @@ Trying to Make the Perfect Pie Chart in CSS originally published on CSS-Tricks, 
         <summary type="html"><![CDATA[Feature flags are powerful tools that let you control which features are visible to users without deploying new code. They enable gradual rollouts, A/B testing, and instant feature toggles, which are all essential for modern software development. In ...]]></summary>
         <author>
             <name>David Aniebo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your UI Won’t Update: Debugging Stale Data and Caching in React Apps]]></title>
-        <id>6984d41160b1e5f9aeccaa9e</id>
-        <link href="https://www.freecodecamp.org/news/why-your-ui-wont-update-debugging-stale-data-and-caching-in-react-apps/"/>
-        <updated>2026-02-05T17:32:01.000Z</updated>
-        <summary type="html"><![CDATA[Your UI doesn’t “randomly” refuse to update. In most cases, it’s rendering cached data, which is data that was saved somewhere so the app doesn’t have to do the same work again. Caching is great for performance, but it becomes a pain when you don’t r...]]></summary>
-        <author>
-            <name>Oluwadamisi Samuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harvard CS50 2026 – Free Computer Science University Course]]></title>
-        <id>6984cf23a3b8d53c075bbaa5</id>
-        <link href="https://www.freecodecamp.org/news/harvard-cs50-2026-free-computer-science-university-course/"/>
-        <updated>2026-02-05T17:10:59.000Z</updated>
-        <summary type="html"><![CDATA[Harvard University's CS50 is one of the most popular beginner computer science courses in the world. We just released the entire 25-hour CS50 course on the freeCodeCamp.org YouTube channel. This is the most recent version updated for 2026, with an al...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw Full Tutorial for Beginners]]></title>
-        <id>6984ca1c0d3cc85f508db81e</id>
-        <link href="https://www.freecodecamp.org/news/openclaw-full-tutorial-for-beginners/"/>
-        <updated>2026-02-05T16:49:32.000Z</updated>
-        <summary type="html"><![CDATA[The AI landscape has shifted in 2026 from passive chatbots to proactive autonomous agents, with OpenClaw leading the charge as the most viral open-source project of the year. We just posted a comprehensive introduction to OpenClaw on the freeCodeCamp...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -329,17 +350,6 @@ HTTP Archive 2025 Web Almanac originally published on CSS-Tricks, which is part 
 What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playing With CodePen slideVars]]></title>
-        <id>https://css-tricks.com/?p=391494</id>
-        <link href="https://css-tricks.com/playing-with-codepen-slidevars/"/>
-        <updated>2026-01-14T14:59:07.000Z</updated>
-        <summary type="html"><![CDATA[Super cool new CodePen feature alert! You've probably seen a bunch of "interactive" demos that let you changed values on the fly from a UI panel embedded directly in the demo.
-Playing With CodePen slideVars originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
