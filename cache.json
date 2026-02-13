@@ -12,12 +12,27 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391879",
+          "author": "Temani Afif",
+          "description": "This is the second part of a small two-part series. In this article, we will explore another type of grid: a pyramidal one. We are still working with hexagon shapes, but a different organization of the elements., while exploring other different shapes.\nMaking a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/making-a-responsive-pyramidal-grid-with-modern-css/",
+          "publishedOn": "2026-02-12T14:57:36.000Z",
+          "wordCount": 3663,
+          "title": "Making a Responsive Pyramidal Grid With Modern CSS",
+          "enclosure": {
+            "url": "http://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-28-at-8.44.39-AM.mov",
+            "length": "0",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/Artboard.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=391853",
           "author": "Kevin Hamer",
           "description": "The new contrast-color() function is not fully supported yet. But can we still implement it in a cross-browser friendly way using other new CSS features?\nApproximating contrast-color() With Other CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/approximating-contrast-color-with-other-css-features/",
           "publishedOn": "2026-02-11T15:01:09.000Z",
-          "wordCount": 2411,
+          "wordCount": 2439,
           "title": "Approximating contrast-color() With Other CSS Features",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/apca-wcg-color-contrast.png"
         },
@@ -27,7 +42,7 @@
           "description": "Can we make pie chart that's semantic, with flexible markup, and avoids using a JavaScript library? Here's how I tackled it.\nTrying to Make the Perfect Pie Chart in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/trying-to-make-the-perfect-pie-chart-in-css/",
           "publishedOn": "2026-02-09T17:34:56.000Z",
-          "wordCount": 4166,
+          "wordCount": 4205,
           "title": "Trying to Make the Perfect Pie Chart in CSS",
           "enclosure": {
             "url": "https://res.cloudinary.com/ddzynrhrx/video/upload/v1769282762/audio_nvda_tejgbi.mp4",
@@ -165,16 +180,6 @@
           "wordCount": 1007,
           "title": "“I Heart CSS” DailyDev Squad",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/i-heart-css.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=391542",
-          "author": "Daniel Schwarz",
-          "description": "The developer community hasn’t wasted any time kicking off 2026 with some really great articles, demos, and insights. Firefox 147 and Chrome 144 also shipped, and while they’re not jam-packed with features, the releases are still pretty exciting for what’s normally a slow time of year, so without further ado, here’s what’s important from the last couple of weeks (or should I say the first couple of weeks, of 2026?)…\nWhat’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/whats-important-3/",
-          "publishedOn": "2026-01-15T15:08:58.000Z",
-          "wordCount": 2047,
-          "title": "What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/wi3.png"
         }
       ]
     },
@@ -189,7 +194,7 @@
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6490,
+          "wordCount": 6493,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -204,7 +209,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4501,
+          "wordCount": 4516,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -234,7 +239,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4699,
+          "wordCount": 4597,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -249,7 +254,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": 4659,
+          "wordCount": 4650,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -264,7 +269,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5808,
+          "wordCount": 5813,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -294,7 +299,7 @@
           "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
           "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
           "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 5106,
+          "wordCount": 5108,
           "title": "Rethinking “Pixel Perfect” Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
@@ -302,21 +307,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
-          "author": "hello@smashingmagazine.com (Andy Clarke)",
-          "description": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.",
-          "link": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
-          "publishedOn": "2026-01-14T10:00:00.000Z",
-          "wordCount": 5368,
-          "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg"
         }
       ]
     },
@@ -326,12 +316,72 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "698e1c7090ca92017618cb24",
+          "author": "Eti Ijeoma",
+          "description": "In most languages, the stack and heap are two ways a program stores data in memory, managed by the language runtime. Each is optimized for different use cases, such as fast access or flexible lifetimes. Go follows the same model, but you usually don’...",
+          "link": "https://www.freecodecamp.org/news/understanding-escape-analysis-in-go/",
+          "publishedOn": "2026-02-12T18:31:12.000Z",
+          "wordCount": 3397,
+          "title": "Understanding Escape Analysis in Go – Explained with Example Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770921059389/c45b42cb-8cff-4de5-b3d1-7c7adad402c5.png"
+        },
+        {
+          "id": "698e11a1f5e2fbcb44cccc0a",
+          "author": "Chidera Humphrey",
+          "description": "Extracting text from PDFs sounds simple until you try to do it. And it can be even more challenging for JavaScript developers, with various libraries to choose from and so on. I encountered this problem while I was building my SaaS app. I scoured thr...",
+          "link": "https://www.freecodecamp.org/news/build-a-custom-pdf-text-extractor-with-nodejs-and-typescript/",
+          "publishedOn": "2026-02-12T17:45:05.000Z",
+          "wordCount": 6516,
+          "title": "How to Build a Custom PDF Text Extractor with Node.js and TypeScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770918274288/fea825aa-9dc4-468b-abbf-04fb1e74ec22.png"
+        },
+        {
+          "id": "698def824dcd2f8caf2d36ef",
+          "author": "Tapas Adhikary",
+          "description": "Most React developers don’t break the data fetching process all at once. It usually degrades gradually, slowly. Traditionally, you may have used a useEffect here, a loading flag there, and an error state along with it to tackle data fetching. Moving ...",
+          "link": "https://www.freecodecamp.org/news/the-modern-react-data-fetching-handbook-suspense-use-and-errorboundary-explained/",
+          "publishedOn": "2026-02-12T15:19:30.000Z",
+          "wordCount": 5427,
+          "title": "The Modern React Data Fetching Handbook: Suspense, use(), and ErrorBoundary Explained",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770847474747/df826db8-4d18-45f5-a4aa-bfafa9c3aa80.png"
+        },
+        {
+          "id": "698ddec5e10c0cedef5bde49",
+          "author": "Beau Carnes",
+          "description": "Learn to take a full-stack React, Go, and MongoDB application from local development to a fully containerized production environment. We just posted a full course on the freeCodeCamp.org YouTube channel that will help you master Docker orchestration,...",
+          "link": "https://www.freecodecamp.org/news/build-a-production-ready-pipeline-with-docker-cicd-and-hostinger/",
+          "publishedOn": "2026-02-12T14:08:05.000Z",
+          "wordCount": 1141,
+          "title": "Build a Production-Ready Pipeline with Docker, CI/CD & Hostinger",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770905200404/d2084992-5fa0-4f41-a055-ee64f905fb26.jpeg"
+        },
+        {
+          "id": "698cfe9129ecd244747b71f1",
+          "author": "Timothy Olanrewaju",
+          "description": "Nowadays, being able to present an idea, project, or achievement is a must-have skill. The ability to showcase and talk about your work can determine whether you’re getting that degree, funding, or approval. But while effective communication is impor...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-real-time-public-speaking-and-presentation-coach/",
+          "publishedOn": "2026-02-11T22:11:29.000Z",
+          "wordCount": 2626,
+          "title": "How to Build a Real-Time Public Speaking and Presentation Coach",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770847484536/70b63767-cc74-4628-a4d1-6bd8c38a5a0c.png"
+        },
+        {
+          "id": "698cfce6afbd03d112127750",
+          "author": "Manish Shivanandhan",
+          "description": "For more than a decade, Heroku defined what “developer-friendly deployment” meant. Push code, forget servers, and focus on shipping features. That promise shaped an entire generation of platform-as-a-service products. In 2026, that landscape is chang...",
+          "link": "https://www.freecodecamp.org/news/top-heroku-alternatives-for-deployment/",
+          "publishedOn": "2026-02-11T22:04:22.000Z",
+          "wordCount": 2135,
+          "title": "Top Heroku Alternatives for Deployment in 2026",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770847448732/3783e969-2001-48bd-8ad9-4fbe46d3b8fd.png"
+        },
+        {
           "id": "698cc32db8fec0245bd9996d",
           "author": "Nataraj Sundar",
           "description": "Why Personalization Breaks Most AI Agents Personalization is one of the most requested features in AI-powered applications. Users expect an agent to remember their preferences, adapt to their style, and improve over time. In practice, personalization...",
           "link": "https://www.freecodecamp.org/news/how-to-build-ai-agents-that-remember-user-preferences-without-breaking-context/",
           "publishedOn": "2026-02-11T17:58:05.000Z",
-          "wordCount": 3430,
+          "wordCount": 3473,
           "title": "How to Build AI Agents That Remember User Preferences (Without Breaking Context)",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770832641633/da49bdca-617e-4272-b5b7-012f3c6c1d61.png"
         },
@@ -364,66 +414,6 @@
           "wordCount": 3353,
           "title": "Prepare for the Kubernetes Administrator Certification and Pass [2026 update]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770737611970/40c85fc5-30e0-450c-8473-b05124831718.jpeg"
-        },
-        {
-          "id": "6989f75b7982b0d48a3c2c48",
-          "author": "Bala Priya C",
-          "description": "Design patterns are proven solutions to common problems in software development. If you've ever found yourself writing repetitive object creation code or struggling to manage different types of objects, the factory pattern might be exactly what you n...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-factory-pattern-in-python-a-practical-guide/",
-          "publishedOn": "2026-02-09T15:03:55.000Z",
-          "wordCount": 2479,
-          "title": "How to Use the Factory Pattern in Python - A Practical Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770649418899/f26d3d70-a909-4d8f-92f5-7f263c64f9fe.png"
-        },
-        {
-          "id": "6989f72cfec80c4e91c007a4",
-          "author": "Chidiadi Anyanwu",
-          "description": "Writing code can be similar to writing tutorials. In both cases, you’ll typically need to create and work on multiple drafts before reaching the final version. In an ideal setting, you would write code for a feature, add that code to the staging area...",
-          "link": "https://www.freecodecamp.org/news/how-to-save-multiple-drafts-in-git-a-guide-to-using-stash/",
-          "publishedOn": "2026-02-09T15:03:08.000Z",
-          "wordCount": 1936,
-          "title": "How to Save Multiple Drafts in Git: A Guide to Using Stash",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770649372924/7c949e9d-627a-4b06-99fe-40ce0e7c8507.png"
-        },
-        {
-          "id": "698614754058fffacf721cc8",
-          "author": "Abdul Talha",
-          "description": "Hiring the right candidate starts with one time-consuming task: screening résumés. If you’ve ever posted a job opening, you know the pain of hundreds of applications in your inbox, leaving you to spend hours reviewing each résumé manually. In this ar...",
-          "link": "https://www.freecodecamp.org/news/python-resume-screening-system/",
-          "publishedOn": "2026-02-06T16:19:01.000Z",
-          "wordCount": 2389,
-          "title": "How to Build a Résumé Screening System Using Python and Multiprocessing",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770331777028/1ac80e66-cf22-4160-8812-ea917384cd3f.png"
-        },
-        {
-          "id": "69851e61087459735f840552",
-          "author": "Manish Shivanandhan",
-          "description": "Modern applications rarely live in isolation. They move between laptops, staging servers, and production environments. Each environment has its own quirks, missing libraries, or slightly different configurations. This is where many “works on my machi...",
-          "link": "https://www.freecodecamp.org/news/how-to-dockerize-your-application-and-deploy-it/",
-          "publishedOn": "2026-02-05T22:49:05.000Z",
-          "wordCount": 2158,
-          "title": "How to Dockerize Your Application and Deploy It",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770331734345/d53fdc31-231b-4194-96e2-efcec036cfb2.png"
-        },
-        {
-          "id": "69851d7be613661950e00d8f",
-          "author": "Sameer Shukla",
-          "description": "In the world of big data, performance isn't just about bigger clusters – it's about smarter code. Spark is deceptively simple to write but notoriously difficult to optimize, because what you write isn't what Spark executes. Between your transformatio...",
-          "link": "https://www.freecodecamp.org/news/how-to-optimize-pyspark-jobs-handbook/",
-          "publishedOn": "2026-02-05T22:45:15.000Z",
-          "wordCount": 14936,
-          "title": "How to Optimize PySpark Jobs: Real-World Scenarios for Understanding Logical Plans",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770331493095/d569e168-d3ba-40e0-a500-7f682bbef693.png"
-        },
-        {
-          "id": "69851c4ec8140c13f9fa09c8",
-          "author": "David Aniebo",
-          "description": "Feature flags are powerful tools that let you control which features are visible to users without deploying new code. They enable gradual rollouts, A/B testing, and instant feature toggles, which are all essential for modern software development. In ...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-feature-flag-system-with-nextjs-and-supabase/",
-          "publishedOn": "2026-02-05T22:40:14.000Z",
-          "wordCount": 7304,
-          "title": "How to Build a Production-Ready Feature Flag System with Next.js and Supabase",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770312675718/c462d3b5-5369-45e0-ad47-c91b441fe96f.png"
         }
       ]
     }

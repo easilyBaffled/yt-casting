@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-12T00:45:37.276Z</id>
+    <id>urn:2026-02-13T00:48:04.269Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-12T00:45:37.276Z</updated>
+    <updated>2026-02-13T00:48:04.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Escape Analysis in Go – Explained with Example Code]]></title>
+        <id>698e1c7090ca92017618cb24</id>
+        <link href="https://www.freecodecamp.org/news/understanding-escape-analysis-in-go/"/>
+        <updated>2026-02-12T18:31:12.000Z</updated>
+        <summary type="html"><![CDATA[In most languages, the stack and heap are two ways a program stores data in memory, managed by the language runtime. Each is optimized for different use cases, such as fast access or flexible lifetimes. Go follows the same model, but you usually don’...]]></summary>
+        <author>
+            <name>Eti Ijeoma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Custom PDF Text Extractor with Node.js and TypeScript]]></title>
+        <id>698e11a1f5e2fbcb44cccc0a</id>
+        <link href="https://www.freecodecamp.org/news/build-a-custom-pdf-text-extractor-with-nodejs-and-typescript/"/>
+        <updated>2026-02-12T17:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Extracting text from PDFs sounds simple until you try to do it. And it can be even more challenging for JavaScript developers, with various libraries to choose from and so on. I encountered this problem while I was building my SaaS app. I scoured thr...]]></summary>
+        <author>
+            <name>Chidera Humphrey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Modern React Data Fetching Handbook: Suspense, use(), and ErrorBoundary Explained]]></title>
+        <id>698def824dcd2f8caf2d36ef</id>
+        <link href="https://www.freecodecamp.org/news/the-modern-react-data-fetching-handbook-suspense-use-and-errorboundary-explained/"/>
+        <updated>2026-02-12T15:19:30.000Z</updated>
+        <summary type="html"><![CDATA[Most React developers don’t break the data fetching process all at once. It usually degrades gradually, slowly. Traditionally, you may have used a useEffect here, a loading flag there, and an error state along with it to tackle data fetching. Moving ...]]></summary>
+        <author>
+            <name>Tapas Adhikary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making a Responsive Pyramidal Grid With Modern CSS]]></title>
+        <id>https://css-tricks.com/?p=391879</id>
+        <link href="https://css-tricks.com/making-a-responsive-pyramidal-grid-with-modern-css/"/>
+        <updated>2026-02-12T14:57:36.000Z</updated>
+        <summary type="html"><![CDATA[This is the second part of a small two-part series. In this article, we will explore another type of grid: a pyramidal one. We are still working with hexagon shapes, but a different organization of the elements., while exploring other different shapes.
+Making a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Production-Ready Pipeline with Docker, CI/CD & Hostinger]]></title>
+        <id>698ddec5e10c0cedef5bde49</id>
+        <link href="https://www.freecodecamp.org/news/build-a-production-ready-pipeline-with-docker-cicd-and-hostinger/"/>
+        <updated>2026-02-12T14:08:05.000Z</updated>
+        <summary type="html"><![CDATA[Learn to take a full-stack React, Go, and MongoDB application from local development to a fully containerized production environment. We just posted a full course on the freeCodeCamp.org YouTube channel that will help you master Docker orchestration,...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Real-Time Public Speaking and Presentation Coach]]></title>
+        <id>698cfe9129ecd244747b71f1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-real-time-public-speaking-and-presentation-coach/"/>
+        <updated>2026-02-11T22:11:29.000Z</updated>
+        <summary type="html"><![CDATA[Nowadays, being able to present an idea, project, or achievement is a must-have skill. The ability to showcase and talk about your work can determine whether you’re getting that degree, funding, or approval. But while effective communication is impor...]]></summary>
+        <author>
+            <name>Timothy Olanrewaju</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Heroku Alternatives for Deployment in 2026]]></title>
+        <id>698cfce6afbd03d112127750</id>
+        <link href="https://www.freecodecamp.org/news/top-heroku-alternatives-for-deployment/"/>
+        <updated>2026-02-11T22:04:22.000Z</updated>
+        <summary type="html"><![CDATA[For more than a decade, Heroku defined what “developer-friendly deployment” meant. Push code, forget servers, and focus on shipping features. That promise shaped an entire generation of platform-as-a-service products. In 2026, that landscape is chang...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build AI Agents That Remember User Preferences (Without Breaking Context)]]></title>
         <id>698cc32db8fec0245bd9996d</id>
@@ -75,66 +146,6 @@ Approximating contrast-color() With Other CSS Features originally published on C
 Trying to Make the Perfect Pie Chart in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Factory Pattern in Python - A Practical Guide]]></title>
-        <id>6989f75b7982b0d48a3c2c48</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-factory-pattern-in-python-a-practical-guide/"/>
-        <updated>2026-02-09T15:03:55.000Z</updated>
-        <summary type="html"><![CDATA[Design patterns are proven solutions to common problems in software development. If you've ever found yourself writing repetitive object creation code or struggling to manage different types of objects, the factory pattern might be exactly what you n...]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Save Multiple Drafts in Git: A Guide to Using Stash]]></title>
-        <id>6989f72cfec80c4e91c007a4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-save-multiple-drafts-in-git-a-guide-to-using-stash/"/>
-        <updated>2026-02-09T15:03:08.000Z</updated>
-        <summary type="html"><![CDATA[Writing code can be similar to writing tutorials. In both cases, you’ll typically need to create and work on multiple drafts before reaching the final version. In an ideal setting, you would write code for a feature, add that code to the staging area...]]></summary>
-        <author>
-            <name>Chidiadi Anyanwu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Résumé Screening System Using Python and Multiprocessing]]></title>
-        <id>698614754058fffacf721cc8</id>
-        <link href="https://www.freecodecamp.org/news/python-resume-screening-system/"/>
-        <updated>2026-02-06T16:19:01.000Z</updated>
-        <summary type="html"><![CDATA[Hiring the right candidate starts with one time-consuming task: screening résumés. If you’ve ever posted a job opening, you know the pain of hundreds of applications in your inbox, leaving you to spend hours reviewing each résumé manually. In this ar...]]></summary>
-        <author>
-            <name>Abdul Talha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Dockerize Your Application and Deploy It]]></title>
-        <id>69851e61087459735f840552</id>
-        <link href="https://www.freecodecamp.org/news/how-to-dockerize-your-application-and-deploy-it/"/>
-        <updated>2026-02-05T22:49:05.000Z</updated>
-        <summary type="html"><![CDATA[Modern applications rarely live in isolation. They move between laptops, staging servers, and production environments. Each environment has its own quirks, missing libraries, or slightly different configurations. This is where many “works on my machi...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize PySpark Jobs: Real-World Scenarios for Understanding Logical Plans]]></title>
-        <id>69851d7be613661950e00d8f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-optimize-pyspark-jobs-handbook/"/>
-        <updated>2026-02-05T22:45:15.000Z</updated>
-        <summary type="html"><![CDATA[In the world of big data, performance isn't just about bigger clusters – it's about smarter code. Spark is deceptively simple to write but notoriously difficult to optimize, because what you write isn't what Spark executes. Between your transformatio...]]></summary>
-        <author>
-            <name>Sameer Shukla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Production-Ready Feature Flag System with Next.js and Supabase]]></title>
-        <id>69851c4ec8140c13f9fa09c8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-production-ready-feature-flag-system-with-nextjs-and-supabase/"/>
-        <updated>2026-02-05T22:40:14.000Z</updated>
-        <summary type="html"><![CDATA[Feature flags are powerful tools that let you control which features are visible to users without deploying new code. They enable gradual rollouts, A/B testing, and instant feature toggles, which are all essential for modern software development. In ...]]></summary>
-        <author>
-            <name>David Aniebo</name>
         </author>
     </entry>
     <entry>
@@ -339,27 +350,6 @@ HTTP Archive 2025 Web Almanac originally published on CSS-Tricks, which is part 
 “I Heart CSS” DailyDev Squad originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More]]></title>
-        <id>https://css-tricks.com/?p=391542</id>
-        <link href="https://css-tricks.com/whats-important-3/"/>
-        <updated>2026-01-15T15:08:58.000Z</updated>
-        <summary type="html"><![CDATA[The developer community hasn’t wasted any time kicking off 2026 with some really great articles, demos, and insights. Firefox 147 and Chrome 144 also shipped, and while they’re not jam-packed with features, the releases are still pretty exciting for what’s normally a slow time of year, so without further ado, here’s what’s important from the last couple of weeks (or should I say the first couple of weeks, of 2026?)…
-What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Animations Part 8: Theming Animations Using CSS Relative Colour]]></title>
-        <id>https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/</id>
-        <link href="https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/"/>
-        <updated>2026-01-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andy Clarke)</name>
         </author>
     </entry>
 </feed>
