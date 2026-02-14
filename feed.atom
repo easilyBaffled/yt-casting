@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-13T00:48:04.269Z</id>
+    <id>urn:2026-02-14T00:43:52.226Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-13T00:48:04.269Z</updated>
+    <updated>2026-02-14T00:43:52.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Production-Grade Distributed Chatroom in Go [Full Handbook]]]></title>
+        <id>698f4ea5c4c4900d2483651c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-production-grade-distributed-chatroom-in-go-full-handbook/"/>
+        <updated>2026-02-13T16:17:41.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever wondered how chat applications like Slack, Discord, or WhatsApp work behind the scenes, this tutorial will show you. You'll build a real-time chat server from scratch using Go, learning the fundamental concepts that power modern commun...]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More]]></title>
+        <id>https://css-tricks.com/?p=392302</id>
+        <link href="https://css-tricks.com/whats-important-5/"/>
+        <updated>2026-02-13T15:19:57.000Z</updated>
+        <summary type="html"><![CDATA[This issue of What’s !important is dedicated to our friends in the UK, who are currently experiencing a very miserable 43-day rain streak. Presenting: the five most interesting things to read about CSS from the last couple of weeks. Plus, the latest features from Chrome 145, and anything else you might’ve missed. TL;DR: lots of content, but also lots of rain.
+What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps]]></title>
+        <id>https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/</id>
+        <link href="https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/"/>
+        <updated>2026-02-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kat Homan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why maintaining a codebase is so damn hard – with OhMyZSH creator Robby Russell [Podcast #207]]]></title>
+        <id>698f1256be3738fa1ac06e20</id>
+        <link href="https://www.freecodecamp.org/news/why-maintaining-a-codebase-is-so-damn-hard-with-ohmyzsh-creator-robby-russell-podcast-207/"/>
+        <updated>2026-02-13T12:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Robby Russell. Robby created the open-source project Oh My ZSH. Oh My Zsh is a framework for managing your Zsh configuration for your command line terminal. It's been extremely popular among developers for more than a d...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Escape Analysis in Go – Explained with Example Code]]></title>
         <id>698e1c7090ca92017618cb24</id>
@@ -115,26 +156,6 @@ Approximating contrast-color() With Other CSS Features originally published on C
         <summary type="html"><![CDATA[Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test React Applications with Vitest]]></title>
-        <id>698bb499f3de8b702a26aec1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-react-applications-with-vitest/"/>
-        <updated>2026-02-10T22:43:37.000Z</updated>
-        <summary type="html"><![CDATA[Testing is one of those things that every developer knows they should do, but many put off until problems start appearing in production. If you’re building React applications with Vite, there's a testing framework that fits so naturally into your wor...]]></summary>
-        <author>
-            <name>Aiyedogbon Abraham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prepare for the Kubernetes Administrator Certification and Pass [2026 update]]]></title>
-        <id>698b4fff1eac20c7da3bd7ba</id>
-        <link href="https://www.freecodecamp.org/news/prepare-for-the-kubernetes-administrator-certification-and-pass-2026-update/"/>
-        <updated>2026-02-10T15:34:23.000Z</updated>
-        <summary type="html"><![CDATA[We just posted a course on the freeCodeCamp.org YouTube channel to help prepare you for the Certified Kubernetes Administrator Certification. This course is designed to provide a deep, practical understanding of Kubernetes administration, from founda...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -337,17 +358,6 @@ I Learned The First Rule of ARIA the Hard Way originally published on CSS-Tricks
         <updated>2026-01-16T17:30:43.000Z</updated>
         <summary type="html"><![CDATA[I love me some good web research reports. I’m a sucker for them. HTTP Archive’s Web Almanac is one report I look forward to every year, and I know I’m not alone there. It’s one of those highly-anticipated publications on …
 HTTP Archive 2025 Web Almanac originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“I Heart CSS” DailyDev Squad]]></title>
-        <id>https://css-tricks.com/?p=391529</id>
-        <link href="https://css-tricks.com/i-heart-css-dailydev-squad/"/>
-        <updated>2026-01-16T14:46:24.000Z</updated>
-        <summary type="html"><![CDATA[If you’re reading this, chances are you already have some sort of way that you’re following when we publish new content, whether that’s RSS, Bluesky, Mastodon, or what have you. But I know a lot of folks …
-“I Heart CSS” DailyDev Squad originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>

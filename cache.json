@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=392302",
+          "author": "Daniel Schwarz",
+          "description": "This issue of What’s !important is dedicated to our friends in the UK, who are currently experiencing a very miserable 43-day rain streak. Presenting: the five most interesting things to read about CSS from the last couple of weeks. Plus, the latest features from Chrome 145, and anything else you might’ve missed. TL;DR: lots of content, but also lots of rain.\nWhat’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/whats-important-5/",
+          "publishedOn": "2026-02-13T15:19:57.000Z",
+          "wordCount": 1584,
+          "title": "What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/02/time-layout.mp4",
+            "length": "7627313",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/wi5.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=391879",
           "author": "Temani Afif",
           "description": "This is the second part of a small two-part series. In this article, we will explore another type of grid: a pyramidal one. We are still working with hexagon shapes, but a different organization of the elements., while exploring other different shapes.\nMaking a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -42,7 +57,7 @@
           "description": "Can we make pie chart that's semantic, with flexible markup, and avoids using a JavaScript library? Here's how I tackled it.\nTrying to Make the Perfect Pie Chart in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/trying-to-make-the-perfect-pie-chart-in-css/",
           "publishedOn": "2026-02-09T17:34:56.000Z",
-          "wordCount": 4205,
+          "wordCount": 4421,
           "title": "Trying to Make the Perfect Pie Chart in CSS",
           "enclosure": {
             "url": "https://res.cloudinary.com/ddzynrhrx/video/upload/v1769282762/audio_nvda_tejgbi.mp4",
@@ -170,16 +185,6 @@
           "wordCount": 1410,
           "title": "HTTP Archive 2025 Web Almanac",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/http-archive-2025.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=391529",
-          "author": "Geoff Graham",
-          "description": "If you’re reading this, chances are you already have some sort of way that you’re following when we publish new content, whether that’s RSS, Bluesky, Mastodon, or what have you. But I know a lot of folks …\n“I Heart CSS” DailyDev Squad originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/i-heart-css-dailydev-squad/",
-          "publishedOn": "2026-01-16T14:46:24.000Z",
-          "wordCount": 1007,
-          "title": "“I Heart CSS” DailyDev Squad",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/i-heart-css.webp"
         }
       ]
     },
@@ -189,12 +194,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
+          "author": "hello@smashingmagazine.com (Kat Homan)",
+          "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
+          "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
+          "publishedOn": "2026-02-13T15:00:00.000Z",
+          "wordCount": 6342,
+          "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "author": "hello@smashingmagazine.com (Victor Yocco)",
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6493,
+          "wordCount": 6500,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -209,7 +229,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4516,
+          "wordCount": 4504,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -239,7 +259,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4597,
+          "wordCount": 4600,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -254,7 +274,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": 4650,
+          "wordCount": 4658,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -269,7 +289,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5813,
+          "wordCount": 5816,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -284,7 +304,7 @@
           "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
           "link": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
           "publishedOn": "2026-01-22T13:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6460,
           "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg",
@@ -299,7 +319,7 @@
           "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
           "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
           "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 5108,
+          "wordCount": 5113,
           "title": "Rethinking “Pixel Perfect” Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
@@ -315,6 +335,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "698f4ea5c4c4900d2483651c",
+          "author": "Destiny Erhabor",
+          "description": "If you've ever wondered how chat applications like Slack, Discord, or WhatsApp work behind the scenes, this tutorial will show you. You'll build a real-time chat server from scratch using Go, learning the fundamental concepts that power modern commun...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-production-grade-distributed-chatroom-in-go-full-handbook/",
+          "publishedOn": "2026-02-13T16:17:41.000Z",
+          "wordCount": 10687,
+          "title": "How to Build a Production-Grade Distributed Chatroom in Go [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770999686180/3bccee22-e7e9-477f-8a5f-50800896e972.png"
+        },
+        {
+          "id": "698f1256be3738fa1ac06e20",
+          "author": "Beau Carnes",
+          "description": "Today Quincy Larson interviews Robby Russell. Robby created the open-source project Oh My ZSH. Oh My Zsh is a framework for managing your Zsh configuration for your command line terminal. It's been extremely popular among developers for more than a d...",
+          "link": "https://www.freecodecamp.org/news/why-maintaining-a-codebase-is-so-damn-hard-with-ohmyzsh-creator-robby-russell-podcast-207/",
+          "publishedOn": "2026-02-13T12:00:22.000Z",
+          "wordCount": 2018,
+          "title": "Why maintaining a codebase is so damn hard – with OhMyZSH creator Robby Russell [Podcast #207]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771010278267/efe92009-506e-4150-8d98-2027b6a58a27.jpeg"
+        },
         {
           "id": "698e1c7090ca92017618cb24",
           "author": "Eti Ijeoma",
@@ -394,26 +434,6 @@
           "wordCount": 1110,
           "title": "Learn Cybersecurity and Ethical Hacking using Kali Linux",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770825132682/2e29f195-76dc-4def-8931-fc86f409e131.jpeg"
-        },
-        {
-          "id": "698bb499f3de8b702a26aec1",
-          "author": "Aiyedogbon Abraham",
-          "description": "Testing is one of those things that every developer knows they should do, but many put off until problems start appearing in production. If you’re building React applications with Vite, there's a testing framework that fits so naturally into your wor...",
-          "link": "https://www.freecodecamp.org/news/how-to-test-react-applications-with-vitest/",
-          "publishedOn": "2026-02-10T22:43:37.000Z",
-          "wordCount": 4102,
-          "title": "How to Test React Applications with Vitest",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770763375195/82544dec-aec2-4de9-b7f8-f90349394e81.png"
-        },
-        {
-          "id": "698b4fff1eac20c7da3bd7ba",
-          "author": "Beau Carnes",
-          "description": "We just posted a course on the freeCodeCamp.org YouTube channel to help prepare you for the Certified Kubernetes Administrator Certification. This course is designed to provide a deep, practical understanding of Kubernetes administration, from founda...",
-          "link": "https://www.freecodecamp.org/news/prepare-for-the-kubernetes-administrator-certification-and-pass-2026-update/",
-          "publishedOn": "2026-02-10T15:34:23.000Z",
-          "wordCount": 3353,
-          "title": "Prepare for the Kubernetes Administrator Certification and Pass [2026 update]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770737611970/40c85fc5-30e0-450c-8473-b05124831718.jpeg"
         }
       ]
     }
