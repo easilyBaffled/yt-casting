@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-15T00:48:33.738Z</id>
+    <id>urn:2026-02-16T00:46:11.679Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-15T00:48:33.738Z</updated>
+    <updated>2026-02-16T00:46:11.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -349,17 +349,6 @@ I Learned The First Rule of ARIA the Hard Way originally published on CSS-Tricks
         <summary type="html"><![CDATA[Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Amit Sheen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTTP Archive 2025 Web Almanac]]></title>
-        <id>https://css-tricks.com/?p=391564</id>
-        <link href="https://css-tricks.com/http-archive-2025-web-almanac/"/>
-        <updated>2026-01-16T17:30:43.000Z</updated>
-        <summary type="html"><![CDATA[I love me some good web research reports. I’m a sucker for them. HTTP Archive’s Web Almanac is one report I look forward to every year, and I know I’m not alone there. It’s one of those highly-anticipated publications on …
-HTTP Archive 2025 Web Almanac originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
