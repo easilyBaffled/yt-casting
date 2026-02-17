@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-16T00:46:11.679Z</id>
+    <id>urn:2026-02-17T00:45:10.225Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-16T00:46:11.679Z</updated>
+    <updated>2026-02-17T00:45:10.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Circuit Breaker in Spring Boot – and Really Understand Resilience4j]]></title>
+        <id>69938789dce780a9836b8f09</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-circuit-breaker-in-spring-boot-and-really-understand-resilience4j/"/>
+        <updated>2026-02-16T21:09:29.000Z</updated>
+        <summary type="html"><![CDATA[This article explains how to design and implement your own circuit breaker in Spring Boot using explicit failure tracking, a scheduler-driven recovery model, and clear state transitions. Instead of relying solely on Resilience4j, we’ll walk through t...]]></summary>
+        <author>
+            <name>Jessica Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Chess "Italian Game" Handbook: Traps for White]]></title>
+        <id>69932b89881a983a8060252f</id>
+        <link href="https://www.freecodecamp.org/news/the-chess-italian-game-handbook-traps-for-white/"/>
+        <updated>2026-02-16T14:36:57.000Z</updated>
+        <summary type="html"><![CDATA[A chess game is usually divided into three phases: the opening, middlegame, and endgame. In the opening phase, each player develops and sets up their pieces. In the middlegame, they plan attacks, execute different tactics and strategies to gain an ad...]]></summary>
+        <author>
+            <name>Ihechikara Abba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Production-Grade Distributed Chatroom in Go [Full Handbook]]]></title>
         <id>698f4ea5c4c4900d2483651c</id>
@@ -115,26 +135,6 @@ Making a Responsive Pyramidal Grid With Modern CSS originally published on CSS-T
         <summary type="html"><![CDATA[For more than a decade, Heroku defined what “developer-friendly deployment” meant. Push code, forget servers, and focus on shipping features. That promise shaped an entire generation of platform-as-a-service products. In 2026, that landscape is chang...]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build AI Agents That Remember User Preferences (Without Breaking Context)]]></title>
-        <id>698cc32db8fec0245bd9996d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-ai-agents-that-remember-user-preferences-without-breaking-context/"/>
-        <updated>2026-02-11T17:58:05.000Z</updated>
-        <summary type="html"><![CDATA[Why Personalization Breaks Most AI Agents Personalization is one of the most requested features in AI-powered applications. Users expect an agent to remember their preferences, adapt to their style, and improve over time. In practice, personalization...]]></summary>
-        <author>
-            <name>Nataraj Sundar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Cybersecurity and Ethical Hacking using Kali Linux]]></title>
-        <id>698ca68cf15922839824f638</id>
-        <link href="https://www.freecodecamp.org/news/learn-cybersecurity-and-ethical-hacking-using-kali-linux/"/>
-        <updated>2026-02-11T15:55:56.000Z</updated>
-        <summary type="html"><![CDATA[To protect your applications against threats, it’s helpful to understand the methods that attackers can use against you. We just posted a course on the freeCodeCamp.org YouTube channel that will help you master the fundamentals of cybersecurity and e...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>

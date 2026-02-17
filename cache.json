@@ -47,7 +47,7 @@
           "description": "The new contrast-color() function is not fully supported yet. But can we still implement it in a cross-browser friendly way using other new CSS features?\nApproximating contrast-color() With Other CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/approximating-contrast-color-with-other-css-features/",
           "publishedOn": "2026-02-11T15:01:09.000Z",
-          "wordCount": 2439,
+          "wordCount": 2489,
           "title": "Approximating contrast-color() With Other CSS Features",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/apca-wcg-color-contrast.png"
         },
@@ -189,7 +189,7 @@
           "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
           "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
           "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 6350,
+          "wordCount": 6343,
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
@@ -204,7 +204,7 @@
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6499,
+          "wordCount": 6502,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -219,7 +219,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4508,
+          "wordCount": 4499,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -249,7 +249,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4608,
+          "wordCount": 4604,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -264,7 +264,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": 4660,
+          "wordCount": 4658,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -279,7 +279,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5819,
+          "wordCount": 5816,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -294,7 +294,7 @@
           "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
           "link": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
           "publishedOn": "2026-01-22T13:00:00.000Z",
-          "wordCount": 6447,
+          "wordCount": 6456,
           "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg",
@@ -309,7 +309,7 @@
           "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
           "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
           "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 5109,
+          "wordCount": 5110,
           "title": "Rethinking “Pixel Perfect” Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
@@ -325,6 +325,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69938789dce780a9836b8f09",
+          "author": "Jessica Patel",
+          "description": "This article explains how to design and implement your own circuit breaker in Spring Boot using explicit failure tracking, a scheduler-driven recovery model, and clear state transitions. Instead of relying solely on Resilience4j, we’ll walk through t...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-circuit-breaker-in-spring-boot-and-really-understand-resilience4j/",
+          "publishedOn": "2026-02-16T21:09:29.000Z",
+          "wordCount": 5069,
+          "title": "How to Build Your Own Circuit Breaker in Spring Boot – and Really Understand Resilience4j",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771276149217/e55b0a5c-53e2-4d2c-a004-1467a7c2b17a.png"
+        },
+        {
+          "id": "69932b89881a983a8060252f",
+          "author": "Ihechikara Abba",
+          "description": "A chess game is usually divided into three phases: the opening, middlegame, and endgame. In the opening phase, each player develops and sets up their pieces. In the middlegame, they plan attacks, execute different tactics and strategies to gain an ad...",
+          "link": "https://www.freecodecamp.org/news/the-chess-italian-game-handbook-traps-for-white/",
+          "publishedOn": "2026-02-16T14:36:57.000Z",
+          "wordCount": 4962,
+          "title": "The Chess \"Italian Game\" Handbook: Traps for White",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771252596669/88710fa6-d7b3-4914-ae0c-cafa7ea244a6.jpeg"
+        },
         {
           "id": "698f4ea5c4c4900d2483651c",
           "author": "Destiny Erhabor",
@@ -404,26 +424,6 @@
           "wordCount": 2135,
           "title": "Top Heroku Alternatives for Deployment in 2026",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770847448732/3783e969-2001-48bd-8ad9-4fbe46d3b8fd.png"
-        },
-        {
-          "id": "698cc32db8fec0245bd9996d",
-          "author": "Nataraj Sundar",
-          "description": "Why Personalization Breaks Most AI Agents Personalization is one of the most requested features in AI-powered applications. Users expect an agent to remember their preferences, adapt to their style, and improve over time. In practice, personalization...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-ai-agents-that-remember-user-preferences-without-breaking-context/",
-          "publishedOn": "2026-02-11T17:58:05.000Z",
-          "wordCount": 3473,
-          "title": "How to Build AI Agents That Remember User Preferences (Without Breaking Context)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770832641633/da49bdca-617e-4272-b5b7-012f3c6c1d61.png"
-        },
-        {
-          "id": "698ca68cf15922839824f638",
-          "author": "Beau Carnes",
-          "description": "To protect your applications against threats, it’s helpful to understand the methods that attackers can use against you. We just posted a course on the freeCodeCamp.org YouTube channel that will help you master the fundamentals of cybersecurity and e...",
-          "link": "https://www.freecodecamp.org/news/learn-cybersecurity-and-ethical-hacking-using-kali-linux/",
-          "publishedOn": "2026-02-11T15:55:56.000Z",
-          "wordCount": 1110,
-          "title": "Learn Cybersecurity and Ethical Hacking using Kali Linux",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770825132682/2e29f195-76dc-4def-8931-fc86f409e131.jpeg"
         }
       ]
     }
