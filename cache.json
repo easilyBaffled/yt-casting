@@ -12,6 +12,31 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391909",
+          "author": "Lee Meyer",
+          "description": "Lee accepts a challenge: arranging text in a spiral that animates as a vortex on scroll... all in CSS.\nSpiral Scrollytelling in CSS With sibling-index() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/spiral-scrollytelling-in-css-with-sibling-index/",
+          "publishedOn": "2026-02-17T15:17:25.000Z",
+          "wordCount": 1733,
+          "title": "Spiral Scrollytelling in CSS With sibling-index()",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-28-at-9.37.52-AM.mov",
+            "length": "21544518",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/spiral-scroll-animation.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=392321",
+          "author": "Geoff Graham",
+          "description": "Interop 2026 is officially a thing and there's plenty of new (and even old) CSS features that we can look forward to being cross-browser compatible and consistent!\nInterop 2026 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/interop-2026/",
+          "publishedOn": "2026-02-17T14:17:30.000Z",
+          "wordCount": 2898,
+          "title": "Interop 2026",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/interop-2026.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=392302",
           "author": "Daniel Schwarz",
           "description": "This issue of What’s !important is dedicated to our friends in the UK, who are currently experiencing a very miserable 43-day rain streak. Presenting: the five most interesting things to read about CSS from the last couple of weeks. Plus, the latest features from Chrome 145, and anything else you might’ve missed. TL;DR: lots of content, but also lots of rain.\nWhat’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -47,7 +72,7 @@
           "description": "The new contrast-color() function is not fully supported yet. But can we still implement it in a cross-browser friendly way using other new CSS features?\nApproximating contrast-color() With Other CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/approximating-contrast-color-with-other-css-features/",
           "publishedOn": "2026-02-11T15:01:09.000Z",
-          "wordCount": 2489,
+          "wordCount": 2500,
           "title": "Approximating contrast-color() With Other CSS Features",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/apca-wcg-color-contrast.png"
         },
@@ -165,16 +190,6 @@
           "wordCount": 1274,
           "title": "Open Props @custom-media Recipes",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/open-props-custom-media-queries.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=391390",
-          "author": "Hashim Quraishi",
-          "description": "Semantic HTML does a lot more accessibility work than we usually give it credit for already — and ARIA is simple to abuse when we use it both as a shortcut and as a supplement.\nI Learned The First Rule of ARIA the Hard Way originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/i-learned-the-first-rule-of-aria-the-hard-way/",
-          "publishedOn": "2026-01-21T17:51:30.000Z",
-          "wordCount": 2451,
-          "title": "I Learned The First Rule of ARIA the Hard Way",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/08/accessibility-a11y.png"
         }
       ]
     },
@@ -189,7 +204,7 @@
           "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
           "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
           "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 6343,
+          "wordCount": 6346,
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
@@ -204,7 +219,7 @@
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6502,
+          "wordCount": 6505,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -219,7 +234,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4499,
+          "wordCount": 4512,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -249,7 +264,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4604,
+          "wordCount": 4711,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -264,7 +279,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": 4658,
+          "wordCount": 4660,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -279,7 +294,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5816,
+          "wordCount": 5825,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -294,7 +309,7 @@
           "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
           "link": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
           "publishedOn": "2026-01-22T13:00:00.000Z",
-          "wordCount": 6456,
+          "wordCount": 6451,
           "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg",
@@ -309,7 +324,7 @@
           "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
           "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
           "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 5110,
+          "wordCount": 5118,
           "title": "Rethinking “Pixel Perfect” Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
@@ -325,6 +340,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6994b1d13e0696149c7c229c",
+          "author": "Mari",
+          "description": "Performance problems in APIs rarely start as performance problems. They usually start as small design decisions that worked perfectly when the application had ten users, ten records, or a single developer testing locally. Over time, as traffic increa...",
+          "link": "https://www.freecodecamp.org/news/how-to-optimize-django-rest-apis-for-performance/",
+          "publishedOn": "2026-02-17T18:22:09.000Z",
+          "wordCount": 3579,
+          "title": "How to Optimize Django REST APIs for Performance: Profiling, Caching, and Scaling.",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771352481135/11be538b-aaf5-4c1e-8ee2-99deea5f180e.png"
+        },
+        {
+          "id": "6994b10f99525c1b1a51745d",
+          "author": "Pablo Rios",
+          "description": "Embeddings have transformed how we search text, images, and code. Instead of matching keywords, you compare vectors, which are numerical representations that capture meaning. Similar items end up close together, making it easy to find matches. The sa...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-alphaearth-for-similarity-search-in-google-earth-engine/",
+          "publishedOn": "2026-02-17T18:18:55.000Z",
+          "wordCount": 3099,
+          "title": "How to Use AlphaEarth for Similarity Search in Google Earth Engine",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771351283402/45ebd28e-3837-4efa-bb31-a9060e029e54.png"
+        },
+        {
+          "id": "69939ae54fe0950e7f9c9c75",
+          "author": "Oyedele Tioluwani",
+          "description": "Machine learning tasks usually start in a Python notebook, and for good reason. Notebooks make it easy to explore data, test ideas, and iterate quickly with minimal setup. They give teams a familiar place to experiment while questions remain open and...",
+          "link": "https://www.freecodecamp.org/news/how-to-take-machine-learning-beyond-python-notebooks-with-these-helpful-tools/",
+          "publishedOn": "2026-02-16T22:32:05.000Z",
+          "wordCount": 2959,
+          "title": "How to Take Machine Learning Beyond Python Notebooks with These Helpful Tools",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771281111134/f0951ffe-73f0-46a0-b13b-6f691322b081.png"
+        },
         {
           "id": "69938789dce780a9836b8f09",
           "author": "Jessica Patel",
@@ -394,36 +439,6 @@
           "wordCount": 5427,
           "title": "The Modern React Data Fetching Handbook: Suspense, use(), and ErrorBoundary Explained",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770847474747/df826db8-4d18-45f5-a4aa-bfafa9c3aa80.png"
-        },
-        {
-          "id": "698ddec5e10c0cedef5bde49",
-          "author": "Beau Carnes",
-          "description": "Learn to take a full-stack React, Go, and MongoDB application from local development to a fully containerized production environment. We just posted a full course on the freeCodeCamp.org YouTube channel that will help you master Docker orchestration,...",
-          "link": "https://www.freecodecamp.org/news/build-a-production-ready-pipeline-with-docker-cicd-and-hostinger/",
-          "publishedOn": "2026-02-12T14:08:05.000Z",
-          "wordCount": 1141,
-          "title": "Build a Production-Ready Pipeline with Docker, CI/CD & Hostinger",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770905200404/d2084992-5fa0-4f41-a055-ee64f905fb26.jpeg"
-        },
-        {
-          "id": "698cfe9129ecd244747b71f1",
-          "author": "Timothy Olanrewaju",
-          "description": "Nowadays, being able to present an idea, project, or achievement is a must-have skill. The ability to showcase and talk about your work can determine whether you’re getting that degree, funding, or approval. But while effective communication is impor...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-real-time-public-speaking-and-presentation-coach/",
-          "publishedOn": "2026-02-11T22:11:29.000Z",
-          "wordCount": 2626,
-          "title": "How to Build a Real-Time Public Speaking and Presentation Coach",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770847484536/70b63767-cc74-4628-a4d1-6bd8c38a5a0c.png"
-        },
-        {
-          "id": "698cfce6afbd03d112127750",
-          "author": "Manish Shivanandhan",
-          "description": "For more than a decade, Heroku defined what “developer-friendly deployment” meant. Push code, forget servers, and focus on shipping features. That promise shaped an entire generation of platform-as-a-service products. In 2026, that landscape is chang...",
-          "link": "https://www.freecodecamp.org/news/top-heroku-alternatives-for-deployment/",
-          "publishedOn": "2026-02-11T22:04:22.000Z",
-          "wordCount": 2135,
-          "title": "Top Heroku Alternatives for Deployment in 2026",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770847448732/3783e969-2001-48bd-8ad9-4fbe46d3b8fd.png"
         }
       ]
     }
