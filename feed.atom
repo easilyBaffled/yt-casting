@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-18T00:45:38.803Z</id>
+    <id>urn:2026-02-19T00:46:10.449Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-18T00:45:38.803Z</updated>
+    <updated>2026-02-19T00:46:10.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Computer Networking Fundamentals]]></title>
+        <id>6995e32376926e7d4ed2c700</id>
+        <link href="https://www.freecodecamp.org/news/computer-networking-fundamentals/"/>
+        <updated>2026-02-18T16:04:51.000Z</updated>
+        <summary type="html"><![CDATA[How does the Internet really work? For many technical jobs it is important to understand computer networking. We just posted a massive 12-hour course that will give you a deep dive into computer networking. Here are the sections covered in this compr...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing A Streak System: The UX And Psychology Of Streaks]]></title>
+        <id>https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/</id>
+        <link href="https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/"/>
+        <updated>2026-02-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Different Container Runtimes: Docker, Podman, and Containerd Explained]]></title>
+        <id>6994e01b44a48dd86fdf0816</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-different-container-runtimes-docker-podman-and-containerd-explained/"/>
+        <updated>2026-02-17T21:39:39.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a developer working with containers, chances are Docker is your go-to tool. But did you know that there's a whole ecosystem of container runtimes out there? Some are lighter, some are more secure, and some are specifically built for Kuberne...]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement the Observer Pattern in Python]]></title>
+        <id>6994c4a494993ba9dd1ad6ad</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-the-observer-pattern-in-python/"/>
+        <updated>2026-02-17T19:42:28.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how YouTube notifies you when your favorite channel uploads a new video? Or how your email client alerts you when new messages arrive? These are perfect examples of the observer pattern in action. The observer pattern is a desi...]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Optimize Django REST APIs for Performance: Profiling, Caching, and Scaling.]]></title>
         <id>6994b1d13e0696149c7c229c</id>
@@ -23,28 +63,6 @@
         <summary type="html"><![CDATA[Embeddings have transformed how we search text, images, and code. Instead of matching keywords, you compare vectors, which are numerical representations that capture meaning. Similar items end up close together, making it easy to find matches. The sa...]]></summary>
         <author>
             <name>Pablo Rios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spiral Scrollytelling in CSS With sibling-index()]]></title>
-        <id>https://css-tricks.com/?p=391909</id>
-        <link href="https://css-tricks.com/spiral-scrollytelling-in-css-with-sibling-index/"/>
-        <updated>2026-02-17T15:17:25.000Z</updated>
-        <summary type="html"><![CDATA[Lee accepts a challenge: arranging text in a spiral that animates as a vortex on scroll... all in CSS.
-Spiral Scrollytelling in CSS With sibling-index() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interop 2026]]></title>
-        <id>https://css-tricks.com/?p=392321</id>
-        <link href="https://css-tricks.com/interop-2026/"/>
-        <updated>2026-02-17T14:17:30.000Z</updated>
-        <summary type="html"><![CDATA[Interop 2026 is officially a thing and there's plenty of new (and even old) CSS features that we can look forward to being cross-browser compatible and consistent!
-Interop 2026 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -88,17 +106,6 @@ Interop 2026 originally published on CSS-Tricks, which is part of the DigitalOce
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More]]></title>
-        <id>https://css-tricks.com/?p=392302</id>
-        <link href="https://css-tricks.com/whats-important-5/"/>
-        <updated>2026-02-13T15:19:57.000Z</updated>
-        <summary type="html"><![CDATA[This issue of What’s !important is dedicated to our friends in the UK, who are currently experiencing a very miserable 43-day rain streak. Presenting: the five most interesting things to read about CSS from the last couple of weeks. Plus, the latest features from Chrome 145, and anything else you might’ve missed. TL;DR: lots of content, but also lots of rain.
-What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps]]></title>
         <id>https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/</id>
         <link href="https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/"/>
@@ -119,58 +126,6 @@ What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding Escape Analysis in Go – Explained with Example Code]]></title>
-        <id>698e1c7090ca92017618cb24</id>
-        <link href="https://www.freecodecamp.org/news/understanding-escape-analysis-in-go/"/>
-        <updated>2026-02-12T18:31:12.000Z</updated>
-        <summary type="html"><![CDATA[In most languages, the stack and heap are two ways a program stores data in memory, managed by the language runtime. Each is optimized for different use cases, such as fast access or flexible lifetimes. Go follows the same model, but you usually don’...]]></summary>
-        <author>
-            <name>Eti Ijeoma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Custom PDF Text Extractor with Node.js and TypeScript]]></title>
-        <id>698e11a1f5e2fbcb44cccc0a</id>
-        <link href="https://www.freecodecamp.org/news/build-a-custom-pdf-text-extractor-with-nodejs-and-typescript/"/>
-        <updated>2026-02-12T17:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Extracting text from PDFs sounds simple until you try to do it. And it can be even more challenging for JavaScript developers, with various libraries to choose from and so on. I encountered this problem while I was building my SaaS app. I scoured thr...]]></summary>
-        <author>
-            <name>Chidera Humphrey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Modern React Data Fetching Handbook: Suspense, use(), and ErrorBoundary Explained]]></title>
-        <id>698def824dcd2f8caf2d36ef</id>
-        <link href="https://www.freecodecamp.org/news/the-modern-react-data-fetching-handbook-suspense-use-and-errorboundary-explained/"/>
-        <updated>2026-02-12T15:19:30.000Z</updated>
-        <summary type="html"><![CDATA[Most React developers don’t break the data fetching process all at once. It usually degrades gradually, slowly. Traditionally, you may have used a useEffect here, a loading flag there, and an error state along with it to tackle data fetching. Moving ...]]></summary>
-        <author>
-            <name>Tapas Adhikary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making a Responsive Pyramidal Grid With Modern CSS]]></title>
-        <id>https://css-tricks.com/?p=391879</id>
-        <link href="https://css-tricks.com/making-a-responsive-pyramidal-grid-with-modern-css/"/>
-        <updated>2026-02-12T14:57:36.000Z</updated>
-        <summary type="html"><![CDATA[This is the second part of a small two-part series. In this article, we will explore another type of grid: a pyramidal one. We are still working with hexagon shapes, but a different organization of the elements., while exploring other different shapes.
-Making a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Approximating contrast-color() With Other CSS Features]]></title>
-        <id>https://css-tricks.com/?p=391853</id>
-        <link href="https://css-tricks.com/approximating-contrast-color-with-other-css-features/"/>
-        <updated>2026-02-11T15:01:09.000Z</updated>
-        <summary type="html"><![CDATA[The new contrast-color() function is not fully supported yet. But can we still implement it in a cross-browser friendly way using other new CSS features?
-Approximating contrast-color() With Other CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Kevin Hamer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability]]></title>
         <id>https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/</id>
         <link href="https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/"/>
@@ -178,28 +133,6 @@ Approximating contrast-color() With Other CSS Features originally published on C
         <summary type="html"><![CDATA[Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trying to Make the Perfect Pie Chart in CSS]]></title>
-        <id>https://css-tricks.com/?p=391766</id>
-        <link href="https://css-tricks.com/trying-to-make-the-perfect-pie-chart-in-css/"/>
-        <updated>2026-02-09T17:34:56.000Z</updated>
-        <summary type="html"><![CDATA[Can we make pie chart that's semantic, with flexible markup, and avoids using a JavaScript library? Here's how I tackled it.
-Trying to Make the Perfect Pie Chart in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Bar Charts Using Modern Functions]]></title>
-        <id>https://css-tricks.com/?p=391781</id>
-        <link href="https://css-tricks.com/css-bar-charts-using-modern-functions/"/>
-        <updated>2026-02-05T15:13:14.000Z</updated>
-        <summary type="html"><![CDATA[CSS-only bar charts are one of those things we've tackled a bunch of times in different ways. But how can modern CSS features finally make it not only trivial, but fun?
-CSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
     <entry>
@@ -213,17 +146,6 @@ CSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[No Hassle Visual Code Theming: Publishing an Extension]]></title>
-        <id>https://css-tricks.com/?p=390379</id>
-        <link href="https://css-tricks.com/no-hassle-visual-code-theming-publishing-an-extension/"/>
-        <updated>2026-02-03T15:54:59.000Z</updated>
-        <summary type="html"><![CDATA[You’d think that publishing a VS Code extension is an easy process, but it’s not. You have to publish your theme in at least two places.
-No Hassle Visual Code Theming: Publishing an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Combobox vs. Multiselect vs. Listbox: How To Choose The Right One]]></title>
         <id>https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/</id>
         <link href="https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/"/>
@@ -231,17 +153,6 @@ No Hassle Visual Code Theming: Publishing an Extension originally published on C
         <summary type="html"><![CDATA[Combobox vs. Multi-Select vs. Listbox vs. Dual Listbox? How they are different, what purpose they serve, and how to choose the right one. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No-Hassle Visual Studio Code Theming: Building an Extension]]></title>
-        <id>https://css-tricks.com/?p=390341</id>
-        <link href="https://css-tricks.com/no-hassle-visual-studio-code-theming-building-an-extension/"/>
-        <updated>2026-02-02T14:51:01.000Z</updated>
-        <summary type="html"><![CDATA[I've always thought that creating a VS Code theme was a lot of work. But lo and behold, it took less than six hours to get it working, then a day or two to polish up my final tweaks.
-No-Hassle Visual Studio Code Theming: Building an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
     <entry>
@@ -255,17 +166,6 @@ No-Hassle Visual Studio Code Theming: Building an Extension originally published
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s !important #4: Videos & View Transitions, Named Media Queries, How Browsers Work, and More]]></title>
-        <id>https://css-tricks.com/?p=391967</id>
-        <link href="https://css-tricks.com/whats-important-4/"/>
-        <updated>2026-01-30T15:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Neither Chrome, Safari, nor Firefox have shipped new features in the last couple of weeks, but fear not because leading this issue of What’s !important is some of the web development industry’s best educators with, frankly, some killer content.
-What’s !important #4: Videos & View Transitions, Named Media Queries, How Browsers Work, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Practical Use Of AI Coding Tools For The Responsible Developer]]></title>
         <id>https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/</id>
         <link href="https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/"/>
@@ -273,28 +173,6 @@ What’s !important #4: Videos & View Transitions, Named Media Queries, How Brow
         <summary type="html"><![CDATA[AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stefan Kaltenegger)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Styling ::search-text and Other Highlight-y Pseudo-Elements]]></title>
-        <id>https://css-tricks.com/?p=391705</id>
-        <link href="https://css-tricks.com/how-to-style-the-new-search-text-and-other-highlight-pseudo-elements/"/>
-        <updated>2026-01-28T15:08:04.000Z</updated>
-        <summary type="html"><![CDATA[The new ::search-text pseudo (Chrome 144) matches are yellow while the current target (::search-text:current) is orange, but ::search-text enables us to change that.
-Styling ::search-text and Other Highlight-y Pseudo-Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ReliCSS]]></title>
-        <id>https://css-tricks.com/?p=391920</id>
-        <link href="https://css-tricks.com/relicss/"/>
-        <updated>2026-01-28T13:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Stu Robson's ReliCSS (clever name!) tool can excavate outdated CSS in your codebase that have modern CSS solutions.
-ReliCSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -308,41 +186,6 @@ ReliCSS originally published on CSS-Tricks, which is part of the DigitalOcean fa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There is No Need to Trap Focus on a Dialog Element]]></title>
-        <id>https://css-tricks.com/?p=388430</id>
-        <link href="https://css-tricks.com/there-is-no-need-to-trap-focus-on-a-dialog-element/"/>
-        <updated>2026-01-26T15:02:27.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility advice around modals have commonly taught us to trap focus within the modal. Upon further research, it seems like we no longer need to trap focus within the <dialog> (even in modal mode).
-There is No Need to Trap Focus on a Dialog Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsive Hexagon Grid Using Modern CSS]]></title>
-        <id>https://css-tricks.com/?p=391573</id>
-        <link href="https://css-tricks.com/responsive-hexagon-grid-using-modern-css/"/>
-        <updated>2026-01-23T14:39:56.000Z</updated>
-        <summary type="html"><![CDATA[A while back, Temani tacked a repeating grid of hexagon shapes. Well, he's updated it with modern CSS features that result in fewer magic numbers. And it's impressive!
-Responsive Hexagon Grid Using Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Props @custom-media Recipes]]></title>
-        <id>https://css-tricks.com/?p=391757</id>
-        <link href="https://css-tricks.com/open-props-custom-media-recipes/"/>
-        <updated>2026-01-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The @custom-media at-rule has landed in Firefox Nightly! I couldn’t find it in the release notes but Adam Argyle’s on the beat noting that it’s behind a flag for now.
-Look for layout.css.custom-media.enabled
-I often forget the exact name of …
-Open Props @custom-media Recipes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Beyond Generative: The Rise Of Agentic AI And User-Centric Design]]></title>
         <id>https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/</id>
         <link href="https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/"/>
@@ -350,16 +193,6 @@ Open Props @custom-media Recipes originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking “Pixel Perfect” Web Design]]></title>
-        <id>https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/</id>
-        <link href="https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/"/>
-        <updated>2026-01-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Amit Sheen)</name>
         </author>
     </entry>
 </feed>
