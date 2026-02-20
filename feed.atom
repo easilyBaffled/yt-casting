@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-19T00:46:10.449Z</id>
+    <id>urn:2026-02-20T00:43:14.477Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-19T00:46:10.449Z</updated>
+    <updated>2026-02-20T00:43:14.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Develop AI Agents Using LangGraph: A Practical Guide]]></title>
+        <id>69965d1013f3e8d4dfe2a929</id>
+        <link href="https://www.freecodecamp.org/news/how-to-develop-ai-agents-using-langgraph-a-practical-guide/"/>
+        <updated>2026-02-19T00:45:04.000Z</updated>
+        <summary type="html"><![CDATA[AI agents are all the rage these days. They’re like traditional chatbots, but they have the ability to utilize a plethora of tools in the background. They can also decide which tool to use and when to use it to answer your questions. In this tutorial...]]></summary>
+        <author>
+            <name>Manoj Aggarwal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product-Led Research: A Practical Guide for R&D Leaders [Full Book]]]></title>
+        <id>69963f99d35b661838993be2</id>
+        <link href="https://www.freecodecamp.org/news/product-led-research-a-practical-guide-for-randd-leaders-full-book/"/>
+        <updated>2026-02-18T22:39:21.000Z</updated>
+        <summary type="html"><![CDATA[Your team needs to solve a problem, and there's no clear solution path. Multiple approaches might work, but you're not sure which. Success isn't guaranteed. This is Research, not Development. And if you manage it like Development, things aren't going...]]></summary>
+        <author>
+            <name>Omer Rosenbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Elevate Your Database Game: Supercharging Query Performance with Postgres FDW]]></title>
+        <id>69963f00d35b661838993bd0</id>
+        <link href="https://www.freecodecamp.org/news/fdw-pushdown/"/>
+        <updated>2026-02-18T22:36:48.000Z</updated>
+        <summary type="html"><![CDATA[Foreign data wrappers (FDWs) make remote Postgres tables feel local. That convenience is exactly why FDW performance surprises are so common. A query that looks like a normal join can execute like a distributed system: rows move across the network, r...]]></summary>
+        <author>
+            <name>Hamdaan Ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distinguishing “Components” and “Utilities” in Tailwind]]></title>
+        <id>https://css-tricks.com/?p=390460</id>
+        <link href="https://css-tricks.com/distinguishing-components-and-utilities-in-tailwind/"/>
+        <updated>2026-02-18T16:21:41.000Z</updated>
+        <summary type="html"><![CDATA[The distinction between "components" and "utilities" seems clear at first glance, but gets a little blurred when working with them in Tailwind.
+Distinguishing “Components” and “Utilities” in Tailwind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Computer Networking Fundamentals]]></title>
         <id>6995e32376926e7d4ed2c700</id>
@@ -66,6 +107,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Spiral Scrollytelling in CSS With sibling-index()]]></title>
+        <id>https://css-tricks.com/?p=391909</id>
+        <link href="https://css-tricks.com/spiral-scrollytelling-in-css-with-sibling-index/"/>
+        <updated>2026-02-17T15:17:25.000Z</updated>
+        <summary type="html"><![CDATA[Lee accepts a challenge: arranging text in a spiral that animates as a vortex on scroll... all in CSS.
+Spiral Scrollytelling in CSS With sibling-index() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interop 2026]]></title>
+        <id>https://css-tricks.com/?p=392321</id>
+        <link href="https://css-tricks.com/interop-2026/"/>
+        <updated>2026-02-17T14:17:30.000Z</updated>
+        <summary type="html"><![CDATA[Interop 2026 is officially a thing and there's plenty of new (and even old) CSS features that we can look forward to being cross-browser compatible and consistent!
+Interop 2026 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Take Machine Learning Beyond Python Notebooks with These Helpful Tools]]></title>
         <id>69939ae54fe0950e7f9c9c75</id>
         <link href="https://www.freecodecamp.org/news/how-to-take-machine-learning-beyond-python-notebooks-with-these-helpful-tools/"/>
@@ -86,23 +149,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Chess "Italian Game" Handbook: Traps for White]]></title>
-        <id>69932b89881a983a8060252f</id>
-        <link href="https://www.freecodecamp.org/news/the-chess-italian-game-handbook-traps-for-white/"/>
-        <updated>2026-02-16T14:36:57.000Z</updated>
-        <summary type="html"><![CDATA[A chess game is usually divided into three phases: the opening, middlegame, and endgame. In the opening phase, each player develops and sets up their pieces. In the middlegame, they plan attacks, execute different tactics and strategies to gain an ad...]]></summary>
+        <title type="html"><![CDATA[What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More]]></title>
+        <id>https://css-tricks.com/?p=392302</id>
+        <link href="https://css-tricks.com/whats-important-5/"/>
+        <updated>2026-02-13T15:19:57.000Z</updated>
+        <summary type="html"><![CDATA[This issue of What’s !important is dedicated to our friends in the UK, who are currently experiencing a very miserable 43-day rain streak. Presenting: the five most interesting things to read about CSS from the last couple of weeks. Plus, the latest features from Chrome 145, and anything else you might’ve missed. TL;DR: lots of content, but also lots of rain.
+What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
-            <name>Ihechikara Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Production-Grade Distributed Chatroom in Go [Full Handbook]]]></title>
-        <id>698f4ea5c4c4900d2483651c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-production-grade-distributed-chatroom-in-go-full-handbook/"/>
-        <updated>2026-02-13T16:17:41.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever wondered how chat applications like Slack, Discord, or WhatsApp work behind the scenes, this tutorial will show you. You'll build a real-time chat server from scratch using Go, learning the fundamental concepts that power modern commun...]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -116,13 +170,25 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why maintaining a codebase is so damn hard – with OhMyZSH creator Robby Russell [Podcast #207]]]></title>
-        <id>698f1256be3738fa1ac06e20</id>
-        <link href="https://www.freecodecamp.org/news/why-maintaining-a-codebase-is-so-damn-hard-with-ohmyzsh-creator-robby-russell-podcast-207/"/>
-        <updated>2026-02-13T12:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Robby Russell. Robby created the open-source project Oh My ZSH. Oh My Zsh is a framework for managing your Zsh configuration for your command line terminal. It's been extremely popular among developers for more than a d...]]></summary>
+        <title type="html"><![CDATA[Making a Responsive Pyramidal Grid With Modern CSS]]></title>
+        <id>https://css-tricks.com/?p=391879</id>
+        <link href="https://css-tricks.com/making-a-responsive-pyramidal-grid-with-modern-css/"/>
+        <updated>2026-02-12T14:57:36.000Z</updated>
+        <summary type="html"><![CDATA[This is the second part of a small two-part series. In this article, we will explore another type of grid: a pyramidal one. We are still working with hexagon shapes, but a different organization of the elements., while exploring other different shapes.
+Making a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Approximating contrast-color() With Other CSS Features]]></title>
+        <id>https://css-tricks.com/?p=391853</id>
+        <link href="https://css-tricks.com/approximating-contrast-color-with-other-css-features/"/>
+        <updated>2026-02-11T15:01:09.000Z</updated>
+        <summary type="html"><![CDATA[The new contrast-color() function is not fully supported yet. But can we still implement it in a cross-browser friendly way using other new CSS features?
+Approximating contrast-color() With Other CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Kevin Hamer</name>
         </author>
     </entry>
     <entry>
@@ -136,6 +202,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Trying to Make the Perfect Pie Chart in CSS]]></title>
+        <id>https://css-tricks.com/?p=391766</id>
+        <link href="https://css-tricks.com/trying-to-make-the-perfect-pie-chart-in-css/"/>
+        <updated>2026-02-09T17:34:56.000Z</updated>
+        <summary type="html"><![CDATA[Can we make pie chart that's semantic, with flexible markup, and avoids using a JavaScript library? Here's how I tackled it.
+Trying to Make the Perfect Pie Chart in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Bar Charts Using Modern Functions]]></title>
+        <id>https://css-tricks.com/?p=391781</id>
+        <link href="https://css-tricks.com/css-bar-charts-using-modern-functions/"/>
+        <updated>2026-02-05T15:13:14.000Z</updated>
+        <summary type="html"><![CDATA[CSS-only bar charts are one of those things we've tackled a bunch of times in different ways. But how can modern CSS features finally make it not only trivial, but fun?
+CSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions]]></title>
         <id>https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/</id>
         <link href="https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/"/>
@@ -143,6 +231,17 @@
         <summary type="html"><![CDATA[Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Blake Lundquist)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Hassle Visual Code Theming: Publishing an Extension]]></title>
+        <id>https://css-tricks.com/?p=390379</id>
+        <link href="https://css-tricks.com/no-hassle-visual-code-theming-publishing-an-extension/"/>
+        <updated>2026-02-03T15:54:59.000Z</updated>
+        <summary type="html"><![CDATA[You’d think that publishing a VS Code extension is an easy process, but it’s not. You have to publish your theme in at least two places.
+No Hassle Visual Code Theming: Publishing an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
         </author>
     </entry>
     <entry>
@@ -156,6 +255,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[No-Hassle Visual Studio Code Theming: Building an Extension]]></title>
+        <id>https://css-tricks.com/?p=390341</id>
+        <link href="https://css-tricks.com/no-hassle-visual-studio-code-theming-building-an-extension/"/>
+        <updated>2026-02-02T14:51:01.000Z</updated>
+        <summary type="html"><![CDATA[I've always thought that creating a VS Code theme was a lot of work. But lo and behold, it took less than six hours to get it working, then a day or two to polish up my final tweaks.
+No-Hassle Visual Studio Code Theming: Building an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Short Month, Big Ideas (February 2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/</id>
         <link href="https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/"/>
@@ -163,6 +273,17 @@
         <summary type="html"><![CDATA[Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #4: Videos & View Transitions, Named Media Queries, How Browsers Work, and More]]></title>
+        <id>https://css-tricks.com/?p=391967</id>
+        <link href="https://css-tricks.com/whats-important-4/"/>
+        <updated>2026-01-30T15:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Neither Chrome, Safari, nor Firefox have shipped new features in the last couple of weeks, but fear not because leading this issue of What’s !important is some of the web development industry’s best educators with, frankly, some killer content.
+What’s !important #4: Videos & View Transitions, Named Media Queries, How Browsers Work, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -176,6 +297,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Styling ::search-text and Other Highlight-y Pseudo-Elements]]></title>
+        <id>https://css-tricks.com/?p=391705</id>
+        <link href="https://css-tricks.com/how-to-style-the-new-search-text-and-other-highlight-pseudo-elements/"/>
+        <updated>2026-01-28T15:08:04.000Z</updated>
+        <summary type="html"><![CDATA[The new ::search-text pseudo (Chrome 144) matches are yellow while the current target (::search-text:current) is orange, but ::search-text enables us to change that.
+Styling ::search-text and Other Highlight-y Pseudo-Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReliCSS]]></title>
+        <id>https://css-tricks.com/?p=391920</id>
+        <link href="https://css-tricks.com/relicss/"/>
+        <updated>2026-01-28T13:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Stu Robson's ReliCSS (clever name!) tool can excavate outdated CSS in your codebase that have modern CSS solutions.
+ReliCSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Unstacking CSS Stacking Contexts]]></title>
         <id>https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/</id>
         <link href="https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/"/>
@@ -183,6 +326,28 @@
         <summary type="html"><![CDATA[In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Gabriel Shoyombo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There is No Need to Trap Focus on a Dialog Element]]></title>
+        <id>https://css-tricks.com/?p=388430</id>
+        <link href="https://css-tricks.com/there-is-no-need-to-trap-focus-on-a-dialog-element/"/>
+        <updated>2026-01-26T15:02:27.000Z</updated>
+        <summary type="html"><![CDATA[Accessibility advice around modals have commonly taught us to trap focus within the modal. Upon further research, it seems like we no longer need to trap focus within the <dialog> (even in modal mode).
+There is No Need to Trap Focus on a Dialog Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsive Hexagon Grid Using Modern CSS]]></title>
+        <id>https://css-tricks.com/?p=391573</id>
+        <link href="https://css-tricks.com/responsive-hexagon-grid-using-modern-css/"/>
+        <updated>2026-01-23T14:39:56.000Z</updated>
+        <summary type="html"><![CDATA[A while back, Temani tacked a repeating grid of hexagon shapes. Well, he's updated it with modern CSS features that result in fewer magic numbers. And it's impressive!
+Responsive Hexagon Grid Using Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
