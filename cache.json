@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=392208",
+          "author": "Daniel Schwarz",
+          "description": "Danny has several ideas for how we could use :near(), a proposed pseudo-class that detects when the pointer is near an element. \nPotentially Coming to a Browser :near() You originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/potentially-coming-to-a-browser-near-you/",
+          "publishedOn": "2026-02-20T15:36:55.000Z",
+          "wordCount": 2708,
+          "title": "Potentially Coming to a Browser :near() You",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/02/Screen-Recording-2026-02-06-at-8.58.26-AM.mov",
+            "length": "21913074",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/pointer-click.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=390460",
           "author": "Zell Liew",
           "description": "The distinction between \"components\" and \"utilities\" seems clear at first glance, but gets a little blurred when working with them in Tailwind.\nDistinguishing “Components” and “Utilities” in Tailwind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -27,7 +42,7 @@
           "description": "Lee accepts a challenge: arranging text in a spiral that animates as a vortex on scroll... all in CSS.\nSpiral Scrollytelling in CSS With sibling-index() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/spiral-scrollytelling-in-css-with-sibling-index/",
           "publishedOn": "2026-02-17T15:17:25.000Z",
-          "wordCount": 1929,
+          "wordCount": 2035,
           "title": "Spiral Scrollytelling in CSS With sibling-index()",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-28-at-9.37.52-AM.mov",
@@ -180,16 +195,6 @@
           "wordCount": 2626,
           "title": "There is No Need to Trap Focus on a Dialog Element",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/04/tab-key.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=391573",
-          "author": "Temani Afif",
-          "description": "A while back, Temani tacked a repeating grid of hexagon shapes. Well, he's updated it with modern CSS features that result in fewer magic numbers. And it's impressive!\nResponsive Hexagon Grid Using Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/responsive-hexagon-grid-using-modern-css/",
-          "publishedOn": "2026-01-23T14:39:56.000Z",
-          "wordCount": 3159,
-          "title": "Responsive Hexagon Grid Using Modern CSS",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/hexagon-grid.png"
         }
       ]
     },
@@ -204,7 +209,7 @@
           "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
           "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
           "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 6733,
+          "wordCount": 6734,
           "title": "Designing A Streak System: The UX And Psychology Of Streaks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg",
@@ -219,7 +224,7 @@
           "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
           "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
           "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 6344,
+          "wordCount": 6345,
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
@@ -234,7 +239,7 @@
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6490,
+          "wordCount": 6487,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -249,7 +254,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4495,
+          "wordCount": 4504,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -279,7 +284,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4607,
+          "wordCount": 4601,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -294,7 +299,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": 4657,
+          "wordCount": 4658,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -309,7 +314,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5818,
+          "wordCount": 5823,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -324,7 +329,7 @@
           "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
           "link": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
           "publishedOn": "2026-01-22T13:00:00.000Z",
-          "wordCount": 6452,
+          "wordCount": 6446,
           "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg",
@@ -341,12 +346,62 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "69989fd0a20b74e093ce4fcb",
+          "author": "Onyeanuna Prince",
+          "description": "I was recently moved to the marketing team at my company, and that shift has made me reflect more deeply on the role documentation plays in our go-to-market strategy. Before this move, we've had sever",
+          "link": "https://www.freecodecamp.org/news/how-to-use-documentation-as-a-marketing-tool/",
+          "publishedOn": "2026-02-20T17:54:24.000Z",
+          "wordCount": 3261,
+          "title": "How to Use Documentation as a Marketing Tool",
+          "imageUrl": "https://cloudmate-test.s3.us-east-1.amazonaws.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2af093b1-f1aa-42cc-b33a-b842911affcd.png"
+        },
+        {
+          "id": "69987a933dc17c4862f4c18d",
+          "author": "Daniel Kehoe",
+          "description": "Java is the most widely used programming language for enterprise software, Android development, and university computer science courses. Apple doesn't include Java with macOS, so you need to install i",
+          "link": "https://www.freecodecamp.org/news/how-to-install-java-on-mac/",
+          "publishedOn": "2026-02-20T15:15:31.000Z",
+          "wordCount": 2178,
+          "title": "How to Install Java on Mac in 2026",
+          "imageUrl": "https://cloudmate-test.s3.us-east-1.amazonaws.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ab23255a-f10d-485b-9fd2-ee247138ed9e.png"
+        },
+        {
+          "id": "699879483dc17c4862f498f9",
+          "author": "Daniel Iwugo",
+          "description": "If you've ever wanted to combine the power of Rust with the interactive goodness of Jupyter notebooks, you're in the right place. Maybe you're tired of compiling every single time you want to test a s",
+          "link": "https://www.freecodecamp.org/news/how-to-run-rust-on-jupyter-notebooks/",
+          "publishedOn": "2026-02-20T15:10:00.000Z",
+          "wordCount": 2262,
+          "title": "How to Run Rust on Jupyter Notebooks",
+          "imageUrl": "https://cloudmate-test.s3.us-east-1.amazonaws.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6e411f5d-65a1-407d-a4f0-0beceb1e784b.png"
+        },
+        {
+          "id": "699877ac3dc17c4862f466c7",
+          "author": "Raju Manoj",
+          "description": "WhatsApp bots are widely used for customer support, automated replies, notifications, and internal tools. Instead of relying on expensive third-party platforms, you can build and deploy your own self-",
+          "link": "https://www.freecodecamp.org/news/how-to-build-and-deploy-a-production-ready-whatsapp-bot/",
+          "publishedOn": "2026-02-20T15:03:08.000Z",
+          "wordCount": 3694,
+          "title": "How to Build and Deploy a Production-Ready WhatsApp Bot with FastAPI, Evolution API, Docker, EasyPanel, and GCP",
+          "imageUrl": "https://cloudmate-test.s3.us-east-1.amazonaws.com/uploads/covers/5e1e335a7a1d3fcc59028c64/de480f02-206a-4325-b4c2-788d33d746b1.png"
+        },
+        {
+          "id": "6998702e916fad3477c5fdca",
+          "author": "Beau Carnes",
+          "description": "Today Quincy Larson interviews Shawn Wang. He's a software engineer, founder of the AI Engineer conference, and host of the Latent Space podcast focused on applying the latest models toward getting wo",
+          "link": "https://www.freecodecamp.org/news/the-three-paths-ai-could-take-from-here-shawn-wang-swyx-interview-podcast-208/",
+          "publishedOn": "2026-02-20T14:30:00.000Z",
+          "wordCount": 1316,
+          "title": "The three paths AI could take from here - Shawn Wang SWYX interview [Podcast #208]",
+          "imageUrl": "https://cloudmate-test.s3.us-east-1.amazonaws.com/uploads/covers/5f68e7df6dfc523d0a894e7c/ed4291ba-55c3-47fe-a8e2-89a8a11548a9.jpg"
+        },
+        {
           "id": "69965d1013f3e8d4dfe2a929",
           "author": "Manoj Aggarwal",
-          "description": "AI agents are all the rage these days. They’re like traditional chatbots, but they have the ability to utilize a plethora of tools in the background. They can also decide which tool to use and when to use it to answer your questions. In this tutorial...",
+          "description": "AI agents are all the rage these days. They’re like traditional chatbots, but they have the ability to utilize a plethora of tools in the background. They can also decide which tool to use and when to",
           "link": "https://www.freecodecamp.org/news/how-to-develop-ai-agents-using-langgraph-a-practical-guide/",
           "publishedOn": "2026-02-19T00:45:04.000Z",
-          "wordCount": 4280,
+          "wordCount": 4272,
           "title": "How to Develop AI Agents Using LangGraph: A Practical Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771461883355/00e4ae2d-048d-461c-93f9-184a67280770.png"
         },
@@ -389,56 +444,6 @@
           "wordCount": 5647,
           "title": "How to Use Different Container Runtimes: Docker, Podman, and Containerd Explained",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771357533601/1cba7a91-19f0-4038-93e6-504b121a9a03.png"
-        },
-        {
-          "id": "6994c4a494993ba9dd1ad6ad",
-          "author": "Bala Priya C",
-          "description": "Have you ever wondered how YouTube notifies you when your favorite channel uploads a new video? Or how your email client alerts you when new messages arrive? These are perfect examples of the observer pattern in action. The observer pattern is a desi...",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-the-observer-pattern-in-python/",
-          "publishedOn": "2026-02-17T19:42:28.000Z",
-          "wordCount": 2596,
-          "title": "How to Implement the Observer Pattern in Python",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771357332246/45dc3900-04d9-474e-91a8-bac2fec86c2c.png"
-        },
-        {
-          "id": "6994b1d13e0696149c7c229c",
-          "author": "Mari",
-          "description": "Performance problems in APIs rarely start as performance problems. They usually start as small design decisions that worked perfectly when the application had ten users, ten records, or a single developer testing locally. Over time, as traffic increa...",
-          "link": "https://www.freecodecamp.org/news/how-to-optimize-django-rest-apis-for-performance/",
-          "publishedOn": "2026-02-17T18:22:09.000Z",
-          "wordCount": 3579,
-          "title": "How to Optimize Django REST APIs for Performance: Profiling, Caching, and Scaling.",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771352481135/11be538b-aaf5-4c1e-8ee2-99deea5f180e.png"
-        },
-        {
-          "id": "6994b10f99525c1b1a51745d",
-          "author": "Pablo Rios",
-          "description": "Embeddings have transformed how we search text, images, and code. Instead of matching keywords, you compare vectors, which are numerical representations that capture meaning. Similar items end up close together, making it easy to find matches. The sa...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-alphaearth-for-similarity-search-in-google-earth-engine/",
-          "publishedOn": "2026-02-17T18:18:55.000Z",
-          "wordCount": 3098,
-          "title": "How to Use AlphaEarth for Similarity Search in Google Earth Engine",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771351283402/45ebd28e-3837-4efa-bb31-a9060e029e54.png"
-        },
-        {
-          "id": "69939ae54fe0950e7f9c9c75",
-          "author": "Oyedele Tioluwani",
-          "description": "Machine learning tasks usually start in a Python notebook, and for good reason. Notebooks make it easy to explore data, test ideas, and iterate quickly with minimal setup. They give teams a familiar place to experiment while questions remain open and...",
-          "link": "https://www.freecodecamp.org/news/how-to-take-machine-learning-beyond-python-notebooks-with-these-helpful-tools/",
-          "publishedOn": "2026-02-16T22:32:05.000Z",
-          "wordCount": 2959,
-          "title": "How to Take Machine Learning Beyond Python Notebooks with These Helpful Tools",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771281111134/f0951ffe-73f0-46a0-b13b-6f691322b081.png"
-        },
-        {
-          "id": "69938789dce780a9836b8f09",
-          "author": "Jessica Patel",
-          "description": "This article explains how to design and implement your own circuit breaker in Spring Boot using explicit failure tracking, a scheduler-driven recovery model, and clear state transitions. Instead of relying solely on Resilience4j, we’ll walk through t...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-circuit-breaker-in-spring-boot-and-really-understand-resilience4j/",
-          "publishedOn": "2026-02-16T21:09:29.000Z",
-          "wordCount": 5069,
-          "title": "How to Build Your Own Circuit Breaker in Spring Boot – and Really Understand Resilience4j",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771276149217/e55b0a5c-53e2-4d2c-a004-1467a7c2b17a.png"
         }
       ]
     }

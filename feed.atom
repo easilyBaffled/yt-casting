@@ -1,16 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-20T00:43:14.477Z</id>
+    <id>urn:2026-02-21T00:42:30.932Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-20T00:43:14.477Z</updated>
+    <updated>2026-02-21T00:42:30.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Documentation as a Marketing Tool]]></title>
+        <id>69989fd0a20b74e093ce4fcb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-documentation-as-a-marketing-tool/"/>
+        <updated>2026-02-20T17:54:24.000Z</updated>
+        <summary type="html"><![CDATA[I was recently moved to the marketing team at my company, and that shift has made me reflect more deeply on the role documentation plays in our go-to-market strategy. Before this move, we've had sever]]></summary>
+        <author>
+            <name>Onyeanuna Prince</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Potentially Coming to a Browser :near() You]]></title>
+        <id>https://css-tricks.com/?p=392208</id>
+        <link href="https://css-tricks.com/potentially-coming-to-a-browser-near-you/"/>
+        <updated>2026-02-20T15:36:55.000Z</updated>
+        <summary type="html"><![CDATA[Danny has several ideas for how we could use :near(), a proposed pseudo-class that detects when the pointer is near an element. 
+Potentially Coming to a Browser :near() You originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install Java on Mac in 2026]]></title>
+        <id>69987a933dc17c4862f4c18d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-java-on-mac/"/>
+        <updated>2026-02-20T15:15:31.000Z</updated>
+        <summary type="html"><![CDATA[Java is the most widely used programming language for enterprise software, Android development, and university computer science courses. Apple doesn't include Java with macOS, so you need to install i]]></summary>
+        <author>
+            <name>Daniel Kehoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run Rust on Jupyter Notebooks]]></title>
+        <id>699879483dc17c4862f498f9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-run-rust-on-jupyter-notebooks/"/>
+        <updated>2026-02-20T15:10:00.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever wanted to combine the power of Rust with the interactive goodness of Jupyter notebooks, you're in the right place. Maybe you're tired of compiling every single time you want to test a s]]></summary>
+        <author>
+            <name>Daniel Iwugo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Deploy a Production-Ready WhatsApp Bot with FastAPI, Evolution API, Docker, EasyPanel, and GCP]]></title>
+        <id>699877ac3dc17c4862f466c7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-and-deploy-a-production-ready-whatsapp-bot/"/>
+        <updated>2026-02-20T15:03:08.000Z</updated>
+        <summary type="html"><![CDATA[WhatsApp bots are widely used for customer support, automated replies, notifications, and internal tools. Instead of relying on expensive third-party platforms, you can build and deploy your own self-]]></summary>
+        <author>
+            <name>Raju Manoj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The three paths AI could take from here - Shawn Wang SWYX interview [Podcast #208]]]></title>
+        <id>6998702e916fad3477c5fdca</id>
+        <link href="https://www.freecodecamp.org/news/the-three-paths-ai-could-take-from-here-shawn-wang-swyx-interview-podcast-208/"/>
+        <updated>2026-02-20T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Shawn Wang. He's a software engineer, founder of the AI Engineer conference, and host of the Latent Space podcast focused on applying the latest models toward getting wo]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Develop AI Agents Using LangGraph: A Practical Guide]]></title>
         <id>69965d1013f3e8d4dfe2a929</id>
         <link href="https://www.freecodecamp.org/news/how-to-develop-ai-agents-using-langgraph-a-practical-guide/"/>
         <updated>2026-02-19T00:45:04.000Z</updated>
-        <summary type="html"><![CDATA[AI agents are all the rage these days. They’re like traditional chatbots, but they have the ability to utilize a plethora of tools in the background. They can also decide which tool to use and when to use it to answer your questions. In this tutorial...]]></summary>
+        <summary type="html"><![CDATA[AI agents are all the rage these days. They’re like traditional chatbots, but they have the ability to utilize a plethora of tools in the background. They can also decide which tool to use and when to]]></summary>
         <author>
             <name>Manoj Aggarwal</name>
         </author>
@@ -77,36 +138,6 @@ Distinguishing “Components” and “Utilities” in Tailwind originally publi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Implement the Observer Pattern in Python]]></title>
-        <id>6994c4a494993ba9dd1ad6ad</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-the-observer-pattern-in-python/"/>
-        <updated>2026-02-17T19:42:28.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how YouTube notifies you when your favorite channel uploads a new video? Or how your email client alerts you when new messages arrive? These are perfect examples of the observer pattern in action. The observer pattern is a desi...]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize Django REST APIs for Performance: Profiling, Caching, and Scaling.]]></title>
-        <id>6994b1d13e0696149c7c229c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-optimize-django-rest-apis-for-performance/"/>
-        <updated>2026-02-17T18:22:09.000Z</updated>
-        <summary type="html"><![CDATA[Performance problems in APIs rarely start as performance problems. They usually start as small design decisions that worked perfectly when the application had ten users, ten records, or a single developer testing locally. Over time, as traffic increa...]]></summary>
-        <author>
-            <name>Mari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use AlphaEarth for Similarity Search in Google Earth Engine]]></title>
-        <id>6994b10f99525c1b1a51745d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-alphaearth-for-similarity-search-in-google-earth-engine/"/>
-        <updated>2026-02-17T18:18:55.000Z</updated>
-        <summary type="html"><![CDATA[Embeddings have transformed how we search text, images, and code. Instead of matching keywords, you compare vectors, which are numerical representations that capture meaning. Similar items end up close together, making it easy to find matches. The sa...]]></summary>
-        <author>
-            <name>Pablo Rios</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Spiral Scrollytelling in CSS With sibling-index()]]></title>
         <id>https://css-tricks.com/?p=391909</id>
         <link href="https://css-tricks.com/spiral-scrollytelling-in-css-with-sibling-index/"/>
@@ -126,26 +157,6 @@ Spiral Scrollytelling in CSS With sibling-index() originally published on CSS-Tr
 Interop 2026 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Take Machine Learning Beyond Python Notebooks with These Helpful Tools]]></title>
-        <id>69939ae54fe0950e7f9c9c75</id>
-        <link href="https://www.freecodecamp.org/news/how-to-take-machine-learning-beyond-python-notebooks-with-these-helpful-tools/"/>
-        <updated>2026-02-16T22:32:05.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning tasks usually start in a Python notebook, and for good reason. Notebooks make it easy to explore data, test ideas, and iterate quickly with minimal setup. They give teams a familiar place to experiment while questions remain open and...]]></summary>
-        <author>
-            <name>Oyedele Tioluwani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your Own Circuit Breaker in Spring Boot – and Really Understand Resilience4j]]></title>
-        <id>69938789dce780a9836b8f09</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-circuit-breaker-in-spring-boot-and-really-understand-resilience4j/"/>
-        <updated>2026-02-16T21:09:29.000Z</updated>
-        <summary type="html"><![CDATA[This article explains how to design and implement your own circuit breaker in Spring Boot using explicit failure tracking, a scheduler-driven recovery model, and clear state transitions. Instead of relying solely on Resilience4j, we’ll walk through t...]]></summary>
-        <author>
-            <name>Jessica Patel</name>
         </author>
     </entry>
     <entry>
@@ -337,17 +348,6 @@ ReliCSS originally published on CSS-Tricks, which is part of the DigitalOcean fa
 There is No Need to Trap Focus on a Dialog Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsive Hexagon Grid Using Modern CSS]]></title>
-        <id>https://css-tricks.com/?p=391573</id>
-        <link href="https://css-tricks.com/responsive-hexagon-grid-using-modern-css/"/>
-        <updated>2026-01-23T14:39:56.000Z</updated>
-        <summary type="html"><![CDATA[A while back, Temani tacked a repeating grid of hexagon shapes. Well, he's updated it with modern CSS features that result in fewer magic numbers. And it's impressive!
-Responsive Hexagon Grid Using Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
