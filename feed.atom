@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-21T00:42:30.932Z</id>
+    <id>urn:2026-02-22T00:46:29.725Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-21T00:42:30.932Z</updated>
+    <updated>2026-02-22T00:46:29.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Reusable Modular Unity Packages to Speed Up Development]]></title>
+        <id>6998ee96a20b74e093d7e671</id>
+        <link href="https://www.freecodecamp.org/news/build-reusable-modular-unity-packages-to-speed-up-development/"/>
+        <updated>2026-02-20T23:30:30.000Z</updated>
+        <summary type="html"><![CDATA[How many times have you rewritten the same systems across different Unity projects? Or copied entire folders from an old project, only to spend hours fixing references, renaming namespaces, and adapti]]></summary>
+        <author>
+            <name>Talha Cagatay ISIK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Documentation as a Marketing Tool]]></title>
         <id>69989fd0a20b74e093ce4fcb</id>
@@ -125,16 +135,6 @@ Distinguishing “Components” and “Utilities” in Tailwind originally publi
         <summary type="html"><![CDATA[What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Different Container Runtimes: Docker, Podman, and Containerd Explained]]></title>
-        <id>6994e01b44a48dd86fdf0816</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-different-container-runtimes-docker-podman-and-containerd-explained/"/>
-        <updated>2026-02-17T21:39:39.000Z</updated>
-        <summary type="html"><![CDATA[If you’re a developer working with containers, chances are Docker is your go-to tool. But did you know that there's a whole ecosystem of container runtimes out there? Some are lighter, some are more secure, and some are specifically built for Kuberne...]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
         </author>
     </entry>
     <entry>
@@ -348,16 +348,6 @@ ReliCSS originally published on CSS-Tricks, which is part of the DigitalOcean fa
 There is No Need to Trap Focus on a Dialog Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Generative: The Rise Of Agentic AI And User-Centric Design]]></title>
-        <id>https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/</id>
-        <link href="https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/"/>
-        <updated>2026-01-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Yocco)</name>
         </author>
     </entry>
 </feed>
