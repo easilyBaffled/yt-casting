@@ -209,7 +209,7 @@
           "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
           "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
           "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 6724,
+          "wordCount": 6734,
           "title": "Designing A Streak System: The UX And Psychology Of Streaks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg",
@@ -224,7 +224,7 @@
           "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
           "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
           "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 6342,
+          "wordCount": 6344,
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
@@ -239,7 +239,7 @@
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6503,
+          "wordCount": 6501,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -254,7 +254,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4506,
+          "wordCount": 4504,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -284,7 +284,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4597,
+          "wordCount": 4596,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -299,7 +299,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": 4657,
+          "wordCount": 4661,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -314,7 +314,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5821,
+          "wordCount": 5820,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
