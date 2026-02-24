@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391982",
+          "author": "Mariana Beldi",
+          "description": "Let’s get nuanced in this article and discuss the capabilities of both SVG and raster imaged so that you can make informed decisions in your own work.\nLoading Smarter: SVG vs. Raster Loaders in Modern Web Design originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/loading-smarter-svg-vs-raster-loaders-in-modern-web-design/",
+          "publishedOn": "2026-02-23T14:18:16.000Z",
+          "wordCount": 2599,
+          "title": "Loading Smarter: SVG vs. Raster Loaders in Modern Web Design",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/raster-vs-vector.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=392208",
           "author": "Daniel Schwarz",
           "description": "Danny has several ideas for how we could use :near(), a proposed pseudo-class that detects when the pointer is near an element. \nPotentially Coming to a Browser :near() You originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/potentially-coming-to-a-browser-near-you/",
           "publishedOn": "2026-02-20T15:36:55.000Z",
-          "wordCount": 2708,
+          "wordCount": 2742,
           "title": "Potentially Coming to a Browser :near() You",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/Screen-Recording-2026-02-06-at-8.58.26-AM.mov",
@@ -32,7 +42,7 @@
           "description": "The distinction between \"components\" and \"utilities\" seems clear at first glance, but gets a little blurred when working with them in Tailwind.\nDistinguishing “Components” and “Utilities” in Tailwind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/distinguishing-components-and-utilities-in-tailwind/",
           "publishedOn": "2026-02-18T16:21:41.000Z",
-          "wordCount": 1774,
+          "wordCount": 1786,
           "title": "Distinguishing “Components” and “Utilities” in Tailwind",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/tailwind-paint.jpg"
         },
@@ -185,16 +195,6 @@
           "wordCount": 1308,
           "title": "ReliCSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/relicss-audit.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388430",
-          "author": "Zell Liew",
-          "description": "Accessibility advice around modals have commonly taught us to trap focus within the modal. Upon further research, it seems like we no longer need to trap focus within the <dialog> (even in modal mode).\nThere is No Need to Trap Focus on a Dialog Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/there-is-no-need-to-trap-focus-on-a-dialog-element/",
-          "publishedOn": "2026-01-26T15:02:27.000Z",
-          "wordCount": 2626,
-          "title": "There is No Need to Trap Focus on a Dialog Element",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/04/tab-key.png"
         }
       ]
     },
@@ -204,12 +204,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
+          "author": "hello@smashingmagazine.com (Carrie Webster)",
+          "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.",
+          "link": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
+          "publishedOn": "2026-02-23T10:00:00.000Z",
+          "wordCount": 4402,
+          "title": "A Designer’s Guide To Eco-Friendly Interfaces",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
           "author": "hello@smashingmagazine.com (Victor Ayomipo)",
           "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
           "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
           "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 6734,
+          "wordCount": 6725,
           "title": "Designing A Streak System: The UX And Psychology Of Streaks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg",
@@ -224,7 +239,7 @@
           "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
           "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
           "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 6344,
+          "wordCount": 6337,
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
@@ -239,7 +254,7 @@
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6501,
+          "wordCount": 6510,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -254,7 +269,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4504,
+          "wordCount": 4497,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -284,7 +299,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4596,
+          "wordCount": 4705,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -299,7 +314,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": 4661,
+          "wordCount": 4657,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -314,7 +329,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5820,
+          "wordCount": 5812,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -330,6 +345,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "699c785540e1f055acbb8b6f",
+          "author": "Balajee Asish Brahmandam",
+          "description": "You wake up and open your laptop. Your browser has 27 tabs open, your inbox is overflowing with unread newsletters, and meeting notes are scattered across three apps. Sound familiar? Now imagine you h",
+          "link": "https://www.freecodecamp.org/news/build-and-deploy-multi-agent-ai-with-python-and-docker/",
+          "publishedOn": "2026-02-23T15:55:01.000Z",
+          "wordCount": 6853,
+          "title": "How to Build and Deploy a Multi-Agent AI System with Python and Docker",
+          "imageUrl": "https://cloudmate-test.s3.us-east-1.amazonaws.com/uploads/covers/5fc16e412cae9c5b190b6cdd/6bd425e1-7427-4fe8-b1a7-80fff56102f7.png"
+        },
         {
           "id": "6998ee96a20b74e093d7e671",
           "author": "Talha Cagatay ISIK",
@@ -419,16 +444,6 @@
           "wordCount": 11926,
           "title": "How to Elevate Your Database Game: Supercharging Query Performance with Postgres FDW",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771357398917/8db8c3fd-9f16-4631-aa48-2537e8a4cb45.png"
-        },
-        {
-          "id": "6995e32376926e7d4ed2c700",
-          "author": "Beau Carnes",
-          "description": "How does the Internet really work? For many technical jobs it is important to understand computer networking. We just posted a massive 12-hour course that will give you a deep dive into computer networking. Here are the sections covered in this compr...",
-          "link": "https://www.freecodecamp.org/news/computer-networking-fundamentals/",
-          "publishedOn": "2026-02-18T16:04:51.000Z",
-          "wordCount": 1528,
-          "title": "Computer Networking Fundamentals",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771430669203/458df2d4-6920-4f6f-a30a-aecfa4635309.jpeg"
         }
       ]
     }
