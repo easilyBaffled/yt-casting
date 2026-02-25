@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-24T00:43:09.734Z</id>
+    <id>urn:2026-02-25T00:48:17.990Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-24T00:43:09.734Z</updated>
+    <updated>2026-02-25T00:48:17.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Notion in 12 Hours]]></title>
+        <id>699e18191ddf529956e1951f</id>
+        <link href="https://www.freecodecamp.org/news/lean-notion-in-12-hours/"/>
+        <updated>2026-02-24T21:28:57.000Z</updated>
+        <summary type="html"><![CDATA[Stop treating Notion like a digital notebook and start using it as a high-level operating system. We just posted a massive Notion course on the freeCodeCamp.org YouTube channel. This course takes you]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an LLM Market Copilot MVP with LangChain, APIs, and Streamlit]]></title>
+        <id>699de8640daf99859e528816</id>
+        <link href="https://www.freecodecamp.org/news/build-an-llm-market-copilot-with-langchain/"/>
+        <updated>2026-02-24T18:05:24.000Z</updated>
+        <summary type="html"><![CDATA[In fintech or wealthtech products, people constantly need quick market context. They need to know why a particular stock moved, what changed recently, or what they should watch next. This usually beco]]></summary>
+        <author>
+            <name>Nikhil Adithyan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build and Deploy a Multi-Agent AI System with Python and Docker]]></title>
         <id>699c785540e1f055acbb8b6f</id>
@@ -115,26 +135,6 @@ Potentially Coming to a Browser :near() You originally published on CSS-Tricks
         <summary type="html"><![CDATA[AI agents are all the rage these days. They’re like traditional chatbots, but they have the ability to utilize a plethora of tools in the background. They can also decide which tool to use and when to]]></summary>
         <author>
             <name>Manoj Aggarwal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product-Led Research: A Practical Guide for R&D Leaders [Full Book]]]></title>
-        <id>69963f99d35b661838993be2</id>
-        <link href="https://www.freecodecamp.org/news/product-led-research-a-practical-guide-for-randd-leaders-full-book/"/>
-        <updated>2026-02-18T22:39:21.000Z</updated>
-        <summary type="html"><![CDATA[Your team needs to solve a problem, and there's no clear solution path. Multiple approaches might work, but you're not sure which. Success isn't guaranteed. This is Research, not Development. And if you manage it like Development, things aren't going...]]></summary>
-        <author>
-            <name>Omer Rosenbaum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Elevate Your Database Game: Supercharging Query Performance with Postgres FDW]]></title>
-        <id>69963f00d35b661838993bd0</id>
-        <link href="https://www.freecodecamp.org/news/fdw-pushdown/"/>
-        <updated>2026-02-18T22:36:48.000Z</updated>
-        <summary type="html"><![CDATA[Foreign data wrappers (FDWs) make remote Postgres tables feel local. That convenience is exactly why FDW performance surprises are so common. A query that looks like a normal join can execute like a distributed system: rows move across the network, r...]]></summary>
-        <author>
-            <name>Hamdaan Ali</name>
         </author>
     </entry>
     <entry>

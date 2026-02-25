@@ -27,7 +27,7 @@
           "description": "Danny has several ideas for how we could use :near(), a proposed pseudo-class that detects when the pointer is near an element. \nPotentially Coming to a Browser :near() You originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/potentially-coming-to-a-browser-near-you/",
           "publishedOn": "2026-02-20T15:36:55.000Z",
-          "wordCount": 2742,
+          "wordCount": 2813,
           "title": "Potentially Coming to a Browser :near() You",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/Screen-Recording-2026-02-06-at-8.58.26-AM.mov",
@@ -224,7 +224,7 @@
           "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
           "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
           "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 6725,
+          "wordCount": null,
           "title": "Designing A Streak System: The UX And Psychology Of Streaks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg",
@@ -239,7 +239,7 @@
           "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
           "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
           "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 6337,
+          "wordCount": 6342,
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
@@ -254,7 +254,7 @@
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6510,
+          "wordCount": 6493,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -269,7 +269,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4497,
+          "wordCount": 4501,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -299,7 +299,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4705,
+          "wordCount": null,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -314,7 +314,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": 4657,
+          "wordCount": 4663,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -329,7 +329,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5812,
+          "wordCount": 5810,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -345,6 +345,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "699e18191ddf529956e1951f",
+          "author": "Beau Carnes",
+          "description": "Stop treating Notion like a digital notebook and start using it as a high-level operating system. We just posted a massive Notion course on the freeCodeCamp.org YouTube channel. This course takes you",
+          "link": "https://www.freecodecamp.org/news/lean-notion-in-12-hours/",
+          "publishedOn": "2026-02-24T21:28:57.000Z",
+          "wordCount": 985,
+          "title": "Learn Notion in 12 Hours",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/6ce96877-59d7-415e-99e0-f555367ad490.jpg"
+        },
+        {
+          "id": "699de8640daf99859e528816",
+          "author": "Nikhil Adithyan",
+          "description": "In fintech or wealthtech products, people constantly need quick market context. They need to know why a particular stock moved, what changed recently, or what they should watch next. This usually beco",
+          "link": "https://www.freecodecamp.org/news/build-an-llm-market-copilot-with-langchain/",
+          "publishedOn": "2026-02-24T18:05:24.000Z",
+          "wordCount": 7905,
+          "title": "How to Build an LLM Market Copilot MVP with LangChain, APIs, and Streamlit",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/24b80a39-6649-4987-961c-ca4efb964b28.png"
+        },
         {
           "id": "699c785540e1f055acbb8b6f",
           "author": "Balajee Asish Brahmandam",
@@ -424,26 +444,6 @@
           "wordCount": 4272,
           "title": "How to Develop AI Agents Using LangGraph: A Practical Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771461883355/00e4ae2d-048d-461c-93f9-184a67280770.png"
-        },
-        {
-          "id": "69963f99d35b661838993be2",
-          "author": "Omer Rosenbaum",
-          "description": "Your team needs to solve a problem, and there's no clear solution path. Multiple approaches might work, but you're not sure which. Success isn't guaranteed. This is Research, not Development. And if you manage it like Development, things aren't going...",
-          "link": "https://www.freecodecamp.org/news/product-led-research-a-practical-guide-for-randd-leaders-full-book/",
-          "publishedOn": "2026-02-18T22:39:21.000Z",
-          "wordCount": 16698,
-          "title": "Product-Led Research: A Practical Guide for R&D Leaders [Full Book]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769115610494/37ca44ed-763d-42a3-969a-8430f000701e.png"
-        },
-        {
-          "id": "69963f00d35b661838993bd0",
-          "author": "Hamdaan Ali",
-          "description": "Foreign data wrappers (FDWs) make remote Postgres tables feel local. That convenience is exactly why FDW performance surprises are so common. A query that looks like a normal join can execute like a distributed system: rows move across the network, r...",
-          "link": "https://www.freecodecamp.org/news/fdw-pushdown/",
-          "publishedOn": "2026-02-18T22:36:48.000Z",
-          "wordCount": 11926,
-          "title": "How to Elevate Your Database Game: Supercharging Query Performance with Postgres FDW",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771357398917/8db8c3fd-9f16-4631-aa48-2537e8a4cb45.png"
         }
       ]
     }
