@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-26T00:42:41.187Z</id>
+    <id>urn:2026-02-27T00:44:59.296Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-26T00:42:41.187Z</updated>
+    <updated>2026-02-27T00:44:59.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Python and Build Autonomous Agents]]></title>
+        <id>69a062cfab6baac8ff1a081d</id>
+        <link href="https://www.freecodecamp.org/news/learn-python-and-build-autonomous-agents/"/>
+        <updated>2026-02-26T15:12:15.000Z</updated>
+        <summary type="html"><![CDATA[The future of software is code that reasons. We just posted a new course on the freeCodeCamp.org YouTube channel designed to take you from Python fundamentals to AI Agent development. This course is a]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Kubernetes Through Production-Ready Practice]]></title>
+        <id>69a06148ab6baac8ff198f13</id>
+        <link href="https://www.freecodecamp.org/news/master-kubernetes-through-production-ready-practice/"/>
+        <updated>2026-02-26T15:05:44.000Z</updated>
+        <summary type="html"><![CDATA[Stop memorizing isolated commands and start building like a platform engineer. We just posted comprehensive Kubernetes course on the freeCodeCamp.org YouTube channel. This hands-on course is designed]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Say Cheese! Meet SmashingConf Amsterdam 🇳🇱]]></title>
+        <id>https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/</id>
+        <link href="https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/"/>
+        <updated>2026-02-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Exploit … in CSS?!]]></title>
         <id>https://css-tricks.com/?p=392606</id>
@@ -44,16 +74,6 @@ An Exploit … in CSS?! originally published on CSS-Tricks, which is part of the
         <summary type="html"><![CDATA[A REST API documentation is a guide that explains how clients can make use of the REST APIs in an application. It details the available endpoints, how to send requests and what responses to expect. It]]></summary>
         <author>
             <name>Orim Dominic Adah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Serverless RAG Pipeline on AWS That Scales to Zero]]></title>
-        <id>699f0d7c6049477bf66fb933</id>
-        <link href="https://www.freecodecamp.org/news/serverless-rag-pipeline-on-aws/"/>
-        <updated>2026-02-25T14:55:56.000Z</updated>
-        <summary type="html"><![CDATA[Most RAG tutorials end the same way: you've got a working prototype and a bill for a vector database that runs whether anyone's querying it or not. Add an always-on embedding service, a hosted LLM end]]></summary>
-        <author>
-            <name>Christopher Galliart</name>
         </author>
     </entry>
     <entry>
@@ -136,16 +156,6 @@ Loading Smarter: SVG vs. Raster Loaders in Modern Web Design originally publishe
         <summary type="html"><![CDATA[How many times have you rewritten the same systems across different Unity projects? Or copied entire folders from an old project, only to spend hours fixing references, renaming namespaces, and adapti]]></summary>
         <author>
             <name>Talha Cagatay ISIK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Documentation as a Marketing Tool]]></title>
-        <id>69989fd0a20b74e093ce4fcb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-documentation-as-a-marketing-tool/"/>
-        <updated>2026-02-20T17:54:24.000Z</updated>
-        <summary type="html"><![CDATA[I was recently moved to the marketing team at my company, and that shift has made me reflect more deeply on the role documentation plays in our go-to-market strategy. Before this move, we've had sever]]></summary>
-        <author>
-            <name>Onyeanuna Prince</name>
         </author>
     </entry>
     <entry>

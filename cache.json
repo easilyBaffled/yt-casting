@@ -17,7 +17,7 @@
           "description": "Read an explanation of the recent CVE-2026-2441 vulnerability that was labeled a \"CSS exploit\" that \"allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page.\"\nAn Exploit … in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/an-exploit-in-css/",
           "publishedOn": "2026-02-25T21:31:39.000Z",
-          "wordCount": 2235,
+          "wordCount": 2510,
           "title": "An Exploit … in CSS?!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/code-magnify.png"
         },
@@ -72,7 +72,7 @@
           "description": "Lee accepts a challenge: arranging text in a spiral that animates as a vortex on scroll... all in CSS.\nSpiral Scrollytelling in CSS With sibling-index() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/spiral-scrollytelling-in-css-with-sibling-index/",
           "publishedOn": "2026-02-17T15:17:25.000Z",
-          "wordCount": 2035,
+          "wordCount": 2056,
           "title": "Spiral Scrollytelling in CSS With sibling-index()",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-28-at-9.37.52-AM.mov",
@@ -199,12 +199,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
+          "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
+          "publishedOn": "2026-02-26T11:00:00.000Z",
+          "wordCount": 4065,
+          "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
           "author": "hello@smashingmagazine.com (Carrie Webster)",
           "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.",
           "link": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
           "publishedOn": "2026-02-23T10:00:00.000Z",
-          "wordCount": 4400,
+          "wordCount": 4422,
           "title": "A Designer’s Guide To Eco-Friendly Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg",
@@ -219,7 +234,7 @@
           "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
           "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
           "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 6727,
+          "wordCount": 6721,
           "title": "Designing A Streak System: The UX And Psychology Of Streaks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg",
@@ -234,7 +249,7 @@
           "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
           "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
           "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 6343,
+          "wordCount": 6344,
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
@@ -249,7 +264,7 @@
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6494,
+          "wordCount": 6499,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -264,7 +279,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4497,
+          "wordCount": 4504,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -294,7 +309,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4602,
+          "wordCount": 4593,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -309,7 +324,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": 4665,
+          "wordCount": 4653,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -325,6 +340,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69a062cfab6baac8ff1a081d",
+          "author": "Beau Carnes",
+          "description": "The future of software is code that reasons. We just posted a new course on the freeCodeCamp.org YouTube channel designed to take you from Python fundamentals to AI Agent development. This course is a",
+          "link": "https://www.freecodecamp.org/news/learn-python-and-build-autonomous-agents/",
+          "publishedOn": "2026-02-26T15:12:15.000Z",
+          "wordCount": 1048,
+          "title": "Learn Python and Build Autonomous Agents",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/3883540d-6097-459f-a4c5-83587aa33c8c.jpg"
+        },
+        {
+          "id": "69a06148ab6baac8ff198f13",
+          "author": "Beau Carnes",
+          "description": "Stop memorizing isolated commands and start building like a platform engineer. We just posted comprehensive Kubernetes course on the freeCodeCamp.org YouTube channel. This hands-on course is designed",
+          "link": "https://www.freecodecamp.org/news/master-kubernetes-through-production-ready-practice/",
+          "publishedOn": "2026-02-26T15:05:44.000Z",
+          "wordCount": 1001,
+          "title": "Master Kubernetes Through Production-Ready Practice",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/b1d63be6-f5d9-4ddc-8afc-4455c2ed95ee.jpg"
+        },
         {
           "id": "699f5dc4c9015c37f6bc8f92",
           "author": "Ilyas Seisov",
@@ -354,16 +389,6 @@
           "wordCount": 4331,
           "title": "How to Create REST API Documentation in Node.js Using Scalar",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/ec5d63f1-d65f-4852-a297-9c517fc76e2f.png"
-        },
-        {
-          "id": "699f0d7c6049477bf66fb933",
-          "author": "Christopher Galliart",
-          "description": "Most RAG tutorials end the same way: you've got a working prototype and a bill for a vector database that runs whether anyone's querying it or not. Add an always-on embedding service, a hosted LLM end",
-          "link": "https://www.freecodecamp.org/news/serverless-rag-pipeline-on-aws/",
-          "publishedOn": "2026-02-25T14:55:56.000Z",
-          "wordCount": 4135,
-          "title": "How to Build a Serverless RAG Pipeline on AWS That Scales to Zero",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/c9a4a8b7-4dea-41a0-b0d2-7c57e2e94578.png"
         },
         {
           "id": "699e41d20daf99859e60d319",
@@ -414,16 +439,6 @@
           "wordCount": 4590,
           "title": "How to Build Reusable Modular Unity Packages to Speed Up Development",
           "imageUrl": "https://cloudmate-test.s3.us-east-1.amazonaws.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7a3eeaef-4bab-403c-b9ef-3ebc785efb2f.png"
-        },
-        {
-          "id": "69989fd0a20b74e093ce4fcb",
-          "author": "Onyeanuna Prince",
-          "description": "I was recently moved to the marketing team at my company, and that shift has made me reflect more deeply on the role documentation plays in our go-to-market strategy. Before this move, we've had sever",
-          "link": "https://www.freecodecamp.org/news/how-to-use-documentation-as-a-marketing-tool/",
-          "publishedOn": "2026-02-20T17:54:24.000Z",
-          "wordCount": 3261,
-          "title": "How to Use Documentation as a Marketing Tool",
-          "imageUrl": "https://cloudmate-test.s3.us-east-1.amazonaws.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2af093b1-f1aa-42cc-b33a-b842911affcd.png"
         }
       ]
     }
