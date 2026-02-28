@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-27T00:44:59.296Z</id>
+    <id>urn:2026-02-28T00:39:46.947Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-27T00:44:59.296Z</updated>
+    <updated>2026-02-28T00:39:46.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Prevent IDOR Vulnerabilities in Next.js API Routes]]></title>
+        <id>69a1f073d4053a09f3430559</id>
+        <link href="https://www.freecodecamp.org/news/prevent-idor-in-nextjs/"/>
+        <updated>2026-02-27T19:28:51.000Z</updated>
+        <summary type="html"><![CDATA[Imagine this situation: A user logs in successfully to your application, but upon loading their dashboard, they see someone else’s data. Why does this happen? The authentication worked, the session is]]></summary>
+        <author>
+            <name>Ayodele Aransiola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More]]></title>
+        <id>https://css-tricks.com/?p=392661</id>
+        <link href="https://css-tricks.com/whats-important-6/"/>
+        <updated>2026-02-27T16:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Despite what’s been a sleepy couple of weeks for new Web Platform Features, we have an issue of What’s !important that’s prrrretty jam-packed. The web community had a lot to say, it seems, so fasten your seatbelts!
+What’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yet Another Way to Center an (Absolute) Element]]></title>
+        <id>https://css-tricks.com/?p=392540</id>
+        <link href="https://css-tricks.com/yet-another-way-to-center-an-absolute-element/"/>
+        <updated>2026-02-27T14:40:42.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR: We can center absolute-positioned elements in three lines of CSS. And it works on all browsers!
+Yet Another Way to Center an (Absolute) Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ultimate dev skill is Integration Testing – Podcast interview with Internet of Bugs [Podcast #209]]]></title>
+        <id>69a18785eec1fe1afcfa2751</id>
+        <link href="https://www.freecodecamp.org/news/the-ultimate-dev-skill-is-integration-testing-podcast-interview-with-internet-of-bugs-podcast-209/"/>
+        <updated>2026-02-27T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Carl Brown, who runs the Internet of Bugs YouTube channel and has worked as a dev at Amazon, IBM, Sun Microsystems, and startups for over 37 years. We talk about: The h]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Python and Build Autonomous Agents]]></title>
         <id>69a062cfab6baac8ff1a081d</id>
@@ -118,16 +160,6 @@ A Complete Guide to Bookmarklets originally published on CSS-Tricks, which is pa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build and Deploy a Multi-Agent AI System with Python and Docker]]></title>
-        <id>699c785540e1f055acbb8b6f</id>
-        <link href="https://www.freecodecamp.org/news/build-and-deploy-multi-agent-ai-with-python-and-docker/"/>
-        <updated>2026-02-23T15:55:01.000Z</updated>
-        <summary type="html"><![CDATA[You wake up and open your laptop. Your browser has 27 tabs open, your inbox is overflowing with unread newsletters, and meeting notes are scattered across three apps. Sound familiar? Now imagine you h]]></summary>
-        <author>
-            <name>Balajee Asish Brahmandam</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Loading Smarter: SVG vs. Raster Loaders in Modern Web Design]]></title>
         <id>https://css-tricks.com/?p=391982</id>
         <link href="https://css-tricks.com/loading-smarter-svg-vs-raster-loaders-in-modern-web-design/"/>
@@ -146,16 +178,6 @@ Loading Smarter: SVG vs. Raster Loaders in Modern Web Design originally publishe
         <summary type="html"><![CDATA[Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Reusable Modular Unity Packages to Speed Up Development]]></title>
-        <id>6998ee96a20b74e093d7e671</id>
-        <link href="https://www.freecodecamp.org/news/build-reusable-modular-unity-packages-to-speed-up-development/"/>
-        <updated>2026-02-20T23:30:30.000Z</updated>
-        <summary type="html"><![CDATA[How many times have you rewritten the same systems across different Unity projects? Or copied entire folders from an old project, only to spend hours fixing references, renaming namespaces, and adapti]]></summary>
-        <author>
-            <name>Talha Cagatay ISIK</name>
         </author>
     </entry>
     <entry>
@@ -319,17 +341,6 @@ No Hassle Visual Code Theming: Publishing an Extension originally published on C
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[No-Hassle Visual Studio Code Theming: Building an Extension]]></title>
-        <id>https://css-tricks.com/?p=390341</id>
-        <link href="https://css-tricks.com/no-hassle-visual-studio-code-theming-building-an-extension/"/>
-        <updated>2026-02-02T14:51:01.000Z</updated>
-        <summary type="html"><![CDATA[I've always thought that creating a VS Code theme was a lot of work. But lo and behold, it took less than six hours to get it working, then a day or two to polish up my final tweaks.
-No-Hassle Visual Studio Code Theming: Building an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Short Month, Big Ideas (February 2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/</id>
         <link href="https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/"/>
@@ -337,17 +348,6 @@ No-Hassle Visual Studio Code Theming: Building an Extension originally published
         <summary type="html"><![CDATA[Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #4: Videos & View Transitions, Named Media Queries, How Browsers Work, and More]]></title>
-        <id>https://css-tricks.com/?p=391967</id>
-        <link href="https://css-tricks.com/whats-important-4/"/>
-        <updated>2026-01-30T15:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Neither Chrome, Safari, nor Firefox have shipped new features in the last couple of weeks, but fear not because leading this issue of What’s !important is some of the web development industry’s best educators with, frankly, some killer content.
-What’s !important #4: Videos & View Transitions, Named Media Queries, How Browsers Work, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>

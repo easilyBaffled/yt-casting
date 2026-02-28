@@ -12,6 +12,31 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=392661",
+          "author": "Daniel Schwarz",
+          "description": "Despite what’s been a sleepy couple of weeks for new Web Platform Features, we have an issue of What’s !important that’s prrrretty jam-packed. The web community had a lot to say, it seems, so fasten your seatbelts!\nWhat’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/whats-important-6/",
+          "publishedOn": "2026-02-27T16:30:22.000Z",
+          "wordCount": 2144,
+          "title": "What’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/02/border-shape.mp4",
+            "length": "2187724",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/important-color.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=392540",
+          "author": "Juan Diego Rodríguez",
+          "description": "TL;DR: We can center absolute-positioned elements in three lines of CSS. And it works on all browsers!\nYet Another Way to Center an (Absolute) Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/yet-another-way-to-center-an-absolute-element/",
+          "publishedOn": "2026-02-27T14:40:42.000Z",
+          "wordCount": 1647,
+          "title": "Yet Another Way to Center an (Absolute) Element",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2014/09/guide-centering.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=392606",
           "author": "Lee Meyer",
           "description": "Read an explanation of the recent CVE-2026-2441 vulnerability that was labeled a \"CSS exploit\" that \"allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page.\"\nAn Exploit … in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -27,7 +52,7 @@
           "description": "Browsers don't just let you bookmark web pages. You can also bookmark JavaScript, allowing you to do so much more than merely save pages.\nA Complete Guide to Bookmarklets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/a-complete-guide-to-bookmarklets/",
           "publishedOn": "2026-02-25T14:50:58.000Z",
-          "wordCount": 2433,
+          "wordCount": 2674,
           "title": "A Complete Guide to Bookmarklets",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/02/bookmarklets.png"
         },
@@ -72,7 +97,7 @@
           "description": "Lee accepts a challenge: arranging text in a spiral that animates as a vortex on scroll... all in CSS.\nSpiral Scrollytelling in CSS With sibling-index() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/spiral-scrollytelling-in-css-with-sibling-index/",
           "publishedOn": "2026-02-17T15:17:25.000Z",
-          "wordCount": 2056,
+          "wordCount": 2077,
           "title": "Spiral Scrollytelling in CSS With sibling-index()",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-28-at-9.37.52-AM.mov",
@@ -165,31 +190,6 @@
           "wordCount": 2193,
           "title": "No Hassle Visual Code Theming: Publishing an Extension",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/vs-code-highlight.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390341",
-          "author": "Zell Liew",
-          "description": "I've always thought that creating a VS Code theme was a lot of work. But lo and behold, it took less than six hours to get it working, then a day or two to polish up my final tweaks.\nNo-Hassle Visual Studio Code Theming: Building an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/no-hassle-visual-studio-code-theming-building-an-extension/",
-          "publishedOn": "2026-02-02T14:51:01.000Z",
-          "wordCount": 3014,
-          "title": "No-Hassle Visual Studio Code Theming: Building an Extension",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/11/quick-test.mp4",
-            "length": "6094355",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/vs-code-highlight.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=391967",
-          "author": "Daniel Schwarz",
-          "description": "Neither Chrome, Safari, nor Firefox have shipped new features in the last couple of weeks, but fear not because leading this issue of What’s !important is some of the web development industry’s best educators with, frankly, some killer content.\nWhat’s !important #4: Videos & View Transitions, Named Media Queries, How Browsers Work, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/whats-important-4/",
-          "publishedOn": "2026-01-30T15:00:26.000Z",
-          "wordCount": 1944,
-          "title": "What’s !important #4: Videos & View Transitions, Named Media Queries, How Browsers Work, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/wi4.png"
         }
       ]
     },
@@ -204,7 +204,7 @@
           "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
           "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
           "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 4065,
+          "wordCount": 4060,
           "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
           "enclosure": {
             "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
@@ -219,7 +219,7 @@
           "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.",
           "link": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
           "publishedOn": "2026-02-23T10:00:00.000Z",
-          "wordCount": 4422,
+          "wordCount": 4397,
           "title": "A Designer’s Guide To Eco-Friendly Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg",
@@ -234,7 +234,7 @@
           "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
           "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
           "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 6721,
+          "wordCount": 6726,
           "title": "Designing A Streak System: The UX And Psychology Of Streaks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg",
@@ -249,7 +249,7 @@
           "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
           "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
           "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 6344,
+          "wordCount": 6342,
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
@@ -264,7 +264,7 @@
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6499,
+          "wordCount": 6490,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -279,7 +279,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4504,
+          "wordCount": 4506,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -309,7 +309,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4593,
+          "wordCount": 4607,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -324,7 +324,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": 4653,
+          "wordCount": 4668,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -340,6 +340,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69a1f073d4053a09f3430559",
+          "author": "Ayodele Aransiola",
+          "description": "Imagine this situation: A user logs in successfully to your application, but upon loading their dashboard, they see someone else’s data. Why does this happen? The authentication worked, the session is",
+          "link": "https://www.freecodecamp.org/news/prevent-idor-in-nextjs/",
+          "publishedOn": "2026-02-27T19:28:51.000Z",
+          "wordCount": 2432,
+          "title": "How to Prevent IDOR Vulnerabilities in Next.js API Routes",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/b14a67ea-e78b-4ebd-996f-98da3a0a8027.png"
+        },
+        {
+          "id": "69a18785eec1fe1afcfa2751",
+          "author": "Beau Carnes",
+          "description": "Today Quincy Larson interviews Carl Brown, who runs the Internet of Bugs YouTube channel and has worked as a dev at Amazon, IBM, Sun Microsystems, and startups for over 37 years. We talk about: The h",
+          "link": "https://www.freecodecamp.org/news/the-ultimate-dev-skill-is-integration-testing-podcast-interview-with-internet-of-bugs-podcast-209/",
+          "publishedOn": "2026-02-27T12:00:00.000Z",
+          "wordCount": 1540,
+          "title": "The ultimate dev skill is Integration Testing – Podcast interview with Internet of Bugs [Podcast #209]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/747ec9c6-a776-425b-a95f-02023b755df6.jpg"
+        },
         {
           "id": "69a062cfab6baac8ff1a081d",
           "author": "Beau Carnes",
@@ -419,26 +439,6 @@
           "wordCount": 7905,
           "title": "How to Build an LLM Market Copilot MVP with LangChain, APIs, and Streamlit",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/24b80a39-6649-4987-961c-ca4efb964b28.png"
-        },
-        {
-          "id": "699c785540e1f055acbb8b6f",
-          "author": "Balajee Asish Brahmandam",
-          "description": "You wake up and open your laptop. Your browser has 27 tabs open, your inbox is overflowing with unread newsletters, and meeting notes are scattered across three apps. Sound familiar? Now imagine you h",
-          "link": "https://www.freecodecamp.org/news/build-and-deploy-multi-agent-ai-with-python-and-docker/",
-          "publishedOn": "2026-02-23T15:55:01.000Z",
-          "wordCount": 6854,
-          "title": "How to Build and Deploy a Multi-Agent AI System with Python and Docker",
-          "imageUrl": "https://cloudmate-test.s3.us-east-1.amazonaws.com/uploads/covers/5fc16e412cae9c5b190b6cdd/6bd425e1-7427-4fe8-b1a7-80fff56102f7.png"
-        },
-        {
-          "id": "6998ee96a20b74e093d7e671",
-          "author": "Talha Cagatay ISIK",
-          "description": "How many times have you rewritten the same systems across different Unity projects? Or copied entire folders from an old project, only to spend hours fixing references, renaming namespaces, and adapti",
-          "link": "https://www.freecodecamp.org/news/build-reusable-modular-unity-packages-to-speed-up-development/",
-          "publishedOn": "2026-02-20T23:30:30.000Z",
-          "wordCount": 4590,
-          "title": "How to Build Reusable Modular Unity Packages to Speed Up Development",
-          "imageUrl": "https://cloudmate-test.s3.us-east-1.amazonaws.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7a3eeaef-4bab-403c-b9ef-3ebc785efb2f.png"
         }
       ]
     }
