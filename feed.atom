@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-28T00:39:46.947Z</id>
+    <id>urn:2026-03-01T00:51:01.214Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-28T00:39:46.947Z</updated>
+    <updated>2026-03-01T00:51:01.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fresh Energy In March (2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/</id>
+        <link href="https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/"/>
+        <updated>2026-02-28T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Storyteller: A Medium For Guiding Others Through Code]]></title>
+        <id>69a23fd4d4053a09f35c3d3e</id>
+        <link href="https://www.freecodecamp.org/news/storyteller-a-medium-for-guiding-others-through-code/"/>
+        <updated>2026-02-28T01:07:32.000Z</updated>
+        <summary type="html"><![CDATA[As a computer science instructor, I have long wished that there was a better way to guide others through my code. When I was first learning to program, I was a big fan of traditional programming books]]></summary>
+        <author>
+            <name>Mark Mahoney</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Prevent IDOR Vulnerabilities in Next.js API Routes]]></title>
         <id>69a1f073d4053a09f3430559</id>
@@ -147,16 +167,6 @@ A Complete Guide to Bookmarklets originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[Stop treating Notion like a digital notebook and start using it as a high-level operating system. We just posted a massive Notion course on the freeCodeCamp.org YouTube channel. This course takes you]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an LLM Market Copilot MVP with LangChain, APIs, and Streamlit]]></title>
-        <id>699de8640daf99859e528816</id>
-        <link href="https://www.freecodecamp.org/news/build-an-llm-market-copilot-with-langchain/"/>
-        <updated>2026-02-24T18:05:24.000Z</updated>
-        <summary type="html"><![CDATA[In fintech or wealthtech products, people constantly need quick market context. They need to know why a particular stock moved, what changed recently, or what they should watch next. This usually beco]]></summary>
-        <author>
-            <name>Nikhil Adithyan</name>
         </author>
     </entry>
     <entry>
