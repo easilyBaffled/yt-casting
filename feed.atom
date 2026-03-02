@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-01T00:51:01.214Z</id>
+    <id>urn:2026-03-02T00:44:37.023Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-01T00:51:01.214Z</updated>
+    <updated>2026-03-02T00:44:37.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -348,26 +348,6 @@ No Hassle Visual Code Theming: Publishing an Extension originally published on C
         <summary type="html"><![CDATA[Combobox vs. Multi-Select vs. Listbox vs. Dual Listbox? How they are different, what purpose they serve, and how to choose the right one. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Short Month, Big Ideas (February 2026 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/</id>
-        <link href="https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/"/>
-        <updated>2026-01-31T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Practical Use Of AI Coding Tools For The Responsible Developer]]></title>
-        <id>https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/</id>
-        <link href="https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/"/>
-        <updated>2026-01-30T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stefan Kaltenegger)</name>
         </author>
     </entry>
 </feed>
