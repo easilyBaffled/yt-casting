@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-02T00:44:37.023Z</id>
+    <id>urn:2026-03-03T00:45:21.382Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-02T00:44:37.023Z</updated>
+    <updated>2026-03-03T00:45:21.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build a Loom Clone with Next.js 15 and Mux]]></title>
+        <id>69a5efa7e8e1f9df72e3a2ee</id>
+        <link href="https://www.freecodecamp.org/news/loom-clone-next-javascript-mux/"/>
+        <updated>2026-03-02T20:14:31.000Z</updated>
+        <summary type="html"><![CDATA[We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build a professional screen recording platform from scratch. Using Next.js 15 and Mux, you will create a "Loo]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Popover API or Dialog API: Which to Choose?]]></title>
+        <id>https://css-tricks.com/?p=388435</id>
+        <link href="https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/"/>
+        <updated>2026-03-02T15:10:07.000Z</updated>
+        <summary type="html"><![CDATA[Choosing between Popover API and Dialog API is difficult because they seem to do the same job, but they don’t! After a bit lots of research, I discovered that the Popover API and Dialog API are wildly different in terms of accessibility and we'll go over that in this article.
+Popover API or Dialog API: Which to Choose? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Disaster Recovery Testing? Explained with Practical Examples]]></title>
+        <id>69a5614ffc6453a5f17ca809</id>
+        <link href="https://www.freecodecamp.org/news/disaster-recovery-testing/"/>
+        <updated>2026-03-02T10:07:11.000Z</updated>
+        <summary type="html"><![CDATA[Most teams are confident they can recover from a major outages until they actually have to. Backups exist, architectures are redundant and a recovery plan is documented somewhere, yet real incidents o]]></summary>
+        <author>
+            <name>Alex Tray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With The Popover API]]></title>
+        <id>https://smashingmagazine.com/2026/03/getting-started-popover-api/</id>
+        <link href="https://smashingmagazine.com/2026/03/getting-started-popover-api/"/>
+        <updated>2026-03-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Godstime Aburu)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fresh Energy In March (2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/</id>
@@ -119,16 +160,6 @@ An Exploit … in CSS?! originally published on CSS-Tricks, which is part of the
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build an LLM Market Copilot MVP with LangChain, APIs, and Streamlit]]></title>
-        <id>699f5b70c9015c37f6bbd3e8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-llm-market-copilot-mvp-with-langchain-apis-and-streamlit/"/>
-        <updated>2026-02-25T20:28:32.000Z</updated>
-        <summary type="html"><![CDATA[In fintech or wealthtech products, people constantly need quick market context. They need to know why a particular stock moved, what changed recently, or what they should watch next. This usually beco]]></summary>
-        <author>
-            <name>Nikhil Adithyan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Create REST API Documentation in Node.js Using Scalar]]></title>
         <id>699f1d4e6049477bf67a9ad8</id>
         <link href="https://www.freecodecamp.org/news/rest-api-documentation-with-scalar/"/>
@@ -157,16 +188,6 @@ A Complete Guide to Bookmarklets originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[Building great software isn't about perfect prompts, it's about a disciplined process. In this guide, I'll share my workflow for shipping secure code: defining clear goals, mapping edge cases, and bui]]></summary>
         <author>
             <name>Sumit Saha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Notion in 12 Hours]]></title>
-        <id>699e18191ddf529956e1951f</id>
-        <link href="https://www.freecodecamp.org/news/lean-notion-in-12-hours/"/>
-        <updated>2026-02-24T21:28:57.000Z</updated>
-        <summary type="html"><![CDATA[Stop treating Notion like a digital notebook and start using it as a high-level operating system. We just posted a massive Notion course on the freeCodeCamp.org YouTube channel. This course takes you]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -327,17 +348,6 @@ CSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which 
         <summary type="html"><![CDATA[Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Blake Lundquist)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Hassle Visual Code Theming: Publishing an Extension]]></title>
-        <id>https://css-tricks.com/?p=390379</id>
-        <link href="https://css-tricks.com/no-hassle-visual-code-theming-publishing-an-extension/"/>
-        <updated>2026-02-03T15:54:59.000Z</updated>
-        <summary type="html"><![CDATA[You’d think that publishing a VS Code extension is an easy process, but it’s not. You have to publish your theme in at least two places.
-No Hassle Visual Code Theming: Publishing an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
     <entry>

@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=388435",
+          "author": "Zell Liew",
+          "description": "Choosing between Popover API and Dialog API is difficult because they seem to do the same job, but they don’t! After a bit lots of research, I discovered that the Popover API and Dialog API are wildly different in terms of accessibility and we'll go over that in this article.\nPopover API or Dialog API: Which to Choose? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/",
+          "publishedOn": "2026-03-02T15:10:07.000Z",
+          "wordCount": 2411,
+          "title": "Popover API or Dialog API: Which to Choose?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=392661",
           "author": "Daniel Schwarz",
           "description": "Despite what’s been a sleepy couple of weeks for new Web Platform Features, we have an issue of What’s !important that’s prrrretty jam-packed. The web community had a lot to say, it seems, so fasten your seatbelts!\nWhat’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -32,7 +42,7 @@
           "description": "TL;DR: We can center absolute-positioned elements in three lines of CSS. And it works on all browsers!\nYet Another Way to Center an (Absolute) Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/yet-another-way-to-center-an-absolute-element/",
           "publishedOn": "2026-02-27T14:40:42.000Z",
-          "wordCount": 1677,
+          "wordCount": 1783,
           "title": "Yet Another Way to Center an (Absolute) Element",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2014/09/guide-centering.png"
         },
@@ -42,7 +52,7 @@
           "description": "Read an explanation of the recent CVE-2026-2441 vulnerability that was labeled a \"CSS exploit\" that \"allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page.\"\nAn Exploit … in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/an-exploit-in-css/",
           "publishedOn": "2026-02-25T21:31:39.000Z",
-          "wordCount": 2510,
+          "wordCount": 2777,
           "title": "An Exploit … in CSS?!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/code-magnify.png"
         },
@@ -180,16 +190,6 @@
           "wordCount": 1708,
           "title": "CSS Bar Charts Using Modern Functions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/bar-chart-horizontal.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390379",
-          "author": "Zell Liew",
-          "description": "You’d think that publishing a VS Code extension is an easy process, but it’s not. You have to publish your theme in at least two places.\nNo Hassle Visual Code Theming: Publishing an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/no-hassle-visual-code-theming-publishing-an-extension/",
-          "publishedOn": "2026-02-03T15:54:59.000Z",
-          "wordCount": 2193,
-          "title": "No Hassle Visual Code Theming: Publishing an Extension",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/vs-code-highlight.jpg"
         }
       ]
     },
@@ -199,12 +199,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
+          "author": "hello@smashingmagazine.com (Godstime Aburu)",
+          "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.",
+          "link": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
+          "publishedOn": "2026-03-02T10:00:00.000Z",
+          "wordCount": 5654,
+          "title": "Getting Started With The Popover API",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
           "publishedOn": "2026-02-28T09:00:00.000Z",
-          "wordCount": 4415,
+          "wordCount": 4412,
           "title": "Fresh Energy In March (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a44be9ea-24bd-4614-aa0d-c45b03012f43/mar-15-wake-up-preview-opt.png",
@@ -219,7 +234,7 @@
           "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
           "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
           "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 4066,
+          "wordCount": 4070,
           "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
           "enclosure": {
             "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
@@ -234,7 +249,7 @@
           "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.",
           "link": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
           "publishedOn": "2026-02-23T10:00:00.000Z",
-          "wordCount": 4404,
+          "wordCount": 4409,
           "title": "A Designer’s Guide To Eco-Friendly Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg",
@@ -249,7 +264,7 @@
           "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
           "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
           "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 6716,
+          "wordCount": 6725,
           "title": "Designing A Streak System: The UX And Psychology Of Streaks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg",
@@ -264,7 +279,7 @@
           "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
           "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
           "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 6334,
+          "wordCount": 6337,
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
@@ -279,7 +294,7 @@
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6506,
+          "wordCount": 6503,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -294,7 +309,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4506,
+          "wordCount": 4503,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -325,6 +340,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69a5efa7e8e1f9df72e3a2ee",
+          "author": "Beau Carnes",
+          "description": "We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build a professional screen recording platform from scratch. Using Next.js 15 and Mux, you will create a \"Loo",
+          "link": "https://www.freecodecamp.org/news/loom-clone-next-javascript-mux/",
+          "publishedOn": "2026-03-02T20:14:31.000Z",
+          "wordCount": 1023,
+          "title": "Build a Loom Clone with Next.js 15 and Mux",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/eb0cef28-ed95-49f1-97d0-c66911848aa2.jpg"
+        },
+        {
+          "id": "69a5614ffc6453a5f17ca809",
+          "author": "Alex Tray",
+          "description": "Most teams are confident they can recover from a major outages until they actually have to. Backups exist, architectures are redundant and a recovery plan is documented somewhere, yet real incidents o",
+          "link": "https://www.freecodecamp.org/news/disaster-recovery-testing/",
+          "publishedOn": "2026-03-02T10:07:11.000Z",
+          "wordCount": 2288,
+          "title": "What is Disaster Recovery Testing? Explained with Practical Examples",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/57c1e51b-867c-444e-90f0-e6551284fe0a.png"
+        },
         {
           "id": "69a23fd4d4053a09f35c3d3e",
           "author": "Mark Mahoney",
@@ -386,16 +421,6 @@
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/2362ab0d-419d-4add-8228-9788e5a58d0f.png"
         },
         {
-          "id": "699f5b70c9015c37f6bbd3e8",
-          "author": "Nikhil Adithyan",
-          "description": "In fintech or wealthtech products, people constantly need quick market context. They need to know why a particular stock moved, what changed recently, or what they should watch next. This usually beco",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-llm-market-copilot-mvp-with-langchain-apis-and-streamlit/",
-          "publishedOn": "2026-02-25T20:28:32.000Z",
-          "wordCount": 7905,
-          "title": "How to Build an LLM Market Copilot MVP with LangChain, APIs, and Streamlit",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/24b80a39-6649-4987-961c-ca4efb964b28.png"
-        },
-        {
           "id": "699f1d4e6049477bf67a9ad8",
           "author": "Orim Dominic Adah",
           "description": "A REST API documentation is a guide that explains how clients can make use of the REST APIs in an application. It details the available endpoints, how to send requests and what responses to expect. It",
@@ -414,16 +439,6 @@
           "wordCount": 3452,
           "title": "The AI Coding Loop: How to Guide AI With Rules and Tests",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/b757ebbf-c9e9-44ec-b92c-7a38a8616e68.png"
-        },
-        {
-          "id": "699e18191ddf529956e1951f",
-          "author": "Beau Carnes",
-          "description": "Stop treating Notion like a digital notebook and start using it as a high-level operating system. We just posted a massive Notion course on the freeCodeCamp.org YouTube channel. This course takes you",
-          "link": "https://www.freecodecamp.org/news/lean-notion-in-12-hours/",
-          "publishedOn": "2026-02-24T21:28:57.000Z",
-          "wordCount": 985,
-          "title": "Learn Notion in 12 Hours",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/6ce96877-59d7-415e-99e0-f555367ad490.jpg"
         }
       ]
     }
