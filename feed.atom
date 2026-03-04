@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-03T00:45:21.382Z</id>
+    <id>urn:2026-03-04T00:43:25.713Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-03T00:45:21.382Z</updated>
+    <updated>2026-03-04T00:43:25.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Open Source Can Grow Your Tech Career: A Handbook for Beginners]]></title>
+        <id>69a6fdc756428acc6ff16dd8</id>
+        <link href="https://www.freecodecamp.org/news/open-source-career-handbook/"/>
+        <updated>2026-03-03T15:27:03.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone. In this handbook, you will learn about the growing world of open source, and how it can shape your career as a developer. Open source is something I found confusing and scary when I first]]></summary>
+        <author>
+            <name>Abdul Talha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OSS Pull Request Therapy: Learning to Enjoy Code Reviews with npmx]]></title>
+        <id>69a6f99556428acc6fef7fbc</id>
+        <link href="https://www.freecodecamp.org/news/learning-to-enjoy-code-reviews-with-npmx/"/>
+        <updated>2026-03-03T15:09:09.000Z</updated>
+        <summary type="html"><![CDATA[For years, I thought Open Source Software (OSS) just wasn’t for me. I had no plans to join any OSS communities on top of my existing developer community obligations. Curious about the hype I saw on Bl]]></summary>
+        <author>
+            <name>Abbey Perini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Now Shipping: Accessible UX Research, A New Smashing Book By Michele Williams]]></title>
+        <id>https://smashingmagazine.com/2026/03/accessible-ux-research-release/</id>
+        <link href="https://smashingmagazine.com/2026/03/accessible-ux-research-release/"/>
+        <updated>2026-03-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our newest Smashing Book, “Accessible UX Research” by Michele Williams, is finally shipping worldwide — and we couldn’t be happier! This book is about research, but you’ll also learn about assistive technology, different types of disability, and how to build accessibility into the entire design process. This thoughtful book will get you thinking about ways to make your UX research more inclusive and thorough, no matter your budget or timeline. Jump to the book details or order your copy now.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ari Stiles)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run and Customize LLMs Locally with Ollama]]></title>
+        <id>69a6cd5c75d7a0f10015ca0d</id>
+        <link href="https://www.freecodecamp.org/news/run-and-customize-llms-locally-with-ollama/"/>
+        <updated>2026-03-03T12:00:28.000Z</updated>
+        <summary type="html"><![CDATA[In the long history of technological innovation, only a few developments have been as impactful as Large Language Models (LLMs). LLMs are advanced AI systems trained on vast datasets to understand, ge]]></summary>
+        <author>
+            <name>Ikegah Oliver</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a Loom Clone with Next.js 15 and Mux]]></title>
         <id>69a5efa7e8e1f9df72e3a2ee</id>
@@ -150,26 +190,6 @@ An Exploit … in CSS?! originally published on CSS-Tricks, which is part of the
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Ultimate Web Developer Job Search Handbook]]></title>
-        <id>699f5dc4c9015c37f6bc8f92</id>
-        <link href="https://www.freecodecamp.org/news/the-ultimate-web-developer-job-search-handbook/"/>
-        <updated>2026-02-25T20:38:28.000Z</updated>
-        <summary type="html"><![CDATA[Getting a web developer job today is hard. In 2021, I got my first developer job by sending one direct email and then doing a single live call. That was enough. Later the same year, I found my second]]></summary>
-        <author>
-            <name>Ilyas Seisov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create REST API Documentation in Node.js Using Scalar]]></title>
-        <id>699f1d4e6049477bf67a9ad8</id>
-        <link href="https://www.freecodecamp.org/news/rest-api-documentation-with-scalar/"/>
-        <updated>2026-02-25T16:03:26.000Z</updated>
-        <summary type="html"><![CDATA[A REST API documentation is a guide that explains how clients can make use of the REST APIs in an application. It details the available endpoints, how to send requests and what responses to expect. It]]></summary>
-        <author>
-            <name>Orim Dominic Adah</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Complete Guide to Bookmarklets]]></title>
         <id>https://css-tricks.com/?p=392196</id>
         <link href="https://css-tricks.com/a-complete-guide-to-bookmarklets/"/>
@@ -178,16 +198,6 @@ An Exploit … in CSS?! originally published on CSS-Tricks, which is part of the
 A Complete Guide to Bookmarklets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Declan Chidlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI Coding Loop: How to Guide AI With Rules and Tests]]></title>
-        <id>699e41d20daf99859e60d319</id>
-        <link href="https://www.freecodecamp.org/news/how-to-guide-ai-with-rules-and-tests/"/>
-        <updated>2026-02-25T00:26:58.000Z</updated>
-        <summary type="html"><![CDATA[Building great software isn't about perfect prompts, it's about a disciplined process. In this guide, I'll share my workflow for shipping secure code: defining clear goals, mapping edge cases, and bui]]></summary>
-        <author>
-            <name>Sumit Saha</name>
         </author>
     </entry>
     <entry>

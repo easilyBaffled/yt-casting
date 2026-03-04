@@ -199,12 +199,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/03/accessible-ux-research-release/",
+          "author": "hello@smashingmagazine.com (Ari Stiles)",
+          "description": "Our newest Smashing Book, “Accessible UX Research” by Michele Williams, is finally shipping worldwide — and we couldn’t be happier! This book is about research, but you’ll also learn about assistive technology, different types of disability, and how to build accessibility into the entire design process. This thoughtful book will get you thinking about ways to make your UX research more inclusive and thorough, no matter your budget or timeline. Jump to the book details or order your copy now.",
+          "link": "https://smashingmagazine.com/2026/03/accessible-ux-research-release/",
+          "publishedOn": "2026-03-03T15:00:00.000Z",
+          "wordCount": 4112,
+          "title": "Now Shipping: Accessible UX Research, A New Smashing Book By Michele Williams",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/accessible-ux-research-release/accessible-ux-research-coffee.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/accessible-ux-research-release/accessible-ux-research-coffee.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
           "author": "hello@smashingmagazine.com (Godstime Aburu)",
           "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.",
           "link": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
           "publishedOn": "2026-03-02T10:00:00.000Z",
-          "wordCount": 5654,
+          "wordCount": null,
           "title": "Getting Started With The Popover API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg",
@@ -219,7 +234,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
           "publishedOn": "2026-02-28T09:00:00.000Z",
-          "wordCount": 4412,
+          "wordCount": 4423,
           "title": "Fresh Energy In March (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a44be9ea-24bd-4614-aa0d-c45b03012f43/mar-15-wake-up-preview-opt.png",
@@ -234,7 +249,7 @@
           "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
           "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
           "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 4070,
+          "wordCount": 4052,
           "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
           "enclosure": {
             "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
@@ -249,7 +264,7 @@
           "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.",
           "link": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
           "publishedOn": "2026-02-23T10:00:00.000Z",
-          "wordCount": 4409,
+          "wordCount": 4405,
           "title": "A Designer’s Guide To Eco-Friendly Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg",
@@ -264,7 +279,7 @@
           "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
           "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
           "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 6725,
+          "wordCount": 6728,
           "title": "Designing A Streak System: The UX And Psychology Of Streaks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg",
@@ -279,7 +294,7 @@
           "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
           "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
           "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 6337,
+          "wordCount": 6350,
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
@@ -340,6 +355,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69a6fdc756428acc6ff16dd8",
+          "author": "Abdul Talha",
+          "description": "Hi everyone. In this handbook, you will learn about the growing world of open source, and how it can shape your career as a developer. Open source is something I found confusing and scary when I first",
+          "link": "https://www.freecodecamp.org/news/open-source-career-handbook/",
+          "publishedOn": "2026-03-03T15:27:03.000Z",
+          "wordCount": 6192,
+          "title": "How Open Source Can Grow Your Tech Career: A Handbook for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/d9a95683-8157-4f44-9a1c-9ebf5ddfc330.png"
+        },
+        {
+          "id": "69a6f99556428acc6fef7fbc",
+          "author": "Abbey Perini",
+          "description": "For years, I thought Open Source Software (OSS) just wasn’t for me. I had no plans to join any OSS communities on top of my existing developer community obligations. Curious about the hype I saw on Bl",
+          "link": "https://www.freecodecamp.org/news/learning-to-enjoy-code-reviews-with-npmx/",
+          "publishedOn": "2026-03-03T15:09:09.000Z",
+          "wordCount": 3126,
+          "title": "OSS Pull Request Therapy: Learning to Enjoy Code Reviews with npmx",
+          "imageUrl": "https://cloudmate-test.s3.us-east-1.amazonaws.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5765f28c-0d0e-46be-bc60-972a4d879b7e.png"
+        },
+        {
+          "id": "69a6cd5c75d7a0f10015ca0d",
+          "author": "Ikegah Oliver",
+          "description": "In the long history of technological innovation, only a few developments have been as impactful as Large Language Models (LLMs). LLMs are advanced AI systems trained on vast datasets to understand, ge",
+          "link": "https://www.freecodecamp.org/news/run-and-customize-llms-locally-with-ollama/",
+          "publishedOn": "2026-03-03T12:00:28.000Z",
+          "wordCount": 3470,
+          "title": "How to Run and Customize LLMs Locally with Ollama",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/1d477910-f378-421b-87a2-20e390738e7c.png"
+        },
         {
           "id": "69a5efa7e8e1f9df72e3a2ee",
           "author": "Beau Carnes",
@@ -409,36 +454,6 @@
           "wordCount": 1001,
           "title": "Master Kubernetes Through Production-Ready Practice",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/b1d63be6-f5d9-4ddc-8afc-4455c2ed95ee.jpg"
-        },
-        {
-          "id": "699f5dc4c9015c37f6bc8f92",
-          "author": "Ilyas Seisov",
-          "description": "Getting a web developer job today is hard. In 2021, I got my first developer job by sending one direct email and then doing a single live call. That was enough. Later the same year, I found my second",
-          "link": "https://www.freecodecamp.org/news/the-ultimate-web-developer-job-search-handbook/",
-          "publishedOn": "2026-02-25T20:38:28.000Z",
-          "wordCount": 7098,
-          "title": "The Ultimate Web Developer Job Search Handbook",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/2362ab0d-419d-4add-8228-9788e5a58d0f.png"
-        },
-        {
-          "id": "699f1d4e6049477bf67a9ad8",
-          "author": "Orim Dominic Adah",
-          "description": "A REST API documentation is a guide that explains how clients can make use of the REST APIs in an application. It details the available endpoints, how to send requests and what responses to expect. It",
-          "link": "https://www.freecodecamp.org/news/rest-api-documentation-with-scalar/",
-          "publishedOn": "2026-02-25T16:03:26.000Z",
-          "wordCount": 4331,
-          "title": "How to Create REST API Documentation in Node.js Using Scalar",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/ec5d63f1-d65f-4852-a297-9c517fc76e2f.png"
-        },
-        {
-          "id": "699e41d20daf99859e60d319",
-          "author": "Sumit Saha",
-          "description": "Building great software isn't about perfect prompts, it's about a disciplined process. In this guide, I'll share my workflow for shipping secure code: defining clear goals, mapping edge cases, and bui",
-          "link": "https://www.freecodecamp.org/news/how-to-guide-ai-with-rules-and-tests/",
-          "publishedOn": "2026-02-25T00:26:58.000Z",
-          "wordCount": 3452,
-          "title": "The AI Coding Loop: How to Guide AI With Rules and Tests",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/b757ebbf-c9e9-44ec-b92c-7a38a8616e68.png"
         }
       ]
     }
