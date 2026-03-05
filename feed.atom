@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-04T00:43:25.713Z</id>
+    <id>urn:2026-03-05T00:45:11.078Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-04T00:43:25.713Z</updated>
+    <updated>2026-03-05T00:45:11.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build MCP Servers for Your Internal Data]]></title>
+        <id>69a849e9e55311e40f03f00e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-mcp-servers-for-your-internal-data/"/>
+        <updated>2026-03-04T15:04:09.000Z</updated>
+        <summary type="html"><![CDATA[The Model Context Protocol (MCP) is changing how AI applications connect to external tools and data. While some tutorials stop at "connect to GitHub" or "read a file," the real power of MCP is unlocki]]></summary>
+        <author>
+            <name>Mayur Vekariya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Open Source Can Grow Your Tech Career: A Handbook for Beginners]]></title>
         <id>69a6fdc756428acc6ff16dd8</id>
@@ -71,7 +81,7 @@ Popover API or Dialog API: Which to Choose? originally published on CSS-Tricks, 
         <id>69a5614ffc6453a5f17ca809</id>
         <link href="https://www.freecodecamp.org/news/disaster-recovery-testing/"/>
         <updated>2026-03-02T10:07:11.000Z</updated>
-        <summary type="html"><![CDATA[Most teams are confident they can recover from a major outages until they actually have to. Backups exist, architectures are redundant and a recovery plan is documented somewhere, yet real incidents o]]></summary>
+        <summary type="html"><![CDATA[Most teams are confident they can recover from a major outage until they actually have to. Backups exist, architectures are redundant and a recovery plan is documented somewhere, yet real incidents of]]></summary>
         <author>
             <name>Alex Tray</name>
         </author>
@@ -154,16 +164,6 @@ Yet Another Way to Center an (Absolute) Element originally published on CSS-Tric
         <link href="https://www.freecodecamp.org/news/learn-python-and-build-autonomous-agents/"/>
         <updated>2026-02-26T15:12:15.000Z</updated>
         <summary type="html"><![CDATA[The future of software is code that reasons. We just posted a new course on the freeCodeCamp.org YouTube channel designed to take you from Python fundamentals to AI Agent development. This course is a]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Kubernetes Through Production-Ready Practice]]></title>
-        <id>69a06148ab6baac8ff198f13</id>
-        <link href="https://www.freecodecamp.org/news/master-kubernetes-through-production-ready-practice/"/>
-        <updated>2026-02-26T15:05:44.000Z</updated>
-        <summary type="html"><![CDATA[Stop memorizing isolated commands and start building like a platform engineer. We just posted comprehensive Kubernetes course on the freeCodeCamp.org YouTube channel. This hands-on course is designed]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
@@ -358,16 +358,6 @@ CSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which 
         <summary type="html"><![CDATA[Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Blake Lundquist)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Combobox vs. Multiselect vs. Listbox: How To Choose The Right One]]></title>
-        <id>https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/</id>
-        <link href="https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/"/>
-        <updated>2026-02-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Combobox vs. Multi-Select vs. Listbox vs. Dual Listbox? How they are different, what purpose they serve, and how to choose the right one. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
