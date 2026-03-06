@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-05T00:45:11.078Z</id>
+    <id>urn:2026-03-06T00:47:44.803Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-05T00:45:11.078Z</updated>
+    <updated>2026-03-06T00:47:44.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Protect Sensitive Data by Running LLMs Locally with Ollama]]></title>
+        <id>69a99b623728a9dc358a5d85</id>
+        <link href="https://www.freecodecamp.org/news/protect-sensitive-data-with-local-llms/"/>
+        <updated>2026-03-05T15:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Whenever engineers are building AI-powered applications, use of sensitive data is always a top priority. You don't want to send users' data to an external API that you don't control. For me, this happ]]></summary>
+        <author>
+            <name>Manoj Aggarwal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn MLOps with MLflow and Databricks]]></title>
+        <id>69a999073728a9dc358915c1</id>
+        <link href="https://www.freecodecamp.org/news/learn-mlops-with-mlflow-and-databricks/"/>
+        <updated>2026-03-05T14:53:59.000Z</updated>
+        <summary type="html"><![CDATA[As the industry standard for managing the machine learning life cycle, MLflow provides the necessary architecture to build systems that are both reproducible and scalable. We just posted a course on t]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pass the NVIDIA-Certified Associate AI Infrastructure and Operations Certification Exam]]></title>
+        <id>69a997d53728a9dc358880a3</id>
+        <link href="https://www.freecodecamp.org/news/pass-the-nvidia-certified-associate-ai-infrastructure-and-operations-certification-exam/"/>
+        <updated>2026-03-05T14:48:53.000Z</updated>
+        <summary type="html"><![CDATA[The NCA-AIIO certification is an entry-level credential that validates the foundational concepts of AI computing related to infrastructure and operations. We just posted a course on the freeCodeCamp.o]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Different Ways to Select <html> in CSS]]></title>
+        <id>https://css-tricks.com/?p=392257</id>
+        <link href="https://css-tricks.com/the-different-ways-to-select-html-in-css/"/>
+        <updated>2026-03-05T14:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Sure, we can select the <html> element in CSS with, you know, a simple element selector, html. But what other (trivial and perhaps useless) ways can we do it?
+The Different Ways to Select <html> in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build MCP Servers for Your Internal Data]]></title>
         <id>69a849e9e55311e40f03f00e</id>
@@ -117,16 +158,6 @@ Popover API or Dialog API: Which to Choose? originally published on CSS-Tricks, 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Prevent IDOR Vulnerabilities in Next.js API Routes]]></title>
-        <id>69a1f073d4053a09f3430559</id>
-        <link href="https://www.freecodecamp.org/news/prevent-idor-in-nextjs/"/>
-        <updated>2026-02-27T19:28:51.000Z</updated>
-        <summary type="html"><![CDATA[Imagine this situation: A user logs in successfully to your application, but upon loading their dashboard, they see someone else’s data. Why does this happen? The authentication worked, the session is]]></summary>
-        <author>
-            <name>Ayodele Aransiola</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More]]></title>
         <id>https://css-tricks.com/?p=392661</id>
         <link href="https://css-tricks.com/whats-important-6/"/>
@@ -146,26 +177,6 @@ What’s !important #6: :heading, border-shape, Truncating Text From the Middle,
 Yet Another Way to Center an (Absolute) Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The ultimate dev skill is Integration Testing – Podcast interview with Internet of Bugs [Podcast #209]]]></title>
-        <id>69a18785eec1fe1afcfa2751</id>
-        <link href="https://www.freecodecamp.org/news/the-ultimate-dev-skill-is-integration-testing-podcast-interview-with-internet-of-bugs-podcast-209/"/>
-        <updated>2026-02-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Carl Brown, who runs the Internet of Bugs YouTube channel and has worked as a dev at Amazon, IBM, Sun Microsystems, and startups for over 37 years. We talk about: The h]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Python and Build Autonomous Agents]]></title>
-        <id>69a062cfab6baac8ff1a081d</id>
-        <link href="https://www.freecodecamp.org/news/learn-python-and-build-autonomous-agents/"/>
-        <updated>2026-02-26T15:12:15.000Z</updated>
-        <summary type="html"><![CDATA[The future of software is code that reasons. We just posted a new course on the freeCodeCamp.org YouTube channel designed to take you from Python fundamentals to AI Agent development. This course is a]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -337,17 +348,6 @@ Approximating contrast-color() With Other CSS Features originally published on C
 Trying to Make the Perfect Pie Chart in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Bar Charts Using Modern Functions]]></title>
-        <id>https://css-tricks.com/?p=391781</id>
-        <link href="https://css-tricks.com/css-bar-charts-using-modern-functions/"/>
-        <updated>2026-02-05T15:13:14.000Z</updated>
-        <summary type="html"><![CDATA[CSS-only bar charts are one of those things we've tackled a bunch of times in different ways. But how can modern CSS features finally make it not only trivial, but fun?
-CSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
     <entry>
