@@ -17,7 +17,7 @@
           "description": "Sure, we can select the <html> element in CSS with, you know, a simple element selector, html. But what other (trivial and perhaps useless) ways can we do it?\nThe Different Ways to Select <html> in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-different-ways-to-select-html-in-css/",
           "publishedOn": "2026-03-05T14:01:04.000Z",
-          "wordCount": 2504,
+          "wordCount": 2607,
           "title": "The Different Ways to Select <html> in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/02/css-block-html.png"
         },
@@ -52,7 +52,7 @@
           "description": "TL;DR: We can center absolute-positioned elements in three lines of CSS. And it works on all browsers!\nYet Another Way to Center an (Absolute) Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/yet-another-way-to-center-an-absolute-element/",
           "publishedOn": "2026-02-27T14:40:42.000Z",
-          "wordCount": 2795,
+          "wordCount": 2856,
           "title": "Yet Another Way to Center an (Absolute) Element",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2014/09/guide-centering.png"
         },
@@ -92,7 +92,7 @@
           "description": "Danny has several ideas for how we could use :near(), a proposed pseudo-class that detects when the pointer is near an element. \nPotentially Coming to a Browser :near() You originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/potentially-coming-to-a-browser-near-you/",
           "publishedOn": "2026-02-20T15:36:55.000Z",
-          "wordCount": 3817,
+          "wordCount": 3825,
           "title": "Potentially Coming to a Browser :near() You",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/Screen-Recording-2026-02-06-at-8.58.26-AM.mov",
@@ -107,7 +107,7 @@
           "description": "The distinction between \"components\" and \"utilities\" seems clear at first glance, but gets a little blurred when working with them in Tailwind.\nDistinguishing “Components” and “Utilities” in Tailwind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/distinguishing-components-and-utilities-in-tailwind/",
           "publishedOn": "2026-02-18T16:21:41.000Z",
-          "wordCount": 2790,
+          "wordCount": 2798,
           "title": "Distinguishing “Components” and “Utilities” in Tailwind",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/tailwind-paint.jpg"
         },
@@ -117,7 +117,7 @@
           "description": "Lee accepts a challenge: arranging text in a spiral that animates as a vortex on scroll... all in CSS.\nSpiral Scrollytelling in CSS With sibling-index() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/spiral-scrollytelling-in-css-with-sibling-index/",
           "publishedOn": "2026-02-17T15:17:25.000Z",
-          "wordCount": 3081,
+          "wordCount": 3089,
           "title": "Spiral Scrollytelling in CSS With sibling-index()",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-28-at-9.37.52-AM.mov",
@@ -132,7 +132,7 @@
           "description": "Interop 2026 is officially a thing and there's plenty of new (and even old) CSS features that we can look forward to being cross-browser compatible and consistent!\nInterop 2026 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/interop-2026/",
           "publishedOn": "2026-02-17T14:17:30.000Z",
-          "wordCount": 3913,
+          "wordCount": 3921,
           "title": "Interop 2026",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/interop-2026.webp"
         },
@@ -142,7 +142,7 @@
           "description": "This issue of What’s !important is dedicated to our friends in the UK, who are currently experiencing a very miserable 43-day rain streak. Presenting: the five most interesting things to read about CSS from the last couple of weeks. Plus, the latest features from Chrome 145, and anything else you might’ve missed. TL;DR: lots of content, but also lots of rain.\nWhat’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/whats-important-5/",
           "publishedOn": "2026-02-13T15:19:57.000Z",
-          "wordCount": 2588,
+          "wordCount": 2596,
           "title": "What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/time-layout.mp4",
@@ -157,7 +157,7 @@
           "description": "This is the second part of a small two-part series. In this article, we will explore another type of grid: a pyramidal one. We are still working with hexagon shapes, but a different organization of the elements., while exploring other different shapes.\nMaking a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/making-a-responsive-pyramidal-grid-with-modern-css/",
           "publishedOn": "2026-02-12T14:57:36.000Z",
-          "wordCount": 4667,
+          "wordCount": 4675,
           "title": "Making a Responsive Pyramidal Grid With Modern CSS",
           "enclosure": {
             "url": "http://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-28-at-8.44.39-AM.mov",
@@ -199,6 +199,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
+          "author": "hello@smashingmagazine.com (Carrie Webster)",
+          "description": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about creating interfaces. It’s about navigating ambiguity, advocating for humans in systems optimised for efficiency, and solving their problems through thoughtful design.",
+          "link": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
+          "publishedOn": "2026-03-06T08:00:00.000Z",
+          "wordCount": 4558,
+          "title": "Human Strategy In An AI-Accelerated Workflow",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/human-strategy-ai-accelerated-workflow/human-strategy-ai-accelerated-workflow.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/human-strategy-ai-accelerated-workflow/human-strategy-ai-accelerated-workflow.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/03/accessible-ux-research-release/",
           "author": "hello@smashingmagazine.com (Ari Stiles)",
           "description": "Our newest Smashing Book, “Accessible UX Research” by Michele Williams, is finally shipping worldwide — and we couldn’t be happier! This book is about research, but you’ll also learn about assistive technology, different types of disability, and how to build accessibility into the entire design process. This thoughtful book will get you thinking about ways to make your UX research more inclusive and thorough, no matter your budget or timeline. Jump to the book details or order your copy now.",
@@ -219,7 +234,7 @@
           "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.",
           "link": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
           "publishedOn": "2026-03-02T10:00:00.000Z",
-          "wordCount": 5647,
+          "wordCount": 5639,
           "title": "Getting Started With The Popover API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg",
@@ -234,7 +249,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
           "publishedOn": "2026-02-28T09:00:00.000Z",
-          "wordCount": 4425,
+          "wordCount": 4421,
           "title": "Fresh Energy In March (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a44be9ea-24bd-4614-aa0d-c45b03012f43/mar-15-wake-up-preview-opt.png",
@@ -249,7 +264,7 @@
           "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
           "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
           "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 4063,
+          "wordCount": 4068,
           "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
           "enclosure": {
             "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
@@ -264,7 +279,7 @@
           "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.",
           "link": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
           "publishedOn": "2026-02-23T10:00:00.000Z",
-          "wordCount": 4408,
+          "wordCount": 4405,
           "title": "A Designer’s Guide To Eco-Friendly Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg",
@@ -279,7 +294,7 @@
           "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
           "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
           "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 6717,
+          "wordCount": 6722,
           "title": "Designing A Streak System: The UX And Psychology Of Streaks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg",
@@ -294,7 +309,7 @@
           "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
           "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
           "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 6349,
+          "wordCount": 6332,
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
@@ -309,7 +324,7 @@
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6511,
+          "wordCount": 6496,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -317,21 +332,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
-          "author": "hello@smashingmagazine.com (Blake Lundquist)",
-          "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
-          "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
-          "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4507,
-          "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg"
         }
       ]
     },
@@ -341,6 +341,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "69aae80e78c5adcd0e1c63bc",
+          "author": "Osomudeya Zudonu",
+          "description": "I have noticed that many engineers who run Kubernetes in production have never actually watched it heal itself. They know it does. They have read the docs. But they have never seen a ReplicaSet contro",
+          "link": "https://www.freecodecamp.org/news/kubernetes-self-healing-explained/",
+          "publishedOn": "2026-03-06T14:43:26.000Z",
+          "wordCount": 4327,
+          "title": "How Does Kubernetes Self-Healing Work? Understand Self-Healing By Breaking a Real Cluster",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/ef1ba178-622f-4a28-b58a-7fb8a58be964.png"
+        },
+        {
+          "id": "69aadee178c5adcd0e18ddd3",
+          "author": "Balajee Asish Brahmandam",
+          "description": "There's a perception problem with Docker Compose. Ask a room full of platform engineers what they think of it, and you'll hear some version of: \"It's great for local dev, but we use Kubernetes for rea",
+          "link": "https://www.freecodecamp.org/news/how-to-use-docker-compose-for-production-workloads/",
+          "publishedOn": "2026-03-06T14:04:17.000Z",
+          "wordCount": 4373,
+          "title": "How to Use Docker Compose for Production Workloads — with Profiles, Watch Mode, and GPU Support",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/73c5f43a-321c-4ce1-8eb4-872b532cc8dd.png"
+        },
+        {
+          "id": "69aac1c7c7a9d4eafb4637ae",
+          "author": "Beau Carnes",
+          "description": "Today Quincy Larson interviews Justin Searls. He's a software engineer who cofounded a software agency 15 years ago that's still going – even after he figured out how to make a lot of money quickly an",
+          "link": "https://www.freecodecamp.org/news/there-are-2-kinds-of-devs-one-of-them-is-screwed-justin-searls-interview-podcast-210/",
+          "publishedOn": "2026-03-06T12:00:00.000Z",
+          "wordCount": 1437,
+          "title": "There are 2 kinds of devs. One of them is screwed. Justin Searls interview [Podcast #210]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d73b3a51-9c15-442d-a8f5-decc01b6a251.jpg"
+        },
+        {
+          "id": "69aa6fede2698e32064e7d79",
+          "author": "Manish Shivanandhan",
+          "description": "Vibe coding is about momentum. You open your editor, prompt an AI, stitch pieces together, and suddenly you have something that works. Maybe it’s messy. Maybe the architecture is not perfect. But it’s",
+          "link": "https://www.freecodecamp.org/news/deploy-ai-generated-code-using-paas/",
+          "publishedOn": "2026-03-06T06:10:53.000Z",
+          "wordCount": 2092,
+          "title": "How to Deploy AI-Generated Code on a PaaS Platform",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/0b8cb97d-4c82-4e26-862f-a9def20b1612.png"
+        },
+        {
           "id": "69a99b623728a9dc358a5d85",
           "author": "Manoj Aggarwal",
           "description": "Whenever engineers are building AI-powered applications, use of sensitive data is always a top priority. You don't want to send users' data to an external API that you don't control. For me, this happ",
@@ -348,7 +388,7 @@
           "publishedOn": "2026-03-05T15:04:02.000Z",
           "wordCount": 2793,
           "title": "How to Protect Sensitive Data by Running LLMs Locally with Ollama",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/f332e2f1-1bb5-450c-ae4a-d2ca4c6b2fe2.png"
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/92c9b0b4-5ff8-40ab-b5f5-a060765e99b4.png"
         },
         {
           "id": "69a999073728a9dc358915c1",
@@ -356,7 +396,7 @@
           "description": "As the industry standard for managing the machine learning life cycle, MLflow provides the necessary architecture to build systems that are both reproducible and scalable. We just posted a course on t",
           "link": "https://www.freecodecamp.org/news/learn-mlops-with-mlflow-and-databricks/",
           "publishedOn": "2026-03-05T14:53:59.000Z",
-          "wordCount": 1029,
+          "wordCount": 1028,
           "title": "Learn MLOps with MLflow and Databricks",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/8f3332fe-2f88-451d-9c2c-7ac8e08f0286.jpg"
         },
@@ -366,7 +406,7 @@
           "description": "The NCA-AIIO certification is an entry-level credential that validates the foundational concepts of AI computing related to infrastructure and operations. We just posted a course on the freeCodeCamp.o",
           "link": "https://www.freecodecamp.org/news/pass-the-nvidia-certified-associate-ai-infrastructure-and-operations-certification-exam/",
           "publishedOn": "2026-03-05T14:48:53.000Z",
-          "wordCount": 944,
+          "wordCount": 943,
           "title": "Pass the NVIDIA-Certified Associate AI Infrastructure and Operations Certification Exam",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7a3d245c-6e2d-4b01-99e2-0415e1b4c2a8.jpg"
         },
@@ -399,46 +439,6 @@
           "wordCount": 3126,
           "title": "OSS Pull Request Therapy: Learning to Enjoy Code Reviews with npmx",
           "imageUrl": "https://cloudmate-test.s3.us-east-1.amazonaws.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5765f28c-0d0e-46be-bc60-972a4d879b7e.png"
-        },
-        {
-          "id": "69a6cd5c75d7a0f10015ca0d",
-          "author": "Ikegah Oliver",
-          "description": "In the long history of technological innovation, only a few developments have been as impactful as Large Language Models (LLMs). LLMs are advanced AI systems trained on vast datasets to understand, ge",
-          "link": "https://www.freecodecamp.org/news/run-and-customize-llms-locally-with-ollama/",
-          "publishedOn": "2026-03-03T12:00:28.000Z",
-          "wordCount": 3470,
-          "title": "How to Run and Customize LLMs Locally with Ollama",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/1d477910-f378-421b-87a2-20e390738e7c.png"
-        },
-        {
-          "id": "69a5efa7e8e1f9df72e3a2ee",
-          "author": "Beau Carnes",
-          "description": "We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build a professional screen recording platform from scratch. Using Next.js 15 and Mux, you will create a \"Loo",
-          "link": "https://www.freecodecamp.org/news/loom-clone-next-javascript-mux/",
-          "publishedOn": "2026-03-02T20:14:31.000Z",
-          "wordCount": 1023,
-          "title": "Build a Loom Clone with Next.js 15 and Mux",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/eb0cef28-ed95-49f1-97d0-c66911848aa2.jpg"
-        },
-        {
-          "id": "69a5614ffc6453a5f17ca809",
-          "author": "Alex Tray",
-          "description": "Most teams are confident they can recover from a major outage until they actually have to. Backups exist, architectures are redundant and a recovery plan is documented somewhere, yet real incidents of",
-          "link": "https://www.freecodecamp.org/news/disaster-recovery-testing/",
-          "publishedOn": "2026-03-02T10:07:11.000Z",
-          "wordCount": 2288,
-          "title": "What is Disaster Recovery Testing? Explained with Practical Examples",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/57c1e51b-867c-444e-90f0-e6551284fe0a.png"
-        },
-        {
-          "id": "69a23fd4d4053a09f35c3d3e",
-          "author": "Mark Mahoney",
-          "description": "As a computer science instructor, I have long wished that there was a better way to guide others through my code. When I was first learning to program, I was a big fan of traditional programming books",
-          "link": "https://www.freecodecamp.org/news/storyteller-a-medium-for-guiding-others-through-code/",
-          "publishedOn": "2026-02-28T01:07:32.000Z",
-          "wordCount": 2365,
-          "title": "Storyteller: A Medium For Guiding Others Through Code",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/902c2299-ea98-4136-8ee8-36668f0c08ee.png"
         }
       ]
     }
