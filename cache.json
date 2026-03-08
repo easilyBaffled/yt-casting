@@ -52,7 +52,7 @@
           "description": "TL;DR: We can center absolute-positioned elements in three lines of CSS. And it works on all browsers!\nYet Another Way to Center an (Absolute) Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/yet-another-way-to-center-an-absolute-element/",
           "publishedOn": "2026-02-27T14:40:42.000Z",
-          "wordCount": 2856,
+          "wordCount": 2891,
           "title": "Yet Another Way to Center an (Absolute) Element",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2014/09/guide-centering.png"
         },
@@ -204,7 +204,7 @@
           "description": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about creating interfaces. It’s about navigating ambiguity, advocating for humans in systems optimised for efficiency, and solving their problems through thoughtful design.",
           "link": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
           "publishedOn": "2026-03-06T08:00:00.000Z",
-          "wordCount": 4558,
+          "wordCount": 4576,
           "title": "Human Strategy In An AI-Accelerated Workflow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-strategy-ai-accelerated-workflow/human-strategy-ai-accelerated-workflow.jpg",
@@ -234,7 +234,7 @@
           "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.",
           "link": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
           "publishedOn": "2026-03-02T10:00:00.000Z",
-          "wordCount": 5639,
+          "wordCount": 5649,
           "title": "Getting Started With The Popover API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg",
@@ -249,7 +249,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
           "publishedOn": "2026-02-28T09:00:00.000Z",
-          "wordCount": 4421,
+          "wordCount": 4404,
           "title": "Fresh Energy In March (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a44be9ea-24bd-4614-aa0d-c45b03012f43/mar-15-wake-up-preview-opt.png",
@@ -264,7 +264,7 @@
           "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
           "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
           "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 4068,
+          "wordCount": 4055,
           "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
           "enclosure": {
             "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
@@ -279,7 +279,7 @@
           "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.",
           "link": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
           "publishedOn": "2026-02-23T10:00:00.000Z",
-          "wordCount": 4405,
+          "wordCount": 4401,
           "title": "A Designer’s Guide To Eco-Friendly Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg",
@@ -294,7 +294,7 @@
           "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
           "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
           "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 6722,
+          "wordCount": 6732,
           "title": "Designing A Streak System: The UX And Psychology Of Streaks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg",
@@ -309,7 +309,7 @@
           "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
           "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
           "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 6332,
+          "wordCount": 6345,
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
@@ -324,7 +324,7 @@
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6496,
+          "wordCount": 6495,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -340,6 +340,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69ab2f260bca1a3976458b2a",
+          "author": "Nataraj Sundar",
+          "description": "In this tutorial, you'll build a production-ready voice agent architecture: a browser client that streams audio over WebRTC (Web Real-Time Communication), a backend that mints short-lived session toke",
+          "link": "https://www.freecodecamp.org/news/how-to-build-production-ready-voice-agents/",
+          "publishedOn": "2026-03-06T19:46:46.000Z",
+          "wordCount": 3814,
+          "title": "How to Build a Production-Ready Voice Agent Architecture with WebRTC",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/c61b4358-66d9-434d-8555-d8921313e573.png"
+        },
+        {
+          "id": "69ab2d340bca1a397644f893",
+          "author": "Fanny Nyayic",
+          "description": "Centering elements in CSS often seems straightforward at first, but it quickly becomes confusing once you start building real layouts. A property like text-align: center; works perfectly for text, yet",
+          "link": "https://www.freecodecamp.org/news/center-any-element-in-css/",
+          "publishedOn": "2026-03-06T19:38:28.000Z",
+          "wordCount": 2902,
+          "title": "How to Center Any Element in CSS: 7 Methods That Always Work",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/0dcc3b91-56fd-4102-8d3c-2490ea67b7e8.png"
+        },
         {
           "id": "69aae80e78c5adcd0e1c63bc",
           "author": "Osomudeya Zudonu",
@@ -419,26 +439,6 @@
           "wordCount": 5989,
           "title": "How to Build MCP Servers for Your Internal Data",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/2e428238-cbc3-4892-97df-c1dd854c74c3.png"
-        },
-        {
-          "id": "69a6fdc756428acc6ff16dd8",
-          "author": "Abdul Talha",
-          "description": "Hi everyone. In this handbook, you will learn about the growing world of open source, and how it can shape your career as a developer. Open source is something I found confusing and scary when I first",
-          "link": "https://www.freecodecamp.org/news/open-source-career-handbook/",
-          "publishedOn": "2026-03-03T15:27:03.000Z",
-          "wordCount": 6192,
-          "title": "How Open Source Can Grow Your Tech Career: A Handbook for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/d9a95683-8157-4f44-9a1c-9ebf5ddfc330.png"
-        },
-        {
-          "id": "69a6f99556428acc6fef7fbc",
-          "author": "Abbey Perini",
-          "description": "For years, I thought Open Source Software (OSS) just wasn’t for me. I had no plans to join any OSS communities on top of my existing developer community obligations. Curious about the hype I saw on Bl",
-          "link": "https://www.freecodecamp.org/news/learning-to-enjoy-code-reviews-with-npmx/",
-          "publishedOn": "2026-03-03T15:09:09.000Z",
-          "wordCount": 3126,
-          "title": "OSS Pull Request Therapy: Learning to Enjoy Code Reviews with npmx",
-          "imageUrl": "https://cloudmate-test.s3.us-east-1.amazonaws.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5765f28c-0d0e-46be-bc60-972a4d879b7e.png"
         }
       ]
     }
