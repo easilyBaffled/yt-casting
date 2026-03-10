@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-09T00:45:47.889Z</id>
+    <id>urn:2026-03-10T00:41:00.112Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-09T00:45:47.889Z</updated>
+    <updated>2026-03-10T00:41:00.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Value of z-index]]></title>
+        <id>https://css-tricks.com/?p=392843</id>
+        <link href="https://css-tricks.com/the-value-of-z-index/"/>
+        <updated>2026-03-09T14:20:01.000Z</updated>
+        <summary type="html"><![CDATA[How we look at the stacking order of our projects, how we choose z-index values, and more importantly, the implications of those choices.
+The Value of z-index originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Persuasive Design: Ten Years Later]]></title>
+        <id>https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/</id>
+        <link href="https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/"/>
+        <updated>2026-03-09T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxboe updates persuasive design for today’s reality, clarifying what has actually held up over the last decade.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Anders Toxboe)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Production-Ready Voice Agent Architecture with WebRTC]]></title>
         <id>69ab2f260bca1a3976458b2a</id>
@@ -347,17 +368,6 @@ Approximating contrast-color() With Other CSS Features originally published on C
         <summary type="html"><![CDATA[Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trying to Make the Perfect Pie Chart in CSS]]></title>
-        <id>https://css-tricks.com/?p=391766</id>
-        <link href="https://css-tricks.com/trying-to-make-the-perfect-pie-chart-in-css/"/>
-        <updated>2026-02-09T17:34:56.000Z</updated>
-        <summary type="html"><![CDATA[Can we make pie chart that's semantic, with flexible markup, and avoids using a JavaScript library? Here's how I tackled it.
-Trying to Make the Perfect Pie Chart in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
