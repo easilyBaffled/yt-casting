@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-10T00:41:00.112Z</id>
+    <id>urn:2026-03-11T00:41:58.813Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-10T00:41:00.112Z</updated>
+    <updated>2026-03-11T00:41:58.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Real-Time Update Systems with MQTT and Express.js]]></title>
+        <id>69b04145abc0d950017e4629</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-real-time-update-systems-with-mosquitto-and-expressjs/"/>
+        <updated>2026-03-10T16:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Real-time updates are everywhere – like live sports scores, stock tickers, chat applications, and IoT dashboards. If you want to build systems that push data to users the moment it changes, you need t]]></summary>
+        <author>
+            <name>David Aniebo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Dynamic Forms In React And Next.js]]></title>
+        <id>https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/</id>
+        <link href="https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/"/>
+        <updated>2026-03-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some forms stay UI, while others quietly become rule engines. Here’s why these two different approaches exist and how to choose between them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sunil Sandhu)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Value of z-index]]></title>
         <id>https://css-tricks.com/?p=392843</id>
@@ -135,16 +155,6 @@ The Value of z-index originally published on CSS-Tricks, which is part of the Di
 The Different Ways to Select <html> in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build MCP Servers for Your Internal Data]]></title>
-        <id>69a849e9e55311e40f03f00e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-mcp-servers-for-your-internal-data/"/>
-        <updated>2026-03-04T15:04:09.000Z</updated>
-        <summary type="html"><![CDATA[The Model Context Protocol (MCP) is changing how AI applications connect to external tools and data. While some tutorials stop at "connect to GitHub" or "read a file," the real power of MCP is unlocki]]></summary>
-        <author>
-            <name>Mayur Vekariya</name>
         </author>
     </entry>
     <entry>
