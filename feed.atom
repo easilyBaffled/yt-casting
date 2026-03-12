@@ -1,18 +1,119 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-11T00:41:58.813Z</id>
+    <id>urn:2026-03-12T00:39:15.751Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-11T00:41:58.813Z</updated>
+    <updated>2026-03-12T00:39:15.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[How to Build Real-Time Update Systems with MQTT and Express.js]]></title>
-        <id>69b04145abc0d950017e4629</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-real-time-update-systems-with-mosquitto-and-expressjs/"/>
-        <updated>2026-03-10T16:05:25.000Z</updated>
-        <summary type="html"><![CDATA[Real-time updates are everywhere – like live sports scores, stock tickers, chat applications, and IoT dashboards. If you want to build systems that push data to users the moment it changes, you need t]]></summary>
+        <title type="html"><![CDATA[How to Implement the Strategy Pattern in Python]]></title>
+        <id>69b1d33d6c896b0519c3abdc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-the-strategy-pattern-in-python/"/>
+        <updated>2026-03-11T20:40:29.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever opened a food delivery app and chosen between "fastest route", "cheapest option", or "fewest stops"? Or picked a payment method at checkout like credit card, PayPal, or wallet balance? B]]></summary>
         <author>
-            <name>David Aniebo</name>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Comprehensive Guide to Financial Storytelling using Data Visualization]]></title>
+        <id>69b1ced06c896b0519c207be</id>
+        <link href="https://www.freecodecamp.org/news/financial-storytelling-using-data-visualization/"/>
+        <updated>2026-03-11T20:21:36.000Z</updated>
+        <summary type="html"><![CDATA[In any analysis project, raw tables of numbers often don’t tell the full story. Visualisations simplify complexity by transforming data into shapes that our brains can quickly understand, emphasising]]></summary>
+        <author>
+            <name>Nikhil Adithyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Autonomous AI Agent with n8n and Decapod]]></title>
+        <id>69b1ce1f6c896b0519c1c8f5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-autonomous-ai-agent-with-n8n-and-decapod/"/>
+        <updated>2026-03-11T20:18:39.000Z</updated>
+        <summary type="html"><![CDATA[I tried out Open Claw two weeks ago. I loved the potential, but did not enjoy the tool itself. I, like many others, struggled with the installation process. And working from Linux, the Mac specific or]]></summary>
+        <author>
+            <name>Lee Nathan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Serverless RAG Pipeline on AWS That Scales to Zero]]></title>
+        <id>69b1b23c6c896b0519b4eda8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-serverless-rag-pipeline-on-aws-that-scales-to-zero/"/>
+        <updated>2026-03-11T18:19:40.000Z</updated>
+        <summary type="html"><![CDATA[Most RAG tutorials end the same way: you've got a working prototype and a bill for a vector database that runs whether anyone's querying it or not. Add an always-on embedding service, a hosted LLM end]]></summary>
+        <author>
+            <name>Christopher Galliart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CI/CD in Production with Jenkins]]></title>
+        <id>69b199496c896b0519a8964c</id>
+        <link href="https://www.freecodecamp.org/news/ci-cd-in-production-with-jenkins/"/>
+        <updated>2026-03-11T16:33:13.000Z</updated>
+        <summary type="html"><![CDATA[Automation is no longer just a "nice-to-have" skill, it powers modern software development. To help you master automation and CI/CD, we’ve just released a massive 17-hour Jenkins course on the freeCod]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Flex in Tailwind CSS and Justify Flex Items]]></title>
+        <id>69b1975b6c896b0519a78b21</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-flex-in-tailwind-css-and-justify-flex-items/"/>
+        <updated>2026-03-11T16:24:59.000Z</updated>
+        <summary type="html"><![CDATA[Hey there! If you're building modern web interfaces, chances are you've already fallen in love with Tailwind CSS for its speed and flexibility. One of the most powerful tools in Tailwind's arsenal is]]></summary>
+        <author>
+            <name>Ajay Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn how to fine-tune LLMs in 12 hours]]></title>
+        <id>69b191d16c896b0519a4b11f</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-fine-tune-llms-in-12-hours/"/>
+        <updated>2026-03-11T16:01:21.000Z</updated>
+        <summary type="html"><![CDATA[The goal isn't just to train a model; it's to build a system that understands your specific data as well as you do. We just posted a massive, 12-hour course on the freeCodeCamp.org YouTube channel des]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abusing Customizable Selects]]></title>
+        <id>https://css-tricks.com/?p=392463</id>
+        <link href="https://css-tricks.com/abusing-customizable-selects/"/>
+        <updated>2026-03-11T13:59:15.000Z</updated>
+        <summary type="html"><![CDATA[Let’s go over a few demos using the new customizable <select> feature that may be wild, but also give us a great chance to learn new things in CSS.
+Abusing Customizable Selects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Patrick Brosset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Spam Email Detector with Python and Naive Bayes Classifier]]></title>
+        <id>69b0a8f8abc0d95001af6574</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-spam-email-detector-with-python-and-naive-bayes-classifier/"/>
+        <updated>2026-03-10T23:27:52.000Z</updated>
+        <summary type="html"><![CDATA[Ever wondered how Gmail knows that an email promising you $10 million is spam? Or how it catches those "You've won a free iPhone!" messages before they reach your inbox? In this tutorial, you'll build]]></summary>
+        <author>
+            <name>Maku Gideon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find the Top-K Items: Heap and Streaming Approaches in Go]]></title>
+        <id>69b0a865abc0d95001af32a2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-find-the-top-k-items-heap-and-streaming-approaches-in-go/"/>
+        <updated>2026-03-10T23:25:25.000Z</updated>
+        <summary type="html"><![CDATA[Finding the top K items in a dataset pops up everywhere: from highlighting the hottest posts in a social feed, to detecting the largest transactions in a financial system, or spotting the heaviest use]]></summary>
+        <author>
+            <name>Gabor Koos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an MCP Server with Python, Docker, and Claude Code]]></title>
+        <id>69b09018abc0d95001a8f07f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-mcp-server-with-python-docker-and-claude-code/"/>
+        <updated>2026-03-10T21:41:44.000Z</updated>
+        <summary type="html"><![CDATA[Every MCP tutorial I've found so far has followed the same basic script: build a server, point Claude Desktop at it, screenshot the chat window, done. This is fine if you want a demo. But it's not fin]]></summary>
+        <author>
+            <name>Balajee Asish Brahmandam</name>
         </author>
     </entry>
     <entry>
@@ -47,56 +148,6 @@ The Value of z-index originally published on CSS-Tricks, which is part of the Di
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Production-Ready Voice Agent Architecture with WebRTC]]></title>
-        <id>69ab2f260bca1a3976458b2a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-production-ready-voice-agents/"/>
-        <updated>2026-03-06T19:46:46.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll build a production-ready voice agent architecture: a browser client that streams audio over WebRTC (Web Real-Time Communication), a backend that mints short-lived session toke]]></summary>
-        <author>
-            <name>Nataraj Sundar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Center Any Element in CSS: 7 Methods That Always Work]]></title>
-        <id>69ab2d340bca1a397644f893</id>
-        <link href="https://www.freecodecamp.org/news/center-any-element-in-css/"/>
-        <updated>2026-03-06T19:38:28.000Z</updated>
-        <summary type="html"><![CDATA[Centering elements in CSS often seems straightforward at first, but it quickly becomes confusing once you start building real layouts. A property like text-align: center; works perfectly for text, yet]]></summary>
-        <author>
-            <name>Fanny Nyayic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does Kubernetes Self-Healing Work? Understand Self-Healing By Breaking a Real Cluster]]></title>
-        <id>69aae80e78c5adcd0e1c63bc</id>
-        <link href="https://www.freecodecamp.org/news/kubernetes-self-healing-explained/"/>
-        <updated>2026-03-06T14:43:26.000Z</updated>
-        <summary type="html"><![CDATA[I have noticed that many engineers who run Kubernetes in production have never actually watched it heal itself. They know it does. They have read the docs. But they have never seen a ReplicaSet contro]]></summary>
-        <author>
-            <name>Osomudeya Zudonu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Docker Compose for Production Workloads — with Profiles, Watch Mode, and GPU Support]]></title>
-        <id>69aadee178c5adcd0e18ddd3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-docker-compose-for-production-workloads/"/>
-        <updated>2026-03-06T14:04:17.000Z</updated>
-        <summary type="html"><![CDATA[There's a perception problem with Docker Compose. Ask a room full of platform engineers what they think of it, and you'll hear some version of: "It's great for local dev, but we use Kubernetes for rea]]></summary>
-        <author>
-            <name>Balajee Asish Brahmandam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There are 2 kinds of devs. One of them is screwed. Justin Searls interview [Podcast #210]]]></title>
-        <id>69aac1c7c7a9d4eafb4637ae</id>
-        <link href="https://www.freecodecamp.org/news/there-are-2-kinds-of-devs-one-of-them-is-screwed-justin-searls-interview-podcast-210/"/>
-        <updated>2026-03-06T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Justin Searls. He's a software engineer who cofounded a software agency 15 years ago that's still going – even after he figured out how to make a lot of money quickly an]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Human Strategy In An AI-Accelerated Workflow]]></title>
         <id>https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/</id>
         <link href="https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/"/>
@@ -104,46 +155,6 @@ The Value of z-index originally published on CSS-Tricks, which is part of the Di
         <summary type="html"><![CDATA[UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about creating interfaces. It’s about navigating ambiguity, advocating for humans in systems optimised for efficiency, and solving their problems through thoughtful design.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy AI-Generated Code on a PaaS Platform]]></title>
-        <id>69aa6fede2698e32064e7d79</id>
-        <link href="https://www.freecodecamp.org/news/deploy-ai-generated-code-using-paas/"/>
-        <updated>2026-03-06T06:10:53.000Z</updated>
-        <summary type="html"><![CDATA[Vibe coding is about momentum. You open your editor, prompt an AI, stitch pieces together, and suddenly you have something that works. Maybe it’s messy. Maybe the architecture is not perfect. But it’s]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Protect Sensitive Data by Running LLMs Locally with Ollama]]></title>
-        <id>69a99b623728a9dc358a5d85</id>
-        <link href="https://www.freecodecamp.org/news/protect-sensitive-data-with-local-llms/"/>
-        <updated>2026-03-05T15:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Whenever engineers are building AI-powered applications, use of sensitive data is always a top priority. You don't want to send users' data to an external API that you don't control. For me, this happ]]></summary>
-        <author>
-            <name>Manoj Aggarwal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn MLOps with MLflow and Databricks]]></title>
-        <id>69a999073728a9dc358915c1</id>
-        <link href="https://www.freecodecamp.org/news/learn-mlops-with-mlflow-and-databricks/"/>
-        <updated>2026-03-05T14:53:59.000Z</updated>
-        <summary type="html"><![CDATA[As the industry standard for managing the machine learning life cycle, MLflow provides the necessary architecture to build systems that are both reproducible and scalable. We just posted a course on t]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pass the NVIDIA-Certified Associate AI Infrastructure and Operations Certification Exam]]></title>
-        <id>69a997d53728a9dc358880a3</id>
-        <link href="https://www.freecodecamp.org/news/pass-the-nvidia-certified-associate-ai-infrastructure-and-operations-certification-exam/"/>
-        <updated>2026-03-05T14:48:53.000Z</updated>
-        <summary type="html"><![CDATA[The NCA-AIIO certification is an entry-level credential that validates the foundational concepts of AI computing related to infrastructure and operations. We just posted a course on the freeCodeCamp.o]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -357,17 +368,6 @@ What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds
 Making a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Approximating contrast-color() With Other CSS Features]]></title>
-        <id>https://css-tricks.com/?p=391853</id>
-        <link href="https://css-tricks.com/approximating-contrast-color-with-other-css-features/"/>
-        <updated>2026-02-11T15:01:09.000Z</updated>
-        <summary type="html"><![CDATA[The new contrast-color() function is not fully supported yet. But can we still implement it in a cross-browser friendly way using other new CSS features?
-Approximating contrast-color() With Other CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Kevin Hamer</name>
         </author>
     </entry>
     <entry>
