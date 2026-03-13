@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-12T00:39:15.751Z</id>
+    <id>urn:2026-03-13T00:44:30.467Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-12T00:39:15.751Z</updated>
+    <updated>2026-03-13T00:44:30.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Your Auth Library Isn't Telling You About Passwords: Hashing and Salting Explained]]></title>
+        <id>69b310eb93256dfc5303de72</id>
+        <link href="https://www.freecodecamp.org/news/passwords-hashing-and-salting-explained/"/>
+        <updated>2026-03-12T19:15:55.000Z</updated>
+        <summary type="html"><![CDATA[Before I started building auth into my own projects, I didn't think too deeply about what was happening to passwords behind the scenes. Like most developers, I installed a library, called a hash funct]]></summary>
+        <author>
+            <name>Tilda Udufo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Self-Host AFFiNE on Windows with WSL and Docker]]></title>
+        <id>69b2e3051be92d8f177bf807</id>
+        <link href="https://www.freecodecamp.org/news/self-host-affine-windows/"/>
+        <updated>2026-03-12T16:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Depending on cloud apps means that you don't truly own your notes. If your internet goes down or if the company changes its rules, you could lose access. In this article, you'll learn how to build you]]></summary>
+        <author>
+            <name>Abdul Talha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recursion in Python – A Practical Introduction for Beginners]]></title>
+        <id>69b2e2721be92d8f1778c002</id>
+        <link href="https://www.freecodecamp.org/news/recursion-in-python-intro-for-beginners/"/>
+        <updated>2026-03-12T15:57:38.000Z</updated>
+        <summary type="html"><![CDATA[Recursion is when a function solves a problem by calling itself. It sounds odd at first — why would a function call itself? — but once it clicks, you'll find it's often the most natural way to express]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started Coding in Golang]]></title>
+        <id>69b2e2251be92d8f177786a8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-started-coding-in-golang/"/>
+        <updated>2026-03-12T15:56:21.000Z</updated>
+        <summary type="html"><![CDATA[In the world of Software Engineering, there are plenty of programming languages to learn. And there are both low-level and high-level options. I’ve tried my hand at a few of them, and the one language]]></summary>
+        <author>
+            <name>Njong Emy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI]]></title>
+        <id>https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/</id>
+        <link href="https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/"/>
+        <updated>2026-03-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Table of Contents for Your Article]]></title>
+        <id>69b27bc5f22e712aaa45f840</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-table-of-contents-for-your-article/"/>
+        <updated>2026-03-12T08:39:33.000Z</updated>
+        <summary type="html"><![CDATA[When you create an article, such as a blog post for freeCodeCamp, Hashnode, Medium, or DEV.to, you can help guide the reader by creating a Table of Contents (ToC). In this article, I'll explain how to]]></summary>
+        <author>
+            <name>Jakub T. Jankiewicz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use WebSockets: From Python to FastAPI]]></title>
+        <id>69b206806c896b0519d2a308</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-websockets-from-python-to-fastapi/"/>
+        <updated>2026-03-12T00:19:12.000Z</updated>
+        <summary type="html"><![CDATA[Real-time data powers much of modern software: live stock prices, chat applications, sports scores, collaborative tools. And to build these systems, you'll need to understand how real-time communicati]]></summary>
+        <author>
+            <name>Nneoma Uche</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How AI Agents Are Changing Software Development by Building a Flutter App Using Antigravity and Stitch]]></title>
+        <id>69b1e4e76c896b0519c9a4bb</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-ai-agents-are-changing-development-by-building-a-flutter-app/"/>
+        <updated>2026-03-11T21:55:51.000Z</updated>
+        <summary type="html"><![CDATA[Software development has always evolved alongside the tools we build. There was a time when developers wrote everything in assembly language. Then higher-level languages arrived and made it possible t]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Implement the Strategy Pattern in Python]]></title>
         <id>69b1d33d6c896b0519c3abdc</id>
@@ -36,46 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Serverless RAG Pipeline on AWS That Scales to Zero]]></title>
-        <id>69b1b23c6c896b0519b4eda8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-serverless-rag-pipeline-on-aws-that-scales-to-zero/"/>
-        <updated>2026-03-11T18:19:40.000Z</updated>
-        <summary type="html"><![CDATA[Most RAG tutorials end the same way: you've got a working prototype and a bill for a vector database that runs whether anyone's querying it or not. Add an always-on embedding service, a hosted LLM end]]></summary>
-        <author>
-            <name>Christopher Galliart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CI/CD in Production with Jenkins]]></title>
-        <id>69b199496c896b0519a8964c</id>
-        <link href="https://www.freecodecamp.org/news/ci-cd-in-production-with-jenkins/"/>
-        <updated>2026-03-11T16:33:13.000Z</updated>
-        <summary type="html"><![CDATA[Automation is no longer just a "nice-to-have" skill, it powers modern software development. To help you master automation and CI/CD, we’ve just released a massive 17-hour Jenkins course on the freeCod]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Flex in Tailwind CSS and Justify Flex Items]]></title>
-        <id>69b1975b6c896b0519a78b21</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-flex-in-tailwind-css-and-justify-flex-items/"/>
-        <updated>2026-03-11T16:24:59.000Z</updated>
-        <summary type="html"><![CDATA[Hey there! If you're building modern web interfaces, chances are you've already fallen in love with Tailwind CSS for its speed and flexibility. One of the most powerful tools in Tailwind's arsenal is]]></summary>
-        <author>
-            <name>Ajay Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn how to fine-tune LLMs in 12 hours]]></title>
-        <id>69b191d16c896b0519a4b11f</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-fine-tune-llms-in-12-hours/"/>
-        <updated>2026-03-11T16:01:21.000Z</updated>
-        <summary type="html"><![CDATA[The goal isn't just to train a model; it's to build a system that understands your specific data as well as you do. We just posted a massive, 12-hour course on the freeCodeCamp.org YouTube channel des]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Abusing Customizable Selects]]></title>
         <id>https://css-tricks.com/?p=392463</id>
         <link href="https://css-tricks.com/abusing-customizable-selects/"/>
@@ -84,36 +124,6 @@
 Abusing Customizable Selects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Patrick Brosset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Spam Email Detector with Python and Naive Bayes Classifier]]></title>
-        <id>69b0a8f8abc0d95001af6574</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-spam-email-detector-with-python-and-naive-bayes-classifier/"/>
-        <updated>2026-03-10T23:27:52.000Z</updated>
-        <summary type="html"><![CDATA[Ever wondered how Gmail knows that an email promising you $10 million is spam? Or how it catches those "You've won a free iPhone!" messages before they reach your inbox? In this tutorial, you'll build]]></summary>
-        <author>
-            <name>Maku Gideon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Find the Top-K Items: Heap and Streaming Approaches in Go]]></title>
-        <id>69b0a865abc0d95001af32a2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-find-the-top-k-items-heap-and-streaming-approaches-in-go/"/>
-        <updated>2026-03-10T23:25:25.000Z</updated>
-        <summary type="html"><![CDATA[Finding the top K items in a dataset pops up everywhere: from highlighting the hottest posts in a social feed, to detecting the largest transactions in a financial system, or spotting the heaviest use]]></summary>
-        <author>
-            <name>Gabor Koos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an MCP Server with Python, Docker, and Claude Code]]></title>
-        <id>69b09018abc0d95001a8f07f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-mcp-server-with-python-docker-and-claude-code/"/>
-        <updated>2026-03-10T21:41:44.000Z</updated>
-        <summary type="html"><![CDATA[Every MCP tutorial I've found so far has followed the same basic script: build a server, point Claude Desktop at it, screenshot the chat window, done. This is fine if you want a demo. But it's not fin]]></summary>
-        <author>
-            <name>Balajee Asish Brahmandam</name>
         </author>
     </entry>
     <entry>
