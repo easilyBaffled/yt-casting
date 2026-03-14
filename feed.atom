@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-13T00:44:30.467Z</id>
+    <id>urn:2026-03-14T00:42:29.184Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-13T00:44:30.467Z</updated>
+    <updated>2026-03-14T00:42:29.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build End-to-End LLM Observability in FastAPI with OpenTelemetry]]></title>
+        <id>69b4379c6e27dd07d920f14c</id>
+        <link href="https://www.freecodecamp.org/news/build-end-to-end-llm-observability-in-fastapi-with-opentelemetry/"/>
+        <updated>2026-03-13T16:13:16.000Z</updated>
+        <summary type="html"><![CDATA[This article shows how to build end-to-end, code-first LLM observability in a FastAPI application using the OpenTelemetry Python SDK. Instead of relying on vendor-specific agents or opaque SDKs, we wi]]></summary>
+        <author>
+            <name>Jessica Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving From Moment.js To The JS Temporal API]]></title>
+        <id>https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/</id>
+        <link href="https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/"/>
+        <updated>2026-03-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joe Attardi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Land Freelance Clients with Small Business Whisperer Luke Ciciliano (Developer Interview) [Podcast #211]]]></title>
+        <id>69b3e73509d908745f1d7fe0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-land-freelance-clients-with-small-business-whisperer-luke-ciciliano-developer-interview-podcast-211/"/>
+        <updated>2026-03-13T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Luke Ciciliano. He's a front-end developer who runs Modern Website Design, a software consultancy that builds solutions for small to medium sized businesses. He taught h]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Containerize Your MLOps Pipeline from Training to Serving]]></title>
+        <id>69b33f5993256dfc5313bee2</id>
+        <link href="https://www.freecodecamp.org/news/containerize-mlops-pipeline-from-training-to-serving/"/>
+        <updated>2026-03-12T22:34:01.000Z</updated>
+        <summary type="html"><![CDATA[Last year, our ML team shipped a fraud detection model that worked perfectly in a Jupyter notebook. Precision was excellent. Recall numbers looked great. Everyone was excited – until we tried to deplo]]></summary>
+        <author>
+            <name>Balajee Asish Brahmandam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Your Auth Library Isn't Telling You About Passwords: Hashing and Salting Explained]]></title>
         <id>69b310eb93256dfc5303de72</id>
@@ -83,36 +123,6 @@
         <summary type="html"><![CDATA[Software development has always evolved alongside the tools we build. There was a time when developers wrote everything in assembly language. Then higher-level languages arrived and made it possible t]]></summary>
         <author>
             <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement the Strategy Pattern in Python]]></title>
-        <id>69b1d33d6c896b0519c3abdc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-the-strategy-pattern-in-python/"/>
-        <updated>2026-03-11T20:40:29.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever opened a food delivery app and chosen between "fastest route", "cheapest option", or "fewest stops"? Or picked a payment method at checkout like credit card, PayPal, or wallet balance? B]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Comprehensive Guide to Financial Storytelling using Data Visualization]]></title>
-        <id>69b1ced06c896b0519c207be</id>
-        <link href="https://www.freecodecamp.org/news/financial-storytelling-using-data-visualization/"/>
-        <updated>2026-03-11T20:21:36.000Z</updated>
-        <summary type="html"><![CDATA[In any analysis project, raw tables of numbers often don’t tell the full story. Visualisations simplify complexity by transforming data into shapes that our brains can quickly understand, emphasising]]></summary>
-        <author>
-            <name>Nikhil Adithyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Autonomous AI Agent with n8n and Decapod]]></title>
-        <id>69b1ce1f6c896b0519c1c8f5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-autonomous-ai-agent-with-n8n-and-decapod/"/>
-        <updated>2026-03-11T20:18:39.000Z</updated>
-        <summary type="html"><![CDATA[I tried out Open Claw two weeks ago. I loved the potential, but did not enjoy the tool itself. I, like many others, struggled with the installation process. And working from Linux, the Mac specific or]]></summary>
-        <author>
-            <name>Lee Nathan</name>
         </author>
     </entry>
     <entry>
@@ -378,16 +388,6 @@ What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds
 Making a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability]]></title>
-        <id>https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/</id>
-        <link href="https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/"/>
-        <updated>2026-02-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Yocco)</name>
         </author>
     </entry>
 </feed>
