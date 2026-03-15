@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-14T00:42:29.184Z</id>
+    <id>urn:2026-03-15T00:52:10.886Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-14T00:42:29.184Z</updated>
+    <updated>2026-03-15T00:52:10.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -377,17 +377,6 @@ What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds
         <summary type="html"><![CDATA[Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kat Homan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making a Responsive Pyramidal Grid With Modern CSS]]></title>
-        <id>https://css-tricks.com/?p=391879</id>
-        <link href="https://css-tricks.com/making-a-responsive-pyramidal-grid-with-modern-css/"/>
-        <updated>2026-02-12T14:57:36.000Z</updated>
-        <summary type="html"><![CDATA[This is the second part of a small two-part series. In this article, we will explore another type of grid: a pyramidal one. We are still working with hexagon shapes, but a different organization of the elements., while exploring other different shapes.
-Making a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
 </feed>

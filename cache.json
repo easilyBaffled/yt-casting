@@ -42,7 +42,7 @@
           "description": "Sure, we can select the <html> element in CSS with, you know, a simple element selector, html. But what other (trivial and perhaps useless) ways can we do it?\nThe Different Ways to Select <html> in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-different-ways-to-select-html-in-css/",
           "publishedOn": "2026-03-05T14:01:04.000Z",
-          "wordCount": 2642,
+          "wordCount": 2650,
           "title": "The Different Ways to Select <html> in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/02/css-block-html.png"
         },
@@ -52,7 +52,7 @@
           "description": "Choosing between Popover API and Dialog API is difficult because they seem to do the same job, but they don’t! After a bit lots of research, I discovered that the Popover API and Dialog API are wildly different in terms of accessibility and we'll go over that in this article.\nPopover API or Dialog API: Which to Choose? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/",
           "publishedOn": "2026-03-02T15:10:07.000Z",
-          "wordCount": 3923,
+          "wordCount": 3931,
           "title": "Popover API or Dialog API: Which to Choose?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
         },
@@ -62,7 +62,7 @@
           "description": "Despite what’s been a sleepy couple of weeks for new Web Platform Features, we have an issue of What’s !important that’s prrrretty jam-packed. The web community had a lot to say, it seems, so fasten your seatbelts!\nWhat’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/whats-important-6/",
           "publishedOn": "2026-02-27T16:30:22.000Z",
-          "wordCount": 3174,
+          "wordCount": 3166,
           "title": "What’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/border-shape.mp4",
@@ -117,7 +117,7 @@
           "description": "Danny has several ideas for how we could use :near(), a proposed pseudo-class that detects when the pointer is near an element. \nPotentially Coming to a Browser :near() You originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/potentially-coming-to-a-browser-near-you/",
           "publishedOn": "2026-02-20T15:36:55.000Z",
-          "wordCount": 3818,
+          "wordCount": 3810,
           "title": "Potentially Coming to a Browser :near() You",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/Screen-Recording-2026-02-06-at-8.58.26-AM.mov",
@@ -132,7 +132,7 @@
           "description": "The distinction between \"components\" and \"utilities\" seems clear at first glance, but gets a little blurred when working with them in Tailwind.\nDistinguishing “Components” and “Utilities” in Tailwind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/distinguishing-components-and-utilities-in-tailwind/",
           "publishedOn": "2026-02-18T16:21:41.000Z",
-          "wordCount": 2791,
+          "wordCount": 2783,
           "title": "Distinguishing “Components” and “Utilities” in Tailwind",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/tailwind-paint.jpg"
         },
@@ -142,7 +142,7 @@
           "description": "Lee accepts a challenge: arranging text in a spiral that animates as a vortex on scroll... all in CSS.\nSpiral Scrollytelling in CSS With sibling-index() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/spiral-scrollytelling-in-css-with-sibling-index/",
           "publishedOn": "2026-02-17T15:17:25.000Z",
-          "wordCount": 3082,
+          "wordCount": 3074,
           "title": "Spiral Scrollytelling in CSS With sibling-index()",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-28-at-9.37.52-AM.mov",
@@ -167,7 +167,7 @@
           "description": "This issue of What’s !important is dedicated to our friends in the UK, who are currently experiencing a very miserable 43-day rain streak. Presenting: the five most interesting things to read about CSS from the last couple of weeks. Plus, the latest features from Chrome 145, and anything else you might’ve missed. TL;DR: lots of content, but also lots of rain.\nWhat’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/whats-important-5/",
           "publishedOn": "2026-02-13T15:19:57.000Z",
-          "wordCount": 2581,
+          "wordCount": 2589,
           "title": "What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/time-layout.mp4",
@@ -175,21 +175,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/wi5.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=391879",
-          "author": "Temani Afif",
-          "description": "This is the second part of a small two-part series. In this article, we will explore another type of grid: a pyramidal one. We are still working with hexagon shapes, but a different organization of the elements., while exploring other different shapes.\nMaking a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/making-a-responsive-pyramidal-grid-with-modern-css/",
-          "publishedOn": "2026-02-12T14:57:36.000Z",
-          "wordCount": 4668,
-          "title": "Making a Responsive Pyramidal Grid With Modern CSS",
-          "enclosure": {
-            "url": "http://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-28-at-8.44.39-AM.mov",
-            "length": "0",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/Artboard.webp"
         }
       ]
     },
@@ -204,7 +189,7 @@
           "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.",
           "link": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
           "publishedOn": "2026-03-13T13:00:00.000Z",
-          "wordCount": 6372,
+          "wordCount": 6367,
           "title": "Moving From Moment.js To The JS Temporal API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg",
@@ -219,7 +204,7 @@
           "description": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.",
           "link": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
           "publishedOn": "2026-03-12T10:00:00.000Z",
-          "wordCount": 5102,
+          "wordCount": null,
           "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-border-radius-css-corner-shape-property-ui/beyond-border-radius-css-corner-shape-property-ui.jpg",
@@ -249,7 +234,7 @@
           "description": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxboe updates persuasive design for today’s reality, clarifying what has actually held up over the last decade.",
           "link": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
           "publishedOn": "2026-03-09T11:00:00.000Z",
-          "wordCount": 7460,
+          "wordCount": 7468,
           "title": "Persuasive Design: Ten Years Later",
           "enclosure": {
             "url": "http://files.smashing.media/articles/persuasive-design-ten-years-later/persuasive-design-ten-years-later.jpg",
@@ -264,7 +249,7 @@
           "description": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about creating interfaces. It’s about navigating ambiguity, advocating for humans in systems optimised for efficiency, and solving their problems through thoughtful design.",
           "link": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
           "publishedOn": "2026-03-06T08:00:00.000Z",
-          "wordCount": 4566,
+          "wordCount": null,
           "title": "Human Strategy In An AI-Accelerated Workflow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-strategy-ai-accelerated-workflow/human-strategy-ai-accelerated-workflow.jpg",
@@ -294,7 +279,7 @@
           "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.",
           "link": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
           "publishedOn": "2026-03-02T10:00:00.000Z",
-          "wordCount": 5637,
+          "wordCount": 5654,
           "title": "Getting Started With The Popover API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg",
@@ -309,7 +294,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
           "publishedOn": "2026-02-28T09:00:00.000Z",
-          "wordCount": 4422,
+          "wordCount": 4414,
           "title": "Fresh Energy In March (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a44be9ea-24bd-4614-aa0d-c45b03012f43/mar-15-wake-up-preview-opt.png",
@@ -324,7 +309,7 @@
           "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
           "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
           "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 4063,
+          "wordCount": 4061,
           "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
           "enclosure": {
             "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
@@ -339,7 +324,7 @@
           "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.",
           "link": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
           "publishedOn": "2026-02-23T10:00:00.000Z",
-          "wordCount": 4403,
+          "wordCount": 4404,
           "title": "A Designer’s Guide To Eco-Friendly Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg",
@@ -354,7 +339,7 @@
           "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
           "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
           "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 6721,
+          "wordCount": 6726,
           "title": "Designing A Streak System: The UX And Psychology Of Streaks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg",
