@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-15T00:52:10.886Z</id>
+    <id>urn:2026-03-16T00:51:10.370Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-15T00:52:10.886Z</updated>
+    <updated>2026-03-16T00:51:10.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -356,27 +356,6 @@ Spiral Scrollytelling in CSS With sibling-index() originally published on CSS-Tr
 Interop 2026 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More]]></title>
-        <id>https://css-tricks.com/?p=392302</id>
-        <link href="https://css-tricks.com/whats-important-5/"/>
-        <updated>2026-02-13T15:19:57.000Z</updated>
-        <summary type="html"><![CDATA[This issue of What’s !important is dedicated to our friends in the UK, who are currently experiencing a very miserable 43-day rain streak. Presenting: the five most interesting things to read about CSS from the last couple of weeks. Plus, the latest features from Chrome 145, and anything else you might’ve missed. TL;DR: lots of content, but also lots of rain.
-What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps]]></title>
-        <id>https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/</id>
-        <link href="https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/"/>
-        <updated>2026-02-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kat Homan)</name>
         </author>
     </entry>
 </feed>
