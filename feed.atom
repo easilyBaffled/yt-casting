@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-16T00:51:10.370Z</id>
+    <id>urn:2026-03-17T00:44:10.617Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-16T00:51:10.370Z</updated>
+    <updated>2026-03-17T00:44:10.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI-Powered Research Automation System with n8n, Groq, and Academic APIs]]></title>
+        <id>69b849372ad6ae5184dbb6b8</id>
+        <link href="https://www.freecodecamp.org/news/build-an-ai-powered-research-automation-system-with-n8n-groq-and-academic-apis/"/>
+        <updated>2026-03-16T18:17:27.000Z</updated>
+        <summary type="html"><![CDATA[As a researcher and developer, I found myself spending hours manually searching academic databases, reading abstracts, and trying to synthesize findings across multiple sources. For my work on circula]]></summary>
+        <author>
+            <name>Chidozie Managwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penetration Testing — Services vs Automated Platforms: What’s Better in 2026?]]></title>
+        <id>69b843d22ad6ae5184d73e34</id>
+        <link href="https://www.freecodecamp.org/news/penetration-testing-services-vs-automated-platforms-what-is-better/"/>
+        <updated>2026-03-16T17:54:26.000Z</updated>
+        <summary type="html"><![CDATA[In 2026, cybersecurity teams face more threats than ever before. Attack surfaces are broad, technology stacks are complex, and adversaries are quick to exploit weak points. Against this backdrop, comp]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Test a Complex Full-Stack App: Manual Approach vs AI-Assisted Testing]]></title>
+        <id>69b843852ad6ae5184d6fa75</id>
+        <link href="https://www.freecodecamp.org/news/how-to-test-a-complex-full-stack-app-manual-vs-ai-assisted-testing/"/>
+        <updated>2026-03-16T17:53:09.000Z</updated>
+        <summary type="html"><![CDATA[A few days ago, I ran an experiment with an AI-powered testing agent that lets you write test cases in plain English instead of code. I opened its natural language interface and typed four simple sent]]></summary>
+        <author>
+            <name>Ajay Yadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Your Own 24x7 AI Agent using OpenClaw]]></title>
+        <id>69b841aa2ad6ae5184d57f6d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-your-own-24x7-ai-agent-using-openclaw/"/>
+        <updated>2026-03-16T17:45:14.000Z</updated>
+        <summary type="html"><![CDATA[OpenClaw is a self-hosted AI assistant designed to run under your control instead of inside a hosted SaaS platform. It can connect to messaging interfaces, local tools, and model providers while keepi]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Ship a Production-Ready RAG App with FAISS (Guardrails, Evals, and Fallbacks)]]></title>
+        <id>69b841572ad6ae5184d54317</id>
+        <link href="https://www.freecodecamp.org/news/build-rag-app-faiss-fastapi/"/>
+        <updated>2026-03-16T17:43:51.000Z</updated>
+        <summary type="html"><![CDATA[Most LLM applications look great in a high-fidelity demo. Then they hit the hands of real users and start failing in very predictable yet damaging ways. They answer questions they should not, they bre]]></summary>
+        <author>
+            <name>Chidozie Managwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More]]></title>
+        <id>https://css-tricks.com/?p=393021</id>
+        <link href="https://css-tricks.com/whats-important-7/"/>
+        <updated>2026-03-16T15:06:01.000Z</updated>
+        <summary type="html"><![CDATA[For this issue of What’s !important, we have a healthy balance of old CSS that you might’ve missed and new CSS that you don’t want to miss. This includes random(), random-item(), folded corners using clip-path, backdrop-filter, font-variant-numeric: tabular-nums, the Popover API, anchored container queries, anchor positioning in general, DOOM in CSS, the customizable select element, :open, scroll-triggered animations, the toolbar element, and somehow, more.
+What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Reasons That Make Tailwind Great for Building Layouts]]></title>
+        <id>https://css-tricks.com/?p=392180</id>
+        <link href="https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/"/>
+        <updated>2026-03-16T14:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Tailwind is really great for making layouts and there are many reasons why. Zell Liew looks at four specific examples of common use cases.
+4 Reasons That Make Tailwind Great for Building Layouts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build End-to-End LLM Observability in FastAPI with OpenTelemetry]]></title>
         <id>69b4379c6e27dd07d920f14c</id>
@@ -66,26 +138,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Recursion in Python – A Practical Introduction for Beginners]]></title>
-        <id>69b2e2721be92d8f1778c002</id>
-        <link href="https://www.freecodecamp.org/news/recursion-in-python-intro-for-beginners/"/>
-        <updated>2026-03-12T15:57:38.000Z</updated>
-        <summary type="html"><![CDATA[Recursion is when a function solves a problem by calling itself. It sounds odd at first — why would a function call itself? — but once it clicks, you'll find it's often the most natural way to express]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started Coding in Golang]]></title>
-        <id>69b2e2251be92d8f177786a8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-started-coding-in-golang/"/>
-        <updated>2026-03-12T15:56:21.000Z</updated>
-        <summary type="html"><![CDATA[In the world of Software Engineering, there are plenty of programming languages to learn. And there are both low-level and high-level options. I’ve tried my hand at a few of them, and the one language]]></summary>
-        <author>
-            <name>Njong Emy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI]]></title>
         <id>https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/</id>
         <link href="https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/"/>
@@ -93,36 +145,6 @@
         <summary type="html"><![CDATA[For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Table of Contents for Your Article]]></title>
-        <id>69b27bc5f22e712aaa45f840</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-table-of-contents-for-your-article/"/>
-        <updated>2026-03-12T08:39:33.000Z</updated>
-        <summary type="html"><![CDATA[When you create an article, such as a blog post for freeCodeCamp, Hashnode, Medium, or DEV.to, you can help guide the reader by creating a Table of Contents (ToC). In this article, I'll explain how to]]></summary>
-        <author>
-            <name>Jakub T. Jankiewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use WebSockets: From Python to FastAPI]]></title>
-        <id>69b206806c896b0519d2a308</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-websockets-from-python-to-fastapi/"/>
-        <updated>2026-03-12T00:19:12.000Z</updated>
-        <summary type="html"><![CDATA[Real-time data powers much of modern software: live stock prices, chat applications, sports scores, collaborative tools. And to build these systems, you'll need to understand how real-time communicati]]></summary>
-        <author>
-            <name>Nneoma Uche</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How AI Agents Are Changing Software Development by Building a Flutter App Using Antigravity and Stitch]]></title>
-        <id>69b1e4e76c896b0519c9a4bb</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-ai-agents-are-changing-development-by-building-a-flutter-app/"/>
-        <updated>2026-03-11T21:55:51.000Z</updated>
-        <summary type="html"><![CDATA[Software development has always evolved alongside the tools we build. There was a time when developers wrote everything in assembly language. Then higher-level languages arrived and made it possible t]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
         </author>
     </entry>
     <entry>
