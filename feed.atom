@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-18T00:46:56.968Z</id>
+    <id>urn:2026-03-19T00:47:24.406Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-18T00:46:56.968Z</updated>
+    <updated>2026-03-19T00:47:24.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build 19 Web Dev Projects using HTML, CSS, & JavaScript]]></title>
+        <id>69bb17b58c55d6eefb61f5c5</id>
+        <link href="https://www.freecodecamp.org/news/build-19-web-dev-projects-using-html-css-javascript/"/>
+        <updated>2026-03-18T21:23:01.000Z</updated>
+        <summary type="html"><![CDATA[Improve your web development skills by building 19 different projects. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you to use HTML, CSS, and JavaScript to make all]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build an E-Commerce Web App with Paystack, NextJS, Supabase]]></title>
+        <id>69bb16b38c55d6eefb61a331</id>
+        <link href="https://www.freecodecamp.org/news/build-an-e-commerce-web-app-with-paystack-nextjs-supabase/"/>
+        <updated>2026-03-18T21:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Paystack is a seamless payment gateway for businesses to accept online transactions. It is like Stripe but with a focus on Africa. We just posted a course on the freeCodeCamp.org YouTube channel that]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an End-to-End ML Platform Locally: From Experiment Tracking to CI/CD]]></title>
         <id>69b9bab4c22d3eeb8afd5284</id>
@@ -93,26 +113,6 @@
         <summary type="html"><![CDATA[A few days ago, I ran an experiment with an AI-powered testing agent that lets you write test cases in plain English instead of code. I opened its natural language interface and typed four simple sent]]></summary>
         <author>
             <name>Ajay Yadav</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Your Own 24x7 AI Agent using OpenClaw]]></title>
-        <id>69b841aa2ad6ae5184d57f6d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-your-own-24x7-ai-agent-using-openclaw/"/>
-        <updated>2026-03-16T17:45:14.000Z</updated>
-        <summary type="html"><![CDATA[OpenClaw is a self-hosted AI assistant designed to run under your control instead of inside a hosted SaaS platform. It can connect to messaging interfaces, local tools, and model providers while keepi]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Ship a Production-Ready RAG App with FAISS (Guardrails, Evals, and Fallbacks)]]></title>
-        <id>69b841572ad6ae5184d54317</id>
-        <link href="https://www.freecodecamp.org/news/build-rag-app-faiss-fastapi/"/>
-        <updated>2026-03-16T17:43:51.000Z</updated>
-        <summary type="html"><![CDATA[Most LLM applications look great in a high-fidelity demo. Then they hit the hands of real users and start failing in very predictable yet damaging ways. They answer questions they should not, they bre]]></summary>
-        <author>
-            <name>Chidozie Managwu</name>
         </author>
     </entry>
     <entry>
