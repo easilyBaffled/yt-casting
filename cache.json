@@ -24,10 +24,10 @@
         {
           "id": "https://css-tricks.com/?p=393021",
           "author": "Daniel Schwarz",
-          "description": "For this issue of What’s !important, we have a healthy balance of old CSS that you might’ve missed and new CSS that you don’t want to miss. This includes random(), random-item(), folded corners using clip-path, backdrop-filter, font-variant-numeric: tabular-nums, the Popover API, anchored container queries, anchor positioning in general, DOOM in CSS, the customizable select element, :open, scroll-triggered animations, the toolbar element, and somehow, more.\nWhat’s !important #7: random(), Folded Corners, Anchored Container Queries, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "For this issue we have random(), folded clip-path corners, anchored container queries, customizable select, scroll-triggered animations, and more.\nWhat’s !important #7: random(), Folded Corners, Anchored Container Queries, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/whats-important-7/",
           "publishedOn": "2026-03-16T15:06:01.000Z",
-          "wordCount": 2690,
+          "wordCount": 2649,
           "title": "What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/wi7.png"
         },
@@ -47,7 +47,7 @@
           "description": "Let’s go over a few demos using the new customizable <select> feature that may be wild, but also give us a great chance to learn new things in CSS.\nAbusing Customizable Selects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/abusing-customizable-selects/",
           "publishedOn": "2026-03-11T13:59:15.000Z",
-          "wordCount": 4894,
+          "wordCount": 4902,
           "title": "Abusing Customizable Selects",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/css-tricks-custom-select-folder-stack.mp4",
@@ -155,16 +155,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/pointer-click.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390460",
-          "author": "Zell Liew",
-          "description": "The distinction between \"components\" and \"utilities\" seems clear at first glance, but gets a little blurred when working with them in Tailwind.\nDistinguishing “Components” and “Utilities” in Tailwind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/distinguishing-components-and-utilities-in-tailwind/",
-          "publishedOn": "2026-02-18T16:21:41.000Z",
-          "wordCount": 2791,
-          "title": "Distinguishing “Components” and “Utilities” in Tailwind",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/tailwind-paint.jpg"
         }
       ]
     },
@@ -173,6 +163,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/",
+          "author": "hello@smashingmagazine.com (Godstime Aburu)",
+          "description": "Dropdowns often work perfectly until they’re placed inside a scrollable panel, where they can get clipped, and half the menu disappears behind the container’s edge. Godstime Aburu explains why this happens and offers practical solutions to fix it.",
+          "link": "https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/",
+          "publishedOn": "2026-03-20T13:00:00.000Z",
+          "wordCount": 5124,
+          "title": "Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Properly",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/dropdowns-scrollable-containers-why-break-how-fix/dropdowns-scrollable-containers-why-break-how-fix.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/dropdowns-scrollable-containers-why-break-how-fix/dropdowns-scrollable-containers-why-break-how-fix.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -194,7 +199,7 @@
           "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.",
           "link": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
           "publishedOn": "2026-03-17T10:00:00.000Z",
-          "wordCount": 4476,
+          "wordCount": 4485,
           "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/anime-marvel-dc-designing-digital-products-emotion-flow.jpg",
@@ -209,7 +214,7 @@
           "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.",
           "link": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
           "publishedOn": "2026-03-13T13:00:00.000Z",
-          "wordCount": 6371,
+          "wordCount": 6384,
           "title": "Moving From Moment.js To The JS Temporal API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg",
@@ -224,7 +229,7 @@
           "description": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.",
           "link": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
           "publishedOn": "2026-03-12T10:00:00.000Z",
-          "wordCount": 5102,
+          "wordCount": 5105,
           "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-border-radius-css-corner-shape-property-ui/beyond-border-radius-css-corner-shape-property-ui.jpg",
@@ -254,7 +259,7 @@
           "description": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxboe updates persuasive design for today’s reality, clarifying what has actually held up over the last decade.",
           "link": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
           "publishedOn": "2026-03-09T11:00:00.000Z",
-          "wordCount": 7471,
+          "wordCount": 7458,
           "title": "Persuasive Design: Ten Years Later",
           "enclosure": {
             "url": "http://files.smashing.media/articles/persuasive-design-ten-years-later/persuasive-design-ten-years-later.jpg",
@@ -269,7 +274,7 @@
           "description": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about creating interfaces. It’s about navigating ambiguity, advocating for humans in systems optimised for efficiency, and solving their problems through thoughtful design.",
           "link": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
           "publishedOn": "2026-03-06T08:00:00.000Z",
-          "wordCount": 4565,
+          "wordCount": 4574,
           "title": "Human Strategy In An AI-Accelerated Workflow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-strategy-ai-accelerated-workflow/human-strategy-ai-accelerated-workflow.jpg",
@@ -299,7 +304,7 @@
           "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.",
           "link": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
           "publishedOn": "2026-03-02T10:00:00.000Z",
-          "wordCount": 5637,
+          "wordCount": 5642,
           "title": "Getting Started With The Popover API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg",
@@ -314,7 +319,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
           "publishedOn": "2026-02-28T09:00:00.000Z",
-          "wordCount": 4403,
+          "wordCount": 4522,
           "title": "Fresh Energy In March (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a44be9ea-24bd-4614-aa0d-c45b03012f43/mar-15-wake-up-preview-opt.png",
@@ -329,7 +334,7 @@
           "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
           "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
           "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 4058,
+          "wordCount": 4062,
           "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
           "enclosure": {
             "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
@@ -344,7 +349,7 @@
           "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.",
           "link": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
           "publishedOn": "2026-02-23T10:00:00.000Z",
-          "wordCount": 4410,
+          "wordCount": 4399,
           "title": "A Designer’s Guide To Eco-Friendly Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg",
@@ -352,21 +357,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
-          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
-          "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
-          "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
-          "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 6725,
-          "title": "Designing A Streak System: The UX And Psychology Of Streaks",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg"
         }
       ]
     },
@@ -375,6 +365,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69bd2ff0edfa9acbe3847525",
+          "author": "Beau Carnes",
+          "description": "Today Quincy Larson interviews Chris Coyier. He's a front-end developer and co-founder of CodePen and the CSS Tricks blog. He has also recorded more than 700 podcasts about software engineering. We ta",
+          "link": "https://www.freecodecamp.org/news/the-world-still-needs-people-who-care-codepen-founder-chris-coyier-interview-podcast-212/",
+          "publishedOn": "2026-03-20T11:30:00.000Z",
+          "wordCount": 1307,
+          "title": "The world still needs people who care - CodePen founder Chris Coyier interview [Podcast #212]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/5698edeb-dee6-466d-a1b3-73b9b2a8df66.jpg"
+        },
         {
           "id": "69bc51d6b238fd45a32f1cb0",
           "author": "Sumit Saha",
@@ -451,7 +451,7 @@
           "description": "Most RAG tutorials show you a working demo and call it done. You copy the code, it runs locally, and then you try to put it in production and everything falls apart. This tutorial is different. I run",
           "link": "https://www.freecodecamp.org/news/build-a-production-rag-system-with-cloudflare-workers-handbook/",
           "publishedOn": "2026-03-18T23:05:13.000Z",
-          "wordCount": 6679,
+          "wordCount": 6656,
           "title": "How to Build a Production RAG System with Cloudflare Workers – a Handbook for Devs",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cc3556fb-abe6-4aea-b9bd-83404319c1b9.png"
         },
@@ -464,16 +464,6 @@
           "wordCount": 8360,
           "title": "How to Build a Production-Ready Flutter CI/CD Pipeline with GitHub Actions: Quality Gates, Environments, and Store Deployment",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8c9d9384-ff02-47d7-aa69-42db2ebae247.png"
-        },
-        {
-          "id": "69bb1e218c55d6eefb64955f",
-          "author": "Balajee Asish Brahmandam",
-          "description": "Every developer has been there. You push a one-line fix, grab your coffee, and wait. And wait. Twelve minutes later, your Docker image finishes rebuilding from scratch because something about the cach",
-          "link": "https://www.freecodecamp.org/news/how-to-optimize-your-docker-build-cache/",
-          "publishedOn": "2026-03-18T21:50:25.000Z",
-          "wordCount": 3585,
-          "title": "How to Optimize Your Docker Build Cache & Cut Your CI/CD Pipeline Times by 80%",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9a5ca46f-c571-4d38-90b5-3c6d7d22c00f.png"
         }
       ]
     }

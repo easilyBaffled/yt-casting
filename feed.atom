@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-20T00:45:00.369Z</id>
+    <id>urn:2026-03-21T00:42:31.720Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-20T00:45:00.369Z</updated>
+    <updated>2026-03-21T00:42:31.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Properly]]></title>
+        <id>https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/</id>
+        <link href="https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/"/>
+        <updated>2026-03-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dropdowns often work perfectly until they’re placed inside a scrollable panel, where they can get clipped, and half the menu disappears behind the container’s edge. Godstime Aburu explains why this happens and offers practical solutions to fix it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Godstime Aburu)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The world still needs people who care - CodePen founder Chris Coyier interview [Podcast #212]]]></title>
+        <id>69bd2ff0edfa9acbe3847525</id>
+        <link href="https://www.freecodecamp.org/news/the-world-still-needs-people-who-care-codepen-founder-chris-coyier-interview-podcast-212/"/>
+        <updated>2026-03-20T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Chris Coyier. He's a front-end developer and co-founder of CodePen and the CSS Tricks blog. He has also recorded more than 700 podcasts about software engineering. We ta]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up WebAuthn in Node.js for Passwordless Biometric Login]]></title>
         <id>69bc51d6b238fd45a32f1cb0</id>
@@ -117,16 +137,6 @@ JavaScript for Everyone: Destructuring originally published on CSS-Tricks, which
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Optimize Your Docker Build Cache & Cut Your CI/CD Pipeline Times by 80%]]></title>
-        <id>69bb1e218c55d6eefb64955f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-optimize-your-docker-build-cache/"/>
-        <updated>2026-03-18T21:50:25.000Z</updated>
-        <summary type="html"><![CDATA[Every developer has been there. You push a one-line fix, grab your coffee, and wait. And wait. Twelve minutes later, your Docker image finishes rebuilding from scratch because something about the cach]]></summary>
-        <author>
-            <name>Balajee Asish Brahmandam</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow]]></title>
         <id>https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/</id>
         <link href="https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/"/>
@@ -141,7 +151,7 @@ JavaScript for Everyone: Destructuring originally published on CSS-Tricks, which
         <id>https://css-tricks.com/?p=393021</id>
         <link href="https://css-tricks.com/whats-important-7/"/>
         <updated>2026-03-16T15:06:01.000Z</updated>
-        <summary type="html"><![CDATA[For this issue of What’s !important, we have a healthy balance of old CSS that you might’ve missed and new CSS that you don’t want to miss. This includes random(), random-item(), folded corners using clip-path, backdrop-filter, font-variant-numeric: tabular-nums, the Popover API, anchored container queries, anchor positioning in general, DOOM in CSS, the customizable select element, :open, scroll-triggered animations, the toolbar element, and somehow, more.
+        <summary type="html"><![CDATA[For this issue we have random(), folded clip-path corners, anchored container queries, customizable select, scroll-triggered animations, and more.
 What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
@@ -366,27 +376,6 @@ Loading Smarter: SVG vs. Raster Loaders in Modern Web Design originally publishe
 Potentially Coming to a Browser :near() You originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distinguishing “Components” and “Utilities” in Tailwind]]></title>
-        <id>https://css-tricks.com/?p=390460</id>
-        <link href="https://css-tricks.com/distinguishing-components-and-utilities-in-tailwind/"/>
-        <updated>2026-02-18T16:21:41.000Z</updated>
-        <summary type="html"><![CDATA[The distinction between "components" and "utilities" seems clear at first glance, but gets a little blurred when working with them in Tailwind.
-Distinguishing “Components” and “Utilities” in Tailwind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing A Streak System: The UX And Psychology Of Streaks]]></title>
-        <id>https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/</id>
-        <link href="https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/"/>
-        <updated>2026-02-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
         </author>
     </entry>
 </feed>
