@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-22T00:48:19.139Z</id>
+    <id>urn:2026-03-23T00:49:11.429Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-22T00:48:19.139Z</updated>
+    <updated>2026-03-23T00:49:11.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -365,17 +365,6 @@ Loading Smarter: SVG vs. Raster Loaders in Modern Web Design originally publishe
         <summary type="html"><![CDATA[Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Potentially Coming to a Browser :near() You]]></title>
-        <id>https://css-tricks.com/?p=392208</id>
-        <link href="https://css-tricks.com/potentially-coming-to-a-browser-near-you/"/>
-        <updated>2026-02-20T15:36:55.000Z</updated>
-        <summary type="html"><![CDATA[Danny has several ideas for how we could use :near(), a proposed pseudo-class that detects when the pointer is near an element. 
-Potentially Coming to a Browser :near() You originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
