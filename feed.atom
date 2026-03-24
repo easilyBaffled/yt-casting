@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-23T00:49:11.429Z</id>
+    <id>urn:2026-03-24T00:40:27.854Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-23T00:49:11.430Z</updated>
+    <updated>2026-03-24T00:40:27.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Command Pattern in Python]]></title>
+        <id>69c1abb330a9b81e3aa82e36</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-command-pattern-in-python/"/>
+        <updated>2026-03-23T21:08:03.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever used an undo button in an app or scheduled tasks to run later? Both of these rely on the same idea: turning actions into objects. That's the command pattern. Instead of calling a method]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use MLflow to Manage Your Machine Learning Lifecycle]]></title>
+        <id>69c18bfc30a9b81e3a92bbbd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-mlflow-to-manage-your-machine-learning-lifecycle/"/>
+        <updated>2026-03-23T18:52:44.000Z</updated>
+        <summary type="html"><![CDATA[Training machine learning models usually starts out being organized and ends up in absolute chaos. We’ve all been there: dozens of experiments scattered across random notebooks, and model files saved]]></summary>
+        <author>
+            <name>Temitope Oyedele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code Essentials]]></title>
+        <id>69c1874230a9b81e3a8f2e6d</id>
+        <link href="https://www.freecodecamp.org/news/claude-code-essentials/"/>
+        <updated>2026-03-23T18:32:34.000Z</updated>
+        <summary type="html"><![CDATA[We just published a massive new course on the freeCodeCamp.org YouTube channel that will change the way you think about programming. Instead of just chatting with an AI, you can now learn how to use C]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infrastructure as Code with APIs: How to Automate Cloud Resources the Developer Way]]></title>
+        <id>69c17f3c30a9b81e3a894704</id>
+        <link href="https://www.freecodecamp.org/news/iac-with-apis-how-to-automate-cloud-resources/"/>
+        <updated>2026-03-23T17:58:20.000Z</updated>
+        <summary type="html"><![CDATA[Modern software development moves fast. Teams deploy code many times a day. New environments appear and disappear constantly. In this world, manual infrastructure setup simply doesn't scale. For years]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Container Doctor: How I Built an AI Agent That Monitors and Fixes My Containers]]></title>
+        <id>69c1768730a9b81e3a833f20</id>
+        <link href="https://www.freecodecamp.org/news/docker-container-doctor-how-i-built-an-ai-agent-that-monitors-and-fixes-my-containers/"/>
+        <updated>2026-03-23T17:21:11.000Z</updated>
+        <summary type="html"><![CDATA[Maybe this sounds familiar: your production container crashes at 3 AM. By the time you wake up, it's been throwing the same error for 2 hours. You SSH in, pull logs, decode the cryptic stack trace, Go]]></summary>
+        <author>
+            <name>Balajee Asish Brahmandam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based Image Converter with JavaScript]]></title>
+        <id>69c173e230a9b81e3a7df8f3</id>
+        <link href="https://www.freecodecamp.org/news/build-a-browser-based-image-converter-using-javascript/"/>
+        <updated>2026-03-23T17:09:54.000Z</updated>
+        <summary type="html"><![CDATA[Image conversion is one of those small tasks developers run into occasionally. You might need to convert a PNG to JPEG to reduce size, or export an image to WebP for better performance. Most developer]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experimenting With Scroll-Driven corner-shape Animations]]></title>
+        <id>https://css-tricks.com/?p=392503</id>
+        <link href="https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/"/>
+        <updated>2026-03-23T13:51:15.000Z</updated>
+        <summary type="html"><![CDATA[The new CSS corner-shape() property is mathematical, so it’s easily animated. Author Daniel Schwarz pokes at animating the property for interesting UI effects.
+Experimenting With Scroll-Driven corner-shape Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Properly]]></title>
         <id>https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/</id>
@@ -56,46 +127,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Atomic CSS and Functional Programming Are Related]]></title>
-        <id>69bc348fb238fd45a320a2f7</id>
-        <link href="https://www.freecodecamp.org/news/atomic-and-functional-css/"/>
-        <updated>2026-03-19T17:38:23.000Z</updated>
-        <summary type="html"><![CDATA[Hello, friends! My name is Ramazan, and I'm a front-end developer and enthusiast who loves looking at familiar things in web development from new perspectives. You might have heard of functional progr]]></summary>
-        <author>
-            <name>Ramazan Maksyutov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Staring at a Blank Deck: How I Use Claude Code + Marp to Think Through Presentations]]></title>
-        <id>69bc3429b238fd45a3206764</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-claude-code-and-marp-to-think-through-presentations/"/>
-        <updated>2026-03-19T17:36:41.000Z</updated>
-        <summary type="html"><![CDATA[The hard part of building a presentation is figuring out the story. What are you trying to say? What’s the structure? Which sections build on which? Where does the data go, table or bullets? Before th]]></summary>
-        <author>
-            <name>Omer Rosenbaum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Troubleshoot Ghost CMS: Fixing WSL, Docker, and ActivityPub Errors]]></title>
-        <id>69bc3254b238fd45a31f6959</id>
-        <link href="https://www.freecodecamp.org/news/fix-ghost-cms-errors/"/>
-        <updated>2026-03-19T17:28:52.000Z</updated>
-        <summary type="html"><![CDATA[Setting up Ghost CMS (Content Management System) on your local machine is a great way to develop themes and test new features. But if you're using Windows or Docker, you might run into errors that sto]]></summary>
-        <author>
-            <name>Abdul Talha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement the Outbox Pattern in Go and PostgreSQL]]></title>
-        <id>69bc31b3b238fd45a31f1291</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-the-outbox-pattern-in-go-and-postgresql/"/>
-        <updated>2026-03-19T17:26:11.000Z</updated>
-        <summary type="html"><![CDATA[In event-driven systems, two things need to happen when you process a request: you need to save data to your database, and you need to publish an event to a message broker so other services know somet]]></summary>
-        <author>
-            <name>Alex Pliutau</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Modal vs. Separate Page: UX Decision Tree]]></title>
         <id>https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/</id>
         <link href="https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/"/>
@@ -114,26 +145,6 @@
 JavaScript for Everyone: Destructuring originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Mat Marquis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Production RAG System with Cloudflare Workers – a Handbook for Devs]]></title>
-        <id>69bb2fa98c55d6eefb6ce907</id>
-        <link href="https://www.freecodecamp.org/news/build-a-production-rag-system-with-cloudflare-workers-handbook/"/>
-        <updated>2026-03-18T23:05:13.000Z</updated>
-        <summary type="html"><![CDATA[Most RAG tutorials show you a working demo and call it done. You copy the code, it runs locally, and then you try to put it in production and everything falls apart. This tutorial is different. I run]]></summary>
-        <author>
-            <name>Daniel Nwaneri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Production-Ready Flutter CI/CD Pipeline with GitHub Actions: Quality Gates, Environments, and Store Deployment]]></title>
-        <id>69bb2e078c55d6eefb6c2e8d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-production-ready-flutter-ci-cd-pipeline-with-github-actions-quality-gates-environments-and-store-deployment/"/>
-        <updated>2026-03-18T22:58:15.000Z</updated>
-        <summary type="html"><![CDATA[Mobile application development has evolved over the years. The processes, structure, and syntax we use has changed, as well as the quality and flexibility of the apps we build. One of the major improv]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
         </author>
     </entry>
     <entry>

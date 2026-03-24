@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=392503",
+          "author": "Daniel Schwarz",
+          "description": "The new CSS corner-shape() property is mathematical, so it’s easily animated. Author Daniel Schwarz pokes at animating the property for interesting UI effects.\nExperimenting With Scroll-Driven corner-shape Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/",
+          "publishedOn": "2026-03-23T13:51:15.000Z",
+          "wordCount": 3552,
+          "title": "Experimenting With Scroll-Driven corner-shape Animations",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/02/corner-shape-amimation-1.mp4",
+            "length": "812988",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/corner-shape-animation.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=392714",
           "author": "Mat Marquis",
           "description": "Mat Marquis and Andy Bell have released JavaScript for Everyone, an online course offered exclusively at Piccalilli. This post is an excerpt from the course taken specifically from a chapter all about JavaScript destructuring. \nJavaScript for Everyone: Destructuring originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -154,7 +169,7 @@
           "description": "Dropdowns often work perfectly until they’re placed inside a scrollable panel, where they can get clipped, and half the menu disappears behind the container’s edge. Godstime Aburu explains why this happens and offers practical solutions to fix it.",
           "link": "https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/",
           "publishedOn": "2026-03-20T13:00:00.000Z",
-          "wordCount": 5125,
+          "wordCount": 5126,
           "title": "Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Properly",
           "enclosure": {
             "url": "http://files.smashing.media/articles/dropdowns-scrollable-containers-why-break-how-fix/dropdowns-scrollable-containers-why-break-how-fix.jpg",
@@ -169,7 +184,7 @@
           "description": "How to choose between modals and pages, when to avoid modals, and how to determine the right level of interruption or navigation. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.",
           "link": "https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/",
           "publishedOn": "2026-03-19T15:00:00.000Z",
-          "wordCount": 4006,
+          "wordCount": null,
           "title": "Modal vs. Separate Page: UX Decision Tree",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modal-separate-page-ux-decision-tree/modal-separate-page-ux-decision-tree.jpg",
@@ -184,7 +199,7 @@
           "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.",
           "link": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
           "publishedOn": "2026-03-17T10:00:00.000Z",
-          "wordCount": 4480,
+          "wordCount": 4475,
           "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/anime-marvel-dc-designing-digital-products-emotion-flow.jpg",
@@ -199,7 +214,7 @@
           "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.",
           "link": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
           "publishedOn": "2026-03-13T13:00:00.000Z",
-          "wordCount": 6372,
+          "wordCount": 6488,
           "title": "Moving From Moment.js To The JS Temporal API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg",
@@ -214,7 +229,7 @@
           "description": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.",
           "link": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
           "publishedOn": "2026-03-12T10:00:00.000Z",
-          "wordCount": 5091,
+          "wordCount": 5102,
           "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-border-radius-css-corner-shape-property-ui/beyond-border-radius-css-corner-shape-property-ui.jpg",
@@ -244,7 +259,7 @@
           "description": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxboe updates persuasive design for today’s reality, clarifying what has actually held up over the last decade.",
           "link": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
           "publishedOn": "2026-03-09T11:00:00.000Z",
-          "wordCount": 7454,
+          "wordCount": 7471,
           "title": "Persuasive Design: Ten Years Later",
           "enclosure": {
             "url": "http://files.smashing.media/articles/persuasive-design-ten-years-later/persuasive-design-ten-years-later.jpg",
@@ -259,7 +274,7 @@
           "description": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about creating interfaces. It’s about navigating ambiguity, advocating for humans in systems optimised for efficiency, and solving their problems through thoughtful design.",
           "link": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
           "publishedOn": "2026-03-06T08:00:00.000Z",
-          "wordCount": 4562,
+          "wordCount": 4565,
           "title": "Human Strategy In An AI-Accelerated Workflow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-strategy-ai-accelerated-workflow/human-strategy-ai-accelerated-workflow.jpg",
@@ -289,7 +304,7 @@
           "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.",
           "link": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
           "publishedOn": "2026-03-02T10:00:00.000Z",
-          "wordCount": 5651,
+          "wordCount": 5659,
           "title": "Getting Started With The Popover API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg",
@@ -304,7 +319,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
           "publishedOn": "2026-02-28T09:00:00.000Z",
-          "wordCount": 4412,
+          "wordCount": 4409,
           "title": "Fresh Energy In March (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a44be9ea-24bd-4614-aa0d-c45b03012f43/mar-15-wake-up-preview-opt.png",
@@ -319,7 +334,7 @@
           "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
           "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
           "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 4065,
+          "wordCount": 4061,
           "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
           "enclosure": {
             "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
@@ -334,7 +349,7 @@
           "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.",
           "link": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
           "publishedOn": "2026-02-23T10:00:00.000Z",
-          "wordCount": 4393,
+          "wordCount": 4406,
           "title": "A Designer’s Guide To Eco-Friendly Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg",
@@ -350,6 +365,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69c1abb330a9b81e3aa82e36",
+          "author": "Bala Priya C",
+          "description": "Have you ever used an undo button in an app or scheduled tasks to run later? Both of these rely on the same idea: turning actions into objects. That's the command pattern. Instead of calling a method",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-command-pattern-in-python/",
+          "publishedOn": "2026-03-23T21:08:03.000Z",
+          "wordCount": 2161,
+          "title": "How to Use the Command Pattern in Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/85170982-e7e8-453a-9fd4-a7f2f4f7edb3.png"
+        },
+        {
+          "id": "69c18bfc30a9b81e3a92bbbd",
+          "author": "Temitope Oyedele",
+          "description": "Training machine learning models usually starts out being organized and ends up in absolute chaos. We’ve all been there: dozens of experiments scattered across random notebooks, and model files saved",
+          "link": "https://www.freecodecamp.org/news/how-to-use-mlflow-to-manage-your-machine-learning-lifecycle/",
+          "publishedOn": "2026-03-23T18:52:44.000Z",
+          "wordCount": 3075,
+          "title": "How to Use MLflow to Manage Your Machine Learning Lifecycle",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f829ab55-926d-43cd-b027-16c754445b09.png"
+        },
+        {
+          "id": "69c1874230a9b81e3a8f2e6d",
+          "author": "Beau Carnes",
+          "description": "We just published a massive new course on the freeCodeCamp.org YouTube channel that will change the way you think about programming. Instead of just chatting with an AI, you can now learn how to use C",
+          "link": "https://www.freecodecamp.org/news/claude-code-essentials/",
+          "publishedOn": "2026-03-23T18:32:34.000Z",
+          "wordCount": 1063,
+          "title": "Claude Code Essentials",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/4ec19e44-4bda-4b9b-bfd3-d8ccec1c7ba0.jpg"
+        },
+        {
+          "id": "69c17f3c30a9b81e3a894704",
+          "author": "Manish Shivanandhan",
+          "description": "Modern software development moves fast. Teams deploy code many times a day. New environments appear and disappear constantly. In this world, manual infrastructure setup simply doesn't scale. For years",
+          "link": "https://www.freecodecamp.org/news/iac-with-apis-how-to-automate-cloud-resources/",
+          "publishedOn": "2026-03-23T17:58:20.000Z",
+          "wordCount": 2687,
+          "title": "Infrastructure as Code with APIs: How to Automate Cloud Resources the Developer Way",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d45b828b-c7b7-4138-a373-6edea786bc65.png"
+        },
+        {
+          "id": "69c1768730a9b81e3a833f20",
+          "author": "Balajee Asish Brahmandam",
+          "description": "Maybe this sounds familiar: your production container crashes at 3 AM. By the time you wake up, it's been throwing the same error for 2 hours. You SSH in, pull logs, decode the cryptic stack trace, Go",
+          "link": "https://www.freecodecamp.org/news/docker-container-doctor-how-i-built-an-ai-agent-that-monitors-and-fixes-my-containers/",
+          "publishedOn": "2026-03-23T17:21:11.000Z",
+          "wordCount": 4849,
+          "title": "Docker Container Doctor: How I Built an AI Agent That Monitors and Fixes My Containers",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8bb7701d-e519-407f-92ba-59639e13729d.png"
+        },
+        {
+          "id": "69c173e230a9b81e3a7df8f3",
+          "author": "Bhavin Sheth",
+          "description": "Image conversion is one of those small tasks developers run into occasionally. You might need to convert a PNG to JPEG to reduce size, or export an image to WebP for better performance. Most developer",
+          "link": "https://www.freecodecamp.org/news/build-a-browser-based-image-converter-using-javascript/",
+          "publishedOn": "2026-03-23T17:09:54.000Z",
+          "wordCount": 2304,
+          "title": "How to Build a Browser-Based Image Converter with JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c042a600-ec0e-495b-b004-dd5a4dfb1434.png"
+        },
         {
           "id": "69bd2ff0edfa9acbe3847525",
           "author": "Beau Carnes",
@@ -389,66 +464,6 @@
           "wordCount": 7524,
           "title": "How to Automate Form UX Audits: Errors, Hints, and Keyboard Flows",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5bf2b730-1a9f-46e9-9809-b63926589f00.png"
-        },
-        {
-          "id": "69bc348fb238fd45a320a2f7",
-          "author": "Ramazan Maksyutov",
-          "description": "Hello, friends! My name is Ramazan, and I'm a front-end developer and enthusiast who loves looking at familiar things in web development from new perspectives. You might have heard of functional progr",
-          "link": "https://www.freecodecamp.org/news/atomic-and-functional-css/",
-          "publishedOn": "2026-03-19T17:38:23.000Z",
-          "wordCount": 3057,
-          "title": "How Atomic CSS and Functional Programming Are Related",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/64d0d72a-075e-42a9-b0fb-ca577f950999.png"
-        },
-        {
-          "id": "69bc3429b238fd45a3206764",
-          "author": "Omer Rosenbaum",
-          "description": "The hard part of building a presentation is figuring out the story. What are you trying to say? What’s the structure? Which sections build on which? Where does the data go, table or bullets? Before th",
-          "link": "https://www.freecodecamp.org/news/how-to-use-claude-code-and-marp-to-think-through-presentations/",
-          "publishedOn": "2026-03-19T17:36:41.000Z",
-          "wordCount": 2505,
-          "title": "Stop Staring at a Blank Deck: How I Use Claude Code + Marp to Think Through Presentations",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/fcbd044d-0add-467c-a9b0-d068584a8197.png"
-        },
-        {
-          "id": "69bc3254b238fd45a31f6959",
-          "author": "Abdul Talha",
-          "description": "Setting up Ghost CMS (Content Management System) on your local machine is a great way to develop themes and test new features. But if you're using Windows or Docker, you might run into errors that sto",
-          "link": "https://www.freecodecamp.org/news/fix-ghost-cms-errors/",
-          "publishedOn": "2026-03-19T17:28:52.000Z",
-          "wordCount": 1771,
-          "title": "How to Troubleshoot Ghost CMS: Fixing WSL, Docker, and ActivityPub Errors",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/85f5e0bb-26ff-42ce-ba66-afec6df4bb5d.png"
-        },
-        {
-          "id": "69bc31b3b238fd45a31f1291",
-          "author": "Alex Pliutau",
-          "description": "In event-driven systems, two things need to happen when you process a request: you need to save data to your database, and you need to publish an event to a message broker so other services know somet",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-the-outbox-pattern-in-go-and-postgresql/",
-          "publishedOn": "2026-03-19T17:26:11.000Z",
-          "wordCount": 3333,
-          "title": "How to Implement the Outbox Pattern in Go and PostgreSQL",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7a24b5a7-6619-4997-b24c-c4a743f37c33.png"
-        },
-        {
-          "id": "69bb2fa98c55d6eefb6ce907",
-          "author": "Daniel Nwaneri",
-          "description": "Most RAG tutorials show you a working demo and call it done. You copy the code, it runs locally, and then you try to put it in production and everything falls apart. This tutorial is different. I run",
-          "link": "https://www.freecodecamp.org/news/build-a-production-rag-system-with-cloudflare-workers-handbook/",
-          "publishedOn": "2026-03-18T23:05:13.000Z",
-          "wordCount": 6656,
-          "title": "How to Build a Production RAG System with Cloudflare Workers – a Handbook for Devs",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cc3556fb-abe6-4aea-b9bd-83404319c1b9.png"
-        },
-        {
-          "id": "69bb2e078c55d6eefb6c2e8d",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "Mobile application development has evolved over the years. The processes, structure, and syntax we use has changed, as well as the quality and flexibility of the apps we build. One of the major improv",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-flutter-ci-cd-pipeline-with-github-actions-quality-gates-environments-and-store-deployment/",
-          "publishedOn": "2026-03-18T22:58:15.000Z",
-          "wordCount": 8360,
-          "title": "How to Build a Production-Ready Flutter CI/CD Pipeline with GitHub Actions: Quality Gates, Environments, and Store Deployment",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8c9d9384-ff02-47d7-aa69-42db2ebae247.png"
         }
       ]
     }
