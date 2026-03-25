@@ -7,169 +7,32 @@
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=392503",
-          "author": "Daniel Schwarz",
-          "description": "The new CSS corner-shape() property is mathematical, so it’s easily animated. Author Daniel Schwarz pokes at animating the property for interesting UI effects.\nExperimenting With Scroll-Driven corner-shape Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/",
-          "publishedOn": "2026-03-23T13:51:15.000Z",
-          "wordCount": 3552,
-          "title": "Experimenting With Scroll-Driven corner-shape Animations",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/02/corner-shape-amimation-1.mp4",
-            "length": "812988",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/corner-shape-animation.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392714",
-          "author": "Mat Marquis",
-          "description": "Mat Marquis and Andy Bell have released JavaScript for Everyone, an online course offered exclusively at Piccalilli. This post is an excerpt from the course taken specifically from a chapter all about JavaScript destructuring. \nJavaScript for Everyone: Destructuring originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/javascript-for-everyone-destructuring/",
-          "publishedOn": "2026-03-19T13:06:30.000Z",
-          "wordCount": 5744,
-          "title": "JavaScript for Everyone: Destructuring",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/javascript-for-everyone-scaled.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393021",
-          "author": "Daniel Schwarz",
-          "description": "For this issue we have random(), folded clip-path corners, anchored container queries, customizable select, scroll-triggered animations, and more.\nWhat’s !important #7: random(), Folded Corners, Anchored Container Queries, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/whats-important-7/",
-          "publishedOn": "2026-03-16T15:06:01.000Z",
-          "wordCount": 2649,
-          "title": "What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/wi7.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392180",
-          "author": "Zell Liew",
-          "description": "Tailwind is really great for making layouts and there are many reasons why. Zell Liew looks at four specific examples of common use cases.\n4 Reasons That Make Tailwind Great for Building Layouts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/",
-          "publishedOn": "2026-03-16T14:01:02.000Z",
-          "wordCount": 3597,
-          "title": "4 Reasons That Make Tailwind Great for Building Layouts",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/tailwind-paint.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392463",
-          "author": "Patrick Brosset",
-          "description": "Let’s go over a few demos using the new customizable <select> feature that may be wild, but also give us a great chance to learn new things in CSS.\nAbusing Customizable Selects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/abusing-customizable-selects/",
-          "publishedOn": "2026-03-11T13:59:15.000Z",
-          "wordCount": 4902,
-          "title": "Abusing Customizable Selects",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/02/css-tricks-custom-select-folder-stack.mp4",
-            "length": "410481",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/custom-select.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392843",
-          "author": "Amit Sheen",
-          "description": "How we look at the stacking order of our projects, how we choose z-index values, and more importantly, the implications of those choices.\nThe Value of z-index originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-value-of-z-index/",
-          "publishedOn": "2026-03-09T14:20:01.000Z",
-          "wordCount": 4294,
-          "title": "The Value of z-index",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_8926F490CDA74C2CA8D0B6E99405A055C6BF40F4CCE75686F0BAADE6ECBD39FB_1772115867944_image.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392257",
-          "author": "Daniel Schwarz",
-          "description": "Sure, we can select the <html> element in CSS with, you know, a simple element selector, html. But what other (trivial and perhaps useless) ways can we do it?\nThe Different Ways to Select <html> in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-different-ways-to-select-html-in-css/",
-          "publishedOn": "2026-03-05T14:01:04.000Z",
-          "wordCount": 2650,
-          "title": "The Different Ways to Select <html> in CSS",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/02/css-block-html.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388435",
-          "author": "Zell Liew",
-          "description": "Choosing between Popover API and Dialog API is difficult because they seem to do the same job, but they don’t! After a bit lots of research, I discovered that the Popover API and Dialog API are wildly different in terms of accessibility and we'll go over that in this article.\nPopover API or Dialog API: Which to Choose? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/",
-          "publishedOn": "2026-03-02T15:10:07.000Z",
-          "wordCount": 3931,
-          "title": "Popover API or Dialog API: Which to Choose?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392661",
-          "author": "Daniel Schwarz",
-          "description": "Despite what’s been a sleepy couple of weeks for new Web Platform Features, we have an issue of What’s !important that’s prrrretty jam-packed. The web community had a lot to say, it seems, so fasten your seatbelts!\nWhat’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/whats-important-6/",
-          "publishedOn": "2026-02-27T16:30:22.000Z",
-          "wordCount": 3174,
-          "title": "What’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/02/border-shape.mp4",
-            "length": "2187724",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/important-color.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392540",
-          "author": "Juan Diego Rodríguez",
-          "description": "TL;DR: We can center absolute-positioned elements in three lines of CSS. And it works on all browsers!\nYet Another Way to Center an (Absolute) Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/yet-another-way-to-center-an-absolute-element/",
-          "publishedOn": "2026-02-27T14:40:42.000Z",
-          "wordCount": 2884,
-          "title": "Yet Another Way to Center an (Absolute) Element",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2014/09/guide-centering.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392606",
-          "author": "Lee Meyer",
-          "description": "Read an explanation of the recent CVE-2026-2441 vulnerability that was labeled a \"CSS exploit\" that \"allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page.\"\nAn Exploit … in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/an-exploit-in-css/",
-          "publishedOn": "2026-02-25T21:31:39.000Z",
-          "wordCount": 3782,
-          "title": "An Exploit … in CSS?!",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/code-magnify.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392196",
-          "author": "Declan Chidlow",
-          "description": "Browsers don't just let you bookmark web pages. You can also bookmark JavaScript, allowing you to do so much more than merely save pages.\nA Complete Guide to Bookmarklets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-complete-guide-to-bookmarklets/",
-          "publishedOn": "2026-02-25T14:50:58.000Z",
-          "wordCount": 3679,
-          "title": "A Complete Guide to Bookmarklets",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/02/bookmarklets.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=391982",
-          "author": "Mariana Beldi",
-          "description": "Let’s get nuanced in this article and discuss the capabilities of both SVG and raster imaged so that you can make informed decisions in your own work.\nLoading Smarter: SVG vs. Raster Loaders in Modern Web Design originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/loading-smarter-svg-vs-raster-loaders-in-modern-web-design/",
-          "publishedOn": "2026-02-23T14:18:16.000Z",
-          "wordCount": 3711,
-          "title": "Loading Smarter: SVG vs. Raster Loaders in Modern Web Design",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/raster-vs-vector.jpg"
-        }
-      ]
-    },
-    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
+          "author": "hello@smashingmagazine.com (Ruben Ferreira Duarte)",
+          "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
+          "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
+          "publishedOn": "2026-03-24T13:00:00.000Z",
+          "wordCount": 6102,
+          "title": "Testing Font Scaling For Accessibility With Figma Variables",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/",
           "author": "hello@smashingmagazine.com (Godstime Aburu)",
           "description": "Dropdowns often work perfectly until they’re placed inside a scrollable panel, where they can get clipped, and half the menu disappears behind the container’s edge. Godstime Aburu explains why this happens and offers practical solutions to fix it.",
           "link": "https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/",
           "publishedOn": "2026-03-20T13:00:00.000Z",
-          "wordCount": 5126,
+          "wordCount": 5135,
           "title": "Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Properly",
           "enclosure": {
             "url": "http://files.smashing.media/articles/dropdowns-scrollable-containers-why-break-how-fix/dropdowns-scrollable-containers-why-break-how-fix.jpg",
@@ -184,7 +47,7 @@
           "description": "How to choose between modals and pages, when to avoid modals, and how to determine the right level of interruption or navigation. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.",
           "link": "https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/",
           "publishedOn": "2026-03-19T15:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4006,
           "title": "Modal vs. Separate Page: UX Decision Tree",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modal-separate-page-ux-decision-tree/modal-separate-page-ux-decision-tree.jpg",
@@ -199,7 +62,7 @@
           "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.",
           "link": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
           "publishedOn": "2026-03-17T10:00:00.000Z",
-          "wordCount": 4475,
+          "wordCount": 4476,
           "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/anime-marvel-dc-designing-digital-products-emotion-flow.jpg",
@@ -214,7 +77,7 @@
           "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.",
           "link": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
           "publishedOn": "2026-03-13T13:00:00.000Z",
-          "wordCount": 6488,
+          "wordCount": 6484,
           "title": "Moving From Moment.js To The JS Temporal API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg",
@@ -229,7 +92,7 @@
           "description": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.",
           "link": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
           "publishedOn": "2026-03-12T10:00:00.000Z",
-          "wordCount": 5102,
+          "wordCount": 5101,
           "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-border-radius-css-corner-shape-property-ui/beyond-border-radius-css-corner-shape-property-ui.jpg",
@@ -259,7 +122,7 @@
           "description": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxboe updates persuasive design for today’s reality, clarifying what has actually held up over the last decade.",
           "link": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
           "publishedOn": "2026-03-09T11:00:00.000Z",
-          "wordCount": 7471,
+          "wordCount": 7457,
           "title": "Persuasive Design: Ten Years Later",
           "enclosure": {
             "url": "http://files.smashing.media/articles/persuasive-design-ten-years-later/persuasive-design-ten-years-later.jpg",
@@ -274,7 +137,7 @@
           "description": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about creating interfaces. It’s about navigating ambiguity, advocating for humans in systems optimised for efficiency, and solving their problems through thoughtful design.",
           "link": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
           "publishedOn": "2026-03-06T08:00:00.000Z",
-          "wordCount": 4565,
+          "wordCount": 4566,
           "title": "Human Strategy In An AI-Accelerated Workflow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-strategy-ai-accelerated-workflow/human-strategy-ai-accelerated-workflow.jpg",
@@ -304,7 +167,7 @@
           "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.",
           "link": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
           "publishedOn": "2026-03-02T10:00:00.000Z",
-          "wordCount": 5659,
+          "wordCount": 5646,
           "title": "Getting Started With The Popover API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg",
@@ -319,7 +182,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
           "publishedOn": "2026-02-28T09:00:00.000Z",
-          "wordCount": 4409,
+          "wordCount": 4416,
           "title": "Fresh Energy In March (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a44be9ea-24bd-4614-aa0d-c45b03012f43/mar-15-wake-up-preview-opt.png",
@@ -334,7 +197,7 @@
           "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
           "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
           "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 4061,
+          "wordCount": 4056,
           "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
           "enclosure": {
             "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
@@ -342,21 +205,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
-          "author": "hello@smashingmagazine.com (Carrie Webster)",
-          "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.",
-          "link": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
-          "publishedOn": "2026-02-23T10:00:00.000Z",
-          "wordCount": 4406,
-          "title": "A Designer’s Guide To Eco-Friendly Interfaces",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg"
         }
       ]
     },
@@ -365,6 +213,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69c1dcba30a9b81e3ac436d8",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "If you've spent any time shipping Flutter apps manually, you already know the drill. Someone on the team finishes a feature, builds the APK locally, signs it (hopefully with the right keystore), uploa",
+          "link": "https://www.freecodecamp.org/news/build-a-complete-flutter-ci-cd-pipeline-with-codemagic/",
+          "publishedOn": "2026-03-24T00:37:14.000Z",
+          "wordCount": 5235,
+          "title": "How to Build a Complete Flutter CI/CD Pipeline with Codemagic: From PR Quality Gates to Automated Store Releases",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/914de6f3-5b7f-48ff-a092-1f8d095202e5.png"
+        },
+        {
+          "id": "69c1dc5930a9b81e3ac400fc",
+          "author": "Daniel Nwaneri",
+          "description": "I spent 64% of my weekly Claude budget before Wednesday building a tool designed to reduce Claude usage. That's the kind of irony that deserves its own specification. The tool is spec-writer: a Claude",
+          "link": "https://www.freecodecamp.org/news/how-to-stop-letting-ai-agents-guess-your-requirements/",
+          "publishedOn": "2026-03-24T00:35:37.000Z",
+          "wordCount": 3343,
+          "title": "How to Stop Letting AI Agents Guess Your Requirements",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/06a3ff85-4d60-4e05-b494-8d2f3e6024ac.png"
+        },
         {
           "id": "69c1abb330a9b81e3aa82e36",
           "author": "Bala Priya C",
@@ -444,26 +312,6 @@
           "wordCount": 4517,
           "title": "How to Set Up WebAuthn in Node.js for Passwordless Biometric Login",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8cc356c5-b011-4316-8236-a0443eb2cc03.png"
-        },
-        {
-          "id": "69bc3c86b238fd45a32512ba",
-          "author": "Beau Carnes",
-          "description": "Testing is the unsung hero of software development because shipping features is only half the battle. We just published a comprehensive course on the freeCodeCamp.org YouTube channel that will teach y",
-          "link": "https://www.freecodecamp.org/news/software-testing-with-playwright/",
-          "publishedOn": "2026-03-19T18:12:22.000Z",
-          "wordCount": 1138,
-          "title": "Software Testing with Playwright",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d64667fd-3a46-4b34-8dc9-89c5a56e59d3.jpg"
-        },
-        {
-          "id": "69bc38cfb238fd45a3231433",
-          "author": "Oleh Romanyuk",
-          "description": "Forms are often the gatekeepers to conversions on a site or application. Abandoned carts, partially signed-up users, and users who stop engaging with your app are often thanks to friction with forms.",
-          "link": "https://www.freecodecamp.org/news/automate-form-ux-audits-handbook/",
-          "publishedOn": "2026-03-19T17:56:31.000Z",
-          "wordCount": 7524,
-          "title": "How to Automate Form UX Audits: Errors, Hints, and Keyboard Flows",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5bf2b730-1a9f-46e9-9809-b63926589f00.png"
         }
       ]
     }
