@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-25T00:46:52.300Z</id>
+    <id>urn:2026-03-26T00:49:30.908Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-25T00:46:52.300Z</updated>
+    <updated>2026-03-26T00:49:30.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Claude Code Handbook: A Professional Introduction to Building with AI-Assisted Development]]></title>
+        <id>69c44e2e10e664c5daf048d3</id>
+        <link href="https://www.freecodecamp.org/news/claude-code-handbook/"/>
+        <updated>2026-03-25T21:05:50.000Z</updated>
+        <summary type="html"><![CDATA["I have never enjoyed coding as much as I do today — because I no longer have to deal with the minutia." — Boris Cherny, Head of Claude Code, Anthropic This handbook is a complete, professional intro]]></summary>
+        <author>
+            <name>Vahe Aslanyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Interactive University Ranking System Using React and Data Viz Tools]]></title>
+        <id>69c44d7d10e664c5daefbf5c</id>
+        <link href="https://www.freecodecamp.org/news/build-an-interactive-ranking-system-using-react-and-data-viz-tools/"/>
+        <updated>2026-03-25T21:02:53.000Z</updated>
+        <summary type="html"><![CDATA[Hi! I'm Daria, and I'm a software engineering student with a keen interest in data visualization. I've been actively exploring various visualization tools through small pet projects, and I'd like to s]]></summary>
+        <author>
+            <name>Daria Filozop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploying AI Models with Hugging Face]]></title>
+        <id>69c4433010e664c5dae7ca88</id>
+        <link href="https://www.freecodecamp.org/news/deploying-ai-models-with-hugging-face/"/>
+        <updated>2026-03-25T20:18:56.000Z</updated>
+        <summary type="html"><![CDATA[Hugging Face has become the "operating system" of the modern AI revolution. We just posted a comprehensive new course on the freeCodeCamp.org YouTube channel that will teach you about Hugging Face and]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use OpenStreetMap as a Free Alternative to Google Maps]]></title>
+        <id>69c41cdf10e664c5dacd6389</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-openstreetmap-free-alternative-to-google-maps/"/>
+        <updated>2026-03-25T17:35:27.000Z</updated>
+        <summary type="html"><![CDATA[Google Maps has been the default choice for developers building location-based applications for years. But for many teams, especially those operating at scale, pricing has become a real concern. Googl]]></summary>
+        <author>
+            <name>Aiyedogbon Abraham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Bank Ledger in Golang with PostgreSQL using the Double-Entry Accounting Principle.]]></title>
+        <id>69c4173d10e664c5dac8cea1</id>
+        <link href="https://www.freecodecamp.org/news/build-a-bank-ledger-in-go-with-postgresql-using-the-double-entry-accounting-principle/"/>
+        <updated>2026-03-25T17:11:25.000Z</updated>
+        <summary type="html"><![CDATA[The Hidden Bugs in How Most Developers Store Money Imagine you're building the backend for a million-dollar fintech app. You store each user's balance as a single number in the database. It feels simp]]></summary>
+        <author>
+            <name>Paul Babatuyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Apply GAN Architecture to Multi-Agent Code Generation]]></title>
+        <id>69c4123410e664c5dac5298f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-apply-gan-architecture-to-multi-agent-code-generation/"/>
+        <updated>2026-03-25T16:49:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask an AI coding agent to build a feature and it will probably do a decent job. Ask it to review its own work and it will tell you everything looks great. This is the fundamental problem with single-p]]></summary>
+        <author>
+            <name>Christopher Galliart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Secure a Kubernetes Cluster: RBAC, Pod Hardening, and Runtime Protection]]></title>
+        <id>69c4112310e664c5dac43f41</id>
+        <link href="https://www.freecodecamp.org/news/how-to-secure-a-kubernetes-cluster-handbook/"/>
+        <updated>2026-03-25T16:45:23.000Z</updated>
+        <summary type="html"><![CDATA[In 2018, RedLock's cloud security research team discovered that Tesla's Kubernetes dashboard was exposed to the public internet with no password on it. An attacker had found it, deployed pods inside T]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Model Context Protocol to Build a Personal Financial Assistant]]></title>
+        <id>69c4104010e664c5dac37aed</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-mcp-to-build-a-personal-financial-assistant/"/>
+        <updated>2026-03-25T16:41:36.000Z</updated>
+        <summary type="html"><![CDATA[LLMs are great at writing market commentary. The problem is they can sound confident even when they haven't looked at any data. That’s fine for casual chat, but it’s not fine if you’re building a feat]]></summary>
+        <author>
+            <name>Nikhil Adithyan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Testing Font Scaling For Accessibility With Figma Variables]]></title>
         <id>https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/</id>
@@ -36,63 +116,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use the Command Pattern in Python]]></title>
-        <id>69c1abb330a9b81e3aa82e36</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-command-pattern-in-python/"/>
-        <updated>2026-03-23T21:08:03.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever used an undo button in an app or scheduled tasks to run later? Both of these rely on the same idea: turning actions into objects. That's the command pattern. Instead of calling a method]]></summary>
+        <title type="html"><![CDATA[Experimenting With Scroll-Driven corner-shape Animations]]></title>
+        <id>https://css-tricks.com/?p=392503</id>
+        <link href="https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/"/>
+        <updated>2026-03-23T13:51:15.000Z</updated>
+        <summary type="html"><![CDATA[The new CSS corner-shape() property is mathematical, so it’s easily animated. Author Daniel Schwarz pokes at animating the property for interesting UI effects.
+Experimenting With Scroll-Driven corner-shape Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use MLflow to Manage Your Machine Learning Lifecycle]]></title>
-        <id>69c18bfc30a9b81e3a92bbbd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-mlflow-to-manage-your-machine-learning-lifecycle/"/>
-        <updated>2026-03-23T18:52:44.000Z</updated>
-        <summary type="html"><![CDATA[Training machine learning models usually starts out being organized and ends up in absolute chaos. We’ve all been there: dozens of experiments scattered across random notebooks, and model files saved]]></summary>
-        <author>
-            <name>Temitope Oyedele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code Essentials]]></title>
-        <id>69c1874230a9b81e3a8f2e6d</id>
-        <link href="https://www.freecodecamp.org/news/claude-code-essentials/"/>
-        <updated>2026-03-23T18:32:34.000Z</updated>
-        <summary type="html"><![CDATA[We just published a massive new course on the freeCodeCamp.org YouTube channel that will change the way you think about programming. Instead of just chatting with an AI, you can now learn how to use C]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infrastructure as Code with APIs: How to Automate Cloud Resources the Developer Way]]></title>
-        <id>69c17f3c30a9b81e3a894704</id>
-        <link href="https://www.freecodecamp.org/news/iac-with-apis-how-to-automate-cloud-resources/"/>
-        <updated>2026-03-23T17:58:20.000Z</updated>
-        <summary type="html"><![CDATA[Modern software development moves fast. Teams deploy code many times a day. New environments appear and disappear constantly. In this world, manual infrastructure setup simply doesn't scale. For years]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker Container Doctor: How I Built an AI Agent That Monitors and Fixes My Containers]]></title>
-        <id>69c1768730a9b81e3a833f20</id>
-        <link href="https://www.freecodecamp.org/news/docker-container-doctor-how-i-built-an-ai-agent-that-monitors-and-fixes-my-containers/"/>
-        <updated>2026-03-23T17:21:11.000Z</updated>
-        <summary type="html"><![CDATA[Maybe this sounds familiar: your production container crashes at 3 AM. By the time you wake up, it's been throwing the same error for 2 hours. You SSH in, pull logs, decode the cryptic stack trace, Go]]></summary>
-        <author>
-            <name>Balajee Asish Brahmandam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based Image Converter with JavaScript]]></title>
-        <id>69c173e230a9b81e3a7df8f3</id>
-        <link href="https://www.freecodecamp.org/news/build-a-browser-based-image-converter-using-javascript/"/>
-        <updated>2026-03-23T17:09:54.000Z</updated>
-        <summary type="html"><![CDATA[Image conversion is one of those small tasks developers run into occasionally. You might need to convert a PNG to JPEG to reduce size, or export an image to WebP for better performance. Most developer]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -106,26 +137,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The world still needs people who care - CodePen founder Chris Coyier interview [Podcast #212]]]></title>
-        <id>69bd2ff0edfa9acbe3847525</id>
-        <link href="https://www.freecodecamp.org/news/the-world-still-needs-people-who-care-codepen-founder-chris-coyier-interview-podcast-212/"/>
-        <updated>2026-03-20T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Chris Coyier. He's a front-end developer and co-founder of CodePen and the CSS Tricks blog. He has also recorded more than 700 podcasts about software engineering. We ta]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up WebAuthn in Node.js for Passwordless Biometric Login]]></title>
-        <id>69bc51d6b238fd45a32f1cb0</id>
-        <link href="https://www.freecodecamp.org/news/set-up-webauthn-in-node-js-for-passwordless-biometric-login/"/>
-        <updated>2026-03-19T19:43:18.000Z</updated>
-        <summary type="html"><![CDATA[JWT auth feels clean until a stolen token still looks valid to your server. That's the real problem: a bearer token proves possession of a token, but it doesn't prove possession of a trusted device. I]]></summary>
-        <author>
-            <name>Sumit Saha</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Modal vs. Separate Page: UX Decision Tree]]></title>
         <id>https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/</id>
         <link href="https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/"/>
@@ -136,6 +147,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[JavaScript for Everyone: Destructuring]]></title>
+        <id>https://css-tricks.com/?p=392714</id>
+        <link href="https://css-tricks.com/javascript-for-everyone-destructuring/"/>
+        <updated>2026-03-19T13:06:30.000Z</updated>
+        <summary type="html"><![CDATA[Mat Marquis and Andy Bell have released JavaScript for Everyone, an online course offered exclusively at Piccalilli. This post is an excerpt from the course taken specifically from a chapter all about JavaScript destructuring. 
+JavaScript for Everyone: Destructuring originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Mat Marquis</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow]]></title>
         <id>https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/</id>
         <link href="https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/"/>
@@ -143,6 +165,28 @@
         <summary type="html"><![CDATA[Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alan Cohen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More]]></title>
+        <id>https://css-tricks.com/?p=393021</id>
+        <link href="https://css-tricks.com/whats-important-7/"/>
+        <updated>2026-03-16T15:06:01.000Z</updated>
+        <summary type="html"><![CDATA[For this issue we have random(), folded clip-path corners, anchored container queries, customizable select, scroll-triggered animations, and more.
+What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Reasons That Make Tailwind Great for Building Layouts]]></title>
+        <id>https://css-tricks.com/?p=392180</id>
+        <link href="https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/"/>
+        <updated>2026-03-16T14:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Tailwind is really great for making layouts and there are many reasons why. Zell Liew looks at four specific examples of common use cases.
+4 Reasons That Make Tailwind Great for Building Layouts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
         </author>
     </entry>
     <entry>
@@ -166,6 +210,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Abusing Customizable Selects]]></title>
+        <id>https://css-tricks.com/?p=392463</id>
+        <link href="https://css-tricks.com/abusing-customizable-selects/"/>
+        <updated>2026-03-11T13:59:15.000Z</updated>
+        <summary type="html"><![CDATA[Let’s go over a few demos using the new customizable <select> feature that may be wild, but also give us a great chance to learn new things in CSS.
+Abusing Customizable Selects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Patrick Brosset</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Building Dynamic Forms In React And Next.js]]></title>
         <id>https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/</id>
         <link href="https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/"/>
@@ -173,6 +228,17 @@
         <summary type="html"><![CDATA[Some forms stay UI, while others quietly become rule engines. Here’s why these two different approaches exist and how to choose between them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Sunil Sandhu)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Value of z-index]]></title>
+        <id>https://css-tricks.com/?p=392843</id>
+        <link href="https://css-tricks.com/the-value-of-z-index/"/>
+        <updated>2026-03-09T14:20:01.000Z</updated>
+        <summary type="html"><![CDATA[How we look at the stacking order of our projects, how we choose z-index values, and more importantly, the implications of those choices.
+The Value of z-index originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Amit Sheen</name>
         </author>
     </entry>
     <entry>
@@ -196,6 +262,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Different Ways to Select <html> in CSS]]></title>
+        <id>https://css-tricks.com/?p=392257</id>
+        <link href="https://css-tricks.com/the-different-ways-to-select-html-in-css/"/>
+        <updated>2026-03-05T14:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Sure, we can select the <html> element in CSS with, you know, a simple element selector, html. But what other (trivial and perhaps useless) ways can we do it?
+The Different Ways to Select <html> in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Now Shipping: Accessible UX Research, A New Smashing Book By Michele Williams]]></title>
         <id>https://smashingmagazine.com/2026/03/accessible-ux-research-release/</id>
         <link href="https://smashingmagazine.com/2026/03/accessible-ux-research-release/"/>
@@ -203,6 +280,17 @@
         <summary type="html"><![CDATA[Our newest Smashing Book, “Accessible UX Research” by Michele Williams, is finally shipping worldwide — and we couldn’t be happier! This book is about research, but you’ll also learn about assistive technology, different types of disability, and how to build accessibility into the entire design process. This thoughtful book will get you thinking about ways to make your UX research more inclusive and thorough, no matter your budget or timeline. Jump to the book details or order your copy now.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ari Stiles)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Popover API or Dialog API: Which to Choose?]]></title>
+        <id>https://css-tricks.com/?p=388435</id>
+        <link href="https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/"/>
+        <updated>2026-03-02T15:10:07.000Z</updated>
+        <summary type="html"><![CDATA[Choosing between Popover API and Dialog API is difficult because they seem to do the same job, but they don’t! After a bit lots of research, I discovered that the Popover API and Dialog API are wildly different in terms of accessibility and we'll go over that in this article.
+Popover API or Dialog API: Which to Choose? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
         </author>
     </entry>
     <entry>
@@ -226,6 +314,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More]]></title>
+        <id>https://css-tricks.com/?p=392661</id>
+        <link href="https://css-tricks.com/whats-important-6/"/>
+        <updated>2026-02-27T16:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Despite what’s been a sleepy couple of weeks for new Web Platform Features, we have an issue of What’s !important that’s prrrretty jam-packed. The web community had a lot to say, it seems, so fasten your seatbelts!
+What’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yet Another Way to Center an (Absolute) Element]]></title>
+        <id>https://css-tricks.com/?p=392540</id>
+        <link href="https://css-tricks.com/yet-another-way-to-center-an-absolute-element/"/>
+        <updated>2026-02-27T14:40:42.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR: We can center absolute-positioned elements in three lines of CSS. And it works on all browsers!
+Yet Another Way to Center an (Absolute) Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Say Cheese! Meet SmashingConf Amsterdam 🇳🇱]]></title>
         <id>https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/</id>
         <link href="https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/"/>
@@ -233,6 +343,28 @@
         <summary type="html"><![CDATA[Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Exploit … in CSS?!]]></title>
+        <id>https://css-tricks.com/?p=392606</id>
+        <link href="https://css-tricks.com/an-exploit-in-css/"/>
+        <updated>2026-02-25T21:31:39.000Z</updated>
+        <summary type="html"><![CDATA[Read an explanation of the recent CVE-2026-2441 vulnerability that was labeled a "CSS exploit" that "allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page."
+An Exploit … in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide to Bookmarklets]]></title>
+        <id>https://css-tricks.com/?p=392196</id>
+        <link href="https://css-tricks.com/a-complete-guide-to-bookmarklets/"/>
+        <updated>2026-02-25T14:50:58.000Z</updated>
+        <summary type="html"><![CDATA[Browsers don't just let you bookmark web pages. You can also bookmark JavaScript, allowing you to do so much more than merely save pages.
+A Complete Guide to Bookmarklets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Declan Chidlow</name>
         </author>
     </entry>
 </feed>
