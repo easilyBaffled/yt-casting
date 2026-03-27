@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391438",
+          "author": "Geoff Graham",
+          "description": "Looking at research and experiments that are designed to automatically generate user interfaces based on user preferences.\nGenerative UI Notes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/generative-ui-notes/",
+          "publishedOn": "2026-03-26T14:59:55.000Z",
+          "wordCount": 3171,
+          "title": "Generative UI Notes",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/toolset.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=392503",
           "author": "Daniel Schwarz",
           "description": "The new CSS corner-shape() property is mathematical, so it’s easily animated. Author Daniel Schwarz pokes at animating the property for interesting UI effects.\nExperimenting With Scroll-Driven corner-shape Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/",
           "publishedOn": "2026-03-23T13:51:15.000Z",
-          "wordCount": 3552,
+          "wordCount": 3544,
           "title": "Experimenting With Scroll-Driven corner-shape Animations",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/corner-shape-amimation-1.mp4",
@@ -32,7 +42,7 @@
           "description": "Mat Marquis and Andy Bell have released JavaScript for Everyone, an online course offered exclusively at Piccalilli. This post is an excerpt from the course taken specifically from a chapter all about JavaScript destructuring. \nJavaScript for Everyone: Destructuring originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/javascript-for-everyone-destructuring/",
           "publishedOn": "2026-03-19T13:06:30.000Z",
-          "wordCount": 5783,
+          "wordCount": 5775,
           "title": "JavaScript for Everyone: Destructuring",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/javascript-for-everyone-scaled.png"
         },
@@ -42,7 +52,7 @@
           "description": "For this issue we have random(), folded clip-path corners, anchored container queries, customizable select, scroll-triggered animations, and more.\nWhat’s !important #7: random(), Folded Corners, Anchored Container Queries, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/whats-important-7/",
           "publishedOn": "2026-03-16T15:06:01.000Z",
-          "wordCount": 2649,
+          "wordCount": 2641,
           "title": "What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/wi7.png"
         },
@@ -52,7 +62,7 @@
           "description": "Tailwind is really great for making layouts and there are many reasons why. Zell Liew looks at four specific examples of common use cases.\n4 Reasons That Make Tailwind Great for Building Layouts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/",
           "publishedOn": "2026-03-16T14:01:02.000Z",
-          "wordCount": 3597,
+          "wordCount": 3642,
           "title": "4 Reasons That Make Tailwind Great for Building Layouts",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/tailwind-paint.jpg"
         },
@@ -62,7 +72,7 @@
           "description": "Let’s go over a few demos using the new customizable <select> feature that may be wild, but also give us a great chance to learn new things in CSS.\nAbusing Customizable Selects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/abusing-customizable-selects/",
           "publishedOn": "2026-03-11T13:59:15.000Z",
-          "wordCount": 4933,
+          "wordCount": 4925,
           "title": "Abusing Customizable Selects",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/css-tricks-custom-select-folder-stack.mp4",
@@ -77,7 +87,7 @@
           "description": "How we look at the stacking order of our projects, how we choose z-index values, and more importantly, the implications of those choices.\nThe Value of z-index originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-value-of-z-index/",
           "publishedOn": "2026-03-09T14:20:01.000Z",
-          "wordCount": 4294,
+          "wordCount": 4286,
           "title": "The Value of z-index",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_8926F490CDA74C2CA8D0B6E99405A055C6BF40F4CCE75686F0BAADE6ECBD39FB_1772115867944_image.png"
         },
@@ -87,7 +97,7 @@
           "description": "Sure, we can select the <html> element in CSS with, you know, a simple element selector, html. But what other (trivial and perhaps useless) ways can we do it?\nThe Different Ways to Select <html> in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-different-ways-to-select-html-in-css/",
           "publishedOn": "2026-03-05T14:01:04.000Z",
-          "wordCount": 2650,
+          "wordCount": 2642,
           "title": "The Different Ways to Select <html> in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/02/css-block-html.png"
         },
@@ -97,7 +107,7 @@
           "description": "Choosing between Popover API and Dialog API is difficult because they seem to do the same job, but they don’t! After a bit lots of research, I discovered that the Popover API and Dialog API are wildly different in terms of accessibility and we'll go over that in this article.\nPopover API or Dialog API: Which to Choose? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/",
           "publishedOn": "2026-03-02T15:10:07.000Z",
-          "wordCount": 3931,
+          "wordCount": 3923,
           "title": "Popover API or Dialog API: Which to Choose?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
         },
@@ -107,7 +117,7 @@
           "description": "Despite what’s been a sleepy couple of weeks for new Web Platform Features, we have an issue of What’s !important that’s prrrretty jam-packed. The web community had a lot to say, it seems, so fasten your seatbelts!\nWhat’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/whats-important-6/",
           "publishedOn": "2026-02-27T16:30:22.000Z",
-          "wordCount": 3174,
+          "wordCount": 3166,
           "title": "What’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/border-shape.mp4",
@@ -122,7 +132,7 @@
           "description": "TL;DR: We can center absolute-positioned elements in three lines of CSS. And it works on all browsers!\nYet Another Way to Center an (Absolute) Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/yet-another-way-to-center-an-absolute-element/",
           "publishedOn": "2026-02-27T14:40:42.000Z",
-          "wordCount": 2884,
+          "wordCount": 2876,
           "title": "Yet Another Way to Center an (Absolute) Element",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2014/09/guide-centering.png"
         },
@@ -132,7 +142,7 @@
           "description": "Read an explanation of the recent CVE-2026-2441 vulnerability that was labeled a \"CSS exploit\" that \"allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page.\"\nAn Exploit … in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/an-exploit-in-css/",
           "publishedOn": "2026-02-25T21:31:39.000Z",
-          "wordCount": 3782,
+          "wordCount": 3774,
           "title": "An Exploit … in CSS?!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/code-magnify.png"
         },
@@ -142,7 +152,7 @@
           "description": "Browsers don't just let you bookmark web pages. You can also bookmark JavaScript, allowing you to do so much more than merely save pages.\nA Complete Guide to Bookmarklets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/a-complete-guide-to-bookmarklets/",
           "publishedOn": "2026-02-25T14:50:58.000Z",
-          "wordCount": 3679,
+          "wordCount": 3671,
           "title": "A Complete Guide to Bookmarklets",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/02/bookmarklets.png"
         }
@@ -154,12 +164,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
+          "author": "hello@smashingmagazine.com (Carrie Webster)",
+          "description": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?",
+          "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
+          "publishedOn": "2026-03-26T10:00:00.000Z",
+          "wordCount": 4840,
+          "title": "The Site-Search Paradox: Why The Big Box Always Wins",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
           "author": "hello@smashingmagazine.com (Ruben Ferreira Duarte)",
           "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
           "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
           "publishedOn": "2026-03-24T13:00:00.000Z",
-          "wordCount": 6098,
+          "wordCount": 6094,
           "title": "Testing Font Scaling For Accessibility With Figma Variables",
           "enclosure": {
             "url": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
@@ -174,7 +199,7 @@
           "description": "Dropdowns often work perfectly until they’re placed inside a scrollable panel, where they can get clipped, and half the menu disappears behind the container’s edge. Godstime Aburu explains why this happens and offers practical solutions to fix it.",
           "link": "https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/",
           "publishedOn": "2026-03-20T13:00:00.000Z",
-          "wordCount": 5127,
+          "wordCount": 5126,
           "title": "Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Properly",
           "enclosure": {
             "url": "http://files.smashing.media/articles/dropdowns-scrollable-containers-why-break-how-fix/dropdowns-scrollable-containers-why-break-how-fix.jpg",
@@ -204,7 +229,7 @@
           "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.",
           "link": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
           "publishedOn": "2026-03-17T10:00:00.000Z",
-          "wordCount": 4479,
+          "wordCount": 4473,
           "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/anime-marvel-dc-designing-digital-products-emotion-flow.jpg",
@@ -219,7 +244,7 @@
           "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.",
           "link": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
           "publishedOn": "2026-03-13T13:00:00.000Z",
-          "wordCount": 6495,
+          "wordCount": 6478,
           "title": "Moving From Moment.js To The JS Temporal API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg",
@@ -234,7 +259,7 @@
           "description": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.",
           "link": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
           "publishedOn": "2026-03-12T10:00:00.000Z",
-          "wordCount": 5107,
+          "wordCount": 5103,
           "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-border-radius-css-corner-shape-property-ui/beyond-border-radius-css-corner-shape-property-ui.jpg",
@@ -264,7 +289,7 @@
           "description": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxboe updates persuasive design for today’s reality, clarifying what has actually held up over the last decade.",
           "link": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
           "publishedOn": "2026-03-09T11:00:00.000Z",
-          "wordCount": 7455,
+          "wordCount": 7465,
           "title": "Persuasive Design: Ten Years Later",
           "enclosure": {
             "url": "http://files.smashing.media/articles/persuasive-design-ten-years-later/persuasive-design-ten-years-later.jpg",
@@ -279,7 +304,7 @@
           "description": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about creating interfaces. It’s about navigating ambiguity, advocating for humans in systems optimised for efficiency, and solving their problems through thoughtful design.",
           "link": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
           "publishedOn": "2026-03-06T08:00:00.000Z",
-          "wordCount": 4579,
+          "wordCount": 4572,
           "title": "Human Strategy In An AI-Accelerated Workflow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-strategy-ai-accelerated-workflow/human-strategy-ai-accelerated-workflow.jpg",
@@ -309,7 +334,7 @@
           "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.",
           "link": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
           "publishedOn": "2026-03-02T10:00:00.000Z",
-          "wordCount": 5656,
+          "wordCount": 5645,
           "title": "Getting Started With The Popover API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg",
@@ -324,7 +349,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
           "publishedOn": "2026-02-28T09:00:00.000Z",
-          "wordCount": 4410,
+          "wordCount": 4519,
           "title": "Fresh Energy In March (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a44be9ea-24bd-4614-aa0d-c45b03012f43/mar-15-wake-up-preview-opt.png",
@@ -339,7 +364,7 @@
           "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
           "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
           "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 4073,
+          "wordCount": 4063,
           "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
           "enclosure": {
             "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
@@ -356,104 +381,104 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
-          "id": "69c44e2e10e664c5daf048d3",
-          "author": "Vahe Aslanyan",
-          "description": "\"I have never enjoyed coding as much as I do today — because I no longer have to deal with the minutia.\" — Boris Cherny, Head of Claude Code, Anthropic This handbook is a complete, professional intro",
-          "link": "https://www.freecodecamp.org/news/claude-code-handbook/",
-          "publishedOn": "2026-03-25T21:05:50.000Z",
-          "wordCount": 19988,
-          "title": "The Claude Code Handbook: A Professional Introduction to Building with AI-Assisted Development",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f9a4a36f-875f-4937-b39b-13f41eab0a75.png"
+          "id": "69c5a33110e664c5da34c6d3",
+          "author": "Tapas Adhikary",
+          "description": "Have you ever faced a situation as a frontend developer where you needed to show a demo to your product manager, and something was broken in the API response? Or, a production bug where you were block",
+          "link": "https://www.freecodecamp.org/news/how-to-override-api-responses-and-headers-in-chrome-devtools/",
+          "publishedOn": "2026-03-26T21:20:49.000Z",
+          "wordCount": 2724,
+          "title": "How to Override API Responses and Headers in Chrome DevTools: A Step-by-Step Guide",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a2fee8e9-cb71-4065-af8e-ef0357e6ca2c.png"
         },
         {
-          "id": "69c44d7d10e664c5daefbf5c",
-          "author": "Daria Filozop",
-          "description": "Hi! I'm Daria, and I'm a software engineering student with a keen interest in data visualization. I've been actively exploring various visualization tools through small pet projects, and I'd like to s",
-          "link": "https://www.freecodecamp.org/news/build-an-interactive-ranking-system-using-react-and-data-viz-tools/",
-          "publishedOn": "2026-03-25T21:02:53.000Z",
-          "wordCount": 2714,
-          "title": "How to Build an Interactive University Ranking System Using React and Data Viz Tools",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5f31dd6f-e199-4cf3-a76a-daf985a4e7d7.png"
+          "id": "69c5a2af10e664c5da34709b",
+          "author": "Orim Dominic Adah",
+          "description": "The Web Speech API is a web browser API that enables web applications to use sound as data in their operations. With the API, web apps can transcribe the speech in sound input and also synthesise spee",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-voice-powered-ai-application-with-the-web-speech-api/",
+          "publishedOn": "2026-03-26T21:18:39.000Z",
+          "wordCount": 4512,
+          "title": "How to Build a Voice-Powered AI Application with the Web Speech API",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d6c77704-8ad6-4852-8a10-6656c76a34f4.png"
         },
         {
-          "id": "69c4433010e664c5dae7ca88",
+          "id": "69c557bd10e664c5daf283c3",
+          "author": "Tatev Aslanyan",
+          "description": "The healthcare industry is undergoing a profound transformation powered by artificial intelligence (AI) and data science. No longer limited to administrative automation or basic chat tools, AI now pla",
+          "link": "https://www.freecodecamp.org/news/ai-in-healthcare-handbook-intelligent-care-from-lab-to-clinic/",
+          "publishedOn": "2026-03-26T15:58:53.000Z",
+          "wordCount": 17523,
+          "title": "The AI in Healthcare Handbook: Intelligent Care from Lab to Clinic",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762904104942/4de96e11-f822-44c2-b6ca-3b0f7b5888f4.png"
+        },
+        {
+          "id": "69c54b8510e664c5dae65e6c",
           "author": "Beau Carnes",
-          "description": "Hugging Face has become the \"operating system\" of the modern AI revolution. We just posted a comprehensive new course on the freeCodeCamp.org YouTube channel that will teach you about Hugging Face and",
-          "link": "https://www.freecodecamp.org/news/deploying-ai-models-with-hugging-face/",
-          "publishedOn": "2026-03-25T20:18:56.000Z",
-          "wordCount": 1029,
-          "title": "Deploying AI Models with Hugging Face",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/506e78e3-e32a-4e4e-b8ba-806e900732f8.jpg"
+          "description": "AI literacy isn’t just for developers anymore. It’s a fundamental skill for navigating the modern world. We just posted a course on the freeCodeCamp YouTube channel that will help anyone learn how the",
+          "link": "https://www.freecodecamp.org/news/ai-literacy-for-everybody/",
+          "publishedOn": "2026-03-26T15:06:45.000Z",
+          "wordCount": 1111,
+          "title": "AI Literacy for Everybody",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/73b9d85a-6769-4bf9-822d-cd4142fe5b6e.jpg"
         },
         {
-          "id": "69c41cdf10e664c5dacd6389",
-          "author": "Aiyedogbon Abraham",
-          "description": "Google Maps has been the default choice for developers building location-based applications for years. But for many teams, especially those operating at scale, pricing has become a real concern. Googl",
-          "link": "https://www.freecodecamp.org/news/how-to-use-openstreetmap-free-alternative-to-google-maps/",
-          "publishedOn": "2026-03-25T17:35:27.000Z",
-          "wordCount": 2631,
-          "title": "How to Use OpenStreetMap as a Free Alternative to Google Maps",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0ab3655a-4212-451d-93e1-5c707ed1b07e.png"
+          "id": "69c5490d10e664c5dae3f95e",
+          "author": "Beau Carnes",
+          "description": "Cluade Code can supercharge your software development. We just posted a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Claude Code to build real-world agentic codin",
+          "link": "https://www.freecodecamp.org/news/claude-code-essentials-exampro/",
+          "publishedOn": "2026-03-26T14:56:13.000Z",
+          "wordCount": 1168,
+          "title": "Claude Code Essentials",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/3530a6a9-65d5-4c5c-9a89-0ac85cc2053a.jpg"
         },
         {
-          "id": "69c4173d10e664c5dac8cea1",
-          "author": "Paul Babatuyi",
-          "description": "The Hidden Bugs in How Most Developers Store Money Imagine you're building the backend for a million-dollar fintech app. You store each user's balance as a single number in the database. It feels simp",
-          "link": "https://www.freecodecamp.org/news/build-a-bank-ledger-in-go-with-postgresql-using-the-double-entry-accounting-principle/",
-          "publishedOn": "2026-03-25T17:11:25.000Z",
-          "wordCount": 5041,
-          "title": "How to Build a Bank Ledger in Golang with PostgreSQL using the Double-Entry Accounting Principle.",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/faea1d4c-5319-4746-96b0-315f37017e26.png"
+          "id": "69c541f010e664c5dadc877e",
+          "author": "Osomudeya Zudonu",
+          "description": "If someone asked you how secrets flow from AWS Secrets Manager into a running pod, could you explain it confidently? Storing them is straightforward. But handling rotation, stale env vars, and the gap",
+          "link": "https://www.freecodecamp.org/news/how-to-sync-aws-secrets-manager-secrets-into-kubernetes-with-the-external-secrets-operator/",
+          "publishedOn": "2026-03-26T14:25:52.000Z",
+          "wordCount": 4080,
+          "title": "How to Sync AWS Secrets Manager Secrets into Kubernetes with the External Secrets Operator",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6cca126e-dd50-4400-ae9d-65449581345b.png"
         },
         {
-          "id": "69c4123410e664c5dac5298f",
-          "author": "Christopher Galliart",
-          "description": "Ask an AI coding agent to build a feature and it will probably do a decent job. Ask it to review its own work and it will tell you everything looks great. This is the fundamental problem with single-p",
-          "link": "https://www.freecodecamp.org/news/how-to-apply-gan-architecture-to-multi-agent-code-generation/",
-          "publishedOn": "2026-03-25T16:49:56.000Z",
-          "wordCount": 4171,
-          "title": "How to Apply GAN Architecture to Multi-Agent Code Generation",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3c06f375-0e26-427d-9659-b3be60716492.png"
+          "id": "69c5415810e664c5dadbf6e0",
+          "author": "Mokshita V P",
+          "description": "If you've ever modified a variable inside a Python function and been surprised or confused by what happened to it outside the function, you're not alone. This tripped me up for a long time. Coming fro",
+          "link": "https://www.freecodecamp.org/news/how-passing-by-object-reference-works-in-python/",
+          "publishedOn": "2026-03-26T14:23:20.000Z",
+          "wordCount": 1528,
+          "title": "How Passing by Object Reference Works in Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0fb11934-22c6-4304-948c-54c7d423c79d.png"
         },
         {
-          "id": "69c4112310e664c5dac43f41",
-          "author": "Destiny Erhabor",
-          "description": "In 2018, RedLock's cloud security research team discovered that Tesla's Kubernetes dashboard was exposed to the public internet with no password on it. An attacker had found it, deployed pods inside T",
-          "link": "https://www.freecodecamp.org/news/how-to-secure-a-kubernetes-cluster-handbook/",
-          "publishedOn": "2026-03-25T16:45:23.000Z",
-          "wordCount": 8083,
-          "title": "How to Secure a Kubernetes Cluster: RBAC, Pod Hardening, and Runtime Protection",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4039b7a4-bb45-4df5-b13b-7414985c1a7e.png"
+          "id": "69c51cf610e664c5dab6fcad",
+          "author": "Estefania Cassingena Navone",
+          "description": "SQL (Structured Query Language) is the standard language for managing and manipulating data in relational databases. It's an essential tool that allows you to communicate with the databases that power",
+          "link": "https://www.freecodecamp.org/news/learn-sql-course-for-beginners-in-spanish/",
+          "publishedOn": "2026-03-26T11:48:06.000Z",
+          "wordCount": 1310,
+          "title": "Learn SQL – Course for Beginners in Spanish",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/6354793a48f6ebd7a37ed09c/0ddf40a7-19b7-4601-924e-3eb6c4e8cac5.png"
         },
         {
-          "id": "69c4104010e664c5dac37aed",
-          "author": "Nikhil Adithyan",
-          "description": "LLMs are great at writing market commentary. The problem is they can sound confident even when they haven't looked at any data. That’s fine for casual chat, but it’s not fine if you’re building a feat",
-          "link": "https://www.freecodecamp.org/news/how-to-use-mcp-to-build-a-personal-financial-assistant/",
-          "publishedOn": "2026-03-25T16:41:36.000Z",
-          "wordCount": 6502,
-          "title": "How to Use the Model Context Protocol to Build a Personal Financial Assistant",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d0911eef-bfd9-49f7-92ce-8890d8222efd.png"
+          "id": "69c46b2610e664c5da070aa0",
+          "author": "Grant Riordan",
+          "description": "When you're working with .NET, interacting with databases (particularly SQL databases) is inevitable. Common approaches involve using ORM (Object Relational Mapping) with tools like Entity Framework.",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-dapper-in-net/",
+          "publishedOn": "2026-03-25T23:09:26.000Z",
+          "wordCount": 5838,
+          "title": "How to Work With Dapper in .Net",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/66b52b176a1b17f6b28d9822/d091bd67-ef80-4cae-ad84-3dc5b79ca73b.jpg"
         },
         {
-          "id": "69c1dcba30a9b81e3ac436d8",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "If you've spent any time shipping Flutter apps manually, you already know the drill. Someone on the team finishes a feature, builds the APK locally, signs it (hopefully with the right keystore), uploa",
-          "link": "https://www.freecodecamp.org/news/build-a-complete-flutter-ci-cd-pipeline-with-codemagic/",
-          "publishedOn": "2026-03-24T00:37:14.000Z",
-          "wordCount": 5235,
-          "title": "How to Build a Complete Flutter CI/CD Pipeline with Codemagic: From PR Quality Gates to Automated Store Releases",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/914de6f3-5b7f-48ff-a092-1f8d095202e5.png"
-        },
-        {
-          "id": "69c1dc5930a9b81e3ac400fc",
-          "author": "Daniel Nwaneri",
-          "description": "I spent 64% of my weekly Claude budget before Wednesday building a tool designed to reduce Claude usage. That's the kind of irony that deserves its own specification. The tool is spec-writer: a Claude",
-          "link": "https://www.freecodecamp.org/news/how-to-stop-letting-ai-agents-guess-your-requirements/",
-          "publishedOn": "2026-03-24T00:35:37.000Z",
-          "wordCount": 3343,
-          "title": "How to Stop Letting AI Agents Guess Your Requirements",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/06a3ff85-4d60-4e05-b494-8d2f3e6024ac.png"
+          "id": "69c46ab210e664c5da06ac46",
+          "author": "Olasunkanmi Emmanuel Jesuferanmi",
+          "description": "These days, businesses and startups rely on well-designed databases to manage vast amounts of data. In domains like Healthcare, E-commerce, and Fintech/Banking, a solid database design ensures data in",
+          "link": "https://www.freecodecamp.org/news/an-introduction-to-database-system-design/",
+          "publishedOn": "2026-03-25T23:07:30.000Z",
+          "wordCount": 3982,
+          "title": "An Introduction to Database System Design",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e0c4195f-9f09-45f4-99d1-977c02731b02.png"
         }
       ]
     }
