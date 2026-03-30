@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-29T00:52:45.798Z</id>
+    <id>urn:2026-03-30T00:52:49.499Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-29T00:52:45.798Z</updated>
+    <updated>2026-03-30T00:52:49.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -322,38 +322,6 @@ Popover API or Dialog API: Which to Choose? originally published on CSS-Tricks, 
         <summary type="html"><![CDATA[What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Godstime Aburu)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fresh Energy In March (2026 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/</id>
-        <link href="https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/"/>
-        <updated>2026-02-28T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More]]></title>
-        <id>https://css-tricks.com/?p=392661</id>
-        <link href="https://css-tricks.com/whats-important-6/"/>
-        <updated>2026-02-27T16:30:22.000Z</updated>
-        <summary type="html"><![CDATA[Despite what’s been a sleepy couple of weeks for new Web Platform Features, we have an issue of What’s !important that’s prrrretty jam-packed. The web community had a lot to say, it seems, so fasten your seatbelts!
-What’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yet Another Way to Center an (Absolute) Element]]></title>
-        <id>https://css-tricks.com/?p=392540</id>
-        <link href="https://css-tricks.com/yet-another-way-to-center-an-absolute-element/"/>
-        <updated>2026-02-27T14:40:42.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR: We can center absolute-positioned elements in three lines of CSS. And it works on all browsers!
-Yet Another Way to Center an (Absolute) Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
