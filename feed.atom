@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-30T00:52:49.499Z</id>
+    <id>urn:2026-03-31T00:49:56.736Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-30T00:52:49.499Z</updated>
+    <updated>2026-03-31T00:49:56.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Design a Type-Safe, Lazy, and Secure Plugin Architecture in React]]></title>
+        <id>69caa5bc9fffa747404dbd51</id>
+        <link href="https://www.freecodecamp.org/news/how-to-design-a-type-safe-lazy-and-secure-plugin-architecture-in-react/"/>
+        <updated>2026-03-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern web applications increasingly need to evolve faster than a single team can maintain a monolithic codebase. Product teams often want to add features independently, experiment with new capabiliti]]></summary>
+        <author>
+            <name>Jessica Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a QR Code Generator Using JavaScript – A Step-by-Step Guide]]></title>
+        <id>69ca871b9fffa74740319797</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-qr-code-generator-using-javascript/"/>
+        <updated>2026-03-30T14:22:19.000Z</updated>
+        <summary type="html"><![CDATA[QR codes are everywhere today. You scan them to open websites, make payments, connect to WiFi, or even download apps. Most developers use online tools when they need one quickly. But just like image c]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Animated Shadcn Tab Component with Shadcn/ui]]></title>
+        <id>69ca85f69fffa747403074fe</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-animated-shadcn-tab-component-with-shadcn-ui/"/>
+        <updated>2026-03-30T14:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Tab components are everywhere: dashboards, settings panels, product pages. But most implementations are static, lifeless, and forgettable. What if your tabs felt alive, with smooth spring animations,]]></summary>
+        <author>
+            <name>Vaibhav Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Form Automation Tips for Happier User and Clients]]></title>
+        <id>https://css-tricks.com/?p=391993</id>
+        <link href="https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/"/>
+        <updated>2026-03-30T14:12:14.000Z</updated>
+        <summary type="html"><![CDATA[That gap between "the form works" and "the business works" is something we don't really tend to discuss much as front-enders. We focus a great deal on user experience, validation methods, and accessibility, yet we overlook what the data does once it leaves our control
+Form Automation Tips for Happier User and Clients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Iqra Naaem</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Implement Token Bucket Rate Limiting with FastAPI]]></title>
         <id>69c6f8747cf270651055571c</id>
@@ -73,36 +114,6 @@
         <summary type="html"><![CDATA[Cloud-native development enables enterprise .NET applications to scale and remain resilient in the cloud. Using Azure DevOps CI/CD pipelines, you can automate building, testing, and deploying applicat]]></summary>
         <author>
             <name>Gopinath Karunanithi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create and Use Checkboxes in Figma]]></title>
-        <id>69c6a8f79aa3928a58bf4237</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-and-use-checkboxes-in-figma/"/>
-        <updated>2026-03-27T15:57:43.000Z</updated>
-        <summary type="html"><![CDATA[Checkboxes are a fundamental part of modern UI design. They allow users to make multiple selections, confirm actions, and control features with ease. And while they may appear simple, designing intera]]></summary>
-        <author>
-            <name>Abhijeet Dave</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What happens when the model CAN'T fix it? Interview with software engineer Landon Gray [Podcast #213]]]></title>
-        <id>69c663a8267178d9ebf9a641</id>
-        <link href="https://www.freecodecamp.org/news/what-happens-when-the-model-can-t-fix-it-interview-with-software-engineer-landon-gray-podcast-213/"/>
-        <updated>2026-03-27T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Landon Gray. He's a software engineer who worked at agencies for years. Then he taught himself AI assisted software development. And now he's helping other devs do the s]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Override API Responses and Headers in Chrome DevTools: A Step-by-Step Guide]]></title>
-        <id>69c5a33110e664c5da34c6d3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-override-api-responses-and-headers-in-chrome-devtools/"/>
-        <updated>2026-03-26T21:20:49.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever faced a situation as a frontend developer where you needed to show a demo to your product manager, and something was broken in the API response? Or, a production bug where you were block]]></summary>
-        <author>
-            <name>Tapas Adhikary</name>
         </author>
     </entry>
     <entry>
