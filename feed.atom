@@ -1,14 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-02T00:47:37.576Z</id>
+    <id>urn:2026-04-03T00:49:49.902Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-02T00:47:37.576Z</updated>
+    <updated>2026-04-03T00:49:49.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[AI Tools for Developers –]]></title>
+        <title type="html"><![CDATA[Automate Your Sales Pipeline with Claude and Obsidian]]></title>
+        <id>69cea35e0ff860b6de16a788</id>
+        <link href="https://www.freecodecamp.org/news/automate-your-sales-pipeline-with-claude-and-obsidian/"/>
+        <updated>2026-04-02T17:11:58.000Z</updated>
+        <summary type="html"><![CDATA[For many software engineers and SaaS founders, writing code is the easy part. But the marketing and sales grind feels like an uphill battle. If you’d rather be building features than chasing leads you]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Full-Stack SaaS App with TanStack Start, Elysia, and Neon]]></title>
+        <id>69ce8f9b0ff860b6defe701d</id>
+        <link href="https://www.freecodecamp.org/news/full-stack-saas-tanstack-start-elysia-neon/"/>
+        <updated>2026-04-02T15:47:39.000Z</updated>
+        <summary type="html"><![CDATA[Most full-stack React tutorials stop at "Hello World." They show you how to render a component, maybe fetch some data, and call it a day. But when you sit down to build a real SaaS application, you im]]></summary>
+        <author>
+            <name>Magnus Rødseth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bad Website Club is Running a Free Responsive Web Design Bootcamp Based on freeCodeCamp]]></title>
+        <id>69ce8df10ff860b6defc7074</id>
+        <link href="https://www.freecodecamp.org/news/bad-website-club-bootcamp-based-on-freecodecamp-rwd-cert/"/>
+        <updated>2026-04-02T15:40:33.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! We (Jess, Carmen, and Eda) are excited to announce the next installation of our free and online bootcamp. We support learners as they work their way through the freeCodeCamp Responsive We]]></summary>
+        <author>
+            <name>Eda Eren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Complex CSS Shapes Using shape()]]></title>
+        <id>https://css-tricks.com/?p=392986</id>
+        <link href="https://css-tricks.com/complex-css-shapes-with-shape-function/"/>
+        <updated>2026-04-02T13:58:24.000Z</updated>
+        <summary type="html"><![CDATA[Creating rectangles, circles, and rounded rectangles is the basic of CSS. Creating more complex CSS shapes such as triangles, hexagons, stars, hearts, etc. is more challenging but still a simple task if we rely on modern features.
+Making Complex CSS Shapes Using shape() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Tools for Developers – OpenClaw, GitHub Copilot, Claude Code, CodeRabbit, Gemini CLI]]></title>
         <id>69cd715a3085402b9c54b3fe</id>
-        <link href="https://www.freecodecamp.org/news/ai-tools-for-developers/"/>
+        <link href="https://www.freecodecamp.org/news/ai-tools-for-developers-openclaw-github-copilot-claude-code-coderabbit-gemini-cli/"/>
         <updated>2026-04-01T19:26:18.000Z</updated>
         <summary type="html"><![CDATA[Using AI tools is an important part of being a software developer. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use AI tools to become more productive as]]></summary>
         <author>
@@ -129,16 +170,6 @@ What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build an Animated Shadcn Tab Component with Shadcn/ui]]></title>
-        <id>69ca85f69fffa747403074fe</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-animated-shadcn-tab-component-with-shadcn-ui/"/>
-        <updated>2026-03-30T14:17:26.000Z</updated>
-        <summary type="html"><![CDATA[Tab components are everywhere: dashboards, settings panels, product pages. But most implementations are static, lifeless, and forgettable. What if your tabs felt alive, with smooth spring animations,]]></summary>
-        <author>
-            <name>Vaibhav Gupta</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Form Automation Tips for Happier User and Clients]]></title>
         <id>https://css-tricks.com/?p=391993</id>
         <link href="https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/"/>
@@ -147,26 +178,6 @@ What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More o
 Form Automation Tips for Happier User and Clients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Iqra Naaem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Token Bucket Rate Limiting with FastAPI]]></title>
-        <id>69c6f8747cf270651055571c</id>
-        <link href="https://www.freecodecamp.org/news/token-bucket-rate-limiting-fastapi/"/>
-        <updated>2026-03-27T21:36:52.000Z</updated>
-        <summary type="html"><![CDATA[APIs power everything from mobile apps to enterprise platforms, quietly handling millions of requests per day. Without safeguards, a single misconfigured client or a burst of automated traffic can ove]]></summary>
-        <author>
-            <name>Prosper Ugbovo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your Own Claude Code Skill]]></title>
-        <id>69c6ecde7cf27065104cd8a1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-claude-code-skill/"/>
-        <updated>2026-03-27T20:47:26.000Z</updated>
-        <summary type="html"><![CDATA[Every developer eventually has a workflow they repeat. A way they write commit messages. A checklist they run before opening a pull request. A structure they follow when reviewing code. They do it man]]></summary>
-        <author>
-            <name>Daniel Nwaneri</name>
         </author>
     </entry>
     <entry>
@@ -355,16 +366,6 @@ The Value of z-index originally published on CSS-Tricks, which is part of the Di
 The Different Ways to Select <html> in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Now Shipping: Accessible UX Research, A New Smashing Book By Michele Williams]]></title>
-        <id>https://smashingmagazine.com/2026/03/accessible-ux-research-release/</id>
-        <link href="https://smashingmagazine.com/2026/03/accessible-ux-research-release/"/>
-        <updated>2026-03-03T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Our newest Smashing Book, “Accessible UX Research” by Michele Williams, is finally shipping worldwide — and we couldn’t be happier! This book is about research, but you’ll also learn about assistive technology, different types of disability, and how to build accessibility into the entire design process. This thoughtful book will get you thinking about ways to make your UX research more inclusive and thorough, no matter your budget or timeline. Jump to the book details or order your copy now.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ari Stiles)</name>
         </author>
     </entry>
 </feed>

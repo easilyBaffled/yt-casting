@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=392986",
+          "author": "Temani Afif",
+          "description": "Creating rectangles, circles, and rounded rectangles is the basic of CSS. Creating more complex CSS shapes such as triangles, hexagons, stars, hearts, etc. is more challenging but still a simple task if we rely on modern features.\nMaking Complex CSS Shapes Using shape() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/complex-css-shapes-with-shape-function/",
+          "publishedOn": "2026-04-02T13:58:24.000Z",
+          "wordCount": 3540,
+          "title": "Making Complex CSS Shapes Using shape()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/complex-css-shapes-shape-function.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=392794",
           "author": "Lee Meyer",
           "description": "These are the historical pranks I consider the top 10 most noteworthy, rather than the “best.” You’ll see that some of them crossed the line and/or backfired.\nFront-End Fools: Top 10 April Fools’ UI Pranks of All Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/front-end-april-fools-top-10/",
           "publishedOn": "2026-04-01T14:00:26.000Z",
-          "wordCount": 4840,
+          "wordCount": 4866,
           "title": "Front-End Fools: Top 10 April Fools’ UI Pranks of All Time",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/emoji-laughing.webp"
         },
@@ -37,7 +47,7 @@
           "description": "Short n’ sweet but ever so neat, this issue covers light/dark favicons, @mixin, anchor-interpolated morphing, object-view-box, new web features, and more.\nWhat’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/whats-important-8/",
           "publishedOn": "2026-03-31T14:14:07.000Z",
-          "wordCount": 2760,
+          "wordCount": 2785,
           "title": "What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/wh8.png"
         },
@@ -112,7 +122,7 @@
           "description": "Let’s go over a few demos using the new customizable <select> feature that may be wild, but also give us a great chance to learn new things in CSS.\nAbusing Customizable Selects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/abusing-customizable-selects/",
           "publishedOn": "2026-03-11T13:59:15.000Z",
-          "wordCount": 4984,
+          "wordCount": 4999,
           "title": "Abusing Customizable Selects",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/css-tricks-custom-select-folder-stack.mp4",
@@ -169,7 +179,7 @@
           "description": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
           "publishedOn": "2026-03-31T11:00:00.000Z",
-          "wordCount": 4326,
+          "wordCount": 4340,
           "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
@@ -184,7 +194,7 @@
           "description": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?",
           "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
           "publishedOn": "2026-03-26T10:00:00.000Z",
-          "wordCount": 4825,
+          "wordCount": 4839,
           "title": "The Site-Search Paradox: Why The Big Box Always Wins",
           "enclosure": {
             "url": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg",
@@ -199,7 +209,7 @@
           "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
           "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
           "publishedOn": "2026-03-24T13:00:00.000Z",
-          "wordCount": 6092,
+          "wordCount": 6208,
           "title": "Testing Font Scaling For Accessibility With Figma Variables",
           "enclosure": {
             "url": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
@@ -214,7 +224,7 @@
           "description": "Dropdowns often work perfectly until they’re placed inside a scrollable panel, where they can get clipped, and half the menu disappears behind the container’s edge. Godstime Aburu explains why this happens and offers practical solutions to fix it.",
           "link": "https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/",
           "publishedOn": "2026-03-20T13:00:00.000Z",
-          "wordCount": 5124,
+          "wordCount": 5130,
           "title": "Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Properly",
           "enclosure": {
             "url": "http://files.smashing.media/articles/dropdowns-scrollable-containers-why-break-how-fix/dropdowns-scrollable-containers-why-break-how-fix.jpg",
@@ -244,7 +254,7 @@
           "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.",
           "link": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
           "publishedOn": "2026-03-17T10:00:00.000Z",
-          "wordCount": 4475,
+          "wordCount": 4474,
           "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/anime-marvel-dc-designing-digital-products-emotion-flow.jpg",
@@ -259,7 +269,7 @@
           "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.",
           "link": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
           "publishedOn": "2026-03-13T13:00:00.000Z",
-          "wordCount": 6484,
+          "wordCount": 6482,
           "title": "Moving From Moment.js To The JS Temporal API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg",
@@ -274,7 +284,7 @@
           "description": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.",
           "link": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
           "publishedOn": "2026-03-12T10:00:00.000Z",
-          "wordCount": 5090,
+          "wordCount": 5093,
           "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-border-radius-css-corner-shape-property-ui/beyond-border-radius-css-corner-shape-property-ui.jpg",
@@ -304,7 +314,7 @@
           "description": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxboe updates persuasive design for today’s reality, clarifying what has actually held up over the last decade.",
           "link": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
           "publishedOn": "2026-03-09T11:00:00.000Z",
-          "wordCount": 7466,
+          "wordCount": 7461,
           "title": "Persuasive Design: Ten Years Later",
           "enclosure": {
             "url": "http://files.smashing.media/articles/persuasive-design-ten-years-later/persuasive-design-ten-years-later.jpg",
@@ -319,7 +329,7 @@
           "description": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about creating interfaces. It’s about navigating ambiguity, advocating for humans in systems optimised for efficiency, and solving their problems through thoughtful design.",
           "link": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
           "publishedOn": "2026-03-06T08:00:00.000Z",
-          "wordCount": 4569,
+          "wordCount": 4567,
           "title": "Human Strategy In An AI-Accelerated Workflow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-strategy-ai-accelerated-workflow/human-strategy-ai-accelerated-workflow.jpg",
@@ -327,21 +337,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/human-strategy-ai-accelerated-workflow/human-strategy-ai-accelerated-workflow.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/03/accessible-ux-research-release/",
-          "author": "hello@smashingmagazine.com (Ari Stiles)",
-          "description": "Our newest Smashing Book, “Accessible UX Research” by Michele Williams, is finally shipping worldwide — and we couldn’t be happier! This book is about research, but you’ll also learn about assistive technology, different types of disability, and how to build accessibility into the entire design process. This thoughtful book will get you thinking about ways to make your UX research more inclusive and thorough, no matter your budget or timeline. Jump to the book details or order your copy now.",
-          "link": "https://smashingmagazine.com/2026/03/accessible-ux-research-release/",
-          "publishedOn": "2026-03-03T15:00:00.000Z",
-          "wordCount": 4112,
-          "title": "Now Shipping: Accessible UX Research, A New Smashing Book By Michele Williams",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/accessible-ux-research-release/accessible-ux-research-coffee.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/accessible-ux-research-release/accessible-ux-research-coffee.png"
         }
       ]
     },
@@ -351,13 +346,43 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "69cea35e0ff860b6de16a788",
+          "author": "Beau Carnes",
+          "description": "For many software engineers and SaaS founders, writing code is the easy part. But the marketing and sales grind feels like an uphill battle. If you’d rather be building features than chasing leads you",
+          "link": "https://www.freecodecamp.org/news/automate-your-sales-pipeline-with-claude-and-obsidian/",
+          "publishedOn": "2026-04-02T17:11:58.000Z",
+          "wordCount": 1079,
+          "title": "Automate Your Sales Pipeline with Claude and Obsidian",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/77f3c459-261a-46f1-b531-d1519d5acabd.jpg"
+        },
+        {
+          "id": "69ce8f9b0ff860b6defe701d",
+          "author": "Magnus Rødseth",
+          "description": "Most full-stack React tutorials stop at \"Hello World.\" They show you how to render a component, maybe fetch some data, and call it a day. But when you sit down to build a real SaaS application, you im",
+          "link": "https://www.freecodecamp.org/news/full-stack-saas-tanstack-start-elysia-neon/",
+          "publishedOn": "2026-04-02T15:47:39.000Z",
+          "wordCount": 10265,
+          "title": "How to Build a Full-Stack SaaS App with TanStack Start, Elysia, and Neon",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ae3ac13a-e6b4-4498-aa32-ebd8c60c44a2.png"
+        },
+        {
+          "id": "69ce8df10ff860b6defc7074",
+          "author": "Eda Eren",
+          "description": "Hi everyone! We (Jess, Carmen, and Eda) are excited to announce the next installation of our free and online bootcamp. We support learners as they work their way through the freeCodeCamp Responsive We",
+          "link": "https://www.freecodecamp.org/news/bad-website-club-bootcamp-based-on-freecodecamp-rwd-cert/",
+          "publishedOn": "2026-04-02T15:40:33.000Z",
+          "wordCount": 1457,
+          "title": "The Bad Website Club is Running a Free Responsive Web Design Bootcamp Based on freeCodeCamp",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9a8913d9-9bc5-4e9e-9119-1d9d429578a0.png"
+        },
+        {
           "id": "69cd715a3085402b9c54b3fe",
           "author": "Beau Carnes",
           "description": "Using AI tools is an important part of being a software developer. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use AI tools to become more productive as",
-          "link": "https://www.freecodecamp.org/news/ai-tools-for-developers/",
+          "link": "https://www.freecodecamp.org/news/ai-tools-for-developers-openclaw-github-copilot-claude-code-coderabbit-gemini-cli/",
           "publishedOn": "2026-04-01T19:26:18.000Z",
-          "wordCount": 973,
-          "title": "AI Tools for Developers –",
+          "wordCount": 996,
+          "title": "AI Tools for Developers – OpenClaw, GitHub Copilot, Claude Code, CodeRabbit, Gemini CLI",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/f1a56e84-637e-479b-b683-a1b0c74ee46c.jpg"
         },
         {
@@ -419,36 +444,6 @@
           "wordCount": 2023,
           "title": "How to Build a QR Code Generator Using JavaScript – A Step-by-Step Guide",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ee68b7d3-ef94-475f-a6ec-f05998ab5de2.png"
-        },
-        {
-          "id": "69ca85f69fffa747403074fe",
-          "author": "Vaibhav Gupta",
-          "description": "Tab components are everywhere: dashboards, settings panels, product pages. But most implementations are static, lifeless, and forgettable. What if your tabs felt alive, with smooth spring animations,",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-animated-shadcn-tab-component-with-shadcn-ui/",
-          "publishedOn": "2026-03-30T14:17:26.000Z",
-          "wordCount": 3254,
-          "title": "How to Build an Animated Shadcn Tab Component with Shadcn/ui",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/961a288f-30b9-4085-a1fc-7da13ffce38f.png"
-        },
-        {
-          "id": "69c6f8747cf270651055571c",
-          "author": "Prosper Ugbovo",
-          "description": "APIs power everything from mobile apps to enterprise platforms, quietly handling millions of requests per day. Without safeguards, a single misconfigured client or a burst of automated traffic can ove",
-          "link": "https://www.freecodecamp.org/news/token-bucket-rate-limiting-fastapi/",
-          "publishedOn": "2026-03-27T21:36:52.000Z",
-          "wordCount": 3281,
-          "title": "How to Implement Token Bucket Rate Limiting with FastAPI",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/fba3d4a6-faca-429a-8e16-a3e9778d2cf8.png"
-        },
-        {
-          "id": "69c6ecde7cf27065104cd8a1",
-          "author": "Daniel Nwaneri",
-          "description": "Every developer eventually has a workflow they repeat. A way they write commit messages. A checklist they run before opening a pull request. A structure they follow when reviewing code. They do it man",
-          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-claude-code-skill/",
-          "publishedOn": "2026-03-27T20:47:26.000Z",
-          "wordCount": 3448,
-          "title": "How to Build Your Own Claude Code Skill",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c0947834-4b11-46c6-ab61-994667e70a7e.png"
         }
       ]
     }
