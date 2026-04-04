@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-03T00:49:49.902Z</id>
+    <id>urn:2026-04-04T00:47:00.415Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-03T00:49:49.902Z</updated>
+    <updated>2026-04-04T00:47:00.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Reusable Architecture for Large Next.js Applications]]></title>
+        <id>69d00029e466e2b762517489</id>
+        <link href="https://www.freecodecamp.org/news/reusable-architecture-for-large-nextjs-applications/"/>
+        <updated>2026-04-03T18:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Every Next.js project starts the same way: you run npx create-next-app, write a few pages, maybe add an API route or two, and things feel clean. Then the project grows. Features multiply. A second app]]></summary>
+        <author>
+            <name>Abisoye Alli-Balogun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Deploy a Fitness Tracker Using Python Django and PythonAnywhere - A Beginner Friendly Guide]]></title>
+        <id>69cfff6ce466e2b762506a84</id>
+        <link href="https://www.freecodecamp.org/news/build-and-deploy-a-fitness-tracker-using-python-django-and-pythonanywhere/"/>
+        <updated>2026-04-03T17:57:00.000Z</updated>
+        <summary type="html"><![CDATA[If you've learned some Python basics but still feel stuck when it comes to building something real, you're not alone. Many beginners go through tutorials, learn about variables, functions, and loops,]]></summary>
+        <author>
+            <name>Prabodh Tuladhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Barcode Generator Using JavaScript (Step-by-Step)]]></title>
+        <id>69cfdf9b21e7d63506a6957e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-barcode-generator/"/>
+        <updated>2026-04-03T15:41:15.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever worked on something like an inventory system, billing dashboard, or even a small internal tool, chances are you’ve needed to generate barcodes at some point. Most developers either rely]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lessons from 15,031 hours of coding live on Twitch with Chris Griffing [Podcast #214]]]></title>
+        <id>69cfa4f1460cbe76e029cff8</id>
+        <link href="https://www.freecodecamp.org/news/lessons-from-15-031-hours-of-coding-live-on-twitch-with-chris-griffing-podcast-214/"/>
+        <updated>2026-04-03T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Chris Griffing is a software engineer and prolific streamer of live coding on Twitch. He spent 10 years as a "snowboard bum" doing odd jobs at ski resorts to facilitate]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automate Your Sales Pipeline with Claude and Obsidian]]></title>
         <id>69cea35e0ff860b6de16a788</id>
@@ -49,7 +89,7 @@ Making Complex CSS Shapes Using shape() originally published on CSS-Tricks, whic
     <entry>
         <title type="html"><![CDATA[AI Tools for Developers – OpenClaw, GitHub Copilot, Claude Code, CodeRabbit, Gemini CLI]]></title>
         <id>69cd715a3085402b9c54b3fe</id>
-        <link href="https://www.freecodecamp.org/news/ai-tools-for-developers-openclaw-github-copilot-claude-code-coderabbit-gemini-cli/"/>
+        <link href="https://www.freecodecamp.org/news/ai-tools-for-developers/"/>
         <updated>2026-04-01T19:26:18.000Z</updated>
         <summary type="html"><![CDATA[Using AI tools is an important part of being a software developer. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use AI tools to become more productive as]]></summary>
         <author>
@@ -127,46 +167,6 @@ What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More o
         <summary type="html"><![CDATA[With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Local SEO Audit Agent with Browser Use and Claude API]]></title>
-        <id>69cb09249fffa747409f133f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-local-seo-audit-agent-with-browser-use-and-claude-api/"/>
-        <updated>2026-03-30T23:37:08.000Z</updated>
-        <summary type="html"><![CDATA[Every digital marketing agency has someone whose job involves opening a spreadsheet, visiting each client URL, checking the title tag, meta description, and H1, noting broken links, and pasting everyt]]></summary>
-        <author>
-            <name>Daniel Nwaneri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficient State Management in Flutter Using IndexedStack]]></title>
-        <id>69cb073e9fffa747409e18f2</id>
-        <link href="https://www.freecodecamp.org/news/efficient-state-management-in-flutter-using-indexedstack/"/>
-        <updated>2026-03-30T23:29:02.000Z</updated>
-        <summary type="html"><![CDATA[When you're building Flutter applications that have multiple tabs or screens, one of the most common challenges you'll face is maintaining state across navigation without breaking the user experience.]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Design a Type-Safe, Lazy, and Secure Plugin Architecture in React]]></title>
-        <id>69caa5bc9fffa747404dbd51</id>
-        <link href="https://www.freecodecamp.org/news/how-to-design-a-type-safe-lazy-and-secure-plugin-architecture-in-react/"/>
-        <updated>2026-03-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Modern web applications increasingly need to evolve faster than a single team can maintain a monolithic codebase. Product teams often want to add features independently, experiment with new capabiliti]]></summary>
-        <author>
-            <name>Jessica Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a QR Code Generator Using JavaScript – A Step-by-Step Guide]]></title>
-        <id>69ca871b9fffa74740319797</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-qr-code-generator-using-javascript/"/>
-        <updated>2026-03-30T14:22:19.000Z</updated>
-        <summary type="html"><![CDATA[QR codes are everywhere today. You scan them to open websites, make payments, connect to WiFi, or even download apps. Most developers use online tools when they need one quickly. But just like image c]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
         </author>
     </entry>
     <entry>
