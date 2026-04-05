@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-04T00:47:00.415Z</id>
+    <id>urn:2026-04-05T00:53:38.621Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-04T00:47:00.415Z</updated>
+    <updated>2026-04-05T00:53:38.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -345,27 +345,6 @@ The Value of z-index originally published on CSS-Tricks, which is part of the Di
         <summary type="html"><![CDATA[Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxboe updates persuasive design for today’s reality, clarifying what has actually held up over the last decade.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Anders Toxboe)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Human Strategy In An AI-Accelerated Workflow]]></title>
-        <id>https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/</id>
-        <link href="https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/"/>
-        <updated>2026-03-06T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about creating interfaces. It’s about navigating ambiguity, advocating for humans in systems optimised for efficiency, and solving their problems through thoughtful design.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Different Ways to Select <html> in CSS]]></title>
-        <id>https://css-tricks.com/?p=392257</id>
-        <link href="https://css-tricks.com/the-different-ways-to-select-html-in-css/"/>
-        <updated>2026-03-05T14:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Sure, we can select the <html> element in CSS with, you know, a simple element selector, html. But what other (trivial and perhaps useless) ways can we do it?
-The Different Ways to Select <html> in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
