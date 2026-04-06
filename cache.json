@@ -77,7 +77,7 @@
           "description": "The new CSS corner-shape() property is mathematical, so it’s easily animated. Author Daniel Schwarz pokes at animating the property for interesting UI effects.\nExperimenting With Scroll-Driven corner-shape Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/",
           "publishedOn": "2026-03-23T13:51:15.000Z",
-          "wordCount": 3623,
+          "wordCount": 3635,
           "title": "Experimenting With Scroll-Driven corner-shape Animations",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/corner-shape-amimation-1.mp4",
@@ -169,7 +169,7 @@
           "description": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
           "publishedOn": "2026-03-31T11:00:00.000Z",
-          "wordCount": 4327,
+          "wordCount": 4343,
           "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
@@ -199,7 +199,7 @@
           "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
           "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
           "publishedOn": "2026-03-24T13:00:00.000Z",
-          "wordCount": 6104,
+          "wordCount": 6118,
           "title": "Testing Font Scaling For Accessibility With Figma Variables",
           "enclosure": {
             "url": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
@@ -207,21 +207,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/",
-          "author": "hello@smashingmagazine.com (Godstime Aburu)",
-          "description": "Dropdowns often work perfectly until they’re placed inside a scrollable panel, where they can get clipped, and half the menu disappears behind the container’s edge. Godstime Aburu explains why this happens and offers practical solutions to fix it.",
-          "link": "https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/",
-          "publishedOn": "2026-03-20T13:00:00.000Z",
-          "wordCount": 5130,
-          "title": "Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Properly",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/dropdowns-scrollable-containers-why-break-how-fix/dropdowns-scrollable-containers-why-break-how-fix.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/dropdowns-scrollable-containers-why-break-how-fix/dropdowns-scrollable-containers-why-break-how-fix.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/",
@@ -244,7 +229,7 @@
           "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.",
           "link": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
           "publishedOn": "2026-03-17T10:00:00.000Z",
-          "wordCount": 4485,
+          "wordCount": 4475,
           "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/anime-marvel-dc-designing-digital-products-emotion-flow.jpg",
@@ -259,7 +244,7 @@
           "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.",
           "link": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
           "publishedOn": "2026-03-13T13:00:00.000Z",
-          "wordCount": 6377,
+          "wordCount": 6386,
           "title": "Moving From Moment.js To The JS Temporal API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg",
@@ -274,7 +259,7 @@
           "description": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.",
           "link": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
           "publishedOn": "2026-03-12T10:00:00.000Z",
-          "wordCount": 5106,
+          "wordCount": 5092,
           "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-border-radius-css-corner-shape-property-ui/beyond-border-radius-css-corner-shape-property-ui.jpg",
@@ -304,7 +289,7 @@
           "description": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxboe updates persuasive design for today’s reality, clarifying what has actually held up over the last decade.",
           "link": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
           "publishedOn": "2026-03-09T11:00:00.000Z",
-          "wordCount": 7467,
+          "wordCount": 7461,
           "title": "Persuasive Design: Ten Years Later",
           "enclosure": {
             "url": "http://files.smashing.media/articles/persuasive-design-ten-years-later/persuasive-design-ten-years-later.jpg",
