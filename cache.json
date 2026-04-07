@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=392361",
+          "author": "Abhishek Pratap Singh",
+          "description": "Chrome 145 introduces the column-height and column-wrap properties, enabling us to wrap the additional content into a new row below, creating a vertical scroll instead of a horizontal scroll.\nLooking at New CSS Multi-Column Layout Wrapping Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-multi-column-layout-wrapping-features/",
+          "publishedOn": "2026-04-06T13:55:49.000Z",
+          "wordCount": 3252,
+          "title": "Looking at New CSS Multi-Column Layout Wrapping Features",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/02/Screen-Recording-2026-02-17-at-9.41.27-AM.mov",
+            "length": "3273030",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/chrome-layout.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=392986",
           "author": "Temani Afif",
           "description": "Creating rectangles, circles, and rounded rectangles is the basic of CSS. Creating more complex CSS shapes such as triangles, hexagons, stars, hearts, etc. is more challenging but still a simple task if we rely on modern features.\nMaking Complex CSS Shapes Using shape() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -169,7 +184,7 @@
           "description": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
           "publishedOn": "2026-03-31T11:00:00.000Z",
-          "wordCount": 4343,
+          "wordCount": 4446,
           "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
@@ -184,7 +199,7 @@
           "description": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?",
           "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
           "publishedOn": "2026-03-26T10:00:00.000Z",
-          "wordCount": 4829,
+          "wordCount": 4835,
           "title": "The Site-Search Paradox: Why The Big Box Always Wins",
           "enclosure": {
             "url": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg",
@@ -199,7 +214,7 @@
           "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
           "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
           "publishedOn": "2026-03-24T13:00:00.000Z",
-          "wordCount": 6118,
+          "wordCount": 6102,
           "title": "Testing Font Scaling For Accessibility With Figma Variables",
           "enclosure": {
             "url": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
@@ -229,7 +244,7 @@
           "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.",
           "link": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
           "publishedOn": "2026-03-17T10:00:00.000Z",
-          "wordCount": 4475,
+          "wordCount": 4473,
           "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/anime-marvel-dc-designing-digital-products-emotion-flow.jpg",
@@ -244,7 +259,7 @@
           "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.",
           "link": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
           "publishedOn": "2026-03-13T13:00:00.000Z",
-          "wordCount": 6386,
+          "wordCount": 6368,
           "title": "Moving From Moment.js To The JS Temporal API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg",
@@ -259,7 +274,7 @@
           "description": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.",
           "link": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
           "publishedOn": "2026-03-12T10:00:00.000Z",
-          "wordCount": 5092,
+          "wordCount": 5103,
           "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-border-radius-css-corner-shape-property-ui/beyond-border-radius-css-corner-shape-property-ui.jpg",
@@ -289,7 +304,7 @@
           "description": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxboe updates persuasive design for today’s reality, clarifying what has actually held up over the last decade.",
           "link": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
           "publishedOn": "2026-03-09T11:00:00.000Z",
-          "wordCount": 7461,
+          "wordCount": 7458,
           "title": "Persuasive Design: Ten Years Later",
           "enclosure": {
             "url": "http://files.smashing.media/articles/persuasive-design-ten-years-later/persuasive-design-ten-years-later.jpg",
@@ -305,6 +320,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69d4298d40c9cabf4494ed80",
+          "author": "Gabor Koos",
+          "description": "Imagine this scenario: you ship a feature in the morning. By afternoon, users are rage-clicking a button and your UI starts showing nonsense: out-of-order results, missing updates, and random failures",
+          "link": "https://www.freecodecamp.org/news/how-to-go-from-toy-api-calls-to-production-ready-networking-in-javascript/",
+          "publishedOn": "2026-04-06T21:45:49.000Z",
+          "wordCount": 4012,
+          "title": "How to Go from Toy API Calls to Production-Ready Networking in JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/eba00755-1be3-42af-841c-71916e81dcc6.png"
+        },
+        {
+          "id": "69d4294c40c9cabf4494b7f7",
+          "author": "Rudrendu Paul",
+          "description": "AI assistants are powerful. They can answer questions, summarize documents, and write code. But out of the box they can't check your phone bill, file an insurance rebuttal, or track your deadlines acr",
+          "link": "https://www.freecodecamp.org/news/how-to-build-and-secure-a-personal-ai-agent-with-openclaw/",
+          "publishedOn": "2026-04-06T21:44:44.000Z",
+          "wordCount": 5029,
+          "title": "How to Build and Secure a Personal AI Agent with OpenClaw",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/70b4dea7-b90f-4f5b-a7e9-20b613a29dd7.png"
+        },
+        {
+          "id": "69d4185f40c9cabf44851652",
+          "author": "Abdul Talha",
+          "description": "As a developer, there's nothing worse than finding out from an angry user that your website is down. Usually, you don't know your server crashed until someone complains. And while many SaaS tools can",
+          "link": "https://www.freecodecamp.org/news/self-host-uptime-kuma-docker/",
+          "publishedOn": "2026-04-06T20:32:31.000Z",
+          "wordCount": 1620,
+          "title": "How to Self-Host Your Own Server Monitoring Dashboard Using Uptime Kuma and Docker",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ea068a20-bc19-400a-a42e-1bbb7e492da8.png"
+        },
+        {
+          "id": "69d4182f40c9cabf4484dbdb",
+          "author": "Destiny Erhabor",
+          "description": "Kubernetes doesn't know who you are. It has no user database, no built-in login system, no password file. When you run kubectl get pods, Kubernetes receives an HTTP request and asks one question: who",
+          "link": "https://www.freecodecamp.org/news/how-to-authenticate-users-in-kubernetes-x509-certificates-oidc-and-cloud-identity/",
+          "publishedOn": "2026-04-06T20:31:43.000Z",
+          "wordCount": 6465,
+          "title": "How to Authenticate Users in Kubernetes: x509 Certificates, OIDC, and Cloud Identity",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/36356282-0cfb-43a8-8461-84f20e64b041.png"
+        },
+        {
+          "id": "69d3ca7840c9cabf443c9ce3",
+          "author": "Temitope Oyedele",
+          "description": "Most machine learning deployments don’t fail because the model is bad. They fail because of packaging. Teams often spend months fine-tuning models (adjusting hyperparameters and improving architecture",
+          "link": "https://www.freecodecamp.org/news/model-packaging-tools-every-mlops-engineer-should-know/",
+          "publishedOn": "2026-04-06T15:00:08.000Z",
+          "wordCount": 2255,
+          "title": "Model Packaging Tools Every MLOps Engineer Should Know",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4fa02714-2cea-4592-813e-a5d5ebaf0842.png"
+        },
+        {
+          "id": "69d3c38540c9cabf4435ed16",
+          "author": "Nikhil Adithyan",
+          "description": "A “market pulse” screen is basically the tab you keep open when you don’t want to stare at charts all day. It tells you what’s moving right now, what’s unusually volatile, and which names are starting",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-market-pulse-app-in-python-real-time-multi-asset/",
+          "publishedOn": "2026-04-06T14:30:29.000Z",
+          "wordCount": 5481,
+          "title": "How to Build a Market Pulse App in Python: Real-Time & Multi-Asset",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8fd6bb83-0418-41e4-9b93-a3c81325033a.png"
+        },
+        {
+          "id": "69d3bf4140c9cabf4431fc13",
+          "author": "Atuoha Anthony",
+          "description": "There's a moment that most Flutter developers experience at some point in their careers. You're building a screen that needs a user's name, their latest five posts, and the like count on each post. Se",
+          "link": "https://www.freecodecamp.org/news/how-to-use-graphql-in-flutter-a-handbook-for-developers/",
+          "publishedOn": "2026-04-06T14:12:17.000Z",
+          "wordCount": 13199,
+          "title": "How to Use GraphQL in Flutter: A Handbook for Developers",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/66d879b4-18e0-4ebd-9e36-320cdb9b1ac2.png"
+        },
         {
           "id": "69d00029e466e2b762517489",
           "author": "Abisoye Alli-Balogun",
@@ -334,76 +419,6 @@
           "wordCount": 2236,
           "title": "How to Build a Barcode Generator Using JavaScript (Step-by-Step)",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/684644dd-4128-415f-94ec-cf45b2a80cad.png"
-        },
-        {
-          "id": "69cfa4f1460cbe76e029cff8",
-          "author": "Beau Carnes",
-          "description": "Today Quincy Larson interviews Chris Griffing is a software engineer and prolific streamer of live coding on Twitch. He spent 10 years as a \"snowboard bum\" doing odd jobs at ski resorts to facilitate",
-          "link": "https://www.freecodecamp.org/news/lessons-from-15-031-hours-of-coding-live-on-twitch-with-chris-griffing-podcast-214/",
-          "publishedOn": "2026-04-03T11:30:00.000Z",
-          "wordCount": 1272,
-          "title": "Lessons from 15,031 hours of coding live on Twitch with Chris Griffing [Podcast #214]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/432d127a-1127-4c59-8d0a-fb906057724f.jpg"
-        },
-        {
-          "id": "69cea35e0ff860b6de16a788",
-          "author": "Beau Carnes",
-          "description": "For many software engineers and SaaS founders, writing code is the easy part. But the marketing and sales grind feels like an uphill battle. If you’d rather be building features than chasing leads you",
-          "link": "https://www.freecodecamp.org/news/automate-your-sales-pipeline-with-claude-and-obsidian/",
-          "publishedOn": "2026-04-02T17:11:58.000Z",
-          "wordCount": 1079,
-          "title": "Automate Your Sales Pipeline with Claude and Obsidian",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/77f3c459-261a-46f1-b531-d1519d5acabd.jpg"
-        },
-        {
-          "id": "69ce8f9b0ff860b6defe701d",
-          "author": "Magnus Rødseth",
-          "description": "Most full-stack React tutorials stop at \"Hello World.\" They show you how to render a component, maybe fetch some data, and call it a day. But when you sit down to build a real SaaS application, you im",
-          "link": "https://www.freecodecamp.org/news/full-stack-saas-tanstack-start-elysia-neon/",
-          "publishedOn": "2026-04-02T15:47:39.000Z",
-          "wordCount": 10265,
-          "title": "How to Build a Full-Stack SaaS App with TanStack Start, Elysia, and Neon",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ae3ac13a-e6b4-4498-aa32-ebd8c60c44a2.png"
-        },
-        {
-          "id": "69ce8df10ff860b6defc7074",
-          "author": "Eda Eren",
-          "description": "Hi everyone! We (Jess, Carmen, and Eda) are excited to announce the next installation of our free and online bootcamp. We support learners as they work their way through the freeCodeCamp Responsive We",
-          "link": "https://www.freecodecamp.org/news/bad-website-club-bootcamp-based-on-freecodecamp-rwd-cert/",
-          "publishedOn": "2026-04-02T15:40:33.000Z",
-          "wordCount": 1457,
-          "title": "The Bad Website Club is Running a Free Responsive Web Design Bootcamp Based on freeCodeCamp",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9a8913d9-9bc5-4e9e-9119-1d9d429578a0.png"
-        },
-        {
-          "id": "69cd715a3085402b9c54b3fe",
-          "author": "Beau Carnes",
-          "description": "Using AI tools is an important part of being a software developer. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use AI tools to become more productive as",
-          "link": "https://www.freecodecamp.org/news/ai-tools-for-developers/",
-          "publishedOn": "2026-04-01T19:26:18.000Z",
-          "wordCount": 996,
-          "title": "AI Tools for Developers – OpenClaw, GitHub Copilot, Claude Code, CodeRabbit, Gemini CLI",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/f1a56e84-637e-479b-b683-a1b0c74ee46c.jpg"
-        },
-        {
-          "id": "69cc570be4688e4edd59bc32",
-          "author": "Atuoha Anthony",
-          "description": "There's a particular kind of frustration that every mobile developer has felt at some point. You're building a Flutter application, and you want to add an AI feature. Perhaps it's something that reads",
-          "link": "https://www.freecodecamp.org/news/how-to-build-ai-powered-flutter-applications-with-genkit-dart-handbook-for-devs/",
-          "publishedOn": "2026-03-31T23:21:47.000Z",
-          "wordCount": 12974,
-          "title": "How to Build AI-Powered Flutter Applications with Genkit Dart – Full Handbook for Devs",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c3469d7d-95f7-441e-a430-e2ee2968ebf5.png"
-        },
-        {
-          "id": "69cbefa6c1e86567d7576d3e",
-          "author": "Manish Shivanandhan",
-          "description": "Cloud infrastructure has become deeply programmable over the past decade. Nearly every platform exposes APIs that allow developers to create applications, provision databases, configure networking, an",
-          "link": "https://www.freecodecamp.org/news/how-to-build-ai-agents-that-can-control-cloud-infrastructure/",
-          "publishedOn": "2026-03-31T16:00:38.000Z",
-          "wordCount": 2595,
-          "title": "How to Build AI Agents That Can Control Cloud Infrastructure",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/69bdba8c-6915-4d8c-ab35-1f5d06824f50.png"
         }
       ]
     }

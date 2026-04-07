@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-06T00:52:14.507Z</id>
+    <id>urn:2026-04-07T00:50:47.854Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-06T00:52:14.507Z</updated>
+    <updated>2026-04-07T00:50:47.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Go from Toy API Calls to Production-Ready Networking in JavaScript]]></title>
+        <id>69d4298d40c9cabf4494ed80</id>
+        <link href="https://www.freecodecamp.org/news/how-to-go-from-toy-api-calls-to-production-ready-networking-in-javascript/"/>
+        <updated>2026-04-06T21:45:49.000Z</updated>
+        <summary type="html"><![CDATA[Imagine this scenario: you ship a feature in the morning. By afternoon, users are rage-clicking a button and your UI starts showing nonsense: out-of-order results, missing updates, and random failures]]></summary>
+        <author>
+            <name>Gabor Koos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Secure a Personal AI Agent with OpenClaw]]></title>
+        <id>69d4294c40c9cabf4494b7f7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-and-secure-a-personal-ai-agent-with-openclaw/"/>
+        <updated>2026-04-06T21:44:44.000Z</updated>
+        <summary type="html"><![CDATA[AI assistants are powerful. They can answer questions, summarize documents, and write code. But out of the box they can't check your phone bill, file an insurance rebuttal, or track your deadlines acr]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Self-Host Your Own Server Monitoring Dashboard Using Uptime Kuma and Docker]]></title>
+        <id>69d4185f40c9cabf44851652</id>
+        <link href="https://www.freecodecamp.org/news/self-host-uptime-kuma-docker/"/>
+        <updated>2026-04-06T20:32:31.000Z</updated>
+        <summary type="html"><![CDATA[As a developer, there's nothing worse than finding out from an angry user that your website is down. Usually, you don't know your server crashed until someone complains. And while many SaaS tools can]]></summary>
+        <author>
+            <name>Abdul Talha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Authenticate Users in Kubernetes: x509 Certificates, OIDC, and Cloud Identity]]></title>
+        <id>69d4182f40c9cabf4484dbdb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-authenticate-users-in-kubernetes-x509-certificates-oidc-and-cloud-identity/"/>
+        <updated>2026-04-06T20:31:43.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes doesn't know who you are. It has no user database, no built-in login system, no password file. When you run kubectl get pods, Kubernetes receives an HTTP request and asks one question: who]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model Packaging Tools Every MLOps Engineer Should Know]]></title>
+        <id>69d3ca7840c9cabf443c9ce3</id>
+        <link href="https://www.freecodecamp.org/news/model-packaging-tools-every-mlops-engineer-should-know/"/>
+        <updated>2026-04-06T15:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Most machine learning deployments don’t fail because the model is bad. They fail because of packaging. Teams often spend months fine-tuning models (adjusting hyperparameters and improving architecture]]></summary>
+        <author>
+            <name>Temitope Oyedele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Market Pulse App in Python: Real-Time & Multi-Asset]]></title>
+        <id>69d3c38540c9cabf4435ed16</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-market-pulse-app-in-python-real-time-multi-asset/"/>
+        <updated>2026-04-06T14:30:29.000Z</updated>
+        <summary type="html"><![CDATA[A “market pulse” screen is basically the tab you keep open when you don’t want to stare at charts all day. It tells you what’s moving right now, what’s unusually volatile, and which names are starting]]></summary>
+        <author>
+            <name>Nikhil Adithyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use GraphQL in Flutter: A Handbook for Developers]]></title>
+        <id>69d3bf4140c9cabf4431fc13</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-graphql-in-flutter-a-handbook-for-developers/"/>
+        <updated>2026-04-06T14:12:17.000Z</updated>
+        <summary type="html"><![CDATA[There's a moment that most Flutter developers experience at some point in their careers. You're building a screen that needs a user's name, their latest five posts, and the like count on each post. Se]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking at New CSS Multi-Column Layout Wrapping Features]]></title>
+        <id>https://css-tricks.com/?p=392361</id>
+        <link href="https://css-tricks.com/css-multi-column-layout-wrapping-features/"/>
+        <updated>2026-04-06T13:55:49.000Z</updated>
+        <summary type="html"><![CDATA[Chrome 145 introduces the column-height and column-wrap properties, enabling us to wrap the additional content into a new row below, creating a vertical scroll instead of a horizontal scroll.
+Looking at New CSS Multi-Column Layout Wrapping Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Abhishek Pratap Singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Reusable Architecture for Large Next.js Applications]]></title>
         <id>69d00029e466e2b762517489</id>
@@ -36,46 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lessons from 15,031 hours of coding live on Twitch with Chris Griffing [Podcast #214]]]></title>
-        <id>69cfa4f1460cbe76e029cff8</id>
-        <link href="https://www.freecodecamp.org/news/lessons-from-15-031-hours-of-coding-live-on-twitch-with-chris-griffing-podcast-214/"/>
-        <updated>2026-04-03T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Chris Griffing is a software engineer and prolific streamer of live coding on Twitch. He spent 10 years as a "snowboard bum" doing odd jobs at ski resorts to facilitate]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automate Your Sales Pipeline with Claude and Obsidian]]></title>
-        <id>69cea35e0ff860b6de16a788</id>
-        <link href="https://www.freecodecamp.org/news/automate-your-sales-pipeline-with-claude-and-obsidian/"/>
-        <updated>2026-04-02T17:11:58.000Z</updated>
-        <summary type="html"><![CDATA[For many software engineers and SaaS founders, writing code is the easy part. But the marketing and sales grind feels like an uphill battle. If you’d rather be building features than chasing leads you]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Full-Stack SaaS App with TanStack Start, Elysia, and Neon]]></title>
-        <id>69ce8f9b0ff860b6defe701d</id>
-        <link href="https://www.freecodecamp.org/news/full-stack-saas-tanstack-start-elysia-neon/"/>
-        <updated>2026-04-02T15:47:39.000Z</updated>
-        <summary type="html"><![CDATA[Most full-stack React tutorials stop at "Hello World." They show you how to render a component, maybe fetch some data, and call it a day. But when you sit down to build a real SaaS application, you im]]></summary>
-        <author>
-            <name>Magnus Rødseth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Bad Website Club is Running a Free Responsive Web Design Bootcamp Based on freeCodeCamp]]></title>
-        <id>69ce8df10ff860b6defc7074</id>
-        <link href="https://www.freecodecamp.org/news/bad-website-club-bootcamp-based-on-freecodecamp-rwd-cert/"/>
-        <updated>2026-04-02T15:40:33.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! We (Jess, Carmen, and Eda) are excited to announce the next installation of our free and online bootcamp. We support learners as they work their way through the freeCodeCamp Responsive We]]></summary>
-        <author>
-            <name>Eda Eren</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Making Complex CSS Shapes Using shape()]]></title>
         <id>https://css-tricks.com/?p=392986</id>
         <link href="https://css-tricks.com/complex-css-shapes-with-shape-function/"/>
@@ -84,16 +125,6 @@
 Making Complex CSS Shapes Using shape() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Tools for Developers – OpenClaw, GitHub Copilot, Claude Code, CodeRabbit, Gemini CLI]]></title>
-        <id>69cd715a3085402b9c54b3fe</id>
-        <link href="https://www.freecodecamp.org/news/ai-tools-for-developers/"/>
-        <updated>2026-04-01T19:26:18.000Z</updated>
-        <summary type="html"><![CDATA[Using AI tools is an important part of being a software developer. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use AI tools to become more productive as]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -126,26 +157,6 @@ Sniffing Out the CSS Olfactive API originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[Design principles with references, examples, and methods for quick look-up. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build AI-Powered Flutter Applications with Genkit Dart – Full Handbook for Devs]]></title>
-        <id>69cc570be4688e4edd59bc32</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-ai-powered-flutter-applications-with-genkit-dart-handbook-for-devs/"/>
-        <updated>2026-03-31T23:21:47.000Z</updated>
-        <summary type="html"><![CDATA[There's a particular kind of frustration that every mobile developer has felt at some point. You're building a Flutter application, and you want to add an AI feature. Perhaps it's something that reads]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build AI Agents That Can Control Cloud Infrastructure]]></title>
-        <id>69cbefa6c1e86567d7576d3e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-ai-agents-that-can-control-cloud-infrastructure/"/>
-        <updated>2026-03-31T16:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Cloud infrastructure has become deeply programmable over the past decade. Nearly every platform exposes APIs that allow developers to create applications, provision databases, configure networking, an]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
