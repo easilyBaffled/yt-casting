@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-07T00:50:47.854Z</id>
+    <id>urn:2026-04-08T00:50:56.914Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-07T00:50:47.854Z</updated>
+    <updated>2026-04-08T00:50:56.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up OpenClaw and Design an A2A Plugin Bridge]]></title>
+        <id>69d542ca5da14bc70e7c1559</id>
+        <link href="https://www.freecodecamp.org/news/openclaw-a2a-plugin-architecture-guide/"/>
+        <updated>2026-04-07T17:45:46.000Z</updated>
+        <summary type="html"><![CDATA[OpenClaw is getting attention because it turns a popular AI idea into something you can actually run yourself. Instead of opening one more browser tab, you run a Gateway on your own machine or server]]></summary>
+        <author>
+            <name>Nataraj Sundar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swarm Intelligence Meets Bluetooth: How Your Devices Self-Organize and Communicate]]></title>
+        <id>69d545075da14bc70e7d5faf</id>
+        <link href="https://www.freecodecamp.org/news/how-bluetooth-devices-self-organize-and-communicate/"/>
+        <updated>2026-04-07T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever watched a flock of starlings at sunset? Thousands of birds, wheeling and swooping in perfect unison. There's no leader, no choreographer, no bird with a clipboard shouting directions. Ju]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master AI Drone Programming]]></title>
+        <id>69d53e825da14bc70e792579</id>
+        <link href="https://www.freecodecamp.org/news/master-ai-drone-programming/"/>
+        <updated>2026-04-07T17:27:30.000Z</updated>
+        <summary type="html"><![CDATA[We just posted a comprehensive course on the freeCodeCamp YouTube channel focused on AI drone programming using Python. Created by Murtaza, this tutorial utilizes the Pyimverse simulator, a high-fidel]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Mixture of Experts Architecture Works in AI Models]]></title>
+        <id>69d53c4d5da14bc70e77ff78</id>
+        <link href="https://www.freecodecamp.org/news/how-the-mixture-of-experts-architecture-works-in-ai-models/"/>
+        <updated>2026-04-07T17:18:05.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence (AI) has seen remarkable advancements over the years, with AI models growing in size and complexity. Among the innovative approaches gaining traction today is the Mixture of Ex]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Responsive and Accessible UI Designs with React and Semantic HTML]]></title>
+        <id>69d539975da14bc70e76871d</id>
+        <link href="https://www.freecodecamp.org/news/build-responsive-accessible-ui-with-react-and-semantic-html/"/>
+        <updated>2026-04-07T17:06:31.000Z</updated>
+        <summary type="html"><![CDATA[Building modern React applications requires more than just functionality. It also demands responsive layouts and accessible user experiences. By combining semantic HTML, responsive design techniques,]]></summary>
+        <author>
+            <name>Gopinath Karunanithi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alternatives to the !important Keyword]]></title>
+        <id>https://css-tricks.com/?p=392696</id>
+        <link href="https://css-tricks.com/alternatives-to-the-important-keyword/"/>
+        <updated>2026-04-07T13:54:43.000Z</updated>
+        <summary type="html"><![CDATA[Cascade layers, specificity tricks, smarter ordering, and even some clever selector hacks can often replace !important with something cleaner, more predictable, and far less embarrassing to explain to your future self.
+Alternatives to the !important Keyword originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Saleh Mubashar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identifying Necessary Transparency Moments In Agentic AI (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/</id>
+        <link href="https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/"/>
+        <updated>2026-04-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Go from Toy API Calls to Production-Ready Networking in JavaScript]]></title>
         <id>69d4298d40c9cabf4494ed80</id>
@@ -56,26 +127,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Market Pulse App in Python: Real-Time & Multi-Asset]]></title>
-        <id>69d3c38540c9cabf4435ed16</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-market-pulse-app-in-python-real-time-multi-asset/"/>
-        <updated>2026-04-06T14:30:29.000Z</updated>
-        <summary type="html"><![CDATA[A “market pulse” screen is basically the tab you keep open when you don’t want to stare at charts all day. It tells you what’s moving right now, what’s unusually volatile, and which names are starting]]></summary>
-        <author>
-            <name>Nikhil Adithyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use GraphQL in Flutter: A Handbook for Developers]]></title>
-        <id>69d3bf4140c9cabf4431fc13</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-graphql-in-flutter-a-handbook-for-developers/"/>
-        <updated>2026-04-06T14:12:17.000Z</updated>
-        <summary type="html"><![CDATA[There's a moment that most Flutter developers experience at some point in their careers. You're building a screen that needs a user's name, their latest five posts, and the like count on each post. Se]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Looking at New CSS Multi-Column Layout Wrapping Features]]></title>
         <id>https://css-tricks.com/?p=392361</id>
         <link href="https://css-tricks.com/css-multi-column-layout-wrapping-features/"/>
@@ -84,36 +135,6 @@
 Looking at New CSS Multi-Column Layout Wrapping Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Abhishek Pratap Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Reusable Architecture for Large Next.js Applications]]></title>
-        <id>69d00029e466e2b762517489</id>
-        <link href="https://www.freecodecamp.org/news/reusable-architecture-for-large-nextjs-applications/"/>
-        <updated>2026-04-03T18:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Every Next.js project starts the same way: you run npx create-next-app, write a few pages, maybe add an API route or two, and things feel clean. Then the project grows. Features multiply. A second app]]></summary>
-        <author>
-            <name>Abisoye Alli-Balogun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build and Deploy a Fitness Tracker Using Python Django and PythonAnywhere - A Beginner Friendly Guide]]></title>
-        <id>69cfff6ce466e2b762506a84</id>
-        <link href="https://www.freecodecamp.org/news/build-and-deploy-a-fitness-tracker-using-python-django-and-pythonanywhere/"/>
-        <updated>2026-04-03T17:57:00.000Z</updated>
-        <summary type="html"><![CDATA[If you've learned some Python basics but still feel stuck when it comes to building something real, you're not alone. Many beginners go through tutorials, learn about variables, functions, and loops,]]></summary>
-        <author>
-            <name>Prabodh Tuladhar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Barcode Generator Using JavaScript (Step-by-Step)]]></title>
-        <id>69cfdf9b21e7d63506a6957e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-barcode-generator/"/>
-        <updated>2026-04-03T15:41:15.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve ever worked on something like an inventory system, billing dashboard, or even a small internal tool, chances are you’ve needed to generate barcodes at some point. Most developers either rely]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
         </author>
     </entry>
     <entry>
@@ -336,16 +357,6 @@ Abusing Customizable Selects originally published on CSS-Tricks, which is part o
 The Value of z-index originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Persuasive Design: Ten Years Later]]></title>
-        <id>https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/</id>
-        <link href="https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/"/>
-        <updated>2026-03-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxboe updates persuasive design for today’s reality, clarifying what has actually held up over the last decade.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Anders Toxboe)</name>
         </author>
     </entry>
 </feed>

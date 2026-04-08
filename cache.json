@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=392696",
+          "author": "Saleh Mubashar",
+          "description": "Cascade layers, specificity tricks, smarter ordering, and even some clever selector hacks can often replace !important with something cleaner, more predictable, and far less embarrassing to explain to your future self.\nAlternatives to the !important Keyword originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/alternatives-to-the-important-keyword/",
+          "publishedOn": "2026-04-07T13:54:43.000Z",
+          "wordCount": 3769,
+          "title": "Alternatives to the !important Keyword",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/important-style.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=392361",
           "author": "Abhishek Pratap Singh",
           "description": "Chrome 145 introduces the column-height and column-wrap properties, enabling us to wrap the additional content into a new row below, creating a vertical scroll instead of a horizontal scroll.\nLooking at New CSS Multi-Column Layout Wrapping Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -164,6 +174,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.",
+          "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
+          "publishedOn": "2026-04-07T10:00:00.000Z",
+          "wordCount": 6593,
+          "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/04/practical-guide-design-principles/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Design principles with references, examples, and methods for quick look-up. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
@@ -184,7 +209,7 @@
           "description": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
           "publishedOn": "2026-03-31T11:00:00.000Z",
-          "wordCount": 4446,
+          "wordCount": 4324,
           "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
@@ -199,7 +224,7 @@
           "description": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?",
           "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
           "publishedOn": "2026-03-26T10:00:00.000Z",
-          "wordCount": 4835,
+          "wordCount": 4837,
           "title": "The Site-Search Paradox: Why The Big Box Always Wins",
           "enclosure": {
             "url": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg",
@@ -244,7 +269,7 @@
           "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.",
           "link": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
           "publishedOn": "2026-03-17T10:00:00.000Z",
-          "wordCount": 4473,
+          "wordCount": 4484,
           "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/anime-marvel-dc-designing-digital-products-emotion-flow.jpg",
@@ -259,7 +284,7 @@
           "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.",
           "link": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
           "publishedOn": "2026-03-13T13:00:00.000Z",
-          "wordCount": 6368,
+          "wordCount": 6371,
           "title": "Moving From Moment.js To The JS Temporal API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg",
@@ -297,21 +322,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/building-dynamic-forms-react-next-js/building-dynamic-forms-react-next-js.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
-          "author": "hello@smashingmagazine.com (Anders Toxboe)",
-          "description": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxboe updates persuasive design for today’s reality, clarifying what has actually held up over the last decade.",
-          "link": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
-          "publishedOn": "2026-03-09T11:00:00.000Z",
-          "wordCount": 7458,
-          "title": "Persuasive Design: Ten Years Later",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/persuasive-design-ten-years-later/persuasive-design-ten-years-later.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/persuasive-design-ten-years-later/persuasive-design-ten-years-later.jpg"
         }
       ]
     },
@@ -320,6 +330,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69d542ca5da14bc70e7c1559",
+          "author": "Nataraj Sundar",
+          "description": "OpenClaw is getting attention because it turns a popular AI idea into something you can actually run yourself. Instead of opening one more browser tab, you run a Gateway on your own machine or server",
+          "link": "https://www.freecodecamp.org/news/openclaw-a2a-plugin-architecture-guide/",
+          "publishedOn": "2026-04-07T17:45:46.000Z",
+          "wordCount": 4482,
+          "title": "How to Set Up OpenClaw and Design an A2A Plugin Bridge",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4be03b02-d128-49e9-afcb-fea0f771e746.png"
+        },
+        {
+          "id": "69d545075da14bc70e7d5faf",
+          "author": "Nikheel Vishwas Savant",
+          "description": "Have you ever watched a flock of starlings at sunset? Thousands of birds, wheeling and swooping in perfect unison. There's no leader, no choreographer, no bird with a clipboard shouting directions. Ju",
+          "link": "https://www.freecodecamp.org/news/how-bluetooth-devices-self-organize-and-communicate/",
+          "publishedOn": "2026-04-07T17:30:00.000Z",
+          "wordCount": 5414,
+          "title": "Swarm Intelligence Meets Bluetooth: How Your Devices Self-Organize and Communicate",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9503ad16-c079-4e09-9b9d-27935ba7e780.png"
+        },
+        {
+          "id": "69d53e825da14bc70e792579",
+          "author": "Beau Carnes",
+          "description": "We just posted a comprehensive course on the freeCodeCamp YouTube channel focused on AI drone programming using Python. Created by Murtaza, this tutorial utilizes the Pyimverse simulator, a high-fidel",
+          "link": "https://www.freecodecamp.org/news/master-ai-drone-programming/",
+          "publishedOn": "2026-04-07T17:27:30.000Z",
+          "wordCount": 1000,
+          "title": "Master AI Drone Programming",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/f85499ab-1fad-4f9c-b1d8-ab3a4cecfb6c.png"
+        },
+        {
+          "id": "69d53c4d5da14bc70e77ff78",
+          "author": "Manish Shivanandhan",
+          "description": "Artificial intelligence (AI) has seen remarkable advancements over the years, with AI models growing in size and complexity. Among the innovative approaches gaining traction today is the Mixture of Ex",
+          "link": "https://www.freecodecamp.org/news/how-the-mixture-of-experts-architecture-works-in-ai-models/",
+          "publishedOn": "2026-04-07T17:18:05.000Z",
+          "wordCount": 2008,
+          "title": "How the Mixture of Experts Architecture Works in AI Models",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/21b2975b-e6ad-462c-84c7-d966bf2092cb.png"
+        },
+        {
+          "id": "69d539975da14bc70e76871d",
+          "author": "Gopinath Karunanithi",
+          "description": "Building modern React applications requires more than just functionality. It also demands responsive layouts and accessible user experiences. By combining semantic HTML, responsive design techniques,",
+          "link": "https://www.freecodecamp.org/news/build-responsive-accessible-ui-with-react-and-semantic-html/",
+          "publishedOn": "2026-04-07T17:06:31.000Z",
+          "wordCount": 6102,
+          "title": "How to Build Responsive and Accessible UI Designs with React and Semantic HTML",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d2651d02-040d-4c4f-bbfe-ef92097edab4.png"
+        },
         {
           "id": "69d4298d40c9cabf4494ed80",
           "author": "Gabor Koos",
@@ -369,56 +429,6 @@
           "wordCount": 2255,
           "title": "Model Packaging Tools Every MLOps Engineer Should Know",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4fa02714-2cea-4592-813e-a5d5ebaf0842.png"
-        },
-        {
-          "id": "69d3c38540c9cabf4435ed16",
-          "author": "Nikhil Adithyan",
-          "description": "A “market pulse” screen is basically the tab you keep open when you don’t want to stare at charts all day. It tells you what’s moving right now, what’s unusually volatile, and which names are starting",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-market-pulse-app-in-python-real-time-multi-asset/",
-          "publishedOn": "2026-04-06T14:30:29.000Z",
-          "wordCount": 5481,
-          "title": "How to Build a Market Pulse App in Python: Real-Time & Multi-Asset",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8fd6bb83-0418-41e4-9b93-a3c81325033a.png"
-        },
-        {
-          "id": "69d3bf4140c9cabf4431fc13",
-          "author": "Atuoha Anthony",
-          "description": "There's a moment that most Flutter developers experience at some point in their careers. You're building a screen that needs a user's name, their latest five posts, and the like count on each post. Se",
-          "link": "https://www.freecodecamp.org/news/how-to-use-graphql-in-flutter-a-handbook-for-developers/",
-          "publishedOn": "2026-04-06T14:12:17.000Z",
-          "wordCount": 13199,
-          "title": "How to Use GraphQL in Flutter: A Handbook for Developers",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/66d879b4-18e0-4ebd-9e36-320cdb9b1ac2.png"
-        },
-        {
-          "id": "69d00029e466e2b762517489",
-          "author": "Abisoye Alli-Balogun",
-          "description": "Every Next.js project starts the same way: you run npx create-next-app, write a few pages, maybe add an API route or two, and things feel clean. Then the project grows. Features multiply. A second app",
-          "link": "https://www.freecodecamp.org/news/reusable-architecture-for-large-nextjs-applications/",
-          "publishedOn": "2026-04-03T18:00:09.000Z",
-          "wordCount": 5688,
-          "title": "How to Build Reusable Architecture for Large Next.js Applications",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0a713a19-a418-4954-bfca-9b8bc1e77a03.png"
-        },
-        {
-          "id": "69cfff6ce466e2b762506a84",
-          "author": "Prabodh Tuladhar",
-          "description": "If you've learned some Python basics but still feel stuck when it comes to building something real, you're not alone. Many beginners go through tutorials, learn about variables, functions, and loops,",
-          "link": "https://www.freecodecamp.org/news/build-and-deploy-a-fitness-tracker-using-python-django-and-pythonanywhere/",
-          "publishedOn": "2026-04-03T17:57:00.000Z",
-          "wordCount": 8047,
-          "title": "How to Build and Deploy a Fitness Tracker Using Python Django and PythonAnywhere - A Beginner Friendly Guide",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a1ae273b-9f92-4fc2-89aa-1452fc0df895.png"
-        },
-        {
-          "id": "69cfdf9b21e7d63506a6957e",
-          "author": "Bhavin Sheth",
-          "description": "If you’ve ever worked on something like an inventory system, billing dashboard, or even a small internal tool, chances are you’ve needed to generate barcodes at some point. Most developers either rely",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-barcode-generator/",
-          "publishedOn": "2026-04-03T15:41:15.000Z",
-          "wordCount": 2236,
-          "title": "How to Build a Barcode Generator Using JavaScript (Step-by-Step)",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/684644dd-4128-415f-94ec-cf45b2a80cad.png"
         }
       ]
     }
