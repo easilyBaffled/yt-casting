@@ -17,7 +17,7 @@
           "description": "Cascade layers, specificity tricks, smarter ordering, and even some clever selector hacks can often replace !important with something cleaner, more predictable, and far less embarrassing to explain to your future self.\nAlternatives to the !important Keyword originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/alternatives-to-the-important-keyword/",
           "publishedOn": "2026-04-07T13:54:43.000Z",
-          "wordCount": 3769,
+          "wordCount": 3781,
           "title": "Alternatives to the !important Keyword",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/important-style.webp"
         },
@@ -42,7 +42,7 @@
           "description": "Creating rectangles, circles, and rounded rectangles is the basic of CSS. Creating more complex CSS shapes such as triangles, hexagons, stars, hearts, etc. is more challenging but still a simple task if we rely on modern features.\nMaking Complex CSS Shapes Using shape() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/complex-css-shapes-with-shape-function/",
           "publishedOn": "2026-04-02T13:58:24.000Z",
-          "wordCount": 3614,
+          "wordCount": 3688,
           "title": "Making Complex CSS Shapes Using shape()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/complex-css-shapes-shape-function.webp"
         },
@@ -72,7 +72,7 @@
           "description": "Short n’ sweet but ever so neat, this issue covers light/dark favicons, @mixin, anchor-interpolated morphing, object-view-box, new web features, and more.\nWhat’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/whats-important-8/",
           "publishedOn": "2026-03-31T14:14:07.000Z",
-          "wordCount": 2784,
+          "wordCount": 2821,
           "title": "What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/wh8.png"
         },
@@ -155,16 +155,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/custom-select.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392843",
-          "author": "Amit Sheen",
-          "description": "How we look at the stacking order of our projects, how we choose z-index values, and more importantly, the implications of those choices.\nThe Value of z-index originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-value-of-z-index/",
-          "publishedOn": "2026-03-09T14:20:01.000Z",
-          "wordCount": 4368,
-          "title": "The Value of z-index",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_8926F490CDA74C2CA8D0B6E99405A055C6BF40F4CCE75686F0BAADE6ECBD39FB_1772115867944_image.png"
         }
       ]
     },
@@ -179,7 +169,7 @@
           "description": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.",
           "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
           "publishedOn": "2026-04-07T10:00:00.000Z",
-          "wordCount": 6593,
+          "wordCount": 6598,
           "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
@@ -209,7 +199,7 @@
           "description": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
           "publishedOn": "2026-03-31T11:00:00.000Z",
-          "wordCount": 4324,
+          "wordCount": 4338,
           "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
@@ -224,7 +214,7 @@
           "description": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?",
           "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
           "publishedOn": "2026-03-26T10:00:00.000Z",
-          "wordCount": 4837,
+          "wordCount": 4838,
           "title": "The Site-Search Paradox: Why The Big Box Always Wins",
           "enclosure": {
             "url": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg",
@@ -239,7 +229,7 @@
           "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
           "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
           "publishedOn": "2026-03-24T13:00:00.000Z",
-          "wordCount": 6102,
+          "wordCount": 6116,
           "title": "Testing Font Scaling For Accessibility With Figma Variables",
           "enclosure": {
             "url": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
@@ -269,7 +259,7 @@
           "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.",
           "link": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
           "publishedOn": "2026-03-17T10:00:00.000Z",
-          "wordCount": 4484,
+          "wordCount": 4480,
           "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/anime-marvel-dc-designing-digital-products-emotion-flow.jpg",
@@ -284,7 +274,7 @@
           "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.",
           "link": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
           "publishedOn": "2026-03-13T13:00:00.000Z",
-          "wordCount": 6371,
+          "wordCount": 6372,
           "title": "Moving From Moment.js To The JS Temporal API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg",
@@ -299,7 +289,7 @@
           "description": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.",
           "link": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
           "publishedOn": "2026-03-12T10:00:00.000Z",
-          "wordCount": 5103,
+          "wordCount": 5090,
           "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-border-radius-css-corner-shape-property-ui/beyond-border-radius-css-corner-shape-property-ui.jpg",
@@ -330,6 +320,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69d6bc21707c1ce7688010d3",
+          "author": "Sam Bhattacharyya",
+          "description": "If you've ever tried to process video in the browser, like for a video editing or streaming app, your options were either to process video on a server (expensive) or to use ffmpeg.js (clunky). With th",
+          "link": "https://www.freecodecamp.org/news/the-webcodecs-handbook-native-video-processing-in-the-browser/",
+          "publishedOn": "2026-04-08T20:35:45.000Z",
+          "wordCount": 6894,
+          "title": "The WebCodecs Handbook: Native Video Processing in the Browser",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9b0978d4-7d8c-464c-ade0-07d007f56d92.png"
+        },
+        {
+          "id": "69d6805e707c1ce76855752b",
+          "author": "Nikheel Vishwas Savant",
+          "description": "Since the early 2000s, Bluetooth has been the dominant way we listen to wireless audio, powering everything from the first mono headsets to today's true wireless earbuds. But the underlying technology",
+          "link": "https://www.freecodecamp.org/news/the-bluetooth-le-audio-handbook/",
+          "publishedOn": "2026-04-08T16:20:46.000Z",
+          "wordCount": 8335,
+          "title": "The Bluetooth LE Audio Handbook: From \"Why Does My Call Sound Like a Tin Can?\" to AOSP Implementation",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4c5a3b97-9a23-40cd-8999-333927f58e6c.png"
+        },
         {
           "id": "69d542ca5da14bc70e7c1559",
           "author": "Nataraj Sundar",
@@ -409,26 +419,6 @@
           "wordCount": 1620,
           "title": "How to Self-Host Your Own Server Monitoring Dashboard Using Uptime Kuma and Docker",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ea068a20-bc19-400a-a42e-1bbb7e492da8.png"
-        },
-        {
-          "id": "69d4182f40c9cabf4484dbdb",
-          "author": "Destiny Erhabor",
-          "description": "Kubernetes doesn't know who you are. It has no user database, no built-in login system, no password file. When you run kubectl get pods, Kubernetes receives an HTTP request and asks one question: who",
-          "link": "https://www.freecodecamp.org/news/how-to-authenticate-users-in-kubernetes-x509-certificates-oidc-and-cloud-identity/",
-          "publishedOn": "2026-04-06T20:31:43.000Z",
-          "wordCount": 6465,
-          "title": "How to Authenticate Users in Kubernetes: x509 Certificates, OIDC, and Cloud Identity",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/36356282-0cfb-43a8-8461-84f20e64b041.png"
-        },
-        {
-          "id": "69d3ca7840c9cabf443c9ce3",
-          "author": "Temitope Oyedele",
-          "description": "Most machine learning deployments don’t fail because the model is bad. They fail because of packaging. Teams often spend months fine-tuning models (adjusting hyperparameters and improving architecture",
-          "link": "https://www.freecodecamp.org/news/model-packaging-tools-every-mlops-engineer-should-know/",
-          "publishedOn": "2026-04-06T15:00:08.000Z",
-          "wordCount": 2255,
-          "title": "Model Packaging Tools Every MLOps Engineer Should Know",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4fa02714-2cea-4592-813e-a5d5ebaf0842.png"
         }
       ]
     }

@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-08T00:50:56.914Z</id>
+    <id>urn:2026-04-09T00:43:04.478Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-08T00:50:56.914Z</updated>
+    <updated>2026-04-09T00:43:04.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The WebCodecs Handbook: Native Video Processing in the Browser]]></title>
+        <id>69d6bc21707c1ce7688010d3</id>
+        <link href="https://www.freecodecamp.org/news/the-webcodecs-handbook-native-video-processing-in-the-browser/"/>
+        <updated>2026-04-08T20:35:45.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever tried to process video in the browser, like for a video editing or streaming app, your options were either to process video on a server (expensive) or to use ffmpeg.js (clunky). With th]]></summary>
+        <author>
+            <name>Sam Bhattacharyya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bluetooth LE Audio Handbook: From "Why Does My Call Sound Like a Tin Can?" to AOSP Implementation]]></title>
+        <id>69d6805e707c1ce76855752b</id>
+        <link href="https://www.freecodecamp.org/news/the-bluetooth-le-audio-handbook/"/>
+        <updated>2026-04-08T16:20:46.000Z</updated>
+        <summary type="html"><![CDATA[Since the early 2000s, Bluetooth has been the dominant way we listen to wireless audio, powering everything from the first mono headsets to today's true wireless earbuds. But the underlying technology]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up OpenClaw and Design an A2A Plugin Bridge]]></title>
         <id>69d542ca5da14bc70e7c1559</id>
@@ -104,26 +124,6 @@ Alternatives to the !important Keyword originally published on CSS-Tricks, which
         <summary type="html"><![CDATA[As a developer, there's nothing worse than finding out from an angry user that your website is down. Usually, you don't know your server crashed until someone complains. And while many SaaS tools can]]></summary>
         <author>
             <name>Abdul Talha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Authenticate Users in Kubernetes: x509 Certificates, OIDC, and Cloud Identity]]></title>
-        <id>69d4182f40c9cabf4484dbdb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-authenticate-users-in-kubernetes-x509-certificates-oidc-and-cloud-identity/"/>
-        <updated>2026-04-06T20:31:43.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetes doesn't know who you are. It has no user database, no built-in login system, no password file. When you run kubectl get pods, Kubernetes receives an HTTP request and asks one question: who]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Model Packaging Tools Every MLOps Engineer Should Know]]></title>
-        <id>69d3ca7840c9cabf443c9ce3</id>
-        <link href="https://www.freecodecamp.org/news/model-packaging-tools-every-mlops-engineer-should-know/"/>
-        <updated>2026-04-06T15:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Most machine learning deployments don’t fail because the model is bad. They fail because of packaging. Teams often spend months fine-tuning models (adjusting hyperparameters and improving architecture]]></summary>
-        <author>
-            <name>Temitope Oyedele</name>
         </author>
     </entry>
     <entry>
@@ -346,17 +346,6 @@ Abusing Customizable Selects originally published on CSS-Tricks, which is part o
         <summary type="html"><![CDATA[Some forms stay UI, while others quietly become rule engines. Here’s why these two different approaches exist and how to choose between them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Sunil Sandhu)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Value of z-index]]></title>
-        <id>https://css-tricks.com/?p=392843</id>
-        <link href="https://css-tricks.com/the-value-of-z-index/"/>
-        <updated>2026-03-09T14:20:01.000Z</updated>
-        <summary type="html"><![CDATA[How we look at the stacking order of our projects, how we choose z-index values, and more importantly, the implications of those choices.
-The Value of z-index originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
         </author>
     </entry>
 </feed>
