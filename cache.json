@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=393088",
+          "author": "Preethi",
+          "description": "A clever approach for selecting multiple dates on a calendar where the :nth-child()'s “n of selector” syntax does all the heavy lifting... even in the JavaScript.\nSelecting a Date Range in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/selecting-a-date-range-in-css/",
+          "publishedOn": "2026-04-09T13:52:56.000Z",
+          "wordCount": 2912,
+          "title": "Selecting a Date Range in CSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_7B1698CD93D2E480B2867F02F52F6807BC326B3FB6B9C5A5A10103D5813DD8E0_1774013392464_Screenshot2026-03-20at7.29.24AM.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=392696",
           "author": "Saleh Mubashar",
           "description": "Cascade layers, specificity tricks, smarter ordering, and even some clever selector hacks can often replace !important with something cleaner, more predictable, and far less embarrassing to explain to your future self.\nAlternatives to the !important Keyword originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -169,7 +179,7 @@
           "description": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.",
           "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
           "publishedOn": "2026-04-07T10:00:00.000Z",
-          "wordCount": 6598,
+          "wordCount": 6590,
           "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
@@ -199,7 +209,7 @@
           "description": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
           "publishedOn": "2026-03-31T11:00:00.000Z",
-          "wordCount": 4338,
+          "wordCount": 4335,
           "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
@@ -214,7 +224,7 @@
           "description": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?",
           "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
           "publishedOn": "2026-03-26T10:00:00.000Z",
-          "wordCount": 4838,
+          "wordCount": 4828,
           "title": "The Site-Search Paradox: Why The Big Box Always Wins",
           "enclosure": {
             "url": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg",
@@ -229,7 +239,7 @@
           "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
           "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
           "publishedOn": "2026-03-24T13:00:00.000Z",
-          "wordCount": 6116,
+          "wordCount": 6113,
           "title": "Testing Font Scaling For Accessibility With Figma Variables",
           "enclosure": {
             "url": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
@@ -259,7 +269,7 @@
           "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.",
           "link": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
           "publishedOn": "2026-03-17T10:00:00.000Z",
-          "wordCount": 4480,
+          "wordCount": 4470,
           "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/anime-marvel-dc-designing-digital-products-emotion-flow.jpg",
@@ -274,7 +284,7 @@
           "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.",
           "link": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
           "publishedOn": "2026-03-13T13:00:00.000Z",
-          "wordCount": 6372,
+          "wordCount": 6378,
           "title": "Moving From Moment.js To The JS Temporal API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg",
@@ -289,7 +299,7 @@
           "description": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.",
           "link": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
           "publishedOn": "2026-03-12T10:00:00.000Z",
-          "wordCount": 5090,
+          "wordCount": 5095,
           "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-border-radius-css-corner-shape-property-ui/beyond-border-radius-css-corner-shape-property-ui.jpg",
@@ -297,21 +307,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/beyond-border-radius-css-corner-shape-property-ui/beyond-border-radius-css-corner-shape-property-ui.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
-          "author": "hello@smashingmagazine.com (Sunil Sandhu)",
-          "description": "Some forms stay UI, while others quietly become rule engines. Here’s why these two different approaches exist and how to choose between them.",
-          "link": "https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
-          "publishedOn": "2026-03-10T13:00:00.000Z",
-          "wordCount": 5331,
-          "title": "Building Dynamic Forms In React And Next.js",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/building-dynamic-forms-react-next-js/building-dynamic-forms-react-next-js.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/building-dynamic-forms-react-next-js/building-dynamic-forms-react-next-js.jpg"
         }
       ]
     },
@@ -320,6 +315,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69d82bc1fa7251682e0ee64c",
+          "author": "Beau Carnes",
+          "description": "Learn CUDA programming for NVIDIA Hopper GPUs. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you to build efficient WGMMA pipelines and leverage Cutlass optimizations",
+          "link": "https://www.freecodecamp.org/news/cuda-programming-for-nvidia-h100s/",
+          "publishedOn": "2026-04-09T22:44:17.000Z",
+          "wordCount": 1320,
+          "title": "CUDA Programming for NVIDIA H100s",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/ea6ca08d-00f6-43c6-88b1-536d7319982f.jpg"
+        },
+        {
+          "id": "69d7dc42fa7251682ed20d5b",
+          "author": "Jide Abdul-Qudus",
+          "description": "We've all been there: You open ChatGPT, drop a prompt. \"Extract all emails from this sheet and categorize by sentiment.\" It gives you something close. You correct it, it apologizes, and gives you a ne",
+          "link": "https://www.freecodecamp.org/news/how-to-build-reliable-ai-systems/",
+          "publishedOn": "2026-04-09T17:05:06.000Z",
+          "wordCount": 4307,
+          "title": "How to Build Reliable AI Systems.",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/79cc7c0e-1348-4827-934d-a5677c74c362.png"
+        },
+        {
+          "id": "69d7ca9dfa7251682ec4b098",
+          "author": "Michael Okolo",
+          "description": "Have you ever wondered how platforms like Etsy, Uber, or Teachable handle payments for thousands of sellers? The answer is a multi-vendor marketplace: an application where merchants can sign up, list",
+          "link": "https://www.freecodecamp.org/news/build-online-marketplace-with-next-js-express-stripe-connect/",
+          "publishedOn": "2026-04-09T15:49:49.000Z",
+          "wordCount": 5814,
+          "title": "How to Build an Online Marketplace with Next.js, Express, and Stripe Connect",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1181805a-87ae-440d-9673-64efeb073aad.png"
+        },
+        {
+          "id": "69d6ddbd707c1ce7688e7ea0",
+          "author": "Daniel Nwaneri",
+          "description": "Most AI agent tutorials make the same mistake: they route every task to the most expensive model available. A character count doesn't need GPT-4. A presence check doesn't need Sonnet. A regex doesn't",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-cost-efficient-ai-agent-with-tiered-model-routing/",
+          "publishedOn": "2026-04-08T22:59:09.000Z",
+          "wordCount": 3754,
+          "title": "How to Build a Cost-Efficient AI Agent with Tiered Model Routing",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3a60436b-cbd7-4005-8e52-36291d815eea.png"
+        },
         {
           "id": "69d6bc21707c1ce7688010d3",
           "author": "Sam Bhattacharyya",
@@ -379,46 +414,6 @@
           "wordCount": 2008,
           "title": "How the Mixture of Experts Architecture Works in AI Models",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/21b2975b-e6ad-462c-84c7-d966bf2092cb.png"
-        },
-        {
-          "id": "69d539975da14bc70e76871d",
-          "author": "Gopinath Karunanithi",
-          "description": "Building modern React applications requires more than just functionality. It also demands responsive layouts and accessible user experiences. By combining semantic HTML, responsive design techniques,",
-          "link": "https://www.freecodecamp.org/news/build-responsive-accessible-ui-with-react-and-semantic-html/",
-          "publishedOn": "2026-04-07T17:06:31.000Z",
-          "wordCount": 6102,
-          "title": "How to Build Responsive and Accessible UI Designs with React and Semantic HTML",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d2651d02-040d-4c4f-bbfe-ef92097edab4.png"
-        },
-        {
-          "id": "69d4298d40c9cabf4494ed80",
-          "author": "Gabor Koos",
-          "description": "Imagine this scenario: you ship a feature in the morning. By afternoon, users are rage-clicking a button and your UI starts showing nonsense: out-of-order results, missing updates, and random failures",
-          "link": "https://www.freecodecamp.org/news/how-to-go-from-toy-api-calls-to-production-ready-networking-in-javascript/",
-          "publishedOn": "2026-04-06T21:45:49.000Z",
-          "wordCount": 4012,
-          "title": "How to Go from Toy API Calls to Production-Ready Networking in JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/eba00755-1be3-42af-841c-71916e81dcc6.png"
-        },
-        {
-          "id": "69d4294c40c9cabf4494b7f7",
-          "author": "Rudrendu Paul",
-          "description": "AI assistants are powerful. They can answer questions, summarize documents, and write code. But out of the box they can't check your phone bill, file an insurance rebuttal, or track your deadlines acr",
-          "link": "https://www.freecodecamp.org/news/how-to-build-and-secure-a-personal-ai-agent-with-openclaw/",
-          "publishedOn": "2026-04-06T21:44:44.000Z",
-          "wordCount": 5029,
-          "title": "How to Build and Secure a Personal AI Agent with OpenClaw",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/70b4dea7-b90f-4f5b-a7e9-20b613a29dd7.png"
-        },
-        {
-          "id": "69d4185f40c9cabf44851652",
-          "author": "Abdul Talha",
-          "description": "As a developer, there's nothing worse than finding out from an angry user that your website is down. Usually, you don't know your server crashed until someone complains. And while many SaaS tools can",
-          "link": "https://www.freecodecamp.org/news/self-host-uptime-kuma-docker/",
-          "publishedOn": "2026-04-06T20:32:31.000Z",
-          "wordCount": 1620,
-          "title": "How to Self-Host Your Own Server Monitoring Dashboard Using Uptime Kuma and Docker",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ea068a20-bc19-400a-a42e-1bbb7e492da8.png"
         }
       ]
     }

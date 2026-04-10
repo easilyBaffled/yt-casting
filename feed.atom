@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-09T00:43:04.478Z</id>
+    <id>urn:2026-04-10T00:50:18.498Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-09T00:43:04.478Z</updated>
+    <updated>2026-04-10T00:50:18.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CUDA Programming for NVIDIA H100s]]></title>
+        <id>69d82bc1fa7251682e0ee64c</id>
+        <link href="https://www.freecodecamp.org/news/cuda-programming-for-nvidia-h100s/"/>
+        <updated>2026-04-09T22:44:17.000Z</updated>
+        <summary type="html"><![CDATA[Learn CUDA programming for NVIDIA Hopper GPUs. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you to build efficient WGMMA pipelines and leverage Cutlass optimizations]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Reliable AI Systems.]]></title>
+        <id>69d7dc42fa7251682ed20d5b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-reliable-ai-systems/"/>
+        <updated>2026-04-09T17:05:06.000Z</updated>
+        <summary type="html"><![CDATA[We've all been there: You open ChatGPT, drop a prompt. "Extract all emails from this sheet and categorize by sentiment." It gives you something close. You correct it, it apologizes, and gives you a ne]]></summary>
+        <author>
+            <name>Jide Abdul-Qudus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Online Marketplace with Next.js, Express, and Stripe Connect]]></title>
+        <id>69d7ca9dfa7251682ec4b098</id>
+        <link href="https://www.freecodecamp.org/news/build-online-marketplace-with-next-js-express-stripe-connect/"/>
+        <updated>2026-04-09T15:49:49.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how platforms like Etsy, Uber, or Teachable handle payments for thousands of sellers? The answer is a multi-vendor marketplace: an application where merchants can sign up, list]]></summary>
+        <author>
+            <name>Michael Okolo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selecting a Date Range in CSS]]></title>
+        <id>https://css-tricks.com/?p=393088</id>
+        <link href="https://css-tricks.com/selecting-a-date-range-in-css/"/>
+        <updated>2026-04-09T13:52:56.000Z</updated>
+        <summary type="html"><![CDATA[A clever approach for selecting multiple dates on a calendar where the :nth-child()'s “n of selector” syntax does all the heavy lifting... even in the JavaScript.
+Selecting a Date Range in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Cost-Efficient AI Agent with Tiered Model Routing]]></title>
+        <id>69d6ddbd707c1ce7688e7ea0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-cost-efficient-ai-agent-with-tiered-model-routing/"/>
+        <updated>2026-04-08T22:59:09.000Z</updated>
+        <summary type="html"><![CDATA[Most AI agent tutorials make the same mistake: they route every task to the most expensive model available. A character count doesn't need GPT-4. A presence check doesn't need Sonnet. A regex doesn't]]></summary>
+        <author>
+            <name>Daniel Nwaneri</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The WebCodecs Handbook: Native Video Processing in the Browser]]></title>
         <id>69d6bc21707c1ce7688010d3</id>
@@ -66,16 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build Responsive and Accessible UI Designs with React and Semantic HTML]]></title>
-        <id>69d539975da14bc70e76871d</id>
-        <link href="https://www.freecodecamp.org/news/build-responsive-accessible-ui-with-react-and-semantic-html/"/>
-        <updated>2026-04-07T17:06:31.000Z</updated>
-        <summary type="html"><![CDATA[Building modern React applications requires more than just functionality. It also demands responsive layouts and accessible user experiences. By combining semantic HTML, responsive design techniques,]]></summary>
-        <author>
-            <name>Gopinath Karunanithi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Alternatives to the !important Keyword]]></title>
         <id>https://css-tricks.com/?p=392696</id>
         <link href="https://css-tricks.com/alternatives-to-the-important-keyword/"/>
@@ -94,36 +135,6 @@ Alternatives to the !important Keyword originally published on CSS-Tricks, which
         <summary type="html"><![CDATA[Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Go from Toy API Calls to Production-Ready Networking in JavaScript]]></title>
-        <id>69d4298d40c9cabf4494ed80</id>
-        <link href="https://www.freecodecamp.org/news/how-to-go-from-toy-api-calls-to-production-ready-networking-in-javascript/"/>
-        <updated>2026-04-06T21:45:49.000Z</updated>
-        <summary type="html"><![CDATA[Imagine this scenario: you ship a feature in the morning. By afternoon, users are rage-clicking a button and your UI starts showing nonsense: out-of-order results, missing updates, and random failures]]></summary>
-        <author>
-            <name>Gabor Koos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build and Secure a Personal AI Agent with OpenClaw]]></title>
-        <id>69d4294c40c9cabf4494b7f7</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-and-secure-a-personal-ai-agent-with-openclaw/"/>
-        <updated>2026-04-06T21:44:44.000Z</updated>
-        <summary type="html"><![CDATA[AI assistants are powerful. They can answer questions, summarize documents, and write code. But out of the box they can't check your phone bill, file an insurance rebuttal, or track your deadlines acr]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Self-Host Your Own Server Monitoring Dashboard Using Uptime Kuma and Docker]]></title>
-        <id>69d4185f40c9cabf44851652</id>
-        <link href="https://www.freecodecamp.org/news/self-host-uptime-kuma-docker/"/>
-        <updated>2026-04-06T20:32:31.000Z</updated>
-        <summary type="html"><![CDATA[As a developer, there's nothing worse than finding out from an angry user that your website is down. Usually, you don't know your server crashed until someone complains. And while many SaaS tools can]]></summary>
-        <author>
-            <name>Abdul Talha</name>
         </author>
     </entry>
     <entry>
@@ -336,16 +347,6 @@ What’s !important #7: random(), Folded Corners, Anchored Container Queries, an
 Abusing Customizable Selects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Patrick Brosset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Dynamic Forms In React And Next.js]]></title>
-        <id>https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/</id>
-        <link href="https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/"/>
-        <updated>2026-03-10T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Some forms stay UI, while others quietly become rule engines. Here’s why these two different approaches exist and how to choose between them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sunil Sandhu)</name>
         </author>
     </entry>
 </feed>
