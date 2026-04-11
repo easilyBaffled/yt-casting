@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-10T00:50:18.498Z</id>
+    <id>urn:2026-04-11T00:49:35.020Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-10T00:50:18.498Z</updated>
+    <updated>2026-04-11T00:49:35.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Secure AI PR Reviewer with Claude, GitHub Actions, and JavaScript]]></title>
+        <id>69d965cac8e5007ddbff6584</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-secure-ai-pr-reviewer-with-claude-github-actions-and-javascript/"/>
+        <updated>2026-04-10T21:04:10.000Z</updated>
+        <summary type="html"><![CDATA[When you work with GitHub Pull Requests, you're basically asking someone else to review your code and merge it into the main project. In small projects, this is manageable. In larger open-source proje]]></summary>
+        <author>
+            <name>Sumit Saha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Positioning-Based Crude Oil Strategy in Python [Full Handbook]]]></title>
+        <id>69d91ddfc8e5007ddbc0e7ca</id>
+        <link href="https://www.freecodecamp.org/news/build-a-positioning-based-crude-oil-strategy-in-python/"/>
+        <updated>2026-04-10T15:57:19.000Z</updated>
+        <summary type="html"><![CDATA[Commitment of Traders (COT) data gets referenced a lot in commodity trading, especially when people talk about crowded positioning, speculative sentiment, or reversal risk. But most of that discussion]]></summary>
+        <author>
+            <name>Nikhil Adithyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Improve UX In Legacy Systems]]></title>
+        <id>https://smashingmagazine.com/2026/04/legacy-systems/</id>
+        <link href="https://smashingmagazine.com/2026/04/legacy-systems/"/>
+        <updated>2026-04-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Practical guidelines for driving UX impact in organizations with legacy systems and broken processes. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to learn programming and CS in the AI hype era – interview with dev and prof Mark Mahoney [Podcast #215]]]></title>
+        <id>69d8ca2e2f108e0f5f709547</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-programming-and-cs-in-the-ai-hype-era-interview-with-dev-and-prof-mark-mahoney-podcast-215/"/>
+        <updated>2026-04-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Mark Mahoney. He worked as a dev before becoming a computer science professor. He's taught computer science for 23 years at Carthage College, a 180-year-old US universit]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CUDA Programming for NVIDIA H100s]]></title>
         <id>69d82bc1fa7251682e0ee64c</id>
@@ -84,36 +124,6 @@ Selecting a Date Range in CSS originally published on CSS-Tricks, which is part 
         <summary type="html"><![CDATA[OpenClaw is getting attention because it turns a popular AI idea into something you can actually run yourself. Instead of opening one more browser tab, you run a Gateway on your own machine or server]]></summary>
         <author>
             <name>Nataraj Sundar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swarm Intelligence Meets Bluetooth: How Your Devices Self-Organize and Communicate]]></title>
-        <id>69d545075da14bc70e7d5faf</id>
-        <link href="https://www.freecodecamp.org/news/how-bluetooth-devices-self-organize-and-communicate/"/>
-        <updated>2026-04-07T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever watched a flock of starlings at sunset? Thousands of birds, wheeling and swooping in perfect unison. There's no leader, no choreographer, no bird with a clipboard shouting directions. Ju]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master AI Drone Programming]]></title>
-        <id>69d53e825da14bc70e792579</id>
-        <link href="https://www.freecodecamp.org/news/master-ai-drone-programming/"/>
-        <updated>2026-04-07T17:27:30.000Z</updated>
-        <summary type="html"><![CDATA[We just posted a comprehensive course on the freeCodeCamp YouTube channel focused on AI drone programming using Python. Created by Murtaza, this tutorial utilizes the Pyimverse simulator, a high-fidel]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Mixture of Experts Architecture Works in AI Models]]></title>
-        <id>69d53c4d5da14bc70e77ff78</id>
-        <link href="https://www.freecodecamp.org/news/how-the-mixture-of-experts-architecture-works-in-ai-models/"/>
-        <updated>2026-04-07T17:18:05.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence (AI) has seen remarkable advancements over the years, with AI models growing in size and complexity. Among the innovative approaches gaining traction today is the Mixture of Ex]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
@@ -326,27 +336,6 @@ What’s !important #7: random(), Folded Corners, Anchored Container Queries, an
         <summary type="html"><![CDATA[The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joe Attardi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI]]></title>
-        <id>https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/</id>
-        <link href="https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/"/>
-        <updated>2026-03-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abusing Customizable Selects]]></title>
-        <id>https://css-tricks.com/?p=392463</id>
-        <link href="https://css-tricks.com/abusing-customizable-selects/"/>
-        <updated>2026-03-11T13:59:15.000Z</updated>
-        <summary type="html"><![CDATA[Let’s go over a few demos using the new customizable <select> feature that may be wild, but also give us a great chance to learn new things in CSS.
-Abusing Customizable Selects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Patrick Brosset</name>
         </author>
     </entry>
 </feed>

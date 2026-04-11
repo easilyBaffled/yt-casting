@@ -17,7 +17,7 @@
           "description": "A clever approach for selecting multiple dates on a calendar where the :nth-child()'s “n of selector” syntax does all the heavy lifting... even in the JavaScript.\nSelecting a Date Range in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/selecting-a-date-range-in-css/",
           "publishedOn": "2026-04-09T13:52:56.000Z",
-          "wordCount": 2912,
+          "wordCount": 2979,
           "title": "Selecting a Date Range in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_7B1698CD93D2E480B2867F02F52F6807BC326B3FB6B9C5A5A10103D5813DD8E0_1774013392464_Screenshot2026-03-20at7.29.24AM.png"
         },
@@ -150,21 +150,6 @@
           "wordCount": 3700,
           "title": "4 Reasons That Make Tailwind Great for Building Layouts",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/tailwind-paint.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392463",
-          "author": "Patrick Brosset",
-          "description": "Let’s go over a few demos using the new customizable <select> feature that may be wild, but also give us a great chance to learn new things in CSS.\nAbusing Customizable Selects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/abusing-customizable-selects/",
-          "publishedOn": "2026-03-11T13:59:15.000Z",
-          "wordCount": 4998,
-          "title": "Abusing Customizable Selects",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/02/css-tricks-custom-select-folder-stack.mp4",
-            "length": "410481",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/custom-select.webp"
         }
       ]
     },
@@ -174,12 +159,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/04/legacy-systems/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Practical guidelines for driving UX impact in organizations with legacy systems and broken processes. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.",
+          "link": "https://smashingmagazine.com/2026/04/legacy-systems/",
+          "publishedOn": "2026-04-10T13:00:00.000Z",
+          "wordCount": 4206,
+          "title": "How To Improve UX In Legacy Systems",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-improve-ux-legacy-systems/legacy-systems.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-improve-ux-legacy-systems/legacy-systems.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
           "author": "hello@smashingmagazine.com (Victor Yocco)",
           "description": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.",
           "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
           "publishedOn": "2026-04-07T10:00:00.000Z",
-          "wordCount": 6590,
+          "wordCount": 6598,
           "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
@@ -209,7 +209,7 @@
           "description": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
           "publishedOn": "2026-03-31T11:00:00.000Z",
-          "wordCount": 4335,
+          "wordCount": 4331,
           "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
@@ -224,7 +224,7 @@
           "description": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?",
           "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
           "publishedOn": "2026-03-26T10:00:00.000Z",
-          "wordCount": 4828,
+          "wordCount": null,
           "title": "The Site-Search Paradox: Why The Big Box Always Wins",
           "enclosure": {
             "url": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg",
@@ -239,7 +239,7 @@
           "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
           "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
           "publishedOn": "2026-03-24T13:00:00.000Z",
-          "wordCount": 6113,
+          "wordCount": 6101,
           "title": "Testing Font Scaling For Accessibility With Figma Variables",
           "enclosure": {
             "url": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
@@ -269,7 +269,7 @@
           "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.",
           "link": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
           "publishedOn": "2026-03-17T10:00:00.000Z",
-          "wordCount": 4470,
+          "wordCount": 4481,
           "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/anime-marvel-dc-designing-digital-products-emotion-flow.jpg",
@@ -284,7 +284,7 @@
           "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.",
           "link": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
           "publishedOn": "2026-03-13T13:00:00.000Z",
-          "wordCount": 6378,
+          "wordCount": 6371,
           "title": "Moving From Moment.js To The JS Temporal API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg",
@@ -292,21 +292,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
-          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
-          "description": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.",
-          "link": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
-          "publishedOn": "2026-03-12T10:00:00.000Z",
-          "wordCount": 5095,
-          "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/beyond-border-radius-css-corner-shape-property-ui/beyond-border-radius-css-corner-shape-property-ui.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/beyond-border-radius-css-corner-shape-property-ui/beyond-border-radius-css-corner-shape-property-ui.jpg"
         }
       ]
     },
@@ -315,6 +300,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69d965cac8e5007ddbff6584",
+          "author": "Sumit Saha",
+          "description": "When you work with GitHub Pull Requests, you're basically asking someone else to review your code and merge it into the main project. In small projects, this is manageable. In larger open-source proje",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-secure-ai-pr-reviewer-with-claude-github-actions-and-javascript/",
+          "publishedOn": "2026-04-10T21:04:10.000Z",
+          "wordCount": 4735,
+          "title": "How to Build a Secure AI PR Reviewer with Claude, GitHub Actions, and JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/43b4a1c0-38d9-4954-9c37-6619c1091f1f.png"
+        },
+        {
+          "id": "69d91ddfc8e5007ddbc0e7ca",
+          "author": "Nikhil Adithyan",
+          "description": "Commitment of Traders (COT) data gets referenced a lot in commodity trading, especially when people talk about crowded positioning, speculative sentiment, or reversal risk. But most of that discussion",
+          "link": "https://www.freecodecamp.org/news/build-a-positioning-based-crude-oil-strategy-in-python/",
+          "publishedOn": "2026-04-10T15:57:19.000Z",
+          "wordCount": 6477,
+          "title": "How to Build a Positioning-Based Crude Oil Strategy in Python [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c18002cf-6519-4b76-b068-3b443cb0f347.png"
+        },
+        {
+          "id": "69d8ca2e2f108e0f5f709547",
+          "author": "Beau Carnes",
+          "description": "Today Quincy Larson interviews Mark Mahoney. He worked as a dev before becoming a computer science professor. He's taught computer science for 23 years at Carthage College, a 180-year-old US universit",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-programming-and-cs-in-the-ai-hype-era-interview-with-dev-and-prof-mark-mahoney-podcast-215/",
+          "publishedOn": "2026-04-10T10:00:00.000Z",
+          "wordCount": 1350,
+          "title": "How to learn programming and CS in the AI hype era – interview with dev and prof Mark Mahoney [Podcast #215]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/2df53936-94fb-4061-bf6c-86d6b8293b75.jpg"
+        },
         {
           "id": "69d82bc1fa7251682e0ee64c",
           "author": "Beau Carnes",
@@ -384,36 +399,6 @@
           "wordCount": 4482,
           "title": "How to Set Up OpenClaw and Design an A2A Plugin Bridge",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4be03b02-d128-49e9-afcb-fea0f771e746.png"
-        },
-        {
-          "id": "69d545075da14bc70e7d5faf",
-          "author": "Nikheel Vishwas Savant",
-          "description": "Have you ever watched a flock of starlings at sunset? Thousands of birds, wheeling and swooping in perfect unison. There's no leader, no choreographer, no bird with a clipboard shouting directions. Ju",
-          "link": "https://www.freecodecamp.org/news/how-bluetooth-devices-self-organize-and-communicate/",
-          "publishedOn": "2026-04-07T17:30:00.000Z",
-          "wordCount": 5414,
-          "title": "Swarm Intelligence Meets Bluetooth: How Your Devices Self-Organize and Communicate",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9503ad16-c079-4e09-9b9d-27935ba7e780.png"
-        },
-        {
-          "id": "69d53e825da14bc70e792579",
-          "author": "Beau Carnes",
-          "description": "We just posted a comprehensive course on the freeCodeCamp YouTube channel focused on AI drone programming using Python. Created by Murtaza, this tutorial utilizes the Pyimverse simulator, a high-fidel",
-          "link": "https://www.freecodecamp.org/news/master-ai-drone-programming/",
-          "publishedOn": "2026-04-07T17:27:30.000Z",
-          "wordCount": 1000,
-          "title": "Master AI Drone Programming",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/f85499ab-1fad-4f9c-b1d8-ab3a4cecfb6c.png"
-        },
-        {
-          "id": "69d53c4d5da14bc70e77ff78",
-          "author": "Manish Shivanandhan",
-          "description": "Artificial intelligence (AI) has seen remarkable advancements over the years, with AI models growing in size and complexity. Among the innovative approaches gaining traction today is the Mixture of Ex",
-          "link": "https://www.freecodecamp.org/news/how-the-mixture-of-experts-architecture-works-in-ai-models/",
-          "publishedOn": "2026-04-07T17:18:05.000Z",
-          "wordCount": 2008,
-          "title": "How the Mixture of Experts Architecture Works in AI Models",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/21b2975b-e6ad-462c-84c7-d966bf2092cb.png"
         }
       ]
     }
