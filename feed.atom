@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-12T00:55:24.762Z</id>
+    <id>urn:2026-04-13T00:55:57.676Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-12T00:55:24.762Z</updated>
+    <updated>2026-04-13T00:55:57.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -326,16 +326,6 @@ What’s !important #7: random(), Folded Corners, Anchored Container Queries, an
 4 Reasons That Make Tailwind Great for Building Layouts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moving From Moment.js To The JS Temporal API]]></title>
-        <id>https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/</id>
-        <link href="https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/"/>
-        <updated>2026-03-13T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joe Attardi)</name>
         </author>
     </entry>
 </feed>
