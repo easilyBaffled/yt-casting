@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-13T00:55:57.676Z</id>
+    <id>urn:2026-04-14T00:55:42.555Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-13T00:55:57.676Z</updated>
+    <updated>2026-04-14T00:55:42.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Local DevOps HomeLab with Docker, Kubernetes, and Ansible]]></title>
+        <id>69dd667c217f5dfcbd55b7b4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-local-devops-homelab-with-docker-kubernetes-and-ansible/"/>
+        <updated>2026-04-13T21:56:12.000Z</updated>
+        <summary type="html"><![CDATA[The first time I tried to follow a DevOps tutorial, it told me to sign up for AWS. I did. I spun up an EC2 instance, followed along for an hour, and then forgot to shut it down. A week later I had a $]]></summary>
+        <author>
+            <name>Osomudeya Zudonu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Mixins in Flutter [Full Handbook]]]></title>
+        <id>69dd65e3217f5dfcbd556534</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-mixins-in-flutter-full-handbook/"/>
+        <updated>2026-04-13T21:53:39.000Z</updated>
+        <summary type="html"><![CDATA[There's a moment in every Flutter developer's journey where the inheritance model starts to crack. You have a StatefulWidget for a screen that plays animations. You write the animation logic carefully]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Prep for Technical Interviews – A Guide for Web Developers]]></title>
+        <id>69dd2c59217f5dfcbd261b21</id>
+        <link href="https://www.freecodecamp.org/news/how-to-prep-for-technical-interviews-guide-for-web-devs/"/>
+        <updated>2026-04-13T17:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Over the years I've participated in dozens of technical interviews. I've answered technical questions one-on-one with the CTO and in a group with the dev team. I've taken quizzes with a timer and buil]]></summary>
+        <author>
+            <name>Ilyas Seisov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.4 vs GLM-5: Is Open Source Finally Matching Proprietary AI?]]></title>
+        <id>69dd26ba217f5dfcbd1fdd2c</id>
+        <link href="https://www.freecodecamp.org/news/gpt-5-4-vs-glm-5-is-open-source-finally-matching-proprietary-ai/"/>
+        <updated>2026-04-13T17:24:10.000Z</updated>
+        <summary type="html"><![CDATA[On March 27, 2026, Zhipu AI quietly pushed an update to their open-weight model line. GLM-5.1, they claim, now performs at 94.6% of Claude Opus 4.6 on coding benchmarks. That's a 28% improvement over]]></summary>
+        <author>
+            <name>Oyedele Tioluwani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Visualization Tools for Svelte Developers]]></title>
+        <id>69dd2445217f5dfcbd1e423d</id>
+        <link href="https://www.freecodecamp.org/news/data-visualization-tools-for-svelte-developers/"/>
+        <updated>2026-04-13T17:13:41.000Z</updated>
+        <summary type="html"><![CDATA[Svelte is a front-end framework for building fast and interactive web applications. Unlike many other well-known frameworks, it doesn’t use a virtual DOM. Instead, it turns your code into efficient Ja]]></summary>
+        <author>
+            <name>Daria Filozop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Keep Human Experts Visible in Your AI-Assisted Codebase]]></title>
+        <id>69dd18d4217f5dfcbd13e964</id>
+        <link href="https://www.freecodecamp.org/news/how-to-keep-human-experts-visible-in-your-ai-assisted-codebase/"/>
+        <updated>2026-04-13T16:24:52.000Z</updated>
+        <summary type="html"><![CDATA[Six months ago, Stack Overflow processed 108,563 questions in a single month. By December 2025, that number had fallen to 3,862. A 78% collapse in two years. The explanation everyone reaches for is th]]></summary>
+        <author>
+            <name>Daniel Nwaneri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 View Transitions Recipes to Try]]></title>
+        <id>https://css-tricks.com/?p=392002</id>
+        <link href="https://css-tricks.com/7-view-transitions-recipes-to-try/"/>
+        <updated>2026-04-13T14:14:43.000Z</updated>
+        <summary type="html"><![CDATA[Craving for a view transition? Sunkanmi has lots of common transitions you can drop into your website right now!
+7 View Transitions Recipes to Try originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient Data Processing in Python: Batch vs Streaming Pipelines Explained]]></title>
+        <id>69dcf4dbf57346bc1e06d19b</id>
+        <link href="https://www.freecodecamp.org/news/efficient-data-processing-in-python-batch-vs-streaming-pipelines/"/>
+        <updated>2026-04-13T13:51:23.000Z</updated>
+        <summary type="html"><![CDATA[Every data pipeline makes a fundamental choice before any code is written: does it process data in chunks on a schedule, or does it process data continuously as it arrives? This choice — batch versus]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Deploy Multi-Architecture Docker Apps on Google Cloud Using ARM Nodes (Without QEMU)]]></title>
+        <id>69dcf2c3f57346bc1e05a01d</id>
+        <link href="https://www.freecodecamp.org/news/build-and-deploy-multi-architecture-docker-apps-on-google-cloud-using-arm-nodes/"/>
+        <updated>2026-04-13T13:42:27.000Z</updated>
+        <summary type="html"><![CDATA[If you've bought a laptop in the last few years, there's a good chance it's running an ARM processor. Apple's M-series chips put ARM on the map for developers, but the real revolution is happening ins]]></summary>
+        <author>
+            <name>Amina Lawal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Secure AI PR Reviewer with Claude, GitHub Actions, and JavaScript]]></title>
         <id>69d965cac8e5007ddbff6584</id>
@@ -36,94 +127,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to learn programming and CS in the AI hype era – interview with dev and prof Mark Mahoney [Podcast #215]]]></title>
-        <id>69d8ca2e2f108e0f5f709547</id>
-        <link href="https://www.freecodecamp.org/news/how-to-learn-programming-and-cs-in-the-ai-hype-era-interview-with-dev-and-prof-mark-mahoney-podcast-215/"/>
-        <updated>2026-04-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Mark Mahoney. He worked as a dev before becoming a computer science professor. He's taught computer science for 23 years at Carthage College, a 180-year-old US universit]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CUDA Programming for NVIDIA H100s]]></title>
-        <id>69d82bc1fa7251682e0ee64c</id>
-        <link href="https://www.freecodecamp.org/news/cuda-programming-for-nvidia-h100s/"/>
-        <updated>2026-04-09T22:44:17.000Z</updated>
-        <summary type="html"><![CDATA[Learn CUDA programming for NVIDIA Hopper GPUs. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you to build efficient WGMMA pipelines and leverage Cutlass optimizations]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Reliable AI Systems.]]></title>
-        <id>69d7dc42fa7251682ed20d5b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-reliable-ai-systems/"/>
-        <updated>2026-04-09T17:05:06.000Z</updated>
-        <summary type="html"><![CDATA[We've all been there: You open ChatGPT, drop a prompt. "Extract all emails from this sheet and categorize by sentiment." It gives you something close. You correct it, it apologizes, and gives you a ne]]></summary>
-        <author>
-            <name>Jide Abdul-Qudus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Online Marketplace with Next.js, Express, and Stripe Connect]]></title>
-        <id>69d7ca9dfa7251682ec4b098</id>
-        <link href="https://www.freecodecamp.org/news/build-online-marketplace-with-next-js-express-stripe-connect/"/>
-        <updated>2026-04-09T15:49:49.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how platforms like Etsy, Uber, or Teachable handle payments for thousands of sellers? The answer is a multi-vendor marketplace: an application where merchants can sign up, list]]></summary>
-        <author>
-            <name>Michael Okolo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Selecting a Date Range in CSS]]></title>
         <id>https://css-tricks.com/?p=393088</id>
         <link href="https://css-tricks.com/selecting-a-date-range-in-css/"/>
         <updated>2026-04-09T13:52:56.000Z</updated>
         <summary type="html"><![CDATA[A clever approach for selecting multiple dates on a calendar where the :nth-child()'s “n of selector” syntax does all the heavy lifting... even in the JavaScript.
-Selecting a Date Range in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+Selecting a Date Range in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Cost-Efficient AI Agent with Tiered Model Routing]]></title>
-        <id>69d6ddbd707c1ce7688e7ea0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-cost-efficient-ai-agent-with-tiered-model-routing/"/>
-        <updated>2026-04-08T22:59:09.000Z</updated>
-        <summary type="html"><![CDATA[Most AI agent tutorials make the same mistake: they route every task to the most expensive model available. A character count doesn't need GPT-4. A presence check doesn't need Sonnet. A regex doesn't]]></summary>
-        <author>
-            <name>Daniel Nwaneri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The WebCodecs Handbook: Native Video Processing in the Browser]]></title>
-        <id>69d6bc21707c1ce7688010d3</id>
-        <link href="https://www.freecodecamp.org/news/the-webcodecs-handbook-native-video-processing-in-the-browser/"/>
-        <updated>2026-04-08T20:35:45.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever tried to process video in the browser, like for a video editing or streaming app, your options were either to process video on a server (expensive) or to use ffmpeg.js (clunky). With th]]></summary>
-        <author>
-            <name>Sam Bhattacharyya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Bluetooth LE Audio Handbook: From "Why Does My Call Sound Like a Tin Can?" to AOSP Implementation]]></title>
-        <id>69d6805e707c1ce76855752b</id>
-        <link href="https://www.freecodecamp.org/news/the-bluetooth-le-audio-handbook/"/>
-        <updated>2026-04-08T16:20:46.000Z</updated>
-        <summary type="html"><![CDATA[Since the early 2000s, Bluetooth has been the dominant way we listen to wireless audio, powering everything from the first mono headsets to today's true wireless earbuds. But the underlying technology]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up OpenClaw and Design an A2A Plugin Bridge]]></title>
-        <id>69d542ca5da14bc70e7c1559</id>
-        <link href="https://www.freecodecamp.org/news/openclaw-a2a-plugin-architecture-guide/"/>
-        <updated>2026-04-07T17:45:46.000Z</updated>
-        <summary type="html"><![CDATA[OpenClaw is getting attention because it turns a popular AI idea into something you can actually run yourself. Instead of opening one more browser tab, you run a Gateway on your own machine or server]]></summary>
-        <author>
-            <name>Nataraj Sundar</name>
         </author>
     </entry>
     <entry>
@@ -132,7 +143,7 @@ Selecting a Date Range in CSS originally published on CSS-Tricks, which is part 
         <link href="https://css-tricks.com/alternatives-to-the-important-keyword/"/>
         <updated>2026-04-07T13:54:43.000Z</updated>
         <summary type="html"><![CDATA[Cascade layers, specificity tricks, smarter ordering, and even some clever selector hacks can often replace !important with something cleaner, more predictable, and far less embarrassing to explain to your future self.
-Alternatives to the !important Keyword originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+Alternatives to the !important Keyword originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Saleh Mubashar</name>
         </author>
@@ -153,7 +164,7 @@ Alternatives to the !important Keyword originally published on CSS-Tricks, which
         <link href="https://css-tricks.com/css-multi-column-layout-wrapping-features/"/>
         <updated>2026-04-06T13:55:49.000Z</updated>
         <summary type="html"><![CDATA[Chrome 145 introduces the column-height and column-wrap properties, enabling us to wrap the additional content into a new row below, creating a vertical scroll instead of a horizontal scroll.
-Looking at New CSS Multi-Column Layout Wrapping Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+Looking at New CSS Multi-Column Layout Wrapping Features originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Abhishek Pratap Singh</name>
         </author>
@@ -164,7 +175,7 @@ Looking at New CSS Multi-Column Layout Wrapping Features originally published on
         <link href="https://css-tricks.com/complex-css-shapes-with-shape-function/"/>
         <updated>2026-04-02T13:58:24.000Z</updated>
         <summary type="html"><![CDATA[Creating rectangles, circles, and rounded rectangles is the basic of CSS. Creating more complex CSS shapes such as triangles, hexagons, stars, hearts, etc. is more challenging but still a simple task if we rely on modern features.
-Making Complex CSS Shapes Using shape() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+Making Complex CSS Shapes Using shape() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Temani Afif</name>
         </author>
@@ -175,7 +186,7 @@ Making Complex CSS Shapes Using shape() originally published on CSS-Tricks, whic
         <link href="https://css-tricks.com/front-end-april-fools-top-10/"/>
         <updated>2026-04-01T14:00:26.000Z</updated>
         <summary type="html"><![CDATA[These are the historical pranks I consider the top 10 most noteworthy, rather than the “best.” You’ll see that some of them crossed the line and/or backfired.
-Front-End Fools: Top 10 April Fools’ UI Pranks of All Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+Front-End Fools: Top 10 April Fools’ UI Pranks of All Time originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Lee Meyer</name>
         </author>
@@ -186,7 +197,7 @@ Front-End Fools: Top 10 April Fools’ UI Pranks of All Time originally publishe
         <link href="https://css-tricks.com/css-olfactive-api/"/>
         <updated>2026-04-01T13:54:47.000Z</updated>
         <summary type="html"><![CDATA[A deep sniff of the new CSS Olfactive API, a set of proposed features for immersive user experiences using smell.
-Sniffing Out the CSS Olfactive API originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+Sniffing Out the CSS Olfactive API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>John Rhea</name>
         </author>
@@ -207,7 +218,7 @@ Sniffing Out the CSS Olfactive API originally published on CSS-Tricks, which is 
         <link href="https://css-tricks.com/whats-important-8/"/>
         <updated>2026-03-31T14:14:07.000Z</updated>
         <summary type="html"><![CDATA[Short n’ sweet but ever so neat, this issue covers light/dark favicons, @mixin, anchor-interpolated morphing, object-view-box, new web features, and more.
-What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
         </author>
@@ -228,7 +239,7 @@ What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More o
         <link href="https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/"/>
         <updated>2026-03-30T14:12:14.000Z</updated>
         <summary type="html"><![CDATA[That gap between "the form works" and "the business works" is something we don't really tend to discuss much as front-enders. We focus a great deal on user experience, validation methods, and accessibility, yet we overlook what the data does once it leaves our control
-Form Automation Tips for Happier User and Clients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+Form Automation Tips for Happier User and Clients originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Iqra Naaem</name>
         </author>
@@ -239,7 +250,7 @@ Form Automation Tips for Happier User and Clients originally published on CSS-Tr
         <link href="https://css-tricks.com/generative-ui-notes/"/>
         <updated>2026-03-26T14:59:55.000Z</updated>
         <summary type="html"><![CDATA[Looking at research and experiments that are designed to automatically generate user interfaces based on user preferences.
-Generative UI Notes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+Generative UI Notes originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
@@ -270,7 +281,7 @@ Generative UI Notes originally published on CSS-Tricks, which is part of the Dig
         <link href="https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/"/>
         <updated>2026-03-23T13:51:15.000Z</updated>
         <summary type="html"><![CDATA[The new CSS corner-shape() property is mathematical, so it’s easily animated. Author Daniel Schwarz pokes at animating the property for interesting UI effects.
-Experimenting With Scroll-Driven corner-shape Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+Experimenting With Scroll-Driven corner-shape Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
         </author>
@@ -291,7 +302,7 @@ Experimenting With Scroll-Driven corner-shape Animations originally published on
         <link href="https://css-tricks.com/javascript-for-everyone-destructuring/"/>
         <updated>2026-03-19T13:06:30.000Z</updated>
         <summary type="html"><![CDATA[Mat Marquis and Andy Bell have released JavaScript for Everyone, an online course offered exclusively at Piccalilli. This post is an excerpt from the course taken specifically from a chapter all about JavaScript destructuring. 
-JavaScript for Everyone: Destructuring originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+JavaScript for Everyone: Destructuring originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Mat Marquis</name>
         </author>
@@ -312,7 +323,7 @@ JavaScript for Everyone: Destructuring originally published on CSS-Tricks, which
         <link href="https://css-tricks.com/whats-important-7/"/>
         <updated>2026-03-16T15:06:01.000Z</updated>
         <summary type="html"><![CDATA[For this issue we have random(), folded clip-path corners, anchored container queries, customizable select, scroll-triggered animations, and more.
-What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
         </author>
@@ -323,7 +334,7 @@ What’s !important #7: random(), Folded Corners, Anchored Container Queries, an
         <link href="https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/"/>
         <updated>2026-03-16T14:01:02.000Z</updated>
         <summary type="html"><![CDATA[Tailwind is really great for making layouts and there are many reasons why. Zell Liew looks at four specific examples of common use cases.
-4 Reasons That Make Tailwind Great for Building Layouts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+4 Reasons That Make Tailwind Great for Building Layouts originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Zell Liew</name>
         </author>

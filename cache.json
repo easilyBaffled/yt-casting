@@ -12,9 +12,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=392002",
+          "author": "Sunkanmi Fafowora",
+          "description": "Craving for a view transition? Sunkanmi has lots of common transitions you can drop into your website right now!\n7 View Transitions Recipes to Try originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/7-view-transitions-recipes-to-try/",
+          "publishedOn": "2026-04-13T14:14:43.000Z",
+          "wordCount": 3713,
+          "title": "7 View Transitions Recipes to Try",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/02/View-transition-Pixelate-dissolve.mp4",
+            "length": "658932",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=393088",
           "author": "Preethi",
-          "description": "A clever approach for selecting multiple dates on a calendar where the :nth-child()'s “n of selector” syntax does all the heavy lifting... even in the JavaScript.\nSelecting a Date Range in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "A clever approach for selecting multiple dates on a calendar where the :nth-child()'s “n of selector” syntax does all the heavy lifting... even in the JavaScript.\nSelecting a Date Range in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/selecting-a-date-range-in-css/",
           "publishedOn": "2026-04-09T13:52:56.000Z",
           "wordCount": 2979,
@@ -24,7 +39,7 @@
         {
           "id": "https://css-tricks.com/?p=392696",
           "author": "Saleh Mubashar",
-          "description": "Cascade layers, specificity tricks, smarter ordering, and even some clever selector hacks can often replace !important with something cleaner, more predictable, and far less embarrassing to explain to your future self.\nAlternatives to the !important Keyword originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "Cascade layers, specificity tricks, smarter ordering, and even some clever selector hacks can often replace !important with something cleaner, more predictable, and far less embarrassing to explain to your future self.\nAlternatives to the !important Keyword originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/alternatives-to-the-important-keyword/",
           "publishedOn": "2026-04-07T13:54:43.000Z",
           "wordCount": 3781,
@@ -34,7 +49,7 @@
         {
           "id": "https://css-tricks.com/?p=392361",
           "author": "Abhishek Pratap Singh",
-          "description": "Chrome 145 introduces the column-height and column-wrap properties, enabling us to wrap the additional content into a new row below, creating a vertical scroll instead of a horizontal scroll.\nLooking at New CSS Multi-Column Layout Wrapping Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "Chrome 145 introduces the column-height and column-wrap properties, enabling us to wrap the additional content into a new row below, creating a vertical scroll instead of a horizontal scroll.\nLooking at New CSS Multi-Column Layout Wrapping Features originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-multi-column-layout-wrapping-features/",
           "publishedOn": "2026-04-06T13:55:49.000Z",
           "wordCount": 3252,
@@ -49,7 +64,7 @@
         {
           "id": "https://css-tricks.com/?p=392986",
           "author": "Temani Afif",
-          "description": "Creating rectangles, circles, and rounded rectangles is the basic of CSS. Creating more complex CSS shapes such as triangles, hexagons, stars, hearts, etc. is more challenging but still a simple task if we rely on modern features.\nMaking Complex CSS Shapes Using shape() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "Creating rectangles, circles, and rounded rectangles is the basic of CSS. Creating more complex CSS shapes such as triangles, hexagons, stars, hearts, etc. is more challenging but still a simple task if we rely on modern features.\nMaking Complex CSS Shapes Using shape() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/complex-css-shapes-with-shape-function/",
           "publishedOn": "2026-04-02T13:58:24.000Z",
           "wordCount": 3688,
@@ -59,7 +74,7 @@
         {
           "id": "https://css-tricks.com/?p=392794",
           "author": "Lee Meyer",
-          "description": "These are the historical pranks I consider the top 10 most noteworthy, rather than the “best.” You’ll see that some of them crossed the line and/or backfired.\nFront-End Fools: Top 10 April Fools’ UI Pranks of All Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "These are the historical pranks I consider the top 10 most noteworthy, rather than the “best.” You’ll see that some of them crossed the line and/or backfired.\nFront-End Fools: Top 10 April Fools’ UI Pranks of All Time originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/front-end-april-fools-top-10/",
           "publishedOn": "2026-04-01T14:00:26.000Z",
           "wordCount": 4978,
@@ -69,7 +84,7 @@
         {
           "id": "https://css-tricks.com/?p=393070",
           "author": "John Rhea",
-          "description": "A deep sniff of the new CSS Olfactive API, a set of proposed features for immersive user experiences using smell.\nSniffing Out the CSS Olfactive API originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "A deep sniff of the new CSS Olfactive API, a set of proposed features for immersive user experiences using smell.\nSniffing Out the CSS Olfactive API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-olfactive-api/",
           "publishedOn": "2026-04-01T13:54:47.000Z",
           "wordCount": 3228,
@@ -79,7 +94,7 @@
         {
           "id": "https://css-tricks.com/?p=393306",
           "author": "Daniel Schwarz",
-          "description": "Short n’ sweet but ever so neat, this issue covers light/dark favicons, @mixin, anchor-interpolated morphing, object-view-box, new web features, and more.\nWhat’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "Short n’ sweet but ever so neat, this issue covers light/dark favicons, @mixin, anchor-interpolated morphing, object-view-box, new web features, and more.\nWhat’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-8/",
           "publishedOn": "2026-03-31T14:14:07.000Z",
           "wordCount": 2821,
@@ -89,7 +104,7 @@
         {
           "id": "https://css-tricks.com/?p=391993",
           "author": "Iqra Naaem",
-          "description": "That gap between \"the form works\" and \"the business works\" is something we don't really tend to discuss much as front-enders. We focus a great deal on user experience, validation methods, and accessibility, yet we overlook what the data does once it leaves our control\nForm Automation Tips for Happier User and Clients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "That gap between \"the form works\" and \"the business works\" is something we don't really tend to discuss much as front-enders. We focus a great deal on user experience, validation methods, and accessibility, yet we overlook what the data does once it leaves our control\nForm Automation Tips for Happier User and Clients originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/",
           "publishedOn": "2026-03-30T14:12:14.000Z",
           "wordCount": 4003,
@@ -99,7 +114,7 @@
         {
           "id": "https://css-tricks.com/?p=391438",
           "author": "Geoff Graham",
-          "description": "Looking at research and experiments that are designed to automatically generate user interfaces based on user preferences.\nGenerative UI Notes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "Looking at research and experiments that are designed to automatically generate user interfaces based on user preferences.\nGenerative UI Notes originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/generative-ui-notes/",
           "publishedOn": "2026-03-26T14:59:55.000Z",
           "wordCount": 3229,
@@ -109,7 +124,7 @@
         {
           "id": "https://css-tricks.com/?p=392503",
           "author": "Daniel Schwarz",
-          "description": "The new CSS corner-shape() property is mathematical, so it’s easily animated. Author Daniel Schwarz pokes at animating the property for interesting UI effects.\nExperimenting With Scroll-Driven corner-shape Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "The new CSS corner-shape() property is mathematical, so it’s easily animated. Author Daniel Schwarz pokes at animating the property for interesting UI effects.\nExperimenting With Scroll-Driven corner-shape Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/",
           "publishedOn": "2026-03-23T13:51:15.000Z",
           "wordCount": 3635,
@@ -124,7 +139,7 @@
         {
           "id": "https://css-tricks.com/?p=392714",
           "author": "Mat Marquis",
-          "description": "Mat Marquis and Andy Bell have released JavaScript for Everyone, an online course offered exclusively at Piccalilli. This post is an excerpt from the course taken specifically from a chapter all about JavaScript destructuring. \nJavaScript for Everyone: Destructuring originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "Mat Marquis and Andy Bell have released JavaScript for Everyone, an online course offered exclusively at Piccalilli. This post is an excerpt from the course taken specifically from a chapter all about JavaScript destructuring. \nJavaScript for Everyone: Destructuring originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/javascript-for-everyone-destructuring/",
           "publishedOn": "2026-03-19T13:06:30.000Z",
           "wordCount": 5856,
@@ -134,7 +149,7 @@
         {
           "id": "https://css-tricks.com/?p=393021",
           "author": "Daniel Schwarz",
-          "description": "For this issue we have random(), folded clip-path corners, anchored container queries, customizable select, scroll-triggered animations, and more.\nWhat’s !important #7: random(), Folded Corners, Anchored Container Queries, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "For this issue we have random(), folded clip-path corners, anchored container queries, customizable select, scroll-triggered animations, and more.\nWhat’s !important #7: random(), Folded Corners, Anchored Container Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-7/",
           "publishedOn": "2026-03-16T15:06:01.000Z",
           "wordCount": 2699,
@@ -144,7 +159,7 @@
         {
           "id": "https://css-tricks.com/?p=392180",
           "author": "Zell Liew",
-          "description": "Tailwind is really great for making layouts and there are many reasons why. Zell Liew looks at four specific examples of common use cases.\n4 Reasons That Make Tailwind Great for Building Layouts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "Tailwind is really great for making layouts and there are many reasons why. Zell Liew looks at four specific examples of common use cases.\n4 Reasons That Make Tailwind Great for Building Layouts originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/",
           "publishedOn": "2026-03-16T14:01:02.000Z",
           "wordCount": 3700,
@@ -179,7 +194,7 @@
           "description": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.",
           "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
           "publishedOn": "2026-04-07T10:00:00.000Z",
-          "wordCount": 6594,
+          "wordCount": 6612,
           "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
@@ -209,7 +224,7 @@
           "description": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
           "publishedOn": "2026-03-31T11:00:00.000Z",
-          "wordCount": 4336,
+          "wordCount": 4326,
           "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
@@ -224,7 +239,7 @@
           "description": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?",
           "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
           "publishedOn": "2026-03-26T10:00:00.000Z",
-          "wordCount": 4836,
+          "wordCount": 4837,
           "title": "The Site-Search Paradox: Why The Big Box Always Wins",
           "enclosure": {
             "url": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg",
@@ -239,7 +254,7 @@
           "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
           "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
           "publishedOn": "2026-03-24T13:00:00.000Z",
-          "wordCount": 6206,
+          "wordCount": 6100,
           "title": "Testing Font Scaling For Accessibility With Figma Variables",
           "enclosure": {
             "url": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
@@ -269,7 +284,7 @@
           "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.",
           "link": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
           "publishedOn": "2026-03-17T10:00:00.000Z",
-          "wordCount": 4480,
+          "wordCount": 4468,
           "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/anime-marvel-dc-designing-digital-products-emotion-flow.jpg",
@@ -285,6 +300,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69dd667c217f5dfcbd55b7b4",
+          "author": "Osomudeya Zudonu",
+          "description": "The first time I tried to follow a DevOps tutorial, it told me to sign up for AWS. I did. I spun up an EC2 instance, followed along for an hour, and then forgot to shut it down. A week later I had a $",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-local-devops-homelab-with-docker-kubernetes-and-ansible/",
+          "publishedOn": "2026-04-13T21:56:12.000Z",
+          "wordCount": 6395,
+          "title": "How to Build a Local DevOps HomeLab with Docker, Kubernetes, and Ansible",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1e970f8b-eb52-4582-9c98-13cbce867c89.png"
+        },
+        {
+          "id": "69dd65e3217f5dfcbd556534",
+          "author": "Atuoha Anthony",
+          "description": "There's a moment in every Flutter developer's journey where the inheritance model starts to crack. You have a StatefulWidget for a screen that plays animations. You write the animation logic carefully",
+          "link": "https://www.freecodecamp.org/news/how-to-use-mixins-in-flutter-full-handbook/",
+          "publishedOn": "2026-04-13T21:53:39.000Z",
+          "wordCount": 12270,
+          "title": "How to Use Mixins in Flutter [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/abc0d8f4-ff65-42b4-b029-446313c29595.png"
+        },
+        {
+          "id": "69dd2c59217f5dfcbd261b21",
+          "author": "Ilyas Seisov",
+          "description": "Over the years I've participated in dozens of technical interviews. I've answered technical questions one-on-one with the CTO and in a group with the dev team. I've taken quizzes with a timer and buil",
+          "link": "https://www.freecodecamp.org/news/how-to-prep-for-technical-interviews-guide-for-web-devs/",
+          "publishedOn": "2026-04-13T17:48:09.000Z",
+          "wordCount": 2996,
+          "title": "How to Prep for Technical Interviews – A Guide for Web Developers",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b179e59d-bb58-41cb-8191-4e9523412933.png"
+        },
+        {
+          "id": "69dd26ba217f5dfcbd1fdd2c",
+          "author": "Oyedele Tioluwani",
+          "description": "On March 27, 2026, Zhipu AI quietly pushed an update to their open-weight model line. GLM-5.1, they claim, now performs at 94.6% of Claude Opus 4.6 on coding benchmarks. That's a 28% improvement over",
+          "link": "https://www.freecodecamp.org/news/gpt-5-4-vs-glm-5-is-open-source-finally-matching-proprietary-ai/",
+          "publishedOn": "2026-04-13T17:24:10.000Z",
+          "wordCount": 2722,
+          "title": "GPT-5.4 vs GLM-5: Is Open Source Finally Matching Proprietary AI?",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a3eb30b3-57b6-490a-8fd5-3f25994f61b1.png"
+        },
+        {
+          "id": "69dd2445217f5dfcbd1e423d",
+          "author": "Daria Filozop",
+          "description": "Svelte is a front-end framework for building fast and interactive web applications. Unlike many other well-known frameworks, it doesn’t use a virtual DOM. Instead, it turns your code into efficient Ja",
+          "link": "https://www.freecodecamp.org/news/data-visualization-tools-for-svelte-developers/",
+          "publishedOn": "2026-04-13T17:13:41.000Z",
+          "wordCount": 2370,
+          "title": "Data Visualization Tools for Svelte Developers",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cd0a2c05-0604-46d2-a9c0-b914a187d492.png"
+        },
+        {
+          "id": "69dd18d4217f5dfcbd13e964",
+          "author": "Daniel Nwaneri",
+          "description": "Six months ago, Stack Overflow processed 108,563 questions in a single month. By December 2025, that number had fallen to 3,862. A 78% collapse in two years. The explanation everyone reaches for is th",
+          "link": "https://www.freecodecamp.org/news/how-to-keep-human-experts-visible-in-your-ai-assisted-codebase/",
+          "publishedOn": "2026-04-13T16:24:52.000Z",
+          "wordCount": 4788,
+          "title": "How to Keep Human Experts Visible in Your AI-Assisted Codebase",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/21d160a8-af66-4048-9fda-1d83b2e26148.png"
+        },
+        {
+          "id": "69dcf4dbf57346bc1e06d19b",
+          "author": "Bala Priya C",
+          "description": "Every data pipeline makes a fundamental choice before any code is written: does it process data in chunks on a schedule, or does it process data continuously as it arrives? This choice — batch versus",
+          "link": "https://www.freecodecamp.org/news/efficient-data-processing-in-python-batch-vs-streaming-pipelines/",
+          "publishedOn": "2026-04-13T13:51:23.000Z",
+          "wordCount": 3099,
+          "title": "Efficient Data Processing in Python: Batch vs Streaming Pipelines Explained",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0cd359d4-9628-4b17-8dc4-a3a2a83172c8.png"
+        },
+        {
+          "id": "69dcf2c3f57346bc1e05a01d",
+          "author": "Amina Lawal",
+          "description": "If you've bought a laptop in the last few years, there's a good chance it's running an ARM processor. Apple's M-series chips put ARM on the map for developers, but the real revolution is happening ins",
+          "link": "https://www.freecodecamp.org/news/build-and-deploy-multi-architecture-docker-apps-on-google-cloud-using-arm-nodes/",
+          "publishedOn": "2026-04-13T13:42:27.000Z",
+          "wordCount": 6692,
+          "title": "How to Build and Deploy Multi-Architecture Docker Apps on Google Cloud Using ARM Nodes (Without QEMU)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e89ae65a-4b3a-44b7-94d8-d0638f017bf6.png"
+        },
         {
           "id": "69d965cac8e5007ddbff6584",
           "author": "Sumit Saha",
@@ -304,86 +399,6 @@
           "wordCount": 6477,
           "title": "How to Build a Positioning-Based Crude Oil Strategy in Python [Full Handbook]",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c18002cf-6519-4b76-b068-3b443cb0f347.png"
-        },
-        {
-          "id": "69d8ca2e2f108e0f5f709547",
-          "author": "Beau Carnes",
-          "description": "Today Quincy Larson interviews Mark Mahoney. He worked as a dev before becoming a computer science professor. He's taught computer science for 23 years at Carthage College, a 180-year-old US universit",
-          "link": "https://www.freecodecamp.org/news/how-to-learn-programming-and-cs-in-the-ai-hype-era-interview-with-dev-and-prof-mark-mahoney-podcast-215/",
-          "publishedOn": "2026-04-10T10:00:00.000Z",
-          "wordCount": 1350,
-          "title": "How to learn programming and CS in the AI hype era – interview with dev and prof Mark Mahoney [Podcast #215]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/2df53936-94fb-4061-bf6c-86d6b8293b75.jpg"
-        },
-        {
-          "id": "69d82bc1fa7251682e0ee64c",
-          "author": "Beau Carnes",
-          "description": "Learn CUDA programming for NVIDIA Hopper GPUs. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you to build efficient WGMMA pipelines and leverage Cutlass optimizations",
-          "link": "https://www.freecodecamp.org/news/cuda-programming-for-nvidia-h100s/",
-          "publishedOn": "2026-04-09T22:44:17.000Z",
-          "wordCount": 1320,
-          "title": "CUDA Programming for NVIDIA H100s",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/ea6ca08d-00f6-43c6-88b1-536d7319982f.jpg"
-        },
-        {
-          "id": "69d7dc42fa7251682ed20d5b",
-          "author": "Jide Abdul-Qudus",
-          "description": "We've all been there: You open ChatGPT, drop a prompt. \"Extract all emails from this sheet and categorize by sentiment.\" It gives you something close. You correct it, it apologizes, and gives you a ne",
-          "link": "https://www.freecodecamp.org/news/how-to-build-reliable-ai-systems/",
-          "publishedOn": "2026-04-09T17:05:06.000Z",
-          "wordCount": 4307,
-          "title": "How to Build Reliable AI Systems.",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/79cc7c0e-1348-4827-934d-a5677c74c362.png"
-        },
-        {
-          "id": "69d7ca9dfa7251682ec4b098",
-          "author": "Michael Okolo",
-          "description": "Have you ever wondered how platforms like Etsy, Uber, or Teachable handle payments for thousands of sellers? The answer is a multi-vendor marketplace: an application where merchants can sign up, list",
-          "link": "https://www.freecodecamp.org/news/build-online-marketplace-with-next-js-express-stripe-connect/",
-          "publishedOn": "2026-04-09T15:49:49.000Z",
-          "wordCount": 5814,
-          "title": "How to Build an Online Marketplace with Next.js, Express, and Stripe Connect",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1181805a-87ae-440d-9673-64efeb073aad.png"
-        },
-        {
-          "id": "69d6ddbd707c1ce7688e7ea0",
-          "author": "Daniel Nwaneri",
-          "description": "Most AI agent tutorials make the same mistake: they route every task to the most expensive model available. A character count doesn't need GPT-4. A presence check doesn't need Sonnet. A regex doesn't",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-cost-efficient-ai-agent-with-tiered-model-routing/",
-          "publishedOn": "2026-04-08T22:59:09.000Z",
-          "wordCount": 3754,
-          "title": "How to Build a Cost-Efficient AI Agent with Tiered Model Routing",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3a60436b-cbd7-4005-8e52-36291d815eea.png"
-        },
-        {
-          "id": "69d6bc21707c1ce7688010d3",
-          "author": "Sam Bhattacharyya",
-          "description": "If you've ever tried to process video in the browser, like for a video editing or streaming app, your options were either to process video on a server (expensive) or to use ffmpeg.js (clunky). With th",
-          "link": "https://www.freecodecamp.org/news/the-webcodecs-handbook-native-video-processing-in-the-browser/",
-          "publishedOn": "2026-04-08T20:35:45.000Z",
-          "wordCount": 6894,
-          "title": "The WebCodecs Handbook: Native Video Processing in the Browser",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9b0978d4-7d8c-464c-ade0-07d007f56d92.png"
-        },
-        {
-          "id": "69d6805e707c1ce76855752b",
-          "author": "Nikheel Vishwas Savant",
-          "description": "Since the early 2000s, Bluetooth has been the dominant way we listen to wireless audio, powering everything from the first mono headsets to today's true wireless earbuds. But the underlying technology",
-          "link": "https://www.freecodecamp.org/news/the-bluetooth-le-audio-handbook/",
-          "publishedOn": "2026-04-08T16:20:46.000Z",
-          "wordCount": 8335,
-          "title": "The Bluetooth LE Audio Handbook: From \"Why Does My Call Sound Like a Tin Can?\" to AOSP Implementation",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4c5a3b97-9a23-40cd-8999-333927f58e6c.png"
-        },
-        {
-          "id": "69d542ca5da14bc70e7c1559",
-          "author": "Nataraj Sundar",
-          "description": "OpenClaw is getting attention because it turns a popular AI idea into something you can actually run yourself. Instead of opening one more browser tab, you run a Gateway on your own machine or server",
-          "link": "https://www.freecodecamp.org/news/openclaw-a2a-plugin-architecture-guide/",
-          "publishedOn": "2026-04-07T17:45:46.000Z",
-          "wordCount": 4482,
-          "title": "How to Set Up OpenClaw and Design an A2A Plugin Bridge",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4be03b02-d128-49e9-afcb-fea0f771e746.png"
         }
       ]
     }
