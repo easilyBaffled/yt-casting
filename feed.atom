@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-14T00:55:42.555Z</id>
+    <id>urn:2026-04-15T00:55:58.952Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-14T00:55:42.555Z</updated>
+    <updated>2026-04-15T00:55:58.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Service-to-Service Communication: When to Use REST, gRPC, and Event-Driven Messaging]]></title>
+        <id>69dea59891716f3cfb76ac50</id>
+        <link href="https://www.freecodecamp.org/news/service-to-service-communication-when-to-use-rest-grpc-and-event-driven-messaging/"/>
+        <updated>2026-04-14T20:37:44.000Z</updated>
+        <summary type="html"><![CDATA[The communication layer is one of the few architectural decisions that touches everything in your apps. It determines your latency floor, how independently teams can deploy, how failures propagate, an]]></summary>
+        <author>
+            <name>Abisoye Alli-Balogun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Developer’s Guide to Lazy Loading in React and Next.js]]></title>
+        <id>69dea43f91716f3cfb762c99</id>
+        <link href="https://www.freecodecamp.org/news/a-developers-guide-to-lazy-loading-in-react-and-nextjs/"/>
+        <updated>2026-04-14T20:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Large JavaScript bundles can slow down your application. When too much code loads at once, users wait longer for the first paint and pages feel less responsive. Search engines may also rank slower sit]]></summary>
+        <author>
+            <name>David Aniebo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Data Quality Handbook: Data Errors, the Developer's Role, and Validation Layers Explained.]]></title>
+        <id>69dea3b491716f3cfb75fd9d</id>
+        <link href="https://www.freecodecamp.org/news/data-quality-handbook-data-errors-the-developer-s-role-validation-layers/"/>
+        <updated>2026-04-14T20:29:40.000Z</updated>
+        <summary type="html"><![CDATA[In August 2012, Knight Capital, a major trading firm in the United States, deployed faulty trading software to its production system. The system used this incorrect configuration data and it triggered]]></summary>
+        <author>
+            <name>Great John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[United States Residential Proxy: Why Local IP Accuracy Matters for SERP, Ads, and Pricing]]></title>
+        <id>69de853e91716f3cfb679bdb</id>
+        <link href="https://www.freecodecamp.org/news/us-residential-proxy-why-local-ip-accuracy-matters-for-serp-ads-pricing/"/>
+        <updated>2026-04-14T18:19:42.000Z</updated>
+        <summary type="html"><![CDATA[In 2026, the concept of “location” on the internet has evolved from a broad regional signal into a hyper-specific, neighbourhood-level determinant of what users see. Search engines, advertising platfo]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Fashion App That Helps You Organize Your Wardrobe]]></title>
+        <id>69de6abf91716f3cfb5448a1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-fashion-app-to-organize-your-wardrobe/"/>
+        <updated>2026-04-14T16:26:39.000Z</updated>
+        <summary type="html"><![CDATA[I used to spend too long deciding what to wear, even when my closet was full. That frustration made the problem feel very clear to me: it was not about having fewer clothes. It was about having better]]></summary>
+        <author>
+            <name>Mokshita V P</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Admin Dashboard Sidebar with shadcn/ui and Base UI]]></title>
+        <id>69de6a6491716f3cfb542305</id>
+        <link href="https://www.freecodecamp.org/news/build-an-admin-dashboard-sidebar-with-shadcn-ui-and-base-ui/"/>
+        <updated>2026-04-14T16:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Admin dashboards are one of the most common real-world UI components you will build as a React developer. At the heart of nearly every dashboard is a sidebar, a persistent navigation panel that organi]]></summary>
+        <author>
+            <name>Vaibhav Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Radio State Machine]]></title>
+        <id>https://css-tricks.com/?p=393344</id>
+        <link href="https://css-tricks.com/the-radio-state-machine/"/>
+        <updated>2026-04-14T13:55:38.000Z</updated>
+        <summary type="html"><![CDATA[One of the best-known examples of CSS state management is the checkbox hack. What if we want a component to be in one of three, four, or seven modes? That is where the Radio State Machine comes in.
+The Radio State Machine originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Governance Handbook: How to Build Responsible AI Systems That Actually Ship]]></title>
+        <id>69dd7899217f5dfcbd5e4db9</id>
+        <link href="https://www.freecodecamp.org/news/the-ai-governance-handbook-build-responsible-ai-systems/"/>
+        <updated>2026-04-13T23:13:29.000Z</updated>
+        <summary type="html"><![CDATA[In February 2024, a Canadian tribunal ruled that Air Canada was liable for its chatbot's fabricated bereavement policy. The airline argued the chatbot was "a separate legal entity," but the tribunal d]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Local DevOps HomeLab with Docker, Kubernetes, and Ansible]]></title>
         <id>69dd667c217f5dfcbd55b7b4</id>
@@ -36,36 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-5.4 vs GLM-5: Is Open Source Finally Matching Proprietary AI?]]></title>
-        <id>69dd26ba217f5dfcbd1fdd2c</id>
-        <link href="https://www.freecodecamp.org/news/gpt-5-4-vs-glm-5-is-open-source-finally-matching-proprietary-ai/"/>
-        <updated>2026-04-13T17:24:10.000Z</updated>
-        <summary type="html"><![CDATA[On March 27, 2026, Zhipu AI quietly pushed an update to their open-weight model line. GLM-5.1, they claim, now performs at 94.6% of Claude Opus 4.6 on coding benchmarks. That's a 28% improvement over]]></summary>
-        <author>
-            <name>Oyedele Tioluwani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Visualization Tools for Svelte Developers]]></title>
-        <id>69dd2445217f5dfcbd1e423d</id>
-        <link href="https://www.freecodecamp.org/news/data-visualization-tools-for-svelte-developers/"/>
-        <updated>2026-04-13T17:13:41.000Z</updated>
-        <summary type="html"><![CDATA[Svelte is a front-end framework for building fast and interactive web applications. Unlike many other well-known frameworks, it doesn’t use a virtual DOM. Instead, it turns your code into efficient Ja]]></summary>
-        <author>
-            <name>Daria Filozop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Keep Human Experts Visible in Your AI-Assisted Codebase]]></title>
-        <id>69dd18d4217f5dfcbd13e964</id>
-        <link href="https://www.freecodecamp.org/news/how-to-keep-human-experts-visible-in-your-ai-assisted-codebase/"/>
-        <updated>2026-04-13T16:24:52.000Z</updated>
-        <summary type="html"><![CDATA[Six months ago, Stack Overflow processed 108,563 questions in a single month. By December 2025, that number had fallen to 3,862. A 78% collapse in two years. The explanation everyone reaches for is th]]></summary>
-        <author>
-            <name>Daniel Nwaneri</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[7 View Transitions Recipes to Try]]></title>
         <id>https://css-tricks.com/?p=392002</id>
         <link href="https://css-tricks.com/7-view-transitions-recipes-to-try/"/>
@@ -74,46 +125,6 @@
 7 View Transitions Recipes to Try originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficient Data Processing in Python: Batch vs Streaming Pipelines Explained]]></title>
-        <id>69dcf4dbf57346bc1e06d19b</id>
-        <link href="https://www.freecodecamp.org/news/efficient-data-processing-in-python-batch-vs-streaming-pipelines/"/>
-        <updated>2026-04-13T13:51:23.000Z</updated>
-        <summary type="html"><![CDATA[Every data pipeline makes a fundamental choice before any code is written: does it process data in chunks on a schedule, or does it process data continuously as it arrives? This choice — batch versus]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build and Deploy Multi-Architecture Docker Apps on Google Cloud Using ARM Nodes (Without QEMU)]]></title>
-        <id>69dcf2c3f57346bc1e05a01d</id>
-        <link href="https://www.freecodecamp.org/news/build-and-deploy-multi-architecture-docker-apps-on-google-cloud-using-arm-nodes/"/>
-        <updated>2026-04-13T13:42:27.000Z</updated>
-        <summary type="html"><![CDATA[If you've bought a laptop in the last few years, there's a good chance it's running an ARM processor. Apple's M-series chips put ARM on the map for developers, but the real revolution is happening ins]]></summary>
-        <author>
-            <name>Amina Lawal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Secure AI PR Reviewer with Claude, GitHub Actions, and JavaScript]]></title>
-        <id>69d965cac8e5007ddbff6584</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-secure-ai-pr-reviewer-with-claude-github-actions-and-javascript/"/>
-        <updated>2026-04-10T21:04:10.000Z</updated>
-        <summary type="html"><![CDATA[When you work with GitHub Pull Requests, you're basically asking someone else to review your code and merge it into the main project. In small projects, this is manageable. In larger open-source proje]]></summary>
-        <author>
-            <name>Sumit Saha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Positioning-Based Crude Oil Strategy in Python [Full Handbook]]]></title>
-        <id>69d91ddfc8e5007ddbc0e7ca</id>
-        <link href="https://www.freecodecamp.org/news/build-a-positioning-based-crude-oil-strategy-in-python/"/>
-        <updated>2026-04-10T15:57:19.000Z</updated>
-        <summary type="html"><![CDATA[Commitment of Traders (COT) data gets referenced a lot in commodity trading, especially when people talk about crowded positioning, speculative sentiment, or reversal risk. But most of that discussion]]></summary>
-        <author>
-            <name>Nikhil Adithyan</name>
         </author>
     </entry>
     <entry>

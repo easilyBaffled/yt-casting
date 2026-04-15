@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=393344",
+          "author": "Amit Sheen",
+          "description": "One of the best-known examples of CSS state management is the checkbox hack. What if we want a component to be in one of three, four, or seven modes? That is where the Radio State Machine comes in.\nThe Radio State Machine originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/the-radio-state-machine/",
+          "publishedOn": "2026-04-14T13:55:38.000Z",
+          "wordCount": 4802,
+          "title": "The Radio State Machine",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/css-state-machine.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=392002",
           "author": "Sunkanmi Fafowora",
           "description": "Craving for a view transition? Sunkanmi has lots of common transitions you can drop into your website right now!\n7 View Transitions Recipes to Try originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -67,7 +77,7 @@
           "description": "Creating rectangles, circles, and rounded rectangles is the basic of CSS. Creating more complex CSS shapes such as triangles, hexagons, stars, hearts, etc. is more challenging but still a simple task if we rely on modern features.\nMaking Complex CSS Shapes Using shape() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/complex-css-shapes-with-shape-function/",
           "publishedOn": "2026-04-02T13:58:24.000Z",
-          "wordCount": 3688,
+          "wordCount": 3752,
           "title": "Making Complex CSS Shapes Using shape()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/complex-css-shapes-shape-function.webp"
         },
@@ -194,7 +204,7 @@
           "description": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.",
           "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
           "publishedOn": "2026-04-07T10:00:00.000Z",
-          "wordCount": 6612,
+          "wordCount": 6602,
           "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
@@ -224,7 +234,7 @@
           "description": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
           "publishedOn": "2026-03-31T11:00:00.000Z",
-          "wordCount": 4326,
+          "wordCount": 4337,
           "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
@@ -239,7 +249,7 @@
           "description": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?",
           "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
           "publishedOn": "2026-03-26T10:00:00.000Z",
-          "wordCount": 4837,
+          "wordCount": 4832,
           "title": "The Site-Search Paradox: Why The Big Box Always Wins",
           "enclosure": {
             "url": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg",
@@ -254,7 +264,7 @@
           "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
           "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
           "publishedOn": "2026-03-24T13:00:00.000Z",
-          "wordCount": 6100,
+          "wordCount": 6108,
           "title": "Testing Font Scaling For Accessibility With Figma Variables",
           "enclosure": {
             "url": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
@@ -284,7 +294,7 @@
           "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.",
           "link": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
           "publishedOn": "2026-03-17T10:00:00.000Z",
-          "wordCount": 4468,
+          "wordCount": 4479,
           "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/anime-marvel-dc-designing-digital-products-emotion-flow.jpg",
@@ -300,6 +310,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69dea59891716f3cfb76ac50",
+          "author": "Abisoye Alli-Balogun",
+          "description": "The communication layer is one of the few architectural decisions that touches everything in your apps. It determines your latency floor, how independently teams can deploy, how failures propagate, an",
+          "link": "https://www.freecodecamp.org/news/service-to-service-communication-when-to-use-rest-grpc-and-event-driven-messaging/",
+          "publishedOn": "2026-04-14T20:37:44.000Z",
+          "wordCount": 5316,
+          "title": "Service-to-Service Communication: When to Use REST, gRPC, and Event-Driven Messaging",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b56ca584-75e1-4d0f-a88a-c2419a0b5d6e.png"
+        },
+        {
+          "id": "69dea43f91716f3cfb762c99",
+          "author": "David Aniebo",
+          "description": "Large JavaScript bundles can slow down your application. When too much code loads at once, users wait longer for the first paint and pages feel less responsive. Search engines may also rank slower sit",
+          "link": "https://www.freecodecamp.org/news/a-developers-guide-to-lazy-loading-in-react-and-nextjs/",
+          "publishedOn": "2026-04-14T20:31:59.000Z",
+          "wordCount": 2612,
+          "title": "A Developer’s Guide to Lazy Loading in React and Next.js",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9e6d8733-23e7-4dab-8da2-98fbbc1c44e9.png"
+        },
+        {
+          "id": "69dea3b491716f3cfb75fd9d",
+          "author": "Great John",
+          "description": "In August 2012, Knight Capital, a major trading firm in the United States, deployed faulty trading software to its production system. The system used this incorrect configuration data and it triggered",
+          "link": "https://www.freecodecamp.org/news/data-quality-handbook-data-errors-the-developer-s-role-validation-layers/",
+          "publishedOn": "2026-04-14T20:29:40.000Z",
+          "wordCount": 8202,
+          "title": "The Data Quality Handbook: Data Errors, the Developer's Role, and Validation Layers Explained.",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4f0c9085-cb4f-4255-b7a0-e146eafc32c9.png"
+        },
+        {
+          "id": "69de853e91716f3cfb679bdb",
+          "author": "Manish Shivanandhan",
+          "description": "In 2026, the concept of “location” on the internet has evolved from a broad regional signal into a hyper-specific, neighbourhood-level determinant of what users see. Search engines, advertising platfo",
+          "link": "https://www.freecodecamp.org/news/us-residential-proxy-why-local-ip-accuracy-matters-for-serp-ads-pricing/",
+          "publishedOn": "2026-04-14T18:19:42.000Z",
+          "wordCount": 2135,
+          "title": "United States Residential Proxy: Why Local IP Accuracy Matters for SERP, Ads, and Pricing",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3e33e8b9-79df-447a-8ebf-98b7a84bcb4a.png"
+        },
+        {
+          "id": "69de6abf91716f3cfb5448a1",
+          "author": "Mokshita V P",
+          "description": "I used to spend too long deciding what to wear, even when my closet was full. That frustration made the problem feel very clear to me: it was not about having fewer clothes. It was about having better",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-fashion-app-to-organize-your-wardrobe/",
+          "publishedOn": "2026-04-14T16:26:39.000Z",
+          "wordCount": 3362,
+          "title": "How to Build a Fashion App That Helps You Organize Your Wardrobe",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bf593ff6-6de8-4b30-ab0a-700c3410ccb1.png"
+        },
+        {
+          "id": "69de6a6491716f3cfb542305",
+          "author": "Vaibhav Gupta",
+          "description": "Admin dashboards are one of the most common real-world UI components you will build as a React developer. At the heart of nearly every dashboard is a sidebar, a persistent navigation panel that organi",
+          "link": "https://www.freecodecamp.org/news/build-an-admin-dashboard-sidebar-with-shadcn-ui-and-base-ui/",
+          "publishedOn": "2026-04-14T16:25:08.000Z",
+          "wordCount": 4066,
+          "title": "How to Build an Admin Dashboard Sidebar with shadcn/ui and Base UI",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3ce152b1-9a34-4c72-85f0-cabf7d4f3460.png"
+        },
+        {
+          "id": "69dd7899217f5dfcbd5e4db9",
+          "author": "Rudrendu Paul",
+          "description": "In February 2024, a Canadian tribunal ruled that Air Canada was liable for its chatbot's fabricated bereavement policy. The airline argued the chatbot was \"a separate legal entity,\" but the tribunal d",
+          "link": "https://www.freecodecamp.org/news/the-ai-governance-handbook-build-responsible-ai-systems/",
+          "publishedOn": "2026-04-13T23:13:29.000Z",
+          "wordCount": 9236,
+          "title": "The AI Governance Handbook: How to Build Responsible AI Systems That Actually Ship",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/50d58ef8-2be2-4d05-975f-527a486432da.png"
+        },
         {
           "id": "69dd667c217f5dfcbd55b7b4",
           "author": "Osomudeya Zudonu",
@@ -329,76 +409,6 @@
           "wordCount": 2996,
           "title": "How to Prep for Technical Interviews – A Guide for Web Developers",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b179e59d-bb58-41cb-8191-4e9523412933.png"
-        },
-        {
-          "id": "69dd26ba217f5dfcbd1fdd2c",
-          "author": "Oyedele Tioluwani",
-          "description": "On March 27, 2026, Zhipu AI quietly pushed an update to their open-weight model line. GLM-5.1, they claim, now performs at 94.6% of Claude Opus 4.6 on coding benchmarks. That's a 28% improvement over",
-          "link": "https://www.freecodecamp.org/news/gpt-5-4-vs-glm-5-is-open-source-finally-matching-proprietary-ai/",
-          "publishedOn": "2026-04-13T17:24:10.000Z",
-          "wordCount": 2722,
-          "title": "GPT-5.4 vs GLM-5: Is Open Source Finally Matching Proprietary AI?",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a3eb30b3-57b6-490a-8fd5-3f25994f61b1.png"
-        },
-        {
-          "id": "69dd2445217f5dfcbd1e423d",
-          "author": "Daria Filozop",
-          "description": "Svelte is a front-end framework for building fast and interactive web applications. Unlike many other well-known frameworks, it doesn’t use a virtual DOM. Instead, it turns your code into efficient Ja",
-          "link": "https://www.freecodecamp.org/news/data-visualization-tools-for-svelte-developers/",
-          "publishedOn": "2026-04-13T17:13:41.000Z",
-          "wordCount": 2370,
-          "title": "Data Visualization Tools for Svelte Developers",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cd0a2c05-0604-46d2-a9c0-b914a187d492.png"
-        },
-        {
-          "id": "69dd18d4217f5dfcbd13e964",
-          "author": "Daniel Nwaneri",
-          "description": "Six months ago, Stack Overflow processed 108,563 questions in a single month. By December 2025, that number had fallen to 3,862. A 78% collapse in two years. The explanation everyone reaches for is th",
-          "link": "https://www.freecodecamp.org/news/how-to-keep-human-experts-visible-in-your-ai-assisted-codebase/",
-          "publishedOn": "2026-04-13T16:24:52.000Z",
-          "wordCount": 4788,
-          "title": "How to Keep Human Experts Visible in Your AI-Assisted Codebase",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/21d160a8-af66-4048-9fda-1d83b2e26148.png"
-        },
-        {
-          "id": "69dcf4dbf57346bc1e06d19b",
-          "author": "Bala Priya C",
-          "description": "Every data pipeline makes a fundamental choice before any code is written: does it process data in chunks on a schedule, or does it process data continuously as it arrives? This choice — batch versus",
-          "link": "https://www.freecodecamp.org/news/efficient-data-processing-in-python-batch-vs-streaming-pipelines/",
-          "publishedOn": "2026-04-13T13:51:23.000Z",
-          "wordCount": 3099,
-          "title": "Efficient Data Processing in Python: Batch vs Streaming Pipelines Explained",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0cd359d4-9628-4b17-8dc4-a3a2a83172c8.png"
-        },
-        {
-          "id": "69dcf2c3f57346bc1e05a01d",
-          "author": "Amina Lawal",
-          "description": "If you've bought a laptop in the last few years, there's a good chance it's running an ARM processor. Apple's M-series chips put ARM on the map for developers, but the real revolution is happening ins",
-          "link": "https://www.freecodecamp.org/news/build-and-deploy-multi-architecture-docker-apps-on-google-cloud-using-arm-nodes/",
-          "publishedOn": "2026-04-13T13:42:27.000Z",
-          "wordCount": 6692,
-          "title": "How to Build and Deploy Multi-Architecture Docker Apps on Google Cloud Using ARM Nodes (Without QEMU)",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e89ae65a-4b3a-44b7-94d8-d0638f017bf6.png"
-        },
-        {
-          "id": "69d965cac8e5007ddbff6584",
-          "author": "Sumit Saha",
-          "description": "When you work with GitHub Pull Requests, you're basically asking someone else to review your code and merge it into the main project. In small projects, this is manageable. In larger open-source proje",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-secure-ai-pr-reviewer-with-claude-github-actions-and-javascript/",
-          "publishedOn": "2026-04-10T21:04:10.000Z",
-          "wordCount": 4735,
-          "title": "How to Build a Secure AI PR Reviewer with Claude, GitHub Actions, and JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/43b4a1c0-38d9-4954-9c37-6619c1091f1f.png"
-        },
-        {
-          "id": "69d91ddfc8e5007ddbc0e7ca",
-          "author": "Nikhil Adithyan",
-          "description": "Commitment of Traders (COT) data gets referenced a lot in commodity trading, especially when people talk about crowded positioning, speculative sentiment, or reversal risk. But most of that discussion",
-          "link": "https://www.freecodecamp.org/news/build-a-positioning-based-crude-oil-strategy-in-python/",
-          "publishedOn": "2026-04-10T15:57:19.000Z",
-          "wordCount": 6477,
-          "title": "How to Build a Positioning-Based Crude Oil Strategy in Python [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c18002cf-6519-4b76-b068-3b443cb0f347.png"
         }
       ]
     }
