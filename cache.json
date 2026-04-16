@@ -17,7 +17,7 @@
           "description": "One of the best-known examples of CSS state management is the checkbox hack. What if we want a component to be in one of three, four, or seven modes? That is where the Radio State Machine comes in.\nThe Radio State Machine originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/the-radio-state-machine/",
           "publishedOn": "2026-04-14T13:55:38.000Z",
-          "wordCount": 4802,
+          "wordCount": 5015,
           "title": "The Radio State Machine",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/css-state-machine.webp"
         },
@@ -42,7 +42,7 @@
           "description": "A clever approach for selecting multiple dates on a calendar where the :nth-child()'s “n of selector” syntax does all the heavy lifting... even in the JavaScript.\nSelecting a Date Range in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/selecting-a-date-range-in-css/",
           "publishedOn": "2026-04-09T13:52:56.000Z",
-          "wordCount": 2979,
+          "wordCount": 2989,
           "title": "Selecting a Date Range in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_7B1698CD93D2E480B2867F02F52F6807BC326B3FB6B9C5A5A10103D5813DD8E0_1774013392464_Screenshot2026-03-20at7.29.24AM.png"
         },
@@ -155,26 +155,6 @@
           "wordCount": 5856,
           "title": "JavaScript for Everyone: Destructuring",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/javascript-for-everyone-scaled.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393021",
-          "author": "Daniel Schwarz",
-          "description": "For this issue we have random(), folded clip-path corners, anchored container queries, customizable select, scroll-triggered animations, and more.\nWhat’s !important #7: random(), Folded Corners, Anchored Container Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-7/",
-          "publishedOn": "2026-03-16T15:06:01.000Z",
-          "wordCount": 2699,
-          "title": "What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/wi7.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392180",
-          "author": "Zell Liew",
-          "description": "Tailwind is really great for making layouts and there are many reasons why. Zell Liew looks at four specific examples of common use cases.\n4 Reasons That Make Tailwind Great for Building Layouts originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/",
-          "publishedOn": "2026-03-16T14:01:02.000Z",
-          "wordCount": 3700,
-          "title": "4 Reasons That Make Tailwind Great for Building Layouts",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/tailwind-paint.jpg"
         }
       ]
     },
@@ -204,7 +184,7 @@
           "description": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.",
           "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
           "publishedOn": "2026-04-07T10:00:00.000Z",
-          "wordCount": 6602,
+          "wordCount": 6590,
           "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
@@ -234,7 +214,7 @@
           "description": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
           "publishedOn": "2026-03-31T11:00:00.000Z",
-          "wordCount": 4337,
+          "wordCount": 4328,
           "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
@@ -249,7 +229,7 @@
           "description": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?",
           "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
           "publishedOn": "2026-03-26T10:00:00.000Z",
-          "wordCount": 4832,
+          "wordCount": 4826,
           "title": "The Site-Search Paradox: Why The Big Box Always Wins",
           "enclosure": {
             "url": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg",
@@ -264,7 +244,7 @@
           "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
           "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
           "publishedOn": "2026-03-24T13:00:00.000Z",
-          "wordCount": 6108,
+          "wordCount": 6104,
           "title": "Testing Font Scaling For Accessibility With Figma Variables",
           "enclosure": {
             "url": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
@@ -287,21 +267,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/modal-separate-page-ux-decision-tree/modal-separate-page-ux-decision-tree.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
-          "author": "hello@smashingmagazine.com (Alan Cohen)",
-          "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.",
-          "link": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
-          "publishedOn": "2026-03-17T10:00:00.000Z",
-          "wordCount": 4479,
-          "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/anime-marvel-dc-designing-digital-products-emotion-flow.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/anime-marvel-dc-designing-digital-products-emotion-flow.jpg"
         }
       ]
     },
@@ -310,6 +275,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69dfd90346ad31000bfc1474",
+          "author": "Bhavin Sheth",
+          "description": "Generating PDF files is something most developers eventually need to do. Whether it’s invoices, reports, or downloadable documents, PDFs are still one of the most widely used formats. The usual approa",
+          "link": "https://www.freecodecamp.org/news/how-to-generate-pdf-files-in-the-browser-using-javascript/",
+          "publishedOn": "2026-04-15T18:29:23.000Z",
+          "wordCount": 2890,
+          "title": "How to Generate PDF Files in the Browser Using JavaScript (With a Real Invoice Example)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/04433524-106f-4b86-b59d-3436a4a42761.png"
+        },
+        {
+          "id": "69dfbc0c46ad31000be2f6ea",
+          "author": "Manish Shivanandhan",
+          "description": "Infrastructure has undergone a fundamental shift over the past decade. What was once configured manually through dashboards and shell access is now defined declaratively in code. This shift isn't just",
+          "link": "https://www.freecodecamp.org/news/how-to-get-started-with-terraform/",
+          "publishedOn": "2026-04-15T16:25:48.000Z",
+          "wordCount": 2388,
+          "title": "How to Get Started with Terraform",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/84d7cd53-510f-4a62-9e73-10f476a95c4a.png"
+        },
         {
           "id": "69dea59891716f3cfb76ac50",
           "author": "Abisoye Alli-Balogun",
@@ -376,7 +361,7 @@
           "description": "In February 2024, a Canadian tribunal ruled that Air Canada was liable for its chatbot's fabricated bereavement policy. The airline argued the chatbot was \"a separate legal entity,\" but the tribunal d",
           "link": "https://www.freecodecamp.org/news/the-ai-governance-handbook-build-responsible-ai-systems/",
           "publishedOn": "2026-04-13T23:13:29.000Z",
-          "wordCount": 9236,
+          "wordCount": 9207,
           "title": "The AI Governance Handbook: How to Build Responsible AI Systems That Actually Ship",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/50d58ef8-2be2-4d05-975f-527a486432da.png"
         },
@@ -389,26 +374,6 @@
           "wordCount": 6395,
           "title": "How to Build a Local DevOps HomeLab with Docker, Kubernetes, and Ansible",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1e970f8b-eb52-4582-9c98-13cbce867c89.png"
-        },
-        {
-          "id": "69dd65e3217f5dfcbd556534",
-          "author": "Atuoha Anthony",
-          "description": "There's a moment in every Flutter developer's journey where the inheritance model starts to crack. You have a StatefulWidget for a screen that plays animations. You write the animation logic carefully",
-          "link": "https://www.freecodecamp.org/news/how-to-use-mixins-in-flutter-full-handbook/",
-          "publishedOn": "2026-04-13T21:53:39.000Z",
-          "wordCount": 12270,
-          "title": "How to Use Mixins in Flutter [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/abc0d8f4-ff65-42b4-b029-446313c29595.png"
-        },
-        {
-          "id": "69dd2c59217f5dfcbd261b21",
-          "author": "Ilyas Seisov",
-          "description": "Over the years I've participated in dozens of technical interviews. I've answered technical questions one-on-one with the CTO and in a group with the dev team. I've taken quizzes with a timer and buil",
-          "link": "https://www.freecodecamp.org/news/how-to-prep-for-technical-interviews-guide-for-web-devs/",
-          "publishedOn": "2026-04-13T17:48:09.000Z",
-          "wordCount": 2996,
-          "title": "How to Prep for Technical Interviews – A Guide for Web Developers",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b179e59d-bb58-41cb-8191-4e9523412933.png"
         }
       ]
     }

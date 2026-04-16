@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-15T00:55:58.952Z</id>
+    <id>urn:2026-04-16T00:57:17.923Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-15T00:55:58.952Z</updated>
+    <updated>2026-04-16T00:57:17.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Generate PDF Files in the Browser Using JavaScript (With a Real Invoice Example)]]></title>
+        <id>69dfd90346ad31000bfc1474</id>
+        <link href="https://www.freecodecamp.org/news/how-to-generate-pdf-files-in-the-browser-using-javascript/"/>
+        <updated>2026-04-15T18:29:23.000Z</updated>
+        <summary type="html"><![CDATA[Generating PDF files is something most developers eventually need to do. Whether it’s invoices, reports, or downloadable documents, PDFs are still one of the most widely used formats. The usual approa]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started with Terraform]]></title>
+        <id>69dfbc0c46ad31000be2f6ea</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-terraform/"/>
+        <updated>2026-04-15T16:25:48.000Z</updated>
+        <summary type="html"><![CDATA[Infrastructure has undergone a fundamental shift over the past decade. What was once configured manually through dashboards and shell access is now defined declaratively in code. This shift isn't just]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Service-to-Service Communication: When to Use REST, gRPC, and Event-Driven Messaging]]></title>
         <id>69dea59891716f3cfb76ac50</id>
@@ -94,26 +114,6 @@ The Radio State Machine originally handwritten and published with love on CSS-Tr
         <summary type="html"><![CDATA[The first time I tried to follow a DevOps tutorial, it told me to sign up for AWS. I did. I spun up an EC2 instance, followed along for an hour, and then forgot to shut it down. A week later I had a $]]></summary>
         <author>
             <name>Osomudeya Zudonu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Mixins in Flutter [Full Handbook]]]></title>
-        <id>69dd65e3217f5dfcbd556534</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-mixins-in-flutter-full-handbook/"/>
-        <updated>2026-04-13T21:53:39.000Z</updated>
-        <summary type="html"><![CDATA[There's a moment in every Flutter developer's journey where the inheritance model starts to crack. You have a StatefulWidget for a screen that plays animations. You write the animation logic carefully]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Prep for Technical Interviews – A Guide for Web Developers]]></title>
-        <id>69dd2c59217f5dfcbd261b21</id>
-        <link href="https://www.freecodecamp.org/news/how-to-prep-for-technical-interviews-guide-for-web-devs/"/>
-        <updated>2026-04-13T17:48:09.000Z</updated>
-        <summary type="html"><![CDATA[Over the years I've participated in dozens of technical interviews. I've answered technical questions one-on-one with the CTO and in a group with the dev team. I've taken quizzes with a timer and buil]]></summary>
-        <author>
-            <name>Ilyas Seisov</name>
         </author>
     </entry>
     <entry>
@@ -316,38 +316,6 @@ Experimenting With Scroll-Driven corner-shape Animations originally handwritten 
 JavaScript for Everyone: Destructuring originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Mat Marquis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow]]></title>
-        <id>https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/</id>
-        <link href="https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/"/>
-        <updated>2026-03-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alan Cohen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More]]></title>
-        <id>https://css-tricks.com/?p=393021</id>
-        <link href="https://css-tricks.com/whats-important-7/"/>
-        <updated>2026-03-16T15:06:01.000Z</updated>
-        <summary type="html"><![CDATA[For this issue we have random(), folded clip-path corners, anchored container queries, customizable select, scroll-triggered animations, and more.
-What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Reasons That Make Tailwind Great for Building Layouts]]></title>
-        <id>https://css-tricks.com/?p=392180</id>
-        <link href="https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/"/>
-        <updated>2026-03-16T14:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Tailwind is really great for making layouts and there are many reasons why. Zell Liew looks at four specific examples of common use cases.
-4 Reasons That Make Tailwind Great for Building Layouts originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
 </feed>
