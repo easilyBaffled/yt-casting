@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-16T00:57:17.923Z</id>
+    <id>urn:2026-04-17T00:55:11.419Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-16T00:57:17.923Z</updated>
+    <updated>2026-04-17T00:55:11.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Traditional Scraping vs AI Scraping: A Practical Guide for Developers and Data Teams]]></title>
+        <id>69e156abffbb787634ffa61a</id>
+        <link href="https://www.freecodecamp.org/news/traditional-scraping-vs-ai-scraping/"/>
+        <updated>2026-04-16T21:37:47.000Z</updated>
+        <summary type="html"><![CDATA[Enormous amounts of data are constantly generated on the open web. Product prices change, job listings go live and get taken down, news articles are published, and company information gets updated. Fo]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Database Indexes Work – A Practical Guide with PostgreSQL Examples]]></title>
+        <id>69e11c10ffbb787634dea035</id>
+        <link href="https://www.freecodecamp.org/news/how-database-indexes-work-a-practical-guide-with-postgresql-examples/"/>
+        <updated>2026-04-16T17:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Every developer eventually runs into a slow query. The table has grown from a few hundred rows to a few million, and what used to take milliseconds now takes seconds — or worse. The fix, more often th]]></summary>
+        <author>
+            <name>iyiola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Streamline Search in Web Applications with Elasticsearch]]></title>
+        <id>69e10d82b67a275a9d505023</id>
+        <link href="https://www.freecodecamp.org/news/streamline-search-functionality-in-web-apps-with-elasticsearch/"/>
+        <updated>2026-04-16T16:25:38.000Z</updated>
+        <summary type="html"><![CDATA[They say data is the new gold. But navigating through a large dataset to meet the demands of consumers in record time still gives backend devs a headache. Conventional database queries often aren't to]]></summary>
+        <author>
+            <name>Oluwatobi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Open Source Data Lake for Batch Ingestion]]></title>
+        <id>69e0f1a7b67a275a9d3c9122</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-open-source-data-lake-for-batch-ingestion/"/>
+        <updated>2026-04-16T14:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Creating a data platform has been made easier by cloud data analytics platforms like Databricks, Snowflake, and BigQuery. They offer excellent ramp-up and scaling options for small to mid-size teams.]]></summary>
+        <author>
+            <name>Puneet Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Well-Designed JavaScript Module System is Your First Architecture Decision]]></title>
+        <id>https://css-tricks.com/?p=392882</id>
+        <link href="https://css-tricks.com/the-javascript-module-system-architecture/"/>
+        <updated>2026-04-16T13:53:58.000Z</updated>
+        <summary type="html"><![CDATA[Behind every technology, there should be a guide for its use. While JavaScript modules make it easier to write “big” programs, if there are no principles or systems for using them, things could easily become difficult to maintain.
+A Well-Designed JavaScript Module System is Your First Architecture Decision originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Amejimaobari Victor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Codex Essentials – AI Assisted Agentic Development Course]]></title>
+        <id>69e0e33d94b913c91336729a</id>
+        <link href="https://www.freecodecamp.org/news/openai-codex-essentials-ai-assisted-agentic-development-course/"/>
+        <updated>2026-04-16T13:25:17.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI Codex is a specialized artificial intelligence system designed to translate natural language into code. We just published a course on the freeCodeCamp.org YouTube channel that will teach you ho]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Software System Design]]></title>
+        <id>69e0e1d794b913c9133551e2</id>
+        <link href="https://www.freecodecamp.org/news/learn-software-system-design/"/>
+        <updated>2026-04-16T13:19:19.000Z</updated>
+        <summary type="html"><![CDATA[Level up your system design skills! We just published a course on the freeCodeCamp.org YouTube channel that progresses from foundational concepts to production-ready systems, covering databases, scali]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Generate PDF Files in the Browser Using JavaScript (With a Real Invoice Example)]]></title>
         <id>69dfd90346ad31000bfc1474</id>
@@ -46,46 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Data Quality Handbook: Data Errors, the Developer's Role, and Validation Layers Explained.]]></title>
-        <id>69dea3b491716f3cfb75fd9d</id>
-        <link href="https://www.freecodecamp.org/news/data-quality-handbook-data-errors-the-developer-s-role-validation-layers/"/>
-        <updated>2026-04-14T20:29:40.000Z</updated>
-        <summary type="html"><![CDATA[In August 2012, Knight Capital, a major trading firm in the United States, deployed faulty trading software to its production system. The system used this incorrect configuration data and it triggered]]></summary>
-        <author>
-            <name>Great John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[United States Residential Proxy: Why Local IP Accuracy Matters for SERP, Ads, and Pricing]]></title>
-        <id>69de853e91716f3cfb679bdb</id>
-        <link href="https://www.freecodecamp.org/news/us-residential-proxy-why-local-ip-accuracy-matters-for-serp-ads-pricing/"/>
-        <updated>2026-04-14T18:19:42.000Z</updated>
-        <summary type="html"><![CDATA[In 2026, the concept of “location” on the internet has evolved from a broad regional signal into a hyper-specific, neighbourhood-level determinant of what users see. Search engines, advertising platfo]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Fashion App That Helps You Organize Your Wardrobe]]></title>
-        <id>69de6abf91716f3cfb5448a1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-fashion-app-to-organize-your-wardrobe/"/>
-        <updated>2026-04-14T16:26:39.000Z</updated>
-        <summary type="html"><![CDATA[I used to spend too long deciding what to wear, even when my closet was full. That frustration made the problem feel very clear to me: it was not about having fewer clothes. It was about having better]]></summary>
-        <author>
-            <name>Mokshita V P</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Admin Dashboard Sidebar with shadcn/ui and Base UI]]></title>
-        <id>69de6a6491716f3cfb542305</id>
-        <link href="https://www.freecodecamp.org/news/build-an-admin-dashboard-sidebar-with-shadcn-ui-and-base-ui/"/>
-        <updated>2026-04-14T16:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Admin dashboards are one of the most common real-world UI components you will build as a React developer. At the heart of nearly every dashboard is a sidebar, a persistent navigation panel that organi]]></summary>
-        <author>
-            <name>Vaibhav Gupta</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Radio State Machine]]></title>
         <id>https://css-tricks.com/?p=393344</id>
         <link href="https://css-tricks.com/the-radio-state-machine/"/>
@@ -94,26 +125,6 @@
 The Radio State Machine originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI Governance Handbook: How to Build Responsible AI Systems That Actually Ship]]></title>
-        <id>69dd7899217f5dfcbd5e4db9</id>
-        <link href="https://www.freecodecamp.org/news/the-ai-governance-handbook-build-responsible-ai-systems/"/>
-        <updated>2026-04-13T23:13:29.000Z</updated>
-        <summary type="html"><![CDATA[In February 2024, a Canadian tribunal ruled that Air Canada was liable for its chatbot's fabricated bereavement policy. The airline argued the chatbot was "a separate legal entity," but the tribunal d]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Local DevOps HomeLab with Docker, Kubernetes, and Ansible]]></title>
-        <id>69dd667c217f5dfcbd55b7b4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-local-devops-homelab-with-docker-kubernetes-and-ansible/"/>
-        <updated>2026-04-13T21:56:12.000Z</updated>
-        <summary type="html"><![CDATA[The first time I tried to follow a DevOps tutorial, it told me to sign up for AWS. I did. I spun up an EC2 instance, followed along for an hour, and then forgot to shut it down. A week later I had a $]]></summary>
-        <author>
-            <name>Osomudeya Zudonu</name>
         </author>
     </entry>
     <entry>

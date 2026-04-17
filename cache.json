@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=392882",
+          "author": "Amejimaobari Victor",
+          "description": "Behind every technology, there should be a guide for its use. While JavaScript modules make it easier to write “big” programs, if there are no principles or systems for using them, things could easily become difficult to maintain.\nA Well-Designed JavaScript Module System is Your First Architecture Decision originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/the-javascript-module-system-architecture/",
+          "publishedOn": "2026-04-16T13:53:58.000Z",
+          "wordCount": 4856,
+          "title": "A Well-Designed JavaScript Module System is Your First Architecture Decision",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_438F18945EAD505ECD4EDF4C4D7332DB9EE1178AECF38D5E1E1966514E384E9B_1772462582173_Untitled-scaled.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=393344",
           "author": "Amit Sheen",
           "description": "One of the best-known examples of CSS state management is the checkbox hack. What if we want a component to be in one of three, four, or seven modes? That is where the Radio State Machine comes in.\nThe Radio State Machine originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -42,7 +52,7 @@
           "description": "A clever approach for selecting multiple dates on a calendar where the :nth-child()'s “n of selector” syntax does all the heavy lifting... even in the JavaScript.\nSelecting a Date Range in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/selecting-a-date-range-in-css/",
           "publishedOn": "2026-04-09T13:52:56.000Z",
-          "wordCount": 2989,
+          "wordCount": 3023,
           "title": "Selecting a Date Range in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_7B1698CD93D2E480B2867F02F52F6807BC326B3FB6B9C5A5A10103D5813DD8E0_1774013392464_Screenshot2026-03-20at7.29.24AM.png"
         },
@@ -184,7 +194,7 @@
           "description": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.",
           "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
           "publishedOn": "2026-04-07T10:00:00.000Z",
-          "wordCount": 6590,
+          "wordCount": 6597,
           "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
@@ -214,7 +224,7 @@
           "description": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
           "publishedOn": "2026-03-31T11:00:00.000Z",
-          "wordCount": 4328,
+          "wordCount": 4325,
           "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
@@ -229,7 +239,7 @@
           "description": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?",
           "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
           "publishedOn": "2026-03-26T10:00:00.000Z",
-          "wordCount": 4826,
+          "wordCount": 4825,
           "title": "The Site-Search Paradox: Why The Big Box Always Wins",
           "enclosure": {
             "url": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg",
@@ -244,7 +254,7 @@
           "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
           "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
           "publishedOn": "2026-03-24T13:00:00.000Z",
-          "wordCount": 6104,
+          "wordCount": 6085,
           "title": "Testing Font Scaling For Accessibility With Figma Variables",
           "enclosure": {
             "url": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
@@ -275,6 +285,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69e156abffbb787634ffa61a",
+          "author": "Joel Olawanle",
+          "description": "Enormous amounts of data are constantly generated on the open web. Product prices change, job listings go live and get taken down, news articles are published, and company information gets updated. Fo",
+          "link": "https://www.freecodecamp.org/news/traditional-scraping-vs-ai-scraping/",
+          "publishedOn": "2026-04-16T21:37:47.000Z",
+          "wordCount": 3788,
+          "title": "Traditional Scraping vs AI Scraping: A Practical Guide for Developers and Data Teams",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c7f16b00-5245-48e2-a864-38a86d4292ae.png"
+        },
+        {
+          "id": "69e11c10ffbb787634dea035",
+          "author": "iyiola",
+          "description": "Every developer eventually runs into a slow query. The table has grown from a few hundred rows to a few million, and what used to take milliseconds now takes seconds — or worse. The fix, more often th",
+          "link": "https://www.freecodecamp.org/news/how-database-indexes-work-a-practical-guide-with-postgresql-examples/",
+          "publishedOn": "2026-04-16T17:27:44.000Z",
+          "wordCount": 4438,
+          "title": "How Database Indexes Work – A Practical Guide with PostgreSQL Examples",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cf6919a4-f803-4783-83ff-5c7674141c55.png"
+        },
+        {
+          "id": "69e10d82b67a275a9d505023",
+          "author": "Oluwatobi",
+          "description": "They say data is the new gold. But navigating through a large dataset to meet the demands of consumers in record time still gives backend devs a headache. Conventional database queries often aren't to",
+          "link": "https://www.freecodecamp.org/news/streamline-search-functionality-in-web-apps-with-elasticsearch/",
+          "publishedOn": "2026-04-16T16:25:38.000Z",
+          "wordCount": 3665,
+          "title": "How to Streamline Search in Web Applications with Elasticsearch",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e6563d07-a253-4fd9-b1f6-54dc98a48319.png"
+        },
+        {
+          "id": "69e0f1a7b67a275a9d3c9122",
+          "author": "Puneet Singh",
+          "description": "Creating a data platform has been made easier by cloud data analytics platforms like Databricks, Snowflake, and BigQuery. They offer excellent ramp-up and scaling options for small to mid-size teams.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-open-source-data-lake-for-batch-ingestion/",
+          "publishedOn": "2026-04-16T14:26:47.000Z",
+          "wordCount": 4946,
+          "title": "How to Build an Open Source Data Lake for Batch Ingestion",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ef685075-beac-4bf4-b435-6e942e5e1ac1.png"
+        },
+        {
+          "id": "69e0e33d94b913c91336729a",
+          "author": "Beau Carnes",
+          "description": "OpenAI Codex is a specialized artificial intelligence system designed to translate natural language into code. We just published a course on the freeCodeCamp.org YouTube channel that will teach you ho",
+          "link": "https://www.freecodecamp.org/news/openai-codex-essentials-ai-assisted-agentic-development-course/",
+          "publishedOn": "2026-04-16T13:25:17.000Z",
+          "wordCount": 1201,
+          "title": "OpenAI Codex Essentials – AI Assisted Agentic Development Course",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/92e29c83-93ca-4efe-a416-abea5a48cfcb.jpg"
+        },
+        {
+          "id": "69e0e1d794b913c9133551e2",
+          "author": "Beau Carnes",
+          "description": "Level up your system design skills! We just published a course on the freeCodeCamp.org YouTube channel that progresses from foundational concepts to production-ready systems, covering databases, scali",
+          "link": "https://www.freecodecamp.org/news/learn-software-system-design/",
+          "publishedOn": "2026-04-16T13:19:19.000Z",
+          "wordCount": 937,
+          "title": "Learn Software System Design",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/faae70fb-e5b6-45b4-b02d-abdce412781d.jpg"
+        },
         {
           "id": "69dfd90346ad31000bfc1474",
           "author": "Bhavin Sheth",
@@ -314,66 +384,6 @@
           "wordCount": 2612,
           "title": "A Developer’s Guide to Lazy Loading in React and Next.js",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9e6d8733-23e7-4dab-8da2-98fbbc1c44e9.png"
-        },
-        {
-          "id": "69dea3b491716f3cfb75fd9d",
-          "author": "Great John",
-          "description": "In August 2012, Knight Capital, a major trading firm in the United States, deployed faulty trading software to its production system. The system used this incorrect configuration data and it triggered",
-          "link": "https://www.freecodecamp.org/news/data-quality-handbook-data-errors-the-developer-s-role-validation-layers/",
-          "publishedOn": "2026-04-14T20:29:40.000Z",
-          "wordCount": 8202,
-          "title": "The Data Quality Handbook: Data Errors, the Developer's Role, and Validation Layers Explained.",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4f0c9085-cb4f-4255-b7a0-e146eafc32c9.png"
-        },
-        {
-          "id": "69de853e91716f3cfb679bdb",
-          "author": "Manish Shivanandhan",
-          "description": "In 2026, the concept of “location” on the internet has evolved from a broad regional signal into a hyper-specific, neighbourhood-level determinant of what users see. Search engines, advertising platfo",
-          "link": "https://www.freecodecamp.org/news/us-residential-proxy-why-local-ip-accuracy-matters-for-serp-ads-pricing/",
-          "publishedOn": "2026-04-14T18:19:42.000Z",
-          "wordCount": 2135,
-          "title": "United States Residential Proxy: Why Local IP Accuracy Matters for SERP, Ads, and Pricing",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3e33e8b9-79df-447a-8ebf-98b7a84bcb4a.png"
-        },
-        {
-          "id": "69de6abf91716f3cfb5448a1",
-          "author": "Mokshita V P",
-          "description": "I used to spend too long deciding what to wear, even when my closet was full. That frustration made the problem feel very clear to me: it was not about having fewer clothes. It was about having better",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-fashion-app-to-organize-your-wardrobe/",
-          "publishedOn": "2026-04-14T16:26:39.000Z",
-          "wordCount": 3362,
-          "title": "How to Build a Fashion App That Helps You Organize Your Wardrobe",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bf593ff6-6de8-4b30-ab0a-700c3410ccb1.png"
-        },
-        {
-          "id": "69de6a6491716f3cfb542305",
-          "author": "Vaibhav Gupta",
-          "description": "Admin dashboards are one of the most common real-world UI components you will build as a React developer. At the heart of nearly every dashboard is a sidebar, a persistent navigation panel that organi",
-          "link": "https://www.freecodecamp.org/news/build-an-admin-dashboard-sidebar-with-shadcn-ui-and-base-ui/",
-          "publishedOn": "2026-04-14T16:25:08.000Z",
-          "wordCount": 4066,
-          "title": "How to Build an Admin Dashboard Sidebar with shadcn/ui and Base UI",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3ce152b1-9a34-4c72-85f0-cabf7d4f3460.png"
-        },
-        {
-          "id": "69dd7899217f5dfcbd5e4db9",
-          "author": "Rudrendu Paul",
-          "description": "In February 2024, a Canadian tribunal ruled that Air Canada was liable for its chatbot's fabricated bereavement policy. The airline argued the chatbot was \"a separate legal entity,\" but the tribunal d",
-          "link": "https://www.freecodecamp.org/news/the-ai-governance-handbook-build-responsible-ai-systems/",
-          "publishedOn": "2026-04-13T23:13:29.000Z",
-          "wordCount": 9207,
-          "title": "The AI Governance Handbook: How to Build Responsible AI Systems That Actually Ship",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/50d58ef8-2be2-4d05-975f-527a486432da.png"
-        },
-        {
-          "id": "69dd667c217f5dfcbd55b7b4",
-          "author": "Osomudeya Zudonu",
-          "description": "The first time I tried to follow a DevOps tutorial, it told me to sign up for AWS. I did. I spun up an EC2 instance, followed along for an hour, and then forgot to shut it down. A week later I had a $",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-local-devops-homelab-with-docker-kubernetes-and-ansible/",
-          "publishedOn": "2026-04-13T21:56:12.000Z",
-          "wordCount": 6395,
-          "title": "How to Build a Local DevOps HomeLab with Docker, Kubernetes, and Ansible",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1e970f8b-eb52-4582-9c98-13cbce867c89.png"
         }
       ]
     }
