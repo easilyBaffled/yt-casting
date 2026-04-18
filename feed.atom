@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-17T00:55:11.419Z</id>
+    <id>urn:2026-04-18T00:50:29.130Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-17T00:55:11.419Z</updated>
+    <updated>2026-04-18T00:50:29.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Context Hub (chub) to Build a Companion Relevance Engine]]></title>
+        <id>69e299d0fd22b8ad6276817b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-context-hub-chub-to-build-a-companion-relevance-engine/"/>
+        <updated>2026-04-17T20:36:32.000Z</updated>
+        <summary type="html"><![CDATA[Large language models can write code quickly, but they still misremember APIs, miss version-specific details, and forget what they learned at the end of a session. That is the problem Context Hub is t]]></summary>
+        <author>
+            <name>Nataraj Sundar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Chrome OS Is the Operating System the AI Era Was Built For]]></title>
+        <id>69e2765cfd22b8ad62611ba8</id>
+        <link href="https://www.freecodecamp.org/news/why-chrome-os-is-the-ai-os/"/>
+        <updated>2026-04-17T18:05:16.000Z</updated>
+        <summary type="html"><![CDATA[Chrome OS runs on a read-only filesystem. You can't install executables on the host. There's no traditional desktop environment. Everything that interacts with the underlying system does so through a]]></summary>
+        <author>
+            <name>Christopher Galliart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Microservices-Based REST APIs for Healthcare Portals]]></title>
+        <id>69e2610cfd22b8ad6251e84b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-microservices-based-rest-apis-for-healthcare-portals/"/>
+        <updated>2026-04-17T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Microservices architecture enables healthcare portals to scale, secure sensitive data, and evolve rapidly. Using ASP.NET 10 and C#, you can build independent REST APIs for services like patients, appo]]></summary>
+        <author>
+            <name>Gopinath Karunanithi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to friction-max your learning with software engineer Jessica Rose [Podcast #216]]]></title>
+        <id>69e212b7d50d4175decce567</id>
+        <link href="https://www.freecodecamp.org/news/how-to-friction-max-your-learning-with-software-engineer-jessica-rose-podcast-216/"/>
+        <updated>2026-04-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Jessica Rose. She's a dev and teacher who's worked on open data projects at Mozilla and lots of open source projects. We talk about: How the whole world is hard, and ho]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shadow AI Explained: Why Employees Are Using AI Behind Your Back]]></title>
+        <id>69e15e4bffbb78763403e5ec</id>
+        <link href="https://www.freecodecamp.org/news/shadow-ai-explained-why-employees-are-using-ai-behind-your-back/"/>
+        <updated>2026-04-16T22:10:19.000Z</updated>
+        <summary type="html"><![CDATA[A quiet shift is happening inside modern companies. It's not visible in dashboards. It's not tracked in logs. It's not approved by IT or security teams. Yet it's everywhere. Employees are using AI too]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Traditional Scraping vs AI Scraping: A Practical Guide for Developers and Data Teams]]></title>
         <id>69e156abffbb787634ffa61a</id>
@@ -46,17 +96,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Well-Designed JavaScript Module System is Your First Architecture Decision]]></title>
-        <id>https://css-tricks.com/?p=392882</id>
-        <link href="https://css-tricks.com/the-javascript-module-system-architecture/"/>
-        <updated>2026-04-16T13:53:58.000Z</updated>
-        <summary type="html"><![CDATA[Behind every technology, there should be a guide for its use. While JavaScript modules make it easier to write “big” programs, if there are no principles or systems for using them, things could easily become difficult to maintain.
-A Well-Designed JavaScript Module System is Your First Architecture Decision originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Amejimaobari Victor</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenAI Codex Essentials – AI Assisted Agentic Development Course]]></title>
         <id>69e0e33d94b913c91336729a</id>
         <link href="https://www.freecodecamp.org/news/openai-codex-essentials-ai-assisted-agentic-development-course/"/>
@@ -64,78 +103,6 @@ A Well-Designed JavaScript Module System is Your First Architecture Decision ori
         <summary type="html"><![CDATA[OpenAI Codex is a specialized artificial intelligence system designed to translate natural language into code. We just published a course on the freeCodeCamp.org YouTube channel that will teach you ho]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Software System Design]]></title>
-        <id>69e0e1d794b913c9133551e2</id>
-        <link href="https://www.freecodecamp.org/news/learn-software-system-design/"/>
-        <updated>2026-04-16T13:19:19.000Z</updated>
-        <summary type="html"><![CDATA[Level up your system design skills! We just published a course on the freeCodeCamp.org YouTube channel that progresses from foundational concepts to production-ready systems, covering databases, scali]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Generate PDF Files in the Browser Using JavaScript (With a Real Invoice Example)]]></title>
-        <id>69dfd90346ad31000bfc1474</id>
-        <link href="https://www.freecodecamp.org/news/how-to-generate-pdf-files-in-the-browser-using-javascript/"/>
-        <updated>2026-04-15T18:29:23.000Z</updated>
-        <summary type="html"><![CDATA[Generating PDF files is something most developers eventually need to do. Whether it’s invoices, reports, or downloadable documents, PDFs are still one of the most widely used formats. The usual approa]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started with Terraform]]></title>
-        <id>69dfbc0c46ad31000be2f6ea</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-terraform/"/>
-        <updated>2026-04-15T16:25:48.000Z</updated>
-        <summary type="html"><![CDATA[Infrastructure has undergone a fundamental shift over the past decade. What was once configured manually through dashboards and shell access is now defined declaratively in code. This shift isn't just]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Service-to-Service Communication: When to Use REST, gRPC, and Event-Driven Messaging]]></title>
-        <id>69dea59891716f3cfb76ac50</id>
-        <link href="https://www.freecodecamp.org/news/service-to-service-communication-when-to-use-rest-grpc-and-event-driven-messaging/"/>
-        <updated>2026-04-14T20:37:44.000Z</updated>
-        <summary type="html"><![CDATA[The communication layer is one of the few architectural decisions that touches everything in your apps. It determines your latency floor, how independently teams can deploy, how failures propagate, an]]></summary>
-        <author>
-            <name>Abisoye Alli-Balogun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Developer’s Guide to Lazy Loading in React and Next.js]]></title>
-        <id>69dea43f91716f3cfb762c99</id>
-        <link href="https://www.freecodecamp.org/news/a-developers-guide-to-lazy-loading-in-react-and-nextjs/"/>
-        <updated>2026-04-14T20:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Large JavaScript bundles can slow down your application. When too much code loads at once, users wait longer for the first paint and pages feel less responsive. Search engines may also rank slower sit]]></summary>
-        <author>
-            <name>David Aniebo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Radio State Machine]]></title>
-        <id>https://css-tricks.com/?p=393344</id>
-        <link href="https://css-tricks.com/the-radio-state-machine/"/>
-        <updated>2026-04-14T13:55:38.000Z</updated>
-        <summary type="html"><![CDATA[One of the best-known examples of CSS state management is the checkbox hack. What if we want a component to be in one of three, four, or seven modes? That is where the Radio State Machine comes in.
-The Radio State Machine originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 View Transitions Recipes to Try]]></title>
-        <id>https://css-tricks.com/?p=392002</id>
-        <link href="https://css-tricks.com/7-view-transitions-recipes-to-try/"/>
-        <updated>2026-04-13T14:14:43.000Z</updated>
-        <summary type="html"><![CDATA[Craving for a view transition? Sunkanmi has lots of common transitions you can drop into your website right now!
-7 View Transitions Recipes to Try originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
         </author>
     </entry>
     <entry>
@@ -149,28 +116,6 @@ The Radio State Machine originally handwritten and published with love on CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Selecting a Date Range in CSS]]></title>
-        <id>https://css-tricks.com/?p=393088</id>
-        <link href="https://css-tricks.com/selecting-a-date-range-in-css/"/>
-        <updated>2026-04-09T13:52:56.000Z</updated>
-        <summary type="html"><![CDATA[A clever approach for selecting multiple dates on a calendar where the :nth-child()'s “n of selector” syntax does all the heavy lifting... even in the JavaScript.
-Selecting a Date Range in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alternatives to the !important Keyword]]></title>
-        <id>https://css-tricks.com/?p=392696</id>
-        <link href="https://css-tricks.com/alternatives-to-the-important-keyword/"/>
-        <updated>2026-04-07T13:54:43.000Z</updated>
-        <summary type="html"><![CDATA[Cascade layers, specificity tricks, smarter ordering, and even some clever selector hacks can often replace !important with something cleaner, more predictable, and far less embarrassing to explain to your future self.
-Alternatives to the !important Keyword originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Saleh Mubashar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Identifying Necessary Transparency Moments In Agentic AI (Part 1)]]></title>
         <id>https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/</id>
         <link href="https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/"/>
@@ -178,50 +123,6 @@ Alternatives to the !important Keyword originally handwritten and published with
         <summary type="html"><![CDATA[Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking at New CSS Multi-Column Layout Wrapping Features]]></title>
-        <id>https://css-tricks.com/?p=392361</id>
-        <link href="https://css-tricks.com/css-multi-column-layout-wrapping-features/"/>
-        <updated>2026-04-06T13:55:49.000Z</updated>
-        <summary type="html"><![CDATA[Chrome 145 introduces the column-height and column-wrap properties, enabling us to wrap the additional content into a new row below, creating a vertical scroll instead of a horizontal scroll.
-Looking at New CSS Multi-Column Layout Wrapping Features originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Abhishek Pratap Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Complex CSS Shapes Using shape()]]></title>
-        <id>https://css-tricks.com/?p=392986</id>
-        <link href="https://css-tricks.com/complex-css-shapes-with-shape-function/"/>
-        <updated>2026-04-02T13:58:24.000Z</updated>
-        <summary type="html"><![CDATA[Creating rectangles, circles, and rounded rectangles is the basic of CSS. Creating more complex CSS shapes such as triangles, hexagons, stars, hearts, etc. is more challenging but still a simple task if we rely on modern features.
-Making Complex CSS Shapes Using shape() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Front-End Fools: Top 10 April Fools’ UI Pranks of All Time]]></title>
-        <id>https://css-tricks.com/?p=392794</id>
-        <link href="https://css-tricks.com/front-end-april-fools-top-10/"/>
-        <updated>2026-04-01T14:00:26.000Z</updated>
-        <summary type="html"><![CDATA[These are the historical pranks I consider the top 10 most noteworthy, rather than the “best.” You’ll see that some of them crossed the line and/or backfired.
-Front-End Fools: Top 10 April Fools’ UI Pranks of All Time originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sniffing Out the CSS Olfactive API]]></title>
-        <id>https://css-tricks.com/?p=393070</id>
-        <link href="https://css-tricks.com/css-olfactive-api/"/>
-        <updated>2026-04-01T13:54:47.000Z</updated>
-        <summary type="html"><![CDATA[A deep sniff of the new CSS Olfactive API, a set of proposed features for immersive user experiences using smell.
-Sniffing Out the CSS Olfactive API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>John Rhea</name>
         </author>
     </entry>
     <entry>
@@ -235,17 +136,6 @@ Sniffing Out the CSS Olfactive API originally handwritten and published with lov
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More]]></title>
-        <id>https://css-tricks.com/?p=393306</id>
-        <link href="https://css-tricks.com/whats-important-8/"/>
-        <updated>2026-03-31T14:14:07.000Z</updated>
-        <summary type="html"><![CDATA[Short n’ sweet but ever so neat, this issue covers light/dark favicons, @mixin, anchor-interpolated morphing, object-view-box, new web features, and more.
-What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/</id>
         <link href="https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/"/>
@@ -253,28 +143,6 @@ What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More o
         <summary type="html"><![CDATA[With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Form Automation Tips for Happier User and Clients]]></title>
-        <id>https://css-tricks.com/?p=391993</id>
-        <link href="https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/"/>
-        <updated>2026-03-30T14:12:14.000Z</updated>
-        <summary type="html"><![CDATA[That gap between "the form works" and "the business works" is something we don't really tend to discuss much as front-enders. We focus a great deal on user experience, validation methods, and accessibility, yet we overlook what the data does once it leaves our control
-Form Automation Tips for Happier User and Clients originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Iqra Naaem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative UI Notes]]></title>
-        <id>https://css-tricks.com/?p=391438</id>
-        <link href="https://css-tricks.com/generative-ui-notes/"/>
-        <updated>2026-03-26T14:59:55.000Z</updated>
-        <summary type="html"><![CDATA[Looking at research and experiments that are designed to automatically generate user interfaces based on user preferences.
-Generative UI Notes originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -298,17 +166,6 @@ Generative UI Notes originally handwritten and published with love on CSS-Tricks
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Experimenting With Scroll-Driven corner-shape Animations]]></title>
-        <id>https://css-tricks.com/?p=392503</id>
-        <link href="https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/"/>
-        <updated>2026-03-23T13:51:15.000Z</updated>
-        <summary type="html"><![CDATA[The new CSS corner-shape() property is mathematical, so it’s easily animated. Author Daniel Schwarz pokes at animating the property for interesting UI effects.
-Experimenting With Scroll-Driven corner-shape Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Modal vs. Separate Page: UX Decision Tree]]></title>
         <id>https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/</id>
         <link href="https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/"/>
@@ -316,17 +173,6 @@ Experimenting With Scroll-Driven corner-shape Animations originally handwritten 
         <summary type="html"><![CDATA[How to choose between modals and pages, when to avoid modals, and how to determine the right level of interruption or navigation. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript for Everyone: Destructuring]]></title>
-        <id>https://css-tricks.com/?p=392714</id>
-        <link href="https://css-tricks.com/javascript-for-everyone-destructuring/"/>
-        <updated>2026-03-19T13:06:30.000Z</updated>
-        <summary type="html"><![CDATA[Mat Marquis and Andy Bell have released JavaScript for Everyone, an online course offered exclusively at Piccalilli. This post is an excerpt from the course taken specifically from a chapter all about JavaScript destructuring. 
-JavaScript for Everyone: Destructuring originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mat Marquis</name>
         </author>
     </entry>
 </feed>
