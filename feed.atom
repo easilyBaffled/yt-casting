@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-18T00:50:29.130Z</id>
+    <id>urn:2026-04-19T00:57:31.002Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-18T00:50:29.130Z</updated>
+    <updated>2026-04-19T00:57:31.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Make Your GitHub Profile Stand Out]]></title>
+        <id>69e2cd3ffd22b8ad62900fb3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-your-github-profile-stand-out/"/>
+        <updated>2026-04-18T00:15:59.000Z</updated>
+        <summary type="html"><![CDATA[If you have a Github profile, you might overlook the many ways you can customize it – and that's completely understandable. After all, at its core, GitHub is a home for your code. But beyond repositor]]></summary>
+        <author>
+            <name>Chinaza Chukwunweike</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Context Hub (chub) to Build a Companion Relevance Engine]]></title>
         <id>69e299d0fd22b8ad6276817b</id>
@@ -96,16 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Codex Essentials – AI Assisted Agentic Development Course]]></title>
-        <id>69e0e33d94b913c91336729a</id>
-        <link href="https://www.freecodecamp.org/news/openai-codex-essentials-ai-assisted-agentic-development-course/"/>
-        <updated>2026-04-16T13:25:17.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI Codex is a specialized artificial intelligence system designed to translate natural language into code. We just published a course on the freeCodeCamp.org YouTube channel that will teach you ho]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Improve UX In Legacy Systems]]></title>
         <id>https://smashingmagazine.com/2026/04/legacy-systems/</id>
         <link href="https://smashingmagazine.com/2026/04/legacy-systems/"/>
@@ -163,16 +163,6 @@
         <summary type="html"><![CDATA[Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ruben Ferreira Duarte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modal vs. Separate Page: UX Decision Tree]]></title>
-        <id>https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/</id>
-        <link href="https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/"/>
-        <updated>2026-03-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to choose between modals and pages, when to avoid modals, and how to determine the right level of interruption or navigation. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
