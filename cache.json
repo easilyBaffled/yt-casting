@@ -7,6 +7,173 @@
       "articles": []
     },
     {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=393515",
+          "author": "Daniel Schwarz",
+          "description": "This issue of What’s !important brings you clip-path jigsaws, a view transitions toolkit, name-only containers, the usual roundup of new, notable web platform features, and more.\nWhat’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-9/",
+          "publishedOn": "2026-04-17T14:00:41.000Z",
+          "wordCount": 2690,
+          "title": "What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/04/2.mp4",
+            "length": "219737",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/wh9.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=392882",
+          "author": "Amejimaobari Victor",
+          "description": "Behind every technology, there should be a guide for its use. While JavaScript modules make it easier to write “big” programs, if there are no principles or systems for using them, things could easily become difficult to maintain.\nA Well-Designed JavaScript Module System is Your First Architecture Decision originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/the-javascript-module-system-architecture/",
+          "publishedOn": "2026-04-16T13:53:58.000Z",
+          "wordCount": 4856,
+          "title": "A Well-Designed JavaScript Module System is Your First Architecture Decision",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_438F18945EAD505ECD4EDF4C4D7332DB9EE1178AECF38D5E1E1966514E384E9B_1772462582173_Untitled-scaled.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393344",
+          "author": "Amit Sheen",
+          "description": "One of the best-known examples of CSS state management is the checkbox hack. What if we want a component to be in one of three, four, or seven modes? That is where the Radio State Machine comes in.\nThe Radio State Machine originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/the-radio-state-machine/",
+          "publishedOn": "2026-04-14T13:55:38.000Z",
+          "wordCount": 5015,
+          "title": "The Radio State Machine",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/css-state-machine.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=392002",
+          "author": "Sunkanmi Fafowora",
+          "description": "Craving for a view transition? Sunkanmi has lots of common transitions you can drop into your website right now!\n7 View Transitions Recipes to Try originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/7-view-transitions-recipes-to-try/",
+          "publishedOn": "2026-04-13T14:14:43.000Z",
+          "wordCount": 3713,
+          "title": "7 View Transitions Recipes to Try",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/02/View-transition-Pixelate-dissolve.mp4",
+            "length": "658932",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393088",
+          "author": "Preethi",
+          "description": "A clever approach for selecting multiple dates on a calendar where the :nth-child()'s “n of selector” syntax does all the heavy lifting... even in the JavaScript.\nSelecting a Date Range in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/selecting-a-date-range-in-css/",
+          "publishedOn": "2026-04-09T13:52:56.000Z",
+          "wordCount": 3023,
+          "title": "Selecting a Date Range in CSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_7B1698CD93D2E480B2867F02F52F6807BC326B3FB6B9C5A5A10103D5813DD8E0_1774013392464_Screenshot2026-03-20at7.29.24AM.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=392696",
+          "author": "Saleh Mubashar",
+          "description": "Cascade layers, specificity tricks, smarter ordering, and even some clever selector hacks can often replace !important with something cleaner, more predictable, and far less embarrassing to explain to your future self.\nAlternatives to the !important Keyword originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/alternatives-to-the-important-keyword/",
+          "publishedOn": "2026-04-07T13:54:43.000Z",
+          "wordCount": 3781,
+          "title": "Alternatives to the !important Keyword",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/important-style.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=392361",
+          "author": "Abhishek Pratap Singh",
+          "description": "Chrome 145 introduces the column-height and column-wrap properties, enabling us to wrap the additional content into a new row below, creating a vertical scroll instead of a horizontal scroll.\nLooking at New CSS Multi-Column Layout Wrapping Features originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-multi-column-layout-wrapping-features/",
+          "publishedOn": "2026-04-06T13:55:49.000Z",
+          "wordCount": 3265,
+          "title": "Looking at New CSS Multi-Column Layout Wrapping Features",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/02/Screen-Recording-2026-02-17-at-9.41.27-AM.mov",
+            "length": "3273030",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/chrome-layout.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=392986",
+          "author": "Temani Afif",
+          "description": "Creating rectangles, circles, and rounded rectangles is the basic of CSS. Creating more complex CSS shapes such as triangles, hexagons, stars, hearts, etc. is more challenging but still a simple task if we rely on modern features.\nMaking Complex CSS Shapes Using shape() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/complex-css-shapes-with-shape-function/",
+          "publishedOn": "2026-04-02T13:58:24.000Z",
+          "wordCount": 3752,
+          "title": "Making Complex CSS Shapes Using shape()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/complex-css-shapes-shape-function.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=392794",
+          "author": "Lee Meyer",
+          "description": "These are the historical pranks I consider the top 10 most noteworthy, rather than the “best.” You’ll see that some of them crossed the line and/or backfired.\nFront-End Fools: Top 10 April Fools’ UI Pranks of All Time originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/front-end-april-fools-top-10/",
+          "publishedOn": "2026-04-01T14:00:26.000Z",
+          "wordCount": 4978,
+          "title": "Front-End Fools: Top 10 April Fools’ UI Pranks of All Time",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/emoji-laughing.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393070",
+          "author": "John Rhea",
+          "description": "A deep sniff of the new CSS Olfactive API, a set of proposed features for immersive user experiences using smell.\nSniffing Out the CSS Olfactive API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-olfactive-api/",
+          "publishedOn": "2026-04-01T13:54:47.000Z",
+          "wordCount": 3228,
+          "title": "Sniffing Out the CSS Olfactive API",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/olfactive-api.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393306",
+          "author": "Daniel Schwarz",
+          "description": "Short n’ sweet but ever so neat, this issue covers light/dark favicons, @mixin, anchor-interpolated morphing, object-view-box, new web features, and more.\nWhat’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-8/",
+          "publishedOn": "2026-03-31T14:14:07.000Z",
+          "wordCount": 2821,
+          "title": "What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/wh8.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=391993",
+          "author": "Iqra Naaem",
+          "description": "That gap between \"the form works\" and \"the business works\" is something we don't really tend to discuss much as front-enders. We focus a great deal on user experience, validation methods, and accessibility, yet we overlook what the data does once it leaves our control\nForm Automation Tips for Happier User and Clients originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/",
+          "publishedOn": "2026-03-30T14:12:14.000Z",
+          "wordCount": 4003,
+          "title": "Form Automation Tips for Happier User and Clients",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/auto-forms-featured-1.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=391438",
+          "author": "Geoff Graham",
+          "description": "Looking at research and experiments that are designed to automatically generate user interfaces based on user preferences.\nGenerative UI Notes originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/generative-ui-notes/",
+          "publishedOn": "2026-03-26T14:59:55.000Z",
+          "wordCount": 3229,
+          "title": "Generative UI Notes",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/toolset.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=392503",
+          "author": "Daniel Schwarz",
+          "description": "The new CSS corner-shape() property is mathematical, so it’s easily animated. Author Daniel Schwarz pokes at animating the property for interesting UI effects.\nExperimenting With Scroll-Driven corner-shape Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/",
+          "publishedOn": "2026-03-23T13:51:15.000Z",
+          "wordCount": 3635,
+          "title": "Experimenting With Scroll-Driven corner-shape Animations",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/02/corner-shape-amimation-1.mp4",
+            "length": "812988",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/corner-shape-animation.webp"
+        }
+      ]
+    },
+    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
@@ -62,7 +229,7 @@
           "description": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
           "publishedOn": "2026-03-31T11:00:00.000Z",
-          "wordCount": 4332,
+          "wordCount": 4329,
           "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
@@ -77,7 +244,7 @@
           "description": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?",
           "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
           "publishedOn": "2026-03-26T10:00:00.000Z",
-          "wordCount": 4831,
+          "wordCount": 4828,
           "title": "The Site-Search Paradox: Why The Big Box Always Wins",
           "enclosure": {
             "url": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg",
@@ -92,7 +259,7 @@
           "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
           "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
           "publishedOn": "2026-03-24T13:00:00.000Z",
-          "wordCount": 6108,
+          "wordCount": 6105,
           "title": "Testing Font Scaling For Accessibility With Figma Variables",
           "enclosure": {
             "url": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
