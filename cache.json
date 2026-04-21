@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=392278",
+          "author": "Zell Liew",
+          "description": "Although Astro has built-in support for Markdown via .md files, I'd argue that your Markdown experience can be enhanced with MDX.\nMarkdown + Astro = ❤️ originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/markdown-astro/",
+          "publishedOn": "2026-04-20T13:55:16.000Z",
+          "wordCount": 2761,
+          "title": "Markdown + Astro = ❤️",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/mdx-astro.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=393515",
           "author": "Daniel Schwarz",
           "description": "This issue of What’s !important brings you clip-path jigsaws, a view transitions toolkit, name-only containers, the usual roundup of new, notable web platform features, and more.\nWhat’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -179,6 +189,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
+          "author": "hello@smashingmagazine.com (Eleanor Hecks)",
+          "description": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.",
+          "link": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
+          "publishedOn": "2026-04-20T13:00:00.000Z",
+          "wordCount": 4695,
+          "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/04/legacy-systems/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Practical guidelines for driving UX impact in organizations with legacy systems and broken processes. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.",
@@ -199,7 +224,7 @@
           "description": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.",
           "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
           "publishedOn": "2026-04-07T10:00:00.000Z",
-          "wordCount": 6596,
+          "wordCount": 6588,
           "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
@@ -229,7 +254,7 @@
           "description": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
           "publishedOn": "2026-03-31T11:00:00.000Z",
-          "wordCount": 4329,
+          "wordCount": 4333,
           "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
@@ -244,7 +269,7 @@
           "description": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?",
           "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
           "publishedOn": "2026-03-26T10:00:00.000Z",
-          "wordCount": 4828,
+          "wordCount": 4831,
           "title": "The Site-Search Paradox: Why The Big Box Always Wins",
           "enclosure": {
             "url": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg",
@@ -259,7 +284,7 @@
           "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
           "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
           "publishedOn": "2026-03-24T13:00:00.000Z",
-          "wordCount": 6105,
+          "wordCount": 6085,
           "title": "Testing Font Scaling For Accessibility With Figma Variables",
           "enclosure": {
             "url": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
@@ -275,6 +300,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69e689acc9501dd0102dc758",
+          "author": "Orim Dominic Adah",
+          "description": "Backend applications are required to send emails to users to deliver notifications and maintain communication outside the application interface. These emails usually contain information specific to ea",
+          "link": "https://www.freecodecamp.org/news/how-to-create-dynamic-emails-in-go-with-react-email/",
+          "publishedOn": "2026-04-20T20:16:44.000Z",
+          "wordCount": 4329,
+          "title": "How to Create Dynamic Emails in Go with React Email",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/62917f79-c4d8-40e2-8eb7-87b63560e546.png"
+        },
+        {
+          "id": "69e66a12c9501dd0101793f9",
+          "author": "Great John",
+          "description": "Self‑taught developers often begin with the same “starter pack”: a laptop, internet access, and sheer determination. What they lack, however, is structured guidance, a defined curriculum, or any form",
+          "link": "https://www.freecodecamp.org/news/why-many-beginner-self-taught-developers-struggle-and-what-to-do-about-it/",
+          "publishedOn": "2026-04-20T18:01:54.000Z",
+          "wordCount": 6362,
+          "title": "Why Many Beginner Self-Taught Developers Struggle (And What to Do About It)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/76b41ea4-5375-4393-ad06-a0e53b53d23a.png"
+        },
+        {
+          "id": "69e65d6ec9501dd0100e2105",
+          "author": "Tech With RJ",
+          "description": "This tutorial shows you how to run WordPress as a headless CMS with an Astro frontend deployed to Cloudflare Pages. For a project I was recently working on, the requirement was to use WordPress as the",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-headless-wordpress-frontend-with-astro-ssr-on-cloudflare-pages/",
+          "publishedOn": "2026-04-20T17:07:58.000Z",
+          "wordCount": 4220,
+          "title": "How to Build a Headless WordPress Frontend with Astro SSR on Cloudflare Pages",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/605584805f8d5121697263ca/87087639-b2d1-4641-a2c9-f8f369b49406.png"
+        },
         {
           "id": "69e2cd3ffd22b8ad62900fb3",
           "author": "Chinaza Chukwunweike",
@@ -301,7 +356,7 @@
           "description": "Chrome OS runs on a read-only filesystem. You can't install executables on the host. There's no traditional desktop environment. Everything that interacts with the underlying system does so through a",
           "link": "https://www.freecodecamp.org/news/why-chrome-os-is-the-ai-os/",
           "publishedOn": "2026-04-17T18:05:16.000Z",
-          "wordCount": 2680,
+          "wordCount": 2720,
           "title": "Why Chrome OS Is the Operating System the AI Era Was Built For",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c4116a06-9e42-4da5-a152-0fe1433e0857.png"
         },
@@ -344,36 +399,6 @@
           "wordCount": 3788,
           "title": "Traditional Scraping vs AI Scraping: A Practical Guide for Developers and Data Teams",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c7f16b00-5245-48e2-a864-38a86d4292ae.png"
-        },
-        {
-          "id": "69e11c10ffbb787634dea035",
-          "author": "iyiola",
-          "description": "Every developer eventually runs into a slow query. The table has grown from a few hundred rows to a few million, and what used to take milliseconds now takes seconds — or worse. The fix, more often th",
-          "link": "https://www.freecodecamp.org/news/how-database-indexes-work-a-practical-guide-with-postgresql-examples/",
-          "publishedOn": "2026-04-16T17:27:44.000Z",
-          "wordCount": 4438,
-          "title": "How Database Indexes Work – A Practical Guide with PostgreSQL Examples",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cf6919a4-f803-4783-83ff-5c7674141c55.png"
-        },
-        {
-          "id": "69e10d82b67a275a9d505023",
-          "author": "Oluwatobi",
-          "description": "They say data is the new gold. But navigating through a large dataset to meet the demands of consumers in record time still gives backend devs a headache. Conventional database queries often aren't to",
-          "link": "https://www.freecodecamp.org/news/streamline-search-functionality-in-web-apps-with-elasticsearch/",
-          "publishedOn": "2026-04-16T16:25:38.000Z",
-          "wordCount": 3665,
-          "title": "How to Streamline Search in Web Applications with Elasticsearch",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e6563d07-a253-4fd9-b1f6-54dc98a48319.png"
-        },
-        {
-          "id": "69e0f1a7b67a275a9d3c9122",
-          "author": "Puneet Singh",
-          "description": "Creating a data platform has been made easier by cloud data analytics platforms like Databricks, Snowflake, and BigQuery. They offer excellent ramp-up and scaling options for small to mid-size teams.",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-open-source-data-lake-for-batch-ingestion/",
-          "publishedOn": "2026-04-16T14:26:47.000Z",
-          "wordCount": 4946,
-          "title": "How to Build an Open Source Data Lake for Batch Ingestion",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ef685075-beac-4bf4-b435-6e942e5e1ac1.png"
         }
       ]
     }

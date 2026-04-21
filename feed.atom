@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-20T00:56:38.624Z</id>
+    <id>urn:2026-04-21T00:55:59.215Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-20T00:56:38.624Z</updated>
+    <updated>2026-04-21T00:55:59.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create Dynamic Emails in Go with React Email]]></title>
+        <id>69e689acc9501dd0102dc758</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-dynamic-emails-in-go-with-react-email/"/>
+        <updated>2026-04-20T20:16:44.000Z</updated>
+        <summary type="html"><![CDATA[Backend applications are required to send emails to users to deliver notifications and maintain communication outside the application interface. These emails usually contain information specific to ea]]></summary>
+        <author>
+            <name>Orim Dominic Adah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Many Beginner Self-Taught Developers Struggle (And What to Do About It)]]></title>
+        <id>69e66a12c9501dd0101793f9</id>
+        <link href="https://www.freecodecamp.org/news/why-many-beginner-self-taught-developers-struggle-and-what-to-do-about-it/"/>
+        <updated>2026-04-20T18:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Self‑taught developers often begin with the same “starter pack”: a laptop, internet access, and sheer determination. What they lack, however, is structured guidance, a defined curriculum, or any form]]></summary>
+        <author>
+            <name>Great John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Headless WordPress Frontend with Astro SSR on Cloudflare Pages]]></title>
+        <id>69e65d6ec9501dd0100e2105</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-headless-wordpress-frontend-with-astro-ssr-on-cloudflare-pages/"/>
+        <updated>2026-04-20T17:07:58.000Z</updated>
+        <summary type="html"><![CDATA[This tutorial shows you how to run WordPress as a headless CMS with an Astro frontend deployed to Cloudflare Pages. For a project I was recently working on, the requirement was to use WordPress as the]]></summary>
+        <author>
+            <name>Tech With RJ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markdown + Astro = ❤️]]></title>
+        <id>https://css-tricks.com/?p=392278</id>
+        <link href="https://css-tricks.com/markdown-astro/"/>
+        <updated>2026-04-20T13:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Although Astro has built-in support for Markdown via .md files, I'd argue that your Markdown experience can be enhanced with MDX.
+Markdown + Astro = ❤️ originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design]]></title>
+        <id>https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/</id>
+        <link href="https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/"/>
+        <updated>2026-04-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Make Your GitHub Profile Stand Out]]></title>
         <id>69e2cd3ffd22b8ad62900fb3</id>
@@ -84,36 +135,6 @@ What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only C
         <summary type="html"><![CDATA[Enormous amounts of data are constantly generated on the open web. Product prices change, job listings go live and get taken down, news articles are published, and company information gets updated. Fo]]></summary>
         <author>
             <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Database Indexes Work – A Practical Guide with PostgreSQL Examples]]></title>
-        <id>69e11c10ffbb787634dea035</id>
-        <link href="https://www.freecodecamp.org/news/how-database-indexes-work-a-practical-guide-with-postgresql-examples/"/>
-        <updated>2026-04-16T17:27:44.000Z</updated>
-        <summary type="html"><![CDATA[Every developer eventually runs into a slow query. The table has grown from a few hundred rows to a few million, and what used to take milliseconds now takes seconds — or worse. The fix, more often th]]></summary>
-        <author>
-            <name>iyiola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Streamline Search in Web Applications with Elasticsearch]]></title>
-        <id>69e10d82b67a275a9d505023</id>
-        <link href="https://www.freecodecamp.org/news/streamline-search-functionality-in-web-apps-with-elasticsearch/"/>
-        <updated>2026-04-16T16:25:38.000Z</updated>
-        <summary type="html"><![CDATA[They say data is the new gold. But navigating through a large dataset to meet the demands of consumers in record time still gives backend devs a headache. Conventional database queries often aren't to]]></summary>
-        <author>
-            <name>Oluwatobi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Open Source Data Lake for Batch Ingestion]]></title>
-        <id>69e0f1a7b67a275a9d3c9122</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-open-source-data-lake-for-batch-ingestion/"/>
-        <updated>2026-04-16T14:26:47.000Z</updated>
-        <summary type="html"><![CDATA[Creating a data platform has been made easier by cloud data analytics platforms like Databricks, Snowflake, and BigQuery. They offer excellent ramp-up and scaling options for small to mid-size teams.]]></summary>
-        <author>
-            <name>Puneet Singh</name>
         </author>
     </entry>
     <entry>
