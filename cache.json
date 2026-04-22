@@ -52,7 +52,7 @@
           "description": "One of the best-known examples of CSS state management is the checkbox hack. What if we want a component to be in one of three, four, or seven modes? That is where the Radio State Machine comes in.\nThe Radio State Machine originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/the-radio-state-machine/",
           "publishedOn": "2026-04-14T13:55:38.000Z",
-          "wordCount": 5015,
+          "wordCount": 5424,
           "title": "The Radio State Machine",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/css-state-machine.webp"
         },
@@ -194,7 +194,7 @@
           "description": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.",
           "link": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
           "publishedOn": "2026-04-20T13:00:00.000Z",
-          "wordCount": 4695,
+          "wordCount": 4708,
           "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg",
@@ -224,7 +224,7 @@
           "description": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.",
           "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
           "publishedOn": "2026-04-07T10:00:00.000Z",
-          "wordCount": 6588,
+          "wordCount": 6601,
           "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
@@ -254,7 +254,7 @@
           "description": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
           "publishedOn": "2026-03-31T11:00:00.000Z",
-          "wordCount": 4333,
+          "wordCount": 4337,
           "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
@@ -269,7 +269,7 @@
           "description": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?",
           "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
           "publishedOn": "2026-03-26T10:00:00.000Z",
-          "wordCount": 4831,
+          "wordCount": 4833,
           "title": "The Site-Search Paradox: Why The Big Box Always Wins",
           "enclosure": {
             "url": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg",
@@ -284,7 +284,7 @@
           "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
           "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
           "publishedOn": "2026-03-24T13:00:00.000Z",
-          "wordCount": 6085,
+          "wordCount": 6213,
           "title": "Testing Font Scaling For Accessibility With Figma Variables",
           "enclosure": {
             "url": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
@@ -300,6 +300,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69e7e351e4367278149e58cb",
+          "author": "Manish Shivanandhan",
+          "description": "As our lives become increasingly digital, the need for secure networking solutions is more important than ever. Whether you’re browsing the web or managing a corporate network, the role of proxies is",
+          "link": "https://www.freecodecamp.org/news/understanding-proxies-and-reverse-proxies-your-gateway-to-secure-networking/",
+          "publishedOn": "2026-04-21T20:51:29.000Z",
+          "wordCount": 1870,
+          "title": "Understanding Proxies and Reverse Proxies: Your Gateway to Secure Networking",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8cf050c7-173f-4298-90e0-8627613c0cab.png"
+        },
+        {
+          "id": "69e7b761e4367278147e0832",
+          "author": "Rasheedat Atinuke Jamiu",
+          "description": "Each GPU generation pushes against the same constraint: memory. Models grow faster than memory capacity, forcing engineers into complex multi-GPU setups, aggressive quantization, or painful trade-offs",
+          "link": "https://www.freecodecamp.org/news/the-evolution-of-nvidia-blackwell-gpu-memory-architecture/",
+          "publishedOn": "2026-04-21T17:44:01.000Z",
+          "wordCount": 2882,
+          "title": "The Evolution of Nvidia Blackwell GPU Memory Architecture",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d2339663-d031-49df-9bfb-90505af532f8.png"
+        },
+        {
+          "id": "69e7accfe43672781470ff97",
+          "author": "Aaron Yong",
+          "description": "\"Just use Postgres\" has been circulating as advice for years, but most articles arguing for it are opinion pieces. I wanted hard numbers. So I built a benchmark suite that pits vanilla PostgreSQL agai",
+          "link": "https://www.freecodecamp.org/news/how-to-use-postgresql-as-a-cache-queue-and-search-engine/",
+          "publishedOn": "2026-04-21T16:58:55.000Z",
+          "wordCount": 2981,
+          "title": "How to Use PostgreSQL as a Cache, Queue, and Search Engine",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6fcdd3c0-eead-42a7-b2f0-cf4c6a3d06dc.png"
+        },
+        {
+          "id": "69e79e7ce4367278146642bb",
+          "author": "Tapas Adhikary",
+          "description": "If you're a software developer today, it's almost impossible to avoid the noise of AI( Artificial Intelligence) and its impact on the industry. You open X or LinkedIn in the morning, and the majority",
+          "link": "https://www.freecodecamp.org/news/the-new-definition-of-software-engineering-in-the-age-of-ai/",
+          "publishedOn": "2026-04-21T15:57:48.000Z",
+          "wordCount": 3680,
+          "title": "The New Definition of Software Engineering in the Age of AI",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/fdae044d-708e-4a00-93f1-5bcef49097f7.png"
+        },
+        {
+          "id": "69e79069e4367278145b1128",
+          "author": "Beau Carnes",
+          "description": "Do you ever spend a lot of time doing small repetitive tasks like copying data from an email into a spreadsheet or manually moving files between folders. We just posted a new course on the freeCodeCam",
+          "link": "https://www.freecodecamp.org/news/reclaim-your-time-master-automation-with-zapier/",
+          "publishedOn": "2026-04-21T14:57:45.000Z",
+          "wordCount": 1117,
+          "title": "Reclaim Your Time – Master Automation with Zapier",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/80b2d07a-dc5c-4b73-a50c-5c4b5c462a74.jpg"
+        },
         {
           "id": "69e689acc9501dd0102dc758",
           "author": "Orim Dominic Adah",
@@ -349,56 +399,6 @@
           "wordCount": 3307,
           "title": "How to Use Context Hub (chub) to Build a Companion Relevance Engine",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/14f9768e-436d-4c7e-b86c-3d380e821354.png"
-        },
-        {
-          "id": "69e2765cfd22b8ad62611ba8",
-          "author": "Christopher Galliart",
-          "description": "Chrome OS runs on a read-only filesystem. You can't install executables on the host. There's no traditional desktop environment. Everything that interacts with the underlying system does so through a",
-          "link": "https://www.freecodecamp.org/news/why-chrome-os-is-the-ai-os/",
-          "publishedOn": "2026-04-17T18:05:16.000Z",
-          "wordCount": 2720,
-          "title": "Why Chrome OS Is the Operating System the AI Era Was Built For",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c4116a06-9e42-4da5-a152-0fe1433e0857.png"
-        },
-        {
-          "id": "69e2610cfd22b8ad6251e84b",
-          "author": "Gopinath Karunanithi",
-          "description": "Microservices architecture enables healthcare portals to scale, secure sensitive data, and evolve rapidly. Using ASP.NET 10 and C#, you can build independent REST APIs for services like patients, appo",
-          "link": "https://www.freecodecamp.org/news/how-to-build-microservices-based-rest-apis-for-healthcare-portals/",
-          "publishedOn": "2026-04-17T16:30:00.000Z",
-          "wordCount": 5526,
-          "title": "How to Build Microservices-Based REST APIs for Healthcare Portals",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d834b346-3fcf-442c-836c-94ed7ef8a17d.png"
-        },
-        {
-          "id": "69e212b7d50d4175decce567",
-          "author": "Beau Carnes",
-          "description": "Today Quincy Larson interviews Jessica Rose. She's a dev and teacher who's worked on open data projects at Mozilla and lots of open source projects. We talk about: How the whole world is hard, and ho",
-          "link": "https://www.freecodecamp.org/news/how-to-friction-max-your-learning-with-software-engineer-jessica-rose-podcast-216/",
-          "publishedOn": "2026-04-17T11:00:00.000Z",
-          "wordCount": 1251,
-          "title": "How to friction-max your learning with software engineer Jessica Rose [Podcast #216]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/5958676f-faac-4fe3-b65d-88d5da206824.jpg"
-        },
-        {
-          "id": "69e15e4bffbb78763403e5ec",
-          "author": "Manish Shivanandhan",
-          "description": "A quiet shift is happening inside modern companies. It's not visible in dashboards. It's not tracked in logs. It's not approved by IT or security teams. Yet it's everywhere. Employees are using AI too",
-          "link": "https://www.freecodecamp.org/news/shadow-ai-explained-why-employees-are-using-ai-behind-your-back/",
-          "publishedOn": "2026-04-16T22:10:19.000Z",
-          "wordCount": 2239,
-          "title": "Shadow AI Explained: Why Employees Are Using AI Behind Your Back",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/43688fcc-10b1-4e4a-a158-03590357897c.png"
-        },
-        {
-          "id": "69e156abffbb787634ffa61a",
-          "author": "Joel Olawanle",
-          "description": "Enormous amounts of data are constantly generated on the open web. Product prices change, job listings go live and get taken down, news articles are published, and company information gets updated. Fo",
-          "link": "https://www.freecodecamp.org/news/traditional-scraping-vs-ai-scraping/",
-          "publishedOn": "2026-04-16T21:37:47.000Z",
-          "wordCount": 3788,
-          "title": "Traditional Scraping vs AI Scraping: A Practical Guide for Developers and Data Teams",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c7f16b00-5245-48e2-a864-38a86d4292ae.png"
         }
       ]
     }

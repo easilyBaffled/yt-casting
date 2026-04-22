@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-21T00:55:59.215Z</id>
+    <id>urn:2026-04-22T00:52:55.674Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-21T00:55:59.215Z</updated>
+    <updated>2026-04-22T00:52:55.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Proxies and Reverse Proxies: Your Gateway to Secure Networking]]></title>
+        <id>69e7e351e4367278149e58cb</id>
+        <link href="https://www.freecodecamp.org/news/understanding-proxies-and-reverse-proxies-your-gateway-to-secure-networking/"/>
+        <updated>2026-04-21T20:51:29.000Z</updated>
+        <summary type="html"><![CDATA[As our lives become increasingly digital, the need for secure networking solutions is more important than ever. Whether you’re browsing the web or managing a corporate network, the role of proxies is]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Evolution of Nvidia Blackwell GPU Memory Architecture]]></title>
+        <id>69e7b761e4367278147e0832</id>
+        <link href="https://www.freecodecamp.org/news/the-evolution-of-nvidia-blackwell-gpu-memory-architecture/"/>
+        <updated>2026-04-21T17:44:01.000Z</updated>
+        <summary type="html"><![CDATA[Each GPU generation pushes against the same constraint: memory. Models grow faster than memory capacity, forcing engineers into complex multi-GPU setups, aggressive quantization, or painful trade-offs]]></summary>
+        <author>
+            <name>Rasheedat Atinuke Jamiu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use PostgreSQL as a Cache, Queue, and Search Engine]]></title>
+        <id>69e7accfe43672781470ff97</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-postgresql-as-a-cache-queue-and-search-engine/"/>
+        <updated>2026-04-21T16:58:55.000Z</updated>
+        <summary type="html"><![CDATA["Just use Postgres" has been circulating as advice for years, but most articles arguing for it are opinion pieces. I wanted hard numbers. So I built a benchmark suite that pits vanilla PostgreSQL agai]]></summary>
+        <author>
+            <name>Aaron Yong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New Definition of Software Engineering in the Age of AI]]></title>
+        <id>69e79e7ce4367278146642bb</id>
+        <link href="https://www.freecodecamp.org/news/the-new-definition-of-software-engineering-in-the-age-of-ai/"/>
+        <updated>2026-04-21T15:57:48.000Z</updated>
+        <summary type="html"><![CDATA[If you're a software developer today, it's almost impossible to avoid the noise of AI( Artificial Intelligence) and its impact on the industry. You open X or LinkedIn in the morning, and the majority]]></summary>
+        <author>
+            <name>Tapas Adhikary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reclaim Your Time – Master Automation with Zapier]]></title>
+        <id>69e79069e4367278145b1128</id>
+        <link href="https://www.freecodecamp.org/news/reclaim-your-time-master-automation-with-zapier/"/>
+        <updated>2026-04-21T14:57:45.000Z</updated>
+        <summary type="html"><![CDATA[Do you ever spend a lot of time doing small repetitive tasks like copying data from an email into a spreadsheet or manually moving files between folders. We just posted a new course on the freeCodeCam]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create Dynamic Emails in Go with React Email]]></title>
         <id>69e689acc9501dd0102dc758</id>
@@ -77,26 +127,6 @@ Markdown + Astro = ❤️ originally handwritten and published with love on CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Chrome OS Is the Operating System the AI Era Was Built For]]></title>
-        <id>69e2765cfd22b8ad62611ba8</id>
-        <link href="https://www.freecodecamp.org/news/why-chrome-os-is-the-ai-os/"/>
-        <updated>2026-04-17T18:05:16.000Z</updated>
-        <summary type="html"><![CDATA[Chrome OS runs on a read-only filesystem. You can't install executables on the host. There's no traditional desktop environment. Everything that interacts with the underlying system does so through a]]></summary>
-        <author>
-            <name>Christopher Galliart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Microservices-Based REST APIs for Healthcare Portals]]></title>
-        <id>69e2610cfd22b8ad6251e84b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-microservices-based-rest-apis-for-healthcare-portals/"/>
-        <updated>2026-04-17T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Microservices architecture enables healthcare portals to scale, secure sensitive data, and evolve rapidly. Using ASP.NET 10 and C#, you can build independent REST APIs for services like patients, appo]]></summary>
-        <author>
-            <name>Gopinath Karunanithi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More]]></title>
         <id>https://css-tricks.com/?p=393515</id>
         <link href="https://css-tricks.com/whats-important-9/"/>
@@ -105,36 +135,6 @@ Markdown + Astro = ❤️ originally handwritten and published with love on CSS-
 What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to friction-max your learning with software engineer Jessica Rose [Podcast #216]]]></title>
-        <id>69e212b7d50d4175decce567</id>
-        <link href="https://www.freecodecamp.org/news/how-to-friction-max-your-learning-with-software-engineer-jessica-rose-podcast-216/"/>
-        <updated>2026-04-17T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Jessica Rose. She's a dev and teacher who's worked on open data projects at Mozilla and lots of open source projects. We talk about: How the whole world is hard, and ho]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shadow AI Explained: Why Employees Are Using AI Behind Your Back]]></title>
-        <id>69e15e4bffbb78763403e5ec</id>
-        <link href="https://www.freecodecamp.org/news/shadow-ai-explained-why-employees-are-using-ai-behind-your-back/"/>
-        <updated>2026-04-16T22:10:19.000Z</updated>
-        <summary type="html"><![CDATA[A quiet shift is happening inside modern companies. It's not visible in dashboards. It's not tracked in logs. It's not approved by IT or security teams. Yet it's everywhere. Employees are using AI too]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Traditional Scraping vs AI Scraping: A Practical Guide for Developers and Data Teams]]></title>
-        <id>69e156abffbb787634ffa61a</id>
-        <link href="https://www.freecodecamp.org/news/traditional-scraping-vs-ai-scraping/"/>
-        <updated>2026-04-16T21:37:47.000Z</updated>
-        <summary type="html"><![CDATA[Enormous amounts of data are constantly generated on the open web. Product prices change, job listings go live and get taken down, news articles are published, and company information gets updated. Fo]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
         </author>
     </entry>
     <entry>
