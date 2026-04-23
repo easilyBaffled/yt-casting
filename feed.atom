@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-22T00:52:55.674Z</id>
+    <id>urn:2026-04-23T00:57:16.173Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-22T00:52:55.674Z</updated>
+    <updated>2026-04-23T00:57:16.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a GPU-Optimized Machine Image with HashiCorp Packer on GCP]]></title>
+        <id>69e93606d5f8830e7d9fbad6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-gpu-optimized-machine-image-with-hashicorp-packer-on-gcp/"/>
+        <updated>2026-04-22T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Every time you spin up GPU infrastructure, you do the same thing: install CUDA drivers, DCGM, apply OS‑level GPU tuning, and fight dependency issues. Same old ritual every single time, wasting expensi]]></summary>
+        <author>
+            <name>Rasheedat Atinuke Jamiu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Web Development with Blender and Three.js]]></title>
+        <id>69e92bd8d5f8830e7d9a8b79</id>
+        <link href="https://www.freecodecamp.org/news/3d-web-development-with-blender-and-three-js/"/>
+        <updated>2026-04-22T20:13:12.000Z</updated>
+        <summary type="html"><![CDATA[Take your creative web development to the next level by building an interactive 3D cozy cafe portfolio from scratch using Blender and Three.js. We just posted a course on the freeCodeCamp YouTube chan]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fix a Failing GitHub PR: Debugging CI, Lint Errors, and Build Errors Step by Step]]></title>
+        <id>69e9033dbca83cce6c5f0209</id>
+        <link href="https://www.freecodecamp.org/news/how-to-fix-failing-github-pr-ci-lint-build-errors/"/>
+        <updated>2026-04-22T17:19:57.000Z</updated>
+        <summary type="html"><![CDATA[While many guides explain how to set up Continuous Integration pipelines, not very many show you how to debug them when things go wrong across multiple layers. This is a common experience when contrib]]></summary>
+        <author>
+            <name>qacheampong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Merge PDF Files in the Browser Using JavaScript (Step-by-Step)]]></title>
+        <id>69e8f8f6bca83cce6c55bcdf</id>
+        <link href="https://www.freecodecamp.org/news/merge-pdf-files-using-javascript/"/>
+        <updated>2026-04-22T16:36:06.000Z</updated>
+        <summary type="html"><![CDATA[Working with PDFs is something almost every developer needs to know how to do. Sometimes you need to combine reports or invoices, or simply merge multiple documents into a single clean file. Most tool]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Stripe Webhooks Reliably with Background Jobs]]></title>
+        <id>69e8f14f5d1c10710571b1ae</id>
+        <link href="https://www.freecodecamp.org/news/stripe-webhooks-background-jobs/"/>
+        <updated>2026-04-22T16:03:27.000Z</updated>
+        <summary type="html"><![CDATA[You've set up Stripe. Checkout works. Customers can pay. But what happens after payment? The webhook handler is where most payment integrations silently break. Your server crashes halfway through gran]]></summary>
+        <author>
+            <name>Magnus Rødseth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing Astro With a Markdown Component]]></title>
+        <id>https://css-tricks.com/?p=392286</id>
+        <link href="https://css-tricks.com/astro-markdown-component/"/>
+        <updated>2026-04-22T13:49:57.000Z</updated>
+        <summary type="html"><![CDATA[I use a Markdown Component for two main reasons: (1) It reduces the amount of markup I need to write, and (2) it converts typographic symbols. Here's how it works.
+Enhancing Astro With a Markdown Component originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable]]></title>
+        <id>https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/</id>
+        <link href="https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/"/>
+        <updated>2026-04-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carrie Webster)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Automatic Knowledge Graph for Your Blog with PHP and JSON-LD]]></title>
+        <id>69e80305e436727814adb8df</id>
+        <link href="https://www.freecodecamp.org/news/build-automatic-knowledge-graph-php-json-ld/"/>
+        <updated>2026-04-21T23:06:45.000Z</updated>
+        <summary type="html"><![CDATA[When someone searches for information today, they increasingly turn to AI models like ChatGPT, Perplexity, or Gemini instead of Google. But these models don't return a list of links. They synthesize a]]></summary>
+        <author>
+            <name>Shinobis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Proxies and Reverse Proxies: Your Gateway to Secure Networking]]></title>
         <id>69e7e351e4367278149e58cb</id>
@@ -46,46 +127,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reclaim Your Time – Master Automation with Zapier]]></title>
-        <id>69e79069e4367278145b1128</id>
-        <link href="https://www.freecodecamp.org/news/reclaim-your-time-master-automation-with-zapier/"/>
-        <updated>2026-04-21T14:57:45.000Z</updated>
-        <summary type="html"><![CDATA[Do you ever spend a lot of time doing small repetitive tasks like copying data from an email into a spreadsheet or manually moving files between folders. We just posted a new course on the freeCodeCam]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Dynamic Emails in Go with React Email]]></title>
-        <id>69e689acc9501dd0102dc758</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-dynamic-emails-in-go-with-react-email/"/>
-        <updated>2026-04-20T20:16:44.000Z</updated>
-        <summary type="html"><![CDATA[Backend applications are required to send emails to users to deliver notifications and maintain communication outside the application interface. These emails usually contain information specific to ea]]></summary>
-        <author>
-            <name>Orim Dominic Adah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Many Beginner Self-Taught Developers Struggle (And What to Do About It)]]></title>
-        <id>69e66a12c9501dd0101793f9</id>
-        <link href="https://www.freecodecamp.org/news/why-many-beginner-self-taught-developers-struggle-and-what-to-do-about-it/"/>
-        <updated>2026-04-20T18:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Self‑taught developers often begin with the same “starter pack”: a laptop, internet access, and sheer determination. What they lack, however, is structured guidance, a defined curriculum, or any form]]></summary>
-        <author>
-            <name>Great John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Headless WordPress Frontend with Astro SSR on Cloudflare Pages]]></title>
-        <id>69e65d6ec9501dd0100e2105</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-headless-wordpress-frontend-with-astro-ssr-on-cloudflare-pages/"/>
-        <updated>2026-04-20T17:07:58.000Z</updated>
-        <summary type="html"><![CDATA[This tutorial shows you how to run WordPress as a headless CMS with an Astro frontend deployed to Cloudflare Pages. For a project I was recently working on, the requirement was to use WordPress as the]]></summary>
-        <author>
-            <name>Tech With RJ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Markdown + Astro = ❤️]]></title>
         <id>https://css-tricks.com/?p=392278</id>
         <link href="https://css-tricks.com/markdown-astro/"/>
@@ -104,26 +145,6 @@ Markdown + Astro = ❤️ originally handwritten and published with love on CSS-
         <summary type="html"><![CDATA[Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Your GitHub Profile Stand Out]]></title>
-        <id>69e2cd3ffd22b8ad62900fb3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-your-github-profile-stand-out/"/>
-        <updated>2026-04-18T00:15:59.000Z</updated>
-        <summary type="html"><![CDATA[If you have a Github profile, you might overlook the many ways you can customize it – and that's completely understandable. After all, at its core, GitHub is a home for your code. But beyond repositor]]></summary>
-        <author>
-            <name>Chinaza Chukwunweike</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Context Hub (chub) to Build a Companion Relevance Engine]]></title>
-        <id>69e299d0fd22b8ad6276817b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-context-hub-chub-to-build-a-companion-relevance-engine/"/>
-        <updated>2026-04-17T20:36:32.000Z</updated>
-        <summary type="html"><![CDATA[Large language models can write code quickly, but they still misremember APIs, miss version-specific details, and forget what they learned at the end of a session. That is the problem Context Hub is t]]></summary>
-        <author>
-            <name>Nataraj Sundar</name>
         </author>
     </entry>
     <entry>
@@ -327,17 +348,6 @@ Generative UI Notes originally handwritten and published with love on CSS-Tricks
         <summary type="html"><![CDATA[Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ruben Ferreira Duarte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experimenting With Scroll-Driven corner-shape Animations]]></title>
-        <id>https://css-tricks.com/?p=392503</id>
-        <link href="https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/"/>
-        <updated>2026-03-23T13:51:15.000Z</updated>
-        <summary type="html"><![CDATA[The new CSS corner-shape() property is mathematical, so it’s easily animated. Author Daniel Schwarz pokes at animating the property for interesting UI effects.
-Experimenting With Scroll-Driven corner-shape Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
