@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-23T00:57:16.173Z</id>
+    <id>urn:2026-04-24T00:57:38.598Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-23T00:57:16.173Z</updated>
+    <updated>2026-04-24T00:57:38.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How I Built a Production-Ready CI/CD Pipeline for a Monorepo-Based Microservices System with Jenkins, Docker Compose, and Traefik]]></title>
+        <id>69ea60c8904b915438a58ca2</id>
+        <link href="https://www.freecodecamp.org/news/build-production-ready-ci-cd-pipeline-for-monorepo-based-microservices-system/"/>
+        <updated>2026-04-23T18:11:20.000Z</updated>
+        <summary type="html"><![CDATA[This tutorial is a complete, real-world guide to building a production-ready CI/CD pipeline using Jenkins, Docker Compose, and Traefik on a single Linux server. You’ll learn how to expose services on]]></summary>
+        <author>
+            <name>Md Tarikul Islam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hidden Tax of Infrastructure: Why Your Team Shouldn’t Be Running It Anymore]]></title>
+        <id>69ea514b904b9154389b5a1f</id>
+        <link href="https://www.freecodecamp.org/news/the-hidden-tax-of-infrastructure-why-your-team-shouldn-t-be-running-it-anymore/"/>
+        <updated>2026-04-23T17:05:15.000Z</updated>
+        <summary type="html"><![CDATA[Most engineering teams don't set out to manage infrastructure. They start with a product idea, a customer need, or a business problem. Infrastructure enters the picture as a means to an end. Servers n]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Metrics to Meaning: How PaaS Helps Developers Understand Production]]></title>
+        <id>69ea4e46904b91543899894d</id>
+        <link href="https://www.freecodecamp.org/news/from-metrics-to-meaning-how-paas-helps-developers-understand-production/"/>
+        <updated>2026-04-23T16:52:22.000Z</updated>
+        <summary type="html"><![CDATA[Modern production systems generate more data than most developers can realistically process. Every request emits logs. Every service exports metrics. Every dependency introduces another layer of signa]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Symptoms to Root Cause: How to Use the 5 Whys Technique]]></title>
+        <id>69ea4d69904b915438990f19</id>
+        <link href="https://www.freecodecamp.org/news/from-symptoms-to-root-cause-how-to-use-the-5-whys-technique/"/>
+        <updated>2026-04-23T16:48:41.000Z</updated>
+        <summary type="html"><![CDATA[Most teams don't struggle because they can't fix problems. They struggle because they fix the wrong thing. An API fails in production. You restart the service, errors go away, and it feels resolved. U]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recreating Apple’s Vision Pro Animation in CSS]]></title>
+        <id>https://css-tricks.com/?p=392970</id>
+        <link href="https://css-tricks.com/recreating-apples-vision-pro-animation-in-css/"/>
+        <updated>2026-04-23T13:22:57.000Z</updated>
+        <summary type="html"><![CDATA[Putting CSS’s more recent scrolling animation capabilities to the test to recreate a complex animation of the Apple Vision Pro headset from Apple's website.
+Recreating Apple’s Vision Pro Animation in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>John Rhea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation for AI Rollouts: Why A/B Testing Breaks and How Difference-in-Differences in Python Fixes It]]></title>
+        <id>69e94caed5f8830e7dae1569</id>
+        <link href="https://www.freecodecamp.org/news/why-ab-testing-breaks-in-ai-rollouts-and-how-to-fix-it/"/>
+        <updated>2026-04-22T22:33:18.000Z</updated>
+        <summary type="html"><![CDATA[Your team shipped an LLM-based summaries feature to wave 1 workspaces at week 20 and now the post-launch doc is due. You need a causal effect number, a specific estimate you can defend to a statistici]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a GPU-Optimized Machine Image with HashiCorp Packer on GCP]]></title>
         <id>69e93606d5f8830e7d9fbad6</id>
@@ -74,56 +135,6 @@ Enhancing Astro With a Markdown Component originally handwritten and published w
         <summary type="html"><![CDATA[In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Automatic Knowledge Graph for Your Blog with PHP and JSON-LD]]></title>
-        <id>69e80305e436727814adb8df</id>
-        <link href="https://www.freecodecamp.org/news/build-automatic-knowledge-graph-php-json-ld/"/>
-        <updated>2026-04-21T23:06:45.000Z</updated>
-        <summary type="html"><![CDATA[When someone searches for information today, they increasingly turn to AI models like ChatGPT, Perplexity, or Gemini instead of Google. But these models don't return a list of links. They synthesize a]]></summary>
-        <author>
-            <name>Shinobis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Proxies and Reverse Proxies: Your Gateway to Secure Networking]]></title>
-        <id>69e7e351e4367278149e58cb</id>
-        <link href="https://www.freecodecamp.org/news/understanding-proxies-and-reverse-proxies-your-gateway-to-secure-networking/"/>
-        <updated>2026-04-21T20:51:29.000Z</updated>
-        <summary type="html"><![CDATA[As our lives become increasingly digital, the need for secure networking solutions is more important than ever. Whether you’re browsing the web or managing a corporate network, the role of proxies is]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evolution of Nvidia Blackwell GPU Memory Architecture]]></title>
-        <id>69e7b761e4367278147e0832</id>
-        <link href="https://www.freecodecamp.org/news/the-evolution-of-nvidia-blackwell-gpu-memory-architecture/"/>
-        <updated>2026-04-21T17:44:01.000Z</updated>
-        <summary type="html"><![CDATA[Each GPU generation pushes against the same constraint: memory. Models grow faster than memory capacity, forcing engineers into complex multi-GPU setups, aggressive quantization, or painful trade-offs]]></summary>
-        <author>
-            <name>Rasheedat Atinuke Jamiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use PostgreSQL as a Cache, Queue, and Search Engine]]></title>
-        <id>69e7accfe43672781470ff97</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-postgresql-as-a-cache-queue-and-search-engine/"/>
-        <updated>2026-04-21T16:58:55.000Z</updated>
-        <summary type="html"><![CDATA["Just use Postgres" has been circulating as advice for years, but most articles arguing for it are opinion pieces. I wanted hard numbers. So I built a benchmark suite that pits vanilla PostgreSQL agai]]></summary>
-        <author>
-            <name>Aaron Yong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New Definition of Software Engineering in the Age of AI]]></title>
-        <id>69e79e7ce4367278146642bb</id>
-        <link href="https://www.freecodecamp.org/news/the-new-definition-of-software-engineering-in-the-age-of-ai/"/>
-        <updated>2026-04-21T15:57:48.000Z</updated>
-        <summary type="html"><![CDATA[If you're a software developer today, it's almost impossible to avoid the noise of AI( Artificial Intelligence) and its impact on the industry. You open X or LinkedIn in the morning, and the majority]]></summary>
-        <author>
-            <name>Tapas Adhikary</name>
         </author>
     </entry>
     <entry>
@@ -320,17 +331,6 @@ Form Automation Tips for Happier User and Clients originally handwritten and pub
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Generative UI Notes]]></title>
-        <id>https://css-tricks.com/?p=391438</id>
-        <link href="https://css-tricks.com/generative-ui-notes/"/>
-        <updated>2026-03-26T14:59:55.000Z</updated>
-        <summary type="html"><![CDATA[Looking at research and experiments that are designed to automatically generate user interfaces based on user preferences.
-Generative UI Notes originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Site-Search Paradox: Why The Big Box Always Wins]]></title>
         <id>https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/</id>
         <link href="https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/"/>
@@ -338,16 +338,6 @@ Generative UI Notes originally handwritten and published with love on CSS-Tricks
         <summary type="html"><![CDATA[Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing Font Scaling For Accessibility With Figma Variables]]></title>
-        <id>https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/</id>
-        <link href="https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/"/>
-        <updated>2026-03-24T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ruben Ferreira Duarte)</name>
         </author>
     </entry>
 </feed>
