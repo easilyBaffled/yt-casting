@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-24T00:57:38.598Z</id>
+    <id>urn:2026-04-25T00:52:18.737Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-24T00:57:38.598Z</updated>
+    <updated>2026-04-25T00:52:18.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Language-Specific LLM [Full Handbook]]]></title>
+        <id>69ebd996b463d4844c5084e4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-language-specific-llm-handbook/"/>
+        <updated>2026-04-24T20:59:02.000Z</updated>
+        <summary type="html"><![CDATA[What if you could build your own LLM, one that speaks your native language, all from scratch? That's exactly what we'll do in this tutorial. The best way to understand how LLMs work is by actually bui]]></summary>
+        <author>
+            <name>Wisamul Haque</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Self-Learning RAG System with Knowledge Reflection]]></title>
+        <id>69ebd821b463d4844c4f97e5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-self-learning-rag-system-with-knowledge-reflection/"/>
+        <updated>2026-04-24T20:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Every RAG system I've seen — including the one I wrote a handbook about on this site — has the same fundamental problem. It doesn't learn. You ingest 500 documents. You ask a question. The system retr]]></summary>
+        <author>
+            <name>Daniel Nwaneri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Trace Multi-Agent AI Swarms with Jaeger v2]]></title>
+        <id>69eaae45904b915438cefb47</id>
+        <link href="https://www.freecodecamp.org/news/multi-agent-ai-swarms-tracing/"/>
+        <updated>2026-04-23T23:41:57.000Z</updated>
+        <summary type="html"><![CDATA[When you run a single AI agent, debugging is straightforward. You read the log, you see what happened. When you run five agents in a swarm, each spawning its own tool calls and producing its own outpu]]></summary>
+        <author>
+            <name>Christopher Galliart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Tested Malaysia's Open Data Portals with Plain English]]></title>
+        <id>69eaad32904b915438ce46f9</id>
+        <link href="https://www.freecodecamp.org/news/how-i-tested-malaysia-s-open-data-portals-with-plain-english/"/>
+        <updated>2026-04-23T23:37:22.000Z</updated>
+        <summary type="html"><![CDATA[Most end-to-end test suites drive a real browser and click through an app like a user. They check whether a page renders and whether elements appear. But they don't check whether the numbers on those]]></summary>
+        <author>
+            <name>Tech With RJ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I Built a Production-Ready CI/CD Pipeline for a Monorepo-Based Microservices System with Jenkins, Docker Compose, and Traefik]]></title>
         <id>69ea60c8904b915438a58ca2</id>
@@ -74,46 +114,6 @@ Recreating Apple’s Vision Pro Animation in CSS originally handwritten and publ
         <summary type="html"><![CDATA[Every time you spin up GPU infrastructure, you do the same thing: install CUDA drivers, DCGM, apply OS‑level GPU tuning, and fight dependency issues. Same old ritual every single time, wasting expensi]]></summary>
         <author>
             <name>Rasheedat Atinuke Jamiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Web Development with Blender and Three.js]]></title>
-        <id>69e92bd8d5f8830e7d9a8b79</id>
-        <link href="https://www.freecodecamp.org/news/3d-web-development-with-blender-and-three-js/"/>
-        <updated>2026-04-22T20:13:12.000Z</updated>
-        <summary type="html"><![CDATA[Take your creative web development to the next level by building an interactive 3D cozy cafe portfolio from scratch using Blender and Three.js. We just posted a course on the freeCodeCamp YouTube chan]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix a Failing GitHub PR: Debugging CI, Lint Errors, and Build Errors Step by Step]]></title>
-        <id>69e9033dbca83cce6c5f0209</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fix-failing-github-pr-ci-lint-build-errors/"/>
-        <updated>2026-04-22T17:19:57.000Z</updated>
-        <summary type="html"><![CDATA[While many guides explain how to set up Continuous Integration pipelines, not very many show you how to debug them when things go wrong across multiple layers. This is a common experience when contrib]]></summary>
-        <author>
-            <name>qacheampong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Merge PDF Files in the Browser Using JavaScript (Step-by-Step)]]></title>
-        <id>69e8f8f6bca83cce6c55bcdf</id>
-        <link href="https://www.freecodecamp.org/news/merge-pdf-files-using-javascript/"/>
-        <updated>2026-04-22T16:36:06.000Z</updated>
-        <summary type="html"><![CDATA[Working with PDFs is something almost every developer needs to know how to do. Sometimes you need to combine reports or invoices, or simply merge multiple documents into a single clean file. Most tool]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Stripe Webhooks Reliably with Background Jobs]]></title>
-        <id>69e8f14f5d1c10710571b1ae</id>
-        <link href="https://www.freecodecamp.org/news/stripe-webhooks-background-jobs/"/>
-        <updated>2026-04-22T16:03:27.000Z</updated>
-        <summary type="html"><![CDATA[You've set up Stripe. Checkout works. Customers can pay. But what happens after payment? The webhook handler is where most payment integrations silently break. Your server crashes halfway through gran]]></summary>
-        <author>
-            <name>Magnus Rødseth</name>
         </author>
     </entry>
     <entry>
@@ -328,16 +328,6 @@ What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More o
 Form Automation Tips for Happier User and Clients originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Iqra Naaem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Site-Search Paradox: Why The Big Box Always Wins]]></title>
-        <id>https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/</id>
-        <link href="https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/"/>
-        <updated>2026-03-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carrie Webster)</name>
         </author>
     </entry>
 </feed>
