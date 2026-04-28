@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-27T00:59:09.021Z</id>
+    <id>urn:2026-04-28T01:01:37.495Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-27T00:59:09.021Z</updated>
+    <updated>2026-04-28T01:01:37.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up OpenID Connect (OIDC) in GitHub Actions for AWS]]></title>
+        <id>69ef7bbf330a1ad7f7f2d579</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-openid-connect-oidc-in-github-actions-for-aws/"/>
+        <updated>2026-04-27T15:07:43.000Z</updated>
+        <summary type="html"><![CDATA[If you've been storing AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY as GitHub Secrets to deploy to AWS, you're not alone. It's the most common approach and it's also one of the biggest security risks i]]></summary>
+        <author>
+            <name>Tolani Akintayo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Split PDF Files in the Browser Using JavaScript (Step-by-Step)]]></title>
+        <id>69ef7279330a1ad7f7ec9a85</id>
+        <link href="https://www.freecodecamp.org/news/split-pdf-files-using-javascript/"/>
+        <updated>2026-04-27T14:28:09.000Z</updated>
+        <summary type="html"><![CDATA[Working with PDFs is part of everyday development. Sometimes you don’t need the entire document. You just need a few pages — maybe a specific section, a report summary, or selected invoice pages. Most]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams]]></title>
+        <id>https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/</id>
+        <link href="https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/"/>
+        <updated>2026-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Casey Hudetz and Eric Olive)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Your Own Language-Specific LLM [Full Handbook]]]></title>
         <id>69ebd996b463d4844c5084e4</id>
@@ -86,48 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Recreating Apple’s Vision Pro Animation in CSS]]></title>
-        <id>https://css-tricks.com/?p=392970</id>
-        <link href="https://css-tricks.com/recreating-apples-vision-pro-animation-in-css/"/>
-        <updated>2026-04-23T13:22:57.000Z</updated>
-        <summary type="html"><![CDATA[Putting CSS’s more recent scrolling animation capabilities to the test to recreate a complex animation of the Apple Vision Pro headset from Apple's website.
-Recreating Apple’s Vision Pro Animation in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>John Rhea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experimentation for AI Rollouts: Why A/B Testing Breaks and How Difference-in-Differences in Python Fixes It]]></title>
-        <id>69e94caed5f8830e7dae1569</id>
-        <link href="https://www.freecodecamp.org/news/why-ab-testing-breaks-in-ai-rollouts-and-how-to-fix-it/"/>
-        <updated>2026-04-22T22:33:18.000Z</updated>
-        <summary type="html"><![CDATA[Your team shipped an LLM-based summaries feature to wave 1 workspaces at week 20 and now the post-launch doc is due. You need a causal effect number, a specific estimate you can defend to a statistici]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a GPU-Optimized Machine Image with HashiCorp Packer on GCP]]></title>
-        <id>69e93606d5f8830e7d9fbad6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-gpu-optimized-machine-image-with-hashicorp-packer-on-gcp/"/>
-        <updated>2026-04-22T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Every time you spin up GPU infrastructure, you do the same thing: install CUDA drivers, DCGM, apply OS‑level GPU tuning, and fight dependency issues. Same old ritual every single time, wasting expensi]]></summary>
-        <author>
-            <name>Rasheedat Atinuke Jamiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing Astro With a Markdown Component]]></title>
-        <id>https://css-tricks.com/?p=392286</id>
-        <link href="https://css-tricks.com/astro-markdown-component/"/>
-        <updated>2026-04-22T13:49:57.000Z</updated>
-        <summary type="html"><![CDATA[I use a Markdown Component for two main reasons: (1) It reduces the amount of markup I need to write, and (2) it converts typographic symbols. Here's how it works.
-Enhancing Astro With a Markdown Component originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable]]></title>
         <id>https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/</id>
         <link href="https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/"/>
@@ -135,17 +123,6 @@ Enhancing Astro With a Markdown Component originally handwritten and published w
         <summary type="html"><![CDATA[In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markdown + Astro = ❤️]]></title>
-        <id>https://css-tricks.com/?p=392278</id>
-        <link href="https://css-tricks.com/markdown-astro/"/>
-        <updated>2026-04-20T13:55:16.000Z</updated>
-        <summary type="html"><![CDATA[Although Astro has built-in support for Markdown via .md files, I'd argue that your Markdown experience can be enhanced with MDX.
-Markdown + Astro = ❤️ originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
     <entry>
@@ -159,50 +136,6 @@ Markdown + Astro = ❤️ originally handwritten and published with love on CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More]]></title>
-        <id>https://css-tricks.com/?p=393515</id>
-        <link href="https://css-tricks.com/whats-important-9/"/>
-        <updated>2026-04-17T14:00:41.000Z</updated>
-        <summary type="html"><![CDATA[This issue of What’s !important brings you clip-path jigsaws, a view transitions toolkit, name-only containers, the usual roundup of new, notable web platform features, and more.
-What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Well-Designed JavaScript Module System is Your First Architecture Decision]]></title>
-        <id>https://css-tricks.com/?p=392882</id>
-        <link href="https://css-tricks.com/the-javascript-module-system-architecture/"/>
-        <updated>2026-04-16T13:53:58.000Z</updated>
-        <summary type="html"><![CDATA[Behind every technology, there should be a guide for its use. While JavaScript modules make it easier to write “big” programs, if there are no principles or systems for using them, things could easily become difficult to maintain.
-A Well-Designed JavaScript Module System is Your First Architecture Decision originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Amejimaobari Victor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Radio State Machine]]></title>
-        <id>https://css-tricks.com/?p=393344</id>
-        <link href="https://css-tricks.com/the-radio-state-machine/"/>
-        <updated>2026-04-14T13:55:38.000Z</updated>
-        <summary type="html"><![CDATA[One of the best-known examples of CSS state management is the checkbox hack. What if we want a component to be in one of three, four, or seven modes? That is where the Radio State Machine comes in.
-The Radio State Machine originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 View Transitions Recipes to Try]]></title>
-        <id>https://css-tricks.com/?p=392002</id>
-        <link href="https://css-tricks.com/7-view-transitions-recipes-to-try/"/>
-        <updated>2026-04-13T14:14:43.000Z</updated>
-        <summary type="html"><![CDATA[Craving for a view transition? Sunkanmi has lots of common transitions you can drop into your website right now!
-7 View Transitions Recipes to Try originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Improve UX In Legacy Systems]]></title>
         <id>https://smashingmagazine.com/2026/04/legacy-systems/</id>
         <link href="https://smashingmagazine.com/2026/04/legacy-systems/"/>
@@ -210,28 +143,6 @@ The Radio State Machine originally handwritten and published with love on CSS-Tr
         <summary type="html"><![CDATA[Practical guidelines for driving UX impact in organizations with legacy systems and broken processes. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selecting a Date Range in CSS]]></title>
-        <id>https://css-tricks.com/?p=393088</id>
-        <link href="https://css-tricks.com/selecting-a-date-range-in-css/"/>
-        <updated>2026-04-09T13:52:56.000Z</updated>
-        <summary type="html"><![CDATA[A clever approach for selecting multiple dates on a calendar where the :nth-child()'s “n of selector” syntax does all the heavy lifting... even in the JavaScript.
-Selecting a Date Range in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alternatives to the !important Keyword]]></title>
-        <id>https://css-tricks.com/?p=392696</id>
-        <link href="https://css-tricks.com/alternatives-to-the-important-keyword/"/>
-        <updated>2026-04-07T13:54:43.000Z</updated>
-        <summary type="html"><![CDATA[Cascade layers, specificity tricks, smarter ordering, and even some clever selector hacks can often replace !important with something cleaner, more predictable, and far less embarrassing to explain to your future self.
-Alternatives to the !important Keyword originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Saleh Mubashar</name>
         </author>
     </entry>
     <entry>
@@ -245,50 +156,6 @@ Alternatives to the !important Keyword originally handwritten and published with
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Looking at New CSS Multi-Column Layout Wrapping Features]]></title>
-        <id>https://css-tricks.com/?p=392361</id>
-        <link href="https://css-tricks.com/css-multi-column-layout-wrapping-features/"/>
-        <updated>2026-04-06T13:55:49.000Z</updated>
-        <summary type="html"><![CDATA[Chrome 145 introduces the column-height and column-wrap properties, enabling us to wrap the additional content into a new row below, creating a vertical scroll instead of a horizontal scroll.
-Looking at New CSS Multi-Column Layout Wrapping Features originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Abhishek Pratap Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Complex CSS Shapes Using shape()]]></title>
-        <id>https://css-tricks.com/?p=392986</id>
-        <link href="https://css-tricks.com/complex-css-shapes-with-shape-function/"/>
-        <updated>2026-04-02T13:58:24.000Z</updated>
-        <summary type="html"><![CDATA[Creating rectangles, circles, and rounded rectangles is the basic of CSS. Creating more complex CSS shapes such as triangles, hexagons, stars, hearts, etc. is more challenging but still a simple task if we rely on modern features.
-Making Complex CSS Shapes Using shape() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Front-End Fools: Top 10 April Fools’ UI Pranks of All Time]]></title>
-        <id>https://css-tricks.com/?p=392794</id>
-        <link href="https://css-tricks.com/front-end-april-fools-top-10/"/>
-        <updated>2026-04-01T14:00:26.000Z</updated>
-        <summary type="html"><![CDATA[These are the historical pranks I consider the top 10 most noteworthy, rather than the “best.” You’ll see that some of them crossed the line and/or backfired.
-Front-End Fools: Top 10 April Fools’ UI Pranks of All Time originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sniffing Out the CSS Olfactive API]]></title>
-        <id>https://css-tricks.com/?p=393070</id>
-        <link href="https://css-tricks.com/css-olfactive-api/"/>
-        <updated>2026-04-01T13:54:47.000Z</updated>
-        <summary type="html"><![CDATA[A deep sniff of the new CSS Olfactive API, a set of proposed features for immersive user experiences using smell.
-Sniffing Out the CSS Olfactive API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>John Rhea</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Practical Guide To Design Principles]]></title>
         <id>https://smashingmagazine.com/2026/04/practical-guide-design-principles/</id>
         <link href="https://smashingmagazine.com/2026/04/practical-guide-design-principles/"/>
@@ -299,17 +166,6 @@ Sniffing Out the CSS Olfactive API originally handwritten and published with lov
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More]]></title>
-        <id>https://css-tricks.com/?p=393306</id>
-        <link href="https://css-tricks.com/whats-important-8/"/>
-        <updated>2026-03-31T14:14:07.000Z</updated>
-        <summary type="html"><![CDATA[Short n’ sweet but ever so neat, this issue covers light/dark favicons, @mixin, anchor-interpolated morphing, object-view-box, new web features, and more.
-What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/</id>
         <link href="https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/"/>
@@ -317,17 +173,6 @@ What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More o
         <summary type="html"><![CDATA[With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Form Automation Tips for Happier User and Clients]]></title>
-        <id>https://css-tricks.com/?p=391993</id>
-        <link href="https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/"/>
-        <updated>2026-03-30T14:12:14.000Z</updated>
-        <summary type="html"><![CDATA[That gap between "the form works" and "the business works" is something we don't really tend to discuss much as front-enders. We focus a great deal on user experience, validation methods, and accessibility, yet we overlook what the data does once it leaves our control
-Form Automation Tips for Happier User and Clients originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Iqra Naaem</name>
         </author>
     </entry>
 </feed>
