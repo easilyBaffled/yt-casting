@@ -1,10 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-29T01:01:48.814Z</id>
+    <id>urn:2026-04-30T01:01:47.374Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-29T01:01:48.814Z</updated>
+    <updated>2026-04-30T01:01:47.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Dockerize a Go Application – Full Step-by-Step Walkthrough]]></title>
+        <id>69f248846e0124c05e445b7a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-dockerize-a-go-application-full-step-by-step-walkthrough/"/>
+        <updated>2026-04-29T18:05:56.000Z</updated>
+        <summary type="html"><![CDATA[Imagine that you want to share your source code with someone who doesn’t have Go installed on their computer. Unfortunately, this person won’t be able to run your application. Even if they do have Go]]></summary>
+        <author>
+            <name>Njong Emy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Measure Your AI Citation Rate Across ChatGPT, Perplexity, and Claude]]></title>
+        <id>69f239976e0124c05e38d9fb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-measure-your-ai-citation-rate-across-chatgpt-perplexity-and-claude/"/>
+        <updated>2026-04-29T17:02:15.000Z</updated>
+        <summary type="html"><![CDATA[Most sites think they're getting AI citations because their brand shows up in ChatGPT answers, but they're not. Visibility and citation are different numbers, and the gap between them is where the lea]]></summary>
+        <author>
+            <name>Chudi Nnorukam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[contrast()]]></title>
+        <id>https://css-tricks.com/?page_id=392899</id>
+        <link href="https://css-tricks.com/almanac/functions/c/contrast/"/>
+        <updated>2026-04-29T14:58:19.000Z</updated>
+        <summary type="html"><![CDATA[The contrast() filter function increases or decreases the contrast of an element.
+contrast() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[contrast-color()]]></title>
+        <id>https://css-tricks.com/?page_id=392903</id>
+        <link href="https://css-tricks.com/almanac/functions/c/contrast-color/"/>
+        <updated>2026-04-29T14:57:48.000Z</updated>
+        <summary type="html"><![CDATA[The contrast-color() function takes a <color> and returns either black or white, whichever is the most contrasting color for that value.
+contrast-color() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a Full-Stack Next.js App on Cloudflare Workers with GitHub Actions CI/CD]]></title>
+        <id>69f2145e6e0124c05e1a5b6e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-full-stack-next-js-app-on-cloudflare-workers-with-github-actions-ci-cd/"/>
+        <updated>2026-04-29T14:23:26.000Z</updated>
+        <summary type="html"><![CDATA[I typically build my projects using Next.js 14 (App Router) and Supabase for authentication along with Postgres. The default deployment choice for a Next.js app is usually Vercel, and for good reason:]]></summary>
+        <author>
+            <name>Md Tarikul Islam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Multi-Tenant SaaS Platform with Next.js, Express, and Prisma]]></title>
+        <id>69f213e46e0124c05e19e1af</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-multi-tenant-saas-platform-with-next-js-express-and-prisma/"/>
+        <updated>2026-04-29T14:21:24.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how platforms like Webflow, Notion, or Hashnode serve thousands of users from a single codebase — each with their own unique URL? The answer is multi-tenancy: an architecture wh]]></summary>
+        <author>
+            <name>Michael Okolo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Completed 15 freeCodeCamp Certifications in 4 Months: 
+A Structured Learning Journey]]></title>
+        <id>69f212ea6e0124c05e18f7b0</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-15-certifications-in-4-months-high-school/"/>
+        <updated>2026-04-29T14:17:14.000Z</updated>
+        <summary type="html"><![CDATA[Can you achieve a massive milestone while you're still in high school other than just getting high grades? You may be thinking: school alone is plenty of work! And it often is. But if you set your min]]></summary>
+        <author>
+            <name>Mohammed Fahd Abrah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Agentic Terminal Workflow with GitHub Copilot CLI and MCP Servers]]></title>
+        <id>69f212526e0124c05e1857b5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-agentic-terminal-workflow-with-github-copilot-cli-and-mcp-servers/"/>
+        <updated>2026-04-29T14:14:42.000Z</updated>
+        <summary type="html"><![CDATA[Most developers live in their terminal. You run commands, debug pipelines, manage infrastructure, and navigate codebases, all from a shell prompt. But despite how central the terminal is to developer]]></summary>
+        <author>
+            <name>Caleb Mintoumba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How AI Changed the Economics of Writing Clean Code]]></title>
         <id>69f0bce210a70b3335bf635a</id>
@@ -64,66 +147,6 @@ Let’s Use the Nonexistent ::nth-letter Selector Now originally handwritten and
         <summary type="html"><![CDATA[AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Casey Hudetz and Eric Olive)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your Own Language-Specific LLM [Full Handbook]]]></title>
-        <id>69ebd996b463d4844c5084e4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-language-specific-llm-handbook/"/>
-        <updated>2026-04-24T20:59:02.000Z</updated>
-        <summary type="html"><![CDATA[What if you could build your own LLM, one that speaks your native language, all from scratch? That's exactly what we'll do in this tutorial. The best way to understand how LLMs work is by actually bui]]></summary>
-        <author>
-            <name>Wisamul Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Self-Learning RAG System with Knowledge Reflection]]></title>
-        <id>69ebd821b463d4844c4f97e5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-self-learning-rag-system-with-knowledge-reflection/"/>
-        <updated>2026-04-24T20:52:49.000Z</updated>
-        <summary type="html"><![CDATA[Every RAG system I've seen — including the one I wrote a handbook about on this site — has the same fundamental problem. It doesn't learn. You ingest 500 documents. You ask a question. The system retr]]></summary>
-        <author>
-            <name>Daniel Nwaneri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Trace Multi-Agent AI Swarms with Jaeger v2]]></title>
-        <id>69eaae45904b915438cefb47</id>
-        <link href="https://www.freecodecamp.org/news/multi-agent-ai-swarms-tracing/"/>
-        <updated>2026-04-23T23:41:57.000Z</updated>
-        <summary type="html"><![CDATA[When you run a single AI agent, debugging is straightforward. You read the log, you see what happened. When you run five agents in a swarm, each spawning its own tool calls and producing its own outpu]]></summary>
-        <author>
-            <name>Christopher Galliart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Tested Malaysia's Open Data Portals with Plain English]]></title>
-        <id>69eaad32904b915438ce46f9</id>
-        <link href="https://www.freecodecamp.org/news/how-i-tested-malaysia-s-open-data-portals-with-plain-english/"/>
-        <updated>2026-04-23T23:37:22.000Z</updated>
-        <summary type="html"><![CDATA[Most end-to-end test suites drive a real browser and click through an app like a user. They check whether a page renders and whether elements appear. But they don't check whether the numbers on those]]></summary>
-        <author>
-            <name>Tech With RJ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built a Production-Ready CI/CD Pipeline for a Monorepo-Based Microservices System with Jenkins, Docker Compose, and Traefik]]></title>
-        <id>69ea60c8904b915438a58ca2</id>
-        <link href="https://www.freecodecamp.org/news/build-production-ready-ci-cd-pipeline-for-monorepo-based-microservices-system/"/>
-        <updated>2026-04-23T18:11:20.000Z</updated>
-        <summary type="html"><![CDATA[This tutorial is a complete, real-world guide to building a production-ready CI/CD pipeline using Jenkins, Docker Compose, and Traefik on a single Linux server. You’ll learn how to expose services on]]></summary>
-        <author>
-            <name>Md Tarikul Islam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hidden Tax of Infrastructure: Why Your Team Shouldn’t Be Running It Anymore]]></title>
-        <id>69ea514b904b9154389b5a1f</id>
-        <link href="https://www.freecodecamp.org/news/the-hidden-tax-of-infrastructure-why-your-team-shouldn-t-be-running-it-anymore/"/>
-        <updated>2026-04-23T17:05:15.000Z</updated>
-        <summary type="html"><![CDATA[Most engineering teams don't set out to manage infrastructure. They start with a product idea, a customer need, or a business problem. Infrastructure enters the picture as a means to an end. Servers n]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
@@ -202,6 +225,17 @@ A Well-Designed JavaScript Module System is Your First Architecture Decision ori
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[hypot()]]></title>
+        <id>https://css-tricks.com/?page_id=392723</id>
+        <link href="https://css-tricks.com/almanac/functions/h/hypot/"/>
+        <updated>2026-04-15T16:30:48.000Z</updated>
+        <summary type="html"><![CDATA[The hypot() function takes a list of values and returns the square root of the sum of their squares.
+hypot() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Radio State Machine]]></title>
         <id>https://css-tricks.com/?p=393344</id>
         <link href="https://css-tricks.com/the-radio-state-machine/"/>
@@ -245,6 +279,28 @@ Selecting a Date Range in CSS originally handwritten and published with love on 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[saturate()]]></title>
+        <id>https://css-tricks.com/?page_id=392485</id>
+        <link href="https://css-tricks.com/almanac/functions/s/saturate/"/>
+        <updated>2026-04-08T18:41:44.000Z</updated>
+        <summary type="html"><![CDATA[The saturate() function increases or decreases the saturation of an element.
+saturate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[justify-self]]></title>
+        <id>https://css-tricks.com/?page_id=393035</id>
+        <link href="https://css-tricks.com/almanac/properties/j/justify-self/"/>
+        <updated>2026-04-08T18:41:38.000Z</updated>
+        <summary type="html"><![CDATA[The justify-self property aligns an individual element, overriding its parent current align-items value.
+justify-self originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Alternatives to the !important Keyword]]></title>
         <id>https://css-tricks.com/?p=392696</id>
         <link href="https://css-tricks.com/alternatives-to-the-important-keyword/"/>
@@ -266,50 +322,6 @@ Alternatives to the !important Keyword originally handwritten and published with
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Looking at New CSS Multi-Column Layout Wrapping Features]]></title>
-        <id>https://css-tricks.com/?p=392361</id>
-        <link href="https://css-tricks.com/css-multi-column-layout-wrapping-features/"/>
-        <updated>2026-04-06T13:55:49.000Z</updated>
-        <summary type="html"><![CDATA[Chrome 145 introduces the column-height and column-wrap properties, enabling us to wrap the additional content into a new row below, creating a vertical scroll instead of a horizontal scroll.
-Looking at New CSS Multi-Column Layout Wrapping Features originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Abhishek Pratap Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Complex CSS Shapes Using shape()]]></title>
-        <id>https://css-tricks.com/?p=392986</id>
-        <link href="https://css-tricks.com/complex-css-shapes-with-shape-function/"/>
-        <updated>2026-04-02T13:58:24.000Z</updated>
-        <summary type="html"><![CDATA[Creating rectangles, circles, and rounded rectangles is the basic of CSS. Creating more complex CSS shapes such as triangles, hexagons, stars, hearts, etc. is more challenging but still a simple task if we rely on modern features.
-Making Complex CSS Shapes Using shape() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Front-End Fools: Top 10 April Fools’ UI Pranks of All Time]]></title>
-        <id>https://css-tricks.com/?p=392794</id>
-        <link href="https://css-tricks.com/front-end-april-fools-top-10/"/>
-        <updated>2026-04-01T14:00:26.000Z</updated>
-        <summary type="html"><![CDATA[These are the historical pranks I consider the top 10 most noteworthy, rather than the “best.” You’ll see that some of them crossed the line and/or backfired.
-Front-End Fools: Top 10 April Fools’ UI Pranks of All Time originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sniffing Out the CSS Olfactive API]]></title>
-        <id>https://css-tricks.com/?p=393070</id>
-        <link href="https://css-tricks.com/css-olfactive-api/"/>
-        <updated>2026-04-01T13:54:47.000Z</updated>
-        <summary type="html"><![CDATA[A deep sniff of the new CSS Olfactive API, a set of proposed features for immersive user experiences using smell.
-Sniffing Out the CSS Olfactive API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>John Rhea</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Practical Guide To Design Principles]]></title>
         <id>https://smashingmagazine.com/2026/04/practical-guide-design-principles/</id>
         <link href="https://smashingmagazine.com/2026/04/practical-guide-design-principles/"/>
@@ -317,27 +329,6 @@ Sniffing Out the CSS Olfactive API originally handwritten and published with lov
         <summary type="html"><![CDATA[Design principles with references, examples, and methods for quick look-up. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More]]></title>
-        <id>https://css-tricks.com/?p=393306</id>
-        <link href="https://css-tricks.com/whats-important-8/"/>
-        <updated>2026-03-31T14:14:07.000Z</updated>
-        <summary type="html"><![CDATA[Short n’ sweet but ever so neat, this issue covers light/dark favicons, @mixin, anchor-interpolated morphing, object-view-box, new web features, and more.
-What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/</id>
-        <link href="https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/"/>
-        <updated>2026-03-31T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>

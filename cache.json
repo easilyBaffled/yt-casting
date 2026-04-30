@@ -12,12 +12,32 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?page_id=392899",
+          "author": "Gabriel Shoyombo",
+          "description": "The contrast() filter function increases or decreases the contrast of an element.\ncontrast() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/c/contrast/",
+          "publishedOn": "2026-04-29T14:58:19.000Z",
+          "wordCount": 4220,
+          "title": "contrast()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=392903",
+          "author": "Gabriel Shoyombo",
+          "description": "The contrast-color() function takes a <color> and returns either black or white, whichever is the most contrasting color for that value.\ncontrast-color() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/c/contrast-color/",
+          "publishedOn": "2026-04-29T14:57:48.000Z",
+          "wordCount": 4238,
+          "title": "contrast-color()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=393324",
           "author": "Lee Meyer",
           "description": "My shim might give the powers that be another reason to say native support isn't necessary, or if lots of people use my :nth-letter hack in the wild, the browser gods might recognize the need to implement it for real.\nLet’s Use the Nonexistent ::nth-letter Selector Now originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/using-nonexistent-nth-letter-selector-now/",
           "publishedOn": "2026-04-27T13:55:42.000Z",
-          "wordCount": 6296,
+          "wordCount": 6491,
           "title": "Let’s Use the Nonexistent ::nth-letter Selector Now",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/10/nth-letter.png"
         },
@@ -27,7 +47,7 @@
           "description": "Putting CSS’s more recent scrolling animation capabilities to the test to recreate a complex animation of the Apple Vision Pro headset from Apple's website.\nRecreating Apple’s Vision Pro Animation in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/recreating-apples-vision-pro-animation-in-css/",
           "publishedOn": "2026-04-23T13:22:57.000Z",
-          "wordCount": 4834,
+          "wordCount": 4848,
           "title": "Recreating Apple’s Vision Pro Animation in CSS",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/03/AppleSite.mov",
@@ -42,7 +62,7 @@
           "description": "I use a Markdown Component for two main reasons: (1) It reduces the amount of markup I need to write, and (2) it converts typographic symbols. Here's how it works.\nEnhancing Astro With a Markdown Component originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/astro-markdown-component/",
           "publishedOn": "2026-04-22T13:49:57.000Z",
-          "wordCount": 3572,
+          "wordCount": 3558,
           "title": "Enhancing Astro With a Markdown Component",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/markdown-astro.webp"
         },
@@ -52,7 +72,7 @@
           "description": "Although Astro has built-in support for Markdown via .md files, I'd argue that your Markdown experience can be enhanced with MDX.\nMarkdown + Astro = ❤️ originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/markdown-astro/",
           "publishedOn": "2026-04-20T13:55:16.000Z",
-          "wordCount": 3653,
+          "wordCount": 3639,
           "title": "Markdown + Astro = ❤️",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/mdx-astro.webp"
         },
@@ -62,7 +82,7 @@
           "description": "This issue of What’s !important brings you clip-path jigsaws, a view transitions toolkit, name-only containers, the usual roundup of new, notable web platform features, and more.\nWhat’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-9/",
           "publishedOn": "2026-04-17T14:00:41.000Z",
-          "wordCount": 3582,
+          "wordCount": 3568,
           "title": "What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/04/2.mp4",
@@ -77,9 +97,19 @@
           "description": "Behind every technology, there should be a guide for its use. While JavaScript modules make it easier to write “big” programs, if there are no principles or systems for using them, things could easily become difficult to maintain.\nA Well-Designed JavaScript Module System is Your First Architecture Decision originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/the-javascript-module-system-architecture/",
           "publishedOn": "2026-04-16T13:53:58.000Z",
-          "wordCount": 5748,
+          "wordCount": 5734,
           "title": "A Well-Designed JavaScript Module System is Your First Architecture Decision",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_438F18945EAD505ECD4EDF4C4D7332DB9EE1178AECF38D5E1E1966514E384E9B_1772462582173_Untitled-scaled.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=392723",
+          "author": "Juan Diego Rodríguez",
+          "description": "The hypot() function takes a list of values and returns the square root of the sum of their squares.\nhypot() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/h/hypot/",
+          "publishedOn": "2026-04-15T16:30:48.000Z",
+          "wordCount": 5019,
+          "title": "hypot()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
         {
           "id": "https://css-tricks.com/?p=393344",
@@ -87,7 +117,7 @@
           "description": "One of the best-known examples of CSS state management is the checkbox hack. What if we want a component to be in one of three, four, or seven modes? That is where the Radio State Machine comes in.\nThe Radio State Machine originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/the-radio-state-machine/",
           "publishedOn": "2026-04-14T13:55:38.000Z",
-          "wordCount": 6366,
+          "wordCount": 6352,
           "title": "The Radio State Machine",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/css-state-machine.webp"
         },
@@ -97,7 +127,7 @@
           "description": "Craving for a view transition? Sunkanmi has lots of common transitions you can drop into your website right now!\n7 View Transitions Recipes to Try originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/7-view-transitions-recipes-to-try/",
           "publishedOn": "2026-04-13T14:14:43.000Z",
-          "wordCount": 4605,
+          "wordCount": 4591,
           "title": "7 View Transitions Recipes to Try",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/View-transition-Pixelate-dissolve.mp4",
@@ -112,9 +142,29 @@
           "description": "A clever approach for selecting multiple dates on a calendar where the :nth-child()'s “n of selector” syntax does all the heavy lifting... even in the JavaScript.\nSelecting a Date Range in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/selecting-a-date-range-in-css/",
           "publishedOn": "2026-04-09T13:52:56.000Z",
-          "wordCount": 3915,
+          "wordCount": 3901,
           "title": "Selecting a Date Range in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_7B1698CD93D2E480B2867F02F52F6807BC326B3FB6B9C5A5A10103D5813DD8E0_1774013392464_Screenshot2026-03-20at7.29.24AM.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=392485",
+          "author": "Gabriel Shoyombo",
+          "description": "The saturate() function increases or decreases the saturation of an element.\nsaturate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/s/saturate/",
+          "publishedOn": "2026-04-08T18:41:44.000Z",
+          "wordCount": 4263,
+          "title": "saturate()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393035",
+          "author": "Juan Diego Rodríguez",
+          "description": "The justify-self property aligns an individual element, overriding its parent current align-items value.\njustify-self originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/properties/j/justify-self/",
+          "publishedOn": "2026-04-08T18:41:38.000Z",
+          "wordCount": 5388,
+          "title": "justify-self",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
         {
           "id": "https://css-tricks.com/?p=392696",
@@ -122,64 +172,9 @@
           "description": "Cascade layers, specificity tricks, smarter ordering, and even some clever selector hacks can often replace !important with something cleaner, more predictable, and far less embarrassing to explain to your future self.\nAlternatives to the !important Keyword originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/alternatives-to-the-important-keyword/",
           "publishedOn": "2026-04-07T13:54:43.000Z",
-          "wordCount": 4673,
+          "wordCount": 4659,
           "title": "Alternatives to the !important Keyword",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/important-style.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392361",
-          "author": "Abhishek Pratap Singh",
-          "description": "Chrome 145 introduces the column-height and column-wrap properties, enabling us to wrap the additional content into a new row below, creating a vertical scroll instead of a horizontal scroll.\nLooking at New CSS Multi-Column Layout Wrapping Features originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-multi-column-layout-wrapping-features/",
-          "publishedOn": "2026-04-06T13:55:49.000Z",
-          "wordCount": 4157,
-          "title": "Looking at New CSS Multi-Column Layout Wrapping Features",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/02/Screen-Recording-2026-02-17-at-9.41.27-AM.mov",
-            "length": "3273030",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/chrome-layout.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392986",
-          "author": "Temani Afif",
-          "description": "Creating rectangles, circles, and rounded rectangles is the basic of CSS. Creating more complex CSS shapes such as triangles, hexagons, stars, hearts, etc. is more challenging but still a simple task if we rely on modern features.\nMaking Complex CSS Shapes Using shape() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/complex-css-shapes-with-shape-function/",
-          "publishedOn": "2026-04-02T13:58:24.000Z",
-          "wordCount": 4644,
-          "title": "Making Complex CSS Shapes Using shape()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/complex-css-shapes-shape-function.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392794",
-          "author": "Lee Meyer",
-          "description": "These are the historical pranks I consider the top 10 most noteworthy, rather than the “best.” You’ll see that some of them crossed the line and/or backfired.\nFront-End Fools: Top 10 April Fools’ UI Pranks of All Time originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/front-end-april-fools-top-10/",
-          "publishedOn": "2026-04-01T14:00:26.000Z",
-          "wordCount": 5870,
-          "title": "Front-End Fools: Top 10 April Fools’ UI Pranks of All Time",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/emoji-laughing.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393070",
-          "author": "John Rhea",
-          "description": "A deep sniff of the new CSS Olfactive API, a set of proposed features for immersive user experiences using smell.\nSniffing Out the CSS Olfactive API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-olfactive-api/",
-          "publishedOn": "2026-04-01T13:54:47.000Z",
-          "wordCount": 4131,
-          "title": "Sniffing Out the CSS Olfactive API",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/olfactive-api.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393306",
-          "author": "Daniel Schwarz",
-          "description": "Short n’ sweet but ever so neat, this issue covers light/dark favicons, @mixin, anchor-interpolated morphing, object-view-box, new web features, and more.\nWhat’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-8/",
-          "publishedOn": "2026-03-31T14:14:07.000Z",
-          "wordCount": 3713,
-          "title": "What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/wh8.png"
         }
       ]
     },
@@ -194,7 +189,7 @@
           "description": "AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.",
           "link": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
           "publishedOn": "2026-04-27T10:00:00.000Z",
-          "wordCount": 4608,
+          "wordCount": 4612,
           "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
@@ -209,7 +204,7 @@
           "description": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
           "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
           "publishedOn": "2026-04-22T10:00:00.000Z",
-          "wordCount": 4149,
+          "wordCount": 4136,
           "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
@@ -224,7 +219,7 @@
           "description": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.",
           "link": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
           "publishedOn": "2026-04-20T13:00:00.000Z",
-          "wordCount": 4700,
+          "wordCount": 4699,
           "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg",
@@ -254,7 +249,7 @@
           "description": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.",
           "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
           "publishedOn": "2026-04-07T10:00:00.000Z",
-          "wordCount": 6596,
+          "wordCount": 6597,
           "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
@@ -277,21 +272,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/stop-endless-debates-design-principles/practical-guide-design-principles.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.",
-          "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
-          "publishedOn": "2026-03-31T11:00:00.000Z",
-          "wordCount": 4327,
-          "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png"
         }
       ]
     },
@@ -300,6 +280,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69f248846e0124c05e445b7a",
+          "author": "Njong Emy",
+          "description": "Imagine that you want to share your source code with someone who doesn’t have Go installed on their computer. Unfortunately, this person won’t be able to run your application. Even if they do have Go",
+          "link": "https://www.freecodecamp.org/news/how-to-dockerize-a-go-application-full-step-by-step-walkthrough/",
+          "publishedOn": "2026-04-29T18:05:56.000Z",
+          "wordCount": 4788,
+          "title": "How to Dockerize a Go Application – Full Step-by-Step Walkthrough",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e49dda12-fd5e-4474-aa18-b72624640bf3.png"
+        },
+        {
+          "id": "69f239976e0124c05e38d9fb",
+          "author": "Chudi Nnorukam",
+          "description": "Most sites think they're getting AI citations because their brand shows up in ChatGPT answers, but they're not. Visibility and citation are different numbers, and the gap between them is where the lea",
+          "link": "https://www.freecodecamp.org/news/how-to-measure-your-ai-citation-rate-across-chatgpt-perplexity-and-claude/",
+          "publishedOn": "2026-04-29T17:02:15.000Z",
+          "wordCount": 3338,
+          "title": "How to Measure Your AI Citation Rate Across ChatGPT, Perplexity, and Claude",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/defc67de-452e-4765-8598-75a8bc840fb0.png"
+        },
+        {
+          "id": "69f2145e6e0124c05e1a5b6e",
+          "author": "Md Tarikul Islam",
+          "description": "I typically build my projects using Next.js 14 (App Router) and Supabase for authentication along with Postgres. The default deployment choice for a Next.js app is usually Vercel, and for good reason:",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-full-stack-next-js-app-on-cloudflare-workers-with-github-actions-ci-cd/",
+          "publishedOn": "2026-04-29T14:23:26.000Z",
+          "wordCount": 2753,
+          "title": "How to Deploy a Full-Stack Next.js App on Cloudflare Workers with GitHub Actions CI/CD",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cbb9e559-baa7-452c-992a-3416041712ad.png"
+        },
+        {
+          "id": "69f213e46e0124c05e19e1af",
+          "author": "Michael Okolo",
+          "description": "Have you ever wondered how platforms like Webflow, Notion, or Hashnode serve thousands of users from a single codebase — each with their own unique URL? The answer is multi-tenancy: an architecture wh",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-multi-tenant-saas-platform-with-next-js-express-and-prisma/",
+          "publishedOn": "2026-04-29T14:21:24.000Z",
+          "wordCount": 4835,
+          "title": "How to Build a Multi-Tenant SaaS Platform with Next.js, Express, and Prisma",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ef0c87aa-4455-4230-9669-bf2c13db9947.png"
+        },
+        {
+          "id": "69f212ea6e0124c05e18f7b0",
+          "author": "Mohammed Fahd Abrah",
+          "description": "Can you achieve a massive milestone while you're still in high school other than just getting high grades? You may be thinking: school alone is plenty of work! And it often is. But if you set your min",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-15-certifications-in-4-months-high-school/",
+          "publishedOn": "2026-04-29T14:17:14.000Z",
+          "wordCount": 3889,
+          "title": "How I Completed 15 freeCodeCamp Certifications in 4 Months: \nA Structured Learning Journey",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/95e36f70-6cd4-4349-9fdc-13ce2b73a3b5.png"
+        },
+        {
+          "id": "69f212526e0124c05e1857b5",
+          "author": "Caleb Mintoumba",
+          "description": "Most developers live in their terminal. You run commands, debug pipelines, manage infrastructure, and navigate codebases, all from a shell prompt. But despite how central the terminal is to developer",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-agentic-terminal-workflow-with-github-copilot-cli-and-mcp-servers/",
+          "publishedOn": "2026-04-29T14:14:42.000Z",
+          "wordCount": 3049,
+          "title": "How to Build an Agentic Terminal Workflow with GitHub Copilot CLI and MCP Servers",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3e4e3d7e-6cbf-4742-a63b-f9a2579f2318.png"
+        },
         {
           "id": "69f0bce210a70b3335bf635a",
           "author": "Aaron Yong",
@@ -326,7 +366,7 @@
           "description": "If you've been storing AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY as GitHub Secrets to deploy to AWS, you're not alone. It's the most common approach and it's also one of the biggest security risks i",
           "link": "https://www.freecodecamp.org/news/how-to-set-up-openid-connect-oidc-in-github-actions-for-aws/",
           "publishedOn": "2026-04-27T15:07:43.000Z",
-          "wordCount": 3674,
+          "wordCount": 3691,
           "title": "How to Set Up OpenID Connect (OIDC) in GitHub Actions for AWS",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/83b71e24-b63b-42a4-ac1c-d59e226da6c3.png"
         },
@@ -339,66 +379,6 @@
           "wordCount": 2163,
           "title": "How to Split PDF Files in the Browser Using JavaScript (Step-by-Step)",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ff8ed4f5-a0f1-44cd-8703-a6dcd95e6b0f.png"
-        },
-        {
-          "id": "69ebd996b463d4844c5084e4",
-          "author": "Wisamul Haque",
-          "description": "What if you could build your own LLM, one that speaks your native language, all from scratch? That's exactly what we'll do in this tutorial. The best way to understand how LLMs work is by actually bui",
-          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-language-specific-llm-handbook/",
-          "publishedOn": "2026-04-24T20:59:02.000Z",
-          "wordCount": 11017,
-          "title": "How to Build Your Own Language-Specific LLM [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bbdca07e-40a3-4b6e-955f-9573f895154a.png"
-        },
-        {
-          "id": "69ebd821b463d4844c4f97e5",
-          "author": "Daniel Nwaneri",
-          "description": "Every RAG system I've seen — including the one I wrote a handbook about on this site — has the same fundamental problem. It doesn't learn. You ingest 500 documents. You ask a question. The system retr",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-self-learning-rag-system-with-knowledge-reflection/",
-          "publishedOn": "2026-04-24T20:52:49.000Z",
-          "wordCount": 3646,
-          "title": "How to Build a Self-Learning RAG System with Knowledge Reflection",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d4567606-0d92-434c-8fd1-6137549350cf.png"
-        },
-        {
-          "id": "69eaae45904b915438cefb47",
-          "author": "Christopher Galliart",
-          "description": "When you run a single AI agent, debugging is straightforward. You read the log, you see what happened. When you run five agents in a swarm, each spawning its own tool calls and producing its own outpu",
-          "link": "https://www.freecodecamp.org/news/multi-agent-ai-swarms-tracing/",
-          "publishedOn": "2026-04-23T23:41:57.000Z",
-          "wordCount": 2764,
-          "title": "How to Trace Multi-Agent AI Swarms with Jaeger v2",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/308710e6-cfe6-4007-887a-c49a5e2e6b9a.png"
-        },
-        {
-          "id": "69eaad32904b915438ce46f9",
-          "author": "Tech With RJ",
-          "description": "Most end-to-end test suites drive a real browser and click through an app like a user. They check whether a page renders and whether elements appear. But they don't check whether the numbers on those",
-          "link": "https://www.freecodecamp.org/news/how-i-tested-malaysia-s-open-data-portals-with-plain-english/",
-          "publishedOn": "2026-04-23T23:37:22.000Z",
-          "wordCount": 3685,
-          "title": "How I Tested Malaysia's Open Data Portals with Plain English",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/605584805f8d5121697263ca/d4859bd4-15d5-4bb7-ba9e-d4693c90163d.png"
-        },
-        {
-          "id": "69ea60c8904b915438a58ca2",
-          "author": "Md Tarikul Islam",
-          "description": "This tutorial is a complete, real-world guide to building a production-ready CI/CD pipeline using Jenkins, Docker Compose, and Traefik on a single Linux server. You’ll learn how to expose services on",
-          "link": "https://www.freecodecamp.org/news/build-production-ready-ci-cd-pipeline-for-monorepo-based-microservices-system/",
-          "publishedOn": "2026-04-23T18:11:20.000Z",
-          "wordCount": 4490,
-          "title": "How I Built a Production-Ready CI/CD Pipeline for a Monorepo-Based Microservices System with Jenkins, Docker Compose, and Traefik",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/66cb39fcaa2a09f9a8d691c1/d59c62f5-e376-4f09-851f-83e437f9960a.png"
-        },
-        {
-          "id": "69ea514b904b9154389b5a1f",
-          "author": "Manish Shivanandhan",
-          "description": "Most engineering teams don't set out to manage infrastructure. They start with a product idea, a customer need, or a business problem. Infrastructure enters the picture as a means to an end. Servers n",
-          "link": "https://www.freecodecamp.org/news/the-hidden-tax-of-infrastructure-why-your-team-shouldn-t-be-running-it-anymore/",
-          "publishedOn": "2026-04-23T17:05:15.000Z",
-          "wordCount": 2652,
-          "title": "The Hidden Tax of Infrastructure: Why Your Team Shouldn’t Be Running It Anymore",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/54cf1158-4c67-4f32-bf19-a09eebd1a643.png"
         }
       ]
     }
