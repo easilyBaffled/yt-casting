@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-30T01:01:47.374Z</id>
+    <id>urn:2026-05-01T01:06:27.312Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-30T01:01:47.374Z</updated>
+    <updated>2026-05-01T01:06:27.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Importance of Native Randomness in CSS]]></title>
+        <id>https://css-tricks.com/?p=393373</id>
+        <link href="https://css-tricks.com/the-importance-of-native-randomness-in-css/"/>
+        <updated>2026-04-30T15:26:18.000Z</updated>
+        <summary type="html"><![CDATA[We're getting new functions for generating random numbers in CSS! But the road to get here has been a long and winding one.
+The Importance of Native Randomness in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Alvaro Montoro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Multi-Agent AI System with LangGraph, MCP, and A2A [Full Book]]]></title>
+        <id>69f36894909e64ad07e3fc7f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-multi-agent-ai-system-with-langgraph-mcp-and-a2a-full-book/"/>
+        <updated>2026-04-30T14:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Building a single AI agent that answers questions or runs searches is a solved problem. A handful of tutorials and a few hours of work will get you there. What most tutorials skip is the engineering l]]></summary>
+        <author>
+            <name>Sandeep Bharadwaj Mannapur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Land Your First Cloud or DevOps Role: What Hiring Managers Actually Look For]]></title>
+        <id>69f3683c909e64ad07e3b0fc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-land-your-first-cloud-or-devops-role-what-hiring-managers-actually-look-for/"/>
+        <updated>2026-04-30T14:33:32.000Z</updated>
+        <summary type="html"><![CDATA[You've completed three AWS courses. You have notes from a dozen Docker tutorials. You know what Kubernetes is, what CI/CD means, and you can explain Infrastructure as Code without hesitating. And yet]]></summary>
+        <author>
+            <name>Tolani Akintayo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Fresh View In May (2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/</id>
+        <link href="https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/"/>
+        <updated>2026-04-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Stable Interfaces For Streaming Content]]></title>
+        <id>https://smashingmagazine.com/2026/04/designing-stable-interfaces-streaming-content/</id>
+        <link href="https://smashingmagazine.com/2026/04/designing-stable-interfaces-streaming-content/"/>
+        <updated>2026-04-30T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joas Pambou)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a Serverless Spam Classifier Using Scikit-Learn, AWS Lambda, & API Gateway]]></title>
+        <id>69f2e347b18c978233780179</id>
+        <link href="https://www.freecodecamp.org/news/deploying-serverless-spam-classifier/"/>
+        <updated>2026-04-30T05:06:15.000Z</updated>
+        <summary type="html"><![CDATA[In today's digital world, spam is no longer just an annoyance - it's a growing security threat. To combat this, developers often turn to machine learning to build intelligent filters that can distingu]]></summary>
+        <author>
+            <name>Rakshath Naik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Dockerize a Go Application – Full Step-by-Step Walkthrough]]></title>
         <id>69f248846e0124c05e445b7a</id>
@@ -13,6 +74,26 @@
         <summary type="html"><![CDATA[Imagine that you want to share your source code with someone who doesn’t have Go installed on their computer. Unfortunately, this person won’t be able to run your application. Even if they do have Go]]></summary>
         <author>
             <name>Njong Emy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Hardware, Cloud, DevOps, Networking, Security, Databases, DNS, Git, and Linux]]></title>
+        <id>69f244bf6e0124c05e41940e</id>
+        <link href="https://www.freecodecamp.org/news/learn-hardware-cloud-devops-networking-security-databases-dns-git-and-linux/"/>
+        <updated>2026-04-29T17:49:51.000Z</updated>
+        <summary type="html"><![CDATA[Ready to dive into IT but don’t know where to start? freeCodeCamp just dropped the Ultimate IT Fundamentals Bootcamp For Absolute Beginners course. This is a a brand new, full-length course created by]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Stanford’s Elite Student Hackathon [Full Documentary]]]></title>
+        <id>69f2429a6e0124c05e3fcd80</id>
+        <link href="https://www.freecodecamp.org/news/inside-stanford-elite-student-hackathon-full-documentary/"/>
+        <updated>2026-04-29T17:40:42.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to be inspired by the next generation of tech innovators? freeCodeCamp.org just dropped a new documentary on our YouTube channel that dives deep into Stanford’s TreeHacks 2026, one of th]]></summary>
+        <author>
+            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -76,56 +157,6 @@ A Structured Learning Journey]]></title>
         <summary type="html"><![CDATA[Can you achieve a massive milestone while you're still in high school other than just getting high grades? You may be thinking: school alone is plenty of work! And it often is. But if you set your min]]></summary>
         <author>
             <name>Mohammed Fahd Abrah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Agentic Terminal Workflow with GitHub Copilot CLI and MCP Servers]]></title>
-        <id>69f212526e0124c05e1857b5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-agentic-terminal-workflow-with-github-copilot-cli-and-mcp-servers/"/>
-        <updated>2026-04-29T14:14:42.000Z</updated>
-        <summary type="html"><![CDATA[Most developers live in their terminal. You run commands, debug pipelines, manage infrastructure, and navigate codebases, all from a shell prompt. But despite how central the terminal is to developer]]></summary>
-        <author>
-            <name>Caleb Mintoumba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Changed the Economics of Writing Clean Code]]></title>
-        <id>69f0bce210a70b3335bf635a</id>
-        <link href="https://www.freecodecamp.org/news/how-ai-changed-the-economics-of-writing-clean-code/"/>
-        <updated>2026-04-28T13:57:54.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever wanted to add an interface to a codebase and gotten pushback, you already know the argument: "That's twice the code for the same thing." And honestly? It was a fair point. You'd write t]]></summary>
-        <author>
-            <name>Aaron Yong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Apply STRIDE Threat Modeling and SonarQube Analysis for Secure Software Development]]></title>
-        <id>69f0bbbf10a70b3335be7131</id>
-        <link href="https://www.freecodecamp.org/news/apply-stride-threat-modeling-and-sonarqube-analysis-for-secure-software-development/"/>
-        <updated>2026-04-28T13:53:03.000Z</updated>
-        <summary type="html"><![CDATA[Secure software requires both design-time and code-time protection. STRIDE threat modeling helps identify risks early in system design, while SonarQube enforces secure coding practices through static]]></summary>
-        <author>
-            <name>Gopinath Karunanithi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up OpenID Connect (OIDC) in GitHub Actions for AWS]]></title>
-        <id>69ef7bbf330a1ad7f7f2d579</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-openid-connect-oidc-in-github-actions-for-aws/"/>
-        <updated>2026-04-27T15:07:43.000Z</updated>
-        <summary type="html"><![CDATA[If you've been storing AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY as GitHub Secrets to deploy to AWS, you're not alone. It's the most common approach and it's also one of the biggest security risks i]]></summary>
-        <author>
-            <name>Tolani Akintayo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Split PDF Files in the Browser Using JavaScript (Step-by-Step)]]></title>
-        <id>69ef7279330a1ad7f7ec9a85</id>
-        <link href="https://www.freecodecamp.org/news/split-pdf-files-using-javascript/"/>
-        <updated>2026-04-27T14:28:09.000Z</updated>
-        <summary type="html"><![CDATA[Working with PDFs is part of everyday development. Sometimes you don’t need the entire document. You just need a few pages — maybe a specific section, a report summary, or selected invoice pages. Most]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
         </author>
     </entry>
     <entry>
@@ -301,17 +332,6 @@ justify-self originally handwritten and published with love on CSS-Tricks. You s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alternatives to the !important Keyword]]></title>
-        <id>https://css-tricks.com/?p=392696</id>
-        <link href="https://css-tricks.com/alternatives-to-the-important-keyword/"/>
-        <updated>2026-04-07T13:54:43.000Z</updated>
-        <summary type="html"><![CDATA[Cascade layers, specificity tricks, smarter ordering, and even some clever selector hacks can often replace !important with something cleaner, more predictable, and far less embarrassing to explain to your future self.
-Alternatives to the !important Keyword originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Saleh Mubashar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Identifying Necessary Transparency Moments In Agentic AI (Part 1)]]></title>
         <id>https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/</id>
         <link href="https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/"/>
@@ -319,16 +339,6 @@ Alternatives to the !important Keyword originally handwritten and published with
         <summary type="html"><![CDATA[Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Practical Guide To Design Principles]]></title>
-        <id>https://smashingmagazine.com/2026/04/practical-guide-design-principles/</id>
-        <link href="https://smashingmagazine.com/2026/04/practical-guide-design-principles/"/>
-        <updated>2026-04-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Design principles with references, examples, and methods for quick look-up. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>

@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=393373",
+          "author": "Alvaro Montoro",
+          "description": "We're getting new functions for generating random numbers in CSS! But the road to get here has been a long and winding one.\nThe Importance of Native Randomness in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/the-importance-of-native-randomness-in-css/",
+          "publishedOn": "2026-04-30T15:26:18.000Z",
+          "wordCount": 4529,
+          "title": "The Importance of Native Randomness in CSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/xUDzcUCN.png"
+        },
+        {
           "id": "https://css-tricks.com/?page_id=392899",
           "author": "Gabriel Shoyombo",
           "description": "The contrast() filter function increases or decreases the contrast of an element.\ncontrast() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/c/contrast/",
           "publishedOn": "2026-04-29T14:58:19.000Z",
-          "wordCount": 4220,
+          "wordCount": 4227,
           "title": "contrast()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -27,7 +37,7 @@
           "description": "The contrast-color() function takes a <color> and returns either black or white, whichever is the most contrasting color for that value.\ncontrast-color() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/c/contrast-color/",
           "publishedOn": "2026-04-29T14:57:48.000Z",
-          "wordCount": 4238,
+          "wordCount": 4252,
           "title": "contrast-color()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -37,7 +47,7 @@
           "description": "My shim might give the powers that be another reason to say native support isn't necessary, or if lots of people use my :nth-letter hack in the wild, the browser gods might recognize the need to implement it for real.\nLet’s Use the Nonexistent ::nth-letter Selector Now originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/using-nonexistent-nth-letter-selector-now/",
           "publishedOn": "2026-04-27T13:55:42.000Z",
-          "wordCount": 6491,
+          "wordCount": 6505,
           "title": "Let’s Use the Nonexistent ::nth-letter Selector Now",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/10/nth-letter.png"
         },
@@ -47,7 +57,7 @@
           "description": "Putting CSS’s more recent scrolling animation capabilities to the test to recreate a complex animation of the Apple Vision Pro headset from Apple's website.\nRecreating Apple’s Vision Pro Animation in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/recreating-apples-vision-pro-animation-in-css/",
           "publishedOn": "2026-04-23T13:22:57.000Z",
-          "wordCount": 4848,
+          "wordCount": 4862,
           "title": "Recreating Apple’s Vision Pro Animation in CSS",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/03/AppleSite.mov",
@@ -62,7 +72,7 @@
           "description": "I use a Markdown Component for two main reasons: (1) It reduces the amount of markup I need to write, and (2) it converts typographic symbols. Here's how it works.\nEnhancing Astro With a Markdown Component originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/astro-markdown-component/",
           "publishedOn": "2026-04-22T13:49:57.000Z",
-          "wordCount": 3558,
+          "wordCount": 3572,
           "title": "Enhancing Astro With a Markdown Component",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/markdown-astro.webp"
         },
@@ -72,7 +82,7 @@
           "description": "Although Astro has built-in support for Markdown via .md files, I'd argue that your Markdown experience can be enhanced with MDX.\nMarkdown + Astro = ❤️ originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/markdown-astro/",
           "publishedOn": "2026-04-20T13:55:16.000Z",
-          "wordCount": 3639,
+          "wordCount": 3653,
           "title": "Markdown + Astro = ❤️",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/mdx-astro.webp"
         },
@@ -82,7 +92,7 @@
           "description": "This issue of What’s !important brings you clip-path jigsaws, a view transitions toolkit, name-only containers, the usual roundup of new, notable web platform features, and more.\nWhat’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-9/",
           "publishedOn": "2026-04-17T14:00:41.000Z",
-          "wordCount": 3568,
+          "wordCount": 3582,
           "title": "What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/04/2.mp4",
@@ -97,7 +107,7 @@
           "description": "Behind every technology, there should be a guide for its use. While JavaScript modules make it easier to write “big” programs, if there are no principles or systems for using them, things could easily become difficult to maintain.\nA Well-Designed JavaScript Module System is Your First Architecture Decision originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/the-javascript-module-system-architecture/",
           "publishedOn": "2026-04-16T13:53:58.000Z",
-          "wordCount": 5734,
+          "wordCount": 5806,
           "title": "A Well-Designed JavaScript Module System is Your First Architecture Decision",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_438F18945EAD505ECD4EDF4C4D7332DB9EE1178AECF38D5E1E1966514E384E9B_1772462582173_Untitled-scaled.png"
         },
@@ -107,7 +117,7 @@
           "description": "The hypot() function takes a list of values and returns the square root of the sum of their squares.\nhypot() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/h/hypot/",
           "publishedOn": "2026-04-15T16:30:48.000Z",
-          "wordCount": 5019,
+          "wordCount": 5026,
           "title": "hypot()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -117,7 +127,7 @@
           "description": "One of the best-known examples of CSS state management is the checkbox hack. What if we want a component to be in one of three, four, or seven modes? That is where the Radio State Machine comes in.\nThe Radio State Machine originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/the-radio-state-machine/",
           "publishedOn": "2026-04-14T13:55:38.000Z",
-          "wordCount": 6352,
+          "wordCount": 6366,
           "title": "The Radio State Machine",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/css-state-machine.webp"
         },
@@ -127,7 +137,7 @@
           "description": "Craving for a view transition? Sunkanmi has lots of common transitions you can drop into your website right now!\n7 View Transitions Recipes to Try originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/7-view-transitions-recipes-to-try/",
           "publishedOn": "2026-04-13T14:14:43.000Z",
-          "wordCount": 4591,
+          "wordCount": 4605,
           "title": "7 View Transitions Recipes to Try",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/View-transition-Pixelate-dissolve.mp4",
@@ -142,7 +152,7 @@
           "description": "A clever approach for selecting multiple dates on a calendar where the :nth-child()'s “n of selector” syntax does all the heavy lifting... even in the JavaScript.\nSelecting a Date Range in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/selecting-a-date-range-in-css/",
           "publishedOn": "2026-04-09T13:52:56.000Z",
-          "wordCount": 3901,
+          "wordCount": 3915,
           "title": "Selecting a Date Range in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_7B1698CD93D2E480B2867F02F52F6807BC326B3FB6B9C5A5A10103D5813DD8E0_1774013392464_Screenshot2026-03-20at7.29.24AM.png"
         },
@@ -152,7 +162,7 @@
           "description": "The saturate() function increases or decreases the saturation of an element.\nsaturate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/s/saturate/",
           "publishedOn": "2026-04-08T18:41:44.000Z",
-          "wordCount": 4263,
+          "wordCount": 4270,
           "title": "saturate()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -162,19 +172,9 @@
           "description": "The justify-self property aligns an individual element, overriding its parent current align-items value.\njustify-self originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/properties/j/justify-self/",
           "publishedOn": "2026-04-08T18:41:38.000Z",
-          "wordCount": 5388,
+          "wordCount": 5395,
           "title": "justify-self",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392696",
-          "author": "Saleh Mubashar",
-          "description": "Cascade layers, specificity tricks, smarter ordering, and even some clever selector hacks can often replace !important with something cleaner, more predictable, and far less embarrassing to explain to your future self.\nAlternatives to the !important Keyword originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/alternatives-to-the-important-keyword/",
-          "publishedOn": "2026-04-07T13:54:43.000Z",
-          "wordCount": 4659,
-          "title": "Alternatives to the !important Keyword",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/important-style.webp"
         }
       ]
     },
@@ -184,12 +184,42 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
+          "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
+          "publishedOn": "2026-04-30T11:00:00.000Z",
+          "wordCount": 4621,
+          "title": "A Fresh View In May (2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/04/designing-stable-interfaces-streaming-content/",
+          "author": "hello@smashingmagazine.com (Joas Pambou)",
+          "description": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
+          "link": "https://smashingmagazine.com/2026/04/designing-stable-interfaces-streaming-content/",
+          "publishedOn": "2026-04-30T08:00:00.000Z",
+          "wordCount": 6537,
+          "title": "Designing Stable Interfaces For Streaming Content",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
           "author": "hello@smashingmagazine.com (Casey Hudetz and Eric Olive)",
           "description": "AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.",
           "link": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
           "publishedOn": "2026-04-27T10:00:00.000Z",
-          "wordCount": 4612,
+          "wordCount": 4599,
           "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
@@ -204,7 +234,7 @@
           "description": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
           "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
           "publishedOn": "2026-04-22T10:00:00.000Z",
-          "wordCount": 4136,
+          "wordCount": 4148,
           "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
@@ -219,7 +249,7 @@
           "description": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.",
           "link": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
           "publishedOn": "2026-04-20T13:00:00.000Z",
-          "wordCount": 4699,
+          "wordCount": 4708,
           "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg",
@@ -249,7 +279,7 @@
           "description": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.",
           "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
           "publishedOn": "2026-04-07T10:00:00.000Z",
-          "wordCount": 6597,
+          "wordCount": 6601,
           "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
@@ -257,21 +287,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/04/practical-guide-design-principles/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Design principles with references, examples, and methods for quick look-up. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
-          "link": "https://smashingmagazine.com/2026/04/practical-guide-design-principles/",
-          "publishedOn": "2026-04-01T10:00:00.000Z",
-          "wordCount": 3555,
-          "title": "A Practical Guide To Design Principles",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/stop-endless-debates-design-principles/practical-guide-design-principles.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/stop-endless-debates-design-principles/practical-guide-design-principles.jpg"
         }
       ]
     },
@@ -281,6 +296,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "69f36894909e64ad07e3fc7f",
+          "author": "Sandeep Bharadwaj Mannapur",
+          "description": "Building a single AI agent that answers questions or runs searches is a solved problem. A handful of tutorials and a few hours of work will get you there. What most tutorials skip is the engineering l",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-multi-agent-ai-system-with-langgraph-mcp-and-a2a-full-book/",
+          "publishedOn": "2026-04-30T14:35:00.000Z",
+          "wordCount": 25181,
+          "title": "How to Build a Multi-Agent AI System with LangGraph, MCP, and A2A [Full Book]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/41b8ee2f-3097-497e-b008-0259f6c10772.png"
+        },
+        {
+          "id": "69f3683c909e64ad07e3b0fc",
+          "author": "Tolani Akintayo",
+          "description": "You've completed three AWS courses. You have notes from a dozen Docker tutorials. You know what Kubernetes is, what CI/CD means, and you can explain Infrastructure as Code without hesitating. And yet",
+          "link": "https://www.freecodecamp.org/news/how-to-land-your-first-cloud-or-devops-role-what-hiring-managers-actually-look-for/",
+          "publishedOn": "2026-04-30T14:33:32.000Z",
+          "wordCount": 5302,
+          "title": "How to Land Your First Cloud or DevOps Role: What Hiring Managers Actually Look For",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/374e807b-a67f-4f04-a639-dfa230b0ba5f.png"
+        },
+        {
+          "id": "69f2e347b18c978233780179",
+          "author": "Rakshath Naik",
+          "description": "In today's digital world, spam is no longer just an annoyance - it's a growing security threat. To combat this, developers often turn to machine learning to build intelligent filters that can distingu",
+          "link": "https://www.freecodecamp.org/news/deploying-serverless-spam-classifier/",
+          "publishedOn": "2026-04-30T05:06:15.000Z",
+          "wordCount": 3275,
+          "title": "How to Deploy a Serverless Spam Classifier Using Scikit-Learn, AWS Lambda, & API Gateway",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/08672d22-a4df-4b99-8ef7-fffd18f5dc07.png"
+        },
+        {
           "id": "69f248846e0124c05e445b7a",
           "author": "Njong Emy",
           "description": "Imagine that you want to share your source code with someone who doesn’t have Go installed on their computer. Unfortunately, this person won’t be able to run your application. Even if they do have Go",
@@ -289,6 +334,26 @@
           "wordCount": 4788,
           "title": "How to Dockerize a Go Application – Full Step-by-Step Walkthrough",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e49dda12-fd5e-4474-aa18-b72624640bf3.png"
+        },
+        {
+          "id": "69f244bf6e0124c05e41940e",
+          "author": "Beau Carnes",
+          "description": "Ready to dive into IT but don’t know where to start? freeCodeCamp just dropped the Ultimate IT Fundamentals Bootcamp For Absolute Beginners course. This is a a brand new, full-length course created by",
+          "link": "https://www.freecodecamp.org/news/learn-hardware-cloud-devops-networking-security-databases-dns-git-and-linux/",
+          "publishedOn": "2026-04-29T17:49:51.000Z",
+          "wordCount": 972,
+          "title": "Learn Hardware, Cloud, DevOps, Networking, Security, Databases, DNS, Git, and Linux",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/831525ec-8ec5-4428-afd2-e91641684c6c.png"
+        },
+        {
+          "id": "69f2429a6e0124c05e3fcd80",
+          "author": "Beau Carnes",
+          "description": "Are you ready to be inspired by the next generation of tech innovators? freeCodeCamp.org just dropped a new documentary on our YouTube channel that dives deep into Stanford’s TreeHacks 2026, one of th",
+          "link": "https://www.freecodecamp.org/news/inside-stanford-elite-student-hackathon-full-documentary/",
+          "publishedOn": "2026-04-29T17:40:42.000Z",
+          "wordCount": 995,
+          "title": "Inside Stanford’s Elite Student Hackathon [Full Documentary]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/58a0cf1c-4e7a-4424-ac33-2e71235c8111.jpg"
         },
         {
           "id": "69f239976e0124c05e38d9fb",
@@ -329,56 +394,6 @@
           "wordCount": 3889,
           "title": "How I Completed 15 freeCodeCamp Certifications in 4 Months: \nA Structured Learning Journey",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/95e36f70-6cd4-4349-9fdc-13ce2b73a3b5.png"
-        },
-        {
-          "id": "69f212526e0124c05e1857b5",
-          "author": "Caleb Mintoumba",
-          "description": "Most developers live in their terminal. You run commands, debug pipelines, manage infrastructure, and navigate codebases, all from a shell prompt. But despite how central the terminal is to developer",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-agentic-terminal-workflow-with-github-copilot-cli-and-mcp-servers/",
-          "publishedOn": "2026-04-29T14:14:42.000Z",
-          "wordCount": 3049,
-          "title": "How to Build an Agentic Terminal Workflow with GitHub Copilot CLI and MCP Servers",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3e4e3d7e-6cbf-4742-a63b-f9a2579f2318.png"
-        },
-        {
-          "id": "69f0bce210a70b3335bf635a",
-          "author": "Aaron Yong",
-          "description": "If you've ever wanted to add an interface to a codebase and gotten pushback, you already know the argument: \"That's twice the code for the same thing.\" And honestly? It was a fair point. You'd write t",
-          "link": "https://www.freecodecamp.org/news/how-ai-changed-the-economics-of-writing-clean-code/",
-          "publishedOn": "2026-04-28T13:57:54.000Z",
-          "wordCount": 3039,
-          "title": "How AI Changed the Economics of Writing Clean Code",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ecb13bda-70dd-437a-8d9a-4ef8b18ccc05.png"
-        },
-        {
-          "id": "69f0bbbf10a70b3335be7131",
-          "author": "Gopinath Karunanithi",
-          "description": "Secure software requires both design-time and code-time protection. STRIDE threat modeling helps identify risks early in system design, while SonarQube enforces secure coding practices through static",
-          "link": "https://www.freecodecamp.org/news/apply-stride-threat-modeling-and-sonarqube-analysis-for-secure-software-development/",
-          "publishedOn": "2026-04-28T13:53:03.000Z",
-          "wordCount": 5949,
-          "title": "How to Apply STRIDE Threat Modeling and SonarQube Analysis for Secure Software Development",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/df679a5a-64b3-44df-a898-9ce66a474172.png"
-        },
-        {
-          "id": "69ef7bbf330a1ad7f7f2d579",
-          "author": "Tolani Akintayo",
-          "description": "If you've been storing AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY as GitHub Secrets to deploy to AWS, you're not alone. It's the most common approach and it's also one of the biggest security risks i",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-openid-connect-oidc-in-github-actions-for-aws/",
-          "publishedOn": "2026-04-27T15:07:43.000Z",
-          "wordCount": 3691,
-          "title": "How to Set Up OpenID Connect (OIDC) in GitHub Actions for AWS",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/83b71e24-b63b-42a4-ac1c-d59e226da6c3.png"
-        },
-        {
-          "id": "69ef7279330a1ad7f7ec9a85",
-          "author": "Bhavin Sheth",
-          "description": "Working with PDFs is part of everyday development. Sometimes you don’t need the entire document. You just need a few pages — maybe a specific section, a report summary, or selected invoice pages. Most",
-          "link": "https://www.freecodecamp.org/news/split-pdf-files-using-javascript/",
-          "publishedOn": "2026-04-27T14:28:09.000Z",
-          "wordCount": 2163,
-          "title": "How to Split PDF Files in the Browser Using JavaScript (Step-by-Step)",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ff8ed4f5-a0f1-44cd-8703-a6dcd95e6b0f.png"
         }
       ]
     }
