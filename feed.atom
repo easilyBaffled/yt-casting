@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-01T01:06:27.312Z</id>
+    <id>urn:2026-05-02T00:59:05.225Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-01T01:06:27.312Z</updated>
+    <updated>2026-05-02T00:59:05.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More]]></title>
+        <id>https://css-tricks.com/?p=394456</id>
+        <link href="https://css-tricks.com/whats-important-10/"/>
+        <updated>2026-05-01T13:43:26.000Z</updated>
+        <summary type="html"><![CDATA[Developers have been experimenting with HTML-in-Canvas, a hexagonal world map-analytics feature, a web-based OS for e-ink devices, replacing image sources using the content property, and more. This is What’s !important #10.
+What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stanford's youngest instructor talks InfoSec, AI, and catching cheaters - Rachel Fernandez interview [Podcast #217]]]></title>
+        <id>69f487c41637663d8b07deab</id>
+        <link href="https://www.freecodecamp.org/news/stanford-s-youngest-instructor-talks-infosec-ai-and-catching-cheaters-rachel-fernandez-interview-podcast-217/"/>
+        <updated>2026-05-01T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Rachel An Fernandez. She's a computer science student at Stanford and the youngest instructor at the entire university. She recently helped organize TreeHacks, Stanford']]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Stable Interfaces For Streaming Content]]></title>
+        <id>https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/</id>
+        <link href="https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/"/>
+        <updated>2026-05-01T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joas Pambou)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation with Propensity Scores: Causal Inference for LLM-Based Features in Python]]></title>
+        <id>69f3df46909e64ad07425413</id>
+        <link href="https://www.freecodecamp.org/news/product-experimentation-with-propensity-scores-causal-inference-for-llm-based-features-in-python/"/>
+        <updated>2026-04-30T23:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Every product experimentation team running causal inference on LLM-based features eventually hits the same wall: when users click "Try our AI assistant," the volunteers aren't a random sample. Your pr]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Importance of Native Randomness in CSS]]></title>
         <id>https://css-tricks.com/?p=393373</id>
@@ -44,16 +85,6 @@ The Importance of Native Randomness in CSS originally handwritten and published 
         <summary type="html"><![CDATA[Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Stable Interfaces For Streaming Content]]></title>
-        <id>https://smashingmagazine.com/2026/04/designing-stable-interfaces-streaming-content/</id>
-        <link href="https://smashingmagazine.com/2026/04/designing-stable-interfaces-streaming-content/"/>
-        <updated>2026-04-30T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joas Pambou)</name>
         </author>
     </entry>
     <entry>
@@ -136,27 +167,6 @@ contrast-color() originally handwritten and published with love on CSS-Tricks. Y
         <summary type="html"><![CDATA[I typically build my projects using Next.js 14 (App Router) and Supabase for authentication along with Postgres. The default deployment choice for a Next.js app is usually Vercel, and for good reason:]]></summary>
         <author>
             <name>Md Tarikul Islam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Multi-Tenant SaaS Platform with Next.js, Express, and Prisma]]></title>
-        <id>69f213e46e0124c05e19e1af</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-multi-tenant-saas-platform-with-next-js-express-and-prisma/"/>
-        <updated>2026-04-29T14:21:24.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how platforms like Webflow, Notion, or Hashnode serve thousands of users from a single codebase — each with their own unique URL? The answer is multi-tenancy: an architecture wh]]></summary>
-        <author>
-            <name>Michael Okolo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Completed 15 freeCodeCamp Certifications in 4 Months: 
-A Structured Learning Journey]]></title>
-        <id>69f212ea6e0124c05e18f7b0</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-15-certifications-in-4-months-high-school/"/>
-        <updated>2026-04-29T14:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Can you achieve a massive milestone while you're still in high school other than just getting high grades? You may be thinking: school alone is plenty of work! And it often is. But if you set your min]]></summary>
-        <author>
-            <name>Mohammed Fahd Abrah</name>
         </author>
     </entry>
     <entry>
@@ -318,17 +328,6 @@ Selecting a Date Range in CSS originally handwritten and published with love on 
 saturate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[justify-self]]></title>
-        <id>https://css-tricks.com/?page_id=393035</id>
-        <link href="https://css-tricks.com/almanac/properties/j/justify-self/"/>
-        <updated>2026-04-08T18:41:38.000Z</updated>
-        <summary type="html"><![CDATA[The justify-self property aligns an individual element, overriding its parent current align-items value.
-justify-self originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
     <entry>
