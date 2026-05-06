@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-05T00:57:28.399Z</id>
+    <id>urn:2026-05-06T00:57:32.652Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-05T00:57:28.399Z</updated>
+    <updated>2026-05-06T00:57:32.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Scoped Note-Taking API with Django Rest Framework and SimpleJWT]]></title>
+        <id>69fa4395a386d7f121cd3bfc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-scoped-note-taking-api-with-django-rest-framework-and-simplejwt/"/>
+        <updated>2026-05-05T19:23:01.000Z</updated>
+        <summary type="html"><![CDATA[If you've built a Django API and you're wondering how to add authentication so that each user can only access their own data, you're in the right place. Most Django tutorials teach you session-based a]]></summary>
+        <author>
+            <name>Prabodh Tuladhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Complete SOC 2 Type II Implementation Handbook for Engineers: A Month-by-Month Roadmap with Real Commands]]></title>
+        <id>69fa364da386d7f121c468af</id>
+        <link href="https://www.freecodecamp.org/news/the-complete-soc-2-type-ii-implementation-guide-for-engineers/"/>
+        <updated>2026-05-05T18:26:21.000Z</updated>
+        <summary type="html"><![CDATA[If your team is preparing for a SOC 2 Type II review, this handbook is for you. It's a self-contained guide to the exact 90-day timeline, 14 critical controls, and evidence collection infrastructure t]]></summary>
+        <author>
+            <name>Ayobami Adejumo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering the JavaScript Event Loop]]></title>
+        <id>69fa2435a386d7f121b7c4af</id>
+        <link href="https://www.freecodecamp.org/news/mastering-the-javascript-event-loop/"/>
+        <updated>2026-05-05T17:09:09.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is famously single-threaded, yet it powers highly complex, interactive web applications without freezing up. How is this possible? The answer lies in the Event Loop. The Event Loop is a cor]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Science Insights: Why the Mean Lies When Handling Messy Retail Data]]></title>
+        <id>69fa21e5a386d7f121b5fe8c</id>
+        <link href="https://www.freecodecamp.org/news/data-science-insights-why-the-mean-lies-when-handling-messy-retail-data/"/>
+        <updated>2026-05-05T16:59:17.000Z</updated>
+        <summary type="html"><![CDATA[In our daily life, we use the word "average" all the time: average salary, average marks, average age, and so on. Let's take the case of a retail shop. If we're looking at the average order value to u]]></summary>
+        <author>
+            <name>Rakshath Naik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build High-Ranking SEO Landing Page]]></title>
+        <id>69fa212aa386d7f121b568d8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-high-ranking-seo-landing-page/"/>
+        <updated>2026-05-05T16:56:10.000Z</updated>
+        <summary type="html"><![CDATA[New products are dropping daily, and smart sellers are quietly stacking profits. If you understand how SEO landing pages actually work today, you’re not guessing. Instead, you're building assets that]]></summary>
+        <author>
+            <name>Casmir Onyekani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Query Data in DynamoDB Using .Net]]></title>
+        <id>69fa1ffca386d7f121b4955b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-query-data-in-dynamodb-using-net/"/>
+        <updated>2026-05-05T16:51:08.000Z</updated>
+        <summary type="html"><![CDATA[If you're coming to DynamoDB from a relational background, the first thing to understand is this: it's a completely different way of thinking. DynamoDB isn't a relational database, it's a NoSQL key-va]]></summary>
+        <author>
+            <name>Grant Riordan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking The Experience Of System Tools]]></title>
+        <id>https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/</id>
+        <link href="https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/"/>
+        <updated>2026-05-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Design always starts with function — function shapes form. But if that function can’t be made completely invisible and people still have to interact with it, it inevitably becomes part of their experience. In this article, Kyrylo Levashov shares four common software design assumptions.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kyrylo Levashov)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Unblock Your AI PR Review Bottleneck: A Tech Lead’s Guide to Building a Codebase-Aware Reviewer]]></title>
         <id>69f906a346610fd60629a300</id>
@@ -78,16 +148,6 @@ What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Product Experimentation with Propensity Scores: Causal Inference for LLM-Based Features in Python]]></title>
-        <id>69f3df46909e64ad07425413</id>
-        <link href="https://www.freecodecamp.org/news/product-experimentation-with-propensity-scores-causal-inference-for-llm-based-features-in-python/"/>
-        <updated>2026-04-30T23:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Every product experimentation team running causal inference on LLM-based features eventually hits the same wall: when users click "Try our AI assistant," the volunteers aren't a random sample. Your pr]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Importance of Native Randomness in CSS]]></title>
         <id>https://css-tricks.com/?p=393373</id>
         <link href="https://css-tricks.com/the-importance-of-native-randomness-in-css/"/>
@@ -99,26 +159,6 @@ The Importance of Native Randomness in CSS originally handwritten and published 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Multi-Agent AI System with LangGraph, MCP, and A2A [Full Book]]]></title>
-        <id>69f36894909e64ad07e3fc7f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-multi-agent-ai-system-with-langgraph-mcp-and-a2a-full-book/"/>
-        <updated>2026-04-30T14:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Building a single AI agent that answers questions or runs searches is a solved problem. A handful of tutorials and a few hours of work will get you there. What most tutorials skip is the engineering l]]></summary>
-        <author>
-            <name>Sandeep Bharadwaj Mannapur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Land Your First Cloud or DevOps Role: What Hiring Managers Actually Look For]]></title>
-        <id>69f3683c909e64ad07e3b0fc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-land-your-first-cloud-or-devops-role-what-hiring-managers-actually-look-for/"/>
-        <updated>2026-04-30T14:33:32.000Z</updated>
-        <summary type="html"><![CDATA[You've completed three AWS courses. You have notes from a dozen Docker tutorials. You know what Kubernetes is, what CI/CD means, and you can explain Infrastructure as Code without hesitating. And yet]]></summary>
-        <author>
-            <name>Tolani Akintayo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Fresh View In May (2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/</id>
         <link href="https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/"/>
@@ -126,36 +166,6 @@ The Importance of Native Randomness in CSS originally handwritten and published 
         <summary type="html"><![CDATA[Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy a Serverless Spam Classifier Using Scikit-Learn, AWS Lambda, & API Gateway]]></title>
-        <id>69f2e347b18c978233780179</id>
-        <link href="https://www.freecodecamp.org/news/deploying-serverless-spam-classifier/"/>
-        <updated>2026-04-30T05:06:15.000Z</updated>
-        <summary type="html"><![CDATA[In today's digital world, spam is no longer just an annoyance - it's a growing security threat. To combat this, developers often turn to machine learning to build intelligent filters that can distingu]]></summary>
-        <author>
-            <name>Rakshath Naik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Dockerize a Go Application – Full Step-by-Step Walkthrough]]></title>
-        <id>69f248846e0124c05e445b7a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-dockerize-a-go-application-full-step-by-step-walkthrough/"/>
-        <updated>2026-04-29T18:05:56.000Z</updated>
-        <summary type="html"><![CDATA[Imagine that you want to share your source code with someone who doesn’t have Go installed on their computer. Unfortunately, this person won’t be able to run your application. Even if they do have Go]]></summary>
-        <author>
-            <name>Njong Emy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Hardware, Cloud, DevOps, Networking, Security, Databases, DNS, Git, and Linux]]></title>
-        <id>69f244bf6e0124c05e41940e</id>
-        <link href="https://www.freecodecamp.org/news/learn-hardware-cloud-devops-networking-security-databases-dns-git-and-linux/"/>
-        <updated>2026-04-29T17:49:51.000Z</updated>
-        <summary type="html"><![CDATA[Ready to dive into IT but don’t know where to start? freeCodeCamp just dropped the Ultimate IT Fundamentals Bootcamp For Absolute Beginners course. This is a a brand new, full-length course created by]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>

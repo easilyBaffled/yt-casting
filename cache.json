@@ -17,7 +17,7 @@
           "description": "Getting a multi-column of cards to line up equally is is a headache we've all faced, and it gets even harder when working with fixed heights.\nFixed-Height Cards: More Fragile Than They Look originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/fixed-height-cards-more-fragile-than-they-look/",
           "publishedOn": "2026-05-04T14:01:36.000Z",
-          "wordCount": 5188,
+          "wordCount": 5205,
           "title": "Fixed-Height Cards: More Fragile Than They Look",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/borken-card-layout.jpg"
         },
@@ -184,12 +184,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/",
+          "author": "hello@smashingmagazine.com (Kyrylo Levashov)",
+          "description": "Design always starts with function — function shapes form. But if that function can’t be made completely invisible and people still have to interact with it, it inevitably becomes part of their experience. In this article, Kyrylo Levashov shares four common software design assumptions.",
+          "link": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/",
+          "publishedOn": "2026-05-05T08:00:00.000Z",
+          "wordCount": 3952,
+          "title": "Rethinking The Experience Of System Tools",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
           "author": "hello@smashingmagazine.com (Joas Pambou)",
           "description": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
           "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
           "publishedOn": "2026-05-01T08:00:00.000Z",
-          "wordCount": 6553,
+          "wordCount": 6548,
           "title": "Designing Stable Interfaces For Streaming Content",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
@@ -204,7 +219,7 @@
           "description": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
           "publishedOn": "2026-04-30T11:00:00.000Z",
-          "wordCount": 4595,
+          "wordCount": 4620,
           "title": "A Fresh View In May (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -219,7 +234,7 @@
           "description": "AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.",
           "link": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
           "publishedOn": "2026-04-27T10:00:00.000Z",
-          "wordCount": 4602,
+          "wordCount": 4605,
           "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
@@ -234,7 +249,7 @@
           "description": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
           "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
           "publishedOn": "2026-04-22T10:00:00.000Z",
-          "wordCount": 4155,
+          "wordCount": 4152,
           "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
@@ -249,7 +264,7 @@
           "description": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.",
           "link": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
           "publishedOn": "2026-04-20T13:00:00.000Z",
-          "wordCount": 4700,
+          "wordCount": 4704,
           "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg",
@@ -279,7 +294,7 @@
           "description": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.",
           "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
           "publishedOn": "2026-04-07T10:00:00.000Z",
-          "wordCount": 6608,
+          "wordCount": 6600,
           "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
@@ -295,6 +310,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69fa4395a386d7f121cd3bfc",
+          "author": "Prabodh Tuladhar",
+          "description": "If you've built a Django API and you're wondering how to add authentication so that each user can only access their own data, you're in the right place. Most Django tutorials teach you session-based a",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-scoped-note-taking-api-with-django-rest-framework-and-simplejwt/",
+          "publishedOn": "2026-05-05T19:23:01.000Z",
+          "wordCount": 7623,
+          "title": "How to Build a Scoped Note-Taking API with Django Rest Framework and SimpleJWT",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/36921ffa-4741-4e11-8f16-2c84322ebceb.png"
+        },
+        {
+          "id": "69fa364da386d7f121c468af",
+          "author": "Ayobami Adejumo",
+          "description": "If your team is preparing for a SOC 2 Type II review, this handbook is for you. It's a self-contained guide to the exact 90-day timeline, 14 critical controls, and evidence collection infrastructure t",
+          "link": "https://www.freecodecamp.org/news/the-complete-soc-2-type-ii-implementation-guide-for-engineers/",
+          "publishedOn": "2026-05-05T18:26:21.000Z",
+          "wordCount": 8362,
+          "title": "The Complete SOC 2 Type II Implementation Handbook for Engineers: A Month-by-Month Roadmap with Real Commands",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/83d83215-5d73-49f6-a745-d9c6cd0c33f8.png"
+        },
+        {
+          "id": "69fa2435a386d7f121b7c4af",
+          "author": "Beau Carnes",
+          "description": "JavaScript is famously single-threaded, yet it powers highly complex, interactive web applications without freezing up. How is this possible? The answer lies in the Event Loop. The Event Loop is a cor",
+          "link": "https://www.freecodecamp.org/news/mastering-the-javascript-event-loop/",
+          "publishedOn": "2026-05-05T17:09:09.000Z",
+          "wordCount": 1016,
+          "title": "Mastering the JavaScript Event Loop",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/0f6a748e-4b2e-4fd8-9592-d6ab4eb83dd3.jpg"
+        },
+        {
+          "id": "69fa21e5a386d7f121b5fe8c",
+          "author": "Rakshath Naik",
+          "description": "In our daily life, we use the word \"average\" all the time: average salary, average marks, average age, and so on. Let's take the case of a retail shop. If we're looking at the average order value to u",
+          "link": "https://www.freecodecamp.org/news/data-science-insights-why-the-mean-lies-when-handling-messy-retail-data/",
+          "publishedOn": "2026-05-05T16:59:17.000Z",
+          "wordCount": 2624,
+          "title": "Data Science Insights: Why the Mean Lies When Handling Messy Retail Data",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4441dcfc-d100-4613-9937-9c62449c6780.png"
+        },
+        {
+          "id": "69fa212aa386d7f121b568d8",
+          "author": "Casmir Onyekani",
+          "description": "New products are dropping daily, and smart sellers are quietly stacking profits. If you understand how SEO landing pages actually work today, you’re not guessing. Instead, you're building assets that",
+          "link": "https://www.freecodecamp.org/news/how-to-build-high-ranking-seo-landing-page/",
+          "publishedOn": "2026-05-05T16:56:10.000Z",
+          "wordCount": 3475,
+          "title": "How to Build High-Ranking SEO Landing Page",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/11f1d667-12a7-4097-8583-eb1a8f87bf02.png"
+        },
+        {
+          "id": "69fa1ffca386d7f121b4955b",
+          "author": "Grant Riordan",
+          "description": "If you're coming to DynamoDB from a relational background, the first thing to understand is this: it's a completely different way of thinking. DynamoDB isn't a relational database, it's a NoSQL key-va",
+          "link": "https://www.freecodecamp.org/news/how-to-query-data-in-dynamodb-using-net/",
+          "publishedOn": "2026-05-05T16:51:08.000Z",
+          "wordCount": 5387,
+          "title": "How to Query Data in DynamoDB Using .Net",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/66b52b176a1b17f6b28d9822/93c4db14-f870-47d6-99c9-e0816d8b628b.jpg"
+        },
         {
           "id": "69f906a346610fd60629a300",
           "author": "Qudrat Ullah",
@@ -334,66 +409,6 @@
           "wordCount": 1271,
           "title": "Stanford's youngest instructor talks InfoSec, AI, and catching cheaters - Rachel Fernandez interview [Podcast #217]",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/ec336e48-f060-4031-b4c3-dc25ec839c38.jpg"
-        },
-        {
-          "id": "69f3df46909e64ad07425413",
-          "author": "Rudrendu Paul",
-          "description": "Every product experimentation team running causal inference on LLM-based features eventually hits the same wall: when users click \"Try our AI assistant,\" the volunteers aren't a random sample. Your pr",
-          "link": "https://www.freecodecamp.org/news/product-experimentation-with-propensity-scores-causal-inference-for-llm-based-features-in-python/",
-          "publishedOn": "2026-04-30T23:01:26.000Z",
-          "wordCount": 4673,
-          "title": "Product Experimentation with Propensity Scores: Causal Inference for LLM-Based Features in Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6a8936be-7f43-4977-9baf-6021dc892b2d.png"
-        },
-        {
-          "id": "69f36894909e64ad07e3fc7f",
-          "author": "Sandeep Bharadwaj Mannapur",
-          "description": "Building a single AI agent that answers questions or runs searches is a solved problem. A handful of tutorials and a few hours of work will get you there. What most tutorials skip is the engineering l",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-multi-agent-ai-system-with-langgraph-mcp-and-a2a-full-book/",
-          "publishedOn": "2026-04-30T14:35:00.000Z",
-          "wordCount": 25181,
-          "title": "How to Build a Multi-Agent AI System with LangGraph, MCP, and A2A [Full Book]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/41b8ee2f-3097-497e-b008-0259f6c10772.png"
-        },
-        {
-          "id": "69f3683c909e64ad07e3b0fc",
-          "author": "Tolani Akintayo",
-          "description": "You've completed three AWS courses. You have notes from a dozen Docker tutorials. You know what Kubernetes is, what CI/CD means, and you can explain Infrastructure as Code without hesitating. And yet",
-          "link": "https://www.freecodecamp.org/news/how-to-land-your-first-cloud-or-devops-role-what-hiring-managers-actually-look-for/",
-          "publishedOn": "2026-04-30T14:33:32.000Z",
-          "wordCount": 5302,
-          "title": "How to Land Your First Cloud or DevOps Role: What Hiring Managers Actually Look For",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/374e807b-a67f-4f04-a639-dfa230b0ba5f.png"
-        },
-        {
-          "id": "69f2e347b18c978233780179",
-          "author": "Rakshath Naik",
-          "description": "In today's digital world, spam is no longer just an annoyance - it's a growing security threat. To combat this, developers often turn to machine learning to build intelligent filters that can distingu",
-          "link": "https://www.freecodecamp.org/news/deploying-serverless-spam-classifier/",
-          "publishedOn": "2026-04-30T05:06:15.000Z",
-          "wordCount": 3275,
-          "title": "How to Deploy a Serverless Spam Classifier Using Scikit-Learn, AWS Lambda, & API Gateway",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/08672d22-a4df-4b99-8ef7-fffd18f5dc07.png"
-        },
-        {
-          "id": "69f248846e0124c05e445b7a",
-          "author": "Njong Emy",
-          "description": "Imagine that you want to share your source code with someone who doesn’t have Go installed on their computer. Unfortunately, this person won’t be able to run your application. Even if they do have Go",
-          "link": "https://www.freecodecamp.org/news/how-to-dockerize-a-go-application-full-step-by-step-walkthrough/",
-          "publishedOn": "2026-04-29T18:05:56.000Z",
-          "wordCount": 4788,
-          "title": "How to Dockerize a Go Application – Full Step-by-Step Walkthrough",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e49dda12-fd5e-4474-aa18-b72624640bf3.png"
-        },
-        {
-          "id": "69f244bf6e0124c05e41940e",
-          "author": "Beau Carnes",
-          "description": "Ready to dive into IT but don’t know where to start? freeCodeCamp just dropped the Ultimate IT Fundamentals Bootcamp For Absolute Beginners course. This is a a brand new, full-length course created by",
-          "link": "https://www.freecodecamp.org/news/learn-hardware-cloud-devops-networking-security-databases-dns-git-and-linux/",
-          "publishedOn": "2026-04-29T17:49:51.000Z",
-          "wordCount": 972,
-          "title": "Learn Hardware, Cloud, DevOps, Networking, Security, Databases, DNS, Git, and Linux",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/831525ec-8ec5-4428-afd2-e91641684c6c.png"
         }
       ]
     }
