@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-06T00:57:32.652Z</id>
+    <id>urn:2026-05-07T01:01:34.359Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-06T00:57:32.652Z</updated>
+    <updated>2026-05-07T01:01:34.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google’s Prompt API]]></title>
+        <id>https://css-tricks.com/?p=394653</id>
+        <link href="https://css-tricks.com/googles-prompt-api/"/>
+        <updated>2026-05-06T19:41:29.000Z</updated>
+        <summary type="html"><![CDATA[Mat Marquis on Google pulling the web standards equivalent of U2 album marketing:
+As a Chrome user, you’ll have received Gemini Nano in the form of a 4GB transfer recently; no permission asked or required. If you remove it, 
+…
+Google’s Prompt API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ITCM vs DTCM vs DDR: Embedded Memory Types Explained [Full Handbook]]]></title>
+        <id>69fb8bbc50ecad4533638e41</id>
+        <link href="https://www.freecodecamp.org/news/itcm-vs-dtcm-vs-ddr-embedded-memory-types-explained-handbook/"/>
+        <updated>2026-05-06T18:43:08.000Z</updated>
+        <summary type="html"><![CDATA[Most embedded engineers hit this problem early on: the same code on the same processor runs fast in one scenario and surprisingly slow in another. The culprit is almost always where the code and data]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Paper Review: Improving Language Understanding by Generative Pre-Training (GPT-1)]]></title>
+        <id>69fb84ad50ecad45335e5367</id>
+        <link href="https://www.freecodecamp.org/news/ai-paper-review-improving-language-understanding-by-generative-pre-training-gpt-1/"/>
+        <updated>2026-05-06T18:13:01.000Z</updated>
+        <summary type="html"><![CDATA[We use AI tools all the time, whether it’s asking questions, generating images, or getting help with everyday tasks. But most of these tools didn’t appear out of nowhere. They were developed based on]]></summary>
+        <author>
+            <name>Mohammed Fahd Abrah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Market Research Copilot with MCP and Python [Full Handbook]]]></title>
+        <id>69fb845950ecad45335e0fe2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-market-research-copilot-with-mcp-and-python-handbook/"/>
+        <updated>2026-05-06T18:11:37.000Z</updated>
+        <summary type="html"><![CDATA[Most financial AI tools are good at one thing: summarizing a stock. You ask about Apple, NVIDIA, or Tesla, and they give you a clean overview of price action, a few ratios, and maybe some company cont]]></summary>
+        <author>
+            <name>Nikhil Adithyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Zigzag CSS Layouts With a Grid + Transform Trick]]></title>
+        <id>https://css-tricks.com/?p=393013</id>
+        <link href="https://css-tricks.com/zigzag-css-grid-layouts/"/>
+        <updated>2026-05-06T13:50:44.000Z</updated>
+        <summary type="html"><![CDATA[Most grid layouts sit in neat rows, perfectly aligned, like soldiers in formation. But sometimes you want something with more rhythm like, say, a zigzag pattern. Here's how to do it with CSS Grid.
+Making Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Durgesh Rajubhai Pawar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Architecture Of Local-First Web Development]]></title>
+        <id>https://smashingmagazine.com/2026/05/architecture-local-first-web-development/</id>
+        <link href="https://smashingmagazine.com/2026/05/architecture-local-first-web-development/"/>
+        <updated>2026-05-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Scoped Note-Taking API with Django Rest Framework and SimpleJWT]]></title>
         <id>69fa4395a386d7f121cd3bfc</id>
@@ -86,26 +150,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Navigate Microservices as a Frontend Engineer]]></title>
-        <id>69f8de9b46610fd6060f5251</id>
-        <link href="https://www.freecodecamp.org/news/how-to-navigate-microservices-as-a-frontend-engineer/"/>
-        <updated>2026-05-04T17:59:55.000Z</updated>
-        <summary type="html"><![CDATA[Most frontend engineers don't choose microservices. They inherit them. One day you're fetching data from a single API, and the next you're stitching together responses from five services, each with it]]></summary>
-        <author>
-            <name>Abisoye Alli-Balogun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Compress PDF Files in the Browser Using JavaScript (Step-by-Step)]]></title>
-        <id>69f8b15246610fd606f2d8da</id>
-        <link href="https://www.freecodecamp.org/news/how-to-compress-pdf-files-in-the-browser-using-javascript/"/>
-        <updated>2026-05-04T14:46:42.000Z</updated>
-        <summary type="html"><![CDATA[PDF files are everywhere. From invoices and reports to résumés and documents, they’re one of the most common file formats we deal with. But there’s a common problem: PDFs can get large quickly. If you]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fixed-Height Cards: More Fragile Than They Look]]></title>
         <id>https://css-tricks.com/?p=393102</id>
         <link href="https://css-tricks.com/fixed-height-cards-more-fragile-than-they-look/"/>
@@ -125,16 +169,6 @@ Fixed-Height Cards: More Fragile Than They Look originally handwritten and publi
 What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stanford's youngest instructor talks InfoSec, AI, and catching cheaters - Rachel Fernandez interview [Podcast #217]]]></title>
-        <id>69f487c41637663d8b07deab</id>
-        <link href="https://www.freecodecamp.org/news/stanford-s-youngest-instructor-talks-infosec-ai-and-catching-cheaters-rachel-fernandez-interview-podcast-217/"/>
-        <updated>2026-05-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Rachel An Fernandez. She's a computer science student at Stanford and the youngest instructor at the entire university. She recently helped organize TreeHacks, Stanford']]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -309,17 +343,6 @@ The Radio State Machine originally handwritten and published with love on CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7 View Transitions Recipes to Try]]></title>
-        <id>https://css-tricks.com/?p=392002</id>
-        <link href="https://css-tricks.com/7-view-transitions-recipes-to-try/"/>
-        <updated>2026-04-13T14:14:43.000Z</updated>
-        <summary type="html"><![CDATA[Craving for a view transition? Sunkanmi has lots of common transitions you can drop into your website right now!
-7 View Transitions Recipes to Try originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Improve UX In Legacy Systems]]></title>
         <id>https://smashingmagazine.com/2026/04/legacy-systems/</id>
         <link href="https://smashingmagazine.com/2026/04/legacy-systems/"/>
@@ -327,27 +350,6 @@ The Radio State Machine originally handwritten and published with love on CSS-Tr
         <summary type="html"><![CDATA[Practical guidelines for driving UX impact in organizations with legacy systems and broken processes. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selecting a Date Range in CSS]]></title>
-        <id>https://css-tricks.com/?p=393088</id>
-        <link href="https://css-tricks.com/selecting-a-date-range-in-css/"/>
-        <updated>2026-04-09T13:52:56.000Z</updated>
-        <summary type="html"><![CDATA[A clever approach for selecting multiple dates on a calendar where the :nth-child()'s “n of selector” syntax does all the heavy lifting... even in the JavaScript.
-Selecting a Date Range in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Identifying Necessary Transparency Moments In Agentic AI (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/</id>
-        <link href="https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/"/>
-        <updated>2026-04-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Yocco)</name>
         </author>
     </entry>
 </feed>
