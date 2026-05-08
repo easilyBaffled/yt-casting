@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-07T01:01:34.359Z</id>
+    <id>urn:2026-05-08T01:01:36.382Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-07T01:01:34.359Z</updated>
+    <updated>2026-05-08T01:01:36.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Scrollytelling Gift for Mum on Mother’s Day 2026]]></title>
+        <id>https://css-tricks.com/?p=394649</id>
+        <link href="https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/"/>
+        <updated>2026-05-07T14:22:38.000Z</updated>
+        <summary type="html"><![CDATA[I will explain how my mum inspired this 2026 Mother’s Day scrollytelling experiment — but also, how she inspired my approach to dev and life.
+A Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QuRT: The Real-Time OS Inside Your Phone's Processor [Full Handbook]]]></title>
+        <id>69fbcaed50ecad4533880efa</id>
+        <link href="https://www.freecodecamp.org/news/qurt-the-real-time-os-inside-your-phone-s-processor-full-handbook/"/>
+        <updated>2026-05-06T23:12:45.000Z</updated>
+        <summary type="html"><![CDATA[The Hexagon DSP in every Qualcomm-powered phone handles wake word detection, sensor processing, noise cancellation, and Bluetooth audio streaming – all while the main ARM CPU runs Android. The operati]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Real Infrastructure Behind Remote Work (It’s Not Just Wi-Fi)]]></title>
+        <id>69fbc46650ecad45338431f6</id>
+        <link href="https://www.freecodecamp.org/news/the-real-infrastructure-behind-remote-work-it-s-not-just-wi-fi/"/>
+        <updated>2026-05-06T22:44:54.000Z</updated>
+        <summary type="html"><![CDATA[Remote work looks simple from the outside: a laptop, a quiet corner, and a stable Wi-Fi connection. That's the image most people have in mind. It suggests freedom without friction, mobility without tr]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lithography Handbook: Machines, Markets, and the Next Wave of Semiconductor Startups]]></title>
+        <id>69fbbef450ecad453381203d</id>
+        <link href="https://www.freecodecamp.org/news/the-lithography-handbook-machines-markets-and-the-next-wave-of-semiconductor-startups/"/>
+        <updated>2026-05-06T22:21:40.000Z</updated>
+        <summary type="html"><![CDATA[The chip inside your smartphone is the product of one of the most precise manufacturing processes ever devised by humanity. To build it, engineers must draw patterns smaller than a virus onto silicon]]></summary>
+        <author>
+            <name>Vahe Aslanyan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google’s Prompt API]]></title>
         <id>https://css-tricks.com/?p=394653</id>
@@ -110,26 +151,6 @@ Making Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build High-Ranking SEO Landing Page]]></title>
-        <id>69fa212aa386d7f121b568d8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-high-ranking-seo-landing-page/"/>
-        <updated>2026-05-05T16:56:10.000Z</updated>
-        <summary type="html"><![CDATA[New products are dropping daily, and smart sellers are quietly stacking profits. If you understand how SEO landing pages actually work today, you’re not guessing. Instead, you're building assets that]]></summary>
-        <author>
-            <name>Casmir Onyekani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Query Data in DynamoDB Using .Net]]></title>
-        <id>69fa1ffca386d7f121b4955b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-query-data-in-dynamodb-using-net/"/>
-        <updated>2026-05-05T16:51:08.000Z</updated>
-        <summary type="html"><![CDATA[If you're coming to DynamoDB from a relational background, the first thing to understand is this: it's a completely different way of thinking. DynamoDB isn't a relational database, it's a NoSQL key-va]]></summary>
-        <author>
-            <name>Grant Riordan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rethinking The Experience Of System Tools]]></title>
         <id>https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/</id>
         <link href="https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/"/>
@@ -137,16 +158,6 @@ Making Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten a
         <summary type="html"><![CDATA[Design always starts with function — function shapes form. But if that function can’t be made completely invisible and people still have to interact with it, it inevitably becomes part of their experience. In this article, Kyrylo Levashov shares four common software design assumptions.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kyrylo Levashov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Unblock Your AI PR Review Bottleneck: A Tech Lead’s Guide to Building a Codebase-Aware Reviewer]]></title>
-        <id>69f906a346610fd60629a300</id>
-        <link href="https://www.freecodecamp.org/news/how-to-unblock-ai-pr-review-bottleneck-handbook/"/>
-        <updated>2026-05-04T20:50:43.000Z</updated>
-        <summary type="html"><![CDATA[A few months ago, I was reviewing a pull request that added three new API endpoints. The diff was clean. Tests passed. The agent that generated it had even written sensible authorisation checks. By ev]]></summary>
-        <author>
-            <name>Qudrat Ullah</name>
         </author>
     </entry>
     <entry>
@@ -329,17 +340,6 @@ A Well-Designed JavaScript Module System is Your First Architecture Decision ori
 hypot() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Radio State Machine]]></title>
-        <id>https://css-tricks.com/?p=393344</id>
-        <link href="https://css-tricks.com/the-radio-state-machine/"/>
-        <updated>2026-04-14T13:55:38.000Z</updated>
-        <summary type="html"><![CDATA[One of the best-known examples of CSS state management is the checkbox hack. What if we want a component to be in one of three, four, or seven modes? That is where the Radio State Machine comes in.
-The Radio State Machine originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
         </author>
     </entry>
     <entry>

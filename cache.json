@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=394649",
+          "author": "Lee Meyer",
+          "description": "I will explain how my mum inspired this 2026 Mother’s Day scrollytelling experiment — but also, how she inspired my approach to dev and life.\nA Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/",
+          "publishedOn": "2026-05-07T14:22:38.000Z",
+          "wordCount": 4080,
+          "title": "A Scrollytelling Gift for Mum on Mother’s Day 2026",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/lee-mothers-day.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=394653",
           "author": "Geoff Graham",
           "description": "Mat Marquis on Google pulling the web standards equivalent of U2 album marketing:\nAs a Chrome user, you’ll have received Gemini Nano in the form of a 4GB transfer recently; no permission asked or required. If you remove it, \n…\nGoogle’s Prompt API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/googles-prompt-api/",
           "publishedOn": "2026-05-06T19:41:29.000Z",
-          "wordCount": 3257,
+          "wordCount": 3301,
           "title": "Google’s Prompt API",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/chrome-gemini.webp"
         },
@@ -27,7 +37,7 @@
           "description": "Most grid layouts sit in neat rows, perfectly aligned, like soldiers in formation. But sometimes you want something with more rhythm like, say, a zigzag pattern. Here's how to do it with CSS Grid.\nMaking Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/zigzag-css-grid-layouts/",
           "publishedOn": "2026-05-06T13:50:44.000Z",
-          "wordCount": 4396,
+          "wordCount": 4654,
           "title": "Making Zigzag CSS Layouts With a Grid + Transform Trick",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/05/line-break.jpg"
         },
@@ -37,7 +47,7 @@
           "description": "Getting a multi-column of cards to line up equally is is a headache we've all faced, and it gets even harder when working with fixed heights.\nFixed-Height Cards: More Fragile Than They Look originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/fixed-height-cards-more-fragile-than-they-look/",
           "publishedOn": "2026-05-04T14:01:36.000Z",
-          "wordCount": 5177,
+          "wordCount": 5270,
           "title": "Fixed-Height Cards: More Fragile Than They Look",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/borken-card-layout.jpg"
         },
@@ -47,7 +57,7 @@
           "description": "Developers have been experimenting with HTML-in-Canvas, a hexagonal world map-analytics feature, a web-based OS for e-ink devices, replacing image sources using the content property, and more. This is What’s !important #10.\nWhat’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-10/",
           "publishedOn": "2026-05-01T13:43:26.000Z",
-          "wordCount": 3703,
+          "wordCount": 3801,
           "title": "What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/wh10.jpg"
         },
@@ -160,16 +170,6 @@
           "wordCount": 4843,
           "title": "hypot()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393344",
-          "author": "Amit Sheen",
-          "description": "One of the best-known examples of CSS state management is the checkbox hack. What if we want a component to be in one of three, four, or seven modes? That is where the Radio State Machine comes in.\nThe Radio State Machine originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/the-radio-state-machine/",
-          "publishedOn": "2026-04-14T13:55:38.000Z",
-          "wordCount": 6169,
-          "title": "The Radio State Machine",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/css-state-machine.webp"
         }
       ]
     },
@@ -184,7 +184,7 @@
           "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
           "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
           "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": 8743,
+          "wordCount": 8653,
           "title": "The Architecture Of Local-First Web Development",
           "enclosure": {
             "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
@@ -214,7 +214,7 @@
           "description": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
           "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
           "publishedOn": "2026-05-01T08:00:00.000Z",
-          "wordCount": 6543,
+          "wordCount": 6542,
           "title": "Designing Stable Interfaces For Streaming Content",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
@@ -229,7 +229,7 @@
           "description": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
           "publishedOn": "2026-04-30T11:00:00.000Z",
-          "wordCount": 4613,
+          "wordCount": 4605,
           "title": "A Fresh View In May (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -244,7 +244,7 @@
           "description": "AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.",
           "link": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
           "publishedOn": "2026-04-27T10:00:00.000Z",
-          "wordCount": 4603,
+          "wordCount": 4606,
           "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
@@ -259,7 +259,7 @@
           "description": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
           "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
           "publishedOn": "2026-04-22T10:00:00.000Z",
-          "wordCount": 4144,
+          "wordCount": 4148,
           "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
@@ -274,7 +274,7 @@
           "description": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.",
           "link": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
           "publishedOn": "2026-04-20T13:00:00.000Z",
-          "wordCount": 4706,
+          "wordCount": 4697,
           "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg",
@@ -305,6 +305,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69fbcaed50ecad4533880efa",
+          "author": "Nikheel Vishwas Savant",
+          "description": "The Hexagon DSP in every Qualcomm-powered phone handles wake word detection, sensor processing, noise cancellation, and Bluetooth audio streaming – all while the main ARM CPU runs Android. The operati",
+          "link": "https://www.freecodecamp.org/news/qurt-the-real-time-os-inside-your-phone-s-processor-full-handbook/",
+          "publishedOn": "2026-05-06T23:12:45.000Z",
+          "wordCount": 11399,
+          "title": "QuRT: The Real-Time OS Inside Your Phone's Processor [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e20376ee-713a-473e-946c-5c837eef0b12.png"
+        },
+        {
+          "id": "69fbc46650ecad45338431f6",
+          "author": "Manish Shivanandhan",
+          "description": "Remote work looks simple from the outside: a laptop, a quiet corner, and a stable Wi-Fi connection. That's the image most people have in mind. It suggests freedom without friction, mobility without tr",
+          "link": "https://www.freecodecamp.org/news/the-real-infrastructure-behind-remote-work-it-s-not-just-wi-fi/",
+          "publishedOn": "2026-05-06T22:44:54.000Z",
+          "wordCount": 2218,
+          "title": "The Real Infrastructure Behind Remote Work (It’s Not Just Wi-Fi)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7e9364c2-11f1-4868-b297-2fe21eedb335.png"
+        },
+        {
+          "id": "69fbbef450ecad453381203d",
+          "author": "Vahe Aslanyan",
+          "description": "The chip inside your smartphone is the product of one of the most precise manufacturing processes ever devised by humanity. To build it, engineers must draw patterns smaller than a virus onto silicon",
+          "link": "https://www.freecodecamp.org/news/the-lithography-handbook-machines-markets-and-the-next-wave-of-semiconductor-startups/",
+          "publishedOn": "2026-05-06T22:21:40.000Z",
+          "wordCount": 12550,
+          "title": "The Lithography Handbook: Machines, Markets, and the Next Wave of Semiconductor Startups",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c9b40450-8af2-4992-825c-7e2035bf759f.png"
+        },
         {
           "id": "69fb8bbc50ecad4533638e41",
           "author": "Nikheel Vishwas Savant",
@@ -374,36 +404,6 @@
           "wordCount": 2624,
           "title": "Data Science Insights: Why the Mean Lies When Handling Messy Retail Data",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4441dcfc-d100-4613-9937-9c62449c6780.png"
-        },
-        {
-          "id": "69fa212aa386d7f121b568d8",
-          "author": "Casmir Onyekani",
-          "description": "New products are dropping daily, and smart sellers are quietly stacking profits. If you understand how SEO landing pages actually work today, you’re not guessing. Instead, you're building assets that",
-          "link": "https://www.freecodecamp.org/news/how-to-build-high-ranking-seo-landing-page/",
-          "publishedOn": "2026-05-05T16:56:10.000Z",
-          "wordCount": 3475,
-          "title": "How to Build High-Ranking SEO Landing Page",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/11f1d667-12a7-4097-8583-eb1a8f87bf02.png"
-        },
-        {
-          "id": "69fa1ffca386d7f121b4955b",
-          "author": "Grant Riordan",
-          "description": "If you're coming to DynamoDB from a relational background, the first thing to understand is this: it's a completely different way of thinking. DynamoDB isn't a relational database, it's a NoSQL key-va",
-          "link": "https://www.freecodecamp.org/news/how-to-query-data-in-dynamodb-using-net/",
-          "publishedOn": "2026-05-05T16:51:08.000Z",
-          "wordCount": 5387,
-          "title": "How to Query Data in DynamoDB Using .Net",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/66b52b176a1b17f6b28d9822/93c4db14-f870-47d6-99c9-e0816d8b628b.jpg"
-        },
-        {
-          "id": "69f906a346610fd60629a300",
-          "author": "Qudrat Ullah",
-          "description": "A few months ago, I was reviewing a pull request that added three new API endpoints. The diff was clean. Tests passed. The agent that generated it had even written sensible authorisation checks. By ev",
-          "link": "https://www.freecodecamp.org/news/how-to-unblock-ai-pr-review-bottleneck-handbook/",
-          "publishedOn": "2026-05-04T20:50:43.000Z",
-          "wordCount": 8005,
-          "title": "How to Unblock Your AI PR Review Bottleneck: A Tech Lead’s Guide to Building a Codebase-Aware Reviewer",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c94dff21-66d0-4256-bf3e-25c1978364d9.png"
         }
       ]
     }
