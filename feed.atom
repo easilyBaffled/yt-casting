@@ -1,10 +1,121 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-08T01:01:36.382Z</id>
+    <id>urn:2026-05-09T01:01:00.885Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-08T01:01:36.382Z</updated>
+    <updated>2026-05-09T01:01:00.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Command Line Interface (CLI) Development with Dart: From Zero to a Fully Published Developer Tool]]></title>
+        <id>69fe3149f239332df4fdfd46</id>
+        <link href="https://www.freecodecamp.org/news/learn-command-line-interface-cli-development-with-dart-from-zero-to-a-fully-published-developer-tool/"/>
+        <updated>2026-05-08T18:54:01.000Z</updated>
+        <summary type="html"><![CDATA[Most developers spend a significant portion of their day in the terminal. They run flutter build, push with git, manage packages with dart pub, and orchestrate pipelines from the command line. Every o]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Bypass Cloud SMTP Restrictions Using Brevo and HTTP APIs]]></title>
+        <id>69fe2a2ef239332df4f7f8b9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-bypass-cloud-smtp-restrictions-using-brevo-and-http-apis/"/>
+        <updated>2026-05-08T18:23:42.000Z</updated>
+        <summary type="html"><![CDATA[Being able to communicate by sending emails through web applications is important these days. It helps businesses stay connected with their potential customers, securely verify user identities, and de]]></summary>
+        <author>
+            <name>Okoro Emmanuel Nzube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Apply Academic Theories to Human-Centered Web Design [Full Handbook]]></title>
+        <id>69fe29e9f239332df4f7cd02</id>
+        <link href="https://www.freecodecamp.org/news/how-to-apply-academic-theories-to-human-centered-web-design-handbook/"/>
+        <updated>2026-05-08T18:22:33.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever abandoned an app right at the sign‑up page? Or felt uneasy navigating a website because the buttons were scattered randomly, the colors clashed, and the layout felt confusing and unneces]]></summary>
+        <author>
+            <name>Great John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert Images to PDF in the Browser Using JavaScript – A Step-by-Step Guide]]></title>
+        <id>69fe1ae5f239332df4ec3436</id>
+        <link href="https://www.freecodecamp.org/news/how-to-convert-images-to-pdf-using-javascript/"/>
+        <updated>2026-05-08T17:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Whether it’s scanned documents, screenshots, receipts, notes, certificates, or multiple photos, users often need a quick way to combine images into a downloadable PDF. Modern browsers make this much e]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rise of AI Agents: How Software Is Learning to Act]]></title>
+        <id>69fe184ef239332df4ea34e7</id>
+        <link href="https://www.freecodecamp.org/news/the-rise-of-ai-agents-how-software-is-learning-to-act/"/>
+        <updated>2026-05-08T17:07:26.000Z</updated>
+        <summary type="html"><![CDATA[Software has always been reactive. You click a button, it responds. You call an API, it returns data. Even the most sophisticated systems have historically depended on explicit instructions and tightl]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Complete SaaS Payment Flow with Stripe, Webhooks, and Email Notifications]]></title>
+        <id>69fe0830f239332df4de5722</id>
+        <link href="https://www.freecodecamp.org/news/saas-payment-flow-stripe-webhooks-email/"/>
+        <updated>2026-05-08T15:58:40.000Z</updated>
+        <summary type="html"><![CDATA[Most Stripe tutorials end at the checkout page. The customer clicks "Pay," Stripe processes the charge, and the tutorial congratulates you on integrating payments. But that's only the first 10% of a r]]></summary>
+        <author>
+            <name>Magnus Rødseth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation with Regression Discontinuity: How an LLM Confidence Threshold Creates a Natural Experiment in Python]]></title>
+        <id>69fe0255f239332df4da1c33</id>
+        <link href="https://www.freecodecamp.org/news/gen-ai-product-experimentation-with-regression-discontinuity-design/"/>
+        <updated>2026-05-08T15:33:41.000Z</updated>
+        <summary type="html"><![CDATA[Causal inference for LLM-based features starts with one question editors ask before they ship anything: Did the change actually move the metric, or did the metric just move? Let's say that your team b]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using CSS corner-shape For Folded Corners]]></title>
+        <id>https://css-tricks.com/?p=393431</id>
+        <link href="https://css-tricks.com/using-css-corner-shape-for-folded-corners/"/>
+        <updated>2026-05-08T13:54:10.000Z</updated>
+        <summary type="html"><![CDATA[I came across Kitty Giraudel’s folded corners technique. I’ve been on a bit of a corner-shape kick lately, so I figured that corner-shape could be used to create folded corners as well.
+Using CSS corner-shape For Folded Corners originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Live Options Database in Python – A Complete Guide]]></title>
+        <id>69fd19789f93a850a43041c9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-live-options-database-in-python-a-complete-guide/"/>
+        <updated>2026-05-07T23:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Live options analytics change constantly. Implied volatility shifts, Greeks drift, and the shape of the surface can look different even a few minutes later. But a lot of teams still treat these number]]></summary>
+        <author>
+            <name>Nikhil Adithyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate to S3 Native State Locking in Terraform]]></title>
+        <id>69fd19239f93a850a430069b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-migrate-to-s3-native-state-locking-in-terraform/"/>
+        <updated>2026-05-07T22:58:43.000Z</updated>
+        <summary type="html"><![CDATA[If you've been running Terraform on AWS for any length of time, you know the setup: an S3 bucket for state storage, a DynamoDB table for state locking, and a handful of IAM policies tying them togethe]]></summary>
+        <author>
+            <name>Tolani Akintayo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use SCons to Build Software Projects [Full Handbook]]]></title>
+        <id>69fd02969f93a850a41cccc2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-scons-to-build-software-projects-full-handbook/"/>
+        <updated>2026-05-07T21:22:30.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever wrestled with Makefile syntax, fought tab-versus-spaces bugs, or tried to make a build system work across Linux, macOS, and Windows, SCons is worth your attention. It replaces Make, aut]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Scrollytelling Gift for Mum on Mother’s Day 2026]]></title>
         <id>https://css-tricks.com/?p=394649</id>
@@ -14,36 +125,6 @@
 A Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QuRT: The Real-Time OS Inside Your Phone's Processor [Full Handbook]]]></title>
-        <id>69fbcaed50ecad4533880efa</id>
-        <link href="https://www.freecodecamp.org/news/qurt-the-real-time-os-inside-your-phone-s-processor-full-handbook/"/>
-        <updated>2026-05-06T23:12:45.000Z</updated>
-        <summary type="html"><![CDATA[The Hexagon DSP in every Qualcomm-powered phone handles wake word detection, sensor processing, noise cancellation, and Bluetooth audio streaming – all while the main ARM CPU runs Android. The operati]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Real Infrastructure Behind Remote Work (It’s Not Just Wi-Fi)]]></title>
-        <id>69fbc46650ecad45338431f6</id>
-        <link href="https://www.freecodecamp.org/news/the-real-infrastructure-behind-remote-work-it-s-not-just-wi-fi/"/>
-        <updated>2026-05-06T22:44:54.000Z</updated>
-        <summary type="html"><![CDATA[Remote work looks simple from the outside: a laptop, a quiet corner, and a stable Wi-Fi connection. That's the image most people have in mind. It suggests freedom without friction, mobility without tr]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Lithography Handbook: Machines, Markets, and the Next Wave of Semiconductor Startups]]></title>
-        <id>69fbbef450ecad453381203d</id>
-        <link href="https://www.freecodecamp.org/news/the-lithography-handbook-machines-markets-and-the-next-wave-of-semiconductor-startups/"/>
-        <updated>2026-05-06T22:21:40.000Z</updated>
-        <summary type="html"><![CDATA[The chip inside your smartphone is the product of one of the most precise manufacturing processes ever devised by humanity. To build it, engineers must draw patterns smaller than a virus onto silicon]]></summary>
-        <author>
-            <name>Vahe Aslanyan</name>
         </author>
     </entry>
     <entry>
@@ -57,36 +138,6 @@ As a Chrome user, you’ll have received Gemini Nano in the form of a 4GB trans
 Google’s Prompt API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITCM vs DTCM vs DDR: Embedded Memory Types Explained [Full Handbook]]]></title>
-        <id>69fb8bbc50ecad4533638e41</id>
-        <link href="https://www.freecodecamp.org/news/itcm-vs-dtcm-vs-ddr-embedded-memory-types-explained-handbook/"/>
-        <updated>2026-05-06T18:43:08.000Z</updated>
-        <summary type="html"><![CDATA[Most embedded engineers hit this problem early on: the same code on the same processor runs fast in one scenario and surprisingly slow in another. The culprit is almost always where the code and data]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Paper Review: Improving Language Understanding by Generative Pre-Training (GPT-1)]]></title>
-        <id>69fb84ad50ecad45335e5367</id>
-        <link href="https://www.freecodecamp.org/news/ai-paper-review-improving-language-understanding-by-generative-pre-training-gpt-1/"/>
-        <updated>2026-05-06T18:13:01.000Z</updated>
-        <summary type="html"><![CDATA[We use AI tools all the time, whether it’s asking questions, generating images, or getting help with everyday tasks. But most of these tools didn’t appear out of nowhere. They were developed based on]]></summary>
-        <author>
-            <name>Mohammed Fahd Abrah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Market Research Copilot with MCP and Python [Full Handbook]]]></title>
-        <id>69fb845950ecad45335e0fe2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-market-research-copilot-with-mcp-and-python-handbook/"/>
-        <updated>2026-05-06T18:11:37.000Z</updated>
-        <summary type="html"><![CDATA[Most financial AI tools are good at one thing: summarizing a stock. You ask about Apple, NVIDIA, or Tesla, and they give you a clean overview of price action, a few ratios, and maybe some company cont]]></summary>
-        <author>
-            <name>Nikhil Adithyan</name>
         </author>
     </entry>
     <entry>
@@ -108,46 +159,6 @@ Making Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten a
         <summary type="html"><![CDATA[An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Scoped Note-Taking API with Django Rest Framework and SimpleJWT]]></title>
-        <id>69fa4395a386d7f121cd3bfc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-scoped-note-taking-api-with-django-rest-framework-and-simplejwt/"/>
-        <updated>2026-05-05T19:23:01.000Z</updated>
-        <summary type="html"><![CDATA[If you've built a Django API and you're wondering how to add authentication so that each user can only access their own data, you're in the right place. Most Django tutorials teach you session-based a]]></summary>
-        <author>
-            <name>Prabodh Tuladhar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Complete SOC 2 Type II Implementation Handbook for Engineers: A Month-by-Month Roadmap with Real Commands]]></title>
-        <id>69fa364da386d7f121c468af</id>
-        <link href="https://www.freecodecamp.org/news/the-complete-soc-2-type-ii-implementation-guide-for-engineers/"/>
-        <updated>2026-05-05T18:26:21.000Z</updated>
-        <summary type="html"><![CDATA[If your team is preparing for a SOC 2 Type II review, this handbook is for you. It's a self-contained guide to the exact 90-day timeline, 14 critical controls, and evidence collection infrastructure t]]></summary>
-        <author>
-            <name>Ayobami Adejumo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering the JavaScript Event Loop]]></title>
-        <id>69fa2435a386d7f121b7c4af</id>
-        <link href="https://www.freecodecamp.org/news/mastering-the-javascript-event-loop/"/>
-        <updated>2026-05-05T17:09:09.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is famously single-threaded, yet it powers highly complex, interactive web applications without freezing up. How is this possible? The answer lies in the Event Loop. The Event Loop is a cor]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Science Insights: Why the Mean Lies When Handling Messy Retail Data]]></title>
-        <id>69fa21e5a386d7f121b5fe8c</id>
-        <link href="https://www.freecodecamp.org/news/data-science-insights-why-the-mean-lies-when-handling-messy-retail-data/"/>
-        <updated>2026-05-05T16:59:17.000Z</updated>
-        <summary type="html"><![CDATA[In our daily life, we use the word "average" all the time: average salary, average marks, average age, and so on. Let's take the case of a retail shop. If we're looking at the average order value to u]]></summary>
-        <author>
-            <name>Rakshath Naik</name>
         </author>
     </entry>
     <entry>
@@ -329,17 +340,6 @@ What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only C
 A Well-Designed JavaScript Module System is Your First Architecture Decision originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Amejimaobari Victor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hypot()]]></title>
-        <id>https://css-tricks.com/?page_id=392723</id>
-        <link href="https://css-tricks.com/almanac/functions/h/hypot/"/>
-        <updated>2026-04-15T16:30:48.000Z</updated>
-        <summary type="html"><![CDATA[The hypot() function takes a list of values and returns the square root of the sum of their squares.
-hypot() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
     <entry>
