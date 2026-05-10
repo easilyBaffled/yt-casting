@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-09T01:01:00.885Z</id>
+    <id>urn:2026-05-10T01:07:01.278Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-09T01:01:00.885Z</updated>
+    <updated>2026-05-10T01:07:01.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Codex Handbook: A Practical Guide to OpenAI's Coding Platform]]></title>
+        <id>69fe6b68f239332df41e4063</id>
+        <link href="https://www.freecodecamp.org/news/the-codex-handbook-a-practical-guide-to-openai-s-coding-platform/"/>
+        <updated>2026-05-08T23:02:00.000Z</updated>
+        <summary type="html"><![CDATA[This handbook is written for developers, team leads, and admins who want to understand what Codex is, how to set it up, how to use it well, how it differs from general-purpose models, and how pricing]]></summary>
+        <author>
+            <name>Tatev Aslanyan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Command Line Interface (CLI) Development with Dart: From Zero to a Fully Published Developer Tool]]></title>
         <id>69fe3149f239332df4fdfd46</id>
@@ -104,16 +114,6 @@ Using CSS corner-shape For Folded Corners originally handwritten and published
         <summary type="html"><![CDATA[If you've been running Terraform on AWS for any length of time, you know the setup: an S3 bucket for state storage, a DynamoDB table for state locking, and a handful of IAM policies tying them togethe]]></summary>
         <author>
             <name>Tolani Akintayo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use SCons to Build Software Projects [Full Handbook]]]></title>
-        <id>69fd02969f93a850a41cccc2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-scons-to-build-software-projects-full-handbook/"/>
-        <updated>2026-05-07T21:22:30.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever wrestled with Makefile syntax, fought tab-versus-spaces bugs, or tried to make a build system work across Linux, macOS, and Windows, SCons is worth your attention. It replaces Make, aut]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
         </author>
     </entry>
     <entry>
@@ -340,16 +340,6 @@ What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only C
 A Well-Designed JavaScript Module System is Your First Architecture Decision originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Amejimaobari Victor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Improve UX In Legacy Systems]]></title>
-        <id>https://smashingmagazine.com/2026/04/legacy-systems/</id>
-        <link href="https://smashingmagazine.com/2026/04/legacy-systems/"/>
-        <updated>2026-04-10T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Practical guidelines for driving UX impact in organizations with legacy systems and broken processes. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
