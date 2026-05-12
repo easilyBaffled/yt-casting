@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-11T01:06:35.715Z</id>
+    <id>urn:2026-05-12T01:00:59.269Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-11T01:06:35.715Z</updated>
+    <updated>2026-05-12T01:00:59.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF to Image Converter Using JavaScript]]></title>
+        <id>6a024b87fca21b0d4b6cbcd9</id>
+        <link href="https://www.freecodecamp.org/news/pdf-to-image-converter/"/>
+        <updated>2026-05-11T21:35:03.000Z</updated>
+        <summary type="html"><![CDATA[Whether it’s invoices, scanned documents, reports, certificates, or receipts, users often need to convert PDF pages into image files quickly. Modern browsers make this much easier than before. Instead]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Optimal AI Agents That Actually Work – A Handbook for Devs]]></title>
+        <id>6a024a82fca21b0d4b6c5283</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-optimal-ai-agents-that-actually-work-a-handbook-for-devs/"/>
+        <updated>2026-05-11T21:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Since moving to Silicon Valley in 2025, I've seen AI everywhere. And after I attended NVIDIA GTC 2025, one thing became very clear from many conversations I had: most companies now have AI agents runn]]></summary>
+        <author>
+            <name>Tiago Capelo Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Develop Chrome Extensions using Plasmo [Full Handbook]]]></title>
+        <id>6a0237edfca21b0d4b636175</id>
+        <link href="https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/"/>
+        <updated>2026-05-11T20:11:25.000Z</updated>
+        <summary type="html"><![CDATA[Chrome extensions are lightweight tools that enhance and personalize your browsing experience, whether that's managing passwords, translating pages, or adding entirely new features to websites you use]]></summary>
+        <author>
+            <name>Preston Mayieka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your “Simple Deploy” Turned Into a Week of Infrastructure Work]]></title>
+        <id>6a022071fca21b0d4b57374f</id>
+        <link href="https://www.freecodecamp.org/news/why-your-simple-deploy-turned-into-a-week-of-infrastructure-work/"/>
+        <updated>2026-05-11T18:31:13.000Z</updated>
+        <summary type="html"><![CDATA[If you're running production workloads, this guide is for you. It's not about side projects, early-stage experiments, or a single-service app with low traffic. This is for teams shipping real systems.]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Paper Review: Language Models are Unsupervised Multitask Learners (GPT-2)]]></title>
+        <id>6a01fbeffca21b0d4b40ae1d</id>
+        <link href="https://www.freecodecamp.org/news/ai-paper-review-language-models-are-unsupervised-multitask-learners-gpt-2/"/>
+        <updated>2026-05-11T15:55:27.000Z</updated>
+        <summary type="html"><![CDATA[Before models like ChatGPT became part of everyday life, AI systems were already getting surprisingly good at generating text. But there was still a major limitation: most models could only perform ta]]></summary>
+        <author>
+            <name>Mohammed Fahd Abrah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Self-Hosted WhatsApp Bot with n8n and WAHA]]></title>
+        <id>6a01e032fca21b0d4b2bb4c1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-self-hosted-whatsapp-bot-with-n8n-and-waha/"/>
+        <updated>2026-05-11T13:57:06.000Z</updated>
+        <summary type="html"><![CDATA[WhatsApp is where your many of your customers likely already are. For support tickets, order updates, booking reminders, and lead qualification, a WhatsApp channel often converts several times better]]></summary>
+        <author>
+            <name>אחיה כהן</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Codex Handbook: A Practical Guide to OpenAI's Coding Platform]]></title>
         <id>69fe6b68f239332df41e4063</id>
@@ -46,46 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Convert Images to PDF in the Browser Using JavaScript – A Step-by-Step Guide]]></title>
-        <id>69fe1ae5f239332df4ec3436</id>
-        <link href="https://www.freecodecamp.org/news/how-to-convert-images-to-pdf-using-javascript/"/>
-        <updated>2026-05-08T17:18:29.000Z</updated>
-        <summary type="html"><![CDATA[Whether it’s scanned documents, screenshots, receipts, notes, certificates, or multiple photos, users often need a quick way to combine images into a downloadable PDF. Modern browsers make this much e]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rise of AI Agents: How Software Is Learning to Act]]></title>
-        <id>69fe184ef239332df4ea34e7</id>
-        <link href="https://www.freecodecamp.org/news/the-rise-of-ai-agents-how-software-is-learning-to-act/"/>
-        <updated>2026-05-08T17:07:26.000Z</updated>
-        <summary type="html"><![CDATA[Software has always been reactive. You click a button, it responds. You call an API, it returns data. Even the most sophisticated systems have historically depended on explicit instructions and tightl]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Complete SaaS Payment Flow with Stripe, Webhooks, and Email Notifications]]></title>
-        <id>69fe0830f239332df4de5722</id>
-        <link href="https://www.freecodecamp.org/news/saas-payment-flow-stripe-webhooks-email/"/>
-        <updated>2026-05-08T15:58:40.000Z</updated>
-        <summary type="html"><![CDATA[Most Stripe tutorials end at the checkout page. The customer clicks "Pay," Stripe processes the charge, and the tutorial congratulates you on integrating payments. But that's only the first 10% of a r]]></summary>
-        <author>
-            <name>Magnus Rødseth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experimentation with Regression Discontinuity: How an LLM Confidence Threshold Creates a Natural Experiment in Python]]></title>
-        <id>69fe0255f239332df4da1c33</id>
-        <link href="https://www.freecodecamp.org/news/gen-ai-product-experimentation-with-regression-discontinuity-design/"/>
-        <updated>2026-05-08T15:33:41.000Z</updated>
-        <summary type="html"><![CDATA[Causal inference for LLM-based features starts with one question editors ask before they ship anything: Did the change actually move the metric, or did the metric just move? Let's say that your team b]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using CSS corner-shape For Folded Corners]]></title>
         <id>https://css-tricks.com/?p=393431</id>
         <link href="https://css-tricks.com/using-css-corner-shape-for-folded-corners/"/>
@@ -94,26 +114,6 @@
 Using CSS corner-shape For Folded Corners originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Live Options Database in Python – A Complete Guide]]></title>
-        <id>69fd19789f93a850a43041c9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-live-options-database-in-python-a-complete-guide/"/>
-        <updated>2026-05-07T23:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Live options analytics change constantly. Implied volatility shifts, Greeks drift, and the shape of the surface can look different even a few minutes later. But a lot of teams still treat these number]]></summary>
-        <author>
-            <name>Nikhil Adithyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Migrate to S3 Native State Locking in Terraform]]></title>
-        <id>69fd19239f93a850a430069b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-migrate-to-s3-native-state-locking-in-terraform/"/>
-        <updated>2026-05-07T22:58:43.000Z</updated>
-        <summary type="html"><![CDATA[If you've been running Terraform on AWS for any length of time, you know the setup: an S3 bucket for state storage, a DynamoDB table for state locking, and a handful of IAM policies tying them togethe]]></summary>
-        <author>
-            <name>Tolani Akintayo</name>
         </author>
     </entry>
     <entry>

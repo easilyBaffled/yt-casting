@@ -17,7 +17,7 @@
           "description": "I came across Kitty Giraudel’s folded corners technique. I’ve been on a bit of a corner-shape kick lately, so I figured that corner-shape could be used to create folded corners as well.\nUsing CSS corner-shape For Folded Corners originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/using-css-corner-shape-for-folded-corners/",
           "publishedOn": "2026-05-08T13:54:10.000Z",
-          "wordCount": 4399,
+          "wordCount": 4425,
           "title": "Using CSS corner-shape For Folded Corners",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/04/corner-shape-fold-5-1.mp4",
@@ -52,7 +52,7 @@
           "description": "Most grid layouts sit in neat rows, perfectly aligned, like soldiers in formation. But sometimes you want something with more rhythm like, say, a zigzag pattern. Here's how to do it with CSS Grid.\nMaking Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/zigzag-css-grid-layouts/",
           "publishedOn": "2026-05-06T13:50:44.000Z",
-          "wordCount": 4654,
+          "wordCount": 4651,
           "title": "Making Zigzag CSS Layouts With a Grid + Transform Trick",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/05/line-break.jpg"
         },
@@ -72,7 +72,7 @@
           "description": "Developers have been experimenting with HTML-in-Canvas, a hexagonal world map-analytics feature, a web-based OS for e-ink devices, replacing image sources using the content property, and more. This is What’s !important #10.\nWhat’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-10/",
           "publishedOn": "2026-05-01T13:43:26.000Z",
-          "wordCount": 3801,
+          "wordCount": 3798,
           "title": "What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/wh10.jpg"
         },
@@ -112,7 +112,7 @@
           "description": "My shim might give the powers that be another reason to say native support isn't necessary, or if lots of people use my :nth-letter hack in the wild, the browser gods might recognize the need to implement it for real.\nLet’s Use the Nonexistent ::nth-letter Selector Now originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/using-nonexistent-nth-letter-selector-now/",
           "publishedOn": "2026-04-27T13:55:42.000Z",
-          "wordCount": 6520,
+          "wordCount": 6640,
           "title": "Let’s Use the Nonexistent ::nth-letter Selector Now",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/10/nth-letter.png"
         },
@@ -219,7 +219,7 @@
           "description": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
           "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
           "publishedOn": "2026-05-01T08:00:00.000Z",
-          "wordCount": 6548,
+          "wordCount": 6545,
           "title": "Designing Stable Interfaces For Streaming Content",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
@@ -234,7 +234,7 @@
           "description": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
           "publishedOn": "2026-04-30T11:00:00.000Z",
-          "wordCount": 4602,
+          "wordCount": 4618,
           "title": "A Fresh View In May (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -249,7 +249,7 @@
           "description": "AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.",
           "link": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
           "publishedOn": "2026-04-27T10:00:00.000Z",
-          "wordCount": 4605,
+          "wordCount": 4608,
           "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
@@ -264,7 +264,7 @@
           "description": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
           "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
           "publishedOn": "2026-04-22T10:00:00.000Z",
-          "wordCount": 4148,
+          "wordCount": 4147,
           "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
@@ -279,7 +279,7 @@
           "description": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.",
           "link": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
           "publishedOn": "2026-04-20T13:00:00.000Z",
-          "wordCount": 4706,
+          "wordCount": 4704,
           "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg",
@@ -295,6 +295,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a024b87fca21b0d4b6cbcd9",
+          "author": "Bhavin Sheth",
+          "description": "Whether it’s invoices, scanned documents, reports, certificates, or receipts, users often need to convert PDF pages into image files quickly. Modern browsers make this much easier than before. Instead",
+          "link": "https://www.freecodecamp.org/news/pdf-to-image-converter/",
+          "publishedOn": "2026-05-11T21:35:03.000Z",
+          "wordCount": 2066,
+          "title": "How to Build a Browser-Based PDF to Image Converter Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d412f56a-2860-4b61-a300-ab3511c34e78.png"
+        },
+        {
+          "id": "6a024a82fca21b0d4b6c5283",
+          "author": "Tiago Capelo Monteiro",
+          "description": "Since moving to Silicon Valley in 2025, I've seen AI everywhere. And after I attended NVIDIA GTC 2025, one thing became very clear from many conversations I had: most companies now have AI agents runn",
+          "link": "https://www.freecodecamp.org/news/how-to-build-optimal-ai-agents-that-actually-work-a-handbook-for-devs/",
+          "publishedOn": "2026-05-11T21:30:42.000Z",
+          "wordCount": 6372,
+          "title": "How to Build Optimal AI Agents That Actually Work – A Handbook for Devs",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f1ca2c84-0c3f-4f20-84f2-9bad5cc1c915.png"
+        },
+        {
+          "id": "6a0237edfca21b0d4b636175",
+          "author": "Preston Mayieka",
+          "description": "Chrome extensions are lightweight tools that enhance and personalize your browsing experience, whether that's managing passwords, translating pages, or adding entirely new features to websites you use",
+          "link": "https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/",
+          "publishedOn": "2026-05-11T20:11:25.000Z",
+          "wordCount": 7568,
+          "title": "How to Develop Chrome Extensions using Plasmo [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e0d0bca4-a2e8-495a-9c1c-4f0b9ef52630.png"
+        },
+        {
+          "id": "6a022071fca21b0d4b57374f",
+          "author": "Manish Shivanandhan",
+          "description": "If you're running production workloads, this guide is for you. It's not about side projects, early-stage experiments, or a single-service app with low traffic. This is for teams shipping real systems.",
+          "link": "https://www.freecodecamp.org/news/why-your-simple-deploy-turned-into-a-week-of-infrastructure-work/",
+          "publishedOn": "2026-05-11T18:31:13.000Z",
+          "wordCount": 2376,
+          "title": "Why Your “Simple Deploy” Turned Into a Week of Infrastructure Work",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/14f4724b-fb2b-4454-a3dd-3d250e126f50.png"
+        },
+        {
+          "id": "6a01fbeffca21b0d4b40ae1d",
+          "author": "Mohammed Fahd Abrah",
+          "description": "Before models like ChatGPT became part of everyday life, AI systems were already getting surprisingly good at generating text. But there was still a major limitation: most models could only perform ta",
+          "link": "https://www.freecodecamp.org/news/ai-paper-review-language-models-are-unsupervised-multitask-learners-gpt-2/",
+          "publishedOn": "2026-05-11T15:55:27.000Z",
+          "wordCount": 3868,
+          "title": "AI Paper Review: Language Models are Unsupervised Multitask Learners (GPT-2)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/be6d96bd-c687-4fac-a3e2-ea68ba622c51.png"
+        },
+        {
+          "id": "6a01e032fca21b0d4b2bb4c1",
+          "author": "אחיה כהן",
+          "description": "WhatsApp is where your many of your customers likely already are. For support tickets, order updates, booking reminders, and lead qualification, a WhatsApp channel often converts several times better",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-self-hosted-whatsapp-bot-with-n8n-and-waha/",
+          "publishedOn": "2026-05-11T13:57:06.000Z",
+          "wordCount": 4189,
+          "title": "How to Build a Self-Hosted WhatsApp Bot with n8n and WAHA",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/28affe4d-9359-4cbb-a311-a2ee9d0829c0.png"
+        },
         {
           "id": "69fe6b68f239332df41e4063",
           "author": "Tatev Aslanyan",
@@ -334,66 +394,6 @@
           "wordCount": 12813,
           "title": "How to Apply Academic Theories to Human-Centered Web Design [Full Handbook",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d7621fda-83a6-460e-aa38-bce970d4a655.png"
-        },
-        {
-          "id": "69fe1ae5f239332df4ec3436",
-          "author": "Bhavin Sheth",
-          "description": "Whether it’s scanned documents, screenshots, receipts, notes, certificates, or multiple photos, users often need a quick way to combine images into a downloadable PDF. Modern browsers make this much e",
-          "link": "https://www.freecodecamp.org/news/how-to-convert-images-to-pdf-using-javascript/",
-          "publishedOn": "2026-05-08T17:18:29.000Z",
-          "wordCount": 2587,
-          "title": "How to Convert Images to PDF in the Browser Using JavaScript – A Step-by-Step Guide",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8902fd4f-fcfa-4f7b-8baf-9b595239254f.png"
-        },
-        {
-          "id": "69fe184ef239332df4ea34e7",
-          "author": "Manish Shivanandhan",
-          "description": "Software has always been reactive. You click a button, it responds. You call an API, it returns data. Even the most sophisticated systems have historically depended on explicit instructions and tightl",
-          "link": "https://www.freecodecamp.org/news/the-rise-of-ai-agents-how-software-is-learning-to-act/",
-          "publishedOn": "2026-05-08T17:07:26.000Z",
-          "wordCount": 2408,
-          "title": "The Rise of AI Agents: How Software Is Learning to Act",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1351f6d0-79c2-491b-a8e7-943cc9ece905.png"
-        },
-        {
-          "id": "69fe0830f239332df4de5722",
-          "author": "Magnus Rødseth",
-          "description": "Most Stripe tutorials end at the checkout page. The customer clicks \"Pay,\" Stripe processes the charge, and the tutorial congratulates you on integrating payments. But that's only the first 10% of a r",
-          "link": "https://www.freecodecamp.org/news/saas-payment-flow-stripe-webhooks-email/",
-          "publishedOn": "2026-05-08T15:58:40.000Z",
-          "wordCount": 8969,
-          "title": "How to Build a Complete SaaS Payment Flow with Stripe, Webhooks, and Email Notifications",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/de7d5c4d-062c-4879-892c-4486c7c461af.png"
-        },
-        {
-          "id": "69fe0255f239332df4da1c33",
-          "author": "Rudrendu Paul",
-          "description": "Causal inference for LLM-based features starts with one question editors ask before they ship anything: Did the change actually move the metric, or did the metric just move? Let's say that your team b",
-          "link": "https://www.freecodecamp.org/news/gen-ai-product-experimentation-with-regression-discontinuity-design/",
-          "publishedOn": "2026-05-08T15:33:41.000Z",
-          "wordCount": 4797,
-          "title": "Product Experimentation with Regression Discontinuity: How an LLM Confidence Threshold Creates a Natural Experiment in Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a6b7e375-8638-4b98-824e-bb94c60e9e57.png"
-        },
-        {
-          "id": "69fd19789f93a850a43041c9",
-          "author": "Nikhil Adithyan",
-          "description": "Live options analytics change constantly. Implied volatility shifts, Greeks drift, and the shape of the surface can look different even a few minutes later. But a lot of teams still treat these number",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-live-options-database-in-python-a-complete-guide/",
-          "publishedOn": "2026-05-07T23:00:08.000Z",
-          "wordCount": 5168,
-          "title": "How to Build a Live Options Database in Python – A Complete Guide",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4ecffa99-c492-4959-9899-885021d11ee4.png"
-        },
-        {
-          "id": "69fd19239f93a850a430069b",
-          "author": "Tolani Akintayo",
-          "description": "If you've been running Terraform on AWS for any length of time, you know the setup: an S3 bucket for state storage, a DynamoDB table for state locking, and a handful of IAM policies tying them togethe",
-          "link": "https://www.freecodecamp.org/news/how-to-migrate-to-s3-native-state-locking-in-terraform/",
-          "publishedOn": "2026-05-07T22:58:43.000Z",
-          "wordCount": 4854,
-          "title": "How to Migrate to S3 Native State Locking in Terraform",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9619ad45-15c5-4be7-9221-ed4b76bc2b24.png"
         }
       ]
     }
