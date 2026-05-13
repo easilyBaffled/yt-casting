@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-12T01:00:59.269Z</id>
+    <id>urn:2026-05-13T01:05:31.137Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-12T01:00:59.269Z</updated>
+    <updated>2026-05-13T01:05:31.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Soon We Can Finally Banish JavaScript to the ShadowRealm]]></title>
+        <id>https://css-tricks.com/?p=393604</id>
+        <link href="https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/"/>
+        <updated>2026-05-12T13:59:35.000Z</updated>
+        <summary type="html"><![CDATA[The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.
+Soon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mat Marquis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation with Synthetic Control: Causal Inference for Global LLM Rollouts in Python]]></title>
+        <id>6a02b2a8937b84f7790d481e</id>
+        <link href="https://www.freecodecamp.org/news/product-experimentation-with-synthetic-control-causal-inference-for-global-llm-rollouts-in-python/"/>
+        <updated>2026-05-12T04:55:04.000Z</updated>
+        <summary type="html"><![CDATA[Every product experimentation team doing causal inference on LLM-based features eventually hits the same wall: when the provider ships a new model version, there's no holdout. Your infrastructure team]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Production-Ready AI Features with Flutter [Full Handbook for Devs]]]></title>
+        <id>6a025a4efca21b0d4b736480</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-production-ready-ai-features-with-flutter-handbook-for-devs/"/>
+        <updated>2026-05-11T22:38:06.000Z</updated>
+        <summary type="html"><![CDATA[You've probably seen the demos. A Flutter app, a text field, and a few lines calling the Gemini API – and out comes something that feels like magic. The audience applauds. Your product manager is alre]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Browser-Based PDF to Image Converter Using JavaScript]]></title>
         <id>6a024b87fca21b0d4b6cbcd9</id>
@@ -83,26 +114,6 @@
         <summary type="html"><![CDATA[Most developers spend a significant portion of their day in the terminal. They run flutter build, push with git, manage packages with dart pub, and orchestrate pipelines from the command line. Every o]]></summary>
         <author>
             <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Bypass Cloud SMTP Restrictions Using Brevo and HTTP APIs]]></title>
-        <id>69fe2a2ef239332df4f7f8b9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-bypass-cloud-smtp-restrictions-using-brevo-and-http-apis/"/>
-        <updated>2026-05-08T18:23:42.000Z</updated>
-        <summary type="html"><![CDATA[Being able to communicate by sending emails through web applications is important these days. It helps businesses stay connected with their potential customers, securely verify user identities, and de]]></summary>
-        <author>
-            <name>Okoro Emmanuel Nzube</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Apply Academic Theories to Human-Centered Web Design [Full Handbook]]></title>
-        <id>69fe29e9f239332df4f7cd02</id>
-        <link href="https://www.freecodecamp.org/news/how-to-apply-academic-theories-to-human-centered-web-design-handbook/"/>
-        <updated>2026-05-08T18:22:33.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever abandoned an app right at the sign‑up page? Or felt uneasy navigating a website because the buttons were scattered randomly, the colors clashed, and the layout felt confusing and unneces]]></summary>
-        <author>
-            <name>Great John</name>
         </author>
     </entry>
     <entry>
@@ -329,17 +340,6 @@ Markdown + Astro = ❤️ originally handwritten and published with love on CSS-
 What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Well-Designed JavaScript Module System is Your First Architecture Decision]]></title>
-        <id>https://css-tricks.com/?p=392882</id>
-        <link href="https://css-tricks.com/the-javascript-module-system-architecture/"/>
-        <updated>2026-04-16T13:53:58.000Z</updated>
-        <summary type="html"><![CDATA[Behind every technology, there should be a guide for its use. While JavaScript modules make it easier to write “big” programs, if there are no principles or systems for using them, things could easily become difficult to maintain.
-A Well-Designed JavaScript Module System is Your First Architecture Decision originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Amejimaobari Victor</name>
         </author>
     </entry>
 </feed>

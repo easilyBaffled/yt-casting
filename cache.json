@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=393604",
+          "author": "Mat Marquis",
+          "description": "The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.\nSoon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
+          "publishedOn": "2026-05-12T13:59:35.000Z",
+          "wordCount": 4903,
+          "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/js-shadow.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=393431",
           "author": "Daniel Schwarz",
           "description": "I came across Kitty Giraudel’s folded corners technique. I’ve been on a bit of a corner-shape kick lately, so I figured that corner-shape could be used to create folded corners as well.\nUsing CSS corner-shape For Folded Corners originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -42,7 +52,7 @@
           "description": "Mat Marquis on Google pulling the web standards equivalent of U2 album marketing:\nAs a Chrome user, you’ll have received Gemini Nano in the form of a 4GB transfer recently; no permission asked or required. If you remove it, \n…\nGoogle’s Prompt API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/googles-prompt-api/",
           "publishedOn": "2026-05-06T19:41:29.000Z",
-          "wordCount": 3301,
+          "wordCount": 3298,
           "title": "Google’s Prompt API",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/chrome-gemini.webp"
         },
@@ -165,16 +175,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/wh9.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392882",
-          "author": "Amejimaobari Victor",
-          "description": "Behind every technology, there should be a guide for its use. While JavaScript modules make it easier to write “big” programs, if there are no principles or systems for using them, things could easily become difficult to maintain.\nA Well-Designed JavaScript Module System is Your First Architecture Decision originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/the-javascript-module-system-architecture/",
-          "publishedOn": "2026-04-16T13:53:58.000Z",
-          "wordCount": 5609,
-          "title": "A Well-Designed JavaScript Module System is Your First Architecture Decision",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_438F18945EAD505ECD4EDF4C4D7332DB9EE1178AECF38D5E1E1966514E384E9B_1772462582173_Untitled-scaled.png"
         }
       ]
     },
@@ -189,7 +189,7 @@
           "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
           "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
           "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": 8645,
+          "wordCount": 8649,
           "title": "The Architecture Of Local-First Web Development",
           "enclosure": {
             "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
@@ -219,7 +219,7 @@
           "description": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
           "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
           "publishedOn": "2026-05-01T08:00:00.000Z",
-          "wordCount": 6545,
+          "wordCount": 6556,
           "title": "Designing Stable Interfaces For Streaming Content",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
@@ -234,7 +234,7 @@
           "description": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
           "publishedOn": "2026-04-30T11:00:00.000Z",
-          "wordCount": 4618,
+          "wordCount": 4616,
           "title": "A Fresh View In May (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -249,7 +249,7 @@
           "description": "AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.",
           "link": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
           "publishedOn": "2026-04-27T10:00:00.000Z",
-          "wordCount": 4608,
+          "wordCount": 4619,
           "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
@@ -264,7 +264,7 @@
           "description": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
           "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
           "publishedOn": "2026-04-22T10:00:00.000Z",
-          "wordCount": 4147,
+          "wordCount": 4146,
           "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
@@ -279,7 +279,7 @@
           "description": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.",
           "link": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
           "publishedOn": "2026-04-20T13:00:00.000Z",
-          "wordCount": 4704,
+          "wordCount": 4707,
           "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg",
@@ -295,6 +295,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a02b2a8937b84f7790d481e",
+          "author": "Rudrendu Paul",
+          "description": "Every product experimentation team doing causal inference on LLM-based features eventually hits the same wall: when the provider ships a new model version, there's no holdout. Your infrastructure team",
+          "link": "https://www.freecodecamp.org/news/product-experimentation-with-synthetic-control-causal-inference-for-global-llm-rollouts-in-python/",
+          "publishedOn": "2026-05-12T04:55:04.000Z",
+          "wordCount": 4942,
+          "title": "Product Experimentation with Synthetic Control: Causal Inference for Global LLM Rollouts in Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/06d252e7-e613-46c7-b5ce-c5daa14cec21.png"
+        },
+        {
+          "id": "6a025a4efca21b0d4b736480",
+          "author": "Atuoha Anthony",
+          "description": "You've probably seen the demos. A Flutter app, a text field, and a few lines calling the Gemini API – and out comes something that feels like magic. The audience applauds. Your product manager is alre",
+          "link": "https://www.freecodecamp.org/news/how-to-build-production-ready-ai-features-with-flutter-handbook-for-devs/",
+          "publishedOn": "2026-05-11T22:38:06.000Z",
+          "wordCount": 16271,
+          "title": "How to Build Production-Ready AI Features with Flutter [Full Handbook for Devs]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ea972c9f-fc63-42c9-b3a3-641090afd81d.png"
+        },
         {
           "id": "6a024b87fca21b0d4b6cbcd9",
           "author": "Bhavin Sheth",
@@ -374,26 +394,6 @@
           "wordCount": 6487,
           "title": "Learn Command Line Interface (CLI) Development with Dart: From Zero to a Fully Published Developer Tool",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a4c564c2-f5f3-4824-b4e7-d103b5fc488e.png"
-        },
-        {
-          "id": "69fe2a2ef239332df4f7f8b9",
-          "author": "Okoro Emmanuel Nzube",
-          "description": "Being able to communicate by sending emails through web applications is important these days. It helps businesses stay connected with their potential customers, securely verify user identities, and de",
-          "link": "https://www.freecodecamp.org/news/how-to-bypass-cloud-smtp-restrictions-using-brevo-and-http-apis/",
-          "publishedOn": "2026-05-08T18:23:42.000Z",
-          "wordCount": 2702,
-          "title": "How to Bypass Cloud SMTP Restrictions Using Brevo and HTTP APIs",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/64f68792-e18c-4b90-9c65-c6d9884ab191.png"
-        },
-        {
-          "id": "69fe29e9f239332df4f7cd02",
-          "author": "Great John",
-          "description": "Have you ever abandoned an app right at the sign‑up page? Or felt uneasy navigating a website because the buttons were scattered randomly, the colors clashed, and the layout felt confusing and unneces",
-          "link": "https://www.freecodecamp.org/news/how-to-apply-academic-theories-to-human-centered-web-design-handbook/",
-          "publishedOn": "2026-05-08T18:22:33.000Z",
-          "wordCount": 12813,
-          "title": "How to Apply Academic Theories to Human-Centered Web Design [Full Handbook",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d7621fda-83a6-460e-aa38-bce970d4a655.png"
         }
       ]
     }
