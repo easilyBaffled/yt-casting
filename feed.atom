@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-13T01:05:31.137Z</id>
+    <id>urn:2026-05-14T01:07:17.754Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-13T01:05:31.137Z</updated>
+    <updated>2026-05-14T01:07:17.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[rotateX()]]></title>
+        <id>https://css-tricks.com/?page_id=393625</id>
+        <link href="https://css-tricks.com/almanac/functions/r/rotatex/"/>
+        <updated>2026-05-13T14:36:54.000Z</updated>
+        <summary type="html"><![CDATA[The rotateX() function rotates an element around the x-axis in a three-dimensional space
+rotateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rotateY()]]></title>
+        <id>https://css-tricks.com/?page_id=393615</id>
+        <link href="https://css-tricks.com/almanac/functions/r/rotatey/"/>
+        <updated>2026-05-13T14:33:58.000Z</updated>
+        <summary type="html"><![CDATA[The rotateY() function rotates an element around its vertical y-axis.
+rotateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rotateZ()]]></title>
+        <id>https://css-tricks.com/?page_id=393630</id>
+        <link href="https://css-tricks.com/almanac/functions/r/rotatez/"/>
+        <updated>2026-05-13T14:33:03.000Z</updated>
+        <summary type="html"><![CDATA[The rotateZ() function rotates an element around its z-axis, so clockwise or counterclockwise. 
+rotateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rotate()]]></title>
+        <id>https://css-tricks.com/?page_id=393611</id>
+        <link href="https://css-tricks.com/almanac/functions/r/rotate/"/>
+        <updated>2026-05-13T14:32:47.000Z</updated>
+        <summary type="html"><![CDATA[The rotate() function spins an element either clockwise or counterclockwise in a 2D plane.
+rotate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical Interface Patterns For AI Transparency (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/</id>
+        <link href="https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/"/>
+        <updated>2026-05-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Soon We Can Finally Banish JavaScript to the ShadowRealm]]></title>
         <id>https://css-tricks.com/?p=393604</id>
@@ -279,28 +333,6 @@ Let’s Use the Nonexistent ::nth-letter Selector Now originally handwritten and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Recreating Apple’s Vision Pro Animation in CSS]]></title>
-        <id>https://css-tricks.com/?p=392970</id>
-        <link href="https://css-tricks.com/recreating-apples-vision-pro-animation-in-css/"/>
-        <updated>2026-04-23T13:22:57.000Z</updated>
-        <summary type="html"><![CDATA[Putting CSS’s more recent scrolling animation capabilities to the test to recreate a complex animation of the Apple Vision Pro headset from Apple's website.
-Recreating Apple’s Vision Pro Animation in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>John Rhea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing Astro With a Markdown Component]]></title>
-        <id>https://css-tricks.com/?p=392286</id>
-        <link href="https://css-tricks.com/astro-markdown-component/"/>
-        <updated>2026-04-22T13:49:57.000Z</updated>
-        <summary type="html"><![CDATA[I use a Markdown Component for two main reasons: (1) It reduces the amount of markup I need to write, and (2) it converts typographic symbols. Here's how it works.
-Enhancing Astro With a Markdown Component originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable]]></title>
         <id>https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/</id>
         <link href="https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/"/>
@@ -311,17 +343,6 @@ Enhancing Astro With a Markdown Component originally handwritten and published w
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Markdown + Astro = ❤️]]></title>
-        <id>https://css-tricks.com/?p=392278</id>
-        <link href="https://css-tricks.com/markdown-astro/"/>
-        <updated>2026-04-20T13:55:16.000Z</updated>
-        <summary type="html"><![CDATA[Although Astro has built-in support for Markdown via .md files, I'd argue that your Markdown experience can be enhanced with MDX.
-Markdown + Astro = ❤️ originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design]]></title>
         <id>https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/</id>
         <link href="https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/"/>
@@ -329,17 +350,6 @@ Markdown + Astro = ❤️ originally handwritten and published with love on CSS-
         <summary type="html"><![CDATA[Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More]]></title>
-        <id>https://css-tricks.com/?p=393515</id>
-        <link href="https://css-tricks.com/whats-important-9/"/>
-        <updated>2026-04-17T14:00:41.000Z</updated>
-        <summary type="html"><![CDATA[This issue of What’s !important brings you clip-path jigsaws, a view transitions toolkit, name-only containers, the usual roundup of new, notable web platform features, and more.
-What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>

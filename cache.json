@@ -12,12 +12,52 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?page_id=393625",
+          "author": "Gabriel Shoyombo",
+          "description": "The rotateX() function rotates an element around the x-axis in a three-dimensional space\nrotateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/r/rotatex/",
+          "publishedOn": "2026-05-13T14:36:54.000Z",
+          "wordCount": 4618,
+          "title": "rotateX()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393615",
+          "author": "Gabriel Shoyombo",
+          "description": "The rotateY() function rotates an element around its vertical y-axis.\nrotateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/r/rotatey/",
+          "publishedOn": "2026-05-13T14:33:58.000Z",
+          "wordCount": 4719,
+          "title": "rotateY()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393630",
+          "author": "Gabriel Shoyombo",
+          "description": "The rotateZ() function rotates an element around its z-axis, so clockwise or counterclockwise. \nrotateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/r/rotatez/",
+          "publishedOn": "2026-05-13T14:33:03.000Z",
+          "wordCount": 4001,
+          "title": "rotateZ()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393611",
+          "author": "Gabriel Shoyombo",
+          "description": "The rotate() function spins an element either clockwise or counterclockwise in a 2D plane.\nrotate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/r/rotate/",
+          "publishedOn": "2026-05-13T14:32:47.000Z",
+          "wordCount": 4200,
+          "title": "rotate()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=393604",
           "author": "Mat Marquis",
           "description": "The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.\nSoon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
           "publishedOn": "2026-05-12T13:59:35.000Z",
-          "wordCount": 4903,
+          "wordCount": 5077,
           "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/js-shadow.png"
         },
@@ -125,56 +165,6 @@
           "wordCount": 6640,
           "title": "Let’s Use the Nonexistent ::nth-letter Selector Now",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/10/nth-letter.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392970",
-          "author": "John Rhea",
-          "description": "Putting CSS’s more recent scrolling animation capabilities to the test to recreate a complex animation of the Apple Vision Pro headset from Apple's website.\nRecreating Apple’s Vision Pro Animation in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/recreating-apples-vision-pro-animation-in-css/",
-          "publishedOn": "2026-04-23T13:22:57.000Z",
-          "wordCount": 4694,
-          "title": "Recreating Apple’s Vision Pro Animation in CSS",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/03/AppleSite.mov",
-            "length": "40640388",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/apple-vision-pro.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392286",
-          "author": "Zell Liew",
-          "description": "I use a Markdown Component for two main reasons: (1) It reduces the amount of markup I need to write, and (2) it converts typographic symbols. Here's how it works.\nEnhancing Astro With a Markdown Component originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/astro-markdown-component/",
-          "publishedOn": "2026-04-22T13:49:57.000Z",
-          "wordCount": 3392,
-          "title": "Enhancing Astro With a Markdown Component",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/markdown-astro.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392278",
-          "author": "Zell Liew",
-          "description": "Although Astro has built-in support for Markdown via .md files, I'd argue that your Markdown experience can be enhanced with MDX.\nMarkdown + Astro = ❤️ originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/markdown-astro/",
-          "publishedOn": "2026-04-20T13:55:16.000Z",
-          "wordCount": 3479,
-          "title": "Markdown + Astro = ❤️",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/mdx-astro.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393515",
-          "author": "Daniel Schwarz",
-          "description": "This issue of What’s !important brings you clip-path jigsaws, a view transitions toolkit, name-only containers, the usual roundup of new, notable web platform features, and more.\nWhat’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-9/",
-          "publishedOn": "2026-04-17T14:00:41.000Z",
-          "wordCount": 3398,
-          "title": "What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/04/2.mp4",
-            "length": "219737",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/wh9.jpg"
         }
       ]
     },
@@ -184,12 +174,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
+          "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
+          "publishedOn": "2026-05-13T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Practical Interface Patterns For AI Transparency (Part 2)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
           "author": "hello@smashingmagazine.com (Durgesh Pawar)",
           "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
           "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
           "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": 8649,
+          "wordCount": null,
           "title": "The Architecture Of Local-First Web Development",
           "enclosure": {
             "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
@@ -219,7 +224,7 @@
           "description": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
           "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
           "publishedOn": "2026-05-01T08:00:00.000Z",
-          "wordCount": 6556,
+          "wordCount": 6545,
           "title": "Designing Stable Interfaces For Streaming Content",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
@@ -234,7 +239,7 @@
           "description": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
           "publishedOn": "2026-04-30T11:00:00.000Z",
-          "wordCount": 4616,
+          "wordCount": 4613,
           "title": "A Fresh View In May (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -249,7 +254,7 @@
           "description": "AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.",
           "link": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
           "publishedOn": "2026-04-27T10:00:00.000Z",
-          "wordCount": 4619,
+          "wordCount": 4612,
           "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
@@ -264,7 +269,7 @@
           "description": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
           "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
           "publishedOn": "2026-04-22T10:00:00.000Z",
-          "wordCount": 4146,
+          "wordCount": 4151,
           "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
@@ -279,7 +284,7 @@
           "description": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.",
           "link": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
           "publishedOn": "2026-04-20T13:00:00.000Z",
-          "wordCount": 4707,
+          "wordCount": 4704,
           "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg",
