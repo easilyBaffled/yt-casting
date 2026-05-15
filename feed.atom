@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-14T01:07:17.754Z</id>
+    <id>urn:2026-05-15T01:04:09.632Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-14T01:07:17.754Z</updated>
+    <updated>2026-05-15T01:04:09.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Common DevOps Mistakes and How to Avoid Them — Tips for Startups]]></title>
+        <id>6a060c22baf09db7a6253878</id>
+        <link href="https://www.freecodecamp.org/news/how-to-avoid-devops-mistakes/"/>
+        <updated>2026-05-14T17:53:38.000Z</updated>
+        <summary type="html"><![CDATA[Most DevOps engineers don't fail because they lack knowledge about tools. They fail because nobody told them what not to do before they got into production. Startup environments make this worse. The p]]></summary>
+        <author>
+            <name>Tolani Akintayo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code for Beginners]]></title>
+        <id>6a05d970baf09db7a60994c5</id>
+        <link href="https://www.freecodecamp.org/news/claude-code-for-beginners/"/>
+        <updated>2026-05-14T14:17:20.000Z</updated>
+        <summary type="html"><![CDATA[AI-powered coding has evolved beyond simple chat interfaces. The latest leap forward is Claude Code, a command-line tool from Anthropic that lives directly in your terminal and understands your entire]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computing and Displaying Discounted Prices in CSS]]></title>
+        <id>https://css-tricks.com/?p=393498</id>
+        <link href="https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/"/>
+        <updated>2026-05-14T14:05:01.000Z</updated>
+        <summary type="html"><![CDATA[A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features like attr(), mod(), and round().
+Computing and Displaying Discounted Prices in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Certified Cloud Practitioner Study Course – Pass the Exam With This Free 14-Hour Course]]></title>
+        <id>66b200a5276d158502db2eb1</id>
+        <link href="https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/"/>
+        <updated>2026-05-14T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Passing the AWS Certified Cloud Practitioner Exam is one of the first steps to a career in cloud development. And freeCodeCamp just published a free 14-hour course that will help you prepare for the e]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[rotateX()]]></title>
         <id>https://css-tricks.com/?page_id=393625</id>
@@ -138,36 +179,6 @@ Soon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten 
         <summary type="html"><![CDATA[Before models like ChatGPT became part of everyday life, AI systems were already getting surprisingly good at generating text. But there was still a major limitation: most models could only perform ta]]></summary>
         <author>
             <name>Mohammed Fahd Abrah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Self-Hosted WhatsApp Bot with n8n and WAHA]]></title>
-        <id>6a01e032fca21b0d4b2bb4c1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-self-hosted-whatsapp-bot-with-n8n-and-waha/"/>
-        <updated>2026-05-11T13:57:06.000Z</updated>
-        <summary type="html"><![CDATA[WhatsApp is where your many of your customers likely already are. For support tickets, order updates, booking reminders, and lead qualification, a WhatsApp channel often converts several times better]]></summary>
-        <author>
-            <name>אחיה כהן</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Codex Handbook: A Practical Guide to OpenAI's Coding Platform]]></title>
-        <id>69fe6b68f239332df41e4063</id>
-        <link href="https://www.freecodecamp.org/news/the-codex-handbook-a-practical-guide-to-openai-s-coding-platform/"/>
-        <updated>2026-05-08T23:02:00.000Z</updated>
-        <summary type="html"><![CDATA[This handbook is written for developers, team leads, and admins who want to understand what Codex is, how to set it up, how to use it well, how it differs from general-purpose models, and how pricing]]></summary>
-        <author>
-            <name>Tatev Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Command Line Interface (CLI) Development with Dart: From Zero to a Fully Published Developer Tool]]></title>
-        <id>69fe3149f239332df4fdfd46</id>
-        <link href="https://www.freecodecamp.org/news/learn-command-line-interface-cli-development-with-dart-from-zero-to-a-fully-published-developer-tool/"/>
-        <updated>2026-05-08T18:54:01.000Z</updated>
-        <summary type="html"><![CDATA[Most developers spend a significant portion of their day in the terminal. They run flutter build, push with git, manage packages with dart pub, and orchestrate pipelines from the command line. Every o]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
         </author>
     </entry>
     <entry>
@@ -309,17 +320,6 @@ contrast() originally handwritten and published with love on CSS-Tricks. You sho
 contrast-color() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s Use the Nonexistent ::nth-letter Selector Now]]></title>
-        <id>https://css-tricks.com/?p=393324</id>
-        <link href="https://css-tricks.com/using-nonexistent-nth-letter-selector-now/"/>
-        <updated>2026-04-27T13:55:42.000Z</updated>
-        <summary type="html"><![CDATA[My shim might give the powers that be another reason to say native support isn't necessary, or if lots of people use my :nth-letter hack in the wild, the browser gods might recognize the need to implement it for real.
-Let’s Use the Nonexistent ::nth-letter Selector Now originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
         </author>
     </entry>
     <entry>
