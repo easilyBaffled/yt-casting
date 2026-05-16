@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-15T01:04:09.632Z</id>
+    <id>urn:2026-05-16T01:00:21.804Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-15T01:04:09.632Z</updated>
+    <updated>2026-05-16T01:00:21.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[7 Tools Digital Nomads Need in 2026]]></title>
+        <id>6a0773cec013adcbdafe0aea</id>
+        <link href="https://www.freecodecamp.org/news/tools-digital-nomads-need-in-2026/"/>
+        <updated>2026-05-15T19:28:14.000Z</updated>
+        <summary type="html"><![CDATA[Digital nomadism has changed dramatically over the last few years. What started as a lifestyle trend for freelancers and travel creators has evolved into a serious way of working for developers, consu]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Calculator with Tkinter in Python]]></title>
+        <id>6a07203c99d875f5cd667635</id>
+        <link href="https://www.freecodecamp.org/news/build-a-calculator-with-tkinter-in-python/"/>
+        <updated>2026-05-15T13:31:40.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn how to create a simple arithmetic calculator in Python with Tkinter. The project will be one of your first steps towards building an actual GUI in Python. This is a hand]]></summary>
+        <author>
+            <name>Sara Jadhav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More]]></title>
+        <id>https://css-tricks.com/?p=394879</id>
+        <link href="https://css-tricks.com/whats-important-11/"/>
+        <updated>2026-05-15T13:16:34.000Z</updated>
+        <summary type="html"><![CDATA[If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.
+What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten Data-Backed Truths Of User Experience ROI]]></title>
+        <id>https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/</id>
+        <link href="https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/"/>
+        <updated>2026-05-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carrie Webster)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Autonomous OSINT Agent in Python Using Claude's Tool Use API]]></title>
+        <id>6a06669ebaf09db7a64df6cf</id>
+        <link href="https://www.freecodecamp.org/news/build-autonomous-agent-in-python-using-claude/"/>
+        <updated>2026-05-15T00:19:42.000Z</updated>
+        <summary type="html"><![CDATA[When I started studying OSINT, I always felt I was just putting random values into software without deeply understanding what I was doing. After months in the field, I realized I wasn't really investi]]></summary>
+        <author>
+            <name>Tommaso Bertocchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Common DevOps Mistakes and How to Avoid Them — Tips for Startups]]></title>
         <id>6a060c22baf09db7a6253878</id>
@@ -152,36 +203,6 @@ Soon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Develop Chrome Extensions using Plasmo [Full Handbook]]]></title>
-        <id>6a0237edfca21b0d4b636175</id>
-        <link href="https://www.freecodecamp.org/news/how-to-develop-chrome-extensions-using-plasmo-handbook/"/>
-        <updated>2026-05-11T20:11:25.000Z</updated>
-        <summary type="html"><![CDATA[Chrome extensions are lightweight tools that enhance and personalize your browsing experience, whether that's managing passwords, translating pages, or adding entirely new features to websites you use]]></summary>
-        <author>
-            <name>Preston Mayieka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your “Simple Deploy” Turned Into a Week of Infrastructure Work]]></title>
-        <id>6a022071fca21b0d4b57374f</id>
-        <link href="https://www.freecodecamp.org/news/why-your-simple-deploy-turned-into-a-week-of-infrastructure-work/"/>
-        <updated>2026-05-11T18:31:13.000Z</updated>
-        <summary type="html"><![CDATA[If you're running production workloads, this guide is for you. It's not about side projects, early-stage experiments, or a single-service app with low traffic. This is for teams shipping real systems.]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Paper Review: Language Models are Unsupervised Multitask Learners (GPT-2)]]></title>
-        <id>6a01fbeffca21b0d4b40ae1d</id>
-        <link href="https://www.freecodecamp.org/news/ai-paper-review-language-models-are-unsupervised-multitask-learners-gpt-2/"/>
-        <updated>2026-05-11T15:55:27.000Z</updated>
-        <summary type="html"><![CDATA[Before models like ChatGPT became part of everyday life, AI systems were already getting surprisingly good at generating text. But there was still a major limitation: most models could only perform ta]]></summary>
-        <author>
-            <name>Mohammed Fahd Abrah</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using CSS corner-shape For Folded Corners]]></title>
         <id>https://css-tricks.com/?p=393431</id>
         <link href="https://css-tricks.com/using-css-corner-shape-for-folded-corners/"/>
@@ -307,17 +328,6 @@ The Importance of Native Randomness in CSS originally handwritten and published 
         <updated>2026-04-29T14:58:19.000Z</updated>
         <summary type="html"><![CDATA[The contrast() filter function increases or decreases the contrast of an element.
 contrast() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[contrast-color()]]></title>
-        <id>https://css-tricks.com/?page_id=392903</id>
-        <link href="https://css-tricks.com/almanac/functions/c/contrast-color/"/>
-        <updated>2026-04-29T14:57:48.000Z</updated>
-        <summary type="html"><![CDATA[The contrast-color() function takes a <color> and returns either black or white, whichever is the most contrasting color for that value.
-contrast-color() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Gabriel Shoyombo</name>
         </author>
