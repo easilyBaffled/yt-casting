@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-18T01:09:27.548Z</id>
+    <id>urn:2026-05-19T01:09:21.717Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-18T01:09:27.548Z</updated>
+    <updated>2026-05-19T01:09:21.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Paper Review: Language Models are Few-Shot Learners (GPT-3)]]></title>
+        <id>6a0b76a04e81b730489aea6f</id>
+        <link href="https://www.freecodecamp.org/news/ai-paper-review-language-models-are-few-shot-learners-gpt-3/"/>
+        <updated>2026-05-18T20:29:20.000Z</updated>
+        <summary type="html"><![CDATA[After GPT-2, it became clear that language models could do much more than researchers originally expected. Simply training a model to predict the next word had already started producing surprising abi]]></summary>
+        <author>
+            <name>Mohammed Fahd Abrah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross-Document View Transitions: The Gotchas Nobody Mentions]]></title>
+        <id>https://css-tricks.com/?p=393399</id>
+        <link href="https://css-tricks.com/cross-document-view-transitions-part-1/"/>
+        <updated>2026-05-18T13:47:19.000Z</updated>
+        <summary type="html"><![CDATA[This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.
+Cross-Document View Transitions: The Gotchas Nobody Mentions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Durgesh Rajubhai Pawar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Clean Time Series Data in Python]]></title>
+        <id>6a0ad57ee4a28cf570ec90ac</id>
+        <link href="https://www.freecodecamp.org/news/how-to-clean-time-series-data-in-python/"/>
+        <updated>2026-05-18T09:01:50.000Z</updated>
+        <summary type="html"><![CDATA[Real-world time series data is rarely clean. Sensors drop out, systems clock-drift, pipelines duplicate records, and manual data entry introduces mistakes. By the time a dataset reaches your notebook,]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 Tools Digital Nomads Need in 2026]]></title>
         <id>6a0773cec013adcbdafe0aea</id>
@@ -183,26 +214,6 @@ Soon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF to Image Converter Using JavaScript]]></title>
-        <id>6a024b87fca21b0d4b6cbcd9</id>
-        <link href="https://www.freecodecamp.org/news/pdf-to-image-converter/"/>
-        <updated>2026-05-11T21:35:03.000Z</updated>
-        <summary type="html"><![CDATA[Whether it’s invoices, scanned documents, reports, certificates, or receipts, users often need to convert PDF pages into image files quickly. Modern browsers make this much easier than before. Instead]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Optimal AI Agents That Actually Work – A Handbook for Devs]]></title>
-        <id>6a024a82fca21b0d4b6c5283</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-optimal-ai-agents-that-actually-work-a-handbook-for-devs/"/>
-        <updated>2026-05-11T21:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Since moving to Silicon Valley in 2025, I've seen AI everywhere. And after I attended NVIDIA GTC 2025, one thing became very clear from many conversations I had: most companies now have AI agents runn]]></summary>
-        <author>
-            <name>Tiago Capelo Monteiro</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using CSS corner-shape For Folded Corners]]></title>
         <id>https://css-tricks.com/?p=393431</id>
         <link href="https://css-tricks.com/using-css-corner-shape-for-folded-corners/"/>
@@ -319,17 +330,6 @@ The Importance of Native Randomness in CSS originally handwritten and published 
         <summary type="html"><![CDATA[Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[contrast()]]></title>
-        <id>https://css-tricks.com/?page_id=392899</id>
-        <link href="https://css-tricks.com/almanac/functions/c/contrast/"/>
-        <updated>2026-04-29T14:58:19.000Z</updated>
-        <summary type="html"><![CDATA[The contrast() filter function increases or decreases the contrast of an element.
-contrast() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
         </author>
     </entry>
     <entry>
