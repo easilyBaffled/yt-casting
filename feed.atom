@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-19T01:09:21.717Z</id>
+    <id>urn:2026-05-20T01:11:39.255Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-19T01:09:21.717Z</updated>
+    <updated>2026-05-20T01:11:39.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn to Build Automated Workflows with Manis AI]]></title>
+        <id>6a0cd0d68837277411a4c451</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-build-automated-workflows-with-manis-ai/"/>
+        <updated>2026-05-19T21:06:30.000Z</updated>
+        <summary type="html"><![CDATA[We just posted a complete guide to Manis AI over on the freeCodeCamp.org YouTube channel. Created by Beau Carnes (thats me!), this course will teach you how you can use agentic AI to automate real-wor]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Protect Your Privacy Online in 2026]]></title>
+        <id>6a0c88ab88372774116b600b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-protect-your-privacy-online-in-2026/"/>
+        <updated>2026-05-19T15:58:35.000Z</updated>
+        <summary type="html"><![CDATA[Online privacy has never been more talked about, yet it has never been more misunderstood. In 2026, most people believe they are “covered” because they use a VPN, browse in incognito mode, or occasion]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Watermark Tool Using JavaScript]]></title>
+        <id>6a0c86db88372774116a2372</id>
+        <link href="https://www.freecodecamp.org/news/build-a-pdf-watermark-tool-in-javascript/"/>
+        <updated>2026-05-19T15:50:51.000Z</updated>
+        <summary type="html"><![CDATA[PDF watermarks are commonly used for branding, document protection, approvals, confidential files, and internal document tracking. Whether it’s adding a company logo, a “CONFIDENTIAL” label, or a draf]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Paper Review: Language Models are Few-Shot Learners (GPT-3)]]></title>
         <id>6a0b76a04e81b730489aea6f</id>
@@ -119,16 +149,6 @@ Computing and Displaying Discounted Prices in CSS originally handwritten and pub
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Certified Cloud Practitioner Study Course – Pass the Exam With This Free 14-Hour Course]]></title>
-        <id>66b200a5276d158502db2eb1</id>
-        <link href="https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/"/>
-        <updated>2026-05-14T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Passing the AWS Certified Cloud Practitioner Exam is one of the first steps to a career in cloud development. And freeCodeCamp just published a free 14-hour course that will help you prepare for the e]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[rotateX()]]></title>
         <id>https://css-tricks.com/?page_id=393625</id>
         <link href="https://css-tricks.com/almanac/functions/r/rotatex/"/>
@@ -191,26 +211,6 @@ rotate() originally handwritten and published with love on CSS-Tricks. You shoul
 Soon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Mat Marquis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experimentation with Synthetic Control: Causal Inference for Global LLM Rollouts in Python]]></title>
-        <id>6a02b2a8937b84f7790d481e</id>
-        <link href="https://www.freecodecamp.org/news/product-experimentation-with-synthetic-control-causal-inference-for-global-llm-rollouts-in-python/"/>
-        <updated>2026-05-12T04:55:04.000Z</updated>
-        <summary type="html"><![CDATA[Every product experimentation team doing causal inference on LLM-based features eventually hits the same wall: when the provider ships a new model version, there's no holdout. Your infrastructure team]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Production-Ready AI Features with Flutter [Full Handbook for Devs]]]></title>
-        <id>6a025a4efca21b0d4b736480</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-production-ready-ai-features-with-flutter-handbook-for-devs/"/>
-        <updated>2026-05-11T22:38:06.000Z</updated>
-        <summary type="html"><![CDATA[You've probably seen the demos. A Flutter app, a text field, and a few lines calling the Gemini API – and out comes something that feels like magic. The audience applauds. Your product manager is alre]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
         </author>
     </entry>
     <entry>
@@ -350,16 +350,6 @@ The Importance of Native Randomness in CSS originally handwritten and published 
         <summary type="html"><![CDATA[In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design]]></title>
-        <id>https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/</id>
-        <link href="https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/"/>
-        <updated>2026-04-20T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
         </author>
     </entry>
 </feed>
