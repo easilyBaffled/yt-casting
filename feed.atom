@@ -1,16 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-20T01:11:39.255Z</id>
+    <id>urn:2026-05-21T01:11:23.489Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-20T01:11:39.255Z</updated>
+    <updated>2026-05-21T01:11:23.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Learn to Build Automated Workflows with Manis AI]]></title>
+        <title type="html"><![CDATA[How to Encrypt Kubernetes Traffic with cert-manager, Let's Encrypt, and Internal TLS]]></title>
+        <id>6a0df3b68b034602219e482c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/"/>
+        <updated>2026-05-20T17:47:34.000Z</updated>
+        <summary type="html"><![CDATA[Most engineers assume their Kubernetes cluster encrypts all of its traffic. It doesn't. The commands you run with kubectl are encrypted — your client and the API server speak TLS. The API server talki]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stack Overflow: When We Stop Asking]]></title>
+        <id>https://css-tricks.com/?p=393076</id>
+        <link href="https://css-tricks.com/stack-overflow-when-we-stop-asking/"/>
+        <updated>2026-05-20T13:51:34.000Z</updated>
+        <summary type="html"><![CDATA[It still hits like a ton of bricks to see the steep decline in Stack Overflow questions. What does that mean about learning in our industry?
+Stack Overflow: When We Stop Asking originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate from ASP.NET Framework to ASP.NET Core]]></title>
+        <id>6a0d28828837277411cbeeb3</id>
+        <link href="https://www.freecodecamp.org/news/migrate-from-asp-net-to-asp-net-core/"/>
+        <updated>2026-05-20T03:20:34.000Z</updated>
+        <summary type="html"><![CDATA[Migrating to ASP.NET Core is a strategic upgrade that improves performance, scalability, and cross-platform support. Instead of a risky full rewrite, you can use an incremental approach, refactor for]]></summary>
+        <author>
+            <name>Gopinath Karunanithi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to Build Automated Workflows with Manus AI]]></title>
         <id>6a0cd0d68837277411a4c451</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-build-automated-workflows-with-manis-ai/"/>
+        <link href="https://www.freecodecamp.org/news/learn-to-build-automated-workflows-with-manus-ai/"/>
         <updated>2026-05-19T21:06:30.000Z</updated>
-        <summary type="html"><![CDATA[We just posted a complete guide to Manis AI over on the freeCodeCamp.org YouTube channel. Created by Beau Carnes (thats me!), this course will teach you how you can use agentic AI to automate real-wor]]></summary>
+        <summary type="html"><![CDATA[We just posted a complete guide to Manus AI over on the freeCodeCamp.org YouTube channel. Created by Beau Carnes (thats me!), this course will teach you how you can use agentic AI to automate real-wor]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
@@ -115,26 +146,6 @@ What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More o
         <summary type="html"><![CDATA[When I started studying OSINT, I always felt I was just putting random values into software without deeply understanding what I was doing. After months in the field, I realized I wasn't really investi]]></summary>
         <author>
             <name>Tommaso Bertocchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common DevOps Mistakes and How to Avoid Them — Tips for Startups]]></title>
-        <id>6a060c22baf09db7a6253878</id>
-        <link href="https://www.freecodecamp.org/news/how-to-avoid-devops-mistakes/"/>
-        <updated>2026-05-14T17:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Most DevOps engineers don't fail because they lack knowledge about tools. They fail because nobody told them what not to do before they got into production. Startup environments make this worse. The p]]></summary>
-        <author>
-            <name>Tolani Akintayo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code for Beginners]]></title>
-        <id>6a05d970baf09db7a60994c5</id>
-        <link href="https://www.freecodecamp.org/news/claude-code-for-beginners/"/>
-        <updated>2026-05-14T14:17:20.000Z</updated>
-        <summary type="html"><![CDATA[AI-powered coding has evolved beyond simple chat interfaces. The latest leap forward is Claude Code, a command-line tool from Anthropic that lives directly in your terminal and understands your entire]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -309,17 +320,6 @@ What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More 
         <summary type="html"><![CDATA[Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joas Pambou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Importance of Native Randomness in CSS]]></title>
-        <id>https://css-tricks.com/?p=393373</id>
-        <link href="https://css-tricks.com/the-importance-of-native-randomness-in-css/"/>
-        <updated>2026-04-30T15:26:18.000Z</updated>
-        <summary type="html"><![CDATA[We're getting new functions for generating random numbers in CSS! But the road to get here has been a long and winding one.
-The Importance of Native Randomness in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Alvaro Montoro</name>
         </author>
     </entry>
     <entry>

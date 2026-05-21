@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=393076",
+          "author": "Sunkanmi Fafowora",
+          "description": "It still hits like a ton of bricks to see the steep decline in Stack Overflow questions. What does that mean about learning in our industry?\nStack Overflow: When We Stop Asking originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/stack-overflow-when-we-stop-asking/",
+          "publishedOn": "2026-05-20T13:51:34.000Z",
+          "wordCount": 4406,
+          "title": "Stack Overflow: When We Stop Asking",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/newspaper-stack-scaled-1.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=393399",
           "author": "Durgesh Rajubhai Pawar",
           "description": "This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.\nCross-Document View Transitions: The Gotchas Nobody Mentions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/cross-document-view-transitions-part-1/",
           "publishedOn": "2026-05-18T13:47:19.000Z",
-          "wordCount": 6468,
+          "wordCount": 6715,
           "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/loader-dots.jpg"
         },
@@ -87,7 +97,7 @@
           "description": "The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.\nSoon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
           "publishedOn": "2026-05-12T13:59:35.000Z",
-          "wordCount": 5438,
+          "wordCount": 5489,
           "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/js-shadow.png"
         },
@@ -155,16 +165,6 @@
           "wordCount": 3798,
           "title": "What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/wh10.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393373",
-          "author": "Alvaro Montoro",
-          "description": "We're getting new functions for generating random numbers in CSS! But the road to get here has been a long and winding one.\nThe Importance of Native Randomness in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/the-importance-of-native-randomness-in-css/",
-          "publishedOn": "2026-04-30T15:26:18.000Z",
-          "wordCount": 4350,
-          "title": "The Importance of Native Randomness in CSS",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/xUDzcUCN.png"
         }
       ]
     },
@@ -179,7 +179,7 @@
           "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
           "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
           "publishedOn": "2026-05-15T10:00:00.000Z",
-          "wordCount": 4913,
+          "wordCount": 4904,
           "title": "Ten Data-Backed Truths Of User Experience ROI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
@@ -194,7 +194,7 @@
           "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
           "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
           "publishedOn": "2026-05-13T13:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6269,
           "title": "Practical Interface Patterns For AI Transparency (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
@@ -209,7 +209,7 @@
           "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
           "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
           "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 8659,
           "title": "The Architecture Of Local-First Web Development",
           "enclosure": {
             "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
@@ -239,7 +239,7 @@
           "description": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
           "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
           "publishedOn": "2026-05-01T08:00:00.000Z",
-          "wordCount": 6547,
+          "wordCount": 6549,
           "title": "Designing Stable Interfaces For Streaming Content",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
@@ -254,7 +254,7 @@
           "description": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
           "publishedOn": "2026-04-30T11:00:00.000Z",
-          "wordCount": 4611,
+          "wordCount": 4622,
           "title": "A Fresh View In May (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -269,7 +269,7 @@
           "description": "AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.",
           "link": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
           "publishedOn": "2026-04-27T10:00:00.000Z",
-          "wordCount": 4608,
+          "wordCount": 4604,
           "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
@@ -284,7 +284,7 @@
           "description": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
           "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
           "publishedOn": "2026-04-22T10:00:00.000Z",
-          "wordCount": 4153,
+          "wordCount": 4149,
           "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
@@ -301,13 +301,33 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a0df3b68b034602219e482c",
+          "author": "Destiny Erhabor",
+          "description": "Most engineers assume their Kubernetes cluster encrypts all of its traffic. It doesn't. The commands you run with kubectl are encrypted — your client and the API server speak TLS. The API server talki",
+          "link": "https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/",
+          "publishedOn": "2026-05-20T17:47:34.000Z",
+          "wordCount": 5415,
+          "title": "How to Encrypt Kubernetes Traffic with cert-manager, Let's Encrypt, and Internal TLS",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/c1cf9847-fa0f-49f3-93f4-3c5c1e8ac4c0.png"
+        },
+        {
+          "id": "6a0d28828837277411cbeeb3",
+          "author": "Gopinath Karunanithi",
+          "description": "Migrating to ASP.NET Core is a strategic upgrade that improves performance, scalability, and cross-platform support. Instead of a risky full rewrite, you can use an incremental approach, refactor for",
+          "link": "https://www.freecodecamp.org/news/migrate-from-asp-net-to-asp-net-core/",
+          "publishedOn": "2026-05-20T03:20:34.000Z",
+          "wordCount": 3549,
+          "title": "How to Migrate from ASP.NET Framework to ASP.NET Core",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/b403b6fe-7924-4c2c-8ae2-ce089c743c76.png"
+        },
+        {
           "id": "6a0cd0d68837277411a4c451",
           "author": "Beau Carnes",
-          "description": "We just posted a complete guide to Manis AI over on the freeCodeCamp.org YouTube channel. Created by Beau Carnes (thats me!), this course will teach you how you can use agentic AI to automate real-wor",
-          "link": "https://www.freecodecamp.org/news/learn-to-build-automated-workflows-with-manis-ai/",
+          "description": "We just posted a complete guide to Manus AI over on the freeCodeCamp.org YouTube channel. Created by Beau Carnes (thats me!), this course will teach you how you can use agentic AI to automate real-wor",
+          "link": "https://www.freecodecamp.org/news/learn-to-build-automated-workflows-with-manus-ai/",
           "publishedOn": "2026-05-19T21:06:30.000Z",
           "wordCount": 1075,
-          "title": "Learn to Build Automated Workflows with Manis AI",
+          "title": "Learn to Build Automated Workflows with Manus AI",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/709efa02-e87a-4fa5-b317-a32c1715589d.jpg"
         },
         {
@@ -379,26 +399,6 @@
           "wordCount": 3188,
           "title": "How to Build an Autonomous OSINT Agent in Python Using Claude's Tool Use API",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/5890d77b-0678-4c68-a9c3-2304fb2a02ad.png"
-        },
-        {
-          "id": "6a060c22baf09db7a6253878",
-          "author": "Tolani Akintayo",
-          "description": "Most DevOps engineers don't fail because they lack knowledge about tools. They fail because nobody told them what not to do before they got into production. Startup environments make this worse. The p",
-          "link": "https://www.freecodecamp.org/news/how-to-avoid-devops-mistakes/",
-          "publishedOn": "2026-05-14T17:53:38.000Z",
-          "wordCount": 6282,
-          "title": "Common DevOps Mistakes and How to Avoid Them — Tips for Startups",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/6fcabd5e-272f-4f1d-b035-8241896e8296.png"
-        },
-        {
-          "id": "6a05d970baf09db7a60994c5",
-          "author": "Beau Carnes",
-          "description": "AI-powered coding has evolved beyond simple chat interfaces. The latest leap forward is Claude Code, a command-line tool from Anthropic that lives directly in your terminal and understands your entire",
-          "link": "https://www.freecodecamp.org/news/claude-code-for-beginners/",
-          "publishedOn": "2026-05-14T14:17:20.000Z",
-          "wordCount": 1031,
-          "title": "Claude Code for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/b16bbc4b-5455-4e95-8b77-49c5edaa9a04.jpg"
         }
       ]
     }
