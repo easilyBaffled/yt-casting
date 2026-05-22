@@ -17,7 +17,7 @@
           "description": "It still hits like a ton of bricks to see the steep decline in Stack Overflow questions. What does that mean about learning in our industry?\nStack Overflow: When We Stop Asking originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/stack-overflow-when-we-stop-asking/",
           "publishedOn": "2026-05-20T13:51:34.000Z",
-          "wordCount": 4406,
+          "wordCount": 4577,
           "title": "Stack Overflow: When We Stop Asking",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/newspaper-stack-scaled-1.png"
         },
@@ -27,7 +27,7 @@
           "description": "This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.\nCross-Document View Transitions: The Gotchas Nobody Mentions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/cross-document-view-transitions-part-1/",
           "publishedOn": "2026-05-18T13:47:19.000Z",
-          "wordCount": 6715,
+          "wordCount": 6726,
           "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/loader-dots.jpg"
         },
@@ -174,12 +174,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
+          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
+          "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
+          "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
+          "publishedOn": "2026-05-21T08:00:00.000Z",
+          "wordCount": 4904,
+          "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
           "author": "hello@smashingmagazine.com (Carrie Webster)",
           "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
           "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
           "publishedOn": "2026-05-15T10:00:00.000Z",
-          "wordCount": 4904,
+          "wordCount": 4912,
           "title": "Ten Data-Backed Truths Of User Experience ROI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
@@ -194,7 +209,7 @@
           "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
           "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
           "publishedOn": "2026-05-13T13:00:00.000Z",
-          "wordCount": 6269,
+          "wordCount": 6270,
           "title": "Practical Interface Patterns For AI Transparency (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
@@ -209,7 +224,7 @@
           "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
           "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
           "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": 8659,
+          "wordCount": 8652,
           "title": "The Architecture Of Local-First Web Development",
           "enclosure": {
             "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
@@ -239,7 +254,7 @@
           "description": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
           "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
           "publishedOn": "2026-05-01T08:00:00.000Z",
-          "wordCount": 6549,
+          "wordCount": 6544,
           "title": "Designing Stable Interfaces For Streaming Content",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
@@ -254,7 +269,7 @@
           "description": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
           "publishedOn": "2026-04-30T11:00:00.000Z",
-          "wordCount": 4622,
+          "wordCount": 4614,
           "title": "A Fresh View In May (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -269,7 +284,7 @@
           "description": "AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.",
           "link": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
           "publishedOn": "2026-04-27T10:00:00.000Z",
-          "wordCount": 4604,
+          "wordCount": 4610,
           "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
@@ -277,21 +292,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
-          "author": "hello@smashingmagazine.com (Carrie Webster)",
-          "description": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
-          "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
-          "publishedOn": "2026-04-22T10:00:00.000Z",
-          "wordCount": 4149,
-          "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg"
         }
       ]
     },
@@ -300,6 +300,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a0f78aad8e265f60d5f7b56",
+          "author": "Manish Shivanandhan",
+          "description": "Every production engineering team knows the pattern. A new project begins with energy. Product goals are clear. Deadlines are ambitious. Teams want to move quickly and deliver something customers can",
+          "link": "https://www.freecodecamp.org/news/how-to-avoid-rebuilding-infrastructure-for-every-new-project/",
+          "publishedOn": "2026-05-21T21:27:06.000Z",
+          "wordCount": 2404,
+          "title": "How to Avoid Rebuilding Infrastructure for Every New Project",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/6c414744-42af-430a-8bbd-76a33b564e4b.png"
+        },
+        {
+          "id": "6a0f57a1d8e265f60d4f8624",
+          "author": "Rajdeep Singh",
+          "description": "GitHub is a popular code collaboration platform for developers. You can use it to share, manage, and contribute to open-source codebases, save and work on your own code, and more. And to be a more eff",
+          "link": "https://www.freecodecamp.org/news/how-to-use-github-search-like-a-pro/",
+          "publishedOn": "2026-05-21T19:06:09.000Z",
+          "wordCount": 2661,
+          "title": "How to Use GitHub Search Like a Pro",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/0e61e7e1-619c-4a66-b994-6a888100d0dd.png"
+        },
+        {
+          "id": "6a0f4895d8e265f60d42650e",
+          "author": "Beau Carnes",
+          "description": "Traditional word processors require you to act as a writer, layout designer, and typesetter all at once. LaTeX automates the tedious design mechanics so you can focus entirely on your content. LaTeX i",
+          "link": "https://www.freecodecamp.org/news/learn-latex-in-41-hours/",
+          "publishedOn": "2026-05-21T18:01:57.000Z",
+          "wordCount": 1170,
+          "title": "Learn LaTeX in 41 Hours",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/83817630-820c-4713-9c42-6b8331fea403.jpg"
+        },
+        {
+          "id": "6a0f459fd8e265f60d40984d",
+          "author": "Beau Carnes",
+          "description": "Most developers learn JavaScript by memorizing rules and copying framework patterns. But when a weird production bug hits or a senior engineer asks a deep architectural question during an interview, s",
+          "link": "https://www.freecodecamp.org/news/think-like-the-javascript-engine/",
+          "publishedOn": "2026-05-21T17:49:19.000Z",
+          "wordCount": 1185,
+          "title": "Think Like the JavaScript Engine",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/33ed65b4-a837-490c-b215-e21554a739ad.jpg"
+        },
         {
           "id": "6a0df3b68b034602219e482c",
           "author": "Destiny Erhabor",
@@ -359,46 +399,6 @@
           "wordCount": 7677,
           "title": "AI Paper Review: Language Models are Few-Shot Learners (GPT-3)",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/9fd8e279-ebf3-4662-b204-737dd38b7648.png"
-        },
-        {
-          "id": "6a0ad57ee4a28cf570ec90ac",
-          "author": "Bala Priya C",
-          "description": "Real-world time series data is rarely clean. Sensors drop out, systems clock-drift, pipelines duplicate records, and manual data entry introduces mistakes. By the time a dataset reaches your notebook,",
-          "link": "https://www.freecodecamp.org/news/how-to-clean-time-series-data-in-python/",
-          "publishedOn": "2026-05-18T09:01:50.000Z",
-          "wordCount": 3939,
-          "title": "How to Clean Time Series Data in Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/bf717910-4e75-44c5-8ea1-fd55eb574100.png"
-        },
-        {
-          "id": "6a0773cec013adcbdafe0aea",
-          "author": "Manish Shivanandhan",
-          "description": "Digital nomadism has changed dramatically over the last few years. What started as a lifestyle trend for freelancers and travel creators has evolved into a serious way of working for developers, consu",
-          "link": "https://www.freecodecamp.org/news/tools-digital-nomads-need-in-2026/",
-          "publishedOn": "2026-05-15T19:28:14.000Z",
-          "wordCount": 2468,
-          "title": "7 Tools Digital Nomads Need in 2026",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/2c176eb4-df1e-4b40-8551-8b4b691a6ffe.png"
-        },
-        {
-          "id": "6a07203c99d875f5cd667635",
-          "author": "Sara Jadhav",
-          "description": "In this tutorial, you'll learn how to create a simple arithmetic calculator in Python with Tkinter. The project will be one of your first steps towards building an actual GUI in Python. This is a hand",
-          "link": "https://www.freecodecamp.org/news/build-a-calculator-with-tkinter-in-python/",
-          "publishedOn": "2026-05-15T13:31:40.000Z",
-          "wordCount": 4755,
-          "title": "How to Build a Calculator with Tkinter in Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/0ae14c91-3e47-464c-b392-1026321a7764.png"
-        },
-        {
-          "id": "6a06669ebaf09db7a64df6cf",
-          "author": "Tommaso Bertocchi",
-          "description": "When I started studying OSINT, I always felt I was just putting random values into software without deeply understanding what I was doing. After months in the field, I realized I wasn't really investi",
-          "link": "https://www.freecodecamp.org/news/build-autonomous-agent-in-python-using-claude/",
-          "publishedOn": "2026-05-15T00:19:42.000Z",
-          "wordCount": 3188,
-          "title": "How to Build an Autonomous OSINT Agent in Python Using Claude's Tool Use API",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/5890d77b-0678-4c68-a9c3-2304fb2a02ad.png"
         }
       ]
     }

@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-21T01:11:23.489Z</id>
+    <id>urn:2026-05-22T01:09:35.824Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-21T01:11:23.489Z</updated>
+    <updated>2026-05-22T01:09:35.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Avoid Rebuilding Infrastructure for Every New Project]]></title>
+        <id>6a0f78aad8e265f60d5f7b56</id>
+        <link href="https://www.freecodecamp.org/news/how-to-avoid-rebuilding-infrastructure-for-every-new-project/"/>
+        <updated>2026-05-21T21:27:06.000Z</updated>
+        <summary type="html"><![CDATA[Every production engineering team knows the pattern. A new project begins with energy. Product goals are clear. Deadlines are ambitious. Teams want to move quickly and deliver something customers can]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use GitHub Search Like a Pro]]></title>
+        <id>6a0f57a1d8e265f60d4f8624</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-github-search-like-a-pro/"/>
+        <updated>2026-05-21T19:06:09.000Z</updated>
+        <summary type="html"><![CDATA[GitHub is a popular code collaboration platform for developers. You can use it to share, manage, and contribute to open-source codebases, save and work on your own code, and more. And to be a more eff]]></summary>
+        <author>
+            <name>Rajdeep Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn LaTeX in 41 Hours]]></title>
+        <id>6a0f4895d8e265f60d42650e</id>
+        <link href="https://www.freecodecamp.org/news/learn-latex-in-41-hours/"/>
+        <updated>2026-05-21T18:01:57.000Z</updated>
+        <summary type="html"><![CDATA[Traditional word processors require you to act as a writer, layout designer, and typesetter all at once. LaTeX automates the tedious design mechanics so you can focus entirely on your content. LaTeX i]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Think Like the JavaScript Engine]]></title>
+        <id>6a0f459fd8e265f60d40984d</id>
+        <link href="https://www.freecodecamp.org/news/think-like-the-javascript-engine/"/>
+        <updated>2026-05-21T17:49:19.000Z</updated>
+        <summary type="html"><![CDATA[Most developers learn JavaScript by memorizing rules and copying framework patterns. But when a weird production bug hits or a senior engineer asks a deep architectural question during an interview, s]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`]]></title>
+        <id>https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/</id>
+        <link href="https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/"/>
+        <updated>2026-05-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Encrypt Kubernetes Traffic with cert-manager, Let's Encrypt, and Internal TLS]]></title>
         <id>6a0df3b68b034602219e482c</id>
@@ -88,36 +138,6 @@ Cross-Document View Transitions: The Gotchas Nobody Mentions originally handwrit
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Clean Time Series Data in Python]]></title>
-        <id>6a0ad57ee4a28cf570ec90ac</id>
-        <link href="https://www.freecodecamp.org/news/how-to-clean-time-series-data-in-python/"/>
-        <updated>2026-05-18T09:01:50.000Z</updated>
-        <summary type="html"><![CDATA[Real-world time series data is rarely clean. Sensors drop out, systems clock-drift, pipelines duplicate records, and manual data entry introduces mistakes. By the time a dataset reaches your notebook,]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Tools Digital Nomads Need in 2026]]></title>
-        <id>6a0773cec013adcbdafe0aea</id>
-        <link href="https://www.freecodecamp.org/news/tools-digital-nomads-need-in-2026/"/>
-        <updated>2026-05-15T19:28:14.000Z</updated>
-        <summary type="html"><![CDATA[Digital nomadism has changed dramatically over the last few years. What started as a lifestyle trend for freelancers and travel creators has evolved into a serious way of working for developers, consu]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Calculator with Tkinter in Python]]></title>
-        <id>6a07203c99d875f5cd667635</id>
-        <link href="https://www.freecodecamp.org/news/build-a-calculator-with-tkinter-in-python/"/>
-        <updated>2026-05-15T13:31:40.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll learn how to create a simple arithmetic calculator in Python with Tkinter. The project will be one of your first steps towards building an actual GUI in Python. This is a hand]]></summary>
-        <author>
-            <name>Sara Jadhav</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More]]></title>
         <id>https://css-tricks.com/?p=394879</id>
         <link href="https://css-tricks.com/whats-important-11/"/>
@@ -136,16 +156,6 @@ What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More o
         <summary type="html"><![CDATA[Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Autonomous OSINT Agent in Python Using Claude's Tool Use API]]></title>
-        <id>6a06669ebaf09db7a64df6cf</id>
-        <link href="https://www.freecodecamp.org/news/build-autonomous-agent-in-python-using-claude/"/>
-        <updated>2026-05-15T00:19:42.000Z</updated>
-        <summary type="html"><![CDATA[When I started studying OSINT, I always felt I was just putting random values into software without deeply understanding what I was doing. After months in the field, I realized I wasn't really investi]]></summary>
-        <author>
-            <name>Tommaso Bertocchi</name>
         </author>
     </entry>
     <entry>
@@ -340,16 +350,6 @@ What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More 
         <summary type="html"><![CDATA[AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Casey Hudetz and Eric Olive)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable]]></title>
-        <id>https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/</id>
-        <link href="https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/"/>
-        <updated>2026-04-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carrie Webster)</name>
         </author>
     </entry>
 </feed>
