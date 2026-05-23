@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=394429",
+          "author": "Temani Afif",
+          "description": "Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the current state of centering options today in 2026. \nThe State of CSS Centering in 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
+          "publishedOn": "2026-05-22T13:44:40.000Z",
+          "wordCount": 5427,
+          "title": "The State of CSS Centering in 2026",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/centered-text.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=393076",
           "author": "Sunkanmi Fafowora",
           "description": "It still hits like a ton of bricks to see the steep decline in Stack Overflow questions. What does that mean about learning in our industry?\nStack Overflow: When We Stop Asking originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -97,7 +107,7 @@
           "description": "The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.\nSoon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
           "publishedOn": "2026-05-12T13:59:35.000Z",
-          "wordCount": 5489,
+          "wordCount": 5549,
           "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/js-shadow.png"
         },
@@ -155,16 +165,6 @@
           "wordCount": 5267,
           "title": "Fixed-Height Cards: More Fragile Than They Look",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/borken-card-layout.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394456",
-          "author": "Daniel Schwarz",
-          "description": "Developers have been experimenting with HTML-in-Canvas, a hexagonal world map-analytics feature, a web-based OS for e-ink devices, replacing image sources using the content property, and more. This is What’s !important #10.\nWhat’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-10/",
-          "publishedOn": "2026-05-01T13:43:26.000Z",
-          "wordCount": 3798,
-          "title": "What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/wh10.jpg"
         }
       ]
     },
@@ -174,12 +174,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "What people say, feel, think, and do are often very different things. To understand the underlying reasons for user behavior, it helps to look beyond the surface and explore hidden motivations, root causes, and the different layers of reality that shape how people act. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.",
+          "link": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/",
+          "publishedOn": "2026-05-22T13:00:00.000Z",
+          "wordCount": 4356,
+          "title": "Four Levels Of Customer Understanding",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/four-levels-customer-understanding/four-levels-customer-understanding.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/four-levels-customer-understanding/four-levels-customer-understanding.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "author": "hello@smashingmagazine.com (Durgesh Pawar)",
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4904,
+          "wordCount": 4896,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -194,7 +209,7 @@
           "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
           "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
           "publishedOn": "2026-05-15T10:00:00.000Z",
-          "wordCount": 4912,
+          "wordCount": 4908,
           "title": "Ten Data-Backed Truths Of User Experience ROI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
@@ -224,7 +239,7 @@
           "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
           "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
           "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": 8652,
+          "wordCount": 8653,
           "title": "The Architecture Of Local-First Web Development",
           "enclosure": {
             "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
@@ -254,7 +269,7 @@
           "description": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
           "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
           "publishedOn": "2026-05-01T08:00:00.000Z",
-          "wordCount": 6544,
+          "wordCount": 6545,
           "title": "Designing Stable Interfaces For Streaming Content",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
@@ -269,7 +284,7 @@
           "description": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
           "publishedOn": "2026-04-30T11:00:00.000Z",
-          "wordCount": 4614,
+          "wordCount": 4605,
           "title": "A Fresh View In May (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -284,7 +299,7 @@
           "description": "AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.",
           "link": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
           "publishedOn": "2026-04-27T10:00:00.000Z",
-          "wordCount": 4610,
+          "wordCount": 4608,
           "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
@@ -300,6 +315,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a10ab6c1f237623ea28e372",
+          "author": "Rudrendu Paul",
+          "description": "Every product experimentation team running causal inference on LLM-based collaborative features eventually hits the same wall: your users aren't independent. Your team ships an AI meeting summarizer t",
+          "link": "https://www.freecodecamp.org/news/cluster-randomization-for-llm-based-tools-in-python/",
+          "publishedOn": "2026-05-22T19:15:56.000Z",
+          "wordCount": 5196,
+          "title": "Product Experimentation for Collaborative AI Features: Cluster Randomization for LLM-Based Tools in Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/35d6e16c-0c87-4160-9c02-2eb0db8505d7.png"
+        },
+        {
+          "id": "6a109b5d1f237623ea2023a3",
+          "author": "Atuoha Anthony",
+          "description": "There is a specific kind of friction that every Flutter developer who has tried to write a backend has felt. You spend your days writing expressive, null-safe, strongly typed Dart code on the frontend",
+          "link": "https://www.freecodecamp.org/news/how-to-use-dart-cloud-functions-and-the-firebase-admin-sdk/",
+          "publishedOn": "2026-05-22T18:07:25.000Z",
+          "wordCount": 14116,
+          "title": "How to Use Dart Cloud Functions and the Firebase Admin SDK: A Handbook for Developers",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/faa7ab26-537d-47f6-ae20-c34c2efbf408.png"
+        },
+        {
+          "id": "6a1070e71f237623ea06ca2d",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "Medical imaging is transforming healthcare. Researchers are training deep learning models to detect pneumonia from chest X-rays, estimate cardiac function from echocardiograms, and identify tumors fro",
+          "link": "https://www.freecodecamp.org/news/build-ai-image-de-identification-for-clinical-research/",
+          "publishedOn": "2026-05-22T15:06:15.000Z",
+          "wordCount": 2528,
+          "title": "How to Build an AI-Powered Medical Image De-Identification Pipeline for Clinical Research",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/04f2b51b-5590-4bde-9d2c-4af3a6d4237c.png"
+        },
+        {
+          "id": "6a106a2f1f237623ea0336d3",
+          "author": "Qudrat Ullah",
+          "description": "AI coding tools now offer much more than autocomplete. They can analyze your codebase, edit multiple files, execute commands, explain errors, generate tests, write documentation, and prepare pull requ",
+          "link": "https://www.freecodecamp.org/news/how-to-build-software-factory-with-claude-code/",
+          "publishedOn": "2026-05-22T14:37:35.000Z",
+          "wordCount": 19252,
+          "title": "How to Build a Software Factory with Claude Code: From Vibe Coding to Agentic Development",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/9dba291f-c5b1-4c0c-99a6-44941e60f014.png"
+        },
         {
           "id": "6a0f78aad8e265f60d5f7b56",
           "author": "Manish Shivanandhan",
@@ -359,46 +414,6 @@
           "wordCount": 3549,
           "title": "How to Migrate from ASP.NET Framework to ASP.NET Core",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/b403b6fe-7924-4c2c-8ae2-ce089c743c76.png"
-        },
-        {
-          "id": "6a0cd0d68837277411a4c451",
-          "author": "Beau Carnes",
-          "description": "We just posted a complete guide to Manus AI over on the freeCodeCamp.org YouTube channel. Created by Beau Carnes (thats me!), this course will teach you how you can use agentic AI to automate real-wor",
-          "link": "https://www.freecodecamp.org/news/learn-to-build-automated-workflows-with-manus-ai/",
-          "publishedOn": "2026-05-19T21:06:30.000Z",
-          "wordCount": 1075,
-          "title": "Learn to Build Automated Workflows with Manus AI",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/709efa02-e87a-4fa5-b317-a32c1715589d.jpg"
-        },
-        {
-          "id": "6a0c88ab88372774116b600b",
-          "author": "Manish Shivanandhan",
-          "description": "Online privacy has never been more talked about, yet it has never been more misunderstood. In 2026, most people believe they are “covered” because they use a VPN, browse in incognito mode, or occasion",
-          "link": "https://www.freecodecamp.org/news/how-to-protect-your-privacy-online-in-2026/",
-          "publishedOn": "2026-05-19T15:58:35.000Z",
-          "wordCount": 2661,
-          "title": "How to Protect Your Privacy Online in 2026",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/99ba3119-3b43-45d9-bcef-e3024b92b1a0.png"
-        },
-        {
-          "id": "6a0c86db88372774116a2372",
-          "author": "Bhavin Sheth",
-          "description": "PDF watermarks are commonly used for branding, document protection, approvals, confidential files, and internal document tracking. Whether it’s adding a company logo, a “CONFIDENTIAL” label, or a draf",
-          "link": "https://www.freecodecamp.org/news/build-a-pdf-watermark-tool-in-javascript/",
-          "publishedOn": "2026-05-19T15:50:51.000Z",
-          "wordCount": 2509,
-          "title": "How to Build a Browser-Based PDF Watermark Tool Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/7c8f47a5-8f4e-4404-97e8-bdc07a668816.png"
-        },
-        {
-          "id": "6a0b76a04e81b730489aea6f",
-          "author": "Mohammed Fahd Abrah",
-          "description": "After GPT-2, it became clear that language models could do much more than researchers originally expected. Simply training a model to predict the next word had already started producing surprising abi",
-          "link": "https://www.freecodecamp.org/news/ai-paper-review-language-models-are-few-shot-learners-gpt-3/",
-          "publishedOn": "2026-05-18T20:29:20.000Z",
-          "wordCount": 7677,
-          "title": "AI Paper Review: Language Models are Few-Shot Learners (GPT-3)",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/9fd8e279-ebf3-4662-b204-737dd38b7648.png"
         }
       ]
     }
