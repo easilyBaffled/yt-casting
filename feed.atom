@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-26T01:07:27.224Z</id>
+    <id>urn:2026-05-27T01:11:42.329Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-26T01:07:27.224Z</updated>
+    <updated>2026-05-27T01:11:42.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Technical Writing in the AI Age]]></title>
+        <id>https://css-tricks.com/?p=395048</id>
+        <link href="https://css-tricks.com/technical-writing-in-the-ai-age/"/>
+        <updated>2026-05-26T13:49:28.000Z</updated>
+        <summary type="html"><![CDATA[This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.
+Technical Writing in the AI Age originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Connect Your AI Coding Agent to a Browser on macOS]]></title>
+        <id>6a1594c1da253d50d4ae1277</id>
+        <link href="https://www.freecodecamp.org/news/how-to-connect-your-ai-coding-agent-to-a-browser-on-macos/"/>
+        <updated>2026-05-26T12:40:33.000Z</updated>
+        <summary type="html"><![CDATA[AI coding agents like Claude Code, Cursor, and the rest have gotten remarkably good at reading and writing code. But the moment they need to look at something on the web, they hit a wall. They can't s]]></summary>
+        <author>
+            <name>אחיה כהן</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cross-Document View Transitions: Scaling Across Hundreds of Elements]]></title>
         <id>https://css-tricks.com/?p=393441</id>
@@ -14,6 +35,16 @@
 Cross-Document View Transitions: Scaling Across Hundreds of Elements originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Durgesh Rajubhai Pawar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)]]></title>
+        <id>https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/</id>
+        <link href="https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/"/>
+        <updated>2026-05-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a moment in almost every usability session where a participant pauses at the login screen, types something, and glances up: checking whether they’re “doing it right.” That pause is a clear sign. They’ve already clocked that this isn’t a real app, and every data point collected after that moment is filtered through that awareness.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eric Joseph L.)</name>
         </author>
     </entry>
     <entry>
@@ -146,16 +177,6 @@ The State of CSS Centering in 2026 originally handwritten and published with lov
 Stack Overflow: When We Stop Asking originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Migrate from ASP.NET Framework to ASP.NET Core]]></title>
-        <id>6a0d28828837277411cbeeb3</id>
-        <link href="https://www.freecodecamp.org/news/migrate-from-asp-net-to-asp-net-core/"/>
-        <updated>2026-05-20T03:20:34.000Z</updated>
-        <summary type="html"><![CDATA[Migrating to ASP.NET Core is a strategic upgrade that improves performance, scalability, and cross-platform support. Instead of a risky full rewrite, you can use an incremental approach, refactor for]]></summary>
-        <author>
-            <name>Gopinath Karunanithi</name>
         </author>
     </entry>
     <entry>
@@ -302,17 +323,6 @@ Google’s Prompt API originally handwritten and published with love on CSS-Tric
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making Zigzag CSS Layouts With a Grid + Transform Trick]]></title>
-        <id>https://css-tricks.com/?p=393013</id>
-        <link href="https://css-tricks.com/zigzag-css-grid-layouts/"/>
-        <updated>2026-05-06T13:50:44.000Z</updated>
-        <summary type="html"><![CDATA[Most grid layouts sit in neat rows, perfectly aligned, like soldiers in formation. But sometimes you want something with more rhythm like, say, a zigzag pattern. Here's how to do it with CSS Grid.
-Making Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Durgesh Rajubhai Pawar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Architecture Of Local-First Web Development]]></title>
         <id>https://smashingmagazine.com/2026/05/architecture-local-first-web-development/</id>
         <link href="https://smashingmagazine.com/2026/05/architecture-local-first-web-development/"/>
@@ -350,16 +360,6 @@ Making Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten a
         <summary type="html"><![CDATA[Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams]]></title>
-        <id>https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/</id>
-        <link href="https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/"/>
-        <updated>2026-04-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Casey Hudetz and Eric Olive)</name>
         </author>
     </entry>
 </feed>
