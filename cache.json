@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=393536",
+          "author": "Preethi",
+          "description": "Until we get something like ::nth-letter, there are still some really cool text effects we can make from existing CSS features, like letter-spacing, ::first-word and ::first-line.\nRevealing Text With CSS letter-spacing originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/revealing-text-with-css-letter-spacing/",
+          "publishedOn": "2026-05-27T12:37:33.000Z",
+          "wordCount": 3459,
+          "title": "Revealing Text With CSS letter-spacing",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/revealing-text.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=395048",
           "author": "Geoff Graham",
           "description": "This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.\nTechnical Writing in the AI Age originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/technical-writing-in-the-ai-age/",
           "publishedOn": "2026-05-26T13:49:28.000Z",
-          "wordCount": 5429,
+          "wordCount": 5720,
           "title": "Technical Writing in the AI Age",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/technical-writing.jpg"
         },
@@ -37,7 +47,7 @@
           "description": "Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the current state of centering options today in 2026. \nThe State of CSS Centering in 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
           "publishedOn": "2026-05-22T13:44:40.000Z",
-          "wordCount": 5473,
+          "wordCount": 5423,
           "title": "The State of CSS Centering in 2026",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/centered-text.webp"
         },
@@ -57,7 +67,7 @@
           "description": "This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.\nCross-Document View Transitions: The Gotchas Nobody Mentions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/cross-document-view-transitions-part-1/",
           "publishedOn": "2026-05-18T13:47:19.000Z",
-          "wordCount": 6722,
+          "wordCount": 6680,
           "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/loader-dots.jpg"
         },
@@ -155,16 +165,6 @@
           "wordCount": 4164,
           "title": "A Scrollytelling Gift for Mum on Mother’s Day 2026",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/lee-mothers-day.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394653",
-          "author": "Geoff Graham",
-          "description": "Mat Marquis on Google pulling the web standards equivalent of U2 album marketing:\nAs a Chrome user, you’ll have received Gemini Nano in the form of a 4GB transfer recently; no permission asked or required. If you remove it, \n…\nGoogle’s Prompt API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/googles-prompt-api/",
-          "publishedOn": "2026-05-06T19:41:29.000Z",
-          "wordCount": 3345,
-          "title": "Google’s Prompt API",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/chrome-gemini.webp"
         }
       ]
     },
@@ -209,7 +209,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4895,
+          "wordCount": 4902,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -224,7 +224,7 @@
           "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
           "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
           "publishedOn": "2026-05-15T10:00:00.000Z",
-          "wordCount": 4909,
+          "wordCount": 4903,
           "title": "Ten Data-Backed Truths Of User Experience ROI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
@@ -239,7 +239,7 @@
           "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
           "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
           "publishedOn": "2026-05-13T13:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6267,
           "title": "Practical Interface Patterns For AI Transparency (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
@@ -254,7 +254,7 @@
           "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
           "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
           "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": 8637,
+          "wordCount": 8651,
           "title": "The Architecture Of Local-First Web Development",
           "enclosure": {
             "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
@@ -284,7 +284,7 @@
           "description": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
           "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
           "publishedOn": "2026-05-01T08:00:00.000Z",
-          "wordCount": 6553,
+          "wordCount": 6552,
           "title": "Designing Stable Interfaces For Streaming Content",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
@@ -299,7 +299,7 @@
           "description": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
           "publishedOn": "2026-04-30T11:00:00.000Z",
-          "wordCount": 4609,
+          "wordCount": 4619,
           "title": "A Fresh View In May (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -315,6 +315,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a17657ebadcd8afcb2bcdb4",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "Every Dart developer has written this at some point: try {   final user = await repository.getUser(id);   // do something with user } catch (e) {   // what is e? who knows.   print(e.toString()); } I",
+          "link": "https://www.freecodecamp.org/news/advanced-error-handling-in-dart-records-result-types-monads-and-freezed-exceptions/",
+          "publishedOn": "2026-05-27T21:43:26.000Z",
+          "wordCount": 4928,
+          "title": "Advanced Error Handling in Dart: Records, Result Types, Monads, and Freezed Exceptions",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/21795781-af21-4c57-9457-6c58f22af656.png"
+        },
+        {
+          "id": "6a17653cbadcd8afcb2bb430",
+          "author": "Mohammed Fahd Abrah",
+          "description": "When GPT-3 was released in 2020, it completely changed how people thought about language models. It showed that a sufficiently large neural network could learn tasks directly from prompts and examples",
+          "link": "https://www.freecodecamp.org/news/ai-paper-review-gpt-4-technical-report/",
+          "publishedOn": "2026-05-27T21:42:20.000Z",
+          "wordCount": 9827,
+          "title": "AI Paper Review: GPT-4 Technical Report (GPT-4)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2a5eb5e0-bd3c-4423-b9b5-b94edbaaba98.png"
+        },
+        {
+          "id": "6a175a04badcd8afcb276a4e",
+          "author": "Manish Shivanandhan",
+          "description": "Developers today build software in a world where the internet is fragmented. Websites change content based on geography. APIs introduce rate limits. Security systems block repeated requests. Testing e",
+          "link": "https://www.freecodecamp.org/news/top-5-proxy-providers-for-developers/",
+          "publishedOn": "2026-05-27T20:54:28.000Z",
+          "wordCount": 2150,
+          "title": "Top 5 Proxy Providers for Developers",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/405e0e85-bea8-4094-913a-d592966d8ccc.png"
+        },
+        {
+          "id": "6a171310badcd8afcb060460",
+          "author": "Osomudeya Zudonu",
+          "description": "Automation scripts often validate process completion instead of system health. A Kubernetes pod can be running while the application inside it can't authenticate to the database. A Terraform deploymen",
+          "link": "https://www.freecodecamp.org/news/how-to-use-bash-python-for-real-devops-automation-handbook-with-production-use-cases/",
+          "publishedOn": "2026-05-27T15:51:44.000Z",
+          "wordCount": 11595,
+          "title": "How to Use Bash & Python for Real DevOps Automation – Full Handbook with 5 Production Use Cases",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/73f2a745-c1b5-4cbb-8f97-2ba6c5230592.png"
+        },
+        {
+          "id": "6a17098ebadcd8afcb01782a",
+          "author": "Ilknur Eren",
+          "description": "CAPTCHAs – or the “I am not a robot” challenges – were originally designed to separate humans from bots. It started with deciphering some distorted text, then evolved into checking a box or boxes wher",
+          "link": "https://www.freecodecamp.org/news/how-captchas-affect-accessibility-problems-and-alternatives/",
+          "publishedOn": "2026-05-27T15:11:10.000Z",
+          "wordCount": 1945,
+          "title": "How CAPTCHAs Affect Accessibility: Problems, Workarounds, and Alternatives",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/a273f7cd-5fd3-49cf-942b-c2d4b6af2cc7.png"
+        },
+        {
+          "id": "6a17079fbadcd8afcb0097bf",
+          "author": "Bhavin Sheth",
+          "description": "Sometimes PDF pages appear upside down, sideways, or in the wrong orientation after scanning or exporting documents. Instead of re-creating the document manually, users usually just need a quick way t",
+          "link": "https://www.freecodecamp.org/news/how-to-rotate-pdf-pages/",
+          "publishedOn": "2026-05-27T15:02:55.000Z",
+          "wordCount": 2644,
+          "title": "How to Build a Browser-Based PDF Rotator Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b548434f-958d-438e-9294-b751a4a591be.png"
+        },
+        {
+          "id": "6a1706d0badcd8afcb00415d",
+          "author": "Ayantunji Timilehin",
+          "description": "Most developers think of AI the same way: you send data to a server, the server thinks, you get a response back. That mental model made sense for a long time. It still makes sense for a lot of use cas",
+          "link": "https://www.freecodecamp.org/news/build-ai-apps-in-the-browser-with-tensorflow-js-and-webgpu/",
+          "publishedOn": "2026-05-27T14:59:28.000Z",
+          "wordCount": 4352,
+          "title": "How to Build AI Apps in the Browser with TensorFlow.js and WebGPU",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/87141e6b-7529-4278-a2fa-ee8e4d9f9062.png"
+        },
         {
           "id": "6a1594c1da253d50d4ae1277",
           "author": "אחיה כהן",
@@ -344,76 +414,6 @@
           "wordCount": 14117,
           "title": "How to Use Dart Cloud Functions and the Firebase Admin SDK: A Handbook for Developers",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/faa7ab26-537d-47f6-ae20-c34c2efbf408.png"
-        },
-        {
-          "id": "6a1070e71f237623ea06ca2d",
-          "author": "Lakshmi Mahabaleshwara",
-          "description": "Medical imaging is transforming healthcare. Researchers are training deep learning models to detect pneumonia from chest X-rays, estimate cardiac function from echocardiograms, and identify tumors fro",
-          "link": "https://www.freecodecamp.org/news/build-ai-image-de-identification-for-clinical-research/",
-          "publishedOn": "2026-05-22T15:06:15.000Z",
-          "wordCount": 2528,
-          "title": "How to Build an AI-Powered Medical Image De-Identification Pipeline for Clinical Research",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/04f2b51b-5590-4bde-9d2c-4af3a6d4237c.png"
-        },
-        {
-          "id": "6a106a2f1f237623ea0336d3",
-          "author": "Qudrat Ullah",
-          "description": "AI coding tools now offer much more than autocomplete. They can analyze your codebase, edit multiple files, execute commands, explain errors, generate tests, write documentation, and prepare pull requ",
-          "link": "https://www.freecodecamp.org/news/how-to-build-software-factory-with-claude-code/",
-          "publishedOn": "2026-05-22T14:37:35.000Z",
-          "wordCount": 19252,
-          "title": "How to Build a Software Factory with Claude Code: From Vibe Coding to Agentic Development",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/9dba291f-c5b1-4c0c-99a6-44941e60f014.png"
-        },
-        {
-          "id": "6a0f78aad8e265f60d5f7b56",
-          "author": "Manish Shivanandhan",
-          "description": "Every production engineering team knows the pattern. A new project begins with energy. Product goals are clear. Deadlines are ambitious. Teams want to move quickly and deliver something customers can",
-          "link": "https://www.freecodecamp.org/news/how-to-avoid-rebuilding-infrastructure-for-every-new-project/",
-          "publishedOn": "2026-05-21T21:27:06.000Z",
-          "wordCount": 2404,
-          "title": "How to Avoid Rebuilding Infrastructure for Every New Project",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/6c414744-42af-430a-8bbd-76a33b564e4b.png"
-        },
-        {
-          "id": "6a0f57a1d8e265f60d4f8624",
-          "author": "Rajdeep Singh",
-          "description": "GitHub is a popular code collaboration platform for developers. You can use it to share, manage, and contribute to open-source codebases, save and work on your own code, and more. And to be a more eff",
-          "link": "https://www.freecodecamp.org/news/how-to-use-github-search-like-a-pro/",
-          "publishedOn": "2026-05-21T19:06:09.000Z",
-          "wordCount": 2661,
-          "title": "How to Use GitHub Search Like a Pro",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/0e61e7e1-619c-4a66-b994-6a888100d0dd.png"
-        },
-        {
-          "id": "6a0f4895d8e265f60d42650e",
-          "author": "Beau Carnes",
-          "description": "Traditional word processors require you to act as a writer, layout designer, and typesetter all at once. LaTeX automates the tedious design mechanics so you can focus entirely on your content. LaTeX i",
-          "link": "https://www.freecodecamp.org/news/learn-latex-in-41-hours/",
-          "publishedOn": "2026-05-21T18:01:57.000Z",
-          "wordCount": 1170,
-          "title": "Learn LaTeX in 41 Hours",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/83817630-820c-4713-9c42-6b8331fea403.jpg"
-        },
-        {
-          "id": "6a0f459fd8e265f60d40984d",
-          "author": "Beau Carnes",
-          "description": "Most developers learn JavaScript by memorizing rules and copying framework patterns. But when a weird production bug hits or a senior engineer asks a deep architectural question during an interview, s",
-          "link": "https://www.freecodecamp.org/news/think-like-the-javascript-engine/",
-          "publishedOn": "2026-05-21T17:49:19.000Z",
-          "wordCount": 1185,
-          "title": "Think Like the JavaScript Engine",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/33ed65b4-a837-490c-b215-e21554a739ad.jpg"
-        },
-        {
-          "id": "6a0df3b68b034602219e482c",
-          "author": "Destiny Erhabor",
-          "description": "Most engineers assume their Kubernetes cluster encrypts all of its traffic. It doesn't. The commands you run with kubectl are encrypted — your client and the API server speak TLS. The API server talki",
-          "link": "https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/",
-          "publishedOn": "2026-05-20T17:47:34.000Z",
-          "wordCount": 5415,
-          "title": "How to Encrypt Kubernetes Traffic with cert-manager, Let's Encrypt, and Internal TLS",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/c1cf9847-fa0f-49f3-93f4-3c5c1e8ac4c0.png"
         }
       ]
     }

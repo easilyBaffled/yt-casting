@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-27T01:11:42.329Z</id>
+    <id>urn:2026-05-28T01:03:48.276Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-27T01:11:42.329Z</updated>
+    <updated>2026-05-28T01:03:48.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Advanced Error Handling in Dart: Records, Result Types, Monads, and Freezed Exceptions]]></title>
+        <id>6a17657ebadcd8afcb2bcdb4</id>
+        <link href="https://www.freecodecamp.org/news/advanced-error-handling-in-dart-records-result-types-monads-and-freezed-exceptions/"/>
+        <updated>2026-05-27T21:43:26.000Z</updated>
+        <summary type="html"><![CDATA[Every Dart developer has written this at some point: try {   final user = await repository.getUser(id);   // do something with user } catch (e) {   // what is e? who knows.   print(e.toString()); } I]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Paper Review: GPT-4 Technical Report (GPT-4)]]></title>
+        <id>6a17653cbadcd8afcb2bb430</id>
+        <link href="https://www.freecodecamp.org/news/ai-paper-review-gpt-4-technical-report/"/>
+        <updated>2026-05-27T21:42:20.000Z</updated>
+        <summary type="html"><![CDATA[When GPT-3 was released in 2020, it completely changed how people thought about language models. It showed that a sufficiently large neural network could learn tasks directly from prompts and examples]]></summary>
+        <author>
+            <name>Mohammed Fahd Abrah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Proxy Providers for Developers]]></title>
+        <id>6a175a04badcd8afcb276a4e</id>
+        <link href="https://www.freecodecamp.org/news/top-5-proxy-providers-for-developers/"/>
+        <updated>2026-05-27T20:54:28.000Z</updated>
+        <summary type="html"><![CDATA[Developers today build software in a world where the internet is fragmented. Websites change content based on geography. APIs introduce rate limits. Security systems block repeated requests. Testing e]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Bash & Python for Real DevOps Automation – Full Handbook with 5 Production Use Cases]]></title>
+        <id>6a171310badcd8afcb060460</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-bash-python-for-real-devops-automation-handbook-with-production-use-cases/"/>
+        <updated>2026-05-27T15:51:44.000Z</updated>
+        <summary type="html"><![CDATA[Automation scripts often validate process completion instead of system health. A Kubernetes pod can be running while the application inside it can't authenticate to the database. A Terraform deploymen]]></summary>
+        <author>
+            <name>Osomudeya Zudonu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How CAPTCHAs Affect Accessibility: Problems, Workarounds, and Alternatives]]></title>
+        <id>6a17098ebadcd8afcb01782a</id>
+        <link href="https://www.freecodecamp.org/news/how-captchas-affect-accessibility-problems-and-alternatives/"/>
+        <updated>2026-05-27T15:11:10.000Z</updated>
+        <summary type="html"><![CDATA[CAPTCHAs – or the “I am not a robot” challenges – were originally designed to separate humans from bots. It started with deciphering some distorted text, then evolved into checking a box or boxes wher]]></summary>
+        <author>
+            <name>Ilknur Eren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Rotator Using JavaScript]]></title>
+        <id>6a17079fbadcd8afcb0097bf</id>
+        <link href="https://www.freecodecamp.org/news/how-to-rotate-pdf-pages/"/>
+        <updated>2026-05-27T15:02:55.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes PDF pages appear upside down, sideways, or in the wrong orientation after scanning or exporting documents. Instead of re-creating the document manually, users usually just need a quick way t]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build AI Apps in the Browser with TensorFlow.js and WebGPU]]></title>
+        <id>6a1706d0badcd8afcb00415d</id>
+        <link href="https://www.freecodecamp.org/news/build-ai-apps-in-the-browser-with-tensorflow-js-and-webgpu/"/>
+        <updated>2026-05-27T14:59:28.000Z</updated>
+        <summary type="html"><![CDATA[Most developers think of AI the same way: you send data to a server, the server thinks, you get a response back. That mental model made sense for a long time. It still makes sense for a lot of use cas]]></summary>
+        <author>
+            <name>Ayantunji Timilehin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revealing Text With CSS letter-spacing]]></title>
+        <id>https://css-tricks.com/?p=393536</id>
+        <link href="https://css-tricks.com/revealing-text-with-css-letter-spacing/"/>
+        <updated>2026-05-27T12:37:33.000Z</updated>
+        <summary type="html"><![CDATA[Until we get something like ::nth-letter, there are still some really cool text effects we can make from existing CSS features, like letter-spacing, ::first-word and ::first-line.
+Revealing Text With CSS letter-spacing originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Technical Writing in the AI Age]]></title>
         <id>https://css-tricks.com/?p=395048</id>
@@ -68,26 +149,6 @@ Cross-Document View Transitions: Scaling Across Hundreds of Elements originally 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build an AI-Powered Medical Image De-Identification Pipeline for Clinical Research]]></title>
-        <id>6a1070e71f237623ea06ca2d</id>
-        <link href="https://www.freecodecamp.org/news/build-ai-image-de-identification-for-clinical-research/"/>
-        <updated>2026-05-22T15:06:15.000Z</updated>
-        <summary type="html"><![CDATA[Medical imaging is transforming healthcare. Researchers are training deep learning models to detect pneumonia from chest X-rays, estimate cardiac function from echocardiograms, and identify tumors fro]]></summary>
-        <author>
-            <name>Lakshmi Mahabaleshwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Software Factory with Claude Code: From Vibe Coding to Agentic Development]]></title>
-        <id>6a106a2f1f237623ea0336d3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-software-factory-with-claude-code/"/>
-        <updated>2026-05-22T14:37:35.000Z</updated>
-        <summary type="html"><![CDATA[AI coding tools now offer much more than autocomplete. They can analyze your codebase, edit multiple files, execute commands, explain errors, generate tests, write documentation, and prepare pull requ]]></summary>
-        <author>
-            <name>Qudrat Ullah</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The State of CSS Centering in 2026]]></title>
         <id>https://css-tricks.com/?p=394429</id>
         <link href="https://css-tricks.com/the-state-of-css-centering-in-2026/"/>
@@ -109,46 +170,6 @@ The State of CSS Centering in 2026 originally handwritten and published with lov
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Avoid Rebuilding Infrastructure for Every New Project]]></title>
-        <id>6a0f78aad8e265f60d5f7b56</id>
-        <link href="https://www.freecodecamp.org/news/how-to-avoid-rebuilding-infrastructure-for-every-new-project/"/>
-        <updated>2026-05-21T21:27:06.000Z</updated>
-        <summary type="html"><![CDATA[Every production engineering team knows the pattern. A new project begins with energy. Product goals are clear. Deadlines are ambitious. Teams want to move quickly and deliver something customers can]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use GitHub Search Like a Pro]]></title>
-        <id>6a0f57a1d8e265f60d4f8624</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-github-search-like-a-pro/"/>
-        <updated>2026-05-21T19:06:09.000Z</updated>
-        <summary type="html"><![CDATA[GitHub is a popular code collaboration platform for developers. You can use it to share, manage, and contribute to open-source codebases, save and work on your own code, and more. And to be a more eff]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn LaTeX in 41 Hours]]></title>
-        <id>6a0f4895d8e265f60d42650e</id>
-        <link href="https://www.freecodecamp.org/news/learn-latex-in-41-hours/"/>
-        <updated>2026-05-21T18:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Traditional word processors require you to act as a writer, layout designer, and typesetter all at once. LaTeX automates the tedious design mechanics so you can focus entirely on your content. LaTeX i]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Think Like the JavaScript Engine]]></title>
-        <id>6a0f459fd8e265f60d40984d</id>
-        <link href="https://www.freecodecamp.org/news/think-like-the-javascript-engine/"/>
-        <updated>2026-05-21T17:49:19.000Z</updated>
-        <summary type="html"><![CDATA[Most developers learn JavaScript by memorizing rules and copying framework patterns. But when a weird production bug hits or a senior engineer asks a deep architectural question during an interview, s]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`]]></title>
         <id>https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/</id>
         <link href="https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/"/>
@@ -156,16 +177,6 @@ The State of CSS Centering in 2026 originally handwritten and published with lov
         <summary type="html"><![CDATA[Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Encrypt Kubernetes Traffic with cert-manager, Let's Encrypt, and Internal TLS]]></title>
-        <id>6a0df3b68b034602219e482c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/"/>
-        <updated>2026-05-20T17:47:34.000Z</updated>
-        <summary type="html"><![CDATA[Most engineers assume their Kubernetes cluster encrypts all of its traffic. It doesn't. The commands you run with kubectl are encrypted — your client and the API server speak TLS. The API server talki]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
         </author>
     </entry>
     <entry>
@@ -307,19 +318,6 @@ Using CSS corner-shape For Folded Corners originally handwritten and published
 A Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s Prompt API]]></title>
-        <id>https://css-tricks.com/?p=394653</id>
-        <link href="https://css-tricks.com/googles-prompt-api/"/>
-        <updated>2026-05-06T19:41:29.000Z</updated>
-        <summary type="html"><![CDATA[Mat Marquis on Google pulling the web standards equivalent of U2 album marketing:
-As a Chrome user, you’ll have received Gemini Nano in the form of a 4GB transfer recently; no permission asked or required. If you remove it, 
-…
-Google’s Prompt API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
