@@ -17,7 +17,7 @@
           "description": "Until we get something like ::nth-letter, there are still some really cool text effects we can make from existing CSS features, like letter-spacing, ::first-word and ::first-line.\nRevealing Text With CSS letter-spacing originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/revealing-text-with-css-letter-spacing/",
           "publishedOn": "2026-05-27T12:37:33.000Z",
-          "wordCount": 3459,
+          "wordCount": 3508,
           "title": "Revealing Text With CSS letter-spacing",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/revealing-text.webp"
         },
@@ -27,7 +27,7 @@
           "description": "This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.\nTechnical Writing in the AI Age originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/technical-writing-in-the-ai-age/",
           "publishedOn": "2026-05-26T13:49:28.000Z",
-          "wordCount": 5720,
+          "wordCount": 5846,
           "title": "Technical Writing in the AI Age",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/technical-writing.jpg"
         },
@@ -174,6 +174,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
+          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
+          "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
+          "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
+          "publishedOn": "2026-05-28T13:00:00.000Z",
+          "wordCount": 5657,
+          "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/",
           "author": "hello@smashingmagazine.com (Eric Joseph L.)",
           "description": "There’s a moment in almost every usability session where a participant pauses at the login screen, types something, and glances up: checking whether they’re “doing it right.” That pause is a clear sign. They’ve already clocked that this isn’t a real app, and every data point collected after that moment is filtered through that awareness.",
@@ -209,7 +224,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4902,
+          "wordCount": 4894,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -224,7 +239,7 @@
           "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
           "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
           "publishedOn": "2026-05-15T10:00:00.000Z",
-          "wordCount": 4903,
+          "wordCount": 4911,
           "title": "Ten Data-Backed Truths Of User Experience ROI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
@@ -239,7 +254,7 @@
           "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
           "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
           "publishedOn": "2026-05-13T13:00:00.000Z",
-          "wordCount": 6267,
+          "wordCount": 6270,
           "title": "Practical Interface Patterns For AI Transparency (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
@@ -254,7 +269,7 @@
           "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
           "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
           "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": 8651,
+          "wordCount": 8646,
           "title": "The Architecture Of Local-First Web Development",
           "enclosure": {
             "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
@@ -284,7 +299,7 @@
           "description": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
           "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
           "publishedOn": "2026-05-01T08:00:00.000Z",
-          "wordCount": 6552,
+          "wordCount": 6554,
           "title": "Designing Stable Interfaces For Streaming Content",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
@@ -299,7 +314,7 @@
           "description": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
           "publishedOn": "2026-04-30T11:00:00.000Z",
-          "wordCount": 4619,
+          "wordCount": 4624,
           "title": "A Fresh View In May (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -315,6 +330,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a18c1667825875483411965",
+          "author": "Chudi Nnorukam",
+          "description": "I scanned 111,076 of the top 200,000 websites on the internet looking for a specific HTTP header. I found exactly zero. Not one domain has shipped WebMCP in production. Not a single Fortune 500 site.",
+          "link": "https://www.freecodecamp.org/news/a-developers-guide-to-webmcp/",
+          "publishedOn": "2026-05-28T22:27:50.000Z",
+          "wordCount": 4342,
+          "title": "A Developer's Guide to WebMCP: Shipping a 0% Adoption Standard",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/650e6602-7993-423a-9d74-d6b88a6034e4.png"
+        },
+        {
+          "id": "6a18c124782587548340fa90",
+          "author": "Shubham Katara",
+          "description": "In this article, you'll learn how to design and build a secure, scalable hybrid cloud platform that connects your on‑premises Kubernetes infrastructure to Google Cloud Platform. This allows on‑prem ap",
+          "link": "https://www.freecodecamp.org/news/build-a-hybrid-cloud-platform-with-google-cloud-services-and-on-premise-k8s-infra/",
+          "publishedOn": "2026-05-28T22:26:44.000Z",
+          "wordCount": 4924,
+          "title": "How to Build a Hybrid Cloud Platform with Google Cloud Services and On-Premise Kubernetes Infrastructure",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a86db163-f513-48bd-8194-18c6cb894615.png"
+        },
+        {
+          "id": "6a18bdb078258754833f8205",
+          "author": "David Aniebo",
+          "description": "APIs are designed for human developers. People read documentation, infer the intent behind an endpoint, and know how to handle edge cases when something unexpected happens. AI agents don't have that c",
+          "link": "https://www.freecodecamp.org/news/how-to-design-apis-for-ai-agents/",
+          "publishedOn": "2026-05-28T22:12:00.000Z",
+          "wordCount": 2702,
+          "title": "How to Design APIs for AI Agents",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/056b20d6-7409-4b6e-a29c-0b48061a7508.png"
+        },
+        {
+          "id": "6a18a887782587548336b8a6",
+          "author": "Beau Carnes",
+          "description": "Master the entire UI/UX design workflow. We just published a comprehensive six-hour course on the freeCodeCamp.org YouTube channel that takes you from Figma basics to professional-grade, high-fidelity",
+          "link": "https://www.freecodecamp.org/news/learn-figma-for-ui-ux-design/",
+          "publishedOn": "2026-05-28T20:41:43.000Z",
+          "wordCount": 1018,
+          "title": "Learn Figma for UI/UX Design",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/a196373f-56b7-41ac-beb8-702b80415d37.jpg"
+        },
+        {
+          "id": "6a1890cd78258754832949d4",
+          "author": "Rudrendu Paul",
+          "description": "In April 2026, the 2X AI Innovation Lab published the inaugural AI Visibility Index, analyzing how 70 B2B companies appear across the generative AI environments that buyers now use to research and sho",
+          "link": "https://www.freecodecamp.org/news/what-to-do-when-your-customer-is-an-ai-agent/",
+          "publishedOn": "2026-05-28T19:00:29.000Z",
+          "wordCount": 3194,
+          "title": "When Your Customer Is an AI Agent: How B2B Companies Stay Visible When Buyers Are AI Agents",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/31808e09-6aa0-4cf1-8412-c1e8f4d7e2d6.png"
+        },
+        {
+          "id": "6a186b4960295e5547e0936d",
+          "author": "Ayobami Adejumo",
+          "description": "When I first read GDPR Article 32, I made a mistake. I thought it was a legal document. But it's not. It's an infrastructure specification. The regulation says you need \"appropriate technical measures",
+          "link": "https://www.freecodecamp.org/news/gdpr-article-32-for-software-engineers-technical-controls-implementations-and-auditor-questions/",
+          "publishedOn": "2026-05-28T16:20:25.000Z",
+          "wordCount": 5018,
+          "title": "GDPR Article 32 for Software Engineers: Technical Controls, Implementations, and Auditor Questions",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c73c68e8-7485-4993-a21f-84653ba29a10.png"
+        },
+        {
+          "id": "6a186a9260295e5547e04628",
+          "author": "Ashutosh Krishna",
+          "description": "If you have used ChatGPT, you know how magical it feels. You ask a question, and it instantly generates a highly articulate answer. But you also probably know its biggest flaw. If you ask it about you",
+          "link": "https://www.freecodecamp.org/news/rag-explained-simply-with-a-real-project/",
+          "publishedOn": "2026-05-28T16:17:22.000Z",
+          "wordCount": 5227,
+          "title": "RAG Explained Simply with a Real Project",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5dc3370a-a536-43f6-850e-223928f99870.png"
+        },
+        {
+          "id": "6a183a86badcd8afcb9da431",
+          "author": "Beau Carnes",
+          "description": "Master the transition from simple prototypes to production-grade RAG systems by addressing the critical scaling, debugging, and security challenges that standard tutorials often ignore. We just posted",
+          "link": "https://www.freecodecamp.org/news/production-rag-with-langchain-vector-databases/",
+          "publishedOn": "2026-05-28T12:52:22.000Z",
+          "wordCount": 1141,
+          "title": "Production RAG with LangChain & Vector Databases",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/373e1c14-905f-461d-acd6-3adae358e41b.jpg"
+        },
         {
           "id": "6a17657ebadcd8afcb2bcdb4",
           "author": "Oluwaseyi Fatunmole",
@@ -334,86 +429,6 @@
           "wordCount": 9827,
           "title": "AI Paper Review: GPT-4 Technical Report (GPT-4)",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2a5eb5e0-bd3c-4423-b9b5-b94edbaaba98.png"
-        },
-        {
-          "id": "6a175a04badcd8afcb276a4e",
-          "author": "Manish Shivanandhan",
-          "description": "Developers today build software in a world where the internet is fragmented. Websites change content based on geography. APIs introduce rate limits. Security systems block repeated requests. Testing e",
-          "link": "https://www.freecodecamp.org/news/top-5-proxy-providers-for-developers/",
-          "publishedOn": "2026-05-27T20:54:28.000Z",
-          "wordCount": 2150,
-          "title": "Top 5 Proxy Providers for Developers",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/405e0e85-bea8-4094-913a-d592966d8ccc.png"
-        },
-        {
-          "id": "6a171310badcd8afcb060460",
-          "author": "Osomudeya Zudonu",
-          "description": "Automation scripts often validate process completion instead of system health. A Kubernetes pod can be running while the application inside it can't authenticate to the database. A Terraform deploymen",
-          "link": "https://www.freecodecamp.org/news/how-to-use-bash-python-for-real-devops-automation-handbook-with-production-use-cases/",
-          "publishedOn": "2026-05-27T15:51:44.000Z",
-          "wordCount": 11595,
-          "title": "How to Use Bash & Python for Real DevOps Automation – Full Handbook with 5 Production Use Cases",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/73f2a745-c1b5-4cbb-8f97-2ba6c5230592.png"
-        },
-        {
-          "id": "6a17098ebadcd8afcb01782a",
-          "author": "Ilknur Eren",
-          "description": "CAPTCHAs – or the “I am not a robot” challenges – were originally designed to separate humans from bots. It started with deciphering some distorted text, then evolved into checking a box or boxes wher",
-          "link": "https://www.freecodecamp.org/news/how-captchas-affect-accessibility-problems-and-alternatives/",
-          "publishedOn": "2026-05-27T15:11:10.000Z",
-          "wordCount": 1945,
-          "title": "How CAPTCHAs Affect Accessibility: Problems, Workarounds, and Alternatives",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/a273f7cd-5fd3-49cf-942b-c2d4b6af2cc7.png"
-        },
-        {
-          "id": "6a17079fbadcd8afcb0097bf",
-          "author": "Bhavin Sheth",
-          "description": "Sometimes PDF pages appear upside down, sideways, or in the wrong orientation after scanning or exporting documents. Instead of re-creating the document manually, users usually just need a quick way t",
-          "link": "https://www.freecodecamp.org/news/how-to-rotate-pdf-pages/",
-          "publishedOn": "2026-05-27T15:02:55.000Z",
-          "wordCount": 2644,
-          "title": "How to Build a Browser-Based PDF Rotator Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b548434f-958d-438e-9294-b751a4a591be.png"
-        },
-        {
-          "id": "6a1706d0badcd8afcb00415d",
-          "author": "Ayantunji Timilehin",
-          "description": "Most developers think of AI the same way: you send data to a server, the server thinks, you get a response back. That mental model made sense for a long time. It still makes sense for a lot of use cas",
-          "link": "https://www.freecodecamp.org/news/build-ai-apps-in-the-browser-with-tensorflow-js-and-webgpu/",
-          "publishedOn": "2026-05-27T14:59:28.000Z",
-          "wordCount": 4352,
-          "title": "How to Build AI Apps in the Browser with TensorFlow.js and WebGPU",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/87141e6b-7529-4278-a2fa-ee8e4d9f9062.png"
-        },
-        {
-          "id": "6a1594c1da253d50d4ae1277",
-          "author": "אחיה כהן",
-          "description": "AI coding agents like Claude Code, Cursor, and the rest have gotten remarkably good at reading and writing code. But the moment they need to look at something on the web, they hit a wall. They can't s",
-          "link": "https://www.freecodecamp.org/news/how-to-connect-your-ai-coding-agent-to-a-browser-on-macos/",
-          "publishedOn": "2026-05-26T12:40:33.000Z",
-          "wordCount": 3838,
-          "title": "How to Connect Your AI Coding Agent to a Browser on macOS",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/7e77f1c5-6942-4dbe-a3c6-ca74cc4354e5.png"
-        },
-        {
-          "id": "6a10ab6c1f237623ea28e372",
-          "author": "Rudrendu Paul",
-          "description": "Every product experimentation team running causal inference on LLM-based collaborative features eventually hits the same wall: your users aren't independent. Your team ships an AI meeting summarizer t",
-          "link": "https://www.freecodecamp.org/news/cluster-randomization-for-llm-based-tools-in-python/",
-          "publishedOn": "2026-05-22T19:15:56.000Z",
-          "wordCount": 5196,
-          "title": "Product Experimentation for Collaborative AI Features: Cluster Randomization for LLM-Based Tools in Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/35d6e16c-0c87-4160-9c02-2eb0db8505d7.png"
-        },
-        {
-          "id": "6a109b5d1f237623ea2023a3",
-          "author": "Atuoha Anthony",
-          "description": "There is a specific kind of friction that every Flutter developer who has tried to write a backend has felt. You spend your days writing expressive, null-safe, strongly typed Dart code on the frontend",
-          "link": "https://www.freecodecamp.org/news/how-to-use-dart-cloud-functions-and-the-firebase-admin-sdk/",
-          "publishedOn": "2026-05-22T18:07:25.000Z",
-          "wordCount": 14117,
-          "title": "How to Use Dart Cloud Functions and the Firebase Admin SDK: A Handbook for Developers",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/faa7ab26-537d-47f6-ae20-c34c2efbf408.png"
         }
       ]
     }

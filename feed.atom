@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-28T01:03:48.276Z</id>
+    <id>urn:2026-05-29T01:13:28.991Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-28T01:03:48.276Z</updated>
+    <updated>2026-05-29T01:13:28.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Developer's Guide to WebMCP: Shipping a 0% Adoption Standard]]></title>
+        <id>6a18c1667825875483411965</id>
+        <link href="https://www.freecodecamp.org/news/a-developers-guide-to-webmcp/"/>
+        <updated>2026-05-28T22:27:50.000Z</updated>
+        <summary type="html"><![CDATA[I scanned 111,076 of the top 200,000 websites on the internet looking for a specific HTTP header. I found exactly zero. Not one domain has shipped WebMCP in production. Not a single Fortune 500 site.]]></summary>
+        <author>
+            <name>Chudi Nnorukam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Hybrid Cloud Platform with Google Cloud Services and On-Premise Kubernetes Infrastructure]]></title>
+        <id>6a18c124782587548340fa90</id>
+        <link href="https://www.freecodecamp.org/news/build-a-hybrid-cloud-platform-with-google-cloud-services-and-on-premise-k8s-infra/"/>
+        <updated>2026-05-28T22:26:44.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to design and build a secure, scalable hybrid cloud platform that connects your on‑premises Kubernetes infrastructure to Google Cloud Platform. This allows on‑prem ap]]></summary>
+        <author>
+            <name>Shubham Katara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design APIs for AI Agents]]></title>
+        <id>6a18bdb078258754833f8205</id>
+        <link href="https://www.freecodecamp.org/news/how-to-design-apis-for-ai-agents/"/>
+        <updated>2026-05-28T22:12:00.000Z</updated>
+        <summary type="html"><![CDATA[APIs are designed for human developers. People read documentation, infer the intent behind an endpoint, and know how to handle edge cases when something unexpected happens. AI agents don't have that c]]></summary>
+        <author>
+            <name>David Aniebo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Figma for UI/UX Design]]></title>
+        <id>6a18a887782587548336b8a6</id>
+        <link href="https://www.freecodecamp.org/news/learn-figma-for-ui-ux-design/"/>
+        <updated>2026-05-28T20:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Master the entire UI/UX design workflow. We just published a comprehensive six-hour course on the freeCodeCamp.org YouTube channel that takes you from Figma basics to professional-grade, high-fidelity]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Your Customer Is an AI Agent: How B2B Companies Stay Visible When Buyers Are AI Agents]]></title>
+        <id>6a1890cd78258754832949d4</id>
+        <link href="https://www.freecodecamp.org/news/what-to-do-when-your-customer-is-an-ai-agent/"/>
+        <updated>2026-05-28T19:00:29.000Z</updated>
+        <summary type="html"><![CDATA[In April 2026, the 2X AI Innovation Lab published the inaugural AI Visibility Index, analyzing how 70 B2B companies appear across the generative AI environments that buyers now use to research and sho]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GDPR Article 32 for Software Engineers: Technical Controls, Implementations, and Auditor Questions]]></title>
+        <id>6a186b4960295e5547e0936d</id>
+        <link href="https://www.freecodecamp.org/news/gdpr-article-32-for-software-engineers-technical-controls-implementations-and-auditor-questions/"/>
+        <updated>2026-05-28T16:20:25.000Z</updated>
+        <summary type="html"><![CDATA[When I first read GDPR Article 32, I made a mistake. I thought it was a legal document. But it's not. It's an infrastructure specification. The regulation says you need "appropriate technical measures]]></summary>
+        <author>
+            <name>Ayobami Adejumo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAG Explained Simply with a Real Project]]></title>
+        <id>6a186a9260295e5547e04628</id>
+        <link href="https://www.freecodecamp.org/news/rag-explained-simply-with-a-real-project/"/>
+        <updated>2026-05-28T16:17:22.000Z</updated>
+        <summary type="html"><![CDATA[If you have used ChatGPT, you know how magical it feels. You ask a question, and it instantly generates a highly articulate answer. But you also probably know its biggest flaw. If you ask it about you]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`]]></title>
+        <id>https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/</id>
+        <link href="https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/"/>
+        <updated>2026-05-28T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Production RAG with LangChain & Vector Databases]]></title>
+        <id>6a183a86badcd8afcb9da431</id>
+        <link href="https://www.freecodecamp.org/news/production-rag-with-langchain-vector-databases/"/>
+        <updated>2026-05-28T12:52:22.000Z</updated>
+        <summary type="html"><![CDATA[Master the transition from simple prototypes to production-grade RAG systems by addressing the critical scaling, debugging, and security challenges that standard tutorials often ignore. We just posted]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Advanced Error Handling in Dart: Records, Result Types, Monads, and Freezed Exceptions]]></title>
         <id>6a17657ebadcd8afcb2bcdb4</id>
@@ -23,56 +113,6 @@
         <summary type="html"><![CDATA[When GPT-3 was released in 2020, it completely changed how people thought about language models. It showed that a sufficiently large neural network could learn tasks directly from prompts and examples]]></summary>
         <author>
             <name>Mohammed Fahd Abrah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Proxy Providers for Developers]]></title>
-        <id>6a175a04badcd8afcb276a4e</id>
-        <link href="https://www.freecodecamp.org/news/top-5-proxy-providers-for-developers/"/>
-        <updated>2026-05-27T20:54:28.000Z</updated>
-        <summary type="html"><![CDATA[Developers today build software in a world where the internet is fragmented. Websites change content based on geography. APIs introduce rate limits. Security systems block repeated requests. Testing e]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Bash & Python for Real DevOps Automation – Full Handbook with 5 Production Use Cases]]></title>
-        <id>6a171310badcd8afcb060460</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-bash-python-for-real-devops-automation-handbook-with-production-use-cases/"/>
-        <updated>2026-05-27T15:51:44.000Z</updated>
-        <summary type="html"><![CDATA[Automation scripts often validate process completion instead of system health. A Kubernetes pod can be running while the application inside it can't authenticate to the database. A Terraform deploymen]]></summary>
-        <author>
-            <name>Osomudeya Zudonu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How CAPTCHAs Affect Accessibility: Problems, Workarounds, and Alternatives]]></title>
-        <id>6a17098ebadcd8afcb01782a</id>
-        <link href="https://www.freecodecamp.org/news/how-captchas-affect-accessibility-problems-and-alternatives/"/>
-        <updated>2026-05-27T15:11:10.000Z</updated>
-        <summary type="html"><![CDATA[CAPTCHAs – or the “I am not a robot” challenges – were originally designed to separate humans from bots. It started with deciphering some distorted text, then evolved into checking a box or boxes wher]]></summary>
-        <author>
-            <name>Ilknur Eren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF Rotator Using JavaScript]]></title>
-        <id>6a17079fbadcd8afcb0097bf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-rotate-pdf-pages/"/>
-        <updated>2026-05-27T15:02:55.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes PDF pages appear upside down, sideways, or in the wrong orientation after scanning or exporting documents. Instead of re-creating the document manually, users usually just need a quick way t]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build AI Apps in the Browser with TensorFlow.js and WebGPU]]></title>
-        <id>6a1706d0badcd8afcb00415d</id>
-        <link href="https://www.freecodecamp.org/news/build-ai-apps-in-the-browser-with-tensorflow-js-and-webgpu/"/>
-        <updated>2026-05-27T14:59:28.000Z</updated>
-        <summary type="html"><![CDATA[Most developers think of AI the same way: you send data to a server, the server thinks, you get a response back. That mental model made sense for a long time. It still makes sense for a lot of use cas]]></summary>
-        <author>
-            <name>Ayantunji Timilehin</name>
         </author>
     </entry>
     <entry>
@@ -98,16 +138,6 @@ Technical Writing in the AI Age originally handwritten and published with love o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Connect Your AI Coding Agent to a Browser on macOS]]></title>
-        <id>6a1594c1da253d50d4ae1277</id>
-        <link href="https://www.freecodecamp.org/news/how-to-connect-your-ai-coding-agent-to-a-browser-on-macos/"/>
-        <updated>2026-05-26T12:40:33.000Z</updated>
-        <summary type="html"><![CDATA[AI coding agents like Claude Code, Cursor, and the rest have gotten remarkably good at reading and writing code. But the moment they need to look at something on the web, they hit a wall. They can't s]]></summary>
-        <author>
-            <name>אחיה כהן</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cross-Document View Transitions: Scaling Across Hundreds of Elements]]></title>
         <id>https://css-tricks.com/?p=393441</id>
         <link href="https://css-tricks.com/cross-document-view-transitions-part-2/"/>
@@ -126,26 +156,6 @@ Cross-Document View Transitions: Scaling Across Hundreds of Elements originally 
         <summary type="html"><![CDATA[There’s a moment in almost every usability session where a participant pauses at the login screen, types something, and glances up: checking whether they’re “doing it right.” That pause is a clear sign. They’ve already clocked that this isn’t a real app, and every data point collected after that moment is filtered through that awareness.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Joseph L.)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experimentation for Collaborative AI Features: Cluster Randomization for LLM-Based Tools in Python]]></title>
-        <id>6a10ab6c1f237623ea28e372</id>
-        <link href="https://www.freecodecamp.org/news/cluster-randomization-for-llm-based-tools-in-python/"/>
-        <updated>2026-05-22T19:15:56.000Z</updated>
-        <summary type="html"><![CDATA[Every product experimentation team running causal inference on LLM-based collaborative features eventually hits the same wall: your users aren't independent. Your team ships an AI meeting summarizer t]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Dart Cloud Functions and the Firebase Admin SDK: A Handbook for Developers]]></title>
-        <id>6a109b5d1f237623ea2023a3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-dart-cloud-functions-and-the-firebase-admin-sdk/"/>
-        <updated>2026-05-22T18:07:25.000Z</updated>
-        <summary type="html"><![CDATA[There is a specific kind of friction that every Flutter developer who has tried to write a backend has felt. You spend your days writing expressive, null-safe, strongly typed Dart code on the frontend]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
         </author>
     </entry>
     <entry>
