@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395357",
+          "author": "Daniel Schwarz",
+          "description": "The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.\nWhat’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-12/",
+          "publishedOn": "2026-05-29T13:25:38.000Z",
+          "wordCount": 3479,
+          "title": "What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/Screenshot-2026-05-28-at-2.31.26-PM.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=393536",
           "author": "Preethi",
           "description": "Until we get something like ::nth-letter, there are still some really cool text effects we can make from existing CSS features, like letter-spacing, ::first-word and ::first-line.\nRevealing Text With CSS letter-spacing originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -37,7 +47,7 @@
           "description": "Every view-transition-name on a page must be unique. The problem is that every pseudo-element selector in your CSS targets a specific name, so your animation styles explode into an unmanageable wall of selectors.\nCross-Document View Transitions: Scaling Across Hundreds of Elements originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/cross-document-view-transitions-part-2/",
           "publishedOn": "2026-05-25T13:46:54.000Z",
-          "wordCount": 6521,
+          "wordCount": 6436,
           "title": "Cross-Document View Transitions: Scaling Across Hundreds of Elements",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/dots-loader.jpg"
         },
@@ -57,7 +67,7 @@
           "description": "It still hits like a ton of bricks to see the steep decline in Stack Overflow questions. What does that mean about learning in our industry?\nStack Overflow: When We Stop Asking originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/stack-overflow-when-we-stop-asking/",
           "publishedOn": "2026-05-20T13:51:34.000Z",
-          "wordCount": 4829,
+          "wordCount": 4779,
           "title": "Stack Overflow: When We Stop Asking",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/newspaper-stack-scaled-1.png"
         },
@@ -77,7 +87,7 @@
           "description": "If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.\nWhat’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-11/",
           "publishedOn": "2026-05-15T13:16:34.000Z",
-          "wordCount": 3638,
+          "wordCount": 3588,
           "title": "What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/wh11.jpg"
         },
@@ -87,7 +97,7 @@
           "description": "A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features like attr(), mod(), and round().\nComputing and Displaying Discounted Prices in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/",
           "publishedOn": "2026-05-14T14:05:01.000Z",
-          "wordCount": 4009,
+          "wordCount": 3959,
           "title": "Computing and Displaying Discounted Prices in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/css-computed-price.png"
         },
@@ -97,7 +107,7 @@
           "description": "The rotateX() function rotates an element around the x-axis in a three-dimensional space\nrotateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/r/rotatex/",
           "publishedOn": "2026-05-13T14:36:54.000Z",
-          "wordCount": 4618,
+          "wordCount": 4586,
           "title": "rotateX()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -107,7 +117,7 @@
           "description": "The rotateY() function rotates an element around its vertical y-axis.\nrotateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/r/rotatey/",
           "publishedOn": "2026-05-13T14:33:58.000Z",
-          "wordCount": 4714,
+          "wordCount": 4682,
           "title": "rotateY()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -117,7 +127,7 @@
           "description": "The rotateZ() function rotates an element around its z-axis, so clockwise or counterclockwise. \nrotateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/r/rotatez/",
           "publishedOn": "2026-05-13T14:33:03.000Z",
-          "wordCount": 3996,
+          "wordCount": 3929,
           "title": "rotateZ()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -127,7 +137,7 @@
           "description": "The rotate() function spins an element either clockwise or counterclockwise in a 2D plane.\nrotate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/r/rotate/",
           "publishedOn": "2026-05-13T14:32:47.000Z",
-          "wordCount": 4198,
+          "wordCount": 4131,
           "title": "rotate()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -137,7 +147,7 @@
           "description": "The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.\nSoon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
           "publishedOn": "2026-05-12T13:59:35.000Z",
-          "wordCount": 5549,
+          "wordCount": 5464,
           "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/js-shadow.png"
         },
@@ -147,7 +157,7 @@
           "description": "I came across Kitty Giraudel’s folded corners technique. I’ve been on a bit of a corner-shape kick lately, so I figured that corner-shape could be used to create folded corners as well.\nUsing CSS corner-shape For Folded Corners originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/using-css-corner-shape-for-folded-corners/",
           "publishedOn": "2026-05-08T13:54:10.000Z",
-          "wordCount": 4425,
+          "wordCount": 4375,
           "title": "Using CSS corner-shape For Folded Corners",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/04/corner-shape-fold-5-1.mp4",
@@ -155,16 +165,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_4309AEC000A3E54B3EAE7D9665BB7D541E09DE1556E769AE721013146BE52BD2_1775704329444_6.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394649",
-          "author": "Lee Meyer",
-          "description": "I will explain how my mum inspired this 2026 Mother’s Day scrollytelling experiment — but also, how she inspired my approach to dev and life.\nA Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/",
-          "publishedOn": "2026-05-07T14:22:38.000Z",
-          "wordCount": 4164,
-          "title": "A Scrollytelling Gift for Mum on Mother’s Day 2026",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/lee-mothers-day.jpg"
         }
       ]
     },
@@ -179,7 +179,7 @@
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5657,
+          "wordCount": 5662,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -224,7 +224,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4894,
+          "wordCount": 4897,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -239,7 +239,7 @@
           "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
           "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
           "publishedOn": "2026-05-15T10:00:00.000Z",
-          "wordCount": 4911,
+          "wordCount": 4915,
           "title": "Ten Data-Backed Truths Of User Experience ROI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
@@ -254,7 +254,7 @@
           "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
           "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
           "publishedOn": "2026-05-13T13:00:00.000Z",
-          "wordCount": 6270,
+          "wordCount": 6267,
           "title": "Practical Interface Patterns For AI Transparency (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
@@ -269,7 +269,7 @@
           "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
           "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
           "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": 8646,
+          "wordCount": 8653,
           "title": "The Architecture Of Local-First Web Development",
           "enclosure": {
             "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
@@ -299,7 +299,7 @@
           "description": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
           "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
           "publishedOn": "2026-05-01T08:00:00.000Z",
-          "wordCount": 6554,
+          "wordCount": 6551,
           "title": "Designing Stable Interfaces For Streaming Content",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
@@ -307,21 +307,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
-          "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
-          "publishedOn": "2026-04-30T11:00:00.000Z",
-          "wordCount": 4624,
-          "title": "A Fresh View In May (2026 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png"
         }
       ]
     },
@@ -331,6 +316,96 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a1a129da369e7c9ad1b3aa9",
+          "author": "Nikhil Adithyan",
+          "description": "The AI capex trade is usually discussed like one clean idea. Capex simply means capital expenditure, or the money companies spend on long-term assets like data centers, chips, servers, power systems,",
+          "link": "https://www.freecodecamp.org/news/beyond-nvidia-where-the-ai-infra-trade-actually-shows-up/",
+          "publishedOn": "2026-05-29T22:26:37.000Z",
+          "wordCount": 4485,
+          "title": "Beyond NVIDIA: Where the AI Infra Trade Actually Shows Up",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/31d12d22-a89b-44c1-8786-ef568be6e6b8.png"
+        },
+        {
+          "id": "6a1a0e6f7c004897e1634856",
+          "author": "Bhavin Sheth",
+          "description": "When you're working with contracts, reports, invoices, manuals, or academic documents, page numbers make navigation much easier. Instead of manually editing every page, modern JavaScript libraries let",
+          "link": "https://www.freecodecamp.org/news/build-pdf-page-numbering-tool-javascript/",
+          "publishedOn": "2026-05-29T22:08:47.000Z",
+          "wordCount": 2484,
+          "title": "How to Build a PDF Page Numbering Tool in the Browser Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7a7cae32-562c-4c72-b273-04f9205415f4.png"
+        },
+        {
+          "id": "6a19fc09a8acc9e04bced197",
+          "author": "Shradha Puri",
+          "description": "It’s been three years since I started using my wearables to count my steps. Three years of trying to hit the daily 10K target, closing rings, and going to sleep knowing that I accomplished something p",
+          "link": "https://www.freecodecamp.org/news/tech-giants-wearable-data-race/",
+          "publishedOn": "2026-05-29T20:50:17.000Z",
+          "wordCount": 2749,
+          "title": "How Step Counters Work in Wearables and Why Different Devices Give Different Results",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7a4f79f7-d490-4711-9245-6545c14b5244.png"
+        },
+        {
+          "id": "6a19f51f7cae2251376e62cb",
+          "author": "Sumit Saha",
+          "description": "HTML has always supported streaming. The server doesn't need to build an entire page in memory before sending it to the browser. It can send the initial HTML first, then send more chunks as each chunk",
+          "link": "https://www.freecodecamp.org/news/how-declarative-partial-updates-work-in-html/",
+          "publishedOn": "2026-05-29T20:20:47.000Z",
+          "wordCount": 6153,
+          "title": "How Declarative Partial Updates Work in HTML",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d63aaead-37ef-4218-a3db-1f507d638317.png"
+        },
+        {
+          "id": "6a19ccc19e433f18f384364b",
+          "author": "Manish Shivanandhan",
+          "description": "Every company says it wants speed. Roadmaps talk about velocity. Leadership meetings talk about reducing cycle time. Quarterly goals talk about faster execution and quicker releases. Every business wa",
+          "link": "https://www.freecodecamp.org/news/the-tradeoff-that-slows-production-teams-down-flexibility-vs-actually-shipping/",
+          "publishedOn": "2026-05-29T17:28:33.000Z",
+          "wordCount": 2427,
+          "title": "The Tradeoff That Slows Production Teams Down: Flexibility vs Actually Shipping",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/495a017a-0f6f-4e3b-8d55-6c3854917c51.png"
+        },
+        {
+          "id": "6a19c8fd9e433f18f3823c7c",
+          "author": "Rishi Raj Jain",
+          "description": "If you’ve built a RAG (Retrieval-Augmented Generation) system in the past year, you’ve probably hit the wall where your LLM returns confidently wrong answers, cites information that doesn’t exist, or",
+          "link": "https://www.freecodecamp.org/news/how-contextual-embeddings-and-hybrid-search-fix-retrieval-failures/",
+          "publishedOn": "2026-05-29T17:12:29.000Z",
+          "wordCount": 3534,
+          "title": "How Contextual Embeddings and Hybrid Search Fix Retrieval Failures",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/fffeb399-42d0-441b-8aef-9f12d4c134e7.png"
+        },
+        {
+          "id": "6a19af25b55c6a731d1db097",
+          "author": "Shradha Puri",
+          "description": "Wearable IoT technology has become an important part of today’s elder care, as it can help detect falls and alert caregivers or family members immediately after an incident. This technology combines s",
+          "link": "https://www.freecodecamp.org/news/how-wearable-iot-enables-real-time-fall-detection-and-alerts/",
+          "publishedOn": "2026-05-29T15:22:13.000Z",
+          "wordCount": 2775,
+          "title": "How Wearable IoT Enables Real-Time Fall Detection and Alerts",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/604b9b54-e36a-4cea-b64b-50e035fb04f2.png"
+        },
+        {
+          "id": "6a19aed9b55c6a731d1d7c06",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "I built a clean, well-structured deep learning pipeline using MONAI (Medical Open Network for AI) on a public abdominal ultrasound dataset. The pipeline included: proper subject-grouped train/validat",
+          "link": "https://www.freecodecamp.org/news/why-your-deep-learning-model-isn-t-learning-data-problems-in-medical-imaging/",
+          "publishedOn": "2026-05-29T15:20:57.000Z",
+          "wordCount": 2909,
+          "title": "Why Your Deep Learning Model Isn't Learning: Diagnosing Data Problems in Medical Imaging",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/36be814e-4189-4905-9470-1cb5860e7124.png"
+        },
+        {
+          "id": "6a19ae75b55c6a731d1d3963",
+          "author": "Beau Carnes",
+          "description": "Web scraping has evolved. If you’ve ever tried to pull data from a site, only to be hit with a CAPTCHA, an IP ban, or a \"403 Forbidden\" error, you know that modern websites are built to block automate",
+          "link": "https://www.freecodecamp.org/news/build-professional-web-scrapers-that-actually-work/",
+          "publishedOn": "2026-05-29T15:19:17.000Z",
+          "wordCount": 1170,
+          "title": "Build Professional Web Scrapers That Actually Work",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/504ac9dd-9526-4ee7-829c-3c3d1661eb24.jpg"
+        },
+        {
           "id": "6a18c1667825875483411965",
           "author": "Chudi Nnorukam",
           "description": "I scanned 111,076 of the top 200,000 websites on the internet looking for a specific HTTP header. I found exactly zero. Not one domain has shipped WebMCP in production. Not a single Fortune 500 site.",
@@ -339,96 +414,6 @@
           "wordCount": 4342,
           "title": "A Developer's Guide to WebMCP: Shipping a 0% Adoption Standard",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/650e6602-7993-423a-9d74-d6b88a6034e4.png"
-        },
-        {
-          "id": "6a18c124782587548340fa90",
-          "author": "Shubham Katara",
-          "description": "In this article, you'll learn how to design and build a secure, scalable hybrid cloud platform that connects your on‑premises Kubernetes infrastructure to Google Cloud Platform. This allows on‑prem ap",
-          "link": "https://www.freecodecamp.org/news/build-a-hybrid-cloud-platform-with-google-cloud-services-and-on-premise-k8s-infra/",
-          "publishedOn": "2026-05-28T22:26:44.000Z",
-          "wordCount": 4924,
-          "title": "How to Build a Hybrid Cloud Platform with Google Cloud Services and On-Premise Kubernetes Infrastructure",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a86db163-f513-48bd-8194-18c6cb894615.png"
-        },
-        {
-          "id": "6a18bdb078258754833f8205",
-          "author": "David Aniebo",
-          "description": "APIs are designed for human developers. People read documentation, infer the intent behind an endpoint, and know how to handle edge cases when something unexpected happens. AI agents don't have that c",
-          "link": "https://www.freecodecamp.org/news/how-to-design-apis-for-ai-agents/",
-          "publishedOn": "2026-05-28T22:12:00.000Z",
-          "wordCount": 2702,
-          "title": "How to Design APIs for AI Agents",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/056b20d6-7409-4b6e-a29c-0b48061a7508.png"
-        },
-        {
-          "id": "6a18a887782587548336b8a6",
-          "author": "Beau Carnes",
-          "description": "Master the entire UI/UX design workflow. We just published a comprehensive six-hour course on the freeCodeCamp.org YouTube channel that takes you from Figma basics to professional-grade, high-fidelity",
-          "link": "https://www.freecodecamp.org/news/learn-figma-for-ui-ux-design/",
-          "publishedOn": "2026-05-28T20:41:43.000Z",
-          "wordCount": 1018,
-          "title": "Learn Figma for UI/UX Design",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/a196373f-56b7-41ac-beb8-702b80415d37.jpg"
-        },
-        {
-          "id": "6a1890cd78258754832949d4",
-          "author": "Rudrendu Paul",
-          "description": "In April 2026, the 2X AI Innovation Lab published the inaugural AI Visibility Index, analyzing how 70 B2B companies appear across the generative AI environments that buyers now use to research and sho",
-          "link": "https://www.freecodecamp.org/news/what-to-do-when-your-customer-is-an-ai-agent/",
-          "publishedOn": "2026-05-28T19:00:29.000Z",
-          "wordCount": 3194,
-          "title": "When Your Customer Is an AI Agent: How B2B Companies Stay Visible When Buyers Are AI Agents",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/31808e09-6aa0-4cf1-8412-c1e8f4d7e2d6.png"
-        },
-        {
-          "id": "6a186b4960295e5547e0936d",
-          "author": "Ayobami Adejumo",
-          "description": "When I first read GDPR Article 32, I made a mistake. I thought it was a legal document. But it's not. It's an infrastructure specification. The regulation says you need \"appropriate technical measures",
-          "link": "https://www.freecodecamp.org/news/gdpr-article-32-for-software-engineers-technical-controls-implementations-and-auditor-questions/",
-          "publishedOn": "2026-05-28T16:20:25.000Z",
-          "wordCount": 5018,
-          "title": "GDPR Article 32 for Software Engineers: Technical Controls, Implementations, and Auditor Questions",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c73c68e8-7485-4993-a21f-84653ba29a10.png"
-        },
-        {
-          "id": "6a186a9260295e5547e04628",
-          "author": "Ashutosh Krishna",
-          "description": "If you have used ChatGPT, you know how magical it feels. You ask a question, and it instantly generates a highly articulate answer. But you also probably know its biggest flaw. If you ask it about you",
-          "link": "https://www.freecodecamp.org/news/rag-explained-simply-with-a-real-project/",
-          "publishedOn": "2026-05-28T16:17:22.000Z",
-          "wordCount": 5227,
-          "title": "RAG Explained Simply with a Real Project",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5dc3370a-a536-43f6-850e-223928f99870.png"
-        },
-        {
-          "id": "6a183a86badcd8afcb9da431",
-          "author": "Beau Carnes",
-          "description": "Master the transition from simple prototypes to production-grade RAG systems by addressing the critical scaling, debugging, and security challenges that standard tutorials often ignore. We just posted",
-          "link": "https://www.freecodecamp.org/news/production-rag-with-langchain-vector-databases/",
-          "publishedOn": "2026-05-28T12:52:22.000Z",
-          "wordCount": 1141,
-          "title": "Production RAG with LangChain & Vector Databases",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/373e1c14-905f-461d-acd6-3adae358e41b.jpg"
-        },
-        {
-          "id": "6a17657ebadcd8afcb2bcdb4",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "Every Dart developer has written this at some point: try {   final user = await repository.getUser(id);   // do something with user } catch (e) {   // what is e? who knows.   print(e.toString()); } I",
-          "link": "https://www.freecodecamp.org/news/advanced-error-handling-in-dart-records-result-types-monads-and-freezed-exceptions/",
-          "publishedOn": "2026-05-27T21:43:26.000Z",
-          "wordCount": 4928,
-          "title": "Advanced Error Handling in Dart: Records, Result Types, Monads, and Freezed Exceptions",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/21795781-af21-4c57-9457-6c58f22af656.png"
-        },
-        {
-          "id": "6a17653cbadcd8afcb2bb430",
-          "author": "Mohammed Fahd Abrah",
-          "description": "When GPT-3 was released in 2020, it completely changed how people thought about language models. It showed that a sufficiently large neural network could learn tasks directly from prompts and examples",
-          "link": "https://www.freecodecamp.org/news/ai-paper-review-gpt-4-technical-report/",
-          "publishedOn": "2026-05-27T21:42:20.000Z",
-          "wordCount": 9827,
-          "title": "AI Paper Review: GPT-4 Technical Report (GPT-4)",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2a5eb5e0-bd3c-4423-b9b5-b94edbaaba98.png"
         }
       ]
     }

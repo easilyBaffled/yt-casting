@@ -1,10 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-29T01:13:28.991Z</id>
+    <id>urn:2026-05-30T01:08:12.174Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-29T01:13:28.991Z</updated>
+    <updated>2026-05-30T01:08:12.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Beyond NVIDIA: Where the AI Infra Trade Actually Shows Up]]></title>
+        <id>6a1a129da369e7c9ad1b3aa9</id>
+        <link href="https://www.freecodecamp.org/news/beyond-nvidia-where-the-ai-infra-trade-actually-shows-up/"/>
+        <updated>2026-05-29T22:26:37.000Z</updated>
+        <summary type="html"><![CDATA[The AI capex trade is usually discussed like one clean idea. Capex simply means capital expenditure, or the money companies spend on long-term assets like data centers, chips, servers, power systems,]]></summary>
+        <author>
+            <name>Nikhil Adithyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a PDF Page Numbering Tool in the Browser Using JavaScript]]></title>
+        <id>6a1a0e6f7c004897e1634856</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-page-numbering-tool-javascript/"/>
+        <updated>2026-05-29T22:08:47.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with contracts, reports, invoices, manuals, or academic documents, page numbers make navigation much easier. Instead of manually editing every page, modern JavaScript libraries let]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Step Counters Work in Wearables and Why Different Devices Give Different Results]]></title>
+        <id>6a19fc09a8acc9e04bced197</id>
+        <link href="https://www.freecodecamp.org/news/tech-giants-wearable-data-race/"/>
+        <updated>2026-05-29T20:50:17.000Z</updated>
+        <summary type="html"><![CDATA[It’s been three years since I started using my wearables to count my steps. Three years of trying to hit the daily 10K target, closing rings, and going to sleep knowing that I accomplished something p]]></summary>
+        <author>
+            <name>Shradha Puri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Declarative Partial Updates Work in HTML]]></title>
+        <id>6a19f51f7cae2251376e62cb</id>
+        <link href="https://www.freecodecamp.org/news/how-declarative-partial-updates-work-in-html/"/>
+        <updated>2026-05-29T20:20:47.000Z</updated>
+        <summary type="html"><![CDATA[HTML has always supported streaming. The server doesn't need to build an entire page in memory before sending it to the browser. It can send the initial HTML first, then send more chunks as each chunk]]></summary>
+        <author>
+            <name>Sumit Saha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Tradeoff That Slows Production Teams Down: Flexibility vs Actually Shipping]]></title>
+        <id>6a19ccc19e433f18f384364b</id>
+        <link href="https://www.freecodecamp.org/news/the-tradeoff-that-slows-production-teams-down-flexibility-vs-actually-shipping/"/>
+        <updated>2026-05-29T17:28:33.000Z</updated>
+        <summary type="html"><![CDATA[Every company says it wants speed. Roadmaps talk about velocity. Leadership meetings talk about reducing cycle time. Quarterly goals talk about faster execution and quicker releases. Every business wa]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Contextual Embeddings and Hybrid Search Fix Retrieval Failures]]></title>
+        <id>6a19c8fd9e433f18f3823c7c</id>
+        <link href="https://www.freecodecamp.org/news/how-contextual-embeddings-and-hybrid-search-fix-retrieval-failures/"/>
+        <updated>2026-05-29T17:12:29.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve built a RAG (Retrieval-Augmented Generation) system in the past year, you’ve probably hit the wall where your LLM returns confidently wrong answers, cites information that doesn’t exist, or]]></summary>
+        <author>
+            <name>Rishi Raj Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Wearable IoT Enables Real-Time Fall Detection and Alerts]]></title>
+        <id>6a19af25b55c6a731d1db097</id>
+        <link href="https://www.freecodecamp.org/news/how-wearable-iot-enables-real-time-fall-detection-and-alerts/"/>
+        <updated>2026-05-29T15:22:13.000Z</updated>
+        <summary type="html"><![CDATA[Wearable IoT technology has become an important part of today’s elder care, as it can help detect falls and alert caregivers or family members immediately after an incident. This technology combines s]]></summary>
+        <author>
+            <name>Shradha Puri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Deep Learning Model Isn't Learning: Diagnosing Data Problems in Medical Imaging]]></title>
+        <id>6a19aed9b55c6a731d1d7c06</id>
+        <link href="https://www.freecodecamp.org/news/why-your-deep-learning-model-isn-t-learning-data-problems-in-medical-imaging/"/>
+        <updated>2026-05-29T15:20:57.000Z</updated>
+        <summary type="html"><![CDATA[I built a clean, well-structured deep learning pipeline using MONAI (Medical Open Network for AI) on a public abdominal ultrasound dataset. The pipeline included: proper subject-grouped train/validat]]></summary>
+        <author>
+            <name>Lakshmi Mahabaleshwara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Professional Web Scrapers That Actually Work]]></title>
+        <id>6a19ae75b55c6a731d1d3963</id>
+        <link href="https://www.freecodecamp.org/news/build-professional-web-scrapers-that-actually-work/"/>
+        <updated>2026-05-29T15:19:17.000Z</updated>
+        <summary type="html"><![CDATA[Web scraping has evolved. If you’ve ever tried to pull data from a site, only to be hit with a CAPTCHA, an IP ban, or a "403 Forbidden" error, you know that modern websites are built to block automate]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More]]></title>
+        <id>https://css-tricks.com/?p=395357</id>
+        <link href="https://css-tricks.com/whats-important-12/"/>
+        <updated>2026-05-29T13:25:38.000Z</updated>
+        <summary type="html"><![CDATA[The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.
+What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Developer's Guide to WebMCP: Shipping a 0% Adoption Standard]]></title>
         <id>6a18c1667825875483411965</id>
@@ -16,66 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Hybrid Cloud Platform with Google Cloud Services and On-Premise Kubernetes Infrastructure]]></title>
-        <id>6a18c124782587548340fa90</id>
-        <link href="https://www.freecodecamp.org/news/build-a-hybrid-cloud-platform-with-google-cloud-services-and-on-premise-k8s-infra/"/>
-        <updated>2026-05-28T22:26:44.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to design and build a secure, scalable hybrid cloud platform that connects your on‑premises Kubernetes infrastructure to Google Cloud Platform. This allows on‑prem ap]]></summary>
-        <author>
-            <name>Shubham Katara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Design APIs for AI Agents]]></title>
-        <id>6a18bdb078258754833f8205</id>
-        <link href="https://www.freecodecamp.org/news/how-to-design-apis-for-ai-agents/"/>
-        <updated>2026-05-28T22:12:00.000Z</updated>
-        <summary type="html"><![CDATA[APIs are designed for human developers. People read documentation, infer the intent behind an endpoint, and know how to handle edge cases when something unexpected happens. AI agents don't have that c]]></summary>
-        <author>
-            <name>David Aniebo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Figma for UI/UX Design]]></title>
-        <id>6a18a887782587548336b8a6</id>
-        <link href="https://www.freecodecamp.org/news/learn-figma-for-ui-ux-design/"/>
-        <updated>2026-05-28T20:41:43.000Z</updated>
-        <summary type="html"><![CDATA[Master the entire UI/UX design workflow. We just published a comprehensive six-hour course on the freeCodeCamp.org YouTube channel that takes you from Figma basics to professional-grade, high-fidelity]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Your Customer Is an AI Agent: How B2B Companies Stay Visible When Buyers Are AI Agents]]></title>
-        <id>6a1890cd78258754832949d4</id>
-        <link href="https://www.freecodecamp.org/news/what-to-do-when-your-customer-is-an-ai-agent/"/>
-        <updated>2026-05-28T19:00:29.000Z</updated>
-        <summary type="html"><![CDATA[In April 2026, the 2X AI Innovation Lab published the inaugural AI Visibility Index, analyzing how 70 B2B companies appear across the generative AI environments that buyers now use to research and sho]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDPR Article 32 for Software Engineers: Technical Controls, Implementations, and Auditor Questions]]></title>
-        <id>6a186b4960295e5547e0936d</id>
-        <link href="https://www.freecodecamp.org/news/gdpr-article-32-for-software-engineers-technical-controls-implementations-and-auditor-questions/"/>
-        <updated>2026-05-28T16:20:25.000Z</updated>
-        <summary type="html"><![CDATA[When I first read GDPR Article 32, I made a mistake. I thought it was a legal document. But it's not. It's an infrastructure specification. The regulation says you need "appropriate technical measures]]></summary>
-        <author>
-            <name>Ayobami Adejumo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAG Explained Simply with a Real Project]]></title>
-        <id>6a186a9260295e5547e04628</id>
-        <link href="https://www.freecodecamp.org/news/rag-explained-simply-with-a-real-project/"/>
-        <updated>2026-05-28T16:17:22.000Z</updated>
-        <summary type="html"><![CDATA[If you have used ChatGPT, you know how magical it feels. You ask a question, and it instantly generates a highly articulate answer. But you also probably know its biggest flaw. If you ask it about you]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`]]></title>
         <id>https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/</id>
         <link href="https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/"/>
@@ -83,36 +124,6 @@
         <summary type="html"><![CDATA[Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Production RAG with LangChain & Vector Databases]]></title>
-        <id>6a183a86badcd8afcb9da431</id>
-        <link href="https://www.freecodecamp.org/news/production-rag-with-langchain-vector-databases/"/>
-        <updated>2026-05-28T12:52:22.000Z</updated>
-        <summary type="html"><![CDATA[Master the transition from simple prototypes to production-grade RAG systems by addressing the critical scaling, debugging, and security challenges that standard tutorials often ignore. We just posted]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Error Handling in Dart: Records, Result Types, Monads, and Freezed Exceptions]]></title>
-        <id>6a17657ebadcd8afcb2bcdb4</id>
-        <link href="https://www.freecodecamp.org/news/advanced-error-handling-in-dart-records-result-types-monads-and-freezed-exceptions/"/>
-        <updated>2026-05-27T21:43:26.000Z</updated>
-        <summary type="html"><![CDATA[Every Dart developer has written this at some point: try {   final user = await repository.getUser(id);   // do something with user } catch (e) {   // what is e? who knows.   print(e.toString()); } I]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Paper Review: GPT-4 Technical Report (GPT-4)]]></title>
-        <id>6a17653cbadcd8afcb2bb430</id>
-        <link href="https://www.freecodecamp.org/news/ai-paper-review-gpt-4-technical-report/"/>
-        <updated>2026-05-27T21:42:20.000Z</updated>
-        <summary type="html"><![CDATA[When GPT-3 was released in 2020, it completely changed how people thought about language models. It showed that a sufficiently large neural network could learn tasks directly from prompts and examples]]></summary>
-        <author>
-            <name>Mohammed Fahd Abrah</name>
         </author>
     </entry>
     <entry>
@@ -320,17 +331,6 @@ Using CSS corner-shape For Folded Corners originally handwritten and published
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Scrollytelling Gift for Mum on Mother’s Day 2026]]></title>
-        <id>https://css-tricks.com/?p=394649</id>
-        <link href="https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/"/>
-        <updated>2026-05-07T14:22:38.000Z</updated>
-        <summary type="html"><![CDATA[I will explain how my mum inspired this 2026 Mother’s Day scrollytelling experiment — but also, how she inspired my approach to dev and life.
-A Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Architecture Of Local-First Web Development]]></title>
         <id>https://smashingmagazine.com/2026/05/architecture-local-first-web-development/</id>
         <link href="https://smashingmagazine.com/2026/05/architecture-local-first-web-development/"/>
@@ -358,16 +358,6 @@ A Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and 
         <summary type="html"><![CDATA[Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joas Pambou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Fresh View In May (2026 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/</id>
-        <link href="https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/"/>
-        <updated>2026-04-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
