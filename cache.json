@@ -179,7 +179,7 @@
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5662,
+          "wordCount": 5660,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -224,7 +224,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4897,
+          "wordCount": 4901,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -239,7 +239,7 @@
           "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
           "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
           "publishedOn": "2026-05-15T10:00:00.000Z",
-          "wordCount": 4915,
+          "wordCount": 4904,
           "title": "Ten Data-Backed Truths Of User Experience ROI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
@@ -254,7 +254,7 @@
           "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
           "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
           "publishedOn": "2026-05-13T13:00:00.000Z",
-          "wordCount": 6267,
+          "wordCount": 6269,
           "title": "Practical Interface Patterns For AI Transparency (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
@@ -269,7 +269,7 @@
           "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
           "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
           "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": 8653,
+          "wordCount": 8649,
           "title": "The Architecture Of Local-First Web Development",
           "enclosure": {
             "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
@@ -292,21 +292,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
-          "author": "hello@smashingmagazine.com (Joas Pambou)",
-          "description": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
-          "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
-          "publishedOn": "2026-05-01T08:00:00.000Z",
-          "wordCount": 6551,
-          "title": "Designing Stable Interfaces For Streaming Content",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg"
         }
       ]
     },
