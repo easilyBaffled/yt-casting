@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-02T01:17:26.177Z</id>
+    <id>urn:2026-06-03T01:22:33.676Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-02T01:17:26.177Z</updated>
+    <updated>2026-06-03T01:22:33.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The AWS FinOps Guide for Series A Startups: The 8 Cost Patterns That Appear After Product-Market Fit]]></title>
+        <id>6a1f046fcf96043972a575f0</id>
+        <link href="https://www.freecodecamp.org/news/the-aws-finops-guide-for-series-a-startups/"/>
+        <updated>2026-06-02T16:27:27.000Z</updated>
+        <summary type="html"><![CDATA[You raised your Series A. Engineering hired fast. Features shipped faster. And somewhere between month six and month twelve, someone forwarded you an AWS Cost Explorer screenshot with a line that only]]></summary>
+        <author>
+            <name>Ayobami Adejumo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Flutter to Backend: How to Build Production-Grade REST APIs with Dart and Serverpod]]></title>
+        <id>6a1f040ecf96043972a543a7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-production-grade-rest-apis-with-dart-and-serverpod/"/>
+        <updated>2026-06-02T16:25:50.000Z</updated>
+        <summary type="html"><![CDATA[Serverpod is one of the most performant backend frameworks built on Dart. It's a fully opinionated backend framework that comes with its own ORM, its own code generation system, migration tooling, aut]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[::search-text]]></title>
+        <id>https://css-tricks.com/?page_id=393544</id>
+        <link href="https://css-tricks.com/almanac/pseudo-selectors/s/search-text/"/>
+        <updated>2026-06-02T12:59:21.000Z</updated>
+        <summary type="html"><![CDATA[The CSS ::search-text pseudo-element selects the matching text from your browser's "find in page" feature. 
+::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your Own AI Agent]]></title>
+        <id>6a1ec65f9aead44682107ffe</id>
+        <link href="https://www.freecodecamp.org/news/build-your-own-ai-agent/"/>
+        <updated>2026-06-02T12:02:39.000Z</updated>
+        <summary type="html"><![CDATA[We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build and deploy intelligent AI agents that bridge the gap between Large Language Models (LLMs) and real-worl]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Bluetooth Applications with Zephyr OS: A Handbook for Devs]]></title>
         <id>6a1de78e328352c4a380157a</id>
@@ -43,6 +84,18 @@
         <summary type="html"><![CDATA[As a Flutter engineer, you already know Dart. You understand async/await, you work with models and repositories, you think in clean architecture, and you have shipped real applications. The gap betwee]]></summary>
         <author>
             <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astro Markdown Component Utility for Any Framework]]></title>
+        <id>https://css-tricks.com/?p=392775</id>
+        <link href="https://css-tricks.com/astro-markdown-component-utility-any-framework/"/>
+        <updated>2026-06-01T13:25:00.000Z</updated>
+        <summary type="html"><![CDATA[In the previous article, I spoke about the why and how to use a Markdown component in Astro.
+Here, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …
+Astro Markdown Component Utility for Any Framework originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Zell Liew</name>
         </author>
     </entry>
     <entry>
@@ -86,33 +139,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Declarative Partial Updates Work in HTML]]></title>
-        <id>6a19f51f7cae2251376e62cb</id>
-        <link href="https://www.freecodecamp.org/news/how-declarative-partial-updates-work-in-html/"/>
-        <updated>2026-05-29T20:20:47.000Z</updated>
-        <summary type="html"><![CDATA[HTML has always supported streaming. The server doesn't need to build an entire page in memory before sending it to the browser. It can send the initial HTML first, then send more chunks as each chunk]]></summary>
+        <title type="html"><![CDATA[What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More]]></title>
+        <id>https://css-tricks.com/?p=395357</id>
+        <link href="https://css-tricks.com/whats-important-12/"/>
+        <updated>2026-05-29T13:25:38.000Z</updated>
+        <summary type="html"><![CDATA[The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.
+What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
-            <name>Sumit Saha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Tradeoff That Slows Production Teams Down: Flexibility vs Actually Shipping]]></title>
-        <id>6a19ccc19e433f18f384364b</id>
-        <link href="https://www.freecodecamp.org/news/the-tradeoff-that-slows-production-teams-down-flexibility-vs-actually-shipping/"/>
-        <updated>2026-05-29T17:28:33.000Z</updated>
-        <summary type="html"><![CDATA[Every company says it wants speed. Roadmaps talk about velocity. Leadership meetings talk about reducing cycle time. Quarterly goals talk about faster execution and quicker releases. Every business wa]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Contextual Embeddings and Hybrid Search Fix Retrieval Failures]]></title>
-        <id>6a19c8fd9e433f18f3823c7c</id>
-        <link href="https://www.freecodecamp.org/news/how-contextual-embeddings-and-hybrid-search-fix-retrieval-failures/"/>
-        <updated>2026-05-29T17:12:29.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve built a RAG (Retrieval-Augmented Generation) system in the past year, you’ve probably hit the wall where your LLM returns confidently wrong answers, cites information that doesn’t exist, or]]></summary>
-        <author>
-            <name>Rishi Raj Jain</name>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -126,6 +160,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Revealing Text With CSS letter-spacing]]></title>
+        <id>https://css-tricks.com/?p=393536</id>
+        <link href="https://css-tricks.com/revealing-text-with-css-letter-spacing/"/>
+        <updated>2026-05-27T12:37:33.000Z</updated>
+        <summary type="html"><![CDATA[Until we get something like ::nth-letter, there are still some really cool text effects we can make from existing CSS features, like letter-spacing, ::first-word and ::first-line.
+Revealing Text With CSS letter-spacing originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technical Writing in the AI Age]]></title>
+        <id>https://css-tricks.com/?p=395048</id>
+        <link href="https://css-tricks.com/technical-writing-in-the-ai-age/"/>
+        <updated>2026-05-26T13:49:28.000Z</updated>
+        <summary type="html"><![CDATA[This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.
+Technical Writing in the AI Age originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross-Document View Transitions: Scaling Across Hundreds of Elements]]></title>
+        <id>https://css-tricks.com/?p=393441</id>
+        <link href="https://css-tricks.com/cross-document-view-transitions-part-2/"/>
+        <updated>2026-05-25T13:46:54.000Z</updated>
+        <summary type="html"><![CDATA[Every view-transition-name on a page must be unique. The problem is that every pseudo-element selector in your CSS targets a specific name, so your animation styles explode into an unmanageable wall of selectors.
+Cross-Document View Transitions: Scaling Across Hundreds of Elements originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Durgesh Rajubhai Pawar</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)]]></title>
         <id>https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/</id>
         <link href="https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/"/>
@@ -133,6 +200,17 @@
         <summary type="html"><![CDATA[There’s a moment in almost every usability session where a participant pauses at the login screen, types something, and glances up: checking whether they’re “doing it right.” That pause is a clear sign. They’ve already clocked that this isn’t a real app, and every data point collected after that moment is filtered through that awareness.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Joseph L.)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The State of CSS Centering in 2026]]></title>
+        <id>https://css-tricks.com/?p=394429</id>
+        <link href="https://css-tricks.com/the-state-of-css-centering-in-2026/"/>
+        <updated>2026-05-22T13:44:40.000Z</updated>
+        <summary type="html"><![CDATA[Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the current state of centering options today in 2026. 
+The State of CSS Centering in 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
@@ -156,6 +234,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Stack Overflow: When We Stop Asking]]></title>
+        <id>https://css-tricks.com/?p=393076</id>
+        <link href="https://css-tricks.com/stack-overflow-when-we-stop-asking/"/>
+        <updated>2026-05-20T13:51:34.000Z</updated>
+        <summary type="html"><![CDATA[It still hits like a ton of bricks to see the steep decline in Stack Overflow questions. What does that mean about learning in our industry?
+Stack Overflow: When We Stop Asking originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross-Document View Transitions: The Gotchas Nobody Mentions]]></title>
+        <id>https://css-tricks.com/?p=393399</id>
+        <link href="https://css-tricks.com/cross-document-view-transitions-part-1/"/>
+        <updated>2026-05-18T13:47:19.000Z</updated>
+        <summary type="html"><![CDATA[This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.
+Cross-Document View Transitions: The Gotchas Nobody Mentions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Durgesh Rajubhai Pawar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More]]></title>
+        <id>https://css-tricks.com/?p=394879</id>
+        <link href="https://css-tricks.com/whats-important-11/"/>
+        <updated>2026-05-15T13:16:34.000Z</updated>
+        <summary type="html"><![CDATA[If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.
+What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ten Data-Backed Truths Of User Experience ROI]]></title>
         <id>https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/</id>
         <link href="https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/"/>
@@ -163,6 +274,61 @@
         <summary type="html"><![CDATA[Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computing and Displaying Discounted Prices in CSS]]></title>
+        <id>https://css-tricks.com/?p=393498</id>
+        <link href="https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/"/>
+        <updated>2026-05-14T14:05:01.000Z</updated>
+        <summary type="html"><![CDATA[A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features like attr(), mod(), and round().
+Computing and Displaying Discounted Prices in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rotateX()]]></title>
+        <id>https://css-tricks.com/?page_id=393625</id>
+        <link href="https://css-tricks.com/almanac/functions/r/rotatex/"/>
+        <updated>2026-05-13T14:36:54.000Z</updated>
+        <summary type="html"><![CDATA[The rotateX() function rotates an element around the x-axis in a three-dimensional space
+rotateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rotateY()]]></title>
+        <id>https://css-tricks.com/?page_id=393615</id>
+        <link href="https://css-tricks.com/almanac/functions/r/rotatey/"/>
+        <updated>2026-05-13T14:33:58.000Z</updated>
+        <summary type="html"><![CDATA[The rotateY() function rotates an element around its vertical y-axis.
+rotateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rotateZ()]]></title>
+        <id>https://css-tricks.com/?page_id=393630</id>
+        <link href="https://css-tricks.com/almanac/functions/r/rotatez/"/>
+        <updated>2026-05-13T14:33:03.000Z</updated>
+        <summary type="html"><![CDATA[The rotateZ() function rotates an element around its z-axis, so clockwise or counterclockwise. 
+rotateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rotate()]]></title>
+        <id>https://css-tricks.com/?page_id=393611</id>
+        <link href="https://css-tricks.com/almanac/functions/r/rotate/"/>
+        <updated>2026-05-13T14:32:47.000Z</updated>
+        <summary type="html"><![CDATA[The rotate() function spins an element either clockwise or counterclockwise in a 2D plane.
+rotate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
         </author>
     </entry>
     <entry>
