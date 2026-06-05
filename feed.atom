@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-04T01:23:10.915Z</id>
+    <id>urn:2026-06-05T01:13:54.245Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-04T01:23:10.915Z</updated>
+    <updated>2026-06-05T01:13:54.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Attribute-Based Access Control Helps You Write Better Authorization Rules]]></title>
+        <id>6a21b44e09761aac249579f9</id>
+        <link href="https://www.freecodecamp.org/news/how-attribute-based-access-control-helps-you-write-better-authorization-rules/"/>
+        <updated>2026-06-04T17:22:22.000Z</updated>
+        <summary type="html"><![CDATA[Every application that handles user data eventually hits the same problem: not all users should see the same things. A junior nurse should not be able to access every patient record in the hospital. A]]></summary>
+        <author>
+            <name>Aiyedogbon Abraham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backend Challenges Teams Face When Processing Repeat Payments]]></title>
+        <id>6a21b39809761aac24951f70</id>
+        <link href="https://www.freecodecamp.org/news/backend-challenges-teams-face-when-processing-repeat-payments/"/>
+        <updated>2026-06-04T17:19:20.000Z</updated>
+        <summary type="html"><![CDATA[Modern payment systems look simple from the outside. A user clicks a button, enters payment details, and money moves from one account to another. But once payments happen repeatedly rather than once,]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Preprocess Medical Images for Machine Learning – A Guide Using Chest X-Rays]]></title>
+        <id>6a21b25709761aac249473c9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-preprocess-medical-images-for-machine-learning/"/>
+        <updated>2026-06-04T17:13:59.000Z</updated>
+        <summary type="html"><![CDATA[Working with healthcare data introduces preprocessing challenges that go beyond those you might encounter with structured data. Some familiar techniques still apply, while others look very different o]]></summary>
+        <author>
+            <name>Lakshmi Mahabaleshwara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Full Course]]></title>
+        <id>6a217a7e004b104f5f3c88b8</id>
+        <link href="https://www.freecodecamp.org/news/docker-full-course/"/>
+        <updated>2026-06-04T13:15:42.000Z</updated>
+        <summary type="html"><![CDATA[We just posted a comprehensive Docker course now live on the freeCodeCamp.org YouTube channel! The ability to scale applications instantly and ship software reliably is an important skill. Containeriz]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!]]></title>
+        <id>https://css-tricks.com/?p=393178</id>
+        <link href="https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/"/>
+        <updated>2026-06-04T13:14:49.000Z</updated>
+        <summary type="html"><![CDATA[We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.
+Another Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Antoine Villepreux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Key Technical Design Decisions for Building an Educational App with LLMs]]></title>
+        <id>6a20a338e4cc400d0c4149bb</id>
+        <link href="https://www.freecodecamp.org/news/technical-design-decisions-educational-app-llms/"/>
+        <updated>2026-06-03T21:57:12.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I spent time prototyping an educational app using Claude Code. The project is an open-source mobile app for educators to share, discover, and facilitate low-cost creative learning activities]]></summary>
+        <author>
+            <name>Srishti Sethi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What “Production-Ready” Actually Means in Flutter]]></title>
         <id>6a206c1a2a223bf98b13f071</id>
@@ -57,46 +118,6 @@ with Human Feedback (InstructGPT)]]></title>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The LLM Gateway Pattern: Why Every Kubernetes-Based AI App Needs One]]></title>
-        <id>6a20607178a43e3153ae3cc4</id>
-        <link href="https://www.freecodecamp.org/news/the-llm-gateway-pattern-why-every-kubernetes-based-ai-app-needs-one/"/>
-        <updated>2026-06-03T17:12:17.000Z</updated>
-        <summary type="html"><![CDATA[You ship your first LLM-powered feature. It works and the users love it. A second team adds another feature calling a different model, and a third integrates a completely different provider. Six month]]></summary>
-        <author>
-            <name>Temitope Oyedele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate PDF Data Extraction Using Python]]></title>
-        <id>6a20556a08e3e46121ab6d4e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-automate-pdf-data-extraction-using-python/"/>
-        <updated>2026-06-03T16:25:14.000Z</updated>
-        <summary type="html"><![CDATA[PDFs are still one of the most widely used document formats in business. Financial reports, invoices, contracts, compliance filings, and operational documents are often shared as PDFs because they pre]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF Organizer Tool Using JavaScript]]></title>
-        <id>6a20550508e3e46121ab46ce</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-browser-based-pdf-organizer-tool-using-javascript/"/>
-        <updated>2026-06-03T16:23:33.000Z</updated>
-        <summary type="html"><![CDATA[PDF files often become difficult to manage when pages are out of order, scanned incorrectly, duplicated, or spread across multiple documents. Instead of manually recreating the document, users often n]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Trusting AI Code Blindly: A React Code Refactoring Case Study]]></title>
-        <id>6a2054b908e3e46121ab26ae</id>
-        <link href="https://www.freecodecamp.org/news/stop-trusting-ai-code-blindly-a-react-code-refactoring-case-study/"/>
-        <updated>2026-06-03T16:22:17.000Z</updated>
-        <summary type="html"><![CDATA[If you're a developer (or even a little bit familiar with all the AI developments of the past few years), the term Vibe Coding shouldn't be new to you. It is a software development practice where you]]></summary>
-        <author>
-            <name>Tapas Adhikary</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[offset-path]]></title>
         <id>http://css-tricks.com/?page_id=243521</id>
         <link href="https://css-tricks.com/almanac/properties/o/offset-path/"/>
@@ -138,16 +159,6 @@ offset-path originally handwritten and published with love on CSS-Tricks. You sh
         <summary type="html"><![CDATA[Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Responsive Designs and Scroll Effects with CSS Container Queries]]></title>
-        <id>6a1f667b3090fee41f05a0d3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-responsive-designs-and-scroll-effects-with-css-container-queries/"/>
-        <updated>2026-06-02T23:25:47.000Z</updated>
-        <summary type="html"><![CDATA[Container queries let you target specific sections of your webpage and apply styles to create customizable, responsive designs based on the container's size rather than that of the viewport. This guid]]></summary>
-        <author>
-            <name>jabo Landry</name>
         </author>
     </entry>
     <entry>
@@ -333,17 +344,6 @@ Computing and Displaying Discounted Prices in CSS originally handwritten and pub
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[rotateX()]]></title>
-        <id>https://css-tricks.com/?page_id=393625</id>
-        <link href="https://css-tricks.com/almanac/functions/r/rotatex/"/>
-        <updated>2026-05-13T14:36:54.000Z</updated>
-        <summary type="html"><![CDATA[The rotateX() function rotates an element around the x-axis in a three-dimensional space
-rotateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Practical Interface Patterns For AI Transparency (Part 2)]]></title>
         <id>https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/</id>
         <link href="https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/"/>
@@ -351,16 +351,6 @@ rotateX() originally handwritten and published with love on CSS-Tricks. You shou
         <summary type="html"><![CDATA[Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Architecture Of Local-First Web Development]]></title>
-        <id>https://smashingmagazine.com/2026/05/architecture-local-first-web-development/</id>
-        <link href="https://smashingmagazine.com/2026/05/architecture-local-first-web-development/"/>
-        <updated>2026-05-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
         </author>
     </entry>
 </feed>

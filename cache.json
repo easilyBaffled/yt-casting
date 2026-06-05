@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=393178",
+          "author": "Antoine Villepreux",
+          "description": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\nAnother Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
+          "publishedOn": "2026-06-04T13:14:49.000Z",
+          "wordCount": 4924,
+          "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/03/screenreader.mp4",
+            "length": "644313",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/pie-chart.webp"
+        },
+        {
           "id": "http://css-tricks.com/?page_id=243521",
           "author": "Geoff Graham",
           "description": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …\noffset-path originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -27,7 +42,7 @@
           "description": "The CSS @custom-media at-rule allows creating aliases for media queries.\n@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/rules/c/custom-media/",
           "publishedOn": "2026-06-03T13:03:21.000Z",
-          "wordCount": 4179,
+          "wordCount": 4177,
           "title": "@custom-media",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
         },
@@ -150,16 +165,6 @@
           "wordCount": 3959,
           "title": "Computing and Displaying Discounted Prices in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/css-computed-price.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393625",
-          "author": "Gabriel Shoyombo",
-          "description": "The rotateX() function rotates an element around the x-axis in a three-dimensional space\nrotateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/r/rotatex/",
-          "publishedOn": "2026-05-13T14:36:54.000Z",
-          "wordCount": 4586,
-          "title": "rotateX()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         }
       ]
     },
@@ -189,7 +194,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5513,
+          "wordCount": 5515,
           "title": "June Is For Exploring (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
@@ -204,7 +209,7 @@
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5662,
+          "wordCount": 5660,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -249,7 +254,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4890,
+          "wordCount": 4900,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -264,7 +269,7 @@
           "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
           "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
           "publishedOn": "2026-05-15T10:00:00.000Z",
-          "wordCount": 4905,
+          "wordCount": 4912,
           "title": "Ten Data-Backed Truths Of User Experience ROI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
@@ -279,7 +284,7 @@
           "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
           "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
           "publishedOn": "2026-05-13T13:00:00.000Z",
-          "wordCount": 6272,
+          "wordCount": 6270,
           "title": "Practical Interface Patterns For AI Transparency (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
@@ -287,21 +292,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
-          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
-          "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
-          "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
-          "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": 8641,
-          "title": "The Architecture Of Local-First Web Development",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg"
         }
       ]
     },
@@ -310,6 +300,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a21b44e09761aac249579f9",
+          "author": "Aiyedogbon Abraham",
+          "description": "Every application that handles user data eventually hits the same problem: not all users should see the same things. A junior nurse should not be able to access every patient record in the hospital. A",
+          "link": "https://www.freecodecamp.org/news/how-attribute-based-access-control-helps-you-write-better-authorization-rules/",
+          "publishedOn": "2026-06-04T17:22:22.000Z",
+          "wordCount": 5935,
+          "title": "How Attribute-Based Access Control Helps You Write Better Authorization Rules",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1bcd9989-cf38-4375-a0ed-03cf1bd3c3b8.png"
+        },
+        {
+          "id": "6a21b39809761aac24951f70",
+          "author": "Manish Shivanandhan",
+          "description": "Modern payment systems look simple from the outside. A user clicks a button, enters payment details, and money moves from one account to another. But once payments happen repeatedly rather than once,",
+          "link": "https://www.freecodecamp.org/news/backend-challenges-teams-face-when-processing-repeat-payments/",
+          "publishedOn": "2026-06-04T17:19:20.000Z",
+          "wordCount": 3003,
+          "title": "Backend Challenges Teams Face When Processing Repeat Payments",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e7d774a7-f80b-4c91-a9f3-46b7d12e758a.png"
+        },
+        {
+          "id": "6a21b25709761aac249473c9",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "Working with healthcare data introduces preprocessing challenges that go beyond those you might encounter with structured data. Some familiar techniques still apply, while others look very different o",
+          "link": "https://www.freecodecamp.org/news/how-to-preprocess-medical-images-for-machine-learning/",
+          "publishedOn": "2026-06-04T17:13:59.000Z",
+          "wordCount": 3440,
+          "title": "How to Preprocess Medical Images for Machine Learning – A Guide Using Chest X-Rays",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/eab58d7c-f63a-41ae-a01e-52a65b0be17c.png"
+        },
+        {
+          "id": "6a217a7e004b104f5f3c88b8",
+          "author": "Beau Carnes",
+          "description": "We just posted a comprehensive Docker course now live on the freeCodeCamp.org YouTube channel! The ability to scale applications instantly and ship software reliably is an important skill. Containeriz",
+          "link": "https://www.freecodecamp.org/news/docker-full-course/",
+          "publishedOn": "2026-06-04T13:15:42.000Z",
+          "wordCount": 1085,
+          "title": "Docker Full Course",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/2d702aaa-2eef-48b1-aa2b-f36dcb744501.jpg"
+        },
+        {
+          "id": "6a20a338e4cc400d0c4149bb",
+          "author": "Srishti Sethi",
+          "description": "Recently, I spent time prototyping an educational app using Claude Code. The project is an open-source mobile app for educators to share, discover, and facilitate low-cost creative learning activities",
+          "link": "https://www.freecodecamp.org/news/technical-design-decisions-educational-app-llms/",
+          "publishedOn": "2026-06-03T21:57:12.000Z",
+          "wordCount": 3443,
+          "title": "Key Technical Design Decisions for Building an Educational App with LLMs",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/004bd995-d90e-4589-be82-e66e0be110f5.png"
+        },
         {
           "id": "6a206c1a2a223bf98b13f071",
           "author": "Gidudu Nicholas",
@@ -359,56 +399,6 @@
           "wordCount": 5047,
           "title": "How to Deploy a Spring Boot App with MySQL on Amazon EKS",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5a7cd6a7-7850-4e3c-9a45-b577c2f91598.png"
-        },
-        {
-          "id": "6a20607178a43e3153ae3cc4",
-          "author": "Temitope Oyedele",
-          "description": "You ship your first LLM-powered feature. It works and the users love it. A second team adds another feature calling a different model, and a third integrates a completely different provider. Six month",
-          "link": "https://www.freecodecamp.org/news/the-llm-gateway-pattern-why-every-kubernetes-based-ai-app-needs-one/",
-          "publishedOn": "2026-06-03T17:12:17.000Z",
-          "wordCount": 2617,
-          "title": "The LLM Gateway Pattern: Why Every Kubernetes-Based AI App Needs One",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/35be7043-56b7-4df6-b56b-a48620be2dd8.png"
-        },
-        {
-          "id": "6a20556a08e3e46121ab6d4e",
-          "author": "Manish Shivanandhan",
-          "description": "PDFs are still one of the most widely used document formats in business. Financial reports, invoices, contracts, compliance filings, and operational documents are often shared as PDFs because they pre",
-          "link": "https://www.freecodecamp.org/news/how-to-automate-pdf-data-extraction-using-python/",
-          "publishedOn": "2026-06-03T16:25:14.000Z",
-          "wordCount": 2390,
-          "title": "How to Automate PDF Data Extraction Using Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/85626e6c-7433-4914-b094-19d784845d82.png"
-        },
-        {
-          "id": "6a20550508e3e46121ab46ce",
-          "author": "Bhavin Sheth",
-          "description": "PDF files often become difficult to manage when pages are out of order, scanned incorrectly, duplicated, or spread across multiple documents. Instead of manually recreating the document, users often n",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-browser-based-pdf-organizer-tool-using-javascript/",
-          "publishedOn": "2026-06-03T16:23:33.000Z",
-          "wordCount": 2625,
-          "title": "How to Build a Browser-Based PDF Organizer Tool Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e169dc76-46a0-4d28-a98a-1bd6bdd46437.png"
-        },
-        {
-          "id": "6a2054b908e3e46121ab26ae",
-          "author": "Tapas Adhikary",
-          "description": "If you're a developer (or even a little bit familiar with all the AI developments of the past few years), the term Vibe Coding shouldn't be new to you. It is a software development practice where you",
-          "link": "https://www.freecodecamp.org/news/stop-trusting-ai-code-blindly-a-react-code-refactoring-case-study/",
-          "publishedOn": "2026-06-03T16:22:17.000Z",
-          "wordCount": 3671,
-          "title": "Stop Trusting AI Code Blindly: A React Code Refactoring Case Study",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/87edcb4f-6985-4392-8af5-b0f7daff9f5b.png"
-        },
-        {
-          "id": "6a1f667b3090fee41f05a0d3",
-          "author": "jabo Landry",
-          "description": "Container queries let you target specific sections of your webpage and apply styles to create customizable, responsive designs based on the container's size rather than that of the viewport. This guid",
-          "link": "https://www.freecodecamp.org/news/how-to-build-responsive-designs-and-scroll-effects-with-css-container-queries/",
-          "publishedOn": "2026-06-02T23:25:47.000Z",
-          "wordCount": 2284,
-          "title": "How to Build Responsive Designs and Scroll Effects with CSS Container Queries",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dc70f649-2837-4768-be69-e4c1e85dcb03.png"
         }
       ]
     }
