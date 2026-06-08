@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-07T01:17:16.805Z</id>
+    <id>urn:2026-06-08T01:17:18.645Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-07T01:17:16.805Z</updated>
+    <updated>2026-06-08T01:17:18.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Metadata Editor Using JavaScript – A Step-by-Step Guide]]></title>
+        <id>6a24b9ff67572e709df5342b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-browser-based-pdf-metadata-editor-using-javascript/"/>
+        <updated>2026-06-07T00:23:27.000Z</updated>
+        <summary type="html"><![CDATA[PDF files contain more information than what appears on the page. Behind every PDF document is metadata that stores information such as the document title, author, subject, keywords, creator applicati]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose the Best Stock Market API for FinTech Projects and AI Agents]]></title>
+        <id>6a24b9c567572e709df513c8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-choose-the-best-stock-market-api-for-fintech-projects-and-ai-agents/"/>
+        <updated>2026-06-07T00:22:29.000Z</updated>
+        <summary type="html"><![CDATA[Choosing a stock API looks simple until the project becomes real. At first, you only need a few prices. You send a request, get JSON back, load it into pandas, and move on. But the moment that API sta]]></summary>
+        <author>
+            <name>Nikhil Adithyan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Attribute-Based Access Control Helps You Write Better Authorization Rules]]></title>
         <id>6a21b44e09761aac249579f9</id>
@@ -95,26 +115,6 @@ with Human Feedback (InstructGPT)]]></title>
         <summary type="html"><![CDATA[When I was younger, I remember my mother’s Android phone, a Samsung Galaxy Note 3 that she bought right after losing her BlackBerry. During that time, a phone with 16 GB of storage was considered cutt]]></summary>
         <author>
             <name>Djibril-M🍀</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Understand the Safe Integer Limit in JavaScript]]></title>
-        <id>6a20610c78a43e3153ae86b2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-understand-the-safe-integer-limit-in-javascript/"/>
-        <updated>2026-06-03T17:14:52.000Z</updated>
-        <summary type="html"><![CDATA[According to the Stack overflow technology survey in 2025, JavaScript is one of the most widely used programming languages in the world. We use it to build frontend applications, backend services, pay]]></summary>
-        <author>
-            <name>Ayodele Aransiola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy a Spring Boot App with MySQL on Amazon EKS]]></title>
-        <id>6a20609578a43e3153ae5422</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-spring-boot-app-with-mysql-on-amazon-eks/"/>
-        <updated>2026-06-03T17:12:53.000Z</updated>
-        <summary type="html"><![CDATA[If you've been looking to deploy your Spring Boot app to the cloud but feel a little overwhelmed by all the moving pieces, don't worry, you're not alone. Kubernetes can seem intimidating at first, but]]></summary>
-        <author>
-            <name>Chisom Uma</name>
         </author>
     </entry>
     <entry>

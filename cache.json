@@ -92,7 +92,7 @@
           "description": "Until we get something like ::nth-letter, there are still some really cool text effects we can make from existing CSS features, like letter-spacing, ::first-word and ::first-line.\nRevealing Text With CSS letter-spacing originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/revealing-text-with-css-letter-spacing/",
           "publishedOn": "2026-05-27T12:37:33.000Z",
-          "wordCount": 3508,
+          "wordCount": 3519,
           "title": "Revealing Text With CSS letter-spacing",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/revealing-text.webp"
         },
@@ -194,7 +194,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5522,
+          "wordCount": 5624,
           "title": "June Is For Exploring (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
@@ -254,7 +254,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4893,
+          "wordCount": 4907,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -269,7 +269,7 @@
           "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
           "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
           "publishedOn": "2026-05-15T10:00:00.000Z",
-          "wordCount": 4920,
+          "wordCount": 4911,
           "title": "Ten Data-Backed Truths Of User Experience ROI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
@@ -284,7 +284,7 @@
           "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
           "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
           "publishedOn": "2026-05-13T13:00:00.000Z",
-          "wordCount": 6275,
+          "wordCount": 6278,
           "title": "Practical Interface Patterns For AI Transparency (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
@@ -300,6 +300,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a24b9ff67572e709df5342b",
+          "author": "Bhavin Sheth",
+          "description": "PDF files contain more information than what appears on the page. Behind every PDF document is metadata that stores information such as the document title, author, subject, keywords, creator applicati",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-browser-based-pdf-metadata-editor-using-javascript/",
+          "publishedOn": "2026-06-07T00:23:27.000Z",
+          "wordCount": 2261,
+          "title": "How to Build a Browser-Based PDF Metadata Editor Using JavaScript – A Step-by-Step Guide",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dbc75a41-47b8-411d-bc6c-708daf027333.png"
+        },
+        {
+          "id": "6a24b9c567572e709df513c8",
+          "author": "Nikhil Adithyan",
+          "description": "Choosing a stock API looks simple until the project becomes real. At first, you only need a few prices. You send a request, get JSON back, load it into pandas, and move on. But the moment that API sta",
+          "link": "https://www.freecodecamp.org/news/how-to-choose-the-best-stock-market-api-for-fintech-projects-and-ai-agents/",
+          "publishedOn": "2026-06-07T00:22:29.000Z",
+          "wordCount": 4136,
+          "title": "How to Choose the Best Stock Market API for FinTech Projects and AI Agents",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e1f20d3c-eaf8-49e9-be53-4cc99eb971ec.png"
+        },
         {
           "id": "6a21b44e09761aac249579f9",
           "author": "Aiyedogbon Abraham",
@@ -379,26 +399,6 @@
           "wordCount": 3256,
           "title": "How to Run an LLM Locally on Your Mobile Phone with QVAC and Expo",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a5fb9baf-a10d-4e53-9c66-3980919a35b8.png"
-        },
-        {
-          "id": "6a20610c78a43e3153ae86b2",
-          "author": "Ayodele Aransiola",
-          "description": "According to the Stack overflow technology survey in 2025, JavaScript is one of the most widely used programming languages in the world. We use it to build frontend applications, backend services, pay",
-          "link": "https://www.freecodecamp.org/news/how-to-understand-the-safe-integer-limit-in-javascript/",
-          "publishedOn": "2026-06-03T17:14:52.000Z",
-          "wordCount": 1977,
-          "title": "How to Understand the Safe Integer Limit in JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9dde6b7a-ff16-4ab1-bdef-c8c7be8d82e9.png"
-        },
-        {
-          "id": "6a20609578a43e3153ae5422",
-          "author": "Chisom Uma",
-          "description": "If you've been looking to deploy your Spring Boot app to the cloud but feel a little overwhelmed by all the moving pieces, don't worry, you're not alone. Kubernetes can seem intimidating at first, but",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-spring-boot-app-with-mysql-on-amazon-eks/",
-          "publishedOn": "2026-06-03T17:12:53.000Z",
-          "wordCount": 5047,
-          "title": "How to Deploy a Spring Boot App with MySQL on Amazon EKS",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5a7cd6a7-7850-4e3c-9a45-b577c2f91598.png"
         }
       ]
     }
