@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=393503",
+          "author": "Geoff Graham",
+          "description": "I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.\nScroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
+          "publishedOn": "2026-06-08T13:00:34.000Z",
+          "wordCount": 3354,
+          "title": "Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/04/Screen-Recording-2026-04-14-at-10.16.47-AM.mov",
+            "length": "3122373",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/scroll-animations-view-transitions.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=393178",
           "author": "Antoine Villepreux",
           "description": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\nAnother Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -72,7 +87,7 @@
           "description": "In the previous article, I spoke about the why and how to use a Markdown component in Astro.\nHere, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …\nAstro Markdown Component Utility for Any Framework originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/astro-markdown-component-utility-any-framework/",
           "publishedOn": "2026-06-01T13:25:00.000Z",
-          "wordCount": 3077,
+          "wordCount": 3123,
           "title": "Astro Markdown Component Utility for Any Framework",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/markdown-astro.webp"
         },
@@ -102,7 +117,7 @@
           "description": "This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.\nTechnical Writing in the AI Age originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/technical-writing-in-the-ai-age/",
           "publishedOn": "2026-05-26T13:49:28.000Z",
-          "wordCount": 5948,
+          "wordCount": 6058,
           "title": "Technical Writing in the AI Age",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/technical-writing.jpg"
         },
@@ -132,7 +147,7 @@
           "description": "It still hits like a ton of bricks to see the steep decline in Stack Overflow questions. What does that mean about learning in our industry?\nStack Overflow: When We Stop Asking originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/stack-overflow-when-we-stop-asking/",
           "publishedOn": "2026-05-20T13:51:34.000Z",
-          "wordCount": 4779,
+          "wordCount": 4909,
           "title": "Stack Overflow: When We Stop Asking",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/newspaper-stack-scaled-1.png"
         },
@@ -155,16 +170,6 @@
           "wordCount": 3588,
           "title": "What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/wh11.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393498",
-          "author": "Preethi",
-          "description": "A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features like attr(), mod(), and round().\nComputing and Displaying Discounted Prices in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/",
-          "publishedOn": "2026-05-14T14:05:01.000Z",
-          "wordCount": 3959,
-          "title": "Computing and Displaying Discounted Prices in CSS",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/css-computed-price.png"
         }
       ]
     },
@@ -194,7 +199,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5624,
+          "wordCount": 5521,
           "title": "June Is For Exploring (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
@@ -209,7 +214,7 @@
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5658,
+          "wordCount": 5671,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -254,7 +259,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4907,
+          "wordCount": 4899,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -269,7 +274,7 @@
           "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
           "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
           "publishedOn": "2026-05-15T10:00:00.000Z",
-          "wordCount": 4911,
+          "wordCount": 4912,
           "title": "Ten Data-Backed Truths Of User Experience ROI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
@@ -284,7 +289,7 @@
           "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
           "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
           "publishedOn": "2026-05-13T13:00:00.000Z",
-          "wordCount": 6278,
+          "wordCount": 6265,
           "title": "Practical Interface Patterns For AI Transparency (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
@@ -300,6 +305,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a26427ed198e572e0517866",
+          "author": "Kamal Kishore",
+          "description": "Enterprises are building more and more digital products that depend on real time intelligence. This means that being able to connect, contextualize, and reason over data has become a core capability.",
+          "link": "https://www.freecodecamp.org/news/how-to-optimize-enterprise-knowledge-graphs-for-scalable-digital-product-platforms/",
+          "publishedOn": "2026-06-08T04:18:06.000Z",
+          "wordCount": 3437,
+          "title": "How to Optimize Enterprise Knowledge Graphs for Scalable Digital Product Platforms",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/95434417-9316-481d-b6db-5e9d01f0c971.png"
+        },
         {
           "id": "6a24b9ff67572e709df5342b",
           "author": "Bhavin Sheth",
@@ -389,16 +404,6 @@
           "wordCount": 8942,
           "title": "AI Paper Review: Training Language Models to Follow Instructions\nwith Human Feedback (InstructGPT)",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/494c3fa7-d7a0-448b-9983-99575f91836d.png"
-        },
-        {
-          "id": "6a2061ad78a43e3153aede0d",
-          "author": "Djibril-M🍀",
-          "description": "When I was younger, I remember my mother’s Android phone, a Samsung Galaxy Note 3 that she bought right after losing her BlackBerry. During that time, a phone with 16 GB of storage was considered cutt",
-          "link": "https://www.freecodecamp.org/news/how-to-run-an-llm-locally-on-your-mobile-phone-with-qvac-and-expo/",
-          "publishedOn": "2026-06-03T17:17:33.000Z",
-          "wordCount": 3256,
-          "title": "How to Run an LLM Locally on Your Mobile Phone with QVAC and Expo",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a5fb9baf-a10d-4e53-9c66-3980919a35b8.png"
         }
       ]
     }

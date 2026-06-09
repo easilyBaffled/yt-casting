@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-08T01:17:18.645Z</id>
+    <id>urn:2026-06-09T01:08:40.274Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-08T01:17:18.645Z</updated>
+    <updated>2026-06-09T01:08:40.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions]]></title>
+        <id>https://css-tricks.com/?p=393503</id>
+        <link href="https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/"/>
+        <updated>2026-06-08T13:00:34.000Z</updated>
+        <summary type="html"><![CDATA[I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.
+Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize Enterprise Knowledge Graphs for Scalable Digital Product Platforms]]></title>
+        <id>6a26427ed198e572e0517866</id>
+        <link href="https://www.freecodecamp.org/news/how-to-optimize-enterprise-knowledge-graphs-for-scalable-digital-product-platforms/"/>
+        <updated>2026-06-08T04:18:06.000Z</updated>
+        <summary type="html"><![CDATA[Enterprises are building more and more digital products that depend on real time intelligence. This means that being able to connect, contextualize, and reason over data has become a core capability.]]></summary>
+        <author>
+            <name>Kamal Kishore</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Browser-Based PDF Metadata Editor Using JavaScript – A Step-by-Step Guide]]></title>
         <id>6a24b9ff67572e709df5342b</id>
@@ -105,16 +126,6 @@ with Human Feedback (InstructGPT)]]></title>
         <summary type="html"><![CDATA[GPT-3 was a major breakthrough in natural language processing. With 175 billion parameters, it demonstrated remarkable few-shot learning abilities and showed that scaling large language models could u]]></summary>
         <author>
             <name>Mohammed Fahd Abrah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run an LLM Locally on Your Mobile Phone with QVAC and Expo]]></title>
-        <id>6a2061ad78a43e3153aede0d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-an-llm-locally-on-your-mobile-phone-with-qvac-and-expo/"/>
-        <updated>2026-06-03T17:17:33.000Z</updated>
-        <summary type="html"><![CDATA[When I was younger, I remember my mother’s Android phone, a Samsung Galaxy Note 3 that she bought right after losing her BlackBerry. During that time, a phone with 16 GB of storage was considered cutt]]></summary>
-        <author>
-            <name>Djibril-M🍀</name>
         </author>
     </entry>
     <entry>
@@ -330,17 +341,6 @@ What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More o
         <summary type="html"><![CDATA[Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computing and Displaying Discounted Prices in CSS]]></title>
-        <id>https://css-tricks.com/?p=393498</id>
-        <link href="https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/"/>
-        <updated>2026-05-14T14:05:01.000Z</updated>
-        <summary type="html"><![CDATA[A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features like attr(), mod(), and round().
-Computing and Displaying Discounted Prices in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
     <entry>
