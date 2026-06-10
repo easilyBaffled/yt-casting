@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-09T01:08:40.274Z</id>
+    <id>urn:2026-06-10T01:14:14.085Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-09T01:08:40.274Z</updated>
+    <updated>2026-06-10T01:14:14.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Open Source Tools Every STEM Student Should Know About]]></title>
+        <id>6a27af485df8cf4edcb24d9b</id>
+        <link href="https://www.freecodecamp.org/news/open-source-tools-every-stem-student-should-know-about/"/>
+        <updated>2026-06-09T06:14:32.000Z</updated>
+        <summary type="html"><![CDATA[Technology has changed the way students learn science, mathematics, engineering, and computer science. A decade ago, most STEM students depended on textbooks, calculators, and expensive licensed softw]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database Version Control with Liquibase and Spring Boot]]></title>
+        <id>6a277a781aef44b8099e978b</id>
+        <link href="https://www.freecodecamp.org/news/database-version-control-with-liquibase-and-spring-boot/"/>
+        <updated>2026-06-09T02:29:12.000Z</updated>
+        <summary type="html"><![CDATA[Picture this familiar scenario: you're working on a new feature that requires a new database column. You open your local database client, write an ALTER TABLE statement, and execute it. Your code work]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions]]></title>
         <id>https://css-tricks.com/?p=393503</id>
@@ -105,27 +125,6 @@ Another Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwri
         <summary type="html"><![CDATA[Recently, I spent time prototyping an educational app using Claude Code. The project is an open-source mobile app for educators to share, discover, and facilitate low-cost creative learning activities]]></summary>
         <author>
             <name>Srishti Sethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What “Production-Ready” Actually Means in Flutter]]></title>
-        <id>6a206c1a2a223bf98b13f071</id>
-        <link href="https://www.freecodecamp.org/news/what-production-ready-actually-means-in-flutter/"/>
-        <updated>2026-06-03T18:02:02.000Z</updated>
-        <summary type="html"><![CDATA[I've been building Flutter apps for a few years now, and I still remember the first time I shipped something I was genuinely proud of. It had a clean UI, smooth animations, and every flow worked exact]]></summary>
-        <author>
-            <name>Gidudu Nicholas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Paper Review: Training Language Models to Follow Instructions
-with Human Feedback (InstructGPT)]]></title>
-        <id>6a206bf72a223bf98b13dcfc</id>
-        <link href="https://www.freecodecamp.org/news/ai-paper-review-training-language-models-to-follow-instructions-with-human-feedback-instructgpt/"/>
-        <updated>2026-06-03T18:01:27.000Z</updated>
-        <summary type="html"><![CDATA[GPT-3 was a major breakthrough in natural language processing. With 175 billion parameters, it demonstrated remarkable few-shot learning abilities and showed that scaling large language models could u]]></summary>
-        <author>
-            <name>Mohammed Fahd Abrah</name>
         </author>
     </entry>
     <entry>
