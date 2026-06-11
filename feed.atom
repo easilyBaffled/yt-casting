@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-10T01:14:14.085Z</id>
+    <id>urn:2026-06-11T01:16:13.258Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-10T01:14:14.085Z</updated>
+    <updated>2026-06-11T01:16:13.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Creating Memorable Web Experiences: A Modern CSS Toolkit]]></title>
+        <id>https://css-tricks.com/?p=393676</id>
+        <link href="https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/"/>
+        <updated>2026-06-10T13:02:10.000Z</updated>
+        <summary type="html"><![CDATA[There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.
+Creating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mariana Beldi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Benefits Of Cognitive Inclusion In UX Research]]></title>
+        <id>https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/</id>
+        <link href="https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/"/>
+        <updated>2026-06-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kate Kalcevich)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Scraping for Beginners 2026]]></title>
+        <id>6a28c9110fd9e5ca15ede211</id>
+        <link href="https://www.freecodecamp.org/news/web-scraping-for-beginners-2026/"/>
+        <updated>2026-06-10T02:16:49.000Z</updated>
+        <summary type="html"><![CDATA[If you have ever wanted to collect product data, monitor competitors, track SEO rankings, or build AI tools that pull information from the internet, you have likely run into the common frustrations of]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a PostgreSQL-Backed Job Queue in Go]]></title>
+        <id>6a28a0135ea1e6904efb11dc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-postgresql-backed-job-queue-in-go/"/>
+        <updated>2026-06-09T23:21:55.000Z</updated>
+        <summary type="html"><![CDATA[When you build a web application, not every task should happen inside a user's request. Some work is slow. Some work can fail. Some work should happen later. Sending emails, resizing images, processin]]></summary>
+        <author>
+            <name>timothy ogbemudia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open Source Tools Every STEM Student Should Know About]]></title>
         <id>6a27af485df8cf4edcb24d9b</id>
@@ -97,16 +138,6 @@ Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Docker Full Course]]></title>
-        <id>6a217a7e004b104f5f3c88b8</id>
-        <link href="https://www.freecodecamp.org/news/docker-full-course/"/>
-        <updated>2026-06-04T13:15:42.000Z</updated>
-        <summary type="html"><![CDATA[We just posted a comprehensive Docker course now live on the freeCodeCamp.org YouTube channel! The ability to scale applications instantly and ship software reliably is an important skill. Containeriz]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!]]></title>
         <id>https://css-tricks.com/?p=393178</id>
         <link href="https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/"/>
@@ -115,16 +146,6 @@ Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally 
 Another Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Antoine Villepreux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Technical Design Decisions for Building an Educational App with LLMs]]></title>
-        <id>6a20a338e4cc400d0c4149bb</id>
-        <link href="https://www.freecodecamp.org/news/technical-design-decisions-educational-app-llms/"/>
-        <updated>2026-06-03T21:57:12.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I spent time prototyping an educational app using Claude Code. The project is an open-source mobile app for educators to share, discover, and facilitate low-cost creative learning activities]]></summary>
-        <author>
-            <name>Srishti Sethi</name>
         </author>
     </entry>
     <entry>
@@ -319,17 +340,6 @@ Stack Overflow: When We Stop Asking originally handwritten and published with lo
 Cross-Document View Transitions: The Gotchas Nobody Mentions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Durgesh Rajubhai Pawar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More]]></title>
-        <id>https://css-tricks.com/?p=394879</id>
-        <link href="https://css-tricks.com/whats-important-11/"/>
-        <updated>2026-05-15T13:16:34.000Z</updated>
-        <summary type="html"><![CDATA[If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.
-What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>

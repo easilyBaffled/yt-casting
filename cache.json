@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=393676",
+          "author": "Mariana Beldi",
+          "description": "There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.\nCreating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/",
+          "publishedOn": "2026-06-10T13:02:10.000Z",
+          "wordCount": 5126,
+          "title": "Creating Memorable Web Experiences: A Modern CSS Toolkit",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/04/nerd2-f.mp4",
+            "length": "8810169",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/psychedlic-event.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=393503",
           "author": "Geoff Graham",
           "description": "I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.\nScroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -160,16 +175,6 @@
           "wordCount": 6680,
           "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/loader-dots.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394879",
-          "author": "Daniel Schwarz",
-          "description": "If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.\nWhat’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-11/",
-          "publishedOn": "2026-05-15T13:16:34.000Z",
-          "wordCount": 3588,
-          "title": "What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/wh11.jpg"
         }
       ]
     },
@@ -178,6 +183,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
+          "author": "hello@smashingmagazine.com (Kate Kalcevich)",
+          "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
+          "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
+          "publishedOn": "2026-06-10T10:00:00.000Z",
+          "wordCount": 5750,
+          "title": "The Benefits Of Cognitive Inclusion In UX Research",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -199,7 +219,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5619,
+          "wordCount": 5514,
           "title": "June Is For Exploring (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
@@ -214,7 +234,7 @@
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5666,
+          "wordCount": 5659,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -259,7 +279,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4896,
+          "wordCount": 4897,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -274,7 +294,7 @@
           "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
           "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
           "publishedOn": "2026-05-15T10:00:00.000Z",
-          "wordCount": 4913,
+          "wordCount": 4909,
           "title": "Ten Data-Backed Truths Of User Experience ROI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
@@ -289,7 +309,7 @@
           "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
           "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
           "publishedOn": "2026-05-13T13:00:00.000Z",
-          "wordCount": 6265,
+          "wordCount": 6271,
           "title": "Practical Interface Patterns For AI Transparency (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
@@ -305,6 +325,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a28c9110fd9e5ca15ede211",
+          "author": "Beau Carnes",
+          "description": "If you have ever wanted to collect product data, monitor competitors, track SEO rankings, or build AI tools that pull information from the internet, you have likely run into the common frustrations of",
+          "link": "https://www.freecodecamp.org/news/web-scraping-for-beginners-2026/",
+          "publishedOn": "2026-06-10T02:16:49.000Z",
+          "wordCount": 1110,
+          "title": "Web Scraping for Beginners 2026",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d37db125-5538-429b-bc55-3f99005a83cd.jpg"
+        },
+        {
+          "id": "6a28a0135ea1e6904efb11dc",
+          "author": "timothy ogbemudia",
+          "description": "When you build a web application, not every task should happen inside a user's request. Some work is slow. Some work can fail. Some work should happen later. Sending emails, resizing images, processin",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-postgresql-backed-job-queue-in-go/",
+          "publishedOn": "2026-06-09T23:21:55.000Z",
+          "wordCount": 3278,
+          "title": "How to Build a PostgreSQL-Backed Job Queue in Go",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f16f87ae-8900-40e9-ba3b-64bf50cc1fe1.png"
+        },
         {
           "id": "6a27af485df8cf4edcb24d9b",
           "author": "Manish Shivanandhan",
@@ -384,26 +424,6 @@
           "wordCount": 3440,
           "title": "How to Preprocess Medical Images for Machine Learning – A Guide Using Chest X-Rays",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/eab58d7c-f63a-41ae-a01e-52a65b0be17c.png"
-        },
-        {
-          "id": "6a217a7e004b104f5f3c88b8",
-          "author": "Beau Carnes",
-          "description": "We just posted a comprehensive Docker course now live on the freeCodeCamp.org YouTube channel! The ability to scale applications instantly and ship software reliably is an important skill. Containeriz",
-          "link": "https://www.freecodecamp.org/news/docker-full-course/",
-          "publishedOn": "2026-06-04T13:15:42.000Z",
-          "wordCount": 1085,
-          "title": "Docker Full Course",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/2d702aaa-2eef-48b1-aa2b-f36dcb744501.jpg"
-        },
-        {
-          "id": "6a20a338e4cc400d0c4149bb",
-          "author": "Srishti Sethi",
-          "description": "Recently, I spent time prototyping an educational app using Claude Code. The project is an open-source mobile app for educators to share, discover, and facilitate low-cost creative learning activities",
-          "link": "https://www.freecodecamp.org/news/technical-design-decisions-educational-app-llms/",
-          "publishedOn": "2026-06-03T21:57:12.000Z",
-          "wordCount": 3443,
-          "title": "Key Technical Design Decisions for Building an Educational App with LLMs",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/004bd995-d90e-4589-be82-e66e0be110f5.png"
         }
       ]
     }
