@@ -189,7 +189,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5750,
+          "wordCount": 5761,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -219,7 +219,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5514,
+          "wordCount": 5516,
           "title": "June Is For Exploring (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
@@ -234,7 +234,7 @@
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5659,
+          "wordCount": 5663,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -279,7 +279,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4897,
+          "wordCount": 4900,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -302,21 +302,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
-          "author": "hello@smashingmagazine.com (Victor Yocco)",
-          "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
-          "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
-          "publishedOn": "2026-05-13T13:00:00.000Z",
-          "wordCount": 6271,
-          "title": "Practical Interface Patterns For AI Transparency (Part 2)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg"
         }
       ]
     },
@@ -325,6 +310,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a2ace357fbd41b5facfabdf",
+          "author": "Estefania Cassingena Navone",
+          "description": "Technology is rapidly reshaping the world. Understanding how to use free learning resources and contribute to open source projects can be very helpful to start your career in this field. We just publi",
+          "link": "https://www.freecodecamp.org/news/how-to-start-your-career-in-tech-with-freecodecamp-full-talk-in-spanish/",
+          "publishedOn": "2026-06-11T15:03:17.000Z",
+          "wordCount": 1402,
+          "title": "How to Start your Career in Tech with freeCodeCamp - Full Talk in Spanish",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/6354793a48f6ebd7a37ed09c/5bf8045b-8fe5-4efe-96a3-db8648914615.png"
+        },
         {
           "id": "6a28c9110fd9e5ca15ede211",
           "author": "Beau Carnes",
@@ -414,16 +409,6 @@
           "wordCount": 3003,
           "title": "Backend Challenges Teams Face When Processing Repeat Payments",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e7d774a7-f80b-4c91-a9f3-46b7d12e758a.png"
-        },
-        {
-          "id": "6a21b25709761aac249473c9",
-          "author": "Lakshmi Mahabaleshwara",
-          "description": "Working with healthcare data introduces preprocessing challenges that go beyond those you might encounter with structured data. Some familiar techniques still apply, while others look very different o",
-          "link": "https://www.freecodecamp.org/news/how-to-preprocess-medical-images-for-machine-learning/",
-          "publishedOn": "2026-06-04T17:13:59.000Z",
-          "wordCount": 3440,
-          "title": "How to Preprocess Medical Images for Machine Learning – A Guide Using Chest X-Rays",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/eab58d7c-f63a-41ae-a01e-52a65b0be17c.png"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-11T01:16:13.258Z</id>
+    <id>urn:2026-06-12T01:19:33.629Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-11T01:16:13.258Z</updated>
+    <updated>2026-06-12T01:19:33.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Start your Career in Tech with freeCodeCamp - Full Talk in Spanish]]></title>
+        <id>6a2ace357fbd41b5facfabdf</id>
+        <link href="https://www.freecodecamp.org/news/how-to-start-your-career-in-tech-with-freecodecamp-full-talk-in-spanish/"/>
+        <updated>2026-06-11T15:03:17.000Z</updated>
+        <summary type="html"><![CDATA[Technology is rapidly reshaping the world. Understanding how to use free learning resources and contribute to open source projects can be very helpful to start your career in this field. We just publi]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creating Memorable Web Experiences: A Modern CSS Toolkit]]></title>
         <id>https://css-tricks.com/?p=393676</id>
@@ -125,16 +135,6 @@ Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally 
         <summary type="html"><![CDATA[Modern payment systems look simple from the outside. A user clicks a button, enters payment details, and money moves from one account to another. But once payments happen repeatedly rather than once,]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Preprocess Medical Images for Machine Learning – A Guide Using Chest X-Rays]]></title>
-        <id>6a21b25709761aac249473c9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-preprocess-medical-images-for-machine-learning/"/>
-        <updated>2026-06-04T17:13:59.000Z</updated>
-        <summary type="html"><![CDATA[Working with healthcare data introduces preprocessing challenges that go beyond those you might encounter with structured data. Some familiar techniques still apply, while others look very different o]]></summary>
-        <author>
-            <name>Lakshmi Mahabaleshwara</name>
         </author>
     </entry>
     <entry>
@@ -350,16 +350,6 @@ Cross-Document View Transitions: The Gotchas Nobody Mentions originally handwrit
         <summary type="html"><![CDATA[Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Practical Interface Patterns For AI Transparency (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/</id>
-        <link href="https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/"/>
-        <updated>2026-05-13T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Yocco)</name>
         </author>
     </entry>
 </feed>
