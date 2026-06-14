@@ -1,30 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-13T01:17:15.485Z</id>
+    <id>urn:2026-06-14T01:19:19.616Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-13T01:17:15.485Z</updated>
+    <updated>2026-06-14T01:19:19.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Why Isn’t My 3D View Transition Working?]]></title>
-        <id>https://css-tricks.com/?p=395594</id>
-        <link href="https://css-tricks.com/why-isnt-my-3d-view-transition-working/"/>
-        <updated>2026-06-12T15:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.
-Why Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <title type="html"><![CDATA[Mastra vs LangChain: Building an AI Agent Pipeline and Analyzing the Data]]></title>
+        <id>6a2d04106a8db5c6ef6facf4</id>
+        <link href="https://www.freecodecamp.org/news/mastra-vs-langchain-building-an-ai-agent-pipeline-and-analyzing-the-data/"/>
+        <updated>2026-06-13T07:17:36.000Z</updated>
+        <summary type="html"><![CDATA[A week ago, I saw this tweet: I had just shipped SupportMesh, a multi-tenant AI support platform built on Mastra, so I had opinions from production. I liked the .dowhile() loop, the typed step schem]]></summary>
         <author>
-            <name>Sunkanmi Fafowora</name>
+            <name>Shola Jegede</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There’s no need to include ‘navigation’ in your navigation labels]]></title>
-        <id>https://css-tricks.com/?p=395744</id>
-        <link href="https://css-tricks.com/navigation-in-your-navigation-labels/"/>
-        <updated>2026-06-12T15:08:38.000Z</updated>
-        <summary type="html"><![CDATA[One of those nuances to keep in your back pocket when writing for screen readers.
-There’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <title type="html"><![CDATA[How Large-Scale Platforms Handle Millions of Daily Transactions]]></title>
+        <id>6a2cfda7306003b984294a7b</id>
+        <link href="https://www.freecodecamp.org/news/how-large-scale-platforms-handle-millions-of-daily-transactions/"/>
+        <updated>2026-06-13T06:50:15.000Z</updated>
+        <summary type="html"><![CDATA[Every day, millions of people order food, stream videos, send messages, book rides, make payments, and shop online. Most of these actions take only a few seconds from the user's perspective. A user cl]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Saga Pattern in Node.js: How to Roll Back Distributed Transactions Across Microservices]]></title>
+        <id>6a2cfc9713c6ff659c6c31d1</id>
+        <link href="https://www.freecodecamp.org/news/the-saga-pattern-in-node-js-roll-back-distributed-transactions-across-microservices/"/>
+        <updated>2026-06-13T06:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Building reliable workflows across multiple microservices is challenging. In a monolith, a database transaction can ensure that multiple operations either succeed or fail together. But once data is sp]]></summary>
+        <author>
+            <name>Abigail Rennemeyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Crop Tool Using JavaScript]]></title>
+        <id>6a2cfab7f3a6ae5b0409749b</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-crop-tool-javascript/"/>
+        <updated>2026-06-13T06:37:43.000Z</updated>
+        <summary type="html"><![CDATA[PDF files often contain unwanted margins, blank spaces, scanner borders, page headers, page footers, or unnecessary content around the main document area. Cropping allows users to remove these unwante]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geopolitical Risk Isn't One Thing. I Built a Python Framework to Prove It]]></title>
+        <id>6a2cfaa312f3716e29ed15f7</id>
+        <link href="https://www.freecodecamp.org/news/geopolitical-risk-isn-t-one-thing-i-built-a-python-framework-to-prove-it/"/>
+        <updated>2026-06-13T06:37:23.000Z</updated>
+        <summary type="html"><![CDATA[On April 3, 2025, the US announced sweeping tariffs on Chinese imports. SPY dropped 4.8% that day. The next day, it dropped another 6%. Financial news ran the usual headline: markets rattled by geopol]]></summary>
+        <author>
+            <name>Nikhil Adithyan</name>
         </author>
     </entry>
     <entry>
@@ -78,17 +106,6 @@ There’s no need to include ‘navigation’ in your navigation labels original
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating Memorable Web Experiences: A Modern CSS Toolkit]]></title>
-        <id>https://css-tricks.com/?p=393676</id>
-        <link href="https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/"/>
-        <updated>2026-06-10T13:02:10.000Z</updated>
-        <summary type="html"><![CDATA[There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.
-Creating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mariana Beldi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Benefits Of Cognitive Inclusion In UX Research]]></title>
         <id>https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/</id>
         <link href="https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/"/>
@@ -109,112 +126,6 @@ Creating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a PostgreSQL-Backed Job Queue in Go]]></title>
-        <id>6a28a0135ea1e6904efb11dc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-postgresql-backed-job-queue-in-go/"/>
-        <updated>2026-06-09T23:21:55.000Z</updated>
-        <summary type="html"><![CDATA[When you build a web application, not every task should happen inside a user's request. Some work is slow. Some work can fail. Some work should happen later. Sending emails, resizing images, processin]]></summary>
-        <author>
-            <name>timothy ogbemudia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Source Tools Every STEM Student Should Know About]]></title>
-        <id>6a27af485df8cf4edcb24d9b</id>
-        <link href="https://www.freecodecamp.org/news/open-source-tools-every-stem-student-should-know-about/"/>
-        <updated>2026-06-09T06:14:32.000Z</updated>
-        <summary type="html"><![CDATA[Technology has changed the way students learn science, mathematics, engineering, and computer science. A decade ago, most STEM students depended on textbooks, calculators, and expensive licensed softw]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Database Version Control with Liquibase and Spring Boot]]></title>
-        <id>6a277a781aef44b8099e978b</id>
-        <link href="https://www.freecodecamp.org/news/database-version-control-with-liquibase-and-spring-boot/"/>
-        <updated>2026-06-09T02:29:12.000Z</updated>
-        <summary type="html"><![CDATA[Picture this familiar scenario: you're working on a new feature that requires a new database column. You open your local database client, write an ALTER TABLE statement, and execute it. Your code work]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions]]></title>
-        <id>https://css-tricks.com/?p=393503</id>
-        <link href="https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/"/>
-        <updated>2026-06-08T13:00:34.000Z</updated>
-        <summary type="html"><![CDATA[I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.
-Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize Enterprise Knowledge Graphs for Scalable Digital Product Platforms]]></title>
-        <id>6a26427ed198e572e0517866</id>
-        <link href="https://www.freecodecamp.org/news/how-to-optimize-enterprise-knowledge-graphs-for-scalable-digital-product-platforms/"/>
-        <updated>2026-06-08T04:18:06.000Z</updated>
-        <summary type="html"><![CDATA[Enterprises are building more and more digital products that depend on real time intelligence. This means that being able to connect, contextualize, and reason over data has become a core capability.]]></summary>
-        <author>
-            <name>Kamal Kishore</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF Metadata Editor Using JavaScript – A Step-by-Step Guide]]></title>
-        <id>6a24b9ff67572e709df5342b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-browser-based-pdf-metadata-editor-using-javascript/"/>
-        <updated>2026-06-07T00:23:27.000Z</updated>
-        <summary type="html"><![CDATA[PDF files contain more information than what appears on the page. Behind every PDF document is metadata that stores information such as the document title, author, subject, keywords, creator applicati]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!]]></title>
-        <id>https://css-tricks.com/?p=393178</id>
-        <link href="https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/"/>
-        <updated>2026-06-04T13:14:49.000Z</updated>
-        <summary type="html"><![CDATA[We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.
-Another Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Antoine Villepreux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[offset-path]]></title>
-        <id>http://css-tricks.com/?page_id=243521</id>
-        <link href="https://css-tricks.com/almanac/properties/o/offset-path/"/>
-        <updated>2026-06-03T15:02:38.000Z</updated>
-        <summary type="html"><![CDATA[The offset-path property in CSS defines a movement path for an element to follow during animation.
-This property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …
-offset-path originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@custom-media]]></title>
-        <id>https://css-tricks.com/?page_id=394739</id>
-        <link href="https://css-tricks.com/almanac/rules/c/custom-media/"/>
-        <updated>2026-06-03T13:03:21.000Z</updated>
-        <summary type="html"><![CDATA[The CSS @custom-media at-rule allows creating aliases for media queries.
-@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Declan Chidlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@function]]></title>
-        <id>https://css-tricks.com/?page_id=394732</id>
-        <link href="https://css-tricks.com/almanac/rules/f/function/"/>
-        <updated>2026-06-03T13:02:39.000Z</updated>
-        <summary type="html"><![CDATA[The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. 
-@function originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Declan Chidlow</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Make Your Design System AI-Ready]]></title>
         <id>https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/</id>
         <link href="https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/"/>
@@ -222,29 +133,6 @@ offset-path originally handwritten and published with love on CSS-Tricks. You sh
         <summary type="html"><![CDATA[Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[::search-text]]></title>
-        <id>https://css-tricks.com/?page_id=393544</id>
-        <link href="https://css-tricks.com/almanac/pseudo-selectors/s/search-text/"/>
-        <updated>2026-06-02T12:59:21.000Z</updated>
-        <summary type="html"><![CDATA[The CSS ::search-text pseudo-element selects the matching text from your browser's "find in page" feature. 
-::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astro Markdown Component Utility for Any Framework]]></title>
-        <id>https://css-tricks.com/?p=392775</id>
-        <link href="https://css-tricks.com/astro-markdown-component-utility-any-framework/"/>
-        <updated>2026-06-01T13:25:00.000Z</updated>
-        <summary type="html"><![CDATA[In the previous article, I spoke about the why and how to use a Markdown component in Astro.
-Here, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …
-Astro Markdown Component Utility for Any Framework originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
     <entry>
@@ -258,17 +146,6 @@ Astro Markdown Component Utility for Any Framework originally handwritten and pu
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More]]></title>
-        <id>https://css-tricks.com/?p=395357</id>
-        <link href="https://css-tricks.com/whats-important-12/"/>
-        <updated>2026-05-29T13:25:38.000Z</updated>
-        <summary type="html"><![CDATA[The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.
-What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`]]></title>
         <id>https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/</id>
         <link href="https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/"/>
@@ -279,39 +156,6 @@ What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Revealing Text With CSS letter-spacing]]></title>
-        <id>https://css-tricks.com/?p=393536</id>
-        <link href="https://css-tricks.com/revealing-text-with-css-letter-spacing/"/>
-        <updated>2026-05-27T12:37:33.000Z</updated>
-        <summary type="html"><![CDATA[Until we get something like ::nth-letter, there are still some really cool text effects we can make from existing CSS features, like letter-spacing, ::first-word and ::first-line.
-Revealing Text With CSS letter-spacing originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technical Writing in the AI Age]]></title>
-        <id>https://css-tricks.com/?p=395048</id>
-        <link href="https://css-tricks.com/technical-writing-in-the-ai-age/"/>
-        <updated>2026-05-26T13:49:28.000Z</updated>
-        <summary type="html"><![CDATA[This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.
-Technical Writing in the AI Age originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross-Document View Transitions: Scaling Across Hundreds of Elements]]></title>
-        <id>https://css-tricks.com/?p=393441</id>
-        <link href="https://css-tricks.com/cross-document-view-transitions-part-2/"/>
-        <updated>2026-05-25T13:46:54.000Z</updated>
-        <summary type="html"><![CDATA[Every view-transition-name on a page must be unique. The problem is that every pseudo-element selector in your CSS targets a specific name, so your animation styles explode into an unmanageable wall of selectors.
-Cross-Document View Transitions: Scaling Across Hundreds of Elements originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Durgesh Rajubhai Pawar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)]]></title>
         <id>https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/</id>
         <link href="https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/"/>
@@ -319,17 +163,6 @@ Cross-Document View Transitions: Scaling Across Hundreds of Elements originally 
         <summary type="html"><![CDATA[There’s a moment in almost every usability session where a participant pauses at the login screen, types something, and glances up: checking whether they’re “doing it right.” That pause is a clear sign. They’ve already clocked that this isn’t a real app, and every data point collected after that moment is filtered through that awareness.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Joseph L.)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State of CSS Centering in 2026]]></title>
-        <id>https://css-tricks.com/?p=394429</id>
-        <link href="https://css-tricks.com/the-state-of-css-centering-in-2026/"/>
-        <updated>2026-05-22T13:44:40.000Z</updated>
-        <summary type="html"><![CDATA[Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the current state of centering options today in 2026. 
-The State of CSS Centering in 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
@@ -350,16 +183,6 @@ The State of CSS Centering in 2026 originally handwritten and published with lov
         <summary type="html"><![CDATA[Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ten Data-Backed Truths Of User Experience ROI]]></title>
-        <id>https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/</id>
-        <link href="https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/"/>
-        <updated>2026-05-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carrie Webster)</name>
         </author>
     </entry>
 </feed>
