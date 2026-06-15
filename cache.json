@@ -7,6 +7,183 @@
       "articles": []
     },
     {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=395594",
+          "author": "Sunkanmi Fafowora",
+          "description": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\nWhy Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
+          "publishedOn": "2026-06-12T15:09:00.000Z",
+          "wordCount": 3901,
+          "title": "Why Isn’t My 3D View Transition Working?",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/06/video_1.mp4",
+            "length": "2984445",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/cover.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=395744",
+          "author": "Geoff Graham",
+          "description": "One of those nuances to keep in your back pocket when writing for screen readers.\nThere’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/navigation-in-your-navigation-labels/",
+          "publishedOn": "2026-06-12T15:08:38.000Z",
+          "wordCount": 2784,
+          "title": "There’s no need to include ‘navigation’ in your navigation labels",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/stairwaynav.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393676",
+          "author": "Mariana Beldi",
+          "description": "There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.\nCreating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/",
+          "publishedOn": "2026-06-10T13:02:10.000Z",
+          "wordCount": 5126,
+          "title": "Creating Memorable Web Experiences: A Modern CSS Toolkit",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/04/nerd2-f.mp4",
+            "length": "8810169",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/psychedlic-event.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393503",
+          "author": "Geoff Graham",
+          "description": "I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.\nScroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
+          "publishedOn": "2026-06-08T13:00:34.000Z",
+          "wordCount": 3354,
+          "title": "Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/04/Screen-Recording-2026-04-14-at-10.16.47-AM.mov",
+            "length": "3122373",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/scroll-animations-view-transitions.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393178",
+          "author": "Antoine Villepreux",
+          "description": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\nAnother Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
+          "publishedOn": "2026-06-04T13:14:49.000Z",
+          "wordCount": 5036,
+          "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/03/screenreader.mp4",
+            "length": "644313",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/pie-chart.webp"
+        },
+        {
+          "id": "http://css-tricks.com/?page_id=243521",
+          "author": "Geoff Graham",
+          "description": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …\noffset-path originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/properties/o/offset-path/",
+          "publishedOn": "2026-06-03T15:02:38.000Z",
+          "wordCount": 4295,
+          "title": "offset-path",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2016/07/funky-path.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=394739",
+          "author": "Declan Chidlow",
+          "description": "The CSS @custom-media at-rule allows creating aliases for media queries.\n@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/rules/c/custom-media/",
+          "publishedOn": "2026-06-03T13:03:21.000Z",
+          "wordCount": 4177,
+          "title": "@custom-media",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=394732",
+          "author": "Declan Chidlow",
+          "description": "The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. \n@function originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/rules/f/function/",
+          "publishedOn": "2026-06-03T13:02:39.000Z",
+          "wordCount": 4787,
+          "title": "@function",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393544",
+          "author": "Sunkanmi Fafowora",
+          "description": "The CSS ::search-text pseudo-element selects the matching text from your browser's \"find in page\" feature. \n::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/pseudo-selectors/s/search-text/",
+          "publishedOn": "2026-06-02T12:59:21.000Z",
+          "wordCount": 4202,
+          "title": "::search-text",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=392775",
+          "author": "Zell Liew",
+          "description": "In the previous article, I spoke about the why and how to use a Markdown component in Astro.\nHere, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …\nAstro Markdown Component Utility for Any Framework originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/astro-markdown-component-utility-any-framework/",
+          "publishedOn": "2026-06-01T13:25:00.000Z",
+          "wordCount": 3123,
+          "title": "Astro Markdown Component Utility for Any Framework",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/markdown-astro.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=395357",
+          "author": "Daniel Schwarz",
+          "description": "The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.\nWhat’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-12/",
+          "publishedOn": "2026-05-29T13:25:38.000Z",
+          "wordCount": 3479,
+          "title": "What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/Screenshot-2026-05-28-at-2.31.26-PM.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393536",
+          "author": "Preethi",
+          "description": "Until we get something like ::nth-letter, there are still some really cool text effects we can make from existing CSS features, like letter-spacing, ::first-word and ::first-line.\nRevealing Text With CSS letter-spacing originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/revealing-text-with-css-letter-spacing/",
+          "publishedOn": "2026-05-27T12:37:33.000Z",
+          "wordCount": 3519,
+          "title": "Revealing Text With CSS letter-spacing",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/revealing-text.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=395048",
+          "author": "Geoff Graham",
+          "description": "This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.\nTechnical Writing in the AI Age originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/technical-writing-in-the-ai-age/",
+          "publishedOn": "2026-05-26T13:49:28.000Z",
+          "wordCount": 6125,
+          "title": "Technical Writing in the AI Age",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/technical-writing.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393441",
+          "author": "Durgesh Rajubhai Pawar",
+          "description": "Every view-transition-name on a page must be unique. The problem is that every pseudo-element selector in your CSS targets a specific name, so your animation styles explode into an unmanageable wall of selectors.\nCross-Document View Transitions: Scaling Across Hundreds of Elements originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/cross-document-view-transitions-part-2/",
+          "publishedOn": "2026-05-25T13:46:54.000Z",
+          "wordCount": 6436,
+          "title": "Cross-Document View Transitions: Scaling Across Hundreds of Elements",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/dots-loader.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=394429",
+          "author": "Temani Afif",
+          "description": "Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the current state of centering options today in 2026. \nThe State of CSS Centering in 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
+          "publishedOn": "2026-05-22T13:44:40.000Z",
+          "wordCount": 5484,
+          "title": "The State of CSS Centering in 2026",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/centered-text.webp"
+        }
+      ]
+    },
+    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
@@ -17,7 +194,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4922,
+          "wordCount": 4813,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -32,7 +209,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5753,
+          "wordCount": 5766,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -62,7 +239,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5529,
+          "wordCount": 5630,
           "title": "June Is For Exploring (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
@@ -77,7 +254,7 @@
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5665,
+          "wordCount": 5670,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -122,7 +299,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4906,
+          "wordCount": 4903,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -138,6 +315,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a2e0f54136fd4eb2c9cc925",
+          "author": "Manish Shivanandhan",
+          "description": "For years, developers have debated which technology stack was best for building websites. Some preferred React. Others chose Vue, Angular, Svelte, or server-side frameworks such as Laravel and Django.",
+          "link": "https://www.freecodecamp.org/news/building-a-website-what-matters-more-than-your-tech-stack/",
+          "publishedOn": "2026-06-14T02:17:56.000Z",
+          "wordCount": 2819,
+          "title": "Building a Website in 2026: What Matters More Than Your Tech Stack",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/10d14873-8414-410e-8325-17e7df039608.png"
+        },
+        {
+          "id": "6a2e0cb22e4a72670f854140",
+          "author": "Djibril-M🍀",
+          "description": "When I was putting the final touches on QuizRope, an educational mobile app I built that uses LLMs for real-time tutoring and homework assistance, I knew the next logical step was voice. Reading text",
+          "link": "https://www.freecodecamp.org/news/how-to-run-private-text-to-speech-on-your-own-hardware-using-qvac/",
+          "publishedOn": "2026-06-14T02:06:42.000Z",
+          "wordCount": 4005,
+          "title": "How to Run Private Text-to-Speech on Your Own Hardware Using QVAC",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3ac11484-05eb-4e59-9d35-f2bad4d1d730.png"
+        },
         {
           "id": "6a2d04106a8db5c6ef6facf4",
           "author": "Shola Jegede",
@@ -160,11 +357,11 @@
         },
         {
           "id": "6a2cfc9713c6ff659c6c31d1",
-          "author": "Abigail Rennemeyer",
+          "author": "Md Tarikul Islam",
           "description": "Building reliable workflows across multiple microservices is challenging. In a monolith, a database transaction can ensure that multiple operations either succeed or fail together. But once data is sp",
           "link": "https://www.freecodecamp.org/news/the-saga-pattern-in-node-js-roll-back-distributed-transactions-across-microservices/",
           "publishedOn": "2026-06-13T06:45:43.000Z",
-          "wordCount": 4748,
+          "wordCount": 4817,
           "title": "The Saga Pattern in Node.js: How to Roll Back Distributed Transactions Across Microservices",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b0e126ec-8b90-470a-b5c0-55e5e1673731.png"
         },
@@ -217,26 +414,6 @@
           "wordCount": 5395,
           "title": "How to Scale Laravel Applications for High-Traffic Production Systems",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8882176c-0420-4fc9-8d72-129640aac231.png"
-        },
-        {
-          "id": "6a2ace357fbd41b5facfabdf",
-          "author": "Estefania Cassingena Navone",
-          "description": "Technology is rapidly reshaping the world. Understanding how to use free learning resources and contribute to open source projects can be very helpful to start your career in this field. We just publi",
-          "link": "https://www.freecodecamp.org/news/how-to-start-your-career-in-tech-with-freecodecamp-full-talk-in-spanish/",
-          "publishedOn": "2026-06-11T15:03:17.000Z",
-          "wordCount": 1402,
-          "title": "How to Start your Career in Tech with freeCodeCamp - Full Talk in Spanish",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/6354793a48f6ebd7a37ed09c/5bf8045b-8fe5-4efe-96a3-db8648914615.png"
-        },
-        {
-          "id": "6a28c9110fd9e5ca15ede211",
-          "author": "Beau Carnes",
-          "description": "If you have ever wanted to collect product data, monitor competitors, track SEO rankings, or build AI tools that pull information from the internet, you have likely run into the common frustrations of",
-          "link": "https://www.freecodecamp.org/news/web-scraping-for-beginners-2026/",
-          "publishedOn": "2026-06-10T02:16:49.000Z",
-          "wordCount": 1110,
-          "title": "Web Scraping for Beginners 2026",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d37db125-5538-429b-bc55-3f99005a83cd.jpg"
         }
       ]
     }
