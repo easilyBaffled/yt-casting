@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-15T01:22:08.045Z</id>
+    <id>urn:2026-06-16T01:23:17.220Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-15T01:22:08.045Z</updated>
+    <updated>2026-06-16T01:23:17.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Paper Review: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models]]></title>
+        <id>6a30800dc3625a1a686f75f8</id>
+        <link href="https://www.freecodecamp.org/news/ai-paper-review-chain-of-thought-prompting-elicits-reasoning-in-large-language-models/"/>
+        <updated>2026-06-15T22:43:25.000Z</updated>
+        <summary type="html"><![CDATA[For the last few years, Large Language Models have been impressing researchers with their ability to generate text, answer questions, translate languages, and perform tasks they had never been explici]]></summary>
+        <author>
+            <name>Mohammed Fahd Abrah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Self-Healing CI/CD Pipeline with AI]]></title>
+        <id>6a2fef02af88b2b9b6fa784b</id>
+        <link href="https://www.freecodecamp.org/news/build-a-self-healing-ci-cd-pipeline-with-ai/"/>
+        <updated>2026-06-15T12:24:34.000Z</updated>
+        <summary type="html"><![CDATA[Learn how how to build a fully autonomous, self-healing CI/CD pipeline from scratch with a new course we just posted on the freeCodeCamp.org YouTube channel. Farzeen Ali developed this course. In this]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a Website in 2026: What Matters More Than Your Tech Stack]]></title>
         <id>6a2e0f54136fd4eb2c9cc925</id>
@@ -76,28 +96,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Isn’t My 3D View Transition Working?]]></title>
-        <id>https://css-tricks.com/?p=395594</id>
-        <link href="https://css-tricks.com/why-isnt-my-3d-view-transition-working/"/>
-        <updated>2026-06-12T15:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.
-Why Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There’s no need to include ‘navigation’ in your navigation labels]]></title>
-        <id>https://css-tricks.com/?p=395744</id>
-        <link href="https://css-tricks.com/navigation-in-your-navigation-labels/"/>
-        <updated>2026-06-12T15:08:38.000Z</updated>
-        <summary type="html"><![CDATA[One of those nuances to keep in your back pocket when writing for screen readers.
-There’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Impact Of Humanoid Robots On Humanity]]></title>
         <id>https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/</id>
         <link href="https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"/>
@@ -118,37 +116,6 @@ There’s no need to include ‘navigation’ in your navigation labels original
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Flutter to Backend: How to Build Production-Grade REST APIs with Dart and Dart Frog]]></title>
-        <id>6a2b553bb84c3c44ce471560</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-production-grade-rest-apis-with-dart-and-dart-frog/"/>
-        <updated>2026-06-12T00:39:23.000Z</updated>
-        <summary type="html"><![CDATA[Dart backend frameworks exist on a spectrum. At the minimal end sits Shelf, with raw primitives and full control. You wire everything yourself. At the maximal end sits Serverpod. It's a full framework]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Scale Laravel Applications for High-Traffic Production Systems]]></title>
-        <id>6a2b48a3a381db4fd3f61555</id>
-        <link href="https://www.freecodecamp.org/news/how-to-scale-laravel-applications-for-high-traffic-production-systems/"/>
-        <updated>2026-06-11T23:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Your first scaling problem rarely arrives with a bang. For a while, everything is fine: pages load fast, the database barely breaks a sweat, and the team ships features without thinking much about inf]]></summary>
-        <author>
-            <name>Olamilekan Lamidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Memorable Web Experiences: A Modern CSS Toolkit]]></title>
-        <id>https://css-tricks.com/?p=393676</id>
-        <link href="https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/"/>
-        <updated>2026-06-10T13:02:10.000Z</updated>
-        <summary type="html"><![CDATA[There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.
-Creating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mariana Beldi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Benefits Of Cognitive Inclusion In UX Research]]></title>
         <id>https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/</id>
         <link href="https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/"/>
@@ -156,62 +123,6 @@ Creating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten 
         <summary type="html"><![CDATA[Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kate Kalcevich)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions]]></title>
-        <id>https://css-tricks.com/?p=393503</id>
-        <link href="https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/"/>
-        <updated>2026-06-08T13:00:34.000Z</updated>
-        <summary type="html"><![CDATA[I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.
-Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!]]></title>
-        <id>https://css-tricks.com/?p=393178</id>
-        <link href="https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/"/>
-        <updated>2026-06-04T13:14:49.000Z</updated>
-        <summary type="html"><![CDATA[We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.
-Another Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Antoine Villepreux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[offset-path]]></title>
-        <id>http://css-tricks.com/?page_id=243521</id>
-        <link href="https://css-tricks.com/almanac/properties/o/offset-path/"/>
-        <updated>2026-06-03T15:02:38.000Z</updated>
-        <summary type="html"><![CDATA[The offset-path property in CSS defines a movement path for an element to follow during animation.
-This property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …
-offset-path originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@custom-media]]></title>
-        <id>https://css-tricks.com/?page_id=394739</id>
-        <link href="https://css-tricks.com/almanac/rules/c/custom-media/"/>
-        <updated>2026-06-03T13:03:21.000Z</updated>
-        <summary type="html"><![CDATA[The CSS @custom-media at-rule allows creating aliases for media queries.
-@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Declan Chidlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@function]]></title>
-        <id>https://css-tricks.com/?page_id=394732</id>
-        <link href="https://css-tricks.com/almanac/rules/f/function/"/>
-        <updated>2026-06-03T13:02:39.000Z</updated>
-        <summary type="html"><![CDATA[The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. 
-@function originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Declan Chidlow</name>
         </author>
     </entry>
     <entry>
@@ -225,29 +136,6 @@ offset-path originally handwritten and published with love on CSS-Tricks. You sh
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[::search-text]]></title>
-        <id>https://css-tricks.com/?page_id=393544</id>
-        <link href="https://css-tricks.com/almanac/pseudo-selectors/s/search-text/"/>
-        <updated>2026-06-02T12:59:21.000Z</updated>
-        <summary type="html"><![CDATA[The CSS ::search-text pseudo-element selects the matching text from your browser's "find in page" feature. 
-::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astro Markdown Component Utility for Any Framework]]></title>
-        <id>https://css-tricks.com/?p=392775</id>
-        <link href="https://css-tricks.com/astro-markdown-component-utility-any-framework/"/>
-        <updated>2026-06-01T13:25:00.000Z</updated>
-        <summary type="html"><![CDATA[In the previous article, I spoke about the why and how to use a Markdown component in Astro.
-Here, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …
-Astro Markdown Component Utility for Any Framework originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[June Is For Exploring (2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/</id>
         <link href="https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/"/>
@@ -255,17 +143,6 @@ Astro Markdown Component Utility for Any Framework originally handwritten and pu
         <summary type="html"><![CDATA[Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More]]></title>
-        <id>https://css-tricks.com/?p=395357</id>
-        <link href="https://css-tricks.com/whats-important-12/"/>
-        <updated>2026-05-29T13:25:38.000Z</updated>
-        <summary type="html"><![CDATA[The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.
-What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -279,39 +156,6 @@ What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Revealing Text With CSS letter-spacing]]></title>
-        <id>https://css-tricks.com/?p=393536</id>
-        <link href="https://css-tricks.com/revealing-text-with-css-letter-spacing/"/>
-        <updated>2026-05-27T12:37:33.000Z</updated>
-        <summary type="html"><![CDATA[Until we get something like ::nth-letter, there are still some really cool text effects we can make from existing CSS features, like letter-spacing, ::first-word and ::first-line.
-Revealing Text With CSS letter-spacing originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technical Writing in the AI Age]]></title>
-        <id>https://css-tricks.com/?p=395048</id>
-        <link href="https://css-tricks.com/technical-writing-in-the-ai-age/"/>
-        <updated>2026-05-26T13:49:28.000Z</updated>
-        <summary type="html"><![CDATA[This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.
-Technical Writing in the AI Age originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross-Document View Transitions: Scaling Across Hundreds of Elements]]></title>
-        <id>https://css-tricks.com/?p=393441</id>
-        <link href="https://css-tricks.com/cross-document-view-transitions-part-2/"/>
-        <updated>2026-05-25T13:46:54.000Z</updated>
-        <summary type="html"><![CDATA[Every view-transition-name on a page must be unique. The problem is that every pseudo-element selector in your CSS targets a specific name, so your animation styles explode into an unmanageable wall of selectors.
-Cross-Document View Transitions: Scaling Across Hundreds of Elements originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Durgesh Rajubhai Pawar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)]]></title>
         <id>https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/</id>
         <link href="https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/"/>
@@ -319,17 +163,6 @@ Cross-Document View Transitions: Scaling Across Hundreds of Elements originally 
         <summary type="html"><![CDATA[There’s a moment in almost every usability session where a participant pauses at the login screen, types something, and glances up: checking whether they’re “doing it right.” That pause is a clear sign. They’ve already clocked that this isn’t a real app, and every data point collected after that moment is filtered through that awareness.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Joseph L.)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State of CSS Centering in 2026]]></title>
-        <id>https://css-tricks.com/?p=394429</id>
-        <link href="https://css-tricks.com/the-state-of-css-centering-in-2026/"/>
-        <updated>2026-05-22T13:44:40.000Z</updated>
-        <summary type="html"><![CDATA[Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the current state of centering options today in 2026. 
-The State of CSS Centering in 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
