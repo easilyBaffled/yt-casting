@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-18T01:17:47.191Z</id>
+    <id>urn:2026-06-19T01:23:59.098Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-18T01:17:47.191Z</updated>
+    <updated>2026-06-19T01:23:59.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Offline AI Image Generator in Node.js with QVAC and Socket.io]]></title>
+        <id>6a3417433a2cf3cf64bb2225</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-offline-ai-image-generator-in-node-js-with-qvac-and-socket-io/"/>
+        <updated>2026-06-18T16:05:23.000Z</updated>
+        <summary type="html"><![CDATA[A few years ago, the first day I finally got access to an AI image generator, I was so excited that I immediately sat down and wrote an article about it (using Node.js and OpenAI's DALL-E). The magic]]></summary>
+        <author>
+            <name>Djibril-M🍀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Wearables Track the Menstrual Cycle: The Sensors, the Algorithms, and the Accuracy Gap]]></title>
+        <id>6a34144348f250210b480951</id>
+        <link href="https://www.freecodecamp.org/news/how-wearables-track-the-menstrual-cycle-the-sensors-the-algorithms-and-the-accuracy-gap/"/>
+        <updated>2026-06-18T15:52:34.000Z</updated>
+        <summary type="html"><![CDATA[Your Garmin shows poor recovery, WHOOP paints your day red, your resting heart rate is high, your HRV is low, and the app recommends that you rest. But here’s the thing: you don’t actually feel bad. F]]></summary>
+        <author>
+            <name>Shradha Puri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Analyze Analyst Estimate Ranges with Python]]></title>
+        <id>6a34139bd09354fbef127810</id>
+        <link href="https://www.freecodecamp.org/news/how-to-analyze-analyst-estimate-ranges-with-python/"/>
+        <updated>2026-06-18T15:49:47.000Z</updated>
+        <summary type="html"><![CDATA[Most financial models use analyst consensus as a single forward-looking input: revenue estimate, EPS estimate, EBITDA estimate, or some version of a forward margin assumption. That works, but it flatt]]></summary>
+        <author>
+            <name>Nikhil Adithyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Small Context Window Limits in RAG Systems]]></title>
+        <id>6a33373b82e3f02be1b8c36f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-small-context-window-limits-in-rag-systems/"/>
+        <updated>2026-06-18T00:09:31.000Z</updated>
+        <summary type="html"><![CDATA[Retrieval-augmented generation, or RAG, is a pattern where an application retrieves relevant source material and adds it to a model prompt so the model can answer from that context. A larger context w]]></summary>
+        <author>
+            <name>Sviatoslav Barbutsa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Avoid Overusing useCallback and useMemo in React]]></title>
         <id>6a32f4091d5034aa7d96e448</id>
@@ -46,12 +86,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Siren Song of  ariaNotify()]]></title>
+        <title type="html"><![CDATA[The Siren Song of ariaNotify()]]></title>
         <id>https://css-tricks.com/?p=395567</id>
         <link href="https://css-tricks.com/the-siren-song-of-arianotify/"/>
         <updated>2026-06-17T15:32:30.000Z</updated>
         <summary type="html"><![CDATA[There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.
-The Siren Song of  ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+The Siren Song of ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Mat Marquis</name>
         </author>
@@ -98,16 +138,6 @@ Prop For That originally handwritten and published with love on CSS-Tricks. You 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Paper Review: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models]]></title>
-        <id>6a30800dc3625a1a686f75f8</id>
-        <link href="https://www.freecodecamp.org/news/ai-paper-review-chain-of-thought-prompting-elicits-reasoning-in-large-language-models/"/>
-        <updated>2026-06-15T22:43:25.000Z</updated>
-        <summary type="html"><![CDATA[For the last few years, Large Language Models have been impressing researchers with their ability to generate text, answer questions, translate languages, and perform tasks they had never been explici]]></summary>
-        <author>
-            <name>Mohammed Fahd Abrah</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What’s !important #13: @function, alpha(), CSS Wordle, and More]]></title>
         <id>https://css-tricks.com/?p=395752</id>
         <link href="https://css-tricks.com/whats-important-13/"/>
@@ -116,36 +146,6 @@ Prop For That originally handwritten and published with love on CSS-Tricks. You 
 What’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Self-Healing CI/CD Pipeline with AI]]></title>
-        <id>6a2fef02af88b2b9b6fa784b</id>
-        <link href="https://www.freecodecamp.org/news/build-a-self-healing-ci-cd-pipeline-with-ai/"/>
-        <updated>2026-06-15T12:24:34.000Z</updated>
-        <summary type="html"><![CDATA[Learn how how to build a fully autonomous, self-healing CI/CD pipeline from scratch with a new course we just posted on the freeCodeCamp.org YouTube channel. Farzeen Ali developed this course. In this]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Website in 2026: What Matters More Than Your Tech Stack]]></title>
-        <id>6a2e0f54136fd4eb2c9cc925</id>
-        <link href="https://www.freecodecamp.org/news/building-a-website-what-matters-more-than-your-tech-stack/"/>
-        <updated>2026-06-14T02:17:56.000Z</updated>
-        <summary type="html"><![CDATA[For years, developers have debated which technology stack was best for building websites. Some preferred React. Others chose Vue, Angular, Svelte, or server-side frameworks such as Laravel and Django.]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run Private Text-to-Speech on Your Own Hardware Using QVAC]]></title>
-        <id>6a2e0cb22e4a72670f854140</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-private-text-to-speech-on-your-own-hardware-using-qvac/"/>
-        <updated>2026-06-14T02:06:42.000Z</updated>
-        <summary type="html"><![CDATA[When I was putting the final touches on QuizRope, an educational mobile app I built that uses LLMs for real-time tutoring and homework assistance, I knew the next logical step was voice. Reading text]]></summary>
-        <author>
-            <name>Djibril-M🍀</name>
         </author>
     </entry>
     <entry>
