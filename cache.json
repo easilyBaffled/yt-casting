@@ -7,183 +7,6 @@
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=395567",
-          "author": "Mat Marquis",
-          "description": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\nThe Siren Song of ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/the-siren-song-of-arianotify/",
-          "publishedOn": "2026-06-17T15:32:30.000Z",
-          "wordCount": 5524,
-          "title": "The Siren Song of ariaNotify()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/arianotify.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395776",
-          "author": "Geoff Graham",
-          "description": "Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.\nProp For That originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/prop-for-that/",
-          "publishedOn": "2026-06-16T18:36:25.000Z",
-          "wordCount": 2864,
-          "title": "Prop For That",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/prop-for-that-masthead.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395752",
-          "author": "Daniel Schwarz",
-          "description": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\nWhat’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-13/",
-          "publishedOn": "2026-06-15T13:15:33.000Z",
-          "wordCount": 3501,
-          "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wi13.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395594",
-          "author": "Sunkanmi Fafowora",
-          "description": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\nWhy Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
-          "publishedOn": "2026-06-12T15:09:00.000Z",
-          "wordCount": 4020,
-          "title": "Why Isn’t My 3D View Transition Working?",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/06/video_1.mp4",
-            "length": "2984445",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/cover.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395744",
-          "author": "Geoff Graham",
-          "description": "One of those nuances to keep in your back pocket when writing for screen readers.\nThere’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/navigation-in-your-navigation-labels/",
-          "publishedOn": "2026-06-12T15:08:38.000Z",
-          "wordCount": 2785,
-          "title": "There’s no need to include ‘navigation’ in your navigation labels",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/stairwaynav.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393676",
-          "author": "Mariana Beldi",
-          "description": "There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.\nCreating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/",
-          "publishedOn": "2026-06-10T13:02:10.000Z",
-          "wordCount": 5146,
-          "title": "Creating Memorable Web Experiences: A Modern CSS Toolkit",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/04/nerd2-f.mp4",
-            "length": "8810169",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/psychedlic-event.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393503",
-          "author": "Geoff Graham",
-          "description": "I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.\nScroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
-          "publishedOn": "2026-06-08T13:00:34.000Z",
-          "wordCount": 3362,
-          "title": "Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/04/Screen-Recording-2026-04-14-at-10.16.47-AM.mov",
-            "length": "3122373",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/scroll-animations-view-transitions.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393178",
-          "author": "Antoine Villepreux",
-          "description": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\nAnother Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
-          "publishedOn": "2026-06-04T13:14:49.000Z",
-          "wordCount": 5044,
-          "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/03/screenreader.mp4",
-            "length": "644313",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/pie-chart.webp"
-        },
-        {
-          "id": "http://css-tricks.com/?page_id=243521",
-          "author": "Geoff Graham",
-          "description": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …\noffset-path originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/o/offset-path/",
-          "publishedOn": "2026-06-03T15:02:38.000Z",
-          "wordCount": 4296,
-          "title": "offset-path",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2016/07/funky-path.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=394739",
-          "author": "Declan Chidlow",
-          "description": "The CSS @custom-media at-rule allows creating aliases for media queries.\n@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/rules/c/custom-media/",
-          "publishedOn": "2026-06-03T13:03:21.000Z",
-          "wordCount": 4178,
-          "title": "@custom-media",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=394732",
-          "author": "Declan Chidlow",
-          "description": "The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. \n@function originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/rules/f/function/",
-          "publishedOn": "2026-06-03T13:02:39.000Z",
-          "wordCount": 4788,
-          "title": "@function",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393544",
-          "author": "Sunkanmi Fafowora",
-          "description": "The CSS ::search-text pseudo-element selects the matching text from your browser's \"find in page\" feature. \n::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/pseudo-selectors/s/search-text/",
-          "publishedOn": "2026-06-02T12:59:21.000Z",
-          "wordCount": 4205,
-          "title": "::search-text",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392775",
-          "author": "Zell Liew",
-          "description": "In the previous article, I spoke about the why and how to use a Markdown component in Astro.\nHere, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …\nAstro Markdown Component Utility for Any Framework originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/astro-markdown-component-utility-any-framework/",
-          "publishedOn": "2026-06-01T13:25:00.000Z",
-          "wordCount": 3131,
-          "title": "Astro Markdown Component Utility for Any Framework",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/markdown-astro.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395357",
-          "author": "Daniel Schwarz",
-          "description": "The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.\nWhat’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-12/",
-          "publishedOn": "2026-05-29T13:25:38.000Z",
-          "wordCount": 3487,
-          "title": "What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/Screenshot-2026-05-28-at-2.31.26-PM.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393536",
-          "author": "Preethi",
-          "description": "Until we get something like ::nth-letter, there are still some really cool text effects we can make from existing CSS features, like letter-spacing, ::first-word and ::first-line.\nRevealing Text With CSS letter-spacing originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/revealing-text-with-css-letter-spacing/",
-          "publishedOn": "2026-05-27T12:37:33.000Z",
-          "wordCount": 3527,
-          "title": "Revealing Text With CSS letter-spacing",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/revealing-text.webp"
-        }
-      ]
-    },
-    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
@@ -194,7 +17,7 @@
           "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
           "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
           "publishedOn": "2026-06-16T15:00:00.000Z",
-          "wordCount": 6491,
+          "wordCount": 6498,
           "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -209,7 +32,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4814,
+          "wordCount": 4800,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -224,7 +47,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5751,
+          "wordCount": 5763,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -254,7 +77,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5519,
+          "wordCount": 5521,
           "title": "June Is For Exploring (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
@@ -269,7 +92,7 @@
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5672,
+          "wordCount": 5661,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -299,7 +122,7 @@
           "description": "What people say, feel, think, and do are often very different things. To understand the underlying reasons for user behavior, it helps to look beyond the surface and explore hidden motivations, root causes, and the different layers of reality that shape how people act. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.",
           "link": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/",
           "publishedOn": "2026-05-22T13:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4356,
           "title": "Four Levels Of Customer Understanding",
           "enclosure": {
             "url": "http://files.smashing.media/articles/four-levels-customer-understanding/four-levels-customer-understanding.jpg",
@@ -307,21 +130,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/four-levels-customer-understanding/four-levels-customer-understanding.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
-          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
-          "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
-          "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
-          "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4896,
-          "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg"
         }
       ]
     },
@@ -330,6 +138,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a357b2a9d624935c947cccf",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "In this article, you'll learn how my team built a synthetic PHI generation pipeline to create privacy-safe training and validation data for medical imaging AI. The Problem Imagine you’re building an A",
+          "link": "https://www.freecodecamp.org/news/build-a-synthetic-dataset-for-ai-de-identification/",
+          "publishedOn": "2026-06-19T17:23:54.000Z",
+          "wordCount": 3428,
+          "title": "The Hidden PHI Problem in Medical Images: Building a Synthetic Dataset for AI De-Identification",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/74f053ea-3efc-4ef0-932b-d423dccba44a.png"
+        },
+        {
+          "id": "6a35795fac5ab8c96cba139b",
+          "author": "Manish Shivanandhan",
+          "description": "Enterprise organisations are under constant pressure to deliver content across websites, mobile applications, customer portals, digital kiosks, smart devices, and emerging digital channels. Customers",
+          "link": "https://www.freecodecamp.org/news/pure-headless-vs-hybrid-headless-cms-for-enterprise-content-management/",
+          "publishedOn": "2026-06-19T17:16:15.000Z",
+          "wordCount": 2501,
+          "title": "Pure Headless vs. Hybrid Headless CMS: Choosing the Right Architecture for Enterprise Content Management",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7fc18f0e-8543-415d-a675-6944bab57dcf.png"
+        },
+        {
+          "id": "6a357903529dee82e5b4624b",
+          "author": "Shola Jegede",
+          "description": "Your browser remembers every page you've ever opened, but it has no idea why you opened any of them. You might spend three days comparing laptops across a dozen tabs, get distracted, come back a week",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-powered-local-first-chrome-extension/",
+          "publishedOn": "2026-06-19T17:14:43.000Z",
+          "wordCount": 18532,
+          "title": "How to Build an AI-Powered, Local-First Chrome Extension That Turns Your Browsing History into an Intent Map",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/26289969-a243-46ff-87aa-095d4168bf17.png"
+        },
         {
           "id": "6a3417433a2cf3cf64bb2225",
           "author": "Djibril-M🍀",
@@ -399,36 +237,6 @@
           "wordCount": 4296,
           "title": "How to Schedule Jobs in PostgreSQL with pg_cron",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4f2b2004-5710-43db-9db9-0603bf757d9b.png"
-        },
-        {
-          "id": "6a32f2e011341f4f7a8c6b83",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "If you've worked with Flutter for any meaningful length of time, you've likely written this: try {   final user = await repo.getUser();   print(user.name); } catch (e) {   print('Something went wrong:",
-          "link": "https://www.freecodecamp.org/news/how-to-use-dartexceptor-a-lighter-way-to-handle-errors-in-dart-3/",
-          "publishedOn": "2026-06-17T19:17:52.000Z",
-          "wordCount": 2568,
-          "title": "How to Use DartExceptor: A Lighter Way to Handle Errors in Dart 3",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cc40f61f-a62e-42f6-b644-6a3742f60714.png"
-        },
-        {
-          "id": "6a30894af07f26c8d93079b8",
-          "author": "Ayobami Adejumo",
-          "description": "My first AWS bill was $23,000. I had been working at the company for three weeks. Nobody told me. The bill just grew quietly in the background while I was proud of the feature I shipped. A Lambda func",
-          "link": "https://www.freecodecamp.org/news/the-2026-finops-roadmap-from-cost-blind-engineer-to-cloud-financial-manager/",
-          "publishedOn": "2026-06-15T23:22:50.000Z",
-          "wordCount": 4990,
-          "title": "The 2026 FinOps Roadmap: From Cost-Blind Engineer to Cloud Financial Manager",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/365d29dc-738d-4c21-a9a5-8f818c36cc95.png"
-        },
-        {
-          "id": "6a30885987482776da85bfd7",
-          "author": "Daniel Nwaneri",
-          "description": "In July 2025, a Claude Code recursion loop burned between 16,000 USD and 50,000 USD in five hours. There was no crash or error, just agents doing exactly what they were told, indefinitely, because nob",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-production-safe-agent-loop-from-exit-conditions-to-audit-trails/",
-          "publishedOn": "2026-06-15T23:18:49.000Z",
-          "wordCount": 4315,
-          "title": "How to Build a Production-Safe Agent Loop: From Exit Conditions to Audit Trails",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e135008490269cb3022acbf/0b4027d7-f2d5-42d6-bdc5-5eeec278425d.png"
         }
       ]
     }
