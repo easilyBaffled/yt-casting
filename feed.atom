@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-22T01:21:24.819Z</id>
+    <id>urn:2026-06-23T01:08:01.645Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-22T01:21:24.819Z</updated>
+    <updated>2026-06-23T01:08:01.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What to Do When Reflection Won't Fix Your AI Agent's Output]]></title>
+        <id>6a39b4a8a46b9ad44f07cee5</id>
+        <link href="https://www.freecodecamp.org/news/what-to-do-when-reflection-won-t-fix-your-ai-agent-s-output/"/>
+        <updated>2026-06-22T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Many AI Agent tutorials propose the same fix for bad output: reflection. Your agent generates garbage JSON? Just add another LLM call to "review" it. The second call critiques the first, the first tri]]></summary>
+        <author>
+            <name>Manish Ramavat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Scalable Design System in a Monorepo]]></title>
+        <id>6a397b0b12901591d0138d81</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-scalable-design-system-in-a-monorepo/"/>
+        <updated>2026-06-22T18:12:27.000Z</updated>
+        <summary type="html"><![CDATA[When you hear "Scalable Design System with a Monorepo Ecosystem" it might sound like a bunch of jargon glued together. Let's simplify: Design system: the building blocks of your product (buttons, inp]]></summary>
+        <author>
+            <name>Vineeth Pawar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Turn Performance Audits into AI Fix Prompts with a DevTools Extension]]></title>
+        <id>6a3966d66a52acabf1b616a4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-turn-performance-audits-into-ai-fix-prompts-with-a-devtools-extension/"/>
+        <updated>2026-06-22T16:46:14.000Z</updated>
+        <summary type="html"><![CDATA[Performance tools are good at showing you what's slow. They can tell you that your Largest Contentful Paint is 4.2 seconds, your JavaScript bundle is too large, or an image below the fold is loading t]]></summary>
+        <author>
+            <name>Olamilekan Lamidi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The EKS Cost Optimization Handbook: Reduce Your AWS Bill by 60% Using Karpenter and Rightsizing]]></title>
+        <id>6a396515fa8e37864960ddb6</id>
+        <link href="https://www.freecodecamp.org/news/eks-cost-optimization-reduce-your-aws-bill-using-karpenter-and-rightsizing/"/>
+        <updated>2026-06-22T16:38:45.000Z</updated>
+        <summary type="html"><![CDATA[This handbook is a complete guide to the 7-step playbook that took one EKS bill from \(85,000/month to \)34,000/month — without touching a single line of product code. I've audited EKS clusters at mor]]></summary>
+        <author>
+            <name>Ayobami Adejumo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Organize and Maintain Azure Repositories at Scale: An Azure DevOps Engineer's Guide]]></title>
+        <id>6a39609b4c4daad6a42f931b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-organize-and-maintain-azure-repositories-at-scale/"/>
+        <updated>2026-06-22T16:19:39.000Z</updated>
+        <summary type="html"><![CDATA[Managing a few of repositories is easy. And managing dozens can be challenging. But managing hundreds across multiple teams, products, and deployment environments is where things start to break down.]]></summary>
+        <author>
+            <name>Casmir Onyekani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Scroll-Driven Animations for Opposing Scroll Directions]]></title>
+        <id>https://css-tricks.com/?p=394890</id>
+        <link href="https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/"/>
+        <updated>2026-06-22T12:39:13.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.
+CodePen Embed Fallback
+Note: This …
+Using Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Silvestar Bistrović</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Handle Errors the Right Way in Flutter: A Practical Guide to Sealed Classes, Records, and Result Types]]></title>
         <id>6a36e90fd5185a258a6a5508</id>
@@ -46,6 +109,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A First Look at Scroll-Triggered Animations]]></title>
+        <id>https://css-tricks.com/?p=394364</id>
+        <link href="https://css-tricks.com/css-scroll-triggered-animations-first-look/"/>
+        <updated>2026-06-19T13:03:17.000Z</updated>
+        <summary type="html"><![CDATA[Let's poke at the differences between scroll-driven and scroll-triggered animations.
+A First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Build an Offline AI Image Generator in Node.js with QVAC and Socket.io]]></title>
         <id>6a3417433a2cf3cf64bb2225</id>
         <link href="https://www.freecodecamp.org/news/how-to-build-an-offline-ai-image-generator-in-node-js-with-qvac-and-socket-io/"/>
@@ -56,53 +130,25 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Wearables Track the Menstrual Cycle: The Sensors, the Algorithms, and the Accuracy Gap]]></title>
-        <id>6a34144348f250210b480951</id>
-        <link href="https://www.freecodecamp.org/news/how-wearables-track-the-menstrual-cycle-the-sensors-the-algorithms-and-the-accuracy-gap/"/>
-        <updated>2026-06-18T15:52:34.000Z</updated>
-        <summary type="html"><![CDATA[Your Garmin shows poor recovery, WHOOP paints your day red, your resting heart rate is high, your HRV is low, and the app recommends that you rest. But here’s the thing: you don’t actually feel bad. F]]></summary>
+        <title type="html"><![CDATA[The Siren Song of ariaNotify()]]></title>
+        <id>https://css-tricks.com/?p=395567</id>
+        <link href="https://css-tricks.com/the-siren-song-of-arianotify/"/>
+        <updated>2026-06-17T15:32:30.000Z</updated>
+        <summary type="html"><![CDATA[There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.
+The Siren Song of ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
-            <name>Shradha Puri</name>
+            <name>Mat Marquis</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Analyze Analyst Estimate Ranges with Python]]></title>
-        <id>6a34139bd09354fbef127810</id>
-        <link href="https://www.freecodecamp.org/news/how-to-analyze-analyst-estimate-ranges-with-python/"/>
-        <updated>2026-06-18T15:49:47.000Z</updated>
-        <summary type="html"><![CDATA[Most financial models use analyst consensus as a single forward-looking input: revenue estimate, EPS estimate, EBITDA estimate, or some version of a forward margin assumption. That works, but it flatt]]></summary>
+        <title type="html"><![CDATA[Prop For That]]></title>
+        <id>https://css-tricks.com/?p=395776</id>
+        <link href="https://css-tricks.com/prop-for-that/"/>
+        <updated>2026-06-16T18:36:25.000Z</updated>
+        <summary type="html"><![CDATA[Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.
+Prop For That originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
-            <name>Nikhil Adithyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Small Context Window Limits in RAG Systems]]></title>
-        <id>6a33373b82e3f02be1b8c36f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-handle-small-context-window-limits-in-rag-systems/"/>
-        <updated>2026-06-18T00:09:31.000Z</updated>
-        <summary type="html"><![CDATA[Retrieval-augmented generation, or RAG, is a pattern where an application retrieves relevant source material and adds it to a model prompt so the model can answer from that context. A larger context w]]></summary>
-        <author>
-            <name>Sviatoslav Barbutsa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Avoid Overusing useCallback and useMemo in React]]></title>
-        <id>6a32f4091d5034aa7d96e448</id>
-        <link href="https://www.freecodecamp.org/news/how-to-avoid-overusing-usecallback-and-usememo-in-react/"/>
-        <updated>2026-06-17T19:22:49.000Z</updated>
-        <summary type="html"><![CDATA[If you've spent enough time in the React ecosystem, you'll have likely seen codebases where nearly every function is wrapped with useCallback and the computed value is wrapped with useMemo. The reason]]></summary>
-        <author>
-            <name>Olaleye Blessing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Production Architecture for Small Language Model Fleets]]></title>
-        <id>6a32f3c20533dba8baa5af51</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-production-architecture-for-small-language-model-fleets/"/>
-        <updated>2026-06-17T19:21:38.000Z</updated>
-        <summary type="html"><![CDATA[Lately, there's been more focus on creating specialized Small Language Models (SLMs) for high-throughput, real-time applications. But we seem to be at an impasse: we excel at fine-tuning these models,]]></summary>
-        <author>
-            <name>Tejas Ashok</name>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -116,6 +162,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What’s !important #13: @function, alpha(), CSS Wordle, and More]]></title>
+        <id>https://css-tricks.com/?p=395752</id>
+        <link href="https://css-tricks.com/whats-important-13/"/>
+        <updated>2026-06-15T13:15:33.000Z</updated>
+        <summary type="html"><![CDATA[CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.
+What’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Isn’t My 3D View Transition Working?]]></title>
+        <id>https://css-tricks.com/?p=395594</id>
+        <link href="https://css-tricks.com/why-isnt-my-3d-view-transition-working/"/>
+        <updated>2026-06-12T15:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.
+Why Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There’s no need to include ‘navigation’ in your navigation labels]]></title>
+        <id>https://css-tricks.com/?p=395744</id>
+        <link href="https://css-tricks.com/navigation-in-your-navigation-labels/"/>
+        <updated>2026-06-12T15:08:38.000Z</updated>
+        <summary type="html"><![CDATA[One of those nuances to keep in your back pocket when writing for screen readers.
+There’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Impact Of Humanoid Robots On Humanity]]></title>
         <id>https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/</id>
         <link href="https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"/>
@@ -123,6 +202,17 @@
         <summary type="html"><![CDATA[We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Memorable Web Experiences: A Modern CSS Toolkit]]></title>
+        <id>https://css-tricks.com/?p=393676</id>
+        <link href="https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/"/>
+        <updated>2026-06-10T13:02:10.000Z</updated>
+        <summary type="html"><![CDATA[There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.
+Creating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mariana Beldi</name>
         </author>
     </entry>
     <entry>
@@ -136,6 +226,62 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions]]></title>
+        <id>https://css-tricks.com/?p=393503</id>
+        <link href="https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/"/>
+        <updated>2026-06-08T13:00:34.000Z</updated>
+        <summary type="html"><![CDATA[I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.
+Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!]]></title>
+        <id>https://css-tricks.com/?p=393178</id>
+        <link href="https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/"/>
+        <updated>2026-06-04T13:14:49.000Z</updated>
+        <summary type="html"><![CDATA[We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.
+Another Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Antoine Villepreux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[offset-path]]></title>
+        <id>http://css-tricks.com/?page_id=243521</id>
+        <link href="https://css-tricks.com/almanac/properties/o/offset-path/"/>
+        <updated>2026-06-03T15:02:38.000Z</updated>
+        <summary type="html"><![CDATA[The offset-path property in CSS defines a movement path for an element to follow during animation.
+This property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …
+offset-path originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@custom-media]]></title>
+        <id>https://css-tricks.com/?page_id=394739</id>
+        <link href="https://css-tricks.com/almanac/rules/c/custom-media/"/>
+        <updated>2026-06-03T13:03:21.000Z</updated>
+        <summary type="html"><![CDATA[The CSS @custom-media at-rule allows creating aliases for media queries.
+@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Declan Chidlow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@function]]></title>
+        <id>https://css-tricks.com/?page_id=394732</id>
+        <link href="https://css-tricks.com/almanac/rules/f/function/"/>
+        <updated>2026-06-03T13:02:39.000Z</updated>
+        <summary type="html"><![CDATA[The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. 
+@function originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Declan Chidlow</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How To Make Your Design System AI-Ready]]></title>
         <id>https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/</id>
         <link href="https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/"/>
@@ -143,6 +289,29 @@
         <summary type="html"><![CDATA[Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[::search-text]]></title>
+        <id>https://css-tricks.com/?page_id=393544</id>
+        <link href="https://css-tricks.com/almanac/pseudo-selectors/s/search-text/"/>
+        <updated>2026-06-02T12:59:21.000Z</updated>
+        <summary type="html"><![CDATA[The CSS ::search-text pseudo-element selects the matching text from your browser's "find in page" feature. 
+::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astro Markdown Component Utility for Any Framework]]></title>
+        <id>https://css-tricks.com/?p=392775</id>
+        <link href="https://css-tricks.com/astro-markdown-component-utility-any-framework/"/>
+        <updated>2026-06-01T13:25:00.000Z</updated>
+        <summary type="html"><![CDATA[In the previous article, I spoke about the why and how to use a Markdown component in Astro.
+Here, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …
+Astro Markdown Component Utility for Any Framework originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Zell Liew</name>
         </author>
     </entry>
     <entry>
