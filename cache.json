@@ -17,7 +17,7 @@
           "description": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fallback\nNote: This …\nUsing Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
           "publishedOn": "2026-06-22T12:39:13.000Z",
-          "wordCount": 4577,
+          "wordCount": 4679,
           "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/05/opposing-scrolling-logos.mov",
@@ -32,7 +32,7 @@
           "description": "Let's poke at the differences between scroll-driven and scroll-triggered animations.\nA First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
           "publishedOn": "2026-06-19T13:03:17.000Z",
-          "wordCount": 4664,
+          "wordCount": 4718,
           "title": "A First Look at Scroll-Triggered Animations",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/04/1-1.mp4",
@@ -204,7 +204,7 @@
           "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
           "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
           "publishedOn": "2026-06-16T15:00:00.000Z",
-          "wordCount": 6498,
+          "wordCount": 6493,
           "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -219,7 +219,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4820,
+          "wordCount": 4807,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -234,7 +234,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5761,
+          "wordCount": 5753,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -264,7 +264,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5519,
+          "wordCount": 5518,
           "title": "June Is For Exploring (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
@@ -279,7 +279,7 @@
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5661,
+          "wordCount": 5657,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -287,21 +287,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/",
-          "author": "hello@smashingmagazine.com (Eric Joseph L.)",
-          "description": "There’s a moment in almost every usability session where a participant pauses at the login screen, types something, and glances up: checking whether they’re “doing it right.” That pause is a clear sign. They’ve already clocked that this isn’t a real app, and every data point collected after that moment is filtered through that awareness.",
-          "link": "https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/",
-          "publishedOn": "2026-05-25T12:00:00.000Z",
-          "wordCount": 3763,
-          "title": "Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/prototype-users-fix-protopie/prototype-users-fix-protopie.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/prototype-users-fix-protopie/prototype-users-fix-protopie.jpg"
         }
       ]
     },
@@ -310,6 +295,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a3ab6b8b961d002e47ff767",
+          "author": "Ethiel ADIASSA",
+          "description": "Flutter makes it extremely fast to build UIs. That speed is one of the framework’s greatest strengths, but it also creates a subtle problem: applications often grow much faster than their architecture",
+          "link": "https://www.freecodecamp.org/news/how-to-structure-large-flutter-applications-for-scalable-and-maintainable-growth/",
+          "publishedOn": "2026-06-23T16:39:20.000Z",
+          "wordCount": 2978,
+          "title": "How to Structure Large Flutter Applications for Scalable and Maintainable Growth",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6196a6e1-d542-40f3-9be1-c303b8d6aace.png"
+        },
+        {
+          "id": "6a3ab6628d22211aa0282f4f",
+          "author": "Srishti Sethi",
+          "description": "Recently, I wrote a post about an educational app I'd developed using AI tools, and the design decisions I made along the way. When I showed the prototype of my activity-based learning app to a few ed",
+          "link": "https://www.freecodecamp.org/news/how-to-teach-a-small-llm-to-suggest-k12-creative-project-ideas/",
+          "publishedOn": "2026-06-23T16:37:54.000Z",
+          "wordCount": 4311,
+          "title": "How to Teach a Small LLM to Suggest K12 Creative Project Ideas",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/381c2b8d-ed7d-4f88-b0d4-f4ba90878758.png"
+        },
+        {
+          "id": "6a3ab180022a80fcba0df6e8",
+          "author": "Shrijal Acharya",
+          "description": "Most AI agents are great at quick tasks. Send a message, the agent calls a few tools, and you get a response back in seconds. That works perfectly when you're asking it to summarize a document or do s",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-durable-autoscaling-ai-agent-with-temporal-composio-keda-and-kubernetes/",
+          "publishedOn": "2026-06-23T16:17:04.000Z",
+          "wordCount": 4663,
+          "title": "How to Build a Durable, Autoscaling AI Agent with Temporal, Composio, KEDA, and Kubernetes",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/93e5088e-4cac-48c3-911d-982ef96dfe13.png"
+        },
+        {
+          "id": "6a3aaccb0aca21a37c59db4a",
+          "author": "Osomudeya Zudonu",
+          "description": "Tutorials teach you how to write Terraform, but don't teach you what happens when 60 engineers start writing it together. When you learn Terraform, you work with a single repository, state file, and a",
+          "link": "https://www.freecodecamp.org/news/how-enterprise-teams-manage-infrastructure-at-scale-with-terraform/",
+          "publishedOn": "2026-06-23T15:56:59.000Z",
+          "wordCount": 6109,
+          "title": "How Enterprise Teams Manage Infrastructure at Scale with Terraform",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/fb89a3e9-6826-4fc9-bebb-d16ef6a6d31d.png"
+        },
+        {
+          "id": "6a3aab13b5ad15098db82372",
+          "author": "Sudheesh Shetty",
+          "description": "Typically, when we start experimenting with AI, many of us begin similarly. We try a single LLM call as the core of an app, like this: const response = await llm.chat(\"Explain Kubernetes\"); For a lit",
+          "link": "https://www.freecodecamp.org/news/from-llms-to-langchain-understanding-how-modern-ai-applications-actually-work/",
+          "publishedOn": "2026-06-23T15:49:39.000Z",
+          "wordCount": 3419,
+          "title": "From LLMs to LangChain: Understanding How Modern AI Applications Actually Work",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/38787e16-7e86-44da-9a6a-620cc1a99fce.png"
+        },
+        {
+          "id": "6a3aaaa1e2b119a77f6a3a71",
+          "author": "Gidudu Nicholas",
+          "description": "The first time I saw \"Looking up a deactivated widget's ancestor is unsafe\" in a stack trace, I genuinely didn't know what it meant. I copied the error into Google, found three different Stack Overflo",
+          "link": "https://www.freecodecamp.org/news/how-flutter-renders-under-the-hood-buildcontext-and-element-tree-explained/",
+          "publishedOn": "2026-06-23T15:47:45.000Z",
+          "wordCount": 6795,
+          "title": "How Flutter Renders Under the Hood: BuildContext and Element Tree Explained",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/028c67b6-cda1-499a-9418-9695c64421b8.png"
+        },
+        {
+          "id": "6a3aaa339a4579a7c98eadf8",
+          "author": "Shradha Puri",
+          "description": "You take off your shoes before bed. You probably don't take off your smart ring or your watch. Most of us sleep with a Bluetooth-enabled device sitting a few millimeters from our skin, all night, ever",
+          "link": "https://www.freecodecamp.org/news/sleep-tracking-bluetooth-signals-and-emf-in-wearables/",
+          "publishedOn": "2026-06-23T15:45:55.000Z",
+          "wordCount": 2345,
+          "title": "Sleep Tracking, Bluetooth Signals, and EMF: What Every Wearable User Should Know",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1aedc780-3439-459f-b446-aba26798b51c.png"
+        },
+        {
+          "id": "6a3a83330aa6decb65d23eec",
+          "author": "Beau Carnes",
+          "description": "Imagine being able to pull any external data into Notion, seamlessly push updates to your other favorite apps, and automate complex business logic, and do this all without paying for third-party no-co",
+          "link": "https://www.freecodecamp.org/news/learn-notion-workers/",
+          "publishedOn": "2026-06-23T12:59:31.000Z",
+          "wordCount": 1098,
+          "title": "Learn Notion Workers",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/6bd3fde2-652d-4a3e-bedc-208117373119.jpg"
+        },
         {
           "id": "6a39b4a8a46b9ad44f07cee5",
           "author": "Manish Ramavat",
@@ -329,86 +394,6 @@
           "wordCount": 3495,
           "title": "How to Build a Scalable Design System in a Monorepo",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e1f42e08-4158-4ecb-8d71-5371cfe86707.png"
-        },
-        {
-          "id": "6a3966d66a52acabf1b616a4",
-          "author": "Olamilekan Lamidi",
-          "description": "Performance tools are good at showing you what's slow. They can tell you that your Largest Contentful Paint is 4.2 seconds, your JavaScript bundle is too large, or an image below the fold is loading t",
-          "link": "https://www.freecodecamp.org/news/how-to-turn-performance-audits-into-ai-fix-prompts-with-a-devtools-extension/",
-          "publishedOn": "2026-06-22T16:46:14.000Z",
-          "wordCount": 3314,
-          "title": "How to Turn Performance Audits into AI Fix Prompts with a DevTools Extension",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/70dc4877-86de-43ec-bdf5-9a6dc34b7bf1.png"
-        },
-        {
-          "id": "6a396515fa8e37864960ddb6",
-          "author": "Ayobami Adejumo",
-          "description": "This handbook is a complete guide to the 7-step playbook that took one EKS bill from \\(85,000/month to \\)34,000/month — without touching a single line of product code. I've audited EKS clusters at mor",
-          "link": "https://www.freecodecamp.org/news/eks-cost-optimization-reduce-your-aws-bill-using-karpenter-and-rightsizing/",
-          "publishedOn": "2026-06-22T16:38:45.000Z",
-          "wordCount": 5256,
-          "title": "The EKS Cost Optimization Handbook: Reduce Your AWS Bill by 60% Using Karpenter and Rightsizing",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cd12d552-bcf2-466a-a98e-7674c436afaa.png"
-        },
-        {
-          "id": "6a39609b4c4daad6a42f931b",
-          "author": "Casmir Onyekani",
-          "description": "Managing a few of repositories is easy. And managing dozens can be challenging. But managing hundreds across multiple teams, products, and deployment environments is where things start to break down.",
-          "link": "https://www.freecodecamp.org/news/how-to-organize-and-maintain-azure-repositories-at-scale/",
-          "publishedOn": "2026-06-22T16:19:39.000Z",
-          "wordCount": 4494,
-          "title": "How to Organize and Maintain Azure Repositories at Scale: An Azure DevOps Engineer's Guide",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e4c2ef53-8e1f-4b05-99b8-6461c966335d.png"
-        },
-        {
-          "id": "6a36e90fd5185a258a6a5508",
-          "author": "Gidudu Nicholas",
-          "description": "I used to think I was handling errors well in my Flutter apps. I had try/catch blocks everywhere. I was catching exceptions, logging them, and showing error messages to users. It felt solid. Then I st",
-          "link": "https://www.freecodecamp.org/news/how-to-handle-errors-the-right-way-in-flutter-a-practical-guide-to-sealed-classes-records-and-result-types/",
-          "publishedOn": "2026-06-20T19:25:03.000Z",
-          "wordCount": 4255,
-          "title": "How to Handle Errors the Right Way in Flutter: A Practical Guide to Sealed Classes, Records, and Result Types",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9e607269-f3fe-4e0b-9fd5-def1fa4d3a4c.png"
-        },
-        {
-          "id": "6a357b2a9d624935c947cccf",
-          "author": "Lakshmi Mahabaleshwara",
-          "description": "In this article, you'll learn how my team built a synthetic PHI generation pipeline to create privacy-safe training and validation data for medical imaging AI. The Problem Imagine you’re building an A",
-          "link": "https://www.freecodecamp.org/news/build-a-synthetic-dataset-for-ai-de-identification/",
-          "publishedOn": "2026-06-19T17:23:54.000Z",
-          "wordCount": 3428,
-          "title": "The Hidden PHI Problem in Medical Images: Building a Synthetic Dataset for AI De-Identification",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/74f053ea-3efc-4ef0-932b-d423dccba44a.png"
-        },
-        {
-          "id": "6a35795fac5ab8c96cba139b",
-          "author": "Manish Shivanandhan",
-          "description": "Enterprise organisations are under constant pressure to deliver content across websites, mobile applications, customer portals, digital kiosks, smart devices, and emerging digital channels. Customers",
-          "link": "https://www.freecodecamp.org/news/pure-headless-vs-hybrid-headless-cms-for-enterprise-content-management/",
-          "publishedOn": "2026-06-19T17:16:15.000Z",
-          "wordCount": 2501,
-          "title": "Pure Headless vs. Hybrid Headless CMS: Choosing the Right Architecture for Enterprise Content Management",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7fc18f0e-8543-415d-a675-6944bab57dcf.png"
-        },
-        {
-          "id": "6a357903529dee82e5b4624b",
-          "author": "Shola Jegede",
-          "description": "Your browser remembers every page you've ever opened, but it has no idea why you opened any of them. You might spend three days comparing laptops across a dozen tabs, get distracted, come back a week",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-powered-local-first-chrome-extension/",
-          "publishedOn": "2026-06-19T17:14:43.000Z",
-          "wordCount": 18532,
-          "title": "How to Build an AI-Powered, Local-First Chrome Extension That Turns Your Browsing History into an Intent Map",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/26289969-a243-46ff-87aa-095d4168bf17.png"
-        },
-        {
-          "id": "6a3417433a2cf3cf64bb2225",
-          "author": "Djibril-M🍀",
-          "description": "A few years ago, the first day I finally got access to an AI image generator, I was so excited that I immediately sat down and wrote an article about it (using Node.js and OpenAI's DALL-E). The magic",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-offline-ai-image-generator-in-node-js-with-qvac-and-socket-io/",
-          "publishedOn": "2026-06-18T16:05:23.000Z",
-          "wordCount": 4746,
-          "title": "How to Build an Offline AI Image Generator in Node.js with QVAC and Socket.io",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/db3fe63d-6df2-4250-b8f2-c166d9eafc3b.png"
         }
       ]
     }

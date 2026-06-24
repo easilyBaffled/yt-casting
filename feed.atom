@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-23T01:08:01.645Z</id>
+    <id>urn:2026-06-24T01:05:35.522Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-23T01:08:01.646Z</updated>
+    <updated>2026-06-24T01:05:35.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Structure Large Flutter Applications for Scalable and Maintainable Growth]]></title>
+        <id>6a3ab6b8b961d002e47ff767</id>
+        <link href="https://www.freecodecamp.org/news/how-to-structure-large-flutter-applications-for-scalable-and-maintainable-growth/"/>
+        <updated>2026-06-23T16:39:20.000Z</updated>
+        <summary type="html"><![CDATA[Flutter makes it extremely fast to build UIs. That speed is one of the framework’s greatest strengths, but it also creates a subtle problem: applications often grow much faster than their architecture]]></summary>
+        <author>
+            <name>Ethiel ADIASSA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Teach a Small LLM to Suggest K12 Creative Project Ideas]]></title>
+        <id>6a3ab6628d22211aa0282f4f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-teach-a-small-llm-to-suggest-k12-creative-project-ideas/"/>
+        <updated>2026-06-23T16:37:54.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I wrote a post about an educational app I'd developed using AI tools, and the design decisions I made along the way. When I showed the prototype of my activity-based learning app to a few ed]]></summary>
+        <author>
+            <name>Srishti Sethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Durable, Autoscaling AI Agent with Temporal, Composio, KEDA, and Kubernetes]]></title>
+        <id>6a3ab180022a80fcba0df6e8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-durable-autoscaling-ai-agent-with-temporal-composio-keda-and-kubernetes/"/>
+        <updated>2026-06-23T16:17:04.000Z</updated>
+        <summary type="html"><![CDATA[Most AI agents are great at quick tasks. Send a message, the agent calls a few tools, and you get a response back in seconds. That works perfectly when you're asking it to summarize a document or do s]]></summary>
+        <author>
+            <name>Shrijal Acharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Enterprise Teams Manage Infrastructure at Scale with Terraform]]></title>
+        <id>6a3aaccb0aca21a37c59db4a</id>
+        <link href="https://www.freecodecamp.org/news/how-enterprise-teams-manage-infrastructure-at-scale-with-terraform/"/>
+        <updated>2026-06-23T15:56:59.000Z</updated>
+        <summary type="html"><![CDATA[Tutorials teach you how to write Terraform, but don't teach you what happens when 60 engineers start writing it together. When you learn Terraform, you work with a single repository, state file, and a]]></summary>
+        <author>
+            <name>Osomudeya Zudonu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From LLMs to LangChain: Understanding How Modern AI Applications Actually Work]]></title>
+        <id>6a3aab13b5ad15098db82372</id>
+        <link href="https://www.freecodecamp.org/news/from-llms-to-langchain-understanding-how-modern-ai-applications-actually-work/"/>
+        <updated>2026-06-23T15:49:39.000Z</updated>
+        <summary type="html"><![CDATA[Typically, when we start experimenting with AI, many of us begin similarly. We try a single LLM call as the core of an app, like this: const response = await llm.chat("Explain Kubernetes"); For a lit]]></summary>
+        <author>
+            <name>Sudheesh Shetty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Flutter Renders Under the Hood: BuildContext and Element Tree Explained]]></title>
+        <id>6a3aaaa1e2b119a77f6a3a71</id>
+        <link href="https://www.freecodecamp.org/news/how-flutter-renders-under-the-hood-buildcontext-and-element-tree-explained/"/>
+        <updated>2026-06-23T15:47:45.000Z</updated>
+        <summary type="html"><![CDATA[The first time I saw "Looking up a deactivated widget's ancestor is unsafe" in a stack trace, I genuinely didn't know what it meant. I copied the error into Google, found three different Stack Overflo]]></summary>
+        <author>
+            <name>Gidudu Nicholas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sleep Tracking, Bluetooth Signals, and EMF: What Every Wearable User Should Know]]></title>
+        <id>6a3aaa339a4579a7c98eadf8</id>
+        <link href="https://www.freecodecamp.org/news/sleep-tracking-bluetooth-signals-and-emf-in-wearables/"/>
+        <updated>2026-06-23T15:45:55.000Z</updated>
+        <summary type="html"><![CDATA[You take off your shoes before bed. You probably don't take off your smart ring or your watch. Most of us sleep with a Bluetooth-enabled device sitting a few millimeters from our skin, all night, ever]]></summary>
+        <author>
+            <name>Shradha Puri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Notion Workers]]></title>
+        <id>6a3a83330aa6decb65d23eec</id>
+        <link href="https://www.freecodecamp.org/news/learn-notion-workers/"/>
+        <updated>2026-06-23T12:59:31.000Z</updated>
+        <summary type="html"><![CDATA[Imagine being able to pull any external data into Notion, seamlessly push updates to your other favorite apps, and automate complex business logic, and do this all without paying for third-party no-co]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What to Do When Reflection Won't Fix Your AI Agent's Output]]></title>
         <id>6a39b4a8a46b9ad44f07cee5</id>
@@ -26,36 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Turn Performance Audits into AI Fix Prompts with a DevTools Extension]]></title>
-        <id>6a3966d66a52acabf1b616a4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-turn-performance-audits-into-ai-fix-prompts-with-a-devtools-extension/"/>
-        <updated>2026-06-22T16:46:14.000Z</updated>
-        <summary type="html"><![CDATA[Performance tools are good at showing you what's slow. They can tell you that your Largest Contentful Paint is 4.2 seconds, your JavaScript bundle is too large, or an image below the fold is loading t]]></summary>
-        <author>
-            <name>Olamilekan Lamidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The EKS Cost Optimization Handbook: Reduce Your AWS Bill by 60% Using Karpenter and Rightsizing]]></title>
-        <id>6a396515fa8e37864960ddb6</id>
-        <link href="https://www.freecodecamp.org/news/eks-cost-optimization-reduce-your-aws-bill-using-karpenter-and-rightsizing/"/>
-        <updated>2026-06-22T16:38:45.000Z</updated>
-        <summary type="html"><![CDATA[This handbook is a complete guide to the 7-step playbook that took one EKS bill from \(85,000/month to \)34,000/month — without touching a single line of product code. I've audited EKS clusters at mor]]></summary>
-        <author>
-            <name>Ayobami Adejumo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Organize and Maintain Azure Repositories at Scale: An Azure DevOps Engineer's Guide]]></title>
-        <id>6a39609b4c4daad6a42f931b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-organize-and-maintain-azure-repositories-at-scale/"/>
-        <updated>2026-06-22T16:19:39.000Z</updated>
-        <summary type="html"><![CDATA[Managing a few of repositories is easy. And managing dozens can be challenging. But managing hundreds across multiple teams, products, and deployment environments is where things start to break down.]]></summary>
-        <author>
-            <name>Casmir Onyekani</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using Scroll-Driven Animations for Opposing Scroll Directions]]></title>
         <id>https://css-tricks.com/?p=394890</id>
         <link href="https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/"/>
@@ -69,46 +119,6 @@ Using Scroll-Driven Animations for Opposing Scroll Directions originally handwri
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Handle Errors the Right Way in Flutter: A Practical Guide to Sealed Classes, Records, and Result Types]]></title>
-        <id>6a36e90fd5185a258a6a5508</id>
-        <link href="https://www.freecodecamp.org/news/how-to-handle-errors-the-right-way-in-flutter-a-practical-guide-to-sealed-classes-records-and-result-types/"/>
-        <updated>2026-06-20T19:25:03.000Z</updated>
-        <summary type="html"><![CDATA[I used to think I was handling errors well in my Flutter apps. I had try/catch blocks everywhere. I was catching exceptions, logging them, and showing error messages to users. It felt solid. Then I st]]></summary>
-        <author>
-            <name>Gidudu Nicholas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hidden PHI Problem in Medical Images: Building a Synthetic Dataset for AI De-Identification]]></title>
-        <id>6a357b2a9d624935c947cccf</id>
-        <link href="https://www.freecodecamp.org/news/build-a-synthetic-dataset-for-ai-de-identification/"/>
-        <updated>2026-06-19T17:23:54.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how my team built a synthetic PHI generation pipeline to create privacy-safe training and validation data for medical imaging AI. The Problem Imagine you’re building an A]]></summary>
-        <author>
-            <name>Lakshmi Mahabaleshwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pure Headless vs. Hybrid Headless CMS: Choosing the Right Architecture for Enterprise Content Management]]></title>
-        <id>6a35795fac5ab8c96cba139b</id>
-        <link href="https://www.freecodecamp.org/news/pure-headless-vs-hybrid-headless-cms-for-enterprise-content-management/"/>
-        <updated>2026-06-19T17:16:15.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise organisations are under constant pressure to deliver content across websites, mobile applications, customer portals, digital kiosks, smart devices, and emerging digital channels. Customers]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI-Powered, Local-First Chrome Extension That Turns Your Browsing History into an Intent Map]]></title>
-        <id>6a357903529dee82e5b4624b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-powered-local-first-chrome-extension/"/>
-        <updated>2026-06-19T17:14:43.000Z</updated>
-        <summary type="html"><![CDATA[Your browser remembers every page you've ever opened, but it has no idea why you opened any of them. You might spend three days comparing laptops across a dozen tabs, get distracted, come back a week]]></summary>
-        <author>
-            <name>Shola Jegede</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A First Look at Scroll-Triggered Animations]]></title>
         <id>https://css-tricks.com/?p=394364</id>
         <link href="https://css-tricks.com/css-scroll-triggered-animations-first-look/"/>
@@ -117,16 +127,6 @@ Using Scroll-Driven Animations for Opposing Scroll Directions originally handwri
 A First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Offline AI Image Generator in Node.js with QVAC and Socket.io]]></title>
-        <id>6a3417433a2cf3cf64bb2225</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-offline-ai-image-generator-in-node-js-with-qvac-and-socket-io/"/>
-        <updated>2026-06-18T16:05:23.000Z</updated>
-        <summary type="html"><![CDATA[A few years ago, the first day I finally got access to an AI image generator, I was so excited that I immediately sat down and wrote an article about it (using Node.js and OpenAI's DALL-E). The magic]]></summary>
-        <author>
-            <name>Djibril-M🍀</name>
         </author>
     </entry>
     <entry>
@@ -332,16 +332,6 @@ Astro Markdown Component Utility for Any Framework originally handwritten and pu
         <summary type="html"><![CDATA[Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)]]></title>
-        <id>https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/</id>
-        <link href="https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/"/>
-        <updated>2026-05-25T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There’s a moment in almost every usability session where a participant pauses at the login screen, types something, and glances up: checking whether they’re “doing it right.” That pause is a clear sign. They’ve already clocked that this isn’t a real app, and every data point collected after that moment is filtered through that awareness.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eric Joseph L.)</name>
         </author>
     </entry>
 </feed>
