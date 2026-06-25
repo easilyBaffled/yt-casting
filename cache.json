@@ -204,7 +204,7 @@
           "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
           "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
           "publishedOn": "2026-06-16T15:00:00.000Z",
-          "wordCount": 6493,
+          "wordCount": 6504,
           "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -219,7 +219,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4807,
+          "wordCount": 4915,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -234,7 +234,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5753,
+          "wordCount": 5757,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -264,7 +264,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5518,
+          "wordCount": 5633,
           "title": "June Is For Exploring (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
@@ -279,7 +279,7 @@
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5657,
+          "wordCount": 5659,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -295,6 +295,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a3c55950ff169f1dc95f74c",
+          "author": "Vikram Aruchamy",
+          "description": "Google Sheets is widely used for tracking data, managing inventories, building product catalogs, and creating dashboards. In many of these use cases, adding images directly into a spreadsheet makes th",
+          "link": "https://www.freecodecamp.org/news/how-to-insert-images-in-google-sheets/",
+          "publishedOn": "2026-06-24T22:09:25.000Z",
+          "wordCount": 2610,
+          "title": "How to Insert Images in Google Sheets",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6e7a9323-3a3d-4058-b5a8-d4f6c86710db.png"
+        },
+        {
+          "id": "6a3c3ffeeed203a44f97b779",
+          "author": "Bhavin Sheth",
+          "description": "PDF files are often created by combining scans, exporting documents from different systems, or processing large batches of pages. In many cases, the final PDF ends up with pages arranged in the wrong",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-browser-based-pdf-reverse-tool-javascript/",
+          "publishedOn": "2026-06-24T20:37:18.000Z",
+          "wordCount": 2984,
+          "title": "How to Build a Browser-Based PDF Reverse Tool Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/49e3966a-f387-409f-b181-ac8feffcab13.png"
+        },
+        {
+          "id": "6a3c3fc702ebd10f875ab988",
+          "author": "Devlin Duldulao",
+          "description": "Most security problems I've shipped in my career weren't exotic. They weren't nation-state attacks or clever zero-days. They were boring. A missing limit here, a forgotten timeout there, a string comp",
+          "link": "https://www.freecodecamp.org/news/how-to-build-secure-by-default-node-js-apis/",
+          "publishedOn": "2026-06-24T20:36:23.000Z",
+          "wordCount": 5982,
+          "title": "How to Build Secure-by-Default Node.js APIs",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/edebad91-82e3-4d67-b136-bbb99859a393.png"
+        },
+        {
+          "id": "6a3c0e8a702363441b7194ca",
+          "author": "Chidiebere Njoku",
+          "description": "Large Language Models have fundamentally changed how we build internal business applications. They allow developers to create intelligent software that can answer questions, synthesize complex enterpr",
+          "link": "https://www.freecodecamp.org/news/how-to-build-production-grade-ai-guardrails-for-enterprise-applications-a-practical-guide/",
+          "publishedOn": "2026-06-24T17:06:18.000Z",
+          "wordCount": 4206,
+          "title": "How to Build Production-Grade AI Guardrails for Enterprise Applications: A Practical Guide",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2db99561-b748-4d82-b883-2aa531b2eba2.png"
+        },
+        {
+          "id": "6a3c0d40b101451dd3ba52e8",
+          "author": "Vaibhav Gupta",
+          "description": "Badges are everywhere in modern web apps. You see them on notification counters, status labels, and feature tags. Most of them are static, though. They sit there doing nothing, blending into the page.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-animated-badge-component-with-shadcn-ui/",
+          "publishedOn": "2026-06-24T17:00:48.000Z",
+          "wordCount": 3081,
+          "title": "How to Build an Animated Badge Component with shadcn/ui",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/90ffff22-4ea2-47c2-8b8c-011e8e566301.png"
+        },
+        {
+          "id": "6a3c0c12b0a5ff1b08f51660",
+          "author": "Nikhil Adithyan",
+          "description": "On June 12, 2026, SPY closed up 0.54%. EchoStar (SATS) dropped 11%. Lennar (LEN) dropped 4.9%. Most of the other 500 stocks in the index barely moved beyond what SPY’s own gain would predict. That gap",
+          "link": "https://www.freecodecamp.org/news/how-to-find-stock-specific-moves-in-the-s-p-500-with-python/",
+          "publishedOn": "2026-06-24T16:55:46.000Z",
+          "wordCount": 4650,
+          "title": "How to Find Stock-Specific Moves in the S&P 500 with Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4588a4f3-fb34-40af-8a43-ab746e1152b0.png"
+        },
         {
           "id": "6a3ab6b8b961d002e47ff767",
           "author": "Ethiel ADIASSA",
@@ -334,66 +394,6 @@
           "wordCount": 6109,
           "title": "How Enterprise Teams Manage Infrastructure at Scale with Terraform",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/fb89a3e9-6826-4fc9-bebb-d16ef6a6d31d.png"
-        },
-        {
-          "id": "6a3aab13b5ad15098db82372",
-          "author": "Sudheesh Shetty",
-          "description": "Typically, when we start experimenting with AI, many of us begin similarly. We try a single LLM call as the core of an app, like this: const response = await llm.chat(\"Explain Kubernetes\"); For a lit",
-          "link": "https://www.freecodecamp.org/news/from-llms-to-langchain-understanding-how-modern-ai-applications-actually-work/",
-          "publishedOn": "2026-06-23T15:49:39.000Z",
-          "wordCount": 3419,
-          "title": "From LLMs to LangChain: Understanding How Modern AI Applications Actually Work",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/38787e16-7e86-44da-9a6a-620cc1a99fce.png"
-        },
-        {
-          "id": "6a3aaaa1e2b119a77f6a3a71",
-          "author": "Gidudu Nicholas",
-          "description": "The first time I saw \"Looking up a deactivated widget's ancestor is unsafe\" in a stack trace, I genuinely didn't know what it meant. I copied the error into Google, found three different Stack Overflo",
-          "link": "https://www.freecodecamp.org/news/how-flutter-renders-under-the-hood-buildcontext-and-element-tree-explained/",
-          "publishedOn": "2026-06-23T15:47:45.000Z",
-          "wordCount": 6795,
-          "title": "How Flutter Renders Under the Hood: BuildContext and Element Tree Explained",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/028c67b6-cda1-499a-9418-9695c64421b8.png"
-        },
-        {
-          "id": "6a3aaa339a4579a7c98eadf8",
-          "author": "Shradha Puri",
-          "description": "You take off your shoes before bed. You probably don't take off your smart ring or your watch. Most of us sleep with a Bluetooth-enabled device sitting a few millimeters from our skin, all night, ever",
-          "link": "https://www.freecodecamp.org/news/sleep-tracking-bluetooth-signals-and-emf-in-wearables/",
-          "publishedOn": "2026-06-23T15:45:55.000Z",
-          "wordCount": 2345,
-          "title": "Sleep Tracking, Bluetooth Signals, and EMF: What Every Wearable User Should Know",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1aedc780-3439-459f-b446-aba26798b51c.png"
-        },
-        {
-          "id": "6a3a83330aa6decb65d23eec",
-          "author": "Beau Carnes",
-          "description": "Imagine being able to pull any external data into Notion, seamlessly push updates to your other favorite apps, and automate complex business logic, and do this all without paying for third-party no-co",
-          "link": "https://www.freecodecamp.org/news/learn-notion-workers/",
-          "publishedOn": "2026-06-23T12:59:31.000Z",
-          "wordCount": 1098,
-          "title": "Learn Notion Workers",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/6bd3fde2-652d-4a3e-bedc-208117373119.jpg"
-        },
-        {
-          "id": "6a39b4a8a46b9ad44f07cee5",
-          "author": "Manish Ramavat",
-          "description": "Many AI Agent tutorials propose the same fix for bad output: reflection. Your agent generates garbage JSON? Just add another LLM call to \"review\" it. The second call critiques the first, the first tri",
-          "link": "https://www.freecodecamp.org/news/what-to-do-when-reflection-won-t-fix-your-ai-agent-s-output/",
-          "publishedOn": "2026-06-22T21:30:00.000Z",
-          "wordCount": 2971,
-          "title": "What to Do When Reflection Won't Fix Your AI Agent's Output",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/106d9ec2-0ef5-4bec-b2c6-8473b3bd671f.png"
-        },
-        {
-          "id": "6a397b0b12901591d0138d81",
-          "author": "Vineeth Pawar",
-          "description": "When you hear \"Scalable Design System with a Monorepo Ecosystem\" it might sound like a bunch of jargon glued together. Let's simplify: Design system: the building blocks of your product (buttons, inp",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-scalable-design-system-in-a-monorepo/",
-          "publishedOn": "2026-06-22T18:12:27.000Z",
-          "wordCount": 3495,
-          "title": "How to Build a Scalable Design System in a Monorepo",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e1f42e08-4158-4ecb-8d71-5371cfe86707.png"
         }
       ]
     }

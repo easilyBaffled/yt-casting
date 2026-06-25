@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-24T01:05:35.522Z</id>
+    <id>urn:2026-06-25T01:09:27.287Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-24T01:05:35.522Z</updated>
+    <updated>2026-06-25T01:09:27.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Insert Images in Google Sheets]]></title>
+        <id>6a3c55950ff169f1dc95f74c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-insert-images-in-google-sheets/"/>
+        <updated>2026-06-24T22:09:25.000Z</updated>
+        <summary type="html"><![CDATA[Google Sheets is widely used for tracking data, managing inventories, building product catalogs, and creating dashboards. In many of these use cases, adding images directly into a spreadsheet makes th]]></summary>
+        <author>
+            <name>Vikram Aruchamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Reverse Tool Using JavaScript]]></title>
+        <id>6a3c3ffeeed203a44f97b779</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-browser-based-pdf-reverse-tool-javascript/"/>
+        <updated>2026-06-24T20:37:18.000Z</updated>
+        <summary type="html"><![CDATA[PDF files are often created by combining scans, exporting documents from different systems, or processing large batches of pages. In many cases, the final PDF ends up with pages arranged in the wrong]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Secure-by-Default Node.js APIs]]></title>
+        <id>6a3c3fc702ebd10f875ab988</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-secure-by-default-node-js-apis/"/>
+        <updated>2026-06-24T20:36:23.000Z</updated>
+        <summary type="html"><![CDATA[Most security problems I've shipped in my career weren't exotic. They weren't nation-state attacks or clever zero-days. They were boring. A missing limit here, a forgotten timeout there, a string comp]]></summary>
+        <author>
+            <name>Devlin Duldulao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Production-Grade AI Guardrails for Enterprise Applications: A Practical Guide]]></title>
+        <id>6a3c0e8a702363441b7194ca</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-production-grade-ai-guardrails-for-enterprise-applications-a-practical-guide/"/>
+        <updated>2026-06-24T17:06:18.000Z</updated>
+        <summary type="html"><![CDATA[Large Language Models have fundamentally changed how we build internal business applications. They allow developers to create intelligent software that can answer questions, synthesize complex enterpr]]></summary>
+        <author>
+            <name>Chidiebere Njoku</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Animated Badge Component with shadcn/ui]]></title>
+        <id>6a3c0d40b101451dd3ba52e8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-animated-badge-component-with-shadcn-ui/"/>
+        <updated>2026-06-24T17:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Badges are everywhere in modern web apps. You see them on notification counters, status labels, and feature tags. Most of them are static, though. They sit there doing nothing, blending into the page.]]></summary>
+        <author>
+            <name>Vaibhav Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find Stock-Specific Moves in the S&P 500 with Python]]></title>
+        <id>6a3c0c12b0a5ff1b08f51660</id>
+        <link href="https://www.freecodecamp.org/news/how-to-find-stock-specific-moves-in-the-s-p-500-with-python/"/>
+        <updated>2026-06-24T16:55:46.000Z</updated>
+        <summary type="html"><![CDATA[On June 12, 2026, SPY closed up 0.54%. EchoStar (SATS) dropped 11%. Lennar (LEN) dropped 4.9%. Most of the other 500 stocks in the index barely moved beyond what SPY’s own gain would predict. That gap]]></summary>
+        <author>
+            <name>Nikhil Adithyan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Structure Large Flutter Applications for Scalable and Maintainable Growth]]></title>
         <id>6a3ab6b8b961d002e47ff767</id>
@@ -43,66 +103,6 @@
         <summary type="html"><![CDATA[Tutorials teach you how to write Terraform, but don't teach you what happens when 60 engineers start writing it together. When you learn Terraform, you work with a single repository, state file, and a]]></summary>
         <author>
             <name>Osomudeya Zudonu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From LLMs to LangChain: Understanding How Modern AI Applications Actually Work]]></title>
-        <id>6a3aab13b5ad15098db82372</id>
-        <link href="https://www.freecodecamp.org/news/from-llms-to-langchain-understanding-how-modern-ai-applications-actually-work/"/>
-        <updated>2026-06-23T15:49:39.000Z</updated>
-        <summary type="html"><![CDATA[Typically, when we start experimenting with AI, many of us begin similarly. We try a single LLM call as the core of an app, like this: const response = await llm.chat("Explain Kubernetes"); For a lit]]></summary>
-        <author>
-            <name>Sudheesh Shetty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Flutter Renders Under the Hood: BuildContext and Element Tree Explained]]></title>
-        <id>6a3aaaa1e2b119a77f6a3a71</id>
-        <link href="https://www.freecodecamp.org/news/how-flutter-renders-under-the-hood-buildcontext-and-element-tree-explained/"/>
-        <updated>2026-06-23T15:47:45.000Z</updated>
-        <summary type="html"><![CDATA[The first time I saw "Looking up a deactivated widget's ancestor is unsafe" in a stack trace, I genuinely didn't know what it meant. I copied the error into Google, found three different Stack Overflo]]></summary>
-        <author>
-            <name>Gidudu Nicholas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sleep Tracking, Bluetooth Signals, and EMF: What Every Wearable User Should Know]]></title>
-        <id>6a3aaa339a4579a7c98eadf8</id>
-        <link href="https://www.freecodecamp.org/news/sleep-tracking-bluetooth-signals-and-emf-in-wearables/"/>
-        <updated>2026-06-23T15:45:55.000Z</updated>
-        <summary type="html"><![CDATA[You take off your shoes before bed. You probably don't take off your smart ring or your watch. Most of us sleep with a Bluetooth-enabled device sitting a few millimeters from our skin, all night, ever]]></summary>
-        <author>
-            <name>Shradha Puri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Notion Workers]]></title>
-        <id>6a3a83330aa6decb65d23eec</id>
-        <link href="https://www.freecodecamp.org/news/learn-notion-workers/"/>
-        <updated>2026-06-23T12:59:31.000Z</updated>
-        <summary type="html"><![CDATA[Imagine being able to pull any external data into Notion, seamlessly push updates to your other favorite apps, and automate complex business logic, and do this all without paying for third-party no-co]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What to Do When Reflection Won't Fix Your AI Agent's Output]]></title>
-        <id>6a39b4a8a46b9ad44f07cee5</id>
-        <link href="https://www.freecodecamp.org/news/what-to-do-when-reflection-won-t-fix-your-ai-agent-s-output/"/>
-        <updated>2026-06-22T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Many AI Agent tutorials propose the same fix for bad output: reflection. Your agent generates garbage JSON? Just add another LLM call to "review" it. The second call critiques the first, the first tri]]></summary>
-        <author>
-            <name>Manish Ramavat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Scalable Design System in a Monorepo]]></title>
-        <id>6a397b0b12901591d0138d81</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-scalable-design-system-in-a-monorepo/"/>
-        <updated>2026-06-22T18:12:27.000Z</updated>
-        <summary type="html"><![CDATA[When you hear "Scalable Design System with a Monorepo Ecosystem" it might sound like a bunch of jargon glued together. Let's simplify: Design system: the building blocks of your product (buttons, inp]]></summary>
-        <author>
-            <name>Vineeth Pawar</name>
         </author>
     </entry>
     <entry>
