@@ -1,10 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-25T01:09:27.287Z</id>
+    <id>urn:2026-06-26T01:13:00.175Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-25T01:09:27.287Z</updated>
+    <updated>2026-06-26T01:13:00.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How I Became Brazil's First Visually Impaired Cybersecurity Graduate — and Changed Vulnerability Research]]></title>
+        <id>6a3d5613a6457a76ae756960</id>
+        <link href="https://www.freecodecamp.org/news/how-i-became-brazils-first-visually-impaired-cybersecurity-graduate/"/>
+        <updated>2026-06-25T16:23:47.000Z</updated>
+        <summary type="html"><![CDATA[I was born prematurely at six months. My mother's placenta detached before delivery, and she essentially "gave birth" before I came out. Two days after my birth, doctors found a heart murmur that requ]]></summary>
+        <author>
+            <name>Juan Mathews Rebello Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Dart Dot Shorthands: A Handbook for Devs]]></title>
+        <id>6a3d52709b8297191d1dfb4e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-dart-dot-shorthands-handbook/"/>
+        <updated>2026-06-25T16:08:16.000Z</updated>
+        <summary type="html"><![CDATA[If you've written Flutter code for more than a month, you've likely written this line hundreds of times: mainAxisAlignment: MainAxisAlignment.center, crossAxisAlignment: CrossAxisAlignment.start, main]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[translateZ()]]></title>
+        <id>https://css-tricks.com/?page_id=394786</id>
+        <link href="https://css-tricks.com/almanac/functions/t/translatez/"/>
+        <updated>2026-06-25T13:18:56.000Z</updated>
+        <summary type="html"><![CDATA[The translateZ() function moves an element closer to or farther from the user. 
+translateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[translateY()]]></title>
+        <id>https://css-tricks.com/?page_id=393249</id>
+        <link href="https://css-tricks.com/almanac/functions/t/translatey/"/>
+        <updated>2026-06-25T13:17:56.000Z</updated>
+        <summary type="html"><![CDATA[The translateY() function shifts an element vertically by the specified amount. 
+translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[translateX()]]></title>
+        <id>https://css-tricks.com/?page_id=393255</id>
+        <link href="https://css-tricks.com/almanac/functions/t/translatex/"/>
+        <updated>2026-06-25T13:16:01.000Z</updated>
+        <summary type="html"><![CDATA[The translateX() function shifts an element horizontally by the specified amount. 
+translateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[translate()]]></title>
+        <id>https://css-tricks.com/?page_id=393233</id>
+        <link href="https://css-tricks.com/almanac/functions/t/translate/"/>
+        <updated>2026-06-25T13:15:05.000Z</updated>
+        <summary type="html"><![CDATA[The CSS translate() function shifts an element from its default position on a 2-dimensional plane
+translate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stop Your AI Coding Agent from Writing Outdated Code with Modern Web Guidance]]></title>
+        <id>6a3c65fd59937171080147f8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-stop-your-ai-coding-agent-from-writing-outdated-code-with-modern-web-guidance/"/>
+        <updated>2026-06-24T23:19:25.000Z</updated>
+        <summary type="html"><![CDATA[AI coding agents can save developers a lot of time – that is, until you open the output and realize they've written code like it's 2019. Ask an agent to build a tooltip, for example. The HTML looks po]]></summary>
+        <author>
+            <name>Ophy Boamah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Insert Images in Google Sheets]]></title>
         <id>6a3c55950ff169f1dc95f74c</id>
@@ -73,36 +147,6 @@
         <summary type="html"><![CDATA[Flutter makes it extremely fast to build UIs. That speed is one of the framework’s greatest strengths, but it also creates a subtle problem: applications often grow much faster than their architecture]]></summary>
         <author>
             <name>Ethiel ADIASSA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Teach a Small LLM to Suggest K12 Creative Project Ideas]]></title>
-        <id>6a3ab6628d22211aa0282f4f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-teach-a-small-llm-to-suggest-k12-creative-project-ideas/"/>
-        <updated>2026-06-23T16:37:54.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I wrote a post about an educational app I'd developed using AI tools, and the design decisions I made along the way. When I showed the prototype of my activity-based learning app to a few ed]]></summary>
-        <author>
-            <name>Srishti Sethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Durable, Autoscaling AI Agent with Temporal, Composio, KEDA, and Kubernetes]]></title>
-        <id>6a3ab180022a80fcba0df6e8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-durable-autoscaling-ai-agent-with-temporal-composio-keda-and-kubernetes/"/>
-        <updated>2026-06-23T16:17:04.000Z</updated>
-        <summary type="html"><![CDATA[Most AI agents are great at quick tasks. Send a message, the agent calls a few tools, and you get a response back in seconds. That works perfectly when you're asking it to summarize a document or do s]]></summary>
-        <author>
-            <name>Shrijal Acharya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Enterprise Teams Manage Infrastructure at Scale with Terraform]]></title>
-        <id>6a3aaccb0aca21a37c59db4a</id>
-        <link href="https://www.freecodecamp.org/news/how-enterprise-teams-manage-infrastructure-at-scale-with-terraform/"/>
-        <updated>2026-06-23T15:56:59.000Z</updated>
-        <summary type="html"><![CDATA[Tutorials teach you how to write Terraform, but don't teach you what happens when 60 engineers start writing it together. When you learn Terraform, you work with a single repository, state file, and a]]></summary>
-        <author>
-            <name>Osomudeya Zudonu</name>
         </author>
     </entry>
     <entry>
@@ -260,28 +304,6 @@ offset-path originally handwritten and published with love on CSS-Tricks. You sh
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[@custom-media]]></title>
-        <id>https://css-tricks.com/?page_id=394739</id>
-        <link href="https://css-tricks.com/almanac/rules/c/custom-media/"/>
-        <updated>2026-06-03T13:03:21.000Z</updated>
-        <summary type="html"><![CDATA[The CSS @custom-media at-rule allows creating aliases for media queries.
-@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Declan Chidlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@function]]></title>
-        <id>https://css-tricks.com/?page_id=394732</id>
-        <link href="https://css-tricks.com/almanac/rules/f/function/"/>
-        <updated>2026-06-03T13:02:39.000Z</updated>
-        <summary type="html"><![CDATA[The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. 
-@function originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Declan Chidlow</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Make Your Design System AI-Ready]]></title>
         <id>https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/</id>
         <link href="https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/"/>
@@ -289,29 +311,6 @@ offset-path originally handwritten and published with love on CSS-Tricks. You sh
         <summary type="html"><![CDATA[Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[::search-text]]></title>
-        <id>https://css-tricks.com/?page_id=393544</id>
-        <link href="https://css-tricks.com/almanac/pseudo-selectors/s/search-text/"/>
-        <updated>2026-06-02T12:59:21.000Z</updated>
-        <summary type="html"><![CDATA[The CSS ::search-text pseudo-element selects the matching text from your browser's "find in page" feature. 
-::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astro Markdown Component Utility for Any Framework]]></title>
-        <id>https://css-tricks.com/?p=392775</id>
-        <link href="https://css-tricks.com/astro-markdown-component-utility-any-framework/"/>
-        <updated>2026-06-01T13:25:00.000Z</updated>
-        <summary type="html"><![CDATA[In the previous article, I spoke about the why and how to use a Markdown component in Astro.
-Here, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …
-Astro Markdown Component Utility for Any Framework originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
     <entry>
