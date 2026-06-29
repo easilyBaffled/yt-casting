@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-28T01:14:01.482Z</id>
+    <id>urn:2026-06-29T01:14:33.163Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-28T01:14:01.482Z</updated>
+    <updated>2026-06-29T01:14:33.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -96,6 +96,50 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[translateZ()]]></title>
+        <id>https://css-tricks.com/?page_id=394786</id>
+        <link href="https://css-tricks.com/almanac/functions/t/translatez/"/>
+        <updated>2026-06-25T13:18:56.000Z</updated>
+        <summary type="html"><![CDATA[The translateZ() function moves an element closer to or farther from the user. 
+translateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[translateY()]]></title>
+        <id>https://css-tricks.com/?page_id=393249</id>
+        <link href="https://css-tricks.com/almanac/functions/t/translatey/"/>
+        <updated>2026-06-25T13:17:56.000Z</updated>
+        <summary type="html"><![CDATA[The translateY() function shifts an element vertically by the specified amount. 
+translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[translateX()]]></title>
+        <id>https://css-tricks.com/?page_id=393255</id>
+        <link href="https://css-tricks.com/almanac/functions/t/translatex/"/>
+        <updated>2026-06-25T13:16:01.000Z</updated>
+        <summary type="html"><![CDATA[The translateX() function shifts an element horizontally by the specified amount. 
+translateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[translate()]]></title>
+        <id>https://css-tricks.com/?page_id=393233</id>
+        <link href="https://css-tricks.com/almanac/functions/t/translate/"/>
+        <updated>2026-06-25T13:15:05.000Z</updated>
+        <summary type="html"><![CDATA[The CSS translate() function shifts an element from its default position on a 2-dimensional plane
+translate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Stop Your AI Coding Agent from Writing Outdated Code with Modern Web Guidance]]></title>
         <id>6a3c65fd59937171080147f8</id>
         <link href="https://www.freecodecamp.org/news/how-to-stop-your-ai-coding-agent-from-writing-outdated-code-with-modern-web-guidance/"/>
@@ -103,6 +147,52 @@
         <summary type="html"><![CDATA[AI coding agents can save developers a lot of time – that is, until you open the output and realize they've written code like it's 2019. Ask an agent to build a tooltip, for example. The HTML looks po]]></summary>
         <author>
             <name>Ophy Boamah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Scroll-Driven Animations for Opposing Scroll Directions]]></title>
+        <id>https://css-tricks.com/?p=394890</id>
+        <link href="https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/"/>
+        <updated>2026-06-22T12:39:13.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.
+CodePen Embed Fallback
+Note: This …
+Using Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Silvestar Bistrović</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A First Look at Scroll-Triggered Animations]]></title>
+        <id>https://css-tricks.com/?p=394364</id>
+        <link href="https://css-tricks.com/css-scroll-triggered-animations-first-look/"/>
+        <updated>2026-06-19T13:03:17.000Z</updated>
+        <summary type="html"><![CDATA[Let's poke at the differences between scroll-driven and scroll-triggered animations.
+A First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Siren Song of ariaNotify()]]></title>
+        <id>https://css-tricks.com/?p=395567</id>
+        <link href="https://css-tricks.com/the-siren-song-of-arianotify/"/>
+        <updated>2026-06-17T15:32:30.000Z</updated>
+        <summary type="html"><![CDATA[There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.
+The Siren Song of ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mat Marquis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prop For That]]></title>
+        <id>https://css-tricks.com/?p=395776</id>
+        <link href="https://css-tricks.com/prop-for-that/"/>
+        <updated>2026-06-16T18:36:25.000Z</updated>
+        <summary type="html"><![CDATA[Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.
+Prop For That originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -116,6 +206,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What’s !important #13: @function, alpha(), CSS Wordle, and More]]></title>
+        <id>https://css-tricks.com/?p=395752</id>
+        <link href="https://css-tricks.com/whats-important-13/"/>
+        <updated>2026-06-15T13:15:33.000Z</updated>
+        <summary type="html"><![CDATA[CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.
+What’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Isn’t My 3D View Transition Working?]]></title>
+        <id>https://css-tricks.com/?p=395594</id>
+        <link href="https://css-tricks.com/why-isnt-my-3d-view-transition-working/"/>
+        <updated>2026-06-12T15:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.
+Why Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There’s no need to include ‘navigation’ in your navigation labels]]></title>
+        <id>https://css-tricks.com/?p=395744</id>
+        <link href="https://css-tricks.com/navigation-in-your-navigation-labels/"/>
+        <updated>2026-06-12T15:08:38.000Z</updated>
+        <summary type="html"><![CDATA[One of those nuances to keep in your back pocket when writing for screen readers.
+There’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Impact Of Humanoid Robots On Humanity]]></title>
         <id>https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/</id>
         <link href="https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"/>
@@ -126,6 +249,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Creating Memorable Web Experiences: A Modern CSS Toolkit]]></title>
+        <id>https://css-tricks.com/?p=393676</id>
+        <link href="https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/"/>
+        <updated>2026-06-10T13:02:10.000Z</updated>
+        <summary type="html"><![CDATA[There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.
+Creating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mariana Beldi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Benefits Of Cognitive Inclusion In UX Research]]></title>
         <id>https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/</id>
         <link href="https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/"/>
@@ -133,6 +267,40 @@
         <summary type="html"><![CDATA[Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kate Kalcevich)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions]]></title>
+        <id>https://css-tricks.com/?p=393503</id>
+        <link href="https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/"/>
+        <updated>2026-06-08T13:00:34.000Z</updated>
+        <summary type="html"><![CDATA[I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.
+Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!]]></title>
+        <id>https://css-tricks.com/?p=393178</id>
+        <link href="https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/"/>
+        <updated>2026-06-04T13:14:49.000Z</updated>
+        <summary type="html"><![CDATA[We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.
+Another Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Antoine Villepreux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[offset-path]]></title>
+        <id>http://css-tricks.com/?page_id=243521</id>
+        <link href="https://css-tricks.com/almanac/properties/o/offset-path/"/>
+        <updated>2026-06-03T15:02:38.000Z</updated>
+        <summary type="html"><![CDATA[The offset-path property in CSS defines a movement path for an element to follow during animation.
+This property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …
+offset-path originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
