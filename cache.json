@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395223",
+          "author": "Daniel Schwarz",
+          "description": "CSS has always had pseudo-classes that style things when baed on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically listens for.\nThe Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-states-and-javascript-events/",
+          "publishedOn": "2026-06-29T13:03:32.000Z",
+          "wordCount": 4567,
+          "title": "The Shifting Line Between CSS States and JavaScript Events",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/state-management.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?page_id=394786",
           "author": "Gabriel Shoyombo",
           "description": "The translateZ() function moves an element closer to or farther from the user. \ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -180,16 +190,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/pie-chart.webp"
-        },
-        {
-          "id": "http://css-tricks.com/?page_id=243521",
-          "author": "Geoff Graham",
-          "description": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …\noffset-path originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/o/offset-path/",
-          "publishedOn": "2026-06-03T15:02:38.000Z",
-          "wordCount": 4296,
-          "title": "offset-path",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2016/07/funky-path.png"
         }
       ]
     },
@@ -204,7 +204,7 @@
           "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
           "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
           "publishedOn": "2026-06-16T15:00:00.000Z",
-          "wordCount": 6489,
+          "wordCount": 6488,
           "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -219,7 +219,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4812,
+          "wordCount": 4808,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -234,7 +234,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5759,
+          "wordCount": 5753,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -257,21 +257,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
-          "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
-          "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5515,
-          "title": "June Is For Exploring (2026 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png"
         }
       ]
     },
@@ -280,6 +265,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a42a24e2a8a54195ace1aab",
+          "author": "ishaan gupta",
+          "description": "A few months ago, Andrej Karpathy released autoresearch. It's an open-source Python tool that lets an AI agent run experiments on one GPU while you sit back and wait for the results. Lately I've still",
+          "link": "https://www.freecodecamp.org/news/build-an-ai-agent-that-runs-its-own-llm-experiments-with-autoresearch/",
+          "publishedOn": "2026-06-29T16:50:22.000Z",
+          "wordCount": 5726,
+          "title": "How to Build an AI Agent That Runs its Own LLM Experiments with autoresearch",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4f910471-5f78-41c0-a30e-7630737bbb74.png"
+        },
+        {
+          "id": "6a4286cee47e505c8beef4bb",
+          "author": "Prasanth Madhurapantula",
+          "description": "A Bloom filter gives you something that feels like magic: it can tell you whether an item is in a set of billions, using only a few kilobytes of memory. And it answers in the same tiny amount of time",
+          "link": "https://www.freecodecamp.org/news/how-bloom-filters-work-build-one-from-scratch-python/",
+          "publishedOn": "2026-06-29T14:53:02.000Z",
+          "wordCount": 3214,
+          "title": "How a Bloom Filter Works: Build One From Scratch in Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c34b8589-9a73-4d91-9051-793cff8b2037.png"
+        },
+        {
+          "id": "6a427b9a9857c50fd3971c7a",
+          "author": "Jesutoni Aderibigbe",
+          "description": "In early 2023, I was interning at a US-based company, long before agentic AI became part of everyday development. We had tools like ChatGPT, Gemini, and Copilot, but they were mostly chat interfaces:",
+          "link": "https://www.freecodecamp.org/news/how-to-use-claude-code-to-build-flutter-apps-faster-best-practices/",
+          "publishedOn": "2026-06-29T14:05:14.000Z",
+          "wordCount": 4822,
+          "title": "How to Use Claude Code to Build Flutter Apps Faster — Best Practices for 2026",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/90650cde-75af-4ba0-af15-5d7c567d1583.png"
+        },
         {
           "id": "6a3ebfce33b56590aa5b54c9",
           "author": "Darsh Shah",
@@ -296,7 +311,7 @@
           "description": "Cloudflare Tunnel is a secure tunneling solution that allows developers to expose local applications and private services to the internet without opening inbound ports or changing firewall rules. Inst",
           "link": "https://www.freecodecamp.org/news/how-to-choose-the-right-tunneling-tool/",
           "publishedOn": "2026-06-26T16:32:20.000Z",
-          "wordCount": 2665,
+          "wordCount": 2664,
           "title": "The Best Cloudflare Tunnel Alternatives – How to Choose the Right Tunneling Solution for Your Use Case",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3438d8ee-f43d-42ac-a4df-8ceb7b983664.png"
         },
@@ -349,36 +364,6 @@
           "wordCount": 4965,
           "title": "Advanced Dart: Learn Asynchronous Programming with Streams, Isolates, and the Event Loop",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bc97ef43-0f34-4cf1-a824-814a0ec2834d.png"
-        },
-        {
-          "id": "6a3d5613a6457a76ae756960",
-          "author": "Juan Mathews Rebello Santos",
-          "description": "I was born prematurely at six months. My mother's placenta detached before delivery, and she essentially \"gave birth\" before I came out. Two days after my birth, doctors found a heart murmur that requ",
-          "link": "https://www.freecodecamp.org/news/how-i-became-brazils-first-visually-impaired-cybersecurity-graduate/",
-          "publishedOn": "2026-06-25T16:23:47.000Z",
-          "wordCount": 3347,
-          "title": "How I Became Brazil's First Visually Impaired Cybersecurity Graduate — and Changed Vulnerability Research",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6a4dc6c9-2901-42c3-b008-5da6da29a845.png"
-        },
-        {
-          "id": "6a3d52709b8297191d1dfb4e",
-          "author": "Atuoha Anthony",
-          "description": "If you've written Flutter code for more than a month, you've likely written this line hundreds of times: mainAxisAlignment: MainAxisAlignment.center, crossAxisAlignment: CrossAxisAlignment.start, main",
-          "link": "https://www.freecodecamp.org/news/how-to-use-dart-dot-shorthands-handbook/",
-          "publishedOn": "2026-06-25T16:08:16.000Z",
-          "wordCount": 9616,
-          "title": "How to Use Dart Dot Shorthands: A Handbook for Devs",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8db73615-1cb4-4408-80d2-634775c83382.png"
-        },
-        {
-          "id": "6a3c65fd59937171080147f8",
-          "author": "Ophy Boamah",
-          "description": "AI coding agents can save developers a lot of time – that is, until you open the output and realize they've written code like it's 2019. Ask an agent to build a tooltip, for example. The HTML looks po",
-          "link": "https://www.freecodecamp.org/news/how-to-stop-your-ai-coding-agent-from-writing-outdated-code-with-modern-web-guidance/",
-          "publishedOn": "2026-06-24T23:19:25.000Z",
-          "wordCount": 3269,
-          "title": "How to Stop Your AI Coding Agent from Writing Outdated Code with Modern Web Guidance",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c231d1d5-6f7b-40c2-b255-81012edb97e0.png"
         }
       ]
     }

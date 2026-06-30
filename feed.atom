@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-29T01:14:33.163Z</id>
+    <id>urn:2026-06-30T01:10:10.156Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-29T01:14:33.163Z</updated>
+    <updated>2026-06-30T01:10:10.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Agent That Runs its Own LLM Experiments with autoresearch]]></title>
+        <id>6a42a24e2a8a54195ace1aab</id>
+        <link href="https://www.freecodecamp.org/news/build-an-ai-agent-that-runs-its-own-llm-experiments-with-autoresearch/"/>
+        <updated>2026-06-29T16:50:22.000Z</updated>
+        <summary type="html"><![CDATA[A few months ago, Andrej Karpathy released autoresearch. It's an open-source Python tool that lets an AI agent run experiments on one GPU while you sit back and wait for the results. Lately I've still]]></summary>
+        <author>
+            <name>ishaan gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Bloom Filter Works: Build One From Scratch in Python]]></title>
+        <id>6a4286cee47e505c8beef4bb</id>
+        <link href="https://www.freecodecamp.org/news/how-bloom-filters-work-build-one-from-scratch-python/"/>
+        <updated>2026-06-29T14:53:02.000Z</updated>
+        <summary type="html"><![CDATA[A Bloom filter gives you something that feels like magic: it can tell you whether an item is in a set of billions, using only a few kilobytes of memory. And it answers in the same tiny amount of time]]></summary>
+        <author>
+            <name>Prasanth Madhurapantula</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Claude Code to Build Flutter Apps Faster — Best Practices for 2026]]></title>
+        <id>6a427b9a9857c50fd3971c7a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-claude-code-to-build-flutter-apps-faster-best-practices/"/>
+        <updated>2026-06-29T14:05:14.000Z</updated>
+        <summary type="html"><![CDATA[In early 2023, I was interning at a US-based company, long before agentic AI became part of everyday development. We had tools like ChatGPT, Gemini, and Copilot, but they were mostly chat interfaces:]]></summary>
+        <author>
+            <name>Jesutoni Aderibigbe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Shifting Line Between CSS States and JavaScript Events]]></title>
+        <id>https://css-tricks.com/?p=395223</id>
+        <link href="https://css-tricks.com/css-states-and-javascript-events/"/>
+        <updated>2026-06-29T13:03:32.000Z</updated>
+        <summary type="html"><![CDATA[CSS has always had pseudo-classes that style things when baed on user interactions. Recent features, however, are blurring the line between what CSS "listens" for and how they are alternatives to what Javascript typically listens for.
+The Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Personal AI Web Research Agent with Ollama and Qwen]]></title>
         <id>6a3ebfce33b56590aa5b54c9</id>
@@ -76,26 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Became Brazil's First Visually Impaired Cybersecurity Graduate — and Changed Vulnerability Research]]></title>
-        <id>6a3d5613a6457a76ae756960</id>
-        <link href="https://www.freecodecamp.org/news/how-i-became-brazils-first-visually-impaired-cybersecurity-graduate/"/>
-        <updated>2026-06-25T16:23:47.000Z</updated>
-        <summary type="html"><![CDATA[I was born prematurely at six months. My mother's placenta detached before delivery, and she essentially "gave birth" before I came out. Two days after my birth, doctors found a heart murmur that requ]]></summary>
-        <author>
-            <name>Juan Mathews Rebello Santos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Dart Dot Shorthands: A Handbook for Devs]]></title>
-        <id>6a3d52709b8297191d1dfb4e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-dart-dot-shorthands-handbook/"/>
-        <updated>2026-06-25T16:08:16.000Z</updated>
-        <summary type="html"><![CDATA[If you've written Flutter code for more than a month, you've likely written this line hundreds of times: mainAxisAlignment: MainAxisAlignment.center, crossAxisAlignment: CrossAxisAlignment.start, main]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[translateZ()]]></title>
         <id>https://css-tricks.com/?page_id=394786</id>
         <link href="https://css-tricks.com/almanac/functions/t/translatez/"/>
@@ -137,16 +158,6 @@ translateX() originally handwritten and published with love on CSS-Tricks. You s
 translate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Stop Your AI Coding Agent from Writing Outdated Code with Modern Web Guidance]]></title>
-        <id>6a3c65fd59937171080147f8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-stop-your-ai-coding-agent-from-writing-outdated-code-with-modern-web-guidance/"/>
-        <updated>2026-06-24T23:19:25.000Z</updated>
-        <summary type="html"><![CDATA[AI coding agents can save developers a lot of time – that is, until you open the output and realize they've written code like it's 2019. Ask an agent to build a tooltip, for example. The HTML looks po]]></summary>
-        <author>
-            <name>Ophy Boamah</name>
         </author>
     </entry>
     <entry>
@@ -292,18 +303,6 @@ Another Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwri
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[offset-path]]></title>
-        <id>http://css-tricks.com/?page_id=243521</id>
-        <link href="https://css-tricks.com/almanac/properties/o/offset-path/"/>
-        <updated>2026-06-03T15:02:38.000Z</updated>
-        <summary type="html"><![CDATA[The offset-path property in CSS defines a movement path for an element to follow during animation.
-This property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …
-offset-path originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Make Your Design System AI-Ready]]></title>
         <id>https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/</id>
         <link href="https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/"/>
@@ -311,16 +310,6 @@ offset-path originally handwritten and published with love on CSS-Tricks. You sh
         <summary type="html"><![CDATA[Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June Is For Exploring (2026 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/</id>
-        <link href="https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/"/>
-        <updated>2026-05-31T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
