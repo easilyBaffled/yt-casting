@@ -12,12 +12,27 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395894",
+          "author": "Daniel Schwarz",
+          "description": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\nWhat’s !important #14: Gap Decorations, random(), <select> field sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-14/",
+          "publishedOn": "2026-06-30T13:54:14.000Z",
+          "wordCount": 3582,
+          "title": "What’s !important #14: Gap Decorations, random(), <select> field sizing, and More",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/06/3.mp4",
+            "length": "35551592",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wi14.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=395223",
           "author": "Daniel Schwarz",
           "description": "CSS has always had pseudo-classes that style things when baed on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically listens for.\nThe Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-states-and-javascript-events/",
           "publishedOn": "2026-06-29T13:03:32.000Z",
-          "wordCount": 4567,
+          "wordCount": 4622,
           "title": "The Shifting Line Between CSS States and JavaScript Events",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/state-management.jpg"
         },
@@ -37,7 +52,7 @@
           "description": "The translateY() function shifts an element vertically by the specified amount. \ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/t/translatey/",
           "publishedOn": "2026-06-25T13:17:56.000Z",
-          "wordCount": 4143,
+          "wordCount": 4141,
           "title": "translateY()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -47,7 +62,7 @@
           "description": "The translateX() function shifts an element horizontally by the specified amount. \ntranslateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/t/translatex/",
           "publishedOn": "2026-06-25T13:16:01.000Z",
-          "wordCount": 4359,
+          "wordCount": 4355,
           "title": "translateX()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -57,7 +72,7 @@
           "description": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane\ntranslate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/t/translate/",
           "publishedOn": "2026-06-25T13:15:05.000Z",
-          "wordCount": 4231,
+          "wordCount": 4227,
           "title": "translate()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -175,21 +190,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/scroll-animations-view-transitions.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393178",
-          "author": "Antoine Villepreux",
-          "description": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\nAnother Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
-          "publishedOn": "2026-06-04T13:14:49.000Z",
-          "wordCount": 5044,
-          "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/03/screenreader.mp4",
-            "length": "644313",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/pie-chart.webp"
         }
       ]
     },
@@ -199,12 +199,42 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
+          "author": "hello@smashingmagazine.com (Mikhail Prosmitskiy)",
+          "description": "Teams can generate UI faster than ever, but they still have to guarantee that what they ship is usable, secure, and maintainable. Accessibility as an operational capability rather than a compliance checklist or end-of-project audit, and what that looks like in practice.",
+          "link": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
+          "publishedOn": "2026-06-30T12:00:00.000Z",
+          "wordCount": 4763,
+          "title": "Why Accessibility Is An Operational Capability, Not A Feature",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/why-accessibility-operational-capability-not-feature/why-accessibility-operational-capability-not-feature.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/why-accessibility-operational-capability-not-feature/why-accessibility-operational-capability-not-feature.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
+          "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
+          "publishedOn": "2026-06-30T11:00:00.000Z",
+          "wordCount": 4817,
+          "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
           "author": "hello@smashingmagazine.com (Pratik Joglekar)",
           "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
           "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
           "publishedOn": "2026-06-16T15:00:00.000Z",
-          "wordCount": 6488,
+          "wordCount": 6494,
           "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -219,7 +249,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4808,
+          "wordCount": 4817,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -234,7 +264,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5753,
+          "wordCount": 5754,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -266,6 +296,76 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a442bf6f75ef9bd6e0bfc7f",
+          "author": "Manish Shivanandhan",
+          "description": "Most product teams assume infrastructure ownership is simply part of building software. We did too. It wasn’t until we measured how much engineering time was disappearing into operational work that we",
+          "link": "https://www.freecodecamp.org/news/my-team-s-experience-moving-from-aws-to-a-paas/",
+          "publishedOn": "2026-06-30T20:49:58.000Z",
+          "wordCount": 2467,
+          "title": "My Team's Experience Moving from AWS to a PaaS",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/01d97a10-ea77-49e7-a8d9-1471683948b7.png"
+        },
+        {
+          "id": "6a442b57dd852a5d76691859",
+          "author": "Ilknur Eren",
+          "description": "Every iPhone and iPad includes a built-in screen reader called VoiceOver. VoiceOver speaks aloud the text on the screen, app names, icons, buttons, menus, links, and notifications and alerts. These ac",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-screen-reader-that-s-built-into-your-iphone/",
+          "publishedOn": "2026-06-30T20:47:19.000Z",
+          "wordCount": 1838,
+          "title": "How to Use the Screen Reader That's Built into Your iPhone",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b5b3867f-7404-4557-85e6-bc508c88a961.png"
+        },
+        {
+          "id": "6a43ead6ddc9ba7a9bd38fd7",
+          "author": "Beau Carnes",
+          "description": "If you’ve ever watched a developer or DevOps engineer rapidly typing away into a blank, dark window filled with text, it might have looked like pure wizardry. That \"blank window\" is the command line a",
+          "link": "https://www.freecodecamp.org/news/command-line-basics-for-beginners/",
+          "publishedOn": "2026-06-30T16:12:06.000Z",
+          "wordCount": 1085,
+          "title": "Command Line Basics for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/c456512e-2aeb-46a6-874f-f6cfa2e8d269.jpg"
+        },
+        {
+          "id": "6a43e83fe6f3ef85737305cb",
+          "author": "Rudrendu Paul",
+          "description": "Your team ships an intelligent query-routing feature for an LLM SaaS platform. The feature reads each incoming request in real time and decides whether to send it to the fast standard model or the mor",
+          "link": "https://www.freecodecamp.org/news/switchback-experiments-for-ai-platform-features-in-python/",
+          "publishedOn": "2026-06-30T16:01:03.000Z",
+          "wordCount": 6332,
+          "title": "Product Experimentation for LLM Platforms: Switchback Designs When User Randomization Breaks Market Equilibrium in Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/50802c2c-ef8c-4137-852a-eed1000e67e7.png"
+        },
+        {
+          "id": "6a4309759c7a549cd18f1344",
+          "author": "Shradha Puri",
+          "description": "My partner and I have this thing where we check at what time our heart rates drop to their lowest during sleep, even though we sleep almost at the same time for a similar duration. He's on a Garmin, w",
+          "link": "https://www.freecodecamp.org/news/why-different-wearables-report-different-heart-rates/",
+          "publishedOn": "2026-06-30T00:10:29.000Z",
+          "wordCount": 2757,
+          "title": "Why Different Wearables Report Different Heart Rates",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bf4ce419-8c4f-4895-885b-d5af75a1df3f.png"
+        },
+        {
+          "id": "6a4308a0b89cf8453d414d2e",
+          "author": "Bhavin Sheth",
+          "description": "PDF documents come in many different page sizes. Some are designed for A4 paper, while others use Letter, Legal, Tabloid, or custom dimensions. This can create problems when printing, sharing, archivi",
+          "link": "https://www.freecodecamp.org/news/build-pdf-resizer-javascript/",
+          "publishedOn": "2026-06-30T00:06:56.000Z",
+          "wordCount": 3616,
+          "title": "How to Build a Browser-Based PDF Resizer Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1b1d6bca-dec7-4b4c-8983-0b2a94ba8f8e.png"
+        },
+        {
+          "id": "6a43087a41950d02c662e901",
+          "author": "Casmir Onyekani",
+          "description": "Imagine opening your laptop and writing code that follows the laws of Quantum Physics. Sounds like science fiction, right? That's exactly what I thought the first time I heard about quantum computing.",
+          "link": "https://www.freecodecamp.org/news/how-to-write-your-first-quantum-circuit-in-python-a-beginner-s-step-by-step-guide/",
+          "publishedOn": "2026-06-30T00:06:18.000Z",
+          "wordCount": 4247,
+          "title": "How to Write Your First Quantum Circuit in Python: A Beginner's Step-by-Step Guide",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ce5d0476-b953-4865-810b-3f86021152c7.png"
+        },
+        {
           "id": "6a42a24e2a8a54195ace1aab",
           "author": "ishaan gupta",
           "description": "A few months ago, Andrej Karpathy released autoresearch. It's an open-source Python tool that lets an AI agent run experiments on one GPU while you sit back and wait for the results. Lately I've still",
@@ -294,76 +394,6 @@
           "wordCount": 4822,
           "title": "How to Use Claude Code to Build Flutter Apps Faster — Best Practices for 2026",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/90650cde-75af-4ba0-af15-5d7c567d1583.png"
-        },
-        {
-          "id": "6a3ebfce33b56590aa5b54c9",
-          "author": "Darsh Shah",
-          "description": "In this tutorial, I’ll show you how to build an AI web research agent using Ollama, Qwen, and Python. The agent searches the web for a topic, fetches relevant pages, and uses a local LLM to generate a",
-          "link": "https://www.freecodecamp.org/news/build-a-personal-ai-web-research-agent-with-ollama-and-qwen/",
-          "publishedOn": "2026-06-26T18:07:10.000Z",
-          "wordCount": 2768,
-          "title": "How to Build a Personal AI Web Research Agent with Ollama and Qwen",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b42208cb-204d-45e0-9dd4-c67e2e41991b.png"
-        },
-        {
-          "id": "6a3ea9940d87116ae52e3a24",
-          "author": "Abdul Talha",
-          "description": "Cloudflare Tunnel is a secure tunneling solution that allows developers to expose local applications and private services to the internet without opening inbound ports or changing firewall rules. Inst",
-          "link": "https://www.freecodecamp.org/news/how-to-choose-the-right-tunneling-tool/",
-          "publishedOn": "2026-06-26T16:32:20.000Z",
-          "wordCount": 2664,
-          "title": "The Best Cloudflare Tunnel Alternatives – How to Choose the Right Tunneling Solution for Your Use Case",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3438d8ee-f43d-42ac-a4df-8ceb7b983664.png"
-        },
-        {
-          "id": "6a3e8bdd236a80e142a6cfb5",
-          "author": "Beau Carnes",
-          "description": "Scaling large AI models requires more than just raw computing power. It demands sophisticated techniques to distribute workloads efficiently across hardware. We just posted a new course on the freeCod",
-          "link": "https://www.freecodecamp.org/news/scaling-your-ai-models-with-micro-ddp/",
-          "publishedOn": "2026-06-26T14:25:33.000Z",
-          "wordCount": 1054,
-          "title": "Scaling Your AI Models with Micro-DDP",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d5b11420-b27f-4c62-ba0a-0598a075246e.jpg"
-        },
-        {
-          "id": "6a3e89720906465b70cc2db8",
-          "author": "Beau Carnes",
-          "description": "Computers are incredibly fast, but they have a surprising, fundamental flaw when it comes to counting money. In our latest freeCodeCamp.org video, \"Why Computers Can’t Count Money,\" Ania Kubow dives i",
-          "link": "https://www.freecodecamp.org/news/why-computers-can-t-count-money/",
-          "publishedOn": "2026-06-26T14:15:14.000Z",
-          "wordCount": 1103,
-          "title": "Why Computers Can’t Count Money",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/082b96c7-eab1-439f-8454-d3ed2f6bad1d.jpg"
-        },
-        {
-          "id": "6a3e883af66202341a399634",
-          "author": "Beau Carnes",
-          "description": "Building your own AI agent has never been more accessible. We just released a comprehensive new course on the freeCodeCamp.org YouTube channel that guides you through building a powerful, persistent A",
-          "link": "https://www.freecodecamp.org/news/build-an-ai-agent-in-telegram-with-vercel-cursor-composio/",
-          "publishedOn": "2026-06-26T14:10:02.000Z",
-          "wordCount": 1159,
-          "title": "Build an AI Agent in Telegram with Vercel, Cursor, Composio",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d8d3c3eb-f7ff-4d95-90c6-145c02007753.jpg"
-        },
-        {
-          "id": "6a3db0651016f6a6b4bd2a89",
-          "author": "timothy ogbemudia",
-          "description": "When you build a feature that streams data, like an AI chat response or a live notification feed, the network is rarely as cooperative as fetch makes it look. Connections drop, proxies buffer response",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-reliable-sse-client-in-typescript/",
-          "publishedOn": "2026-06-25T22:49:09.000Z",
-          "wordCount": 2827,
-          "title": "How to Build a Reliable SSE Client in TypeScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3c13d795-15e8-452a-b490-89528d58efd2.png"
-        },
-        {
-          "id": "6a3daf77210c3204fe177441",
-          "author": "Gidudu Nicholas",
-          "description": "I had been writing Flutter apps for over a year before I actually understood how Dart handles concurrency. I knew how to use await. I knew FutureBuilder and StreamBuilder well enough to get things wor",
-          "link": "https://www.freecodecamp.org/news/advanced-dart-learn-async-programming-with-streams-isolates-event-loop/",
-          "publishedOn": "2026-06-25T22:45:11.000Z",
-          "wordCount": 4965,
-          "title": "Advanced Dart: Learn Asynchronous Programming with Streams, Isolates, and the Event Loop",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bc97ef43-0f34-4cf1-a824-814a0ec2834d.png"
         }
       ]
     }

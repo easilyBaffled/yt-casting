@@ -1,10 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-30T01:10:10.156Z</id>
+    <id>urn:2026-07-01T01:15:04.081Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-30T01:10:10.156Z</updated>
+    <updated>2026-07-01T01:15:04.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[My Team's Experience Moving from AWS to a PaaS]]></title>
+        <id>6a442bf6f75ef9bd6e0bfc7f</id>
+        <link href="https://www.freecodecamp.org/news/my-team-s-experience-moving-from-aws-to-a-paas/"/>
+        <updated>2026-06-30T20:49:58.000Z</updated>
+        <summary type="html"><![CDATA[Most product teams assume infrastructure ownership is simply part of building software. We did too. It wasn’t until we measured how much engineering time was disappearing into operational work that we]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Screen Reader That's Built into Your iPhone]]></title>
+        <id>6a442b57dd852a5d76691859</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-screen-reader-that-s-built-into-your-iphone/"/>
+        <updated>2026-06-30T20:47:19.000Z</updated>
+        <summary type="html"><![CDATA[Every iPhone and iPad includes a built-in screen reader called VoiceOver. VoiceOver speaks aloud the text on the screen, app names, icons, buttons, menus, links, and notifications and alerts. These ac]]></summary>
+        <author>
+            <name>Ilknur Eren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Command Line Basics for Beginners]]></title>
+        <id>6a43ead6ddc9ba7a9bd38fd7</id>
+        <link href="https://www.freecodecamp.org/news/command-line-basics-for-beginners/"/>
+        <updated>2026-06-30T16:12:06.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever watched a developer or DevOps engineer rapidly typing away into a blank, dark window filled with text, it might have looked like pure wizardry. That "blank window" is the command line a]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation for LLM Platforms: Switchback Designs When User Randomization Breaks Market Equilibrium in Python]]></title>
+        <id>6a43e83fe6f3ef85737305cb</id>
+        <link href="https://www.freecodecamp.org/news/switchback-experiments-for-ai-platform-features-in-python/"/>
+        <updated>2026-06-30T16:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Your team ships an intelligent query-routing feature for an LLM SaaS platform. The feature reads each incoming request in real time and decides whether to send it to the fast standard model or the mor]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #14: Gap Decorations, random(), <select> field sizing, and More]]></title>
+        <id>https://css-tricks.com/?p=395894</id>
+        <link href="https://css-tricks.com/whats-important-14/"/>
+        <updated>2026-06-30T13:54:14.000Z</updated>
+        <summary type="html"><![CDATA[I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!
+What’s !important #14: Gap Decorations, random(), <select> field sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Accessibility Is An Operational Capability, Not A Feature]]></title>
+        <id>https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/</id>
+        <link href="https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/"/>
+        <updated>2026-06-30T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Teams can generate UI faster than ever, but they still have to guarantee that what they ship is usable, secure, and maintainable. Accessibility as an operational capability rather than a compliance checklist or end-of-project audit, and what that looks like in practice.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mikhail Prosmitskiy)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snapshots Of Summer (July 2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/</id>
+        <link href="https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/"/>
+        <updated>2026-06-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Different Wearables Report Different Heart Rates]]></title>
+        <id>6a4309759c7a549cd18f1344</id>
+        <link href="https://www.freecodecamp.org/news/why-different-wearables-report-different-heart-rates/"/>
+        <updated>2026-06-30T00:10:29.000Z</updated>
+        <summary type="html"><![CDATA[My partner and I have this thing where we check at what time our heart rates drop to their lowest during sleep, even though we sleep almost at the same time for a similar duration. He's on a Garmin, w]]></summary>
+        <author>
+            <name>Shradha Puri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Resizer Using JavaScript]]></title>
+        <id>6a4308a0b89cf8453d414d2e</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-resizer-javascript/"/>
+        <updated>2026-06-30T00:06:56.000Z</updated>
+        <summary type="html"><![CDATA[PDF documents come in many different page sizes. Some are designed for A4 paper, while others use Letter, Legal, Tabloid, or custom dimensions. This can create problems when printing, sharing, archivi]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Your First Quantum Circuit in Python: A Beginner's Step-by-Step Guide]]></title>
+        <id>6a43087a41950d02c662e901</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-your-first-quantum-circuit-in-python-a-beginner-s-step-by-step-guide/"/>
+        <updated>2026-06-30T00:06:18.000Z</updated>
+        <summary type="html"><![CDATA[Imagine opening your laptop and writing code that follows the laws of Quantum Physics. Sounds like science fiction, right? That's exactly what I thought the first time I heard about quantum computing.]]></summary>
+        <author>
+            <name>Casmir Onyekani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an AI Agent That Runs its Own LLM Experiments with autoresearch]]></title>
         <id>6a42a24e2a8a54195ace1aab</id>
@@ -44,76 +145,6 @@
 The Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Personal AI Web Research Agent with Ollama and Qwen]]></title>
-        <id>6a3ebfce33b56590aa5b54c9</id>
-        <link href="https://www.freecodecamp.org/news/build-a-personal-ai-web-research-agent-with-ollama-and-qwen/"/>
-        <updated>2026-06-26T18:07:10.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, I’ll show you how to build an AI web research agent using Ollama, Qwen, and Python. The agent searches the web for a topic, fetches relevant pages, and uses a local LLM to generate a]]></summary>
-        <author>
-            <name>Darsh Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Cloudflare Tunnel Alternatives – How to Choose the Right Tunneling Solution for Your Use Case]]></title>
-        <id>6a3ea9940d87116ae52e3a24</id>
-        <link href="https://www.freecodecamp.org/news/how-to-choose-the-right-tunneling-tool/"/>
-        <updated>2026-06-26T16:32:20.000Z</updated>
-        <summary type="html"><![CDATA[Cloudflare Tunnel is a secure tunneling solution that allows developers to expose local applications and private services to the internet without opening inbound ports or changing firewall rules. Inst]]></summary>
-        <author>
-            <name>Abdul Talha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling Your AI Models with Micro-DDP]]></title>
-        <id>6a3e8bdd236a80e142a6cfb5</id>
-        <link href="https://www.freecodecamp.org/news/scaling-your-ai-models-with-micro-ddp/"/>
-        <updated>2026-06-26T14:25:33.000Z</updated>
-        <summary type="html"><![CDATA[Scaling large AI models requires more than just raw computing power. It demands sophisticated techniques to distribute workloads efficiently across hardware. We just posted a new course on the freeCod]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Computers Can’t Count Money]]></title>
-        <id>6a3e89720906465b70cc2db8</id>
-        <link href="https://www.freecodecamp.org/news/why-computers-can-t-count-money/"/>
-        <updated>2026-06-26T14:15:14.000Z</updated>
-        <summary type="html"><![CDATA[Computers are incredibly fast, but they have a surprising, fundamental flaw when it comes to counting money. In our latest freeCodeCamp.org video, "Why Computers Can’t Count Money," Ania Kubow dives i]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build an AI Agent in Telegram with Vercel, Cursor, Composio]]></title>
-        <id>6a3e883af66202341a399634</id>
-        <link href="https://www.freecodecamp.org/news/build-an-ai-agent-in-telegram-with-vercel-cursor-composio/"/>
-        <updated>2026-06-26T14:10:02.000Z</updated>
-        <summary type="html"><![CDATA[Building your own AI agent has never been more accessible. We just released a comprehensive new course on the freeCodeCamp.org YouTube channel that guides you through building a powerful, persistent A]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Reliable SSE Client in TypeScript]]></title>
-        <id>6a3db0651016f6a6b4bd2a89</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-reliable-sse-client-in-typescript/"/>
-        <updated>2026-06-25T22:49:09.000Z</updated>
-        <summary type="html"><![CDATA[When you build a feature that streams data, like an AI chat response or a live notification feed, the network is rarely as cooperative as fetch makes it look. Connections drop, proxies buffer response]]></summary>
-        <author>
-            <name>timothy ogbemudia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Dart: Learn Asynchronous Programming with Streams, Isolates, and the Event Loop]]></title>
-        <id>6a3daf77210c3204fe177441</id>
-        <link href="https://www.freecodecamp.org/news/advanced-dart-learn-async-programming-with-streams-isolates-event-loop/"/>
-        <updated>2026-06-25T22:45:11.000Z</updated>
-        <summary type="html"><![CDATA[I had been writing Flutter apps for over a year before I actually understood how Dart handles concurrency. I knew how to use await. I knew FutureBuilder and StreamBuilder well enough to get things wor]]></summary>
-        <author>
-            <name>Gidudu Nicholas</name>
         </author>
     </entry>
     <entry>
@@ -289,17 +320,6 @@ Creating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten 
 Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!]]></title>
-        <id>https://css-tricks.com/?p=393178</id>
-        <link href="https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/"/>
-        <updated>2026-06-04T13:14:49.000Z</updated>
-        <summary type="html"><![CDATA[We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.
-Another Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Antoine Villepreux</name>
         </author>
     </entry>
     <entry>
