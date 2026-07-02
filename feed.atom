@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-01T01:15:04.081Z</id>
+    <id>urn:2026-07-02T01:09:53.167Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-01T01:15:04.081Z</updated>
+    <updated>2026-07-02T01:09:53.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Defend Your JavaScript App Against Unsafe Data with TypeScript Guard Utilities]]></title>
+        <id>6a4576be7808ec6de20de8ff</id>
+        <link href="https://www.freecodecamp.org/news/defend-your-js-app-against-unsafe-data-with-typescript-guard-utilities/"/>
+        <updated>2026-07-01T20:21:18.000Z</updated>
+        <summary type="html"><![CDATA[Picture this: you hit an API endpoint, and you get an API response back. You pass the data straight into your application, and everything looks fine in development. Your mock data is clean, your types]]></summary>
+        <author>
+            <name>Kelechi Apugo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cloud Pentesting Problem: Why Traditional Security Models Stop Working at Scale]]></title>
+        <id>6a4548f4ed45771311e74acb</id>
+        <link href="https://www.freecodecamp.org/news/the-cloud-pentesting-problem-why-traditional-security-models-stop-working-at-scale/"/>
+        <updated>2026-07-01T17:05:56.000Z</updated>
+        <summary type="html"><![CDATA[Cloud adoption changed how companies build software. It changed deployment speed, infrastructure management, and the way engineering teams operate. It also changed the security landscape. Applications]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Margin Tool Using JavaScript]]></title>
+        <id>6a4540361d2a0d9b0b18d5ff</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-margin-tool-javascript/"/>
+        <updated>2026-07-01T16:28:38.000Z</updated>
+        <summary type="html"><![CDATA[Adding margins to a PDF is a common task when preparing documents for printing, binding, archiving, or sharing professionally. While many PDF editors include this feature, they often require installin]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a JSON Schema?]]></title>
+        <id>6a453cdd6f1c5cf654025328</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-json-schema/"/>
+        <updated>2026-07-01T16:14:21.000Z</updated>
+        <summary type="html"><![CDATA[If you're a developer, you likely work with JSON a lot. But how do you define and validate JSON and prevent problems from malformed JSON data? This article explores what a JSON schema is, some example]]></summary>
+        <author>
+            <name>Chidiadi Anyanwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Zero-Cost Personal Project with PHP, Wasmer, and Cloudflare]]></title>
+        <id>6a4535bbc75b935d2260d3c0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-zero-cost-personal-project-with-php-wasmer-and-cloudflare/"/>
+        <updated>2026-07-01T15:43:55.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I wanted to reinvigorate my open-source project Clarity, an icon theme for Linux (GTK+). The icons allow users to create custom colors by adding SVG templates. And I wanted to have a platfor]]></summary>
+        <author>
+            <name>Jakub T. Jankiewicz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Text Compare Tool with HTML, CSS, and JavaScript]]></title>
+        <id>6a4533f11247307c0491a76f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-text-compare-tool-html-css-javascript/"/>
+        <updated>2026-07-01T15:36:17.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever tried to spot the differences between two long paragraphs of text? Reading line-by-line to find a missing word or a new sentence is a massive headache. In this tutorial, you'll build you]]></summary>
+        <author>
+            <name>Bansidhar Kadiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Team's Experience Moving from AWS to a PaaS]]></title>
         <id>6a442bf6f75ef9bd6e0bfc7f</id>
@@ -77,71 +137,11 @@ What’s !important #14: Gap Decorations, random(), <select> field sizing, and M
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Different Wearables Report Different Heart Rates]]></title>
-        <id>6a4309759c7a549cd18f1344</id>
-        <link href="https://www.freecodecamp.org/news/why-different-wearables-report-different-heart-rates/"/>
-        <updated>2026-06-30T00:10:29.000Z</updated>
-        <summary type="html"><![CDATA[My partner and I have this thing where we check at what time our heart rates drop to their lowest during sleep, even though we sleep almost at the same time for a similar duration. He's on a Garmin, w]]></summary>
-        <author>
-            <name>Shradha Puri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF Resizer Using JavaScript]]></title>
-        <id>6a4308a0b89cf8453d414d2e</id>
-        <link href="https://www.freecodecamp.org/news/build-pdf-resizer-javascript/"/>
-        <updated>2026-06-30T00:06:56.000Z</updated>
-        <summary type="html"><![CDATA[PDF documents come in many different page sizes. Some are designed for A4 paper, while others use Letter, Legal, Tabloid, or custom dimensions. This can create problems when printing, sharing, archivi]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Your First Quantum Circuit in Python: A Beginner's Step-by-Step Guide]]></title>
-        <id>6a43087a41950d02c662e901</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-your-first-quantum-circuit-in-python-a-beginner-s-step-by-step-guide/"/>
-        <updated>2026-06-30T00:06:18.000Z</updated>
-        <summary type="html"><![CDATA[Imagine opening your laptop and writing code that follows the laws of Quantum Physics. Sounds like science fiction, right? That's exactly what I thought the first time I heard about quantum computing.]]></summary>
-        <author>
-            <name>Casmir Onyekani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Agent That Runs its Own LLM Experiments with autoresearch]]></title>
-        <id>6a42a24e2a8a54195ace1aab</id>
-        <link href="https://www.freecodecamp.org/news/build-an-ai-agent-that-runs-its-own-llm-experiments-with-autoresearch/"/>
-        <updated>2026-06-29T16:50:22.000Z</updated>
-        <summary type="html"><![CDATA[A few months ago, Andrej Karpathy released autoresearch. It's an open-source Python tool that lets an AI agent run experiments on one GPU while you sit back and wait for the results. Lately I've still]]></summary>
-        <author>
-            <name>ishaan gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a Bloom Filter Works: Build One From Scratch in Python]]></title>
-        <id>6a4286cee47e505c8beef4bb</id>
-        <link href="https://www.freecodecamp.org/news/how-bloom-filters-work-build-one-from-scratch-python/"/>
-        <updated>2026-06-29T14:53:02.000Z</updated>
-        <summary type="html"><![CDATA[A Bloom filter gives you something that feels like magic: it can tell you whether an item is in a set of billions, using only a few kilobytes of memory. And it answers in the same tiny amount of time]]></summary>
-        <author>
-            <name>Prasanth Madhurapantula</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Claude Code to Build Flutter Apps Faster — Best Practices for 2026]]></title>
-        <id>6a427b9a9857c50fd3971c7a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-claude-code-to-build-flutter-apps-faster-best-practices/"/>
-        <updated>2026-06-29T14:05:14.000Z</updated>
-        <summary type="html"><![CDATA[In early 2023, I was interning at a US-based company, long before agentic AI became part of everyday development. We had tools like ChatGPT, Gemini, and Copilot, but they were mostly chat interfaces:]]></summary>
-        <author>
-            <name>Jesutoni Aderibigbe</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Shifting Line Between CSS States and JavaScript Events]]></title>
         <id>https://css-tricks.com/?p=395223</id>
         <link href="https://css-tricks.com/css-states-and-javascript-events/"/>
         <updated>2026-06-29T13:03:32.000Z</updated>
-        <summary type="html"><![CDATA[CSS has always had pseudo-classes that style things when baed on user interactions. Recent features, however, are blurring the line between what CSS "listens" for and how they are alternatives to what Javascript typically listens for.
+        <summary type="html"><![CDATA[CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS "listens" for and how they are alternatives to what Javascript typically listens for.
 The Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
