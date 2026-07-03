@@ -199,6 +199,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
+          "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
+          "publishedOn": "2026-07-02T10:00:00.000Z",
+          "wordCount": 7072,
+          "title": "Matching AI Modality To User Intent: Designing The Right Interface",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
           "author": "hello@smashingmagazine.com (Mikhail Prosmitskiy)",
           "description": "Teams can generate UI faster than ever, but they still have to guarantee that what they ship is usable, secure, and maintainable. Accessibility as an operational capability rather than a compliance checklist or end-of-project audit, and what that looks like in practice.",
@@ -219,7 +234,7 @@
           "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
           "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4824,
+          "wordCount": 4823,
           "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
@@ -234,7 +249,7 @@
           "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
           "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
           "publishedOn": "2026-06-16T15:00:00.000Z",
-          "wordCount": 6497,
+          "wordCount": 6485,
           "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -249,7 +264,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4803,
+          "wordCount": 4815,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -264,7 +279,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5757,
+          "wordCount": 5752,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -272,21 +287,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.",
-          "link": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
-          "publishedOn": "2026-06-03T13:00:00.000Z",
-          "wordCount": 3390,
-          "title": "How To Make Your Design System AI-Ready",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg"
         }
       ]
     },
@@ -295,6 +295,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a4697abd8f1260e868746b9",
+          "author": "Manish Shivanandhan",
+          "description": "AI coding assistants have evolved from simple autocomplete tools into capable development agents that can write code, debug applications, refactor projects, and even execute complex workflows. Among t",
+          "link": "https://www.freecodecamp.org/news/codex-vs-claude-code-which-ai-coding-assistant-to-choose/",
+          "publishedOn": "2026-07-02T16:54:03.000Z",
+          "wordCount": 2298,
+          "title": "Codex vs Claude Code: Which AI Coding Assistant to Choose",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4ecd4fdb-8024-4bb6-92ae-142b35c0a3c3.png"
+        },
+        {
+          "id": "6a46977d0ad5b1f1520283a9",
+          "author": "Rudrendu Paul",
+          "description": "Your AI product experiment reaches statistical significance on day 14 of a planned 30-day run, measuring a causal inference question: did the LLM-based feature genuinely improve outcomes? Every produc",
+          "link": "https://www.freecodecamp.org/news/stop-early-without-p-hacking-using-msprt-and-sequential-testing-in-python/",
+          "publishedOn": "2026-07-02T16:53:17.000Z",
+          "wordCount": 5004,
+          "title": "Product Experimentation: Stop Early Without P-Hacking Using mSPRT and Sequential Testing in Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8df7e6a8-923c-4cbf-9e5b-56a68f5ad96e.png"
+        },
+        {
+          "id": "6a45bb3958a5f88e69843690",
+          "author": "Beau Carnes",
+          "description": "Managing dates and times in JavaScript is notoriously tricky, often leading to subtle bugs that only surface once an application hits production. To help you master this fundamental skill, the freeCod",
+          "link": "https://www.freecodecamp.org/news/mastering-javascript-dates-and-times/",
+          "publishedOn": "2026-07-02T01:13:29.000Z",
+          "wordCount": 1111,
+          "title": "Mastering JavaScript Dates and Times",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/c34d8aed-4b0e-4d50-a02b-15cfe3bc0c56.jpg"
+        },
         {
           "id": "6a4576be7808ec6de20de8ff",
           "author": "Kelechi Apugo",
@@ -364,36 +394,6 @@
           "wordCount": 2467,
           "title": "My Team's Experience Moving from AWS to a PaaS",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/01d97a10-ea77-49e7-a8d9-1471683948b7.png"
-        },
-        {
-          "id": "6a442b57dd852a5d76691859",
-          "author": "Ilknur Eren",
-          "description": "Every iPhone and iPad includes a built-in screen reader called VoiceOver. VoiceOver speaks aloud the text on the screen, app names, icons, buttons, menus, links, and notifications and alerts. These ac",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-screen-reader-that-s-built-into-your-iphone/",
-          "publishedOn": "2026-06-30T20:47:19.000Z",
-          "wordCount": 1838,
-          "title": "How to Use the Screen Reader That's Built into Your iPhone",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b5b3867f-7404-4557-85e6-bc508c88a961.png"
-        },
-        {
-          "id": "6a43ead6ddc9ba7a9bd38fd7",
-          "author": "Beau Carnes",
-          "description": "If you’ve ever watched a developer or DevOps engineer rapidly typing away into a blank, dark window filled with text, it might have looked like pure wizardry. That \"blank window\" is the command line a",
-          "link": "https://www.freecodecamp.org/news/command-line-basics-for-beginners/",
-          "publishedOn": "2026-06-30T16:12:06.000Z",
-          "wordCount": 1085,
-          "title": "Command Line Basics for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/c456512e-2aeb-46a6-874f-f6cfa2e8d269.jpg"
-        },
-        {
-          "id": "6a43e83fe6f3ef85737305cb",
-          "author": "Rudrendu Paul",
-          "description": "Your team ships an intelligent query-routing feature for an LLM SaaS platform. The feature reads each incoming request in real time and decides whether to send it to the fast standard model or the mor",
-          "link": "https://www.freecodecamp.org/news/switchback-experiments-for-ai-platform-features-in-python/",
-          "publishedOn": "2026-06-30T16:01:03.000Z",
-          "wordCount": 6332,
-          "title": "Product Experimentation for LLM Platforms: Switchback Designs When User Randomization Breaks Market Equilibrium in Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/50802c2c-ef8c-4137-852a-eed1000e67e7.png"
         }
       ]
     }

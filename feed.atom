@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-02T01:09:53.167Z</id>
+    <id>urn:2026-07-03T03:54:30.412Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-02T01:09:53.167Z</updated>
+    <updated>2026-07-03T03:54:30.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Codex vs Claude Code: Which AI Coding Assistant to Choose]]></title>
+        <id>6a4697abd8f1260e868746b9</id>
+        <link href="https://www.freecodecamp.org/news/codex-vs-claude-code-which-ai-coding-assistant-to-choose/"/>
+        <updated>2026-07-02T16:54:03.000Z</updated>
+        <summary type="html"><![CDATA[AI coding assistants have evolved from simple autocomplete tools into capable development agents that can write code, debug applications, refactor projects, and even execute complex workflows. Among t]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation: Stop Early Without P-Hacking Using mSPRT and Sequential Testing in Python]]></title>
+        <id>6a46977d0ad5b1f1520283a9</id>
+        <link href="https://www.freecodecamp.org/news/stop-early-without-p-hacking-using-msprt-and-sequential-testing-in-python/"/>
+        <updated>2026-07-02T16:53:17.000Z</updated>
+        <summary type="html"><![CDATA[Your AI product experiment reaches statistical significance on day 14 of a planned 30-day run, measuring a causal inference question: did the LLM-based feature genuinely improve outcomes? Every produc]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matching AI Modality To User Intent: Designing The Right Interface]]></title>
+        <id>https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/</id>
+        <link href="https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/"/>
+        <updated>2026-07-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering JavaScript Dates and Times]]></title>
+        <id>6a45bb3958a5f88e69843690</id>
+        <link href="https://www.freecodecamp.org/news/mastering-javascript-dates-and-times/"/>
+        <updated>2026-07-02T01:13:29.000Z</updated>
+        <summary type="html"><![CDATA[Managing dates and times in JavaScript is notoriously tricky, often leading to subtle bugs that only surface once an application hits production. To help you master this fundamental skill, the freeCod]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Defend Your JavaScript App Against Unsafe Data with TypeScript Guard Utilities]]></title>
         <id>6a4576be7808ec6de20de8ff</id>
@@ -73,36 +113,6 @@
         <summary type="html"><![CDATA[Most product teams assume infrastructure ownership is simply part of building software. We did too. It wasn’t until we measured how much engineering time was disappearing into operational work that we]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Screen Reader That's Built into Your iPhone]]></title>
-        <id>6a442b57dd852a5d76691859</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-screen-reader-that-s-built-into-your-iphone/"/>
-        <updated>2026-06-30T20:47:19.000Z</updated>
-        <summary type="html"><![CDATA[Every iPhone and iPad includes a built-in screen reader called VoiceOver. VoiceOver speaks aloud the text on the screen, app names, icons, buttons, menus, links, and notifications and alerts. These ac]]></summary>
-        <author>
-            <name>Ilknur Eren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Command Line Basics for Beginners]]></title>
-        <id>6a43ead6ddc9ba7a9bd38fd7</id>
-        <link href="https://www.freecodecamp.org/news/command-line-basics-for-beginners/"/>
-        <updated>2026-06-30T16:12:06.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve ever watched a developer or DevOps engineer rapidly typing away into a blank, dark window filled with text, it might have looked like pure wizardry. That "blank window" is the command line a]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experimentation for LLM Platforms: Switchback Designs When User Randomization Breaks Market Equilibrium in Python]]></title>
-        <id>6a43e83fe6f3ef85737305cb</id>
-        <link href="https://www.freecodecamp.org/news/switchback-experiments-for-ai-platform-features-in-python/"/>
-        <updated>2026-06-30T16:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Your team ships an intelligent query-routing feature for an LLM SaaS platform. The feature reads each incoming request in real time and decides whether to send it to the fast standard model or the mor]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
         </author>
     </entry>
     <entry>
@@ -320,16 +330,6 @@ Creating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten 
 Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Make Your Design System AI-Ready]]></title>
-        <id>https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/</id>
-        <link href="https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/"/>
-        <updated>2026-06-03T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
