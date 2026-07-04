@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-03T03:54:30.412Z</id>
+    <id>urn:2026-07-04T03:47:43.521Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-03T03:54:30.412Z</updated>
+    <updated>2026-07-04T03:47:43.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top AI Productivity Tools for Developers and Professionals]]></title>
+        <id>6a47d78cf77fda0eb25967c4</id>
+        <link href="https://www.freecodecamp.org/news/top-ai-productivity-tools-for-developers-and-professionals/"/>
+        <updated>2026-07-03T15:38:52.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence has moved far beyond simple chatbots and basic automation. Today, developers and non-developers alike use AI tools to research information, write content, create presentations,]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Analyzer Using JavaScript]]></title>
+        <id>6a47d7568dc454430aaca51a</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-analyzer-javascript/"/>
+        <updated>2026-07-03T15:37:58.000Z</updated>
+        <summary type="html"><![CDATA[PDF files are one of the most widely used document formats for sharing reports, invoices, contracts, books, research papers, manuals, forms, and business documents. Although viewing a PDF is simple, u]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AJAX Cart Drawer in Shopify (the 2026 Way)]]></title>
+        <id>6a47d58ad3e40bd062df32d5</id>
+        <link href="https://www.freecodecamp.org/news/shopify-ajax-cart-drawer/"/>
+        <updated>2026-07-03T15:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Add a product to a Shopify store the default way and the whole page reloads. The shopper is looking at your product, they click Add to cart, and the browser throws the page away and rebuilds it. On a]]></summary>
+        <author>
+            <name>baslefeber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Users Don’t Need More Tools: They Need Seamless Integrations]]></title>
+        <id>https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/</id>
+        <link href="https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/"/>
+        <updated>2026-07-03T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A closer look at why users don’t need more tools in their daily lives. What they need are seamless integrations of useful features to match already existing, established mental models. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1]]></title>
+        <id>6a46f2677c3edf68bfede8ce</id>
+        <link href="https://www.freecodecamp.org/news/build-a-private-rag-qa-ai-agent-for-your-documents-using-langchain/"/>
+        <updated>2026-07-02T23:21:11.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, I'll show you how to build a private local RAG-powered Q&A AI agent for your personal documents using LangChain v1, Ollama, Qwen, and Python. The agent reads your documents and answe]]></summary>
+        <author>
+            <name>Darsh Shah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Codex vs Claude Code: Which AI Coding Assistant to Choose]]></title>
         <id>6a4697abd8f1260e868746b9</id>
@@ -73,46 +123,6 @@
         <summary type="html"><![CDATA[Adding margins to a PDF is a common task when preparing documents for printing, binding, archiving, or sharing professionally. While many PDF editors include this feature, they often require installin]]></summary>
         <author>
             <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a JSON Schema?]]></title>
-        <id>6a453cdd6f1c5cf654025328</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-json-schema/"/>
-        <updated>2026-07-01T16:14:21.000Z</updated>
-        <summary type="html"><![CDATA[If you're a developer, you likely work with JSON a lot. But how do you define and validate JSON and prevent problems from malformed JSON data? This article explores what a JSON schema is, some example]]></summary>
-        <author>
-            <name>Chidiadi Anyanwu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Zero-Cost Personal Project with PHP, Wasmer, and Cloudflare]]></title>
-        <id>6a4535bbc75b935d2260d3c0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-zero-cost-personal-project-with-php-wasmer-and-cloudflare/"/>
-        <updated>2026-07-01T15:43:55.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I wanted to reinvigorate my open-source project Clarity, an icon theme for Linux (GTK+). The icons allow users to create custom colors by adding SVG templates. And I wanted to have a platfor]]></summary>
-        <author>
-            <name>Jakub T. Jankiewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Text Compare Tool with HTML, CSS, and JavaScript]]></title>
-        <id>6a4533f11247307c0491a76f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-text-compare-tool-html-css-javascript/"/>
-        <updated>2026-07-01T15:36:17.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever tried to spot the differences between two long paragraphs of text? Reading line-by-line to find a missing word or a new sentence is a massive headache. In this tutorial, you'll build you]]></summary>
-        <author>
-            <name>Bansidhar Kadiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Team's Experience Moving from AWS to a PaaS]]></title>
-        <id>6a442bf6f75ef9bd6e0bfc7f</id>
-        <link href="https://www.freecodecamp.org/news/my-team-s-experience-moving-from-aws-to-a-paas/"/>
-        <updated>2026-06-30T20:49:58.000Z</updated>
-        <summary type="html"><![CDATA[Most product teams assume infrastructure ownership is simply part of building software. We did too. It wasn’t until we measured how much engineering time was disappearing into operational work that we]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>

@@ -32,7 +32,7 @@
           "description": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically listens for.\nThe Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-states-and-javascript-events/",
           "publishedOn": "2026-06-29T13:03:32.000Z",
-          "wordCount": 4621,
+          "wordCount": 4749,
           "title": "The Shifting Line Between CSS States and JavaScript Events",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/state-management.jpg"
         },
@@ -199,12 +199,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "A closer look at why users don’t need more tools in their daily lives. What they need are seamless integrations of useful features to match already existing, established mental models. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.",
+          "link": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
+          "publishedOn": "2026-07-03T13:00:00.000Z",
+          "wordCount": 3340,
+          "title": "Users Don’t Need More Tools: They Need Seamless Integrations",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ux-impact-seamless-integrations/users-dont-need-more-tools-need-seamless-integrations.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ux-impact-seamless-integrations/users-dont-need-more-tools-need-seamless-integrations.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
           "author": "hello@smashingmagazine.com (Victor Yocco)",
           "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
           "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
           "publishedOn": "2026-07-02T10:00:00.000Z",
-          "wordCount": 7072,
+          "wordCount": 7065,
           "title": "Matching AI Modality To User Intent: Designing The Right Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
@@ -234,7 +249,7 @@
           "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
           "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4823,
+          "wordCount": 4932,
           "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
@@ -249,7 +264,7 @@
           "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
           "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
           "publishedOn": "2026-06-16T15:00:00.000Z",
-          "wordCount": 6485,
+          "wordCount": 6488,
           "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -264,7 +279,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4815,
+          "wordCount": 4817,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -279,7 +294,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5752,
+          "wordCount": 5756,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -295,6 +310,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a47d78cf77fda0eb25967c4",
+          "author": "Manish Shivanandhan",
+          "description": "Artificial intelligence has moved far beyond simple chatbots and basic automation. Today, developers and non-developers alike use AI tools to research information, write content, create presentations,",
+          "link": "https://www.freecodecamp.org/news/top-ai-productivity-tools-for-developers-and-professionals/",
+          "publishedOn": "2026-07-03T15:38:52.000Z",
+          "wordCount": 2211,
+          "title": "Top AI Productivity Tools for Developers and Professionals",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a15e540a-4f26-4fa5-a15e-5f8f4e2fd0c3.png"
+        },
+        {
+          "id": "6a47d7568dc454430aaca51a",
+          "author": "Bhavin Sheth",
+          "description": "PDF files are one of the most widely used document formats for sharing reports, invoices, contracts, books, research papers, manuals, forms, and business documents. Although viewing a PDF is simple, u",
+          "link": "https://www.freecodecamp.org/news/build-pdf-analyzer-javascript/",
+          "publishedOn": "2026-07-03T15:37:58.000Z",
+          "wordCount": 4572,
+          "title": "How to Build a Browser-Based PDF Analyzer Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a009f906-4ae4-4808-99fa-a31b419f66d5.png"
+        },
+        {
+          "id": "6a47d58ad3e40bd062df32d5",
+          "author": "baslefeber",
+          "description": "Add a product to a Shopify store the default way and the whole page reloads. The shopper is looking at your product, they click Add to cart, and the browser throws the page away and rebuilds it. On a",
+          "link": "https://www.freecodecamp.org/news/shopify-ajax-cart-drawer/",
+          "publishedOn": "2026-07-03T15:30:18.000Z",
+          "wordCount": 5349,
+          "title": "How to Build an AJAX Cart Drawer in Shopify (the 2026 Way)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/16d974f7-5940-4fef-a053-6e1790ed6107.png"
+        },
+        {
+          "id": "6a46f2677c3edf68bfede8ce",
+          "author": "Darsh Shah",
+          "description": "In this tutorial, I'll show you how to build a private local RAG-powered Q&A AI agent for your personal documents using LangChain v1, Ollama, Qwen, and Python. The agent reads your documents and answe",
+          "link": "https://www.freecodecamp.org/news/build-a-private-rag-qa-ai-agent-for-your-documents-using-langchain/",
+          "publishedOn": "2026-07-02T23:21:11.000Z",
+          "wordCount": 3152,
+          "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/26ccab55-674d-4d01-b341-4a7228658815.png"
+        },
         {
           "id": "6a4697abd8f1260e868746b9",
           "author": "Manish Shivanandhan",
@@ -354,46 +409,6 @@
           "wordCount": 3876,
           "title": "How to Build a Browser-Based PDF Margin Tool Using JavaScript",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/617f84e9-a33b-494f-b036-7583a3c22585.png"
-        },
-        {
-          "id": "6a453cdd6f1c5cf654025328",
-          "author": "Chidiadi Anyanwu",
-          "description": "If you're a developer, you likely work with JSON a lot. But how do you define and validate JSON and prevent problems from malformed JSON data? This article explores what a JSON schema is, some example",
-          "link": "https://www.freecodecamp.org/news/what-is-a-json-schema/",
-          "publishedOn": "2026-07-01T16:14:21.000Z",
-          "wordCount": 2877,
-          "title": "What is a JSON Schema?",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cc9499a2-35ff-4aac-b5cb-5f5e6a7a415b.png"
-        },
-        {
-          "id": "6a4535bbc75b935d2260d3c0",
-          "author": "Jakub T. Jankiewicz",
-          "description": "Recently, I wanted to reinvigorate my open-source project Clarity, an icon theme for Linux (GTK+). The icons allow users to create custom colors by adding SVG templates. And I wanted to have a platfor",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-zero-cost-personal-project-with-php-wasmer-and-cloudflare/",
-          "publishedOn": "2026-07-01T15:43:55.000Z",
-          "wordCount": 2300,
-          "title": "How to Build a Zero-Cost Personal Project with PHP, Wasmer, and Cloudflare",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ac7d0b26-c611-4454-847e-cf69d28a04f8.png"
-        },
-        {
-          "id": "6a4533f11247307c0491a76f",
-          "author": "Bansidhar Kadiya",
-          "description": "Have you ever tried to spot the differences between two long paragraphs of text? Reading line-by-line to find a missing word or a new sentence is a massive headache. In this tutorial, you'll build you",
-          "link": "https://www.freecodecamp.org/news/how-to-build-text-compare-tool-html-css-javascript/",
-          "publishedOn": "2026-07-01T15:36:17.000Z",
-          "wordCount": 2649,
-          "title": "How to Build a Text Compare Tool with HTML, CSS, and JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/632b58c6-8930-421d-b17d-847b24bb0e9e.png"
-        },
-        {
-          "id": "6a442bf6f75ef9bd6e0bfc7f",
-          "author": "Manish Shivanandhan",
-          "description": "Most product teams assume infrastructure ownership is simply part of building software. We did too. It wasn’t until we measured how much engineering time was disappearing into operational work that we",
-          "link": "https://www.freecodecamp.org/news/my-team-s-experience-moving-from-aws-to-a-paas/",
-          "publishedOn": "2026-06-30T20:49:58.000Z",
-          "wordCount": 2467,
-          "title": "My Team's Experience Moving from AWS to a PaaS",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/01d97a10-ea77-49e7-a8d9-1471683948b7.png"
         }
       ]
     }
