@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-06T04:13:05.801Z</id>
+    <id>urn:2026-07-07T04:02:51.940Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-06T04:13:05.801Z</updated>
+    <updated>2026-07-07T04:02:51.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Hidden Engineering Behind Every AI Product: What Software Engineers Should Know]]></title>
+        <id>6a4bf70794ce8c235079d1b3</id>
+        <link href="https://www.freecodecamp.org/news/the-hidden-engineering-behind-ai-products-what-devs-should-know/"/>
+        <updated>2026-07-06T18:42:15.000Z</updated>
+        <summary type="html"><![CDATA[AI products often look simple from the outside. You type a question into ChatGPT and get an answer. You ask GitHub Copilot to complete a function and it writes code. You highlight text in Notion AI an]]></summary>
+        <author>
+            <name>Olamilekan Lamidi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Take Control of Your Online Privacy]]></title>
+        <id>6a4bc1206289ee6fbd360902</id>
+        <link href="https://www.freecodecamp.org/news/how-to-take-control-of-your-online-privacy/"/>
+        <updated>2026-07-06T14:52:16.000Z</updated>
+        <summary type="html"><![CDATA[Every click, search, purchase, and social media post contributes to your digital footprint. While the internet has made communication and access to information easier than ever, it has also created ne]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Export a Claude Conversation as a PDF]]></title>
+        <id>6a4bb3fed8e4d3de4074fb68</id>
+        <link href="https://www.freecodecamp.org/news/export-a-claude-conversation-as-pdf-complete-guide/"/>
+        <updated>2026-07-06T13:56:14.000Z</updated>
+        <summary type="html"><![CDATA[Whether you're documenting research, sharing AI-generated content with colleagues, creating reports, or keeping an offline backup, saving Claude conversations as PDFs is one of the easiest ways to pre]]></summary>
+        <author>
+            <name>Vikram Aruchamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Dark Mode Toggle Without JavaScript]]></title>
+        <id>6a4bb3bf6aa89de94c683aa8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-dark-mode-toggle-without-javascript/"/>
+        <updated>2026-07-06T13:55:11.000Z</updated>
+        <summary type="html"><![CDATA[Over the years, I've worked on many Static Site Generated (SSG) websites that work without JavaScript. And during that time, I've created a few solutions. One of them is a dark mode toggle that doesn']]></summary>
+        <author>
+            <name>Jakub T. Jankiewicz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top AI Productivity Tools for Developers and Professionals]]></title>
         <id>6a47d78cf77fda0eb25967c4</id>
@@ -83,46 +123,6 @@
         <summary type="html"><![CDATA[We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering JavaScript Dates and Times]]></title>
-        <id>6a45bb3958a5f88e69843690</id>
-        <link href="https://www.freecodecamp.org/news/mastering-javascript-dates-and-times/"/>
-        <updated>2026-07-02T01:13:29.000Z</updated>
-        <summary type="html"><![CDATA[Managing dates and times in JavaScript is notoriously tricky, often leading to subtle bugs that only surface once an application hits production. To help you master this fundamental skill, the freeCod]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Defend Your JavaScript App Against Unsafe Data with TypeScript Guard Utilities]]></title>
-        <id>6a4576be7808ec6de20de8ff</id>
-        <link href="https://www.freecodecamp.org/news/defend-your-js-app-against-unsafe-data-with-typescript-guard-utilities/"/>
-        <updated>2026-07-01T20:21:18.000Z</updated>
-        <summary type="html"><![CDATA[Picture this: you hit an API endpoint, and you get an API response back. You pass the data straight into your application, and everything looks fine in development. Your mock data is clean, your types]]></summary>
-        <author>
-            <name>Kelechi Apugo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Cloud Pentesting Problem: Why Traditional Security Models Stop Working at Scale]]></title>
-        <id>6a4548f4ed45771311e74acb</id>
-        <link href="https://www.freecodecamp.org/news/the-cloud-pentesting-problem-why-traditional-security-models-stop-working-at-scale/"/>
-        <updated>2026-07-01T17:05:56.000Z</updated>
-        <summary type="html"><![CDATA[Cloud adoption changed how companies build software. It changed deployment speed, infrastructure management, and the way engineering teams operate. It also changed the security landscape. Applications]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF Margin Tool Using JavaScript]]></title>
-        <id>6a4540361d2a0d9b0b18d5ff</id>
-        <link href="https://www.freecodecamp.org/news/build-pdf-margin-tool-javascript/"/>
-        <updated>2026-07-01T16:28:38.000Z</updated>
-        <summary type="html"><![CDATA[Adding margins to a PDF is a common task when preparing documents for printing, binding, archiving, or sharing professionally. While many PDF editors include this feature, they often require installin]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
         </author>
     </entry>
     <entry>

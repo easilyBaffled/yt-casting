@@ -219,7 +219,7 @@
           "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
           "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
           "publishedOn": "2026-07-02T10:00:00.000Z",
-          "wordCount": 7063,
+          "wordCount": 7066,
           "title": "Matching AI Modality To User Intent: Designing The Right Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
@@ -249,7 +249,7 @@
           "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
           "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4829,
+          "wordCount": 4925,
           "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
@@ -264,7 +264,7 @@
           "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
           "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
           "publishedOn": "2026-06-16T15:00:00.000Z",
-          "wordCount": 6490,
+          "wordCount": 6486,
           "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -279,7 +279,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4807,
+          "wordCount": 4817,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -294,7 +294,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5755,
+          "wordCount": 5747,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -310,6 +310,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a4bf70794ce8c235079d1b3",
+          "author": "Olamilekan Lamidi",
+          "description": "AI products often look simple from the outside. You type a question into ChatGPT and get an answer. You ask GitHub Copilot to complete a function and it writes code. You highlight text in Notion AI an",
+          "link": "https://www.freecodecamp.org/news/the-hidden-engineering-behind-ai-products-what-devs-should-know/",
+          "publishedOn": "2026-07-06T18:42:15.000Z",
+          "wordCount": 5507,
+          "title": "The Hidden Engineering Behind Every AI Product: What Software Engineers Should Know",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f51fe841-77ec-4ebd-b693-a4a1018501c8.png"
+        },
+        {
+          "id": "6a4bc1206289ee6fbd360902",
+          "author": "Manish Shivanandhan",
+          "description": "Every click, search, purchase, and social media post contributes to your digital footprint. While the internet has made communication and access to information easier than ever, it has also created ne",
+          "link": "https://www.freecodecamp.org/news/how-to-take-control-of-your-online-privacy/",
+          "publishedOn": "2026-07-06T14:52:16.000Z",
+          "wordCount": 2383,
+          "title": "How to Take Control of Your Online Privacy",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6cdff6b0-9541-49f0-a1e8-e48e875020a3.png"
+        },
+        {
+          "id": "6a4bb3fed8e4d3de4074fb68",
+          "author": "Vikram Aruchamy",
+          "description": "Whether you're documenting research, sharing AI-generated content with colleagues, creating reports, or keeping an offline backup, saving Claude conversations as PDFs is one of the easiest ways to pre",
+          "link": "https://www.freecodecamp.org/news/export-a-claude-conversation-as-pdf-complete-guide/",
+          "publishedOn": "2026-07-06T13:56:14.000Z",
+          "wordCount": 3111,
+          "title": "How to Export a Claude Conversation as a PDF",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/39935028-dc75-41f2-b98d-8414459806f1.png"
+        },
+        {
+          "id": "6a4bb3bf6aa89de94c683aa8",
+          "author": "Jakub T. Jankiewicz",
+          "description": "Over the years, I've worked on many Static Site Generated (SSG) websites that work without JavaScript. And during that time, I've created a few solutions. One of them is a dark mode toggle that doesn'",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-dark-mode-toggle-without-javascript/",
+          "publishedOn": "2026-07-06T13:55:11.000Z",
+          "wordCount": 2218,
+          "title": "How to Build a Dark Mode Toggle Without JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/166e89af-ab96-48c8-bf0b-cbc5972aad2c.png"
+        },
         {
           "id": "6a47d78cf77fda0eb25967c4",
           "author": "Manish Shivanandhan",
@@ -369,46 +409,6 @@
           "wordCount": 5004,
           "title": "Product Experimentation: Stop Early Without P-Hacking Using mSPRT and Sequential Testing in Python",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8df7e6a8-923c-4cbf-9e5b-56a68f5ad96e.png"
-        },
-        {
-          "id": "6a45bb3958a5f88e69843690",
-          "author": "Beau Carnes",
-          "description": "Managing dates and times in JavaScript is notoriously tricky, often leading to subtle bugs that only surface once an application hits production. To help you master this fundamental skill, the freeCod",
-          "link": "https://www.freecodecamp.org/news/mastering-javascript-dates-and-times/",
-          "publishedOn": "2026-07-02T01:13:29.000Z",
-          "wordCount": 1111,
-          "title": "Mastering JavaScript Dates and Times",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/c34d8aed-4b0e-4d50-a02b-15cfe3bc0c56.jpg"
-        },
-        {
-          "id": "6a4576be7808ec6de20de8ff",
-          "author": "Kelechi Apugo",
-          "description": "Picture this: you hit an API endpoint, and you get an API response back. You pass the data straight into your application, and everything looks fine in development. Your mock data is clean, your types",
-          "link": "https://www.freecodecamp.org/news/defend-your-js-app-against-unsafe-data-with-typescript-guard-utilities/",
-          "publishedOn": "2026-07-01T20:21:18.000Z",
-          "wordCount": 3878,
-          "title": "How to Defend Your JavaScript App Against Unsafe Data with TypeScript Guard Utilities",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/45694ec7-239d-4f58-a597-9b2145bc02f5.png"
-        },
-        {
-          "id": "6a4548f4ed45771311e74acb",
-          "author": "Manish Shivanandhan",
-          "description": "Cloud adoption changed how companies build software. It changed deployment speed, infrastructure management, and the way engineering teams operate. It also changed the security landscape. Applications",
-          "link": "https://www.freecodecamp.org/news/the-cloud-pentesting-problem-why-traditional-security-models-stop-working-at-scale/",
-          "publishedOn": "2026-07-01T17:05:56.000Z",
-          "wordCount": 2443,
-          "title": "The Cloud Pentesting Problem: Why Traditional Security Models Stop Working at Scale",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/388a914f-83be-4b56-ac1c-f66788052097.png"
-        },
-        {
-          "id": "6a4540361d2a0d9b0b18d5ff",
-          "author": "Bhavin Sheth",
-          "description": "Adding margins to a PDF is a common task when preparing documents for printing, binding, archiving, or sharing professionally. While many PDF editors include this feature, they often require installin",
-          "link": "https://www.freecodecamp.org/news/build-pdf-margin-tool-javascript/",
-          "publishedOn": "2026-07-01T16:28:38.000Z",
-          "wordCount": 3876,
-          "title": "How to Build a Browser-Based PDF Margin Tool Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/617f84e9-a33b-494f-b036-7583a3c22585.png"
         }
       ]
     }
