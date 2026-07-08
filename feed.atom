@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-07T04:02:51.940Z</id>
+    <id>urn:2026-07-08T03:29:09.527Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-07T04:02:51.940Z</updated>
+    <updated>2026-07-08T03:29:09.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Zero-Trust Workload Identity in Kubernetes with SPIFFE, SPIRE, and Cilium]]></title>
+        <id>6a4d7406fde50672308c3931</id>
+        <link href="https://www.freecodecamp.org/news/implement-zero-trust-workload-identity-in-kubernetes-with-spiffe-spire-and-cilium/"/>
+        <updated>2026-07-07T21:47:50.000Z</updated>
+        <summary type="html"><![CDATA[Your network policy says: allow traffic from 10.0.1.45. Yesterday, 10.0.1.45 was your payment service. Today, after a rolling deployment, it's your logging agent. Your payment service is now at 10.0.1]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Local AI Agent with Tool Calling and Memory]]></title>
+        <id>6a4d5cdbbf3f75f8ee1042e5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-local-ai-agent-with-tool-calling-and-memory/"/>
+        <updated>2026-07-07T20:08:59.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, I'll show you how to build a local AI agent with tool calling and short-term memory using LangChain v1, Ollama, Qwen, and Python. The agent decides on its own when to call tools, and]]></summary>
+        <author>
+            <name>Darsh Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF OCR to Text Converter Using JavaScript]]></title>
+        <id>6a4d27fa9720ba8235700935</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-ocr-to-text-converter-javascript/"/>
+        <updated>2026-07-07T16:23:22.000Z</updated>
+        <summary type="html"><![CDATA[Not every PDF contains searchable or editable text. Many PDFs are simply scanned images of documents such as invoices, contracts, books, receipts, government forms, and handwritten notes. While these]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Production-Ready Card Components with shadcn/ui]]></title>
+        <id>6a4d22a80e40282fd1e657a8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-production-ready-card-components-with-shadcn-ui/"/>
+        <updated>2026-07-07T16:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Card components are one of the most common UI patterns in web development. You see them in property listing apps, SaaS analytics dashboards, e-commerce product pages, and admin panels. But building a]]></summary>
+        <author>
+            <name>Vaibhav Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agents For Beginners]]></title>
+        <id>6a4d1cb6082a392ccb116b56</id>
+        <link href="https://www.freecodecamp.org/news/ai-agents-for-beginners/"/>
+        <updated>2026-07-07T15:35:18.000Z</updated>
+        <summary type="html"><![CDATA[We just released an in-depth, hands-on video course on the freeCodeCamp.org YouTube channel about AI agents Led by Mumshad Mannambeth, founder of CodeCloud, this full-length course is designed to take]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Ready For the Powerful CSS border-shape Property!]]></title>
+        <id>https://css-tricks.com/?p=395508</id>
+        <link href="https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/"/>
+        <updated>2026-07-07T15:14:00.000Z</updated>
+        <summary type="html"><![CDATA[We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!
+Get Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas]]></title>
+        <id>https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/</id>
+        <link href="https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/"/>
+        <updated>2026-07-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We have been building websites inside boxes for years on WordPress. Let’s take a closer look at [Kirki](https://kirki.com/), the first freeform visual builder with an infinite canvas, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Zareen Tasnim)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Heroku Nostalgia Trap: Why Easy Deploys Aren't the Only Answer]]></title>
+        <id>6a4c4a3acf22af9f521e9536</id>
+        <link href="https://www.freecodecamp.org/news/the-heroku-nostalgia-trap-why-easy-deploys-arent-the-only-answer/"/>
+        <updated>2026-07-07T00:37:14.000Z</updated>
+        <summary type="html"><![CDATA[There's a sentiment I've seen in Slack threads, Hacker News comments, and late-night Discord vents more times than I can count: "I just want something like Heroku." I've said it myself. And I was wr]]></summary>
+        <author>
+            <name>Iroro Chadere</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Hidden Engineering Behind Every AI Product: What Software Engineers Should Know]]></title>
         <id>6a4bf70794ce8c235079d1b3</id>
@@ -46,36 +127,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top AI Productivity Tools for Developers and Professionals]]></title>
-        <id>6a47d78cf77fda0eb25967c4</id>
-        <link href="https://www.freecodecamp.org/news/top-ai-productivity-tools-for-developers-and-professionals/"/>
-        <updated>2026-07-03T15:38:52.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence has moved far beyond simple chatbots and basic automation. Today, developers and non-developers alike use AI tools to research information, write content, create presentations,]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF Analyzer Using JavaScript]]></title>
-        <id>6a47d7568dc454430aaca51a</id>
-        <link href="https://www.freecodecamp.org/news/build-pdf-analyzer-javascript/"/>
-        <updated>2026-07-03T15:37:58.000Z</updated>
-        <summary type="html"><![CDATA[PDF files are one of the most widely used document formats for sharing reports, invoices, contracts, books, research papers, manuals, forms, and business documents. Although viewing a PDF is simple, u]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AJAX Cart Drawer in Shopify (the 2026 Way)]]></title>
-        <id>6a47d58ad3e40bd062df32d5</id>
-        <link href="https://www.freecodecamp.org/news/shopify-ajax-cart-drawer/"/>
-        <updated>2026-07-03T15:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Add a product to a Shopify store the default way and the whole page reloads. The shopper is looking at your product, they click Add to cart, and the browser throws the page away and rebuilds it. On a]]></summary>
-        <author>
-            <name>baslefeber</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Users Don’t Need More Tools: They Need Seamless Integrations]]></title>
         <id>https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/</id>
         <link href="https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/"/>
@@ -83,36 +134,6 @@
         <summary type="html"><![CDATA[A closer look at why users don’t need more tools in their daily lives. What they need are seamless integrations of useful features to match already existing, established mental models. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1]]></title>
-        <id>6a46f2677c3edf68bfede8ce</id>
-        <link href="https://www.freecodecamp.org/news/build-a-private-rag-qa-ai-agent-for-your-documents-using-langchain/"/>
-        <updated>2026-07-02T23:21:11.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, I'll show you how to build a private local RAG-powered Q&A AI agent for your personal documents using LangChain v1, Ollama, Qwen, and Python. The agent reads your documents and answe]]></summary>
-        <author>
-            <name>Darsh Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codex vs Claude Code: Which AI Coding Assistant to Choose]]></title>
-        <id>6a4697abd8f1260e868746b9</id>
-        <link href="https://www.freecodecamp.org/news/codex-vs-claude-code-which-ai-coding-assistant-to-choose/"/>
-        <updated>2026-07-02T16:54:03.000Z</updated>
-        <summary type="html"><![CDATA[AI coding assistants have evolved from simple autocomplete tools into capable development agents that can write code, debug applications, refactor projects, and even execute complex workflows. Among t]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experimentation: Stop Early Without P-Hacking Using mSPRT and Sequential Testing in Python]]></title>
-        <id>6a46977d0ad5b1f1520283a9</id>
-        <link href="https://www.freecodecamp.org/news/stop-early-without-p-hacking-using-msprt-and-sequential-testing-in-python/"/>
-        <updated>2026-07-02T16:53:17.000Z</updated>
-        <summary type="html"><![CDATA[Your AI product experiment reaches statistical significance on day 14 of a planned 30-day run, measuring a causal inference question: did the LLM-based feature genuinely improve outcomes? Every produc]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
         </author>
     </entry>
     <entry>
@@ -329,17 +350,6 @@ Creating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten 
         <summary type="html"><![CDATA[Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kate Kalcevich)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions]]></title>
-        <id>https://css-tricks.com/?p=393503</id>
-        <link href="https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/"/>
-        <updated>2026-06-08T13:00:34.000Z</updated>
-        <summary type="html"><![CDATA[I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.
-Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>

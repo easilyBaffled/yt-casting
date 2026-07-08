@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395508",
+          "author": "Temani Afif",
+          "description": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\nGet Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+          "publishedOn": "2026-07-07T15:14:00.000Z",
+          "wordCount": 4682,
+          "title": "Get Ready For the Powerful CSS border-shape Property!",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=395894",
           "author": "Daniel Schwarz",
           "description": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\nWhat’s !important #14: Gap Decorations, random(), <select> field sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -32,7 +42,7 @@
           "description": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically listens for.\nThe Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-states-and-javascript-events/",
           "publishedOn": "2026-06-29T13:03:32.000Z",
-          "wordCount": 4749,
+          "wordCount": 4770,
           "title": "The Shifting Line Between CSS States and JavaScript Events",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/state-management.jpg"
         },
@@ -175,21 +185,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/psychedlic-event.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393503",
-          "author": "Geoff Graham",
-          "description": "I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.\nScroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
-          "publishedOn": "2026-06-08T13:00:34.000Z",
-          "wordCount": 3362,
-          "title": "Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/04/Screen-Recording-2026-04-14-at-10.16.47-AM.mov",
-            "length": "3122373",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/scroll-animations-view-transitions.webp"
         }
       ]
     },
@@ -198,6 +193,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
+          "author": "hello@smashingmagazine.com (Zareen Tasnim)",
+          "description": "We have been building websites inside boxes for years on WordPress. Let’s take a closer look at [Kirki](https://kirki.com/), the first freeform visual builder with an infinite canvas, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.",
+          "link": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
+          "publishedOn": "2026-07-07T10:00:00.000Z",
+          "wordCount": 5194,
+          "title": "Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/kirki-freeform-visual-website-builder-wordpress/kirki-wordpress-visual-builder-infinite-canvas.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/kirki-freeform-visual-website-builder-wordpress/kirki-wordpress-visual-builder-infinite-canvas.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -249,7 +259,7 @@
           "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
           "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4925,
+          "wordCount": 4820,
           "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
@@ -264,7 +274,7 @@
           "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
           "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
           "publishedOn": "2026-06-16T15:00:00.000Z",
-          "wordCount": 6486,
+          "wordCount": 6487,
           "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -279,7 +289,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4817,
+          "wordCount": 4810,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -294,7 +304,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5747,
+          "wordCount": 5760,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -311,12 +321,72 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a4d7406fde50672308c3931",
+          "author": "Destiny Erhabor",
+          "description": "Your network policy says: allow traffic from 10.0.1.45. Yesterday, 10.0.1.45 was your payment service. Today, after a rolling deployment, it's your logging agent. Your payment service is now at 10.0.1",
+          "link": "https://www.freecodecamp.org/news/implement-zero-trust-workload-identity-in-kubernetes-with-spiffe-spire-and-cilium/",
+          "publishedOn": "2026-07-07T21:47:50.000Z",
+          "wordCount": 5278,
+          "title": "How to Implement Zero-Trust Workload Identity in Kubernetes with SPIFFE, SPIRE, and Cilium",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4e87cffb-7972-4dcd-a705-480154778907.png"
+        },
+        {
+          "id": "6a4d5cdbbf3f75f8ee1042e5",
+          "author": "Darsh Shah",
+          "description": "In this tutorial, I'll show you how to build a local AI agent with tool calling and short-term memory using LangChain v1, Ollama, Qwen, and Python. The agent decides on its own when to call tools, and",
+          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-local-ai-agent-with-tool-calling-and-memory/",
+          "publishedOn": "2026-07-07T20:08:59.000Z",
+          "wordCount": 2981,
+          "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7c284bf8-1dd8-40e3-9ff5-4ec4c8f97948.png"
+        },
+        {
+          "id": "6a4d27fa9720ba8235700935",
+          "author": "Bhavin Sheth",
+          "description": "Not every PDF contains searchable or editable text. Many PDFs are simply scanned images of documents such as invoices, contracts, books, receipts, government forms, and handwritten notes. While these",
+          "link": "https://www.freecodecamp.org/news/build-pdf-ocr-to-text-converter-javascript/",
+          "publishedOn": "2026-07-07T16:23:22.000Z",
+          "wordCount": 5125,
+          "title": "How to Build a Browser-Based PDF OCR to Text Converter Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ba3a97e6-1829-4062-acef-9d05eaa14c34.png"
+        },
+        {
+          "id": "6a4d22a80e40282fd1e657a8",
+          "author": "Vaibhav Gupta",
+          "description": "Card components are one of the most common UI patterns in web development. You see them in property listing apps, SaaS analytics dashboards, e-commerce product pages, and admin panels. But building a",
+          "link": "https://www.freecodecamp.org/news/how-to-build-production-ready-card-components-with-shadcn-ui/",
+          "publishedOn": "2026-07-07T16:00:40.000Z",
+          "wordCount": 4889,
+          "title": "How to Build Production-Ready Card Components with shadcn/ui",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1efc2e2c-00a5-4891-9845-18de2a38c5f1.png"
+        },
+        {
+          "id": "6a4d1cb6082a392ccb116b56",
+          "author": "Beau Carnes",
+          "description": "We just released an in-depth, hands-on video course on the freeCodeCamp.org YouTube channel about AI agents Led by Mumshad Mannambeth, founder of CodeCloud, this full-length course is designed to take",
+          "link": "https://www.freecodecamp.org/news/ai-agents-for-beginners/",
+          "publishedOn": "2026-07-07T15:35:18.000Z",
+          "wordCount": 1113,
+          "title": "AI Agents For Beginners",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/3f4489bc-205b-4362-bbc4-cde818235bec.jpg"
+        },
+        {
+          "id": "6a4c4a3acf22af9f521e9536",
+          "author": "Iroro Chadere",
+          "description": "There's a sentiment I've seen in Slack threads, Hacker News comments, and late-night Discord vents more times than I can count: \"I just want something like Heroku.\" I've said it myself. And I was wr",
+          "link": "https://www.freecodecamp.org/news/the-heroku-nostalgia-trap-why-easy-deploys-arent-the-only-answer/",
+          "publishedOn": "2026-07-07T00:37:14.000Z",
+          "wordCount": 2535,
+          "title": "The Heroku Nostalgia Trap: Why Easy Deploys Aren't the Only Answer",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6bc939c6-c2b8-40f7-9238-101ebd57d39c.png"
+        },
+        {
           "id": "6a4bf70794ce8c235079d1b3",
           "author": "Olamilekan Lamidi",
           "description": "AI products often look simple from the outside. You type a question into ChatGPT and get an answer. You ask GitHub Copilot to complete a function and it writes code. You highlight text in Notion AI an",
           "link": "https://www.freecodecamp.org/news/the-hidden-engineering-behind-ai-products-what-devs-should-know/",
           "publishedOn": "2026-07-06T18:42:15.000Z",
-          "wordCount": 5507,
+          "wordCount": 5516,
           "title": "The Hidden Engineering Behind Every AI Product: What Software Engineers Should Know",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f51fe841-77ec-4ebd-b693-a4a1018501c8.png"
         },
@@ -326,7 +396,7 @@
           "description": "Every click, search, purchase, and social media post contributes to your digital footprint. While the internet has made communication and access to information easier than ever, it has also created ne",
           "link": "https://www.freecodecamp.org/news/how-to-take-control-of-your-online-privacy/",
           "publishedOn": "2026-07-06T14:52:16.000Z",
-          "wordCount": 2383,
+          "wordCount": 2392,
           "title": "How to Take Control of Your Online Privacy",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6cdff6b0-9541-49f0-a1e8-e48e875020a3.png"
         },
@@ -336,7 +406,7 @@
           "description": "Whether you're documenting research, sharing AI-generated content with colleagues, creating reports, or keeping an offline backup, saving Claude conversations as PDFs is one of the easiest ways to pre",
           "link": "https://www.freecodecamp.org/news/export-a-claude-conversation-as-pdf-complete-guide/",
           "publishedOn": "2026-07-06T13:56:14.000Z",
-          "wordCount": 3111,
+          "wordCount": 3120,
           "title": "How to Export a Claude Conversation as a PDF",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/39935028-dc75-41f2-b98d-8414459806f1.png"
         },
@@ -346,69 +416,9 @@
           "description": "Over the years, I've worked on many Static Site Generated (SSG) websites that work without JavaScript. And during that time, I've created a few solutions. One of them is a dark mode toggle that doesn'",
           "link": "https://www.freecodecamp.org/news/how-to-build-a-dark-mode-toggle-without-javascript/",
           "publishedOn": "2026-07-06T13:55:11.000Z",
-          "wordCount": 2218,
+          "wordCount": 2227,
           "title": "How to Build a Dark Mode Toggle Without JavaScript",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/166e89af-ab96-48c8-bf0b-cbc5972aad2c.png"
-        },
-        {
-          "id": "6a47d78cf77fda0eb25967c4",
-          "author": "Manish Shivanandhan",
-          "description": "Artificial intelligence has moved far beyond simple chatbots and basic automation. Today, developers and non-developers alike use AI tools to research information, write content, create presentations,",
-          "link": "https://www.freecodecamp.org/news/top-ai-productivity-tools-for-developers-and-professionals/",
-          "publishedOn": "2026-07-03T15:38:52.000Z",
-          "wordCount": 2211,
-          "title": "Top AI Productivity Tools for Developers and Professionals",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a15e540a-4f26-4fa5-a15e-5f8f4e2fd0c3.png"
-        },
-        {
-          "id": "6a47d7568dc454430aaca51a",
-          "author": "Bhavin Sheth",
-          "description": "PDF files are one of the most widely used document formats for sharing reports, invoices, contracts, books, research papers, manuals, forms, and business documents. Although viewing a PDF is simple, u",
-          "link": "https://www.freecodecamp.org/news/build-pdf-analyzer-javascript/",
-          "publishedOn": "2026-07-03T15:37:58.000Z",
-          "wordCount": 4572,
-          "title": "How to Build a Browser-Based PDF Analyzer Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a009f906-4ae4-4808-99fa-a31b419f66d5.png"
-        },
-        {
-          "id": "6a47d58ad3e40bd062df32d5",
-          "author": "baslefeber",
-          "description": "Add a product to a Shopify store the default way and the whole page reloads. The shopper is looking at your product, they click Add to cart, and the browser throws the page away and rebuilds it. On a",
-          "link": "https://www.freecodecamp.org/news/shopify-ajax-cart-drawer/",
-          "publishedOn": "2026-07-03T15:30:18.000Z",
-          "wordCount": 5349,
-          "title": "How to Build an AJAX Cart Drawer in Shopify (the 2026 Way)",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/16d974f7-5940-4fef-a053-6e1790ed6107.png"
-        },
-        {
-          "id": "6a46f2677c3edf68bfede8ce",
-          "author": "Darsh Shah",
-          "description": "In this tutorial, I'll show you how to build a private local RAG-powered Q&A AI agent for your personal documents using LangChain v1, Ollama, Qwen, and Python. The agent reads your documents and answe",
-          "link": "https://www.freecodecamp.org/news/build-a-private-rag-qa-ai-agent-for-your-documents-using-langchain/",
-          "publishedOn": "2026-07-02T23:21:11.000Z",
-          "wordCount": 3152,
-          "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/26ccab55-674d-4d01-b341-4a7228658815.png"
-        },
-        {
-          "id": "6a4697abd8f1260e868746b9",
-          "author": "Manish Shivanandhan",
-          "description": "AI coding assistants have evolved from simple autocomplete tools into capable development agents that can write code, debug applications, refactor projects, and even execute complex workflows. Among t",
-          "link": "https://www.freecodecamp.org/news/codex-vs-claude-code-which-ai-coding-assistant-to-choose/",
-          "publishedOn": "2026-07-02T16:54:03.000Z",
-          "wordCount": 2298,
-          "title": "Codex vs Claude Code: Which AI Coding Assistant to Choose",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4ecd4fdb-8024-4bb6-92ae-142b35c0a3c3.png"
-        },
-        {
-          "id": "6a46977d0ad5b1f1520283a9",
-          "author": "Rudrendu Paul",
-          "description": "Your AI product experiment reaches statistical significance on day 14 of a planned 30-day run, measuring a causal inference question: did the LLM-based feature genuinely improve outcomes? Every produc",
-          "link": "https://www.freecodecamp.org/news/stop-early-without-p-hacking-using-msprt-and-sequential-testing-in-python/",
-          "publishedOn": "2026-07-02T16:53:17.000Z",
-          "wordCount": 5004,
-          "title": "Product Experimentation: Stop Early Without P-Hacking Using mSPRT and Sequential Testing in Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8df7e6a8-923c-4cbf-9e5b-56a68f5ad96e.png"
         }
       ]
     }
