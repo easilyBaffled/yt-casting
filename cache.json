@@ -17,7 +17,7 @@
           "description": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\nGet Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
           "publishedOn": "2026-07-07T15:14:00.000Z",
-          "wordCount": 4682,
+          "wordCount": 3847,
           "title": "Get Ready For the Powerful CSS border-shape Property!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
         },
@@ -27,7 +27,7 @@
           "description": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\nWhat’s !important #14: Gap Decorations, random(), <select> field sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-14/",
           "publishedOn": "2026-06-30T13:54:14.000Z",
-          "wordCount": 3618,
+          "wordCount": 2623,
           "title": "What’s !important #14: Gap Decorations, random(), <select> field sizing, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/06/3.mp4",
@@ -42,7 +42,7 @@
           "description": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically listens for.\nThe Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-states-and-javascript-events/",
           "publishedOn": "2026-06-29T13:03:32.000Z",
-          "wordCount": 4770,
+          "wordCount": 3775,
           "title": "The Shifting Line Between CSS States and JavaScript Events",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/state-management.jpg"
         },
@@ -52,7 +52,7 @@
           "description": "The translateZ() function moves an element closer to or farther from the user. \ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/t/translatez/",
           "publishedOn": "2026-06-25T13:18:56.000Z",
-          "wordCount": 4266,
+          "wordCount": 3271,
           "title": "translateZ()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -62,7 +62,7 @@
           "description": "The translateY() function shifts an element vertically by the specified amount. \ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/t/translatey/",
           "publishedOn": "2026-06-25T13:17:56.000Z",
-          "wordCount": 4141,
+          "wordCount": 3146,
           "title": "translateY()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -72,7 +72,7 @@
           "description": "The translateX() function shifts an element horizontally by the specified amount. \ntranslateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/t/translatex/",
           "publishedOn": "2026-06-25T13:16:01.000Z",
-          "wordCount": 4355,
+          "wordCount": 3360,
           "title": "translateX()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -82,7 +82,7 @@
           "description": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane\ntranslate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/t/translate/",
           "publishedOn": "2026-06-25T13:15:05.000Z",
-          "wordCount": 4227,
+          "wordCount": 3232,
           "title": "translate()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -92,7 +92,7 @@
           "description": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fallback\nNote: This …\nUsing Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
           "publishedOn": "2026-06-22T12:39:13.000Z",
-          "wordCount": 4679,
+          "wordCount": 3684,
           "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/05/opposing-scrolling-logos.mov",
@@ -107,7 +107,7 @@
           "description": "Let's poke at the differences between scroll-driven and scroll-triggered animations.\nA First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
           "publishedOn": "2026-06-19T13:03:17.000Z",
-          "wordCount": 4718,
+          "wordCount": 3723,
           "title": "A First Look at Scroll-Triggered Animations",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/04/1-1.mp4",
@@ -122,7 +122,7 @@
           "description": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\nThe Siren Song of ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/the-siren-song-of-arianotify/",
           "publishedOn": "2026-06-17T15:32:30.000Z",
-          "wordCount": 5670,
+          "wordCount": 4675,
           "title": "The Siren Song of ariaNotify()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/arianotify.jpg"
         },
@@ -132,7 +132,7 @@
           "description": "Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.\nProp For That originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/prop-for-that/",
           "publishedOn": "2026-06-16T18:36:25.000Z",
-          "wordCount": 2876,
+          "wordCount": 1881,
           "title": "Prop For That",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/prop-for-that-masthead.png"
         },
@@ -142,7 +142,7 @@
           "description": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\nWhat’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-13/",
           "publishedOn": "2026-06-15T13:15:33.000Z",
-          "wordCount": 3501,
+          "wordCount": 2506,
           "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wi13.jpg"
         },
@@ -152,7 +152,7 @@
           "description": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\nWhy Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
           "publishedOn": "2026-06-12T15:09:00.000Z",
-          "wordCount": 4020,
+          "wordCount": 3025,
           "title": "Why Isn’t My 3D View Transition Working?",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/06/video_1.mp4",
@@ -167,7 +167,7 @@
           "description": "One of those nuances to keep in your back pocket when writing for screen readers.\nThere’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/navigation-in-your-navigation-labels/",
           "publishedOn": "2026-06-12T15:08:38.000Z",
-          "wordCount": 2785,
+          "wordCount": 1790,
           "title": "There’s no need to include ‘navigation’ in your navigation labels",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/stairwaynav.png"
         },
@@ -177,7 +177,7 @@
           "description": "There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.\nCreating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/",
           "publishedOn": "2026-06-10T13:02:10.000Z",
-          "wordCount": 5146,
+          "wordCount": 4151,
           "title": "Creating Memorable Web Experiences: A Modern CSS Toolkit",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/04/nerd2-f.mp4",
@@ -229,7 +229,7 @@
           "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
           "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
           "publishedOn": "2026-07-02T10:00:00.000Z",
-          "wordCount": 7066,
+          "wordCount": 7072,
           "title": "Matching AI Modality To User Intent: Designing The Right Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
@@ -259,7 +259,7 @@
           "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
           "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4820,
+          "wordCount": 4825,
           "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
@@ -274,7 +274,7 @@
           "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
           "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
           "publishedOn": "2026-06-16T15:00:00.000Z",
-          "wordCount": 6487,
+          "wordCount": 6494,
           "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -289,7 +289,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4810,
+          "wordCount": 4917,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -304,7 +304,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5760,
+          "wordCount": 5749,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -320,6 +320,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a4e9d5a4324feb8efb80026",
+          "author": "Darsh Shah",
+          "description": "In this tutorial, I'll show you how to build an MCP server with FastMCP, connect your local AI agent to use tools from the local MCP server that you built, and add support for remote MCP servers. We'l",
+          "link": "https://www.freecodecamp.org/news/build-an-mcp-server-with-fastmcp-for-local-ai-agent/",
+          "publishedOn": "2026-07-08T18:56:26.000Z",
+          "wordCount": 2957,
+          "title": "How to Build an MCP Server with FastMCP for Your Local AI Agent",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0e20e6a5-386d-4fba-8871-40e02554aeaf.png"
+        },
+        {
+          "id": "6a4e9d39cf634d0e556a13ac",
+          "author": "Mohammed Fahd Abrah",
+          "description": "When Chain-of-Thought Prompting was introduced, it showed that large language models could solve many difficult reasoning problems simply by thinking step by step before producing an answer. It was a",
+          "link": "https://www.freecodecamp.org/news/ai-paper-review-self-consistency-improves-chain-of-thought-reasoning-in-language-models/",
+          "publishedOn": "2026-07-08T18:55:53.000Z",
+          "wordCount": 6155,
+          "title": "AI Paper Review: Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b4b96781-1c51-4661-9b29-2668e5ea8518.png"
+        },
+        {
+          "id": "6a4e7117b685410081a33577",
+          "author": "Gidudu Nicholas",
+          "description": "Flutter makes it fast to build beautiful UIs. That speed is one of the framework's greatest strengths, but it also creates a subtle problem: performance issues are easy to introduce and difficult to f",
+          "link": "https://www.freecodecamp.org/news/how-to-fix-app-jank-profiling-flutter-apps-with-devtools/",
+          "publishedOn": "2026-07-08T15:47:35.000Z",
+          "wordCount": 3834,
+          "title": "How to Fix App Jank: A Practical Guide to Profiling Flutter Apps with DevTools",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0e682286-437e-4394-905e-0d531c084889.png"
+        },
+        {
+          "id": "6a4e5ea3911c94446d1e5604",
+          "author": "Beau Carnes",
+          "description": "We've just released a new full-length tutorial on the freeCodeCamp.org YouTube channel that will teach you how to use TypeScript with React. If you’ve been building React apps but feeling like you’re",
+          "link": "https://www.freecodecamp.org/news/level-up-your-react-skills-with-typescript/",
+          "publishedOn": "2026-07-08T14:28:51.000Z",
+          "wordCount": 1084,
+          "title": "Level Up Your React Skills with Typescript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/cf080e29-66d5-4aeb-bac5-57aa58f95bec.jpg"
+        },
+        {
+          "id": "6a4e5931809a1766583744cd",
+          "author": "Beau Carnes",
+          "description": "We’ve been experimenting with a new style of content on the freeCodeCamp YouTube channel: the video essay. These projects allow us to step back from the code tutorials to explore the massive, complex",
+          "link": "https://www.freecodecamp.org/news/why-does-the-internet-keep-breaking-a-deep-dive-into-aws-us-east-1/",
+          "publishedOn": "2026-07-08T14:05:37.000Z",
+          "wordCount": 1110,
+          "title": "Why Does the Internet Keep Breaking? A Deep Dive into AWS US-East-1",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/c3810468-6637-43b4-be7c-0d856a5a853e.png"
+        },
         {
           "id": "6a4d7406fde50672308c3931",
           "author": "Destiny Erhabor",
@@ -369,56 +419,6 @@
           "wordCount": 1113,
           "title": "AI Agents For Beginners",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/3f4489bc-205b-4362-bbc4-cde818235bec.jpg"
-        },
-        {
-          "id": "6a4c4a3acf22af9f521e9536",
-          "author": "Iroro Chadere",
-          "description": "There's a sentiment I've seen in Slack threads, Hacker News comments, and late-night Discord vents more times than I can count: \"I just want something like Heroku.\" I've said it myself. And I was wr",
-          "link": "https://www.freecodecamp.org/news/the-heroku-nostalgia-trap-why-easy-deploys-arent-the-only-answer/",
-          "publishedOn": "2026-07-07T00:37:14.000Z",
-          "wordCount": 2535,
-          "title": "The Heroku Nostalgia Trap: Why Easy Deploys Aren't the Only Answer",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6bc939c6-c2b8-40f7-9238-101ebd57d39c.png"
-        },
-        {
-          "id": "6a4bf70794ce8c235079d1b3",
-          "author": "Olamilekan Lamidi",
-          "description": "AI products often look simple from the outside. You type a question into ChatGPT and get an answer. You ask GitHub Copilot to complete a function and it writes code. You highlight text in Notion AI an",
-          "link": "https://www.freecodecamp.org/news/the-hidden-engineering-behind-ai-products-what-devs-should-know/",
-          "publishedOn": "2026-07-06T18:42:15.000Z",
-          "wordCount": 5516,
-          "title": "The Hidden Engineering Behind Every AI Product: What Software Engineers Should Know",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f51fe841-77ec-4ebd-b693-a4a1018501c8.png"
-        },
-        {
-          "id": "6a4bc1206289ee6fbd360902",
-          "author": "Manish Shivanandhan",
-          "description": "Every click, search, purchase, and social media post contributes to your digital footprint. While the internet has made communication and access to information easier than ever, it has also created ne",
-          "link": "https://www.freecodecamp.org/news/how-to-take-control-of-your-online-privacy/",
-          "publishedOn": "2026-07-06T14:52:16.000Z",
-          "wordCount": 2392,
-          "title": "How to Take Control of Your Online Privacy",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6cdff6b0-9541-49f0-a1e8-e48e875020a3.png"
-        },
-        {
-          "id": "6a4bb3fed8e4d3de4074fb68",
-          "author": "Vikram Aruchamy",
-          "description": "Whether you're documenting research, sharing AI-generated content with colleagues, creating reports, or keeping an offline backup, saving Claude conversations as PDFs is one of the easiest ways to pre",
-          "link": "https://www.freecodecamp.org/news/export-a-claude-conversation-as-pdf-complete-guide/",
-          "publishedOn": "2026-07-06T13:56:14.000Z",
-          "wordCount": 3120,
-          "title": "How to Export a Claude Conversation as a PDF",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/39935028-dc75-41f2-b98d-8414459806f1.png"
-        },
-        {
-          "id": "6a4bb3bf6aa89de94c683aa8",
-          "author": "Jakub T. Jankiewicz",
-          "description": "Over the years, I've worked on many Static Site Generated (SSG) websites that work without JavaScript. And during that time, I've created a few solutions. One of them is a dark mode toggle that doesn'",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-dark-mode-toggle-without-javascript/",
-          "publishedOn": "2026-07-06T13:55:11.000Z",
-          "wordCount": 2227,
-          "title": "How to Build a Dark Mode Toggle Without JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/166e89af-ab96-48c8-bf0b-cbc5972aad2c.png"
         }
       ]
     }

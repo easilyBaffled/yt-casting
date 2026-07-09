@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-08T03:29:09.527Z</id>
+    <id>urn:2026-07-09T03:56:42.496Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-08T03:29:09.527Z</updated>
+    <updated>2026-07-09T03:56:42.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an MCP Server with FastMCP for Your Local AI Agent]]></title>
+        <id>6a4e9d5a4324feb8efb80026</id>
+        <link href="https://www.freecodecamp.org/news/build-an-mcp-server-with-fastmcp-for-local-ai-agent/"/>
+        <updated>2026-07-08T18:56:26.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, I'll show you how to build an MCP server with FastMCP, connect your local AI agent to use tools from the local MCP server that you built, and add support for remote MCP servers. We'l]]></summary>
+        <author>
+            <name>Darsh Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Paper Review: Self-Consistency Improves Chain of Thought Reasoning in Language Models]]></title>
+        <id>6a4e9d39cf634d0e556a13ac</id>
+        <link href="https://www.freecodecamp.org/news/ai-paper-review-self-consistency-improves-chain-of-thought-reasoning-in-language-models/"/>
+        <updated>2026-07-08T18:55:53.000Z</updated>
+        <summary type="html"><![CDATA[When Chain-of-Thought Prompting was introduced, it showed that large language models could solve many difficult reasoning problems simply by thinking step by step before producing an answer. It was a]]></summary>
+        <author>
+            <name>Mohammed Fahd Abrah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fix App Jank: A Practical Guide to Profiling Flutter Apps with DevTools]]></title>
+        <id>6a4e7117b685410081a33577</id>
+        <link href="https://www.freecodecamp.org/news/how-to-fix-app-jank-profiling-flutter-apps-with-devtools/"/>
+        <updated>2026-07-08T15:47:35.000Z</updated>
+        <summary type="html"><![CDATA[Flutter makes it fast to build beautiful UIs. That speed is one of the framework's greatest strengths, but it also creates a subtle problem: performance issues are easy to introduce and difficult to f]]></summary>
+        <author>
+            <name>Gidudu Nicholas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Level Up Your React Skills with Typescript]]></title>
+        <id>6a4e5ea3911c94446d1e5604</id>
+        <link href="https://www.freecodecamp.org/news/level-up-your-react-skills-with-typescript/"/>
+        <updated>2026-07-08T14:28:51.000Z</updated>
+        <summary type="html"><![CDATA[We've just released a new full-length tutorial on the freeCodeCamp.org YouTube channel that will teach you how to use TypeScript with React. If you’ve been building React apps but feeling like you’re]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Does the Internet Keep Breaking? A Deep Dive into AWS US-East-1]]></title>
+        <id>6a4e5931809a1766583744cd</id>
+        <link href="https://www.freecodecamp.org/news/why-does-the-internet-keep-breaking-a-deep-dive-into-aws-us-east-1/"/>
+        <updated>2026-07-08T14:05:37.000Z</updated>
+        <summary type="html"><![CDATA[We’ve been experimenting with a new style of content on the freeCodeCamp YouTube channel: the video essay. These projects allow us to step back from the code tutorials to explore the massive, complex]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Implement Zero-Trust Workload Identity in Kubernetes with SPIFFE, SPIRE, and Cilium]]></title>
         <id>6a4d7406fde50672308c3931</id>
@@ -74,56 +124,6 @@ Get Ready For the Powerful CSS border-shape Property! originally handwritten and
         <summary type="html"><![CDATA[We have been building websites inside boxes for years on WordPress. Let’s take a closer look at [Kirki](https://kirki.com/), the first freeform visual builder with an infinite canvas, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Zareen Tasnim)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Heroku Nostalgia Trap: Why Easy Deploys Aren't the Only Answer]]></title>
-        <id>6a4c4a3acf22af9f521e9536</id>
-        <link href="https://www.freecodecamp.org/news/the-heroku-nostalgia-trap-why-easy-deploys-arent-the-only-answer/"/>
-        <updated>2026-07-07T00:37:14.000Z</updated>
-        <summary type="html"><![CDATA[There's a sentiment I've seen in Slack threads, Hacker News comments, and late-night Discord vents more times than I can count: "I just want something like Heroku." I've said it myself. And I was wr]]></summary>
-        <author>
-            <name>Iroro Chadere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hidden Engineering Behind Every AI Product: What Software Engineers Should Know]]></title>
-        <id>6a4bf70794ce8c235079d1b3</id>
-        <link href="https://www.freecodecamp.org/news/the-hidden-engineering-behind-ai-products-what-devs-should-know/"/>
-        <updated>2026-07-06T18:42:15.000Z</updated>
-        <summary type="html"><![CDATA[AI products often look simple from the outside. You type a question into ChatGPT and get an answer. You ask GitHub Copilot to complete a function and it writes code. You highlight text in Notion AI an]]></summary>
-        <author>
-            <name>Olamilekan Lamidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Take Control of Your Online Privacy]]></title>
-        <id>6a4bc1206289ee6fbd360902</id>
-        <link href="https://www.freecodecamp.org/news/how-to-take-control-of-your-online-privacy/"/>
-        <updated>2026-07-06T14:52:16.000Z</updated>
-        <summary type="html"><![CDATA[Every click, search, purchase, and social media post contributes to your digital footprint. While the internet has made communication and access to information easier than ever, it has also created ne]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Export a Claude Conversation as a PDF]]></title>
-        <id>6a4bb3fed8e4d3de4074fb68</id>
-        <link href="https://www.freecodecamp.org/news/export-a-claude-conversation-as-pdf-complete-guide/"/>
-        <updated>2026-07-06T13:56:14.000Z</updated>
-        <summary type="html"><![CDATA[Whether you're documenting research, sharing AI-generated content with colleagues, creating reports, or keeping an offline backup, saving Claude conversations as PDFs is one of the easiest ways to pre]]></summary>
-        <author>
-            <name>Vikram Aruchamy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Dark Mode Toggle Without JavaScript]]></title>
-        <id>6a4bb3bf6aa89de94c683aa8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-dark-mode-toggle-without-javascript/"/>
-        <updated>2026-07-06T13:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Over the years, I've worked on many Static Site Generated (SSG) websites that work without JavaScript. And during that time, I've created a few solutions. One of them is a dark mode toggle that doesn']]></summary>
-        <author>
-            <name>Jakub T. Jankiewicz</name>
         </author>
     </entry>
     <entry>
