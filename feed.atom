@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-09T03:56:42.496Z</id>
+    <id>urn:2026-07-10T03:57:13.422Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-09T03:56:42.496Z</updated>
+    <updated>2026-07-10T03:57:13.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)]]></title>
+        <id>6a4fd5184215fa285003b017</id>
+        <link href="https://www.freecodecamp.org/news/uplift-modeling-for-personalized-ai-rollouts-in-python/"/>
+        <updated>2026-07-09T17:06:32.000Z</updated>
+        <summary type="html"><![CDATA[Your LLM product experiment just came back positive, with a promising 8-percentage-point lift in task completion. You ship the feature and leadership celebrates. Three months later, the core metric ha]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Turn a Postman Collection into a Maintainable pytest Suite]]></title>
+        <id>6a4fcfbb4eecd9fed2eade13</id>
+        <link href="https://www.freecodecamp.org/news/how-to-turn-a-postman-collection-into-a-maintainable-pytest-suite/"/>
+        <updated>2026-07-09T16:43:39.000Z</updated>
+        <summary type="html"><![CDATA[A Postman collection is a great place to explore an API. But it's a poor place to keep your tests. Most teams find this out the slow way. Someone exports the collection, converts the requests into tes]]></summary>
+        <author>
+            <name>Mikhail Golikov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How an LMS Software Helps Technical Teams Upskill Faster]]></title>
+        <id>6a4fcf3f5d702356d3424fd3</id>
+        <link href="https://www.freecodecamp.org/news/how-an-lms-software-helps-technical-teams-upskill-faster/"/>
+        <updated>2026-07-09T16:41:35.000Z</updated>
+        <summary type="html"><![CDATA[Technology changes faster than almost any other industry. The half-life of technical skills continues to shrink. Frameworks, cloud platforms, AI tooling, and cybersecurity practices evolve so quickly]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own MCP Server and Publish Your ChatGPT App with Supabase Auth and DigitalOcean]]></title>
+        <id>6a4fc672a2e4b5543646e329</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-mcp-server-and-publish-your-chatgpt-app/"/>
+        <updated>2026-07-09T16:04:02.000Z</updated>
+        <summary type="html"><![CDATA[A new type of app is emerging with the development of LLMs and AI-native apps. It lives inside an AI chat (like ChatGPT) rather than being a fully native web or mobile app. In this tutorial, you'll le]]></summary>
+        <author>
+            <name>Abdurrahman Rajab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion]]></title>
+        <id>https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/</id>
+        <link href="https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/"/>
+        <updated>2026-07-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kat Homan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Role-Based Access Control in a Node.js REST API with JWT]]></title>
+        <id>6a4fb4570140649a4367b476</id>
+        <link href="https://www.freecodecamp.org/news/role-based-access-control-nodejs-rest-api-jwt/"/>
+        <updated>2026-07-09T14:46:47.000Z</updated>
+        <summary type="html"><![CDATA[The first time I built an API without thinking about roles, I gave every logged-in user the same access. It worked fine until a regular user accidentally hit a delete endpoint and wiped test data. Tha]]></summary>
+        <author>
+            <name>Zia Ullah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your Own Healthcare AI Assistant with MedGemma, Ollama, and Open WebUI]]></title>
+        <id>6a4edb71b23ba37e305b1825</id>
+        <link href="https://www.freecodecamp.org/news/build-your-own-healthcare-ai-assistant-with-medgemma-ollama-and-open-webui/"/>
+        <updated>2026-07-08T23:21:21.000Z</updated>
+        <summary type="html"><![CDATA[Healthcare data is among the most sensitive data there is. Sending it to a cloud AI service is often not an option because of privacy requirements, regulatory compliance, or both. In this tutorial, yo]]></summary>
+        <author>
+            <name>Lakshmi Mahabaleshwara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How MCP Is Changing WordPress Development]]></title>
+        <id>6a4edab93c79e045fc05e216</id>
+        <link href="https://www.freecodecamp.org/news/how-mcp-is-changing-wordpress-development/"/>
+        <updated>2026-07-08T23:18:17.000Z</updated>
+        <summary type="html"><![CDATA[For years, the promise of AI-assisted development felt just out of reach for WordPress developers. You could ask a chatbot to generate a block of PHP, paste it into your editor, run into a conflict, c]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an MCP Server with FastMCP for Your Local AI Agent]]></title>
         <id>6a4e9d5a4324feb8efb80026</id>
@@ -33,76 +113,6 @@
         <summary type="html"><![CDATA[Flutter makes it fast to build beautiful UIs. That speed is one of the framework's greatest strengths, but it also creates a subtle problem: performance issues are easy to introduce and difficult to f]]></summary>
         <author>
             <name>Gidudu Nicholas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Level Up Your React Skills with Typescript]]></title>
-        <id>6a4e5ea3911c94446d1e5604</id>
-        <link href="https://www.freecodecamp.org/news/level-up-your-react-skills-with-typescript/"/>
-        <updated>2026-07-08T14:28:51.000Z</updated>
-        <summary type="html"><![CDATA[We've just released a new full-length tutorial on the freeCodeCamp.org YouTube channel that will teach you how to use TypeScript with React. If you’ve been building React apps but feeling like you’re]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Does the Internet Keep Breaking? A Deep Dive into AWS US-East-1]]></title>
-        <id>6a4e5931809a1766583744cd</id>
-        <link href="https://www.freecodecamp.org/news/why-does-the-internet-keep-breaking-a-deep-dive-into-aws-us-east-1/"/>
-        <updated>2026-07-08T14:05:37.000Z</updated>
-        <summary type="html"><![CDATA[We’ve been experimenting with a new style of content on the freeCodeCamp YouTube channel: the video essay. These projects allow us to step back from the code tutorials to explore the massive, complex]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Zero-Trust Workload Identity in Kubernetes with SPIFFE, SPIRE, and Cilium]]></title>
-        <id>6a4d7406fde50672308c3931</id>
-        <link href="https://www.freecodecamp.org/news/implement-zero-trust-workload-identity-in-kubernetes-with-spiffe-spire-and-cilium/"/>
-        <updated>2026-07-07T21:47:50.000Z</updated>
-        <summary type="html"><![CDATA[Your network policy says: allow traffic from 10.0.1.45. Yesterday, 10.0.1.45 was your payment service. Today, after a rolling deployment, it's your logging agent. Your payment service is now at 10.0.1]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your Own Local AI Agent with Tool Calling and Memory]]></title>
-        <id>6a4d5cdbbf3f75f8ee1042e5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-local-ai-agent-with-tool-calling-and-memory/"/>
-        <updated>2026-07-07T20:08:59.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, I'll show you how to build a local AI agent with tool calling and short-term memory using LangChain v1, Ollama, Qwen, and Python. The agent decides on its own when to call tools, and]]></summary>
-        <author>
-            <name>Darsh Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF OCR to Text Converter Using JavaScript]]></title>
-        <id>6a4d27fa9720ba8235700935</id>
-        <link href="https://www.freecodecamp.org/news/build-pdf-ocr-to-text-converter-javascript/"/>
-        <updated>2026-07-07T16:23:22.000Z</updated>
-        <summary type="html"><![CDATA[Not every PDF contains searchable or editable text. Many PDFs are simply scanned images of documents such as invoices, contracts, books, receipts, government forms, and handwritten notes. While these]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Production-Ready Card Components with shadcn/ui]]></title>
-        <id>6a4d22a80e40282fd1e657a8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-production-ready-card-components-with-shadcn-ui/"/>
-        <updated>2026-07-07T16:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Card components are one of the most common UI patterns in web development. You see them in property listing apps, SaaS analytics dashboards, e-commerce product pages, and admin panels. But building a]]></summary>
-        <author>
-            <name>Vaibhav Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agents For Beginners]]></title>
-        <id>6a4d1cb6082a392ccb116b56</id>
-        <link href="https://www.freecodecamp.org/news/ai-agents-for-beginners/"/>
-        <updated>2026-07-07T15:35:18.000Z</updated>
-        <summary type="html"><![CDATA[We just released an in-depth, hands-on video course on the freeCodeCamp.org YouTube channel about AI agents Led by Mumshad Mannambeth, founder of CodeCloud, this full-length course is designed to take]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -329,27 +339,6 @@ There’s no need to include ‘navigation’ in your navigation labels original
         <summary type="html"><![CDATA[We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Memorable Web Experiences: A Modern CSS Toolkit]]></title>
-        <id>https://css-tricks.com/?p=393676</id>
-        <link href="https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/"/>
-        <updated>2026-06-10T13:02:10.000Z</updated>
-        <summary type="html"><![CDATA[There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.
-Creating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mariana Beldi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Benefits Of Cognitive Inclusion In UX Research]]></title>
-        <id>https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/</id>
-        <link href="https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/"/>
-        <updated>2026-06-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kate Kalcevich)</name>
         </author>
     </entry>
 </feed>

@@ -122,7 +122,7 @@
           "description": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\nThe Siren Song of ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/the-siren-song-of-arianotify/",
           "publishedOn": "2026-06-17T15:32:30.000Z",
-          "wordCount": 4675,
+          "wordCount": 4700,
           "title": "The Siren Song of ariaNotify()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/arianotify.jpg"
         },
@@ -170,21 +170,6 @@
           "wordCount": 1790,
           "title": "There’s no need to include ‘navigation’ in your navigation labels",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/stairwaynav.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393676",
-          "author": "Mariana Beldi",
-          "description": "There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.\nCreating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/",
-          "publishedOn": "2026-06-10T13:02:10.000Z",
-          "wordCount": 4151,
-          "title": "Creating Memorable Web Experiences: A Modern CSS Toolkit",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/04/nerd2-f.mp4",
-            "length": "8810169",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/psychedlic-event.webp"
         }
       ]
     },
@@ -193,6 +178,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
+          "author": "hello@smashingmagazine.com (Kat Homan)",
+          "description": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
+          "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
+          "publishedOn": "2026-07-09T15:00:00.000Z",
+          "wordCount": 6770,
+          "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
           "author": "hello@smashingmagazine.com (Zareen Tasnim)",
@@ -229,7 +229,7 @@
           "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
           "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
           "publishedOn": "2026-07-02T10:00:00.000Z",
-          "wordCount": 7072,
+          "wordCount": 7062,
           "title": "Matching AI Modality To User Intent: Designing The Right Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
@@ -259,7 +259,7 @@
           "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
           "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4825,
+          "wordCount": 4821,
           "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
@@ -274,7 +274,7 @@
           "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
           "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
           "publishedOn": "2026-06-16T15:00:00.000Z",
-          "wordCount": 6494,
+          "wordCount": 6490,
           "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -289,7 +289,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4917,
+          "wordCount": 4806,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -297,21 +297,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
-          "author": "hello@smashingmagazine.com (Kate Kalcevich)",
-          "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
-          "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
-          "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5749,
-          "title": "The Benefits Of Cognitive Inclusion In UX Research",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg"
         }
       ]
     },
@@ -320,6 +305,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a4fd5184215fa285003b017",
+          "author": "Rudrendu Paul",
+          "description": "Your LLM product experiment just came back positive, with a promising 8-percentage-point lift in task completion. You ship the feature and leadership celebrates. Three months later, the core metric ha",
+          "link": "https://www.freecodecamp.org/news/uplift-modeling-for-personalized-ai-rollouts-in-python/",
+          "publishedOn": "2026-07-09T17:06:32.000Z",
+          "wordCount": 5716,
+          "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/134c2ea7-4a99-4150-b6c8-a91aa7074e7b.png"
+        },
+        {
+          "id": "6a4fcfbb4eecd9fed2eade13",
+          "author": "Mikhail Golikov",
+          "description": "A Postman collection is a great place to explore an API. But it's a poor place to keep your tests. Most teams find this out the slow way. Someone exports the collection, converts the requests into tes",
+          "link": "https://www.freecodecamp.org/news/how-to-turn-a-postman-collection-into-a-maintainable-pytest-suite/",
+          "publishedOn": "2026-07-09T16:43:39.000Z",
+          "wordCount": 2022,
+          "title": "How to Turn a Postman Collection into a Maintainable pytest Suite",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3c6d0422-3374-4f61-9070-05d73dbbc9fa.png"
+        },
+        {
+          "id": "6a4fcf3f5d702356d3424fd3",
+          "author": "Manish Shivanandhan",
+          "description": "Technology changes faster than almost any other industry. The half-life of technical skills continues to shrink. Frameworks, cloud platforms, AI tooling, and cybersecurity practices evolve so quickly",
+          "link": "https://www.freecodecamp.org/news/how-an-lms-software-helps-technical-teams-upskill-faster/",
+          "publishedOn": "2026-07-09T16:41:35.000Z",
+          "wordCount": 2756,
+          "title": "How an LMS Software Helps Technical Teams Upskill Faster",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1a822fd1-df33-425c-ba3a-a9f3cbddb297.png"
+        },
+        {
+          "id": "6a4fc672a2e4b5543646e329",
+          "author": "Abdurrahman Rajab",
+          "description": "A new type of app is emerging with the development of LLMs and AI-native apps. It lives inside an AI chat (like ChatGPT) rather than being a fully native web or mobile app. In this tutorial, you'll le",
+          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-mcp-server-and-publish-your-chatgpt-app/",
+          "publishedOn": "2026-07-09T16:04:02.000Z",
+          "wordCount": 10413,
+          "title": "How to Build Your Own MCP Server and Publish Your ChatGPT App with Supabase Auth and DigitalOcean",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f7fdd4f8-d0c0-44ee-aaf5-f3277522e32c.png"
+        },
+        {
+          "id": "6a4fb4570140649a4367b476",
+          "author": "Zia Ullah",
+          "description": "The first time I built an API without thinking about roles, I gave every logged-in user the same access. It worked fine until a regular user accidentally hit a delete endpoint and wiped test data. Tha",
+          "link": "https://www.freecodecamp.org/news/role-based-access-control-nodejs-rest-api-jwt/",
+          "publishedOn": "2026-07-09T14:46:47.000Z",
+          "wordCount": 3061,
+          "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d742efbd-8170-4fb6-8851-1f7c6ef9125e.png"
+        },
+        {
+          "id": "6a4edb71b23ba37e305b1825",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "Healthcare data is among the most sensitive data there is. Sending it to a cloud AI service is often not an option because of privacy requirements, regulatory compliance, or both. In this tutorial, yo",
+          "link": "https://www.freecodecamp.org/news/build-your-own-healthcare-ai-assistant-with-medgemma-ollama-and-open-webui/",
+          "publishedOn": "2026-07-08T23:21:21.000Z",
+          "wordCount": 3994,
+          "title": "Build Your Own Healthcare AI Assistant with MedGemma, Ollama, and Open WebUI",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c6e53c46-ca40-4f4a-87e9-a925c85963d6.png"
+        },
+        {
+          "id": "6a4edab93c79e045fc05e216",
+          "author": "Manish Shivanandhan",
+          "description": "For years, the promise of AI-assisted development felt just out of reach for WordPress developers. You could ask a chatbot to generate a block of PHP, paste it into your editor, run into a conflict, c",
+          "link": "https://www.freecodecamp.org/news/how-mcp-is-changing-wordpress-development/",
+          "publishedOn": "2026-07-08T23:18:17.000Z",
+          "wordCount": 2636,
+          "title": "How MCP Is Changing WordPress Development",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cb5c1178-1f7e-4a1c-8624-9050a49c4a69.png"
+        },
         {
           "id": "6a4e9d5a4324feb8efb80026",
           "author": "Darsh Shah",
@@ -349,76 +404,6 @@
           "wordCount": 3834,
           "title": "How to Fix App Jank: A Practical Guide to Profiling Flutter Apps with DevTools",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0e682286-437e-4394-905e-0d531c084889.png"
-        },
-        {
-          "id": "6a4e5ea3911c94446d1e5604",
-          "author": "Beau Carnes",
-          "description": "We've just released a new full-length tutorial on the freeCodeCamp.org YouTube channel that will teach you how to use TypeScript with React. If you’ve been building React apps but feeling like you’re",
-          "link": "https://www.freecodecamp.org/news/level-up-your-react-skills-with-typescript/",
-          "publishedOn": "2026-07-08T14:28:51.000Z",
-          "wordCount": 1084,
-          "title": "Level Up Your React Skills with Typescript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/cf080e29-66d5-4aeb-bac5-57aa58f95bec.jpg"
-        },
-        {
-          "id": "6a4e5931809a1766583744cd",
-          "author": "Beau Carnes",
-          "description": "We’ve been experimenting with a new style of content on the freeCodeCamp YouTube channel: the video essay. These projects allow us to step back from the code tutorials to explore the massive, complex",
-          "link": "https://www.freecodecamp.org/news/why-does-the-internet-keep-breaking-a-deep-dive-into-aws-us-east-1/",
-          "publishedOn": "2026-07-08T14:05:37.000Z",
-          "wordCount": 1110,
-          "title": "Why Does the Internet Keep Breaking? A Deep Dive into AWS US-East-1",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/c3810468-6637-43b4-be7c-0d856a5a853e.png"
-        },
-        {
-          "id": "6a4d7406fde50672308c3931",
-          "author": "Destiny Erhabor",
-          "description": "Your network policy says: allow traffic from 10.0.1.45. Yesterday, 10.0.1.45 was your payment service. Today, after a rolling deployment, it's your logging agent. Your payment service is now at 10.0.1",
-          "link": "https://www.freecodecamp.org/news/implement-zero-trust-workload-identity-in-kubernetes-with-spiffe-spire-and-cilium/",
-          "publishedOn": "2026-07-07T21:47:50.000Z",
-          "wordCount": 5278,
-          "title": "How to Implement Zero-Trust Workload Identity in Kubernetes with SPIFFE, SPIRE, and Cilium",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4e87cffb-7972-4dcd-a705-480154778907.png"
-        },
-        {
-          "id": "6a4d5cdbbf3f75f8ee1042e5",
-          "author": "Darsh Shah",
-          "description": "In this tutorial, I'll show you how to build a local AI agent with tool calling and short-term memory using LangChain v1, Ollama, Qwen, and Python. The agent decides on its own when to call tools, and",
-          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-local-ai-agent-with-tool-calling-and-memory/",
-          "publishedOn": "2026-07-07T20:08:59.000Z",
-          "wordCount": 2981,
-          "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7c284bf8-1dd8-40e3-9ff5-4ec4c8f97948.png"
-        },
-        {
-          "id": "6a4d27fa9720ba8235700935",
-          "author": "Bhavin Sheth",
-          "description": "Not every PDF contains searchable or editable text. Many PDFs are simply scanned images of documents such as invoices, contracts, books, receipts, government forms, and handwritten notes. While these",
-          "link": "https://www.freecodecamp.org/news/build-pdf-ocr-to-text-converter-javascript/",
-          "publishedOn": "2026-07-07T16:23:22.000Z",
-          "wordCount": 5125,
-          "title": "How to Build a Browser-Based PDF OCR to Text Converter Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ba3a97e6-1829-4062-acef-9d05eaa14c34.png"
-        },
-        {
-          "id": "6a4d22a80e40282fd1e657a8",
-          "author": "Vaibhav Gupta",
-          "description": "Card components are one of the most common UI patterns in web development. You see them in property listing apps, SaaS analytics dashboards, e-commerce product pages, and admin panels. But building a",
-          "link": "https://www.freecodecamp.org/news/how-to-build-production-ready-card-components-with-shadcn-ui/",
-          "publishedOn": "2026-07-07T16:00:40.000Z",
-          "wordCount": 4889,
-          "title": "How to Build Production-Ready Card Components with shadcn/ui",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1efc2e2c-00a5-4891-9845-18de2a38c5f1.png"
-        },
-        {
-          "id": "6a4d1cb6082a392ccb116b56",
-          "author": "Beau Carnes",
-          "description": "We just released an in-depth, hands-on video course on the freeCodeCamp.org YouTube channel about AI agents Led by Mumshad Mannambeth, founder of CodeCloud, this full-length course is designed to take",
-          "link": "https://www.freecodecamp.org/news/ai-agents-for-beginners/",
-          "publishedOn": "2026-07-07T15:35:18.000Z",
-          "wordCount": 1113,
-          "title": "AI Agents For Beginners",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/3f4489bc-205b-4362-bbc4-cde818235bec.jpg"
         }
       ]
     }
