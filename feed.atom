@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-10T03:57:13.422Z</id>
+    <id>urn:2026-07-11T03:23:48.088Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-10T03:57:13.422Z</updated>
+    <updated>2026-07-11T03:23:48.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction]]></title>
+        <id>https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/</id>
+        <link href="https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/"/>
+        <updated>2026-07-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Anastasia Sycheva)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)]]></title>
         <id>6a4fd5184215fa285003b017</id>
