@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-11T03:23:48.088Z</id>
+    <id>urn:2026-07-12T03:35:39.939Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-11T03:23:48.088Z</updated>
+    <updated>2026-07-12T03:35:39.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -317,38 +317,6 @@ Prop For That originally handwritten and published with love on CSS-Tricks. You 
 What’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Isn’t My 3D View Transition Working?]]></title>
-        <id>https://css-tricks.com/?p=395594</id>
-        <link href="https://css-tricks.com/why-isnt-my-3d-view-transition-working/"/>
-        <updated>2026-06-12T15:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.
-Why Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There’s no need to include ‘navigation’ in your navigation labels]]></title>
-        <id>https://css-tricks.com/?p=395744</id>
-        <link href="https://css-tricks.com/navigation-in-your-navigation-labels/"/>
-        <updated>2026-06-12T15:08:38.000Z</updated>
-        <summary type="html"><![CDATA[One of those nuances to keep in your back pocket when writing for screen readers.
-There’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Impact Of Humanoid Robots On Humanity]]></title>
-        <id>https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/</id>
-        <link href="https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"/>
-        <updated>2026-06-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carrie Webster)</name>
         </author>
     </entry>
 </feed>
