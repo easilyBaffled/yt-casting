@@ -159,7 +159,7 @@
           "description": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
           "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
           "publishedOn": "2026-07-10T13:00:00.000Z",
-          "wordCount": 5410,
+          "wordCount": 5404,
           "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
@@ -174,7 +174,7 @@
           "description": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
           "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
           "publishedOn": "2026-07-09T15:00:00.000Z",
-          "wordCount": 6765,
+          "wordCount": 6763,
           "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
@@ -219,7 +219,7 @@
           "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
           "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
           "publishedOn": "2026-07-02T10:00:00.000Z",
-          "wordCount": 7069,
+          "wordCount": 7065,
           "title": "Matching AI Modality To User Intent: Designing The Right Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
@@ -249,7 +249,7 @@
           "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
           "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4817,
+          "wordCount": 4819,
           "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
@@ -264,7 +264,7 @@
           "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
           "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
           "publishedOn": "2026-06-16T15:00:00.000Z",
-          "wordCount": 6496,
+          "wordCount": 6498,
           "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -280,6 +280,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a555a585f978e5aa7071985",
+          "author": "Darsh Shah",
+          "description": "Most AI agents are reactive as they wait for us to ask something. In this tutorial, I'll show you how to build local AI assistants that run on a schedule, handle the tasks you care about, and generate",
+          "link": "https://www.freecodecamp.org/news/how-to-build-and-schedule-local-ai-assistants-for-daily-tasks/",
+          "publishedOn": "2026-07-13T21:36:24.000Z",
+          "wordCount": 2943,
+          "title": "How to Build and Schedule Local AI Assistants for Daily Tasks",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/67ad144a-050e-4d98-a7c3-9f0a2c9b5648.png"
+        },
+        {
+          "id": "6a54f638437d4490d700b9ab",
+          "author": "Gopinath Karunanithi",
+          "description": "Generative AI agents are transforming .NET development by helping developers automate repetitive coding tasks, generate unit tests, assist with debugging, document code, and accelerate CI/CD workflows",
+          "link": "https://www.freecodecamp.org/news/how-to-integrate-ai-agents-in-net-environments-for-faster-development/",
+          "publishedOn": "2026-07-13T14:29:12.000Z",
+          "wordCount": 4879,
+          "title": "How to Integrate AI Agents in .NET Environments for Faster Development",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/741190c8-d0c0-4a6d-a616-d3a7d72085d1.png"
+        },
+        {
+          "id": "6a54f29d91d656f74f1f4a21",
+          "author": "Vaibhav Gupta",
+          "description": "A Sheet is a panel that slides in from the edge of the screen instead of popping up in the center like a modal. You've likely used one when you've opened a shopping cart on an e-commerce site or tappe",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-shadcn-sheet-component-in-react-cart-and-filter-panel-examples/",
+          "publishedOn": "2026-07-13T14:13:49.000Z",
+          "wordCount": 3457,
+          "title": "How to Build a Shadcn Sheet Component in React: Cart and Filter Panel Examples",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/958cd73a-253a-4a48-b83c-5a5d52420b88.png"
+        },
+        {
+          "id": "6a54f26925b48b98bd11b23e",
+          "author": "Bhavin Sheth",
+          "description": "PDF files are widely used for sharing documents because they preserve formatting across different devices. Many PDFs contain valuable images such as logos, product photos, charts, diagrams, illustrati",
+          "link": "https://www.freecodecamp.org/news/build-pdf-image-extractor-javascript/",
+          "publishedOn": "2026-07-13T14:12:57.000Z",
+          "wordCount": 5352,
+          "title": "How to Build a Browser-Based PDF Image Extractor Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e8926aef-8f78-4f09-92f1-7bbb7beb8b68.png"
+        },
         {
           "id": "6a4fd5184215fa285003b017",
           "author": "Rudrendu Paul",
@@ -326,7 +366,7 @@
           "description": "The first time I built an API without thinking about roles, I gave every logged-in user the same access. It worked fine until a regular user accidentally hit a delete endpoint and wiped test data. Tha",
           "link": "https://www.freecodecamp.org/news/role-based-access-control-nodejs-rest-api-jwt/",
           "publishedOn": "2026-07-09T14:46:47.000Z",
-          "wordCount": 3061,
+          "wordCount": 3078,
           "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d742efbd-8170-4fb6-8851-1f7c6ef9125e.png"
         },
@@ -339,46 +379,6 @@
           "wordCount": 3994,
           "title": "Build Your Own Healthcare AI Assistant with MedGemma, Ollama, and Open WebUI",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c6e53c46-ca40-4f4a-87e9-a925c85963d6.png"
-        },
-        {
-          "id": "6a4edab93c79e045fc05e216",
-          "author": "Manish Shivanandhan",
-          "description": "For years, the promise of AI-assisted development felt just out of reach for WordPress developers. You could ask a chatbot to generate a block of PHP, paste it into your editor, run into a conflict, c",
-          "link": "https://www.freecodecamp.org/news/how-mcp-is-changing-wordpress-development/",
-          "publishedOn": "2026-07-08T23:18:17.000Z",
-          "wordCount": 2636,
-          "title": "How MCP Is Changing WordPress Development",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cb5c1178-1f7e-4a1c-8624-9050a49c4a69.png"
-        },
-        {
-          "id": "6a4e9d5a4324feb8efb80026",
-          "author": "Darsh Shah",
-          "description": "In this tutorial, I'll show you how to build an MCP server with FastMCP, connect your local AI agent to use tools from the local MCP server that you built, and add support for remote MCP servers. We'l",
-          "link": "https://www.freecodecamp.org/news/build-an-mcp-server-with-fastmcp-for-local-ai-agent/",
-          "publishedOn": "2026-07-08T18:56:26.000Z",
-          "wordCount": 2957,
-          "title": "How to Build an MCP Server with FastMCP for Your Local AI Agent",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0e20e6a5-386d-4fba-8871-40e02554aeaf.png"
-        },
-        {
-          "id": "6a4e9d39cf634d0e556a13ac",
-          "author": "Mohammed Fahd Abrah",
-          "description": "When Chain-of-Thought Prompting was introduced, it showed that large language models could solve many difficult reasoning problems simply by thinking step by step before producing an answer. It was a",
-          "link": "https://www.freecodecamp.org/news/ai-paper-review-self-consistency-improves-chain-of-thought-reasoning-in-language-models/",
-          "publishedOn": "2026-07-08T18:55:53.000Z",
-          "wordCount": 6155,
-          "title": "AI Paper Review: Self-Consistency Improves Chain of Thought Reasoning in Language Models",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b4b96781-1c51-4661-9b29-2668e5ea8518.png"
-        },
-        {
-          "id": "6a4e7117b685410081a33577",
-          "author": "Gidudu Nicholas",
-          "description": "Flutter makes it fast to build beautiful UIs. That speed is one of the framework's greatest strengths, but it also creates a subtle problem: performance issues are easy to introduce and difficult to f",
-          "link": "https://www.freecodecamp.org/news/how-to-fix-app-jank-profiling-flutter-apps-with-devtools/",
-          "publishedOn": "2026-07-08T15:47:35.000Z",
-          "wordCount": 3834,
-          "title": "How to Fix App Jank: A Practical Guide to Profiling Flutter Apps with DevTools",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0e682286-437e-4394-905e-0d531c084889.png"
         }
       ]
     }

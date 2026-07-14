@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-13T03:37:55.774Z</id>
+    <id>urn:2026-07-14T03:13:52.784Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-13T03:37:55.774Z</updated>
+    <updated>2026-07-14T03:13:52.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Schedule Local AI Assistants for Daily Tasks]]></title>
+        <id>6a555a585f978e5aa7071985</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-and-schedule-local-ai-assistants-for-daily-tasks/"/>
+        <updated>2026-07-13T21:36:24.000Z</updated>
+        <summary type="html"><![CDATA[Most AI agents are reactive as they wait for us to ask something. In this tutorial, I'll show you how to build local AI assistants that run on a schedule, handle the tasks you care about, and generate]]></summary>
+        <author>
+            <name>Darsh Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate AI Agents in .NET Environments for Faster Development]]></title>
+        <id>6a54f638437d4490d700b9ab</id>
+        <link href="https://www.freecodecamp.org/news/how-to-integrate-ai-agents-in-net-environments-for-faster-development/"/>
+        <updated>2026-07-13T14:29:12.000Z</updated>
+        <summary type="html"><![CDATA[Generative AI agents are transforming .NET development by helping developers automate repetitive coding tasks, generate unit tests, assist with debugging, document code, and accelerate CI/CD workflows]]></summary>
+        <author>
+            <name>Gopinath Karunanithi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Shadcn Sheet Component in React: Cart and Filter Panel Examples]]></title>
+        <id>6a54f29d91d656f74f1f4a21</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-shadcn-sheet-component-in-react-cart-and-filter-panel-examples/"/>
+        <updated>2026-07-13T14:13:49.000Z</updated>
+        <summary type="html"><![CDATA[A Sheet is a panel that slides in from the edge of the screen instead of popping up in the center like a modal. You've likely used one when you've opened a shopping cart on an e-commerce site or tappe]]></summary>
+        <author>
+            <name>Vaibhav Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Image Extractor Using JavaScript]]></title>
+        <id>6a54f26925b48b98bd11b23e</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-image-extractor-javascript/"/>
+        <updated>2026-07-13T14:12:57.000Z</updated>
+        <summary type="html"><![CDATA[PDF files are widely used for sharing documents because they preserve formatting across different devices. Many PDFs contain valuable images such as logos, product photos, charts, diagrams, illustrati]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction]]></title>
         <id>https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/</id>
@@ -83,46 +123,6 @@
         <summary type="html"><![CDATA[Healthcare data is among the most sensitive data there is. Sending it to a cloud AI service is often not an option because of privacy requirements, regulatory compliance, or both. In this tutorial, yo]]></summary>
         <author>
             <name>Lakshmi Mahabaleshwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How MCP Is Changing WordPress Development]]></title>
-        <id>6a4edab93c79e045fc05e216</id>
-        <link href="https://www.freecodecamp.org/news/how-mcp-is-changing-wordpress-development/"/>
-        <updated>2026-07-08T23:18:17.000Z</updated>
-        <summary type="html"><![CDATA[For years, the promise of AI-assisted development felt just out of reach for WordPress developers. You could ask a chatbot to generate a block of PHP, paste it into your editor, run into a conflict, c]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an MCP Server with FastMCP for Your Local AI Agent]]></title>
-        <id>6a4e9d5a4324feb8efb80026</id>
-        <link href="https://www.freecodecamp.org/news/build-an-mcp-server-with-fastmcp-for-local-ai-agent/"/>
-        <updated>2026-07-08T18:56:26.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, I'll show you how to build an MCP server with FastMCP, connect your local AI agent to use tools from the local MCP server that you built, and add support for remote MCP servers. We'l]]></summary>
-        <author>
-            <name>Darsh Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Paper Review: Self-Consistency Improves Chain of Thought Reasoning in Language Models]]></title>
-        <id>6a4e9d39cf634d0e556a13ac</id>
-        <link href="https://www.freecodecamp.org/news/ai-paper-review-self-consistency-improves-chain-of-thought-reasoning-in-language-models/"/>
-        <updated>2026-07-08T18:55:53.000Z</updated>
-        <summary type="html"><![CDATA[When Chain-of-Thought Prompting was introduced, it showed that large language models could solve many difficult reasoning problems simply by thinking step by step before producing an answer. It was a]]></summary>
-        <author>
-            <name>Mohammed Fahd Abrah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix App Jank: A Practical Guide to Profiling Flutter Apps with DevTools]]></title>
-        <id>6a4e7117b685410081a33577</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fix-app-jank-profiling-flutter-apps-with-devtools/"/>
-        <updated>2026-07-08T15:47:35.000Z</updated>
-        <summary type="html"><![CDATA[Flutter makes it fast to build beautiful UIs. That speed is one of the framework's greatest strengths, but it also creates a subtle problem: performance issues are easy to introduce and difficult to f]]></summary>
-        <author>
-            <name>Gidudu Nicholas</name>
         </author>
     </entry>
     <entry>
