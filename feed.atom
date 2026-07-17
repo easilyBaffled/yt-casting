@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-16T03:19:32.608Z</id>
+    <id>urn:2026-07-17T03:22:31.940Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-16T03:19:32.608Z</updated>
+    <updated>2026-07-17T03:22:31.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Beginner's Guide to Python: Hands-On Projects to Get You Coding]]></title>
+        <id>6a58c2ecce2d9571ce9c8a00</id>
+        <link href="https://www.freecodecamp.org/news/a-beginner-s-guide-to-python-hands-on-projects-to-get-you-coding/"/>
+        <updated>2026-07-16T11:39:24.000Z</updated>
+        <summary type="html"><![CDATA[Have you been wanting to learn how to code but found it a bit too overwhelming or confusing? We just published a brand new course on the freeCodeCamp.org YouTube channel that is designed specifically]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intro to Shaders: JavaScript and p5.js Course for Beginners]]></title>
+        <id>6a58c1f600ad718fe90bfe7d</id>
+        <link href="https://www.freecodecamp.org/news/intro-to-shaders-javascript-and-p5-js-course-for-beginners/"/>
+        <updated>2026-07-16T11:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to unlock the true rendering power of your computer and create breathtaking visuals? We just published a new course on the freeCodeCamp.org YouTube channel that will teach you the fundam]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Full-Stack Mobile Development with React Native]]></title>
+        <id>6a58c1695b624eb755f699d2</id>
+        <link href="https://www.freecodecamp.org/news/master-full-stack-mobile-development-with-react-native/"/>
+        <updated>2026-07-16T11:32:57.000Z</updated>
+        <summary type="html"><![CDATA[Do you want to get into mobile development and build cross-platform applications? We just published a comprehensive new course on the freeCodeCamp.org YouTube channel that will teach you how to build]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Dijkstra's Algorithm]]></title>
+        <id>6a58c0ae78ff326927bcf6bc</id>
+        <link href="https://www.freecodecamp.org/news/understanding-dijkstra-s-algorithm/"/>
+        <updated>2026-07-16T11:29:50.000Z</updated>
+        <summary type="html"><![CDATA[In 1956, a young programmer was taking his girlfriend shopping in Amsterdam. Feeling tired, they sat down at a cafe terrace for a cup of coffee. In the 20 minutes it took to finish their drinks, he co]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fix Common Web Application Security Vulnerabilities in Node.js]]></title>
+        <id>6a581c65dba34eeb664be8e2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-fix-common-web-application-security-vulnerabilities-in-node-js/"/>
+        <updated>2026-07-15T23:48:53.000Z</updated>
+        <summary type="html"><![CDATA[Here's something that tends to surprise developers who are new to security: most web vulnerabilities aren't the result of sophisticated attacks. They come from code patterns that look completely reaso]]></summary>
+        <author>
+            <name>Hackita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[pointer-events]]></title>
         <id>http://css-tricks.com/?page_id=18170</id>
@@ -71,7 +121,7 @@ pointer-events originally handwritten and published with love on CSS-Tricks. You
         <id>https://css-tricks.com/?p=396027</id>
         <link href="https://css-tricks.com/whats-important-15/"/>
         <updated>2026-07-15T14:36:18.000Z</updated>
-        <summary type="html"><![CDATA[Similar to last time, What’s !important #15 is pretty stacked — read all about boundary-aware CSS, making grid lanes accessible, creating time-based web designs, fixing full-bleed CSS, improving customizable select, new web platform features, and more.
+        <summary type="html"><![CDATA[Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.
 What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
@@ -85,56 +135,6 @@ What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and
         <summary type="html"><![CDATA[Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your First Multi-Agent AI System in Python and LangGraph]]></title>
-        <id>6a56aae87d9abc1d26c20a73</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-your-first-multi-agent-ai-system-in-python-and-langgraph/"/>
-        <updated>2026-07-14T21:32:24.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, I'll show you how to build a multi-agent AI system in Python with no orchestration framework. We'll also implement this in LangGraph with nodes, edges, and shared state. The point of]]></summary>
-        <author>
-            <name>Darsh Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions]]></title>
-        <id>6a569b9cbd138d774dee2042</id>
-        <link href="https://www.freecodecamp.org/news/containerize-a-node-js-app-with-docker-and-deploy-with-github-actions/"/>
-        <updated>2026-07-14T20:27:08.000Z</updated>
-        <summary type="html"><![CDATA[If you've been building Node.js projects, you've probably had an experience like this. The project runs fine on your machine, but when you push it to a server, something breaks. Maybe it's a different]]></summary>
-        <author>
-            <name>Zia Ullah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Deep Dive into Gabeldorsche: The Bluetooth Stack Android Rebuilt on Purpose]]></title>
-        <id>6a5660e4c55512c39277bc80</id>
-        <link href="https://www.freecodecamp.org/news/a-deep-dive-into-gabeldorsche-the-bluetooth-stack-android-rebuilt-on-purpose/"/>
-        <updated>2026-07-14T16:16:36.000Z</updated>
-        <summary type="html"><![CDATA[The Android Bluetooth stack spent about a decade being the reason your headphones disconnected during the good part of a song. Gabeldorsche is Google's attempt to fix that at the architectural level,]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Analyze Insider Transactions with Python: A CEO Buying Case Study]]></title>
-        <id>6a5660b53fc8b1266f8c07a5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-analyze-insider-transactions-with-python-a-ceo-buying-case-study/"/>
-        <updated>2026-07-14T16:15:49.000Z</updated>
-        <summary type="html"><![CDATA[When a CEO buys shares after their company’s stock has fallen hard, it's tempting to read the purchase as a vote of confidence. The person running the business knows more than the average investor, so]]></summary>
-        <author>
-            <name>Nikhil Adithyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The React Native Live Activities Handbook: How to Build iOS Live Activities and Android 16 Live Updates]]></title>
-        <id>6a565e929f58169e255198d4</id>
-        <link href="https://www.freecodecamp.org/news/react-native-live-activities-handbook/"/>
-        <updated>2026-07-14T16:06:42.000Z</updated>
-        <summary type="html"><![CDATA[A Live Activity is the card that sits on your lock screen while a delivery rider approaches, updating itself without you opening the app. Apple shipped the API in iOS 16.1. Google shipped its own vers]]></summary>
-        <author>
-            <name>Farouq Seriki</name>
         </author>
     </entry>
     <entry>
@@ -317,17 +317,6 @@ A First Look at Scroll-Triggered Animations originally handwritten and published
 The Siren Song of ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Mat Marquis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prop For That]]></title>
-        <id>https://css-tricks.com/?p=395776</id>
-        <link href="https://css-tricks.com/prop-for-that/"/>
-        <updated>2026-06-16T18:36:25.000Z</updated>
-        <summary type="html"><![CDATA[Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.
-Prop For That originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>

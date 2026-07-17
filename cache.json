@@ -17,17 +17,17 @@
           "description": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …\npointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
           "publishedOn": "2026-07-15T19:57:51.000Z",
-          "wordCount": 5118,
+          "wordCount": 5128,
           "title": "pointer-events",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
         },
         {
           "id": "https://css-tricks.com/?p=396027",
           "author": "Daniel Schwarz",
-          "description": "Similar to last time, What’s !important #15 is pretty stacked — read all about boundary-aware CSS, making grid lanes accessible, creating time-based web designs, fixing full-bleed CSS, improving customizable select, new web platform features, and more.\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "description": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-15/",
           "publishedOn": "2026-07-15T14:36:18.000Z",
-          "wordCount": 2461,
+          "wordCount": 2455,
           "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/07/3.mp4",
@@ -42,7 +42,7 @@
           "description": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\nGet Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
           "publishedOn": "2026-07-07T15:14:00.000Z",
-          "wordCount": 3875,
+          "wordCount": 3885,
           "title": "Get Ready For the Powerful CSS border-shape Property!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
         },
@@ -52,7 +52,7 @@
           "description": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\nWhat’s !important #14: Gap Decorations, random(), <select> field-sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-14/",
           "publishedOn": "2026-06-30T13:54:14.000Z",
-          "wordCount": 2699,
+          "wordCount": 2709,
           "title": "What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/06/3.mp4",
@@ -67,7 +67,7 @@
           "description": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically listens for.\nThe Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-states-and-javascript-events/",
           "publishedOn": "2026-06-29T13:03:32.000Z",
-          "wordCount": 3775,
+          "wordCount": 3785,
           "title": "The Shifting Line Between CSS States and JavaScript Events",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/state-management.jpg"
         },
@@ -77,7 +77,7 @@
           "description": "The translateZ() function moves an element closer to or farther from the user. \ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/t/translatez/",
           "publishedOn": "2026-06-25T13:18:56.000Z",
-          "wordCount": 3271,
+          "wordCount": 3281,
           "title": "translateZ()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -87,7 +87,7 @@
           "description": "The translateY() function shifts an element vertically by the specified amount. \ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/t/translatey/",
           "publishedOn": "2026-06-25T13:17:56.000Z",
-          "wordCount": 3146,
+          "wordCount": 3156,
           "title": "translateY()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -97,7 +97,7 @@
           "description": "The translateX() function shifts an element horizontally by the specified amount. \ntranslateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/t/translatex/",
           "publishedOn": "2026-06-25T13:16:01.000Z",
-          "wordCount": 3360,
+          "wordCount": 3370,
           "title": "translateX()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -107,7 +107,7 @@
           "description": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane\ntranslate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/t/translate/",
           "publishedOn": "2026-06-25T13:15:05.000Z",
-          "wordCount": 3232,
+          "wordCount": 3242,
           "title": "translate()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -117,7 +117,7 @@
           "description": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fallback\nNote: This …\nUsing Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
           "publishedOn": "2026-06-22T12:39:13.000Z",
-          "wordCount": 3684,
+          "wordCount": 3694,
           "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/05/opposing-scrolling-logos.mov",
@@ -132,7 +132,7 @@
           "description": "Let's poke at the differences between scroll-driven and scroll-triggered animations.\nA First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
           "publishedOn": "2026-06-19T13:03:17.000Z",
-          "wordCount": 3723,
+          "wordCount": 3733,
           "title": "A First Look at Scroll-Triggered Animations",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/04/1-1.mp4",
@@ -147,19 +147,9 @@
           "description": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\nThe Siren Song of ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/the-siren-song-of-arianotify/",
           "publishedOn": "2026-06-17T15:32:30.000Z",
-          "wordCount": 4700,
+          "wordCount": 4710,
           "title": "The Siren Song of ariaNotify()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/arianotify.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395776",
-          "author": "Geoff Graham",
-          "description": "Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.\nProp For That originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/prop-for-that/",
-          "publishedOn": "2026-06-16T18:36:25.000Z",
-          "wordCount": 1881,
-          "title": "Prop For That",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/prop-for-that-masthead.png"
         }
       ]
     },
@@ -189,7 +179,7 @@
           "description": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
           "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
           "publishedOn": "2026-07-10T13:00:00.000Z",
-          "wordCount": 5402,
+          "wordCount": 5514,
           "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
@@ -204,7 +194,7 @@
           "description": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
           "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
           "publishedOn": "2026-07-09T15:00:00.000Z",
-          "wordCount": 6766,
+          "wordCount": 6769,
           "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
@@ -249,7 +239,7 @@
           "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
           "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
           "publishedOn": "2026-07-02T10:00:00.000Z",
-          "wordCount": 7057,
+          "wordCount": 7060,
           "title": "Matching AI Modality To User Intent: Designing The Right Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
@@ -279,7 +269,7 @@
           "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
           "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4826,
+          "wordCount": 4815,
           "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
@@ -295,6 +285,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a58c2ecce2d9571ce9c8a00",
+          "author": "Beau Carnes",
+          "description": "Have you been wanting to learn how to code but found it a bit too overwhelming or confusing? We just published a brand new course on the freeCodeCamp.org YouTube channel that is designed specifically",
+          "link": "https://www.freecodecamp.org/news/a-beginner-s-guide-to-python-hands-on-projects-to-get-you-coding/",
+          "publishedOn": "2026-07-16T11:39:24.000Z",
+          "wordCount": 1130,
+          "title": "A Beginner's Guide to Python: Hands-On Projects to Get You Coding",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/11759acb-ceeb-43b9-9b10-8abe0bba7590.jpg"
+        },
+        {
+          "id": "6a58c1f600ad718fe90bfe7d",
+          "author": "Beau Carnes",
+          "description": "Are you ready to unlock the true rendering power of your computer and create breathtaking visuals? We just published a new course on the freeCodeCamp.org YouTube channel that will teach you the fundam",
+          "link": "https://www.freecodecamp.org/news/intro-to-shaders-javascript-and-p5-js-course-for-beginners/",
+          "publishedOn": "2026-07-16T11:35:18.000Z",
+          "wordCount": 1127,
+          "title": "Intro to Shaders: JavaScript and p5.js Course for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/bfb3c226-4906-49bb-9a6b-c75652ec147e.jpg"
+        },
+        {
+          "id": "6a58c1695b624eb755f699d2",
+          "author": "Beau Carnes",
+          "description": "Do you want to get into mobile development and build cross-platform applications? We just published a comprehensive new course on the freeCodeCamp.org YouTube channel that will teach you how to build",
+          "link": "https://www.freecodecamp.org/news/master-full-stack-mobile-development-with-react-native/",
+          "publishedOn": "2026-07-16T11:32:57.000Z",
+          "wordCount": 1143,
+          "title": "Master Full-Stack Mobile Development with React Native",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/823b7020-e45c-499e-99d2-d7324fbb2533.jpg"
+        },
+        {
+          "id": "6a58c0ae78ff326927bcf6bc",
+          "author": "Beau Carnes",
+          "description": "In 1956, a young programmer was taking his girlfriend shopping in Amsterdam. Feeling tired, they sat down at a cafe terrace for a cup of coffee. In the 20 minutes it took to finish their drinks, he co",
+          "link": "https://www.freecodecamp.org/news/understanding-dijkstra-s-algorithm/",
+          "publishedOn": "2026-07-16T11:29:50.000Z",
+          "wordCount": 1234,
+          "title": "Understanding Dijkstra's Algorithm",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e02f5472-4cdc-428e-a0ae-e3e71ed17bcb.png"
+        },
+        {
+          "id": "6a581c65dba34eeb664be8e2",
+          "author": "Hackita",
+          "description": "Here's something that tends to surprise developers who are new to security: most web vulnerabilities aren't the result of sophisticated attacks. They come from code patterns that look completely reaso",
+          "link": "https://www.freecodecamp.org/news/how-to-fix-common-web-application-security-vulnerabilities-in-node-js/",
+          "publishedOn": "2026-07-15T23:48:53.000Z",
+          "wordCount": 4536,
+          "title": "How to Fix Common Web Application Security Vulnerabilities in Node.js",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b2ec81b6-d6eb-41f0-9fa5-7570914ef97d.png"
+        },
         {
           "id": "6a57cee36dcb86f0029afe5f",
           "author": "Manish Shivanandhan",
@@ -344,56 +384,6 @@
           "wordCount": 6374,
           "title": "AI Paper Review: Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4588c233-fd5f-4a51-86e8-79784b629fb4.png"
-        },
-        {
-          "id": "6a56aae87d9abc1d26c20a73",
-          "author": "Darsh Shah",
-          "description": "In this tutorial, I'll show you how to build a multi-agent AI system in Python with no orchestration framework. We'll also implement this in LangGraph with nodes, edges, and shared state. The point of",
-          "link": "https://www.freecodecamp.org/news/how-to-build-your-first-multi-agent-ai-system-in-python-and-langgraph/",
-          "publishedOn": "2026-07-14T21:32:24.000Z",
-          "wordCount": 3180,
-          "title": "How to Build Your First Multi-Agent AI System in Python and LangGraph",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e31f27b0-dc4a-4a64-98d7-eca151b738ce.png"
-        },
-        {
-          "id": "6a569b9cbd138d774dee2042",
-          "author": "Zia Ullah",
-          "description": "If you've been building Node.js projects, you've probably had an experience like this. The project runs fine on your machine, but when you push it to a server, something breaks. Maybe it's a different",
-          "link": "https://www.freecodecamp.org/news/containerize-a-node-js-app-with-docker-and-deploy-with-github-actions/",
-          "publishedOn": "2026-07-14T20:27:08.000Z",
-          "wordCount": 3743,
-          "title": "How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/343864e6-5319-4378-a2b1-4955e38ad6d8.png"
-        },
-        {
-          "id": "6a5660e4c55512c39277bc80",
-          "author": "Nikheel Vishwas Savant",
-          "description": "The Android Bluetooth stack spent about a decade being the reason your headphones disconnected during the good part of a song. Gabeldorsche is Google's attempt to fix that at the architectural level,",
-          "link": "https://www.freecodecamp.org/news/a-deep-dive-into-gabeldorsche-the-bluetooth-stack-android-rebuilt-on-purpose/",
-          "publishedOn": "2026-07-14T16:16:36.000Z",
-          "wordCount": 8893,
-          "title": "A Deep Dive into Gabeldorsche: The Bluetooth Stack Android Rebuilt on Purpose",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f25fd623-83c1-44fa-abc5-7100ca07af0c.png"
-        },
-        {
-          "id": "6a5660b53fc8b1266f8c07a5",
-          "author": "Nikhil Adithyan",
-          "description": "When a CEO buys shares after their company’s stock has fallen hard, it's tempting to read the purchase as a vote of confidence. The person running the business knows more than the average investor, so",
-          "link": "https://www.freecodecamp.org/news/how-to-analyze-insider-transactions-with-python-a-ceo-buying-case-study/",
-          "publishedOn": "2026-07-14T16:15:49.000Z",
-          "wordCount": 6902,
-          "title": "How to Analyze Insider Transactions with Python: A CEO Buying Case Study",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6ec83342-4382-4daf-99b7-2afef1cdf3f2.png"
-        },
-        {
-          "id": "6a565e929f58169e255198d4",
-          "author": "Farouq Seriki",
-          "description": "A Live Activity is the card that sits on your lock screen while a delivery rider approaches, updating itself without you opening the app. Apple shipped the API in iOS 16.1. Google shipped its own vers",
-          "link": "https://www.freecodecamp.org/news/react-native-live-activities-handbook/",
-          "publishedOn": "2026-07-14T16:06:42.000Z",
-          "wordCount": 14330,
-          "title": "The React Native Live Activities Handbook: How to Build iOS Live Activities and Android 16 Live Updates",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/542a6607-0c73-4dbf-822e-d72d2325ef7a.png"
         }
       ]
     }
