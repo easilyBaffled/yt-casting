@@ -17,7 +17,7 @@
           "description": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …\npointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
           "publishedOn": "2026-07-15T19:57:51.000Z",
-          "wordCount": 5128,
+          "wordCount": 4972,
           "title": "pointer-events",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
         },
@@ -27,7 +27,7 @@
           "description": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-15/",
           "publishedOn": "2026-07-15T14:36:18.000Z",
-          "wordCount": 2455,
+          "wordCount": 2376,
           "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/07/3.mp4",
@@ -42,7 +42,7 @@
           "description": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\nGet Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
           "publishedOn": "2026-07-07T15:14:00.000Z",
-          "wordCount": 3885,
+          "wordCount": 3729,
           "title": "Get Ready For the Powerful CSS border-shape Property!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
         },
@@ -52,7 +52,7 @@
           "description": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\nWhat’s !important #14: Gap Decorations, random(), <select> field-sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-14/",
           "publishedOn": "2026-06-30T13:54:14.000Z",
-          "wordCount": 2709,
+          "wordCount": 2553,
           "title": "What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/06/3.mp4",
@@ -67,7 +67,7 @@
           "description": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically listens for.\nThe Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-states-and-javascript-events/",
           "publishedOn": "2026-06-29T13:03:32.000Z",
-          "wordCount": 3785,
+          "wordCount": 3629,
           "title": "The Shifting Line Between CSS States and JavaScript Events",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/state-management.jpg"
         },
@@ -77,7 +77,7 @@
           "description": "The translateZ() function moves an element closer to or farther from the user. \ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/t/translatez/",
           "publishedOn": "2026-06-25T13:18:56.000Z",
-          "wordCount": 3281,
+          "wordCount": 3125,
           "title": "translateZ()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -87,7 +87,7 @@
           "description": "The translateY() function shifts an element vertically by the specified amount. \ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/t/translatey/",
           "publishedOn": "2026-06-25T13:17:56.000Z",
-          "wordCount": 3156,
+          "wordCount": 3000,
           "title": "translateY()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -97,7 +97,7 @@
           "description": "The translateX() function shifts an element horizontally by the specified amount. \ntranslateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/t/translatex/",
           "publishedOn": "2026-06-25T13:16:01.000Z",
-          "wordCount": 3370,
+          "wordCount": 3214,
           "title": "translateX()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -107,7 +107,7 @@
           "description": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane\ntranslate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/functions/t/translate/",
           "publishedOn": "2026-06-25T13:15:05.000Z",
-          "wordCount": 3242,
+          "wordCount": 3086,
           "title": "translate()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -117,7 +117,7 @@
           "description": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fallback\nNote: This …\nUsing Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
           "publishedOn": "2026-06-22T12:39:13.000Z",
-          "wordCount": 3694,
+          "wordCount": 3538,
           "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/05/opposing-scrolling-logos.mov",
@@ -132,7 +132,7 @@
           "description": "Let's poke at the differences between scroll-driven and scroll-triggered animations.\nA First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
           "publishedOn": "2026-06-19T13:03:17.000Z",
-          "wordCount": 3733,
+          "wordCount": 3654,
           "title": "A First Look at Scroll-Triggered Animations",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/04/1-1.mp4",
@@ -140,16 +140,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/sceroll-triggered-squares.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395567",
-          "author": "Mat Marquis",
-          "description": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\nThe Siren Song of ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/the-siren-song-of-arianotify/",
-          "publishedOn": "2026-06-17T15:32:30.000Z",
-          "wordCount": 4710,
-          "title": "The Siren Song of ariaNotify()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/arianotify.jpg"
         }
       ]
     },
@@ -158,6 +148,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
+          "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+          "publishedOn": "2026-07-17T08:00:00.000Z",
+          "wordCount": 5085,
+          "title": "When It Makes Sense To “Block” The Main Thread",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -179,7 +184,7 @@
           "description": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
           "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
           "publishedOn": "2026-07-10T13:00:00.000Z",
-          "wordCount": 5514,
+          "wordCount": 5409,
           "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
@@ -194,7 +199,7 @@
           "description": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
           "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
           "publishedOn": "2026-07-09T15:00:00.000Z",
-          "wordCount": 6769,
+          "wordCount": 6768,
           "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
@@ -269,7 +274,7 @@
           "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
           "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4815,
+          "wordCount": 4824,
           "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
@@ -285,6 +290,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a5a98bcef0967f8fb858895",
+          "author": "Darsh Shah",
+          "description": "In this tutorial, I'll show you how to evaluate a local AI agent with a simple, repeatable evaluation harness. The harness runs the agent against a set of test cases, checks the results with both rule",
+          "link": "https://www.freecodecamp.org/news/how-to-evaluate-ai-agents-with-an-llm-as-a-judge-harness-in-python/",
+          "publishedOn": "2026-07-17T21:03:56.000Z",
+          "wordCount": 3089,
+          "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/43678778-ab94-4ad0-92af-888376bea668.png"
+        },
+        {
+          "id": "6a5a91c20842ed39785bc7c0",
+          "author": "jabo Landry",
+          "description": "Creating pop-ups and modals on your site can be a complicated process. And it often requires a lot of boilerplate code to get started. But the real challenge comes when you want to make that modal or",
+          "link": "https://www.freecodecamp.org/news/how-to-create-accessible-modals-and-pop-ups-using-html-css-and-minimal-javascript/",
+          "publishedOn": "2026-07-17T20:34:10.000Z",
+          "wordCount": 2992,
+          "title": "How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e929b316-4b85-459b-9c40-1b7928518077.png"
+        },
+        {
+          "id": "6a5a91870c25cb6dfa32c0c9",
+          "author": "Bhavin Sheth",
+          "description": "PDF documents are frequently used to share invoices, contracts, reports, legal records, customer documents, financial statements, and internal business files. But before these documents are shared, th",
+          "link": "https://www.freecodecamp.org/news/build-pdf-redaction-tool-javascript/",
+          "publishedOn": "2026-07-17T20:33:11.000Z",
+          "wordCount": 5603,
+          "title": "How to Build a Browser-Based PDF Redaction Tool Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/18191d9d-9abf-44a3-8330-e452ce7194c2.png"
+        },
+        {
+          "id": "6a5a912d1a97bb513c72431e",
+          "author": "Ayobami Adejumo",
+          "description": "Every fast-growing engineering team eventually hits the same wall. A developer needs a new staging environment, so they file a ticket. The platform team queues it. Two weeks later, the environment exi",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-internal-developer-platform-a-complete-guide-to-backstage-argocd-and-crossplane/",
+          "publishedOn": "2026-07-17T20:31:41.000Z",
+          "wordCount": 6319,
+          "title": "How to Build an Internal Developer Platform: A Complete Guide to Backstage, ArgoCD, and Crossplane",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4e45df2a-5af9-4feb-84fa-f7eb1c04ee91.png"
+        },
+        {
+          "id": "6a5a5daeee4c6fc82387d36e",
+          "author": "Jibril-M🍀",
+          "description": "For the past 10 years, we've experienced a massive improvement in translation technologies. We went from robotic-like translations to systems that not only understand the meaning of each word in a sen",
+          "link": "https://www.freecodecamp.org/news/how-neural-machine-translation-works-build-your-own-translation-app-with-react-native-and-qvac/",
+          "publishedOn": "2026-07-17T16:51:58.000Z",
+          "wordCount": 4163,
+          "title": "How Neural Machine Translation Works: Build Your Own Translation App with React Native and QVAC",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/89b0a610-cd98-4112-95cc-fb01597911dc.png"
+        },
+        {
+          "id": "6a59619ee14c719ac88d7a33",
+          "author": "Md Tarikul Islam",
+          "description": "In this tutorial, you'll build a production-ready PayPal payment service using NestJS microservices. Along the way, you'll learn how to isolate payment logic into its own service, communicate between",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-paypal-in-a-microservice-architecture-using-nestjs-grpc-and-docker/",
+          "publishedOn": "2026-07-16T22:56:30.000Z",
+          "wordCount": 4540,
+          "title": "How to Implement PayPal in a Microservice Architecture Using NestJS, gRPC, and Docker",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/665e54b7-b47e-4abe-a417-49b51569868f.png"
+        },
+        {
+          "id": "6a59593c2c971321745e7720",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "Every application, at some point, has to deal with a fundamental challenge: something happens, and several other things need to react to it. A user logs in, and the app needs to save a token, cache th",
+          "link": "https://www.freecodecamp.org/news/the-observer-design-pattern-handbook-event-driven-architecture-domain-driven-design-in-dart/",
+          "publishedOn": "2026-07-16T22:20:44.000Z",
+          "wordCount": 6950,
+          "title": "The Observer Design Pattern Handbook: Event-Driven Architecture & Domain-Driven Design in Dart",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0621293d-e82e-4f24-bb6e-40dec481c7cd.png"
+        },
         {
           "id": "6a58c2ecce2d9571ce9c8a00",
           "author": "Beau Carnes",
@@ -314,76 +389,6 @@
           "wordCount": 1143,
           "title": "Master Full-Stack Mobile Development with React Native",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/823b7020-e45c-499e-99d2-d7324fbb2533.jpg"
-        },
-        {
-          "id": "6a58c0ae78ff326927bcf6bc",
-          "author": "Beau Carnes",
-          "description": "In 1956, a young programmer was taking his girlfriend shopping in Amsterdam. Feeling tired, they sat down at a cafe terrace for a cup of coffee. In the 20 minutes it took to finish their drinks, he co",
-          "link": "https://www.freecodecamp.org/news/understanding-dijkstra-s-algorithm/",
-          "publishedOn": "2026-07-16T11:29:50.000Z",
-          "wordCount": 1234,
-          "title": "Understanding Dijkstra's Algorithm",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e02f5472-4cdc-428e-a0ae-e3e71ed17bcb.png"
-        },
-        {
-          "id": "6a581c65dba34eeb664be8e2",
-          "author": "Hackita",
-          "description": "Here's something that tends to surprise developers who are new to security: most web vulnerabilities aren't the result of sophisticated attacks. They come from code patterns that look completely reaso",
-          "link": "https://www.freecodecamp.org/news/how-to-fix-common-web-application-security-vulnerabilities-in-node-js/",
-          "publishedOn": "2026-07-15T23:48:53.000Z",
-          "wordCount": 4536,
-          "title": "How to Fix Common Web Application Security Vulnerabilities in Node.js",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b2ec81b6-d6eb-41f0-9fa5-7570914ef97d.png"
-        },
-        {
-          "id": "6a57cee36dcb86f0029afe5f",
-          "author": "Manish Shivanandhan",
-          "description": "Every engineering team has said it at least once: \"It works on my machine.\" The phrase has become a running joke in software, but it's rarely funny when it happens in production. A feature passes ever",
-          "link": "https://www.freecodecamp.org/news/why-it-worked-on-my-machine-still-happens-in-2026/",
-          "publishedOn": "2026-07-15T18:18:11.000Z",
-          "wordCount": 3636,
-          "title": "Why \"It Worked on My Machine\" Still Happens in 2026",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8435d1c8-af34-4cff-8891-087ac2a3ad9d.png"
-        },
-        {
-          "id": "6a57a891a1ec2486def24d23",
-          "author": "Tech With RJ",
-          "description": "Most companies say they want to \"adopt AI\". In practice this usually means a chatbot bolted onto a website. Meanwhile, engineers using AI coding tools hit the opposite wall. The AI writes code fast, b",
-          "link": "https://www.freecodecamp.org/news/harness-engineering-ai-native-company/",
-          "publishedOn": "2026-07-15T15:34:41.000Z",
-          "wordCount": 3950,
-          "title": "How I Used Harness Engineering to Make Our Company AI-Native",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0438e6d7-d727-480d-8517-a87c12350326.png"
-        },
-        {
-          "id": "6a57a6aa328507d0d4d46169",
-          "author": "Zia Ullah",
-          "description": "I was helping a team that had a 200-page API documentation PDF. Every new engineer spent their first two weeks Ctrl+F-ing through it, asking the same questions in Slack, getting redirected to the same",
-          "link": "https://www.freecodecamp.org/news/how-to-build-rag-chatbot-nodejs-gemini-pgvector/",
-          "publishedOn": "2026-07-15T15:26:34.000Z",
-          "wordCount": 4865,
-          "title": "How to Build a RAG Chatbot for Your Docs with Node.js, Google Gemini, and pgvector",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9aa3d8d3-9c51-42a7-8e78-907802394ea1.png"
-        },
-        {
-          "id": "6a57a65ae479ecc16ad3b5b5",
-          "author": "Rudrendu Paul",
-          "description": "A randomized A/B test is the cleanest form of product experiment available. The coin flip that splits users between the new prompt template and the control removes every possible confounder by constru",
-          "link": "https://www.freecodecamp.org/news/regression-models-for-causal-inference-on-ai-features/",
-          "publishedOn": "2026-07-15T15:25:14.000Z",
-          "wordCount": 4745,
-          "title": "Product Experimentation with Regression-Based Causal Inference: Estimating LLM Feature Impact with Python and statsmodels",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/731ac81a-7bf4-45ff-9eac-49292d1484b1.png"
-        },
-        {
-          "id": "6a57a5ffa7a08b8fa91b718f",
-          "author": "Mohammed Fahd Abrah",
-          "description": "Today, diffusion models power some of the most impressive AI systems ever built. They generate photorealistic images, create videos, synthesize speech, design proteins, and increasingly influence fiel",
-          "link": "https://www.freecodecamp.org/news/ai-paper-review-deep-unsupervised-learning-using-nonequilibrium-thermodynamics/",
-          "publishedOn": "2026-07-15T15:23:43.000Z",
-          "wordCount": 6374,
-          "title": "AI Paper Review: Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4588c233-fd5f-4a51-86e8-79784b629fb4.png"
         }
       ]
     }

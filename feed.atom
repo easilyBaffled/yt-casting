@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-17T03:22:31.940Z</id>
+    <id>urn:2026-07-18T03:11:47.631Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-17T03:22:31.940Z</updated>
+    <updated>2026-07-18T03:11:47.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python]]></title>
+        <id>6a5a98bcef0967f8fb858895</id>
+        <link href="https://www.freecodecamp.org/news/how-to-evaluate-ai-agents-with-an-llm-as-a-judge-harness-in-python/"/>
+        <updated>2026-07-17T21:03:56.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, I'll show you how to evaluate a local AI agent with a simple, repeatable evaluation harness. The harness runs the agent against a set of test cases, checks the results with both rule]]></summary>
+        <author>
+            <name>Darsh Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript]]></title>
+        <id>6a5a91c20842ed39785bc7c0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-accessible-modals-and-pop-ups-using-html-css-and-minimal-javascript/"/>
+        <updated>2026-07-17T20:34:10.000Z</updated>
+        <summary type="html"><![CDATA[Creating pop-ups and modals on your site can be a complicated process. And it often requires a lot of boilerplate code to get started. But the real challenge comes when you want to make that modal or]]></summary>
+        <author>
+            <name>jabo Landry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Redaction Tool Using JavaScript]]></title>
+        <id>6a5a91870c25cb6dfa32c0c9</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-redaction-tool-javascript/"/>
+        <updated>2026-07-17T20:33:11.000Z</updated>
+        <summary type="html"><![CDATA[PDF documents are frequently used to share invoices, contracts, reports, legal records, customer documents, financial statements, and internal business files. But before these documents are shared, th]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Internal Developer Platform: A Complete Guide to Backstage, ArgoCD, and Crossplane]]></title>
+        <id>6a5a912d1a97bb513c72431e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-internal-developer-platform-a-complete-guide-to-backstage-argocd-and-crossplane/"/>
+        <updated>2026-07-17T20:31:41.000Z</updated>
+        <summary type="html"><![CDATA[Every fast-growing engineering team eventually hits the same wall. A developer needs a new staging environment, so they file a ticket. The platform team queues it. Two weeks later, the environment exi]]></summary>
+        <author>
+            <name>Ayobami Adejumo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Neural Machine Translation Works: Build Your Own Translation App with React Native and QVAC]]></title>
+        <id>6a5a5daeee4c6fc82387d36e</id>
+        <link href="https://www.freecodecamp.org/news/how-neural-machine-translation-works-build-your-own-translation-app-with-react-native-and-qvac/"/>
+        <updated>2026-07-17T16:51:58.000Z</updated>
+        <summary type="html"><![CDATA[For the past 10 years, we've experienced a massive improvement in translation technologies. We went from robotic-like translations to systems that not only understand the meaning of each word in a sen]]></summary>
+        <author>
+            <name>Jibril-M🍀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When It Makes Sense To “Block” The Main Thread]]></title>
+        <id>https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/</id>
+        <link href="https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"/>
+        <updated>2026-07-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement PayPal in a Microservice Architecture Using NestJS, gRPC, and Docker]]></title>
+        <id>6a59619ee14c719ac88d7a33</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-paypal-in-a-microservice-architecture-using-nestjs-grpc-and-docker/"/>
+        <updated>2026-07-16T22:56:30.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll build a production-ready PayPal payment service using NestJS microservices. Along the way, you'll learn how to isolate payment logic into its own service, communicate between]]></summary>
+        <author>
+            <name>Md Tarikul Islam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Observer Design Pattern Handbook: Event-Driven Architecture & Domain-Driven Design in Dart]]></title>
+        <id>6a59593c2c971321745e7720</id>
+        <link href="https://www.freecodecamp.org/news/the-observer-design-pattern-handbook-event-driven-architecture-domain-driven-design-in-dart/"/>
+        <updated>2026-07-16T22:20:44.000Z</updated>
+        <summary type="html"><![CDATA[Every application, at some point, has to deal with a fundamental challenge: something happens, and several other things need to react to it. A user logs in, and the app needs to save a token, cache th]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Beginner's Guide to Python: Hands-On Projects to Get You Coding]]></title>
         <id>6a58c2ecce2d9571ce9c8a00</id>
@@ -36,26 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding Dijkstra's Algorithm]]></title>
-        <id>6a58c0ae78ff326927bcf6bc</id>
-        <link href="https://www.freecodecamp.org/news/understanding-dijkstra-s-algorithm/"/>
-        <updated>2026-07-16T11:29:50.000Z</updated>
-        <summary type="html"><![CDATA[In 1956, a young programmer was taking his girlfriend shopping in Amsterdam. Feeling tired, they sat down at a cafe terrace for a cup of coffee. In the 20 minutes it took to finish their drinks, he co]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix Common Web Application Security Vulnerabilities in Node.js]]></title>
-        <id>6a581c65dba34eeb664be8e2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fix-common-web-application-security-vulnerabilities-in-node-js/"/>
-        <updated>2026-07-15T23:48:53.000Z</updated>
-        <summary type="html"><![CDATA[Here's something that tends to surprise developers who are new to security: most web vulnerabilities aren't the result of sophisticated attacks. They come from code patterns that look completely reaso]]></summary>
-        <author>
-            <name>Hackita</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[pointer-events]]></title>
         <id>http://css-tricks.com/?page_id=18170</id>
         <link href="https://css-tricks.com/almanac/properties/p/pointer-events/"/>
@@ -64,56 +124,6 @@
 pointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Mojtaba Seyedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why "It Worked on My Machine" Still Happens in 2026]]></title>
-        <id>6a57cee36dcb86f0029afe5f</id>
-        <link href="https://www.freecodecamp.org/news/why-it-worked-on-my-machine-still-happens-in-2026/"/>
-        <updated>2026-07-15T18:18:11.000Z</updated>
-        <summary type="html"><![CDATA[Every engineering team has said it at least once: "It works on my machine." The phrase has become a running joke in software, but it's rarely funny when it happens in production. A feature passes ever]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Used Harness Engineering to Make Our Company AI-Native]]></title>
-        <id>6a57a891a1ec2486def24d23</id>
-        <link href="https://www.freecodecamp.org/news/harness-engineering-ai-native-company/"/>
-        <updated>2026-07-15T15:34:41.000Z</updated>
-        <summary type="html"><![CDATA[Most companies say they want to "adopt AI". In practice this usually means a chatbot bolted onto a website. Meanwhile, engineers using AI coding tools hit the opposite wall. The AI writes code fast, b]]></summary>
-        <author>
-            <name>Tech With RJ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a RAG Chatbot for Your Docs with Node.js, Google Gemini, and pgvector]]></title>
-        <id>6a57a6aa328507d0d4d46169</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-rag-chatbot-nodejs-gemini-pgvector/"/>
-        <updated>2026-07-15T15:26:34.000Z</updated>
-        <summary type="html"><![CDATA[I was helping a team that had a 200-page API documentation PDF. Every new engineer spent their first two weeks Ctrl+F-ing through it, asking the same questions in Slack, getting redirected to the same]]></summary>
-        <author>
-            <name>Zia Ullah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experimentation with Regression-Based Causal Inference: Estimating LLM Feature Impact with Python and statsmodels]]></title>
-        <id>6a57a65ae479ecc16ad3b5b5</id>
-        <link href="https://www.freecodecamp.org/news/regression-models-for-causal-inference-on-ai-features/"/>
-        <updated>2026-07-15T15:25:14.000Z</updated>
-        <summary type="html"><![CDATA[A randomized A/B test is the cleanest form of product experiment available. The coin flip that splits users between the new prompt template and the control removes every possible confounder by constru]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Paper Review: Deep Unsupervised Learning using Nonequilibrium Thermodynamics]]></title>
-        <id>6a57a5ffa7a08b8fa91b718f</id>
-        <link href="https://www.freecodecamp.org/news/ai-paper-review-deep-unsupervised-learning-using-nonequilibrium-thermodynamics/"/>
-        <updated>2026-07-15T15:23:43.000Z</updated>
-        <summary type="html"><![CDATA[Today, diffusion models power some of the most impressive AI systems ever built. They generate photorealistic images, create videos, synthesize speech, design proteins, and increasingly influence fiel]]></summary>
-        <author>
-            <name>Mohammed Fahd Abrah</name>
         </author>
     </entry>
     <entry>
@@ -306,17 +316,6 @@ Using Scroll-Driven Animations for Opposing Scroll Directions originally handwri
 A First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Siren Song of ariaNotify()]]></title>
-        <id>https://css-tricks.com/?p=395567</id>
-        <link href="https://css-tricks.com/the-siren-song-of-arianotify/"/>
-        <updated>2026-06-17T15:32:30.000Z</updated>
-        <summary type="html"><![CDATA[There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.
-The Siren Song of ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mat Marquis</name>
         </author>
     </entry>
 </feed>
