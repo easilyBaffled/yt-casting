@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-18T03:11:47.631Z</id>
+    <id>urn:2026-07-19T03:31:58.005Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-18T03:11:47.631Z</updated>
+    <updated>2026-07-19T03:31:58.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -305,17 +305,6 @@ Note: This …
 Using Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Silvestar Bistrović</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A First Look at Scroll-Triggered Animations]]></title>
-        <id>https://css-tricks.com/?p=394364</id>
-        <link href="https://css-tricks.com/css-scroll-triggered-animations-first-look/"/>
-        <updated>2026-06-19T13:03:17.000Z</updated>
-        <summary type="html"><![CDATA[Let's poke at the differences between scroll-driven and scroll-triggered animations.
-A First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
