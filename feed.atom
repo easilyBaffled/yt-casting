@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-20T03:46:45.698Z</id>
+    <id>urn:2026-07-21T03:26:11.057Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-20T03:46:45.698Z</updated>
+    <updated>2026-07-21T03:26:11.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Apple’s Foundation Models in a Web App with a macOS Companion]]></title>
+        <id>6a5e92afe12aa31dae6e8a79</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/"/>
+        <updated>2026-07-20T21:27:11.000Z</updated>
+        <summary type="html"><![CDATA[Not every AI feature needs a cloud model, with its per-token bills, network round-trips, and private data leaving your machine. If you're on a modern Mac, a capable language model is already on your d]]></summary>
+        <author>
+            <name>Balogun Wahab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize Enterprise Application Performance with T-SQL Query Tuning and Indexing Strategies]]></title>
+        <id>6a5e89d9dfc3c99e37bbdef0</id>
+        <link href="https://www.freecodecamp.org/news/optimize-enterprise-app-performance-with-t-sql-query-tuning-and-indexing-strategies/"/>
+        <updated>2026-07-20T20:49:29.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to optimize SQL Server performance using T-SQL query tuning, indexing strategies, execution plans, and real-world optimization techniques for enterprise applications.]]></summary>
+        <author>
+            <name>Gopinath Karunanithi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Signature Tool Using JavaScript]]></title>
+        <id>6a5e89518186f4c5817d466b</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-signature-tool-javascript/"/>
+        <updated>2026-07-20T20:47:13.000Z</updated>
+        <summary type="html"><![CDATA[PDF documents are commonly used for agreements, forms, approvals, invoices, reports, applications, and other documents that may need a signature or additional text before they are shared. A traditiona]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Multi-Tenant SaaS API with Node.js, RBAC, and Audit Logging]]></title>
+        <id>6a5e8914bc397f89a942b88b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-multi-tenant-saas-api-with-nodejs-rbac-and-audit-logging/"/>
+        <updated>2026-07-20T20:46:12.000Z</updated>
+        <summary type="html"><![CDATA[A colleague asked me to help debug what looked like a permissions issue in their SaaS project management tool. Users were seeing resources they hadn't created. I pulled up the query logs expecting som]]></summary>
+        <author>
+            <name>Zia Ullah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HRV Data Is Everywhere. Here's What It Actually Means]]></title>
+        <id>6a5e88ed780db2fa84ad0b48</id>
+        <link href="https://www.freecodecamp.org/news/hrv-data-is-everywhere-here-s-what-it-actually-means/"/>
+        <updated>2026-07-20T20:45:33.000Z</updated>
+        <summary type="html"><![CDATA[Health data is having a moment. Of all the metrics receiving the most developer interest at present, there’s nothing like heart rate variability (HRV). It’s a feature found on every major SDK for wear]]></summary>
+        <author>
+            <name>Shradha Puri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That's Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It]]></title>
+        <id>6a5e53d62305696f1e91f721</id>
+        <link href="https://www.freecodecamp.org/news/that-s-embarrassing-why-frontier-ai-still-makes-things-up-and-what-to-do-about-it/"/>
+        <updated>2026-07-20T16:59:02.000Z</updated>
+        <summary type="html"><![CDATA[It's mid 2026, and the best frontier models out there still hallucinate. I want you to gain two things from reading this article: understanding that AI hallucinations are still real and possibly harmf]]></summary>
+        <author>
+            <name>Omer Rosenbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Manufacturing to Microservices: Universal Lessons About Reliability]]></title>
+        <id>6a5e283ee7616f5097f7d096</id>
+        <link href="https://www.freecodecamp.org/news/from-manufacturing-to-microservices-universal-lessons-about-reliability/"/>
+        <updated>2026-07-20T13:53:02.000Z</updated>
+        <summary type="html"><![CDATA[Software engineers often think reliability is a modern challenge. We discuss uptime, distributed systems, observability, and fault tolerance as if they belong exclusively to cloud computing. In realit]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage Secrets Securely with Azure Key Vault in Node.js]]></title>
+        <id>6a5e27b295e748bed9510853</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manage-secrets-securely-with-azure-key-vault-in-node-js/"/>
+        <updated>2026-07-20T13:50:42.000Z</updated>
+        <summary type="html"><![CDATA[Last year a client called me about exactly this. Someone ran git log -p on a hunch and found a .env committed two years earlier, never caught. Database password, Stripe secret, JWT signing key — all s]]></summary>
+        <author>
+            <name>Zia Ullah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python]]></title>
         <id>6a5a98bcef0967f8fb858895</id>
@@ -26,36 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF Redaction Tool Using JavaScript]]></title>
-        <id>6a5a91870c25cb6dfa32c0c9</id>
-        <link href="https://www.freecodecamp.org/news/build-pdf-redaction-tool-javascript/"/>
-        <updated>2026-07-17T20:33:11.000Z</updated>
-        <summary type="html"><![CDATA[PDF documents are frequently used to share invoices, contracts, reports, legal records, customer documents, financial statements, and internal business files. But before these documents are shared, th]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Internal Developer Platform: A Complete Guide to Backstage, ArgoCD, and Crossplane]]></title>
-        <id>6a5a912d1a97bb513c72431e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-internal-developer-platform-a-complete-guide-to-backstage-argocd-and-crossplane/"/>
-        <updated>2026-07-17T20:31:41.000Z</updated>
-        <summary type="html"><![CDATA[Every fast-growing engineering team eventually hits the same wall. A developer needs a new staging environment, so they file a ticket. The platform team queues it. Two weeks later, the environment exi]]></summary>
-        <author>
-            <name>Ayobami Adejumo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Neural Machine Translation Works: Build Your Own Translation App with React Native and QVAC]]></title>
-        <id>6a5a5daeee4c6fc82387d36e</id>
-        <link href="https://www.freecodecamp.org/news/how-neural-machine-translation-works-build-your-own-translation-app-with-react-native-and-qvac/"/>
-        <updated>2026-07-17T16:51:58.000Z</updated>
-        <summary type="html"><![CDATA[For the past 10 years, we've experienced a massive improvement in translation technologies. We went from robotic-like translations to systems that not only understand the meaning of each word in a sen]]></summary>
-        <author>
-            <name>Jibril-M🍀</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[When It Makes Sense To “Block” The Main Thread]]></title>
         <id>https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/</id>
         <link href="https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"/>
@@ -63,78 +113,6 @@
         <summary type="html"><![CDATA[The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement PayPal in a Microservice Architecture Using NestJS, gRPC, and Docker]]></title>
-        <id>6a59619ee14c719ac88d7a33</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-paypal-in-a-microservice-architecture-using-nestjs-grpc-and-docker/"/>
-        <updated>2026-07-16T22:56:30.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll build a production-ready PayPal payment service using NestJS microservices. Along the way, you'll learn how to isolate payment logic into its own service, communicate between]]></summary>
-        <author>
-            <name>Md Tarikul Islam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Observer Design Pattern Handbook: Event-Driven Architecture & Domain-Driven Design in Dart]]></title>
-        <id>6a59593c2c971321745e7720</id>
-        <link href="https://www.freecodecamp.org/news/the-observer-design-pattern-handbook-event-driven-architecture-domain-driven-design-in-dart/"/>
-        <updated>2026-07-16T22:20:44.000Z</updated>
-        <summary type="html"><![CDATA[Every application, at some point, has to deal with a fundamental challenge: something happens, and several other things need to react to it. A user logs in, and the app needs to save a token, cache th]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beginner's Guide to Python: Hands-On Projects to Get You Coding]]></title>
-        <id>6a58c2ecce2d9571ce9c8a00</id>
-        <link href="https://www.freecodecamp.org/news/a-beginner-s-guide-to-python-hands-on-projects-to-get-you-coding/"/>
-        <updated>2026-07-16T11:39:24.000Z</updated>
-        <summary type="html"><![CDATA[Have you been wanting to learn how to code but found it a bit too overwhelming or confusing? We just published a brand new course on the freeCodeCamp.org YouTube channel that is designed specifically]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intro to Shaders: JavaScript and p5.js Course for Beginners]]></title>
-        <id>6a58c1f600ad718fe90bfe7d</id>
-        <link href="https://www.freecodecamp.org/news/intro-to-shaders-javascript-and-p5-js-course-for-beginners/"/>
-        <updated>2026-07-16T11:35:18.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to unlock the true rendering power of your computer and create breathtaking visuals? We just published a new course on the freeCodeCamp.org YouTube channel that will teach you the fundam]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Full-Stack Mobile Development with React Native]]></title>
-        <id>6a58c1695b624eb755f699d2</id>
-        <link href="https://www.freecodecamp.org/news/master-full-stack-mobile-development-with-react-native/"/>
-        <updated>2026-07-16T11:32:57.000Z</updated>
-        <summary type="html"><![CDATA[Do you want to get into mobile development and build cross-platform applications? We just published a comprehensive new course on the freeCodeCamp.org YouTube channel that will teach you how to build]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pointer-events]]></title>
-        <id>http://css-tricks.com/?page_id=18170</id>
-        <link href="https://css-tricks.com/almanac/properties/p/pointer-events/"/>
-        <updated>2026-07-15T19:57:51.000Z</updated>
-        <summary type="html"><![CDATA[The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …
-pointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mojtaba Seyedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More]]></title>
-        <id>https://css-tricks.com/?p=396027</id>
-        <link href="https://css-tricks.com/whats-important-15/"/>
-        <updated>2026-07-15T14:36:18.000Z</updated>
-        <summary type="html"><![CDATA[Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.
-What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -168,17 +146,6 @@ What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get Ready For the Powerful CSS border-shape Property!]]></title>
-        <id>https://css-tricks.com/?p=395508</id>
-        <link href="https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/"/>
-        <updated>2026-07-07T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!
-Get Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas]]></title>
         <id>https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/</id>
         <link href="https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/"/>
@@ -209,17 +176,6 @@ Get Ready For the Powerful CSS border-shape Property! originally handwritten and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More]]></title>
-        <id>https://css-tricks.com/?p=395894</id>
-        <link href="https://css-tricks.com/whats-important-14/"/>
-        <updated>2026-06-30T13:54:14.000Z</updated>
-        <summary type="html"><![CDATA[I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!
-What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Accessibility Is An Operational Capability, Not A Feature]]></title>
         <id>https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/</id>
         <link href="https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/"/>
@@ -237,74 +193,6 @@ What’s !important #14: Gap Decorations, random(), <select> field-sizing, and M
         <summary type="html"><![CDATA[July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Shifting Line Between CSS States and JavaScript Events]]></title>
-        <id>https://css-tricks.com/?p=395223</id>
-        <link href="https://css-tricks.com/css-states-and-javascript-events/"/>
-        <updated>2026-06-29T13:03:32.000Z</updated>
-        <summary type="html"><![CDATA[CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS "listens" for and how they are alternatives to what Javascript typically listens for.
-The Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[translateZ()]]></title>
-        <id>https://css-tricks.com/?page_id=394786</id>
-        <link href="https://css-tricks.com/almanac/functions/t/translatez/"/>
-        <updated>2026-06-25T13:18:56.000Z</updated>
-        <summary type="html"><![CDATA[The translateZ() function moves an element closer to or farther from the user. 
-translateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[translateY()]]></title>
-        <id>https://css-tricks.com/?page_id=393249</id>
-        <link href="https://css-tricks.com/almanac/functions/t/translatey/"/>
-        <updated>2026-06-25T13:17:56.000Z</updated>
-        <summary type="html"><![CDATA[The translateY() function shifts an element vertically by the specified amount. 
-translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[translateX()]]></title>
-        <id>https://css-tricks.com/?page_id=393255</id>
-        <link href="https://css-tricks.com/almanac/functions/t/translatex/"/>
-        <updated>2026-06-25T13:16:01.000Z</updated>
-        <summary type="html"><![CDATA[The translateX() function shifts an element horizontally by the specified amount. 
-translateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[translate()]]></title>
-        <id>https://css-tricks.com/?page_id=393233</id>
-        <link href="https://css-tricks.com/almanac/functions/t/translate/"/>
-        <updated>2026-06-25T13:15:05.000Z</updated>
-        <summary type="html"><![CDATA[The CSS translate() function shifts an element from its default position on a 2-dimensional plane
-translate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Scroll-Driven Animations for Opposing Scroll Directions]]></title>
-        <id>https://css-tricks.com/?p=394890</id>
-        <link href="https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/"/>
-        <updated>2026-06-22T12:39:13.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.
-CodePen Embed Fallback
-Note: This …
-Using Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Silvestar Bistrović</name>
         </author>
     </entry>
 </feed>
