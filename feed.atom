@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-21T03:26:11.057Z</id>
+    <id>urn:2026-07-22T03:24:12.131Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-21T03:26:11.057Z</updated>
+    <updated>2026-07-22T03:24:12.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA["Relaxation and its Role in Vision": The 1977 PhD Thesis That Helped Shape Modern AI Research]]></title>
+        <id>6a5faeb5d735fe8d9b8a5d84</id>
+        <link href="https://www.freecodecamp.org/news/relaxation-and-its-role-in-vision-the-1977-phd-thesis-that-helped-shape-modern-ai-research/"/>
+        <updated>2026-07-21T17:39:01.000Z</updated>
+        <summary type="html"><![CDATA[When people think of Geoffrey Hinton, they usually think of backpropagation, Boltzmann Machines, Deep Belief Networks, or the deep learning revolution that transformed artificial intelligence. But few]]></summary>
+        <author>
+            <name>Mohammed Fahd Abrah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs]]></title>
+        <id>https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/</id>
+        <link href="https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/"/>
+        <updated>2026-07-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[writing-mode]]></title>
+        <id>http://css-tricks.com/?page_id=244261</id>
+        <link href="https://css-tricks.com/almanac/properties/w/writing-mode/"/>
+        <updated>2026-07-21T09:39:10.000Z</updated>
+        <summary type="html"><![CDATA[The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.
+.element {
+  writing-mode: vertical-rl;
+}
+This is most useful in languages such as Chinese, Japanese or …
+writing-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mojtaba Seyedi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Serve a Multi-User AI Agent with FastAPI and Streamlit]]></title>
+        <id>6a5e9c35892c69a16fdf27df</id>
+        <link href="https://www.freecodecamp.org/news/how-to-serve-a-multi-user-ai-agent-with-fastapi-and-streamlit/"/>
+        <updated>2026-07-20T22:07:49.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, I’ll show you how to serve a multi-user local AI agent as a REST API using FastAPI, then add a lightweight Streamlit UI on top. Instead of interacting with the agent through a termin]]></summary>
+        <author>
+            <name>Darsh Shah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Apple’s Foundation Models in a Web App with a macOS Companion]]></title>
         <id>6a5e92afe12aa31dae6e8a79</id>
@@ -86,26 +131,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python]]></title>
-        <id>6a5a98bcef0967f8fb858895</id>
-        <link href="https://www.freecodecamp.org/news/how-to-evaluate-ai-agents-with-an-llm-as-a-judge-harness-in-python/"/>
-        <updated>2026-07-17T21:03:56.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, I'll show you how to evaluate a local AI agent with a simple, repeatable evaluation harness. The harness runs the agent against a set of test cases, checks the results with both rule]]></summary>
-        <author>
-            <name>Darsh Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript]]></title>
-        <id>6a5a91c20842ed39785bc7c0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-accessible-modals-and-pop-ups-using-html-css-and-minimal-javascript/"/>
-        <updated>2026-07-17T20:34:10.000Z</updated>
-        <summary type="html"><![CDATA[Creating pop-ups and modals on your site can be a complicated process. And it often requires a lot of boilerplate code to get started. But the real challenge comes when you want to make that modal or]]></summary>
-        <author>
-            <name>jabo Landry</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[When It Makes Sense To “Block” The Main Thread]]></title>
         <id>https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/</id>
         <link href="https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"/>
@@ -113,6 +138,28 @@
         <summary type="html"><![CDATA[The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pointer-events]]></title>
+        <id>http://css-tricks.com/?page_id=18170</id>
+        <link href="https://css-tricks.com/almanac/properties/p/pointer-events/"/>
+        <updated>2026-07-15T19:57:51.000Z</updated>
+        <summary type="html"><![CDATA[The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …
+pointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mojtaba Seyedi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More]]></title>
+        <id>https://css-tricks.com/?p=396027</id>
+        <link href="https://css-tricks.com/whats-important-15/"/>
+        <updated>2026-07-15T14:36:18.000Z</updated>
+        <summary type="html"><![CDATA[Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.
+What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -146,6 +193,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Get Ready For the Powerful CSS border-shape Property!]]></title>
+        <id>https://css-tricks.com/?p=395508</id>
+        <link href="https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/"/>
+        <updated>2026-07-07T15:14:00.000Z</updated>
+        <summary type="html"><![CDATA[We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!
+Get Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas]]></title>
         <id>https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/</id>
         <link href="https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/"/>
@@ -176,6 +234,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More]]></title>
+        <id>https://css-tricks.com/?p=395894</id>
+        <link href="https://css-tricks.com/whats-important-14/"/>
+        <updated>2026-06-30T13:54:14.000Z</updated>
+        <summary type="html"><![CDATA[I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!
+What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why Accessibility Is An Operational Capability, Not A Feature]]></title>
         <id>https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/</id>
         <link href="https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/"/>
@@ -193,6 +262,61 @@
         <summary type="html"><![CDATA[July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Shifting Line Between CSS States and JavaScript Events]]></title>
+        <id>https://css-tricks.com/?p=395223</id>
+        <link href="https://css-tricks.com/css-states-and-javascript-events/"/>
+        <updated>2026-06-29T13:03:32.000Z</updated>
+        <summary type="html"><![CDATA[CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS "listens" for and how they are alternatives to what Javascript typically listens for.
+The Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[translateZ()]]></title>
+        <id>https://css-tricks.com/?page_id=394786</id>
+        <link href="https://css-tricks.com/almanac/functions/t/translatez/"/>
+        <updated>2026-06-25T13:18:56.000Z</updated>
+        <summary type="html"><![CDATA[The translateZ() function moves an element closer to or farther from the user. 
+translateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[translateY()]]></title>
+        <id>https://css-tricks.com/?page_id=393249</id>
+        <link href="https://css-tricks.com/almanac/functions/t/translatey/"/>
+        <updated>2026-06-25T13:17:56.000Z</updated>
+        <summary type="html"><![CDATA[The translateY() function shifts an element vertically by the specified amount. 
+translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[translateX()]]></title>
+        <id>https://css-tricks.com/?page_id=393255</id>
+        <link href="https://css-tricks.com/almanac/functions/t/translatex/"/>
+        <updated>2026-06-25T13:16:01.000Z</updated>
+        <summary type="html"><![CDATA[The translateX() function shifts an element horizontally by the specified amount. 
+translateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[translate()]]></title>
+        <id>https://css-tricks.com/?page_id=393233</id>
+        <link href="https://css-tricks.com/almanac/functions/t/translate/"/>
+        <updated>2026-06-25T13:15:05.000Z</updated>
+        <summary type="html"><![CDATA[The CSS translate() function shifts an element from its default position on a 2-dimensional plane
+translate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
         </author>
     </entry>
 </feed>
