@@ -134,7 +134,7 @@
           "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
           "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
           "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8090,
+          "wordCount": 8083,
           "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
@@ -149,7 +149,7 @@
           "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
           "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
           "publishedOn": "2026-07-17T08:00:00.000Z",
-          "wordCount": 5094,
+          "wordCount": 5080,
           "title": "When It Makes Sense To “Block” The Main Thread",
           "enclosure": {
             "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
@@ -179,7 +179,7 @@
           "description": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
           "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
           "publishedOn": "2026-07-10T13:00:00.000Z",
-          "wordCount": 5399,
+          "wordCount": 5404,
           "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
@@ -239,7 +239,7 @@
           "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
           "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
           "publishedOn": "2026-07-02T10:00:00.000Z",
-          "wordCount": 7066,
+          "wordCount": 7063,
           "title": "Matching AI Modality To User Intent: Designing The Right Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
@@ -269,7 +269,7 @@
           "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
           "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4823,
+          "wordCount": 4820,
           "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
@@ -285,6 +285,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a6136e1ca77a68a9bf2d904",
+          "author": "Sameer Shukla",
+          "description": "Retrieval-Augmented Generation, commonly known as RAG, has become one of the most widely used approaches for building applications with large language models. Instead of asking an LLM to answer entire",
+          "link": "https://www.freecodecamp.org/news/what-is-hyde-how-to-improve-rag-with-hypothetical-documents/",
+          "publishedOn": "2026-07-22T21:32:17.000Z",
+          "wordCount": 3477,
+          "title": "What Is HyDE? How to Improve RAG with Hypothetical Documents",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/71e96334-b1b2-42db-9f0d-d0d9552acb44.png"
+        },
+        {
+          "id": "6a61266b62f25d8178b980e0",
+          "author": "timothy ogbemudia",
+          "description": "When you maintain a document for someone else, such as a résumé, a one-page portfolio, or a printable menu, the bottleneck is rarely the layout. It's the edit loop. Every small change (\"move this bull",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-static-html-page-editable-in-the-browser-with-vanilla-javascript/",
+          "publishedOn": "2026-07-22T20:22:03.000Z",
+          "wordCount": 3268,
+          "title": "How to Make a Static HTML Page Editable in the Browser with Vanilla JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/08400ed2-ef6a-404f-a135-b6cefe9d6919.png"
+        },
+        {
+          "id": "6a611eaea47daf82ec9372d6",
+          "author": "Darsh Shah",
+          "description": "In this tutorial, I'll show you how to trace and monitor a local AI agent with LangSmith. We'll build a small local AI agent and then enable LangSmith tracing for it so that we can inspect model calls",
+          "link": "https://www.freecodecamp.org/news/how-to-trace-and-monitor-ai-agents-with-langsmith/",
+          "publishedOn": "2026-07-22T19:49:02.000Z",
+          "wordCount": 2762,
+          "title": "How to Trace and Monitor AI Agents with LangSmith",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6ff293d4-dea5-462b-b79b-c319d77458f0.png"
+        },
+        {
+          "id": "6a60f5843dee1fe3a0faaca9",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "Most segmentation tutorials begin by choosing a model, feeding images into it, and tuning hyperparameters until the metric improves. But this skips the step that often matters most: understanding the",
+          "link": "https://www.freecodecamp.org/news/how-to-train-a-tumor-segmentation-model-on-ultrasound-data-with-monai/",
+          "publishedOn": "2026-07-22T16:53:24.000Z",
+          "wordCount": 3761,
+          "title": "How to Train a Tumor Segmentation Model on Ultrasound Data with MONAI",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3e7cfe47-858c-4ce9-b8f9-1c5fc22f29b7.png"
+        },
+        {
+          "id": "6a60f42cb1ecbbb606535a7b",
+          "author": "Vaibhav Gupta",
+          "description": "A date and time picker is one of those components that looks small in a design file and turns into a real time sink once you start building it. You need a calendar, a time selector, a state that keeps",
+          "link": "https://www.freecodecamp.org/news/build-a-reusable-date-time-picker-in-react-with-shadcn-ui/",
+          "publishedOn": "2026-07-22T16:47:40.000Z",
+          "wordCount": 2903,
+          "title": "How to Build a Reusable Date-Time Picker in React with shadcn/ui",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7dcddc1c-2a9d-4af7-8f02-ffb76bea2c7b.png"
+        },
+        {
+          "id": "6a60f2e469bd57569d60caf9",
+          "author": "Joan Ayebola",
+          "description": "Most prompt engineering tutorials follow the same shape. Install the SDK, paste your API key, call generateContent, and print the response. The model says something plausible and the tutorial ends. Th",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-feature-with-gemini-a-practical-guide-to-prompt-engineering-for-developers/",
+          "publishedOn": "2026-07-22T16:42:12.000Z",
+          "wordCount": 7384,
+          "title": "How to Build an AI Feature With Gemini: A Practical Guide to Prompt Engineering for Developers",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/999d848a-36b1-42d1-a2c1-cd404cd09d4e.png"
+        },
+        {
+          "id": "6a60f285d0399316ddce21d2",
+          "author": "Manish Shivanandhan",
+          "description": "You asked the AI to write a function. It gave you something that looks right. It even runs. But is it actually good? Most engineers stop there. They see green and move on. That habit will quietly caus",
+          "link": "https://www.freecodecamp.org/news/how-to-evaluate-ai-code-quality-a-practical-guide-for-engineers/",
+          "publishedOn": "2026-07-22T16:40:37.000Z",
+          "wordCount": 2516,
+          "title": "How to Evaluate AI Code Quality: A Practical Guide for Engineers",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5e14329a-90ef-46e0-9ff9-a629c711c111.png"
+        },
         {
           "id": "6a5faeb5d735fe8d9b8a5d84",
           "author": "Mohammed Fahd Abrah",
@@ -314,76 +384,6 @@
           "wordCount": 4054,
           "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7f0e2343-7394-46b5-a4c8-3ef0fecfa57a.png"
-        },
-        {
-          "id": "6a5e89d9dfc3c99e37bbdef0",
-          "author": "Gopinath Karunanithi",
-          "description": "In this article, you'll learn how to optimize SQL Server performance using T-SQL query tuning, indexing strategies, execution plans, and real-world optimization techniques for enterprise applications.",
-          "link": "https://www.freecodecamp.org/news/optimize-enterprise-app-performance-with-t-sql-query-tuning-and-indexing-strategies/",
-          "publishedOn": "2026-07-20T20:49:29.000Z",
-          "wordCount": 4998,
-          "title": "How to Optimize Enterprise Application Performance with T-SQL Query Tuning and Indexing Strategies",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1df4fdd1-4c5d-4f0b-a0e6-f40a75de6a8e.png"
-        },
-        {
-          "id": "6a5e89518186f4c5817d466b",
-          "author": "Bhavin Sheth",
-          "description": "PDF documents are commonly used for agreements, forms, approvals, invoices, reports, applications, and other documents that may need a signature or additional text before they are shared. A traditiona",
-          "link": "https://www.freecodecamp.org/news/build-pdf-signature-tool-javascript/",
-          "publishedOn": "2026-07-20T20:47:13.000Z",
-          "wordCount": 7873,
-          "title": "How to Build a Browser-Based PDF Signature Tool Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/175ab1f9-2917-4588-9e67-50607f6fa5a1.png"
-        },
-        {
-          "id": "6a5e8914bc397f89a942b88b",
-          "author": "Zia Ullah",
-          "description": "A colleague asked me to help debug what looked like a permissions issue in their SaaS project management tool. Users were seeing resources they hadn't created. I pulled up the query logs expecting som",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-multi-tenant-saas-api-with-nodejs-rbac-and-audit-logging/",
-          "publishedOn": "2026-07-20T20:46:12.000Z",
-          "wordCount": 5003,
-          "title": "How to Build a Multi-Tenant SaaS API with Node.js, RBAC, and Audit Logging",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/69793fe0-fe0e-4c9c-839d-12a134f65287.png"
-        },
-        {
-          "id": "6a5e88ed780db2fa84ad0b48",
-          "author": "Shradha Puri",
-          "description": "Health data is having a moment. Of all the metrics receiving the most developer interest at present, there’s nothing like heart rate variability (HRV). It’s a feature found on every major SDK for wear",
-          "link": "https://www.freecodecamp.org/news/hrv-data-is-everywhere-here-s-what-it-actually-means/",
-          "publishedOn": "2026-07-20T20:45:33.000Z",
-          "wordCount": 2193,
-          "title": "HRV Data Is Everywhere. Here's What It Actually Means",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/75ed57eb-f77b-4055-bb26-4bdc2eaa7bd4.png"
-        },
-        {
-          "id": "6a5e53d62305696f1e91f721",
-          "author": "Omer Rosenbaum",
-          "description": "It's mid 2026, and the best frontier models out there still hallucinate. I want you to gain two things from reading this article: understanding that AI hallucinations are still real and possibly harmf",
-          "link": "https://www.freecodecamp.org/news/that-s-embarrassing-why-frontier-ai-still-makes-things-up-and-what-to-do-about-it/",
-          "publishedOn": "2026-07-20T16:59:02.000Z",
-          "wordCount": 5249,
-          "title": "That's Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8813b1ba-d75c-4c3d-90a1-504af66cce3b.png"
-        },
-        {
-          "id": "6a5e283ee7616f5097f7d096",
-          "author": "Manish Shivanandhan",
-          "description": "Software engineers often think reliability is a modern challenge. We discuss uptime, distributed systems, observability, and fault tolerance as if they belong exclusively to cloud computing. In realit",
-          "link": "https://www.freecodecamp.org/news/from-manufacturing-to-microservices-universal-lessons-about-reliability/",
-          "publishedOn": "2026-07-20T13:53:02.000Z",
-          "wordCount": 2287,
-          "title": "From Manufacturing to Microservices: Universal Lessons About Reliability",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0de496b0-e02a-48c2-9631-d32a5152d766.png"
-        },
-        {
-          "id": "6a5e27b295e748bed9510853",
-          "author": "Zia Ullah",
-          "description": "Last year a client called me about exactly this. Someone ran git log -p on a hunch and found a .env committed two years earlier, never caught. Database password, Stripe secret, JWT signing key — all s",
-          "link": "https://www.freecodecamp.org/news/how-to-manage-secrets-securely-with-azure-key-vault-in-node-js/",
-          "publishedOn": "2026-07-20T13:50:42.000Z",
-          "wordCount": 4922,
-          "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5491b408-9c6b-4d4d-a53e-215119fb2d97.png"
         }
       ]
     }

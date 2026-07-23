@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-22T03:24:12.131Z</id>
+    <id>urn:2026-07-23T03:30:17.402Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-22T03:24:12.131Z</updated>
+    <updated>2026-07-23T03:30:17.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is HyDE? How to Improve RAG with Hypothetical Documents]]></title>
+        <id>6a6136e1ca77a68a9bf2d904</id>
+        <link href="https://www.freecodecamp.org/news/what-is-hyde-how-to-improve-rag-with-hypothetical-documents/"/>
+        <updated>2026-07-22T21:32:17.000Z</updated>
+        <summary type="html"><![CDATA[Retrieval-Augmented Generation, commonly known as RAG, has become one of the most widely used approaches for building applications with large language models. Instead of asking an LLM to answer entire]]></summary>
+        <author>
+            <name>Sameer Shukla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Static HTML Page Editable in the Browser with Vanilla JavaScript]]></title>
+        <id>6a61266b62f25d8178b980e0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-a-static-html-page-editable-in-the-browser-with-vanilla-javascript/"/>
+        <updated>2026-07-22T20:22:03.000Z</updated>
+        <summary type="html"><![CDATA[When you maintain a document for someone else, such as a résumé, a one-page portfolio, or a printable menu, the bottleneck is rarely the layout. It's the edit loop. Every small change ("move this bull]]></summary>
+        <author>
+            <name>timothy ogbemudia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Trace and Monitor AI Agents with LangSmith]]></title>
+        <id>6a611eaea47daf82ec9372d6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-trace-and-monitor-ai-agents-with-langsmith/"/>
+        <updated>2026-07-22T19:49:02.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, I'll show you how to trace and monitor a local AI agent with LangSmith. We'll build a small local AI agent and then enable LangSmith tracing for it so that we can inspect model calls]]></summary>
+        <author>
+            <name>Darsh Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Train a Tumor Segmentation Model on Ultrasound Data with MONAI]]></title>
+        <id>6a60f5843dee1fe3a0faaca9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-train-a-tumor-segmentation-model-on-ultrasound-data-with-monai/"/>
+        <updated>2026-07-22T16:53:24.000Z</updated>
+        <summary type="html"><![CDATA[Most segmentation tutorials begin by choosing a model, feeding images into it, and tuning hyperparameters until the metric improves. But this skips the step that often matters most: understanding the]]></summary>
+        <author>
+            <name>Lakshmi Mahabaleshwara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Reusable Date-Time Picker in React with shadcn/ui]]></title>
+        <id>6a60f42cb1ecbbb606535a7b</id>
+        <link href="https://www.freecodecamp.org/news/build-a-reusable-date-time-picker-in-react-with-shadcn-ui/"/>
+        <updated>2026-07-22T16:47:40.000Z</updated>
+        <summary type="html"><![CDATA[A date and time picker is one of those components that looks small in a design file and turns into a real time sink once you start building it. You need a calendar, a time selector, a state that keeps]]></summary>
+        <author>
+            <name>Vaibhav Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Feature With Gemini: A Practical Guide to Prompt Engineering for Developers]]></title>
+        <id>6a60f2e469bd57569d60caf9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-feature-with-gemini-a-practical-guide-to-prompt-engineering-for-developers/"/>
+        <updated>2026-07-22T16:42:12.000Z</updated>
+        <summary type="html"><![CDATA[Most prompt engineering tutorials follow the same shape. Install the SDK, paste your API key, call generateContent, and print the response. The model says something plausible and the tutorial ends. Th]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Evaluate AI Code Quality: A Practical Guide for Engineers]]></title>
+        <id>6a60f285d0399316ddce21d2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-evaluate-ai-code-quality-a-practical-guide-for-engineers/"/>
+        <updated>2026-07-22T16:40:37.000Z</updated>
+        <summary type="html"><![CDATA[You asked the AI to write a function. It gave you something that looks right. It even runs. But is it actually good? Most engineers stop there. They see green and move on. That habit will quietly caus]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Relaxation and its Role in Vision": The 1977 PhD Thesis That Helped Shape Modern AI Research]]></title>
         <id>6a5faeb5d735fe8d9b8a5d84</id>
@@ -58,76 +128,6 @@ writing-mode originally handwritten and published with love on CSS-Tricks. You s
         <summary type="html"><![CDATA[Not every AI feature needs a cloud model, with its per-token bills, network round-trips, and private data leaving your machine. If you're on a modern Mac, a capable language model is already on your d]]></summary>
         <author>
             <name>Balogun Wahab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize Enterprise Application Performance with T-SQL Query Tuning and Indexing Strategies]]></title>
-        <id>6a5e89d9dfc3c99e37bbdef0</id>
-        <link href="https://www.freecodecamp.org/news/optimize-enterprise-app-performance-with-t-sql-query-tuning-and-indexing-strategies/"/>
-        <updated>2026-07-20T20:49:29.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to optimize SQL Server performance using T-SQL query tuning, indexing strategies, execution plans, and real-world optimization techniques for enterprise applications.]]></summary>
-        <author>
-            <name>Gopinath Karunanithi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF Signature Tool Using JavaScript]]></title>
-        <id>6a5e89518186f4c5817d466b</id>
-        <link href="https://www.freecodecamp.org/news/build-pdf-signature-tool-javascript/"/>
-        <updated>2026-07-20T20:47:13.000Z</updated>
-        <summary type="html"><![CDATA[PDF documents are commonly used for agreements, forms, approvals, invoices, reports, applications, and other documents that may need a signature or additional text before they are shared. A traditiona]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Multi-Tenant SaaS API with Node.js, RBAC, and Audit Logging]]></title>
-        <id>6a5e8914bc397f89a942b88b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-multi-tenant-saas-api-with-nodejs-rbac-and-audit-logging/"/>
-        <updated>2026-07-20T20:46:12.000Z</updated>
-        <summary type="html"><![CDATA[A colleague asked me to help debug what looked like a permissions issue in their SaaS project management tool. Users were seeing resources they hadn't created. I pulled up the query logs expecting som]]></summary>
-        <author>
-            <name>Zia Ullah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HRV Data Is Everywhere. Here's What It Actually Means]]></title>
-        <id>6a5e88ed780db2fa84ad0b48</id>
-        <link href="https://www.freecodecamp.org/news/hrv-data-is-everywhere-here-s-what-it-actually-means/"/>
-        <updated>2026-07-20T20:45:33.000Z</updated>
-        <summary type="html"><![CDATA[Health data is having a moment. Of all the metrics receiving the most developer interest at present, there’s nothing like heart rate variability (HRV). It’s a feature found on every major SDK for wear]]></summary>
-        <author>
-            <name>Shradha Puri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[That's Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It]]></title>
-        <id>6a5e53d62305696f1e91f721</id>
-        <link href="https://www.freecodecamp.org/news/that-s-embarrassing-why-frontier-ai-still-makes-things-up-and-what-to-do-about-it/"/>
-        <updated>2026-07-20T16:59:02.000Z</updated>
-        <summary type="html"><![CDATA[It's mid 2026, and the best frontier models out there still hallucinate. I want you to gain two things from reading this article: understanding that AI hallucinations are still real and possibly harmf]]></summary>
-        <author>
-            <name>Omer Rosenbaum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Manufacturing to Microservices: Universal Lessons About Reliability]]></title>
-        <id>6a5e283ee7616f5097f7d096</id>
-        <link href="https://www.freecodecamp.org/news/from-manufacturing-to-microservices-universal-lessons-about-reliability/"/>
-        <updated>2026-07-20T13:53:02.000Z</updated>
-        <summary type="html"><![CDATA[Software engineers often think reliability is a modern challenge. We discuss uptime, distributed systems, observability, and fault tolerance as if they belong exclusively to cloud computing. In realit]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manage Secrets Securely with Azure Key Vault in Node.js]]></title>
-        <id>6a5e27b295e748bed9510853</id>
-        <link href="https://www.freecodecamp.org/news/how-to-manage-secrets-securely-with-azure-key-vault-in-node-js/"/>
-        <updated>2026-07-20T13:50:42.000Z</updated>
-        <summary type="html"><![CDATA[Last year a client called me about exactly this. Someone ran git log -p on a hunch and found a .env committed two years earlier, never caught. Database password, Stripe secret, JWT signing key — all s]]></summary>
-        <author>
-            <name>Zia Ullah</name>
         </author>
     </entry>
     <entry>
