@@ -134,7 +134,7 @@
           "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
           "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
           "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8083,
+          "wordCount": 8079,
           "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
@@ -149,7 +149,7 @@
           "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
           "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
           "publishedOn": "2026-07-17T08:00:00.000Z",
-          "wordCount": 5080,
+          "wordCount": 5087,
           "title": "When It Makes Sense To “Block” The Main Thread",
           "enclosure": {
             "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
@@ -179,7 +179,7 @@
           "description": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
           "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
           "publishedOn": "2026-07-10T13:00:00.000Z",
-          "wordCount": 5404,
+          "wordCount": 5402,
           "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
@@ -194,7 +194,7 @@
           "description": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
           "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
           "publishedOn": "2026-07-09T15:00:00.000Z",
-          "wordCount": 6763,
+          "wordCount": 6769,
           "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
@@ -239,7 +239,7 @@
           "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
           "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
           "publishedOn": "2026-07-02T10:00:00.000Z",
-          "wordCount": 7063,
+          "wordCount": 7057,
           "title": "Matching AI Modality To User Intent: Designing The Right Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
@@ -269,7 +269,7 @@
           "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
           "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4820,
+          "wordCount": 4814,
           "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
@@ -285,6 +285,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a624877953fb9a0375f9238",
+          "author": "Rudrendu Paul",
+          "description": "Imagine your team deployed Prompt A globally two weeks ago. Tight deadlines and high confidence meant the rollout hit 100 percent of users without any A/B testing, shadow traffic, or holdout groups. W",
+          "link": "https://www.freecodecamp.org/news/counterfactual-meta-learners-for-llm-prompt-decisions/",
+          "publishedOn": "2026-07-23T16:59:35.000Z",
+          "wordCount": 5333,
+          "title": "Product Experiment Counterfactual Methods for Estimating the Effects of AI Prompt Engineering",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dc2c7913-508e-48fe-b56c-772e86469976.png"
+        },
+        {
+          "id": "6a6213bd6b556b99a0ec5466",
+          "author": "Beau Carnes",
+          "description": "Modern software engineering is evolving into an ecosystem where AI actively participates in planning, coding, and deployment. To help bridge the gap between initial concepts and fully shipped products",
+          "link": "https://www.freecodecamp.org/news/multi-agent-coding-deployment-with-trae-ide/",
+          "publishedOn": "2026-07-23T13:14:37.000Z",
+          "wordCount": 1103,
+          "title": "Multi-Agent Coding & Deployment with TRAE IDE",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/c7192c88-d8f8-40c9-9550-005df6625d02.jpg"
+        },
+        {
+          "id": "6a62129c3b9d6ffafc6bca6d",
+          "author": "Beau Carnes",
+          "description": "Anthropic is expanding its official certification ecosystem, and advanced practitioners now have a dedicated path to validate their expertise with the release of the Claude Certified Architect – Found",
+          "link": "https://www.freecodecamp.org/news/claude-certified-architect-foundations-prep-for-anthropic-s-new-certification-exam/",
+          "publishedOn": "2026-07-23T13:09:48.000Z",
+          "wordCount": 1149,
+          "title": "Claude Certified Architect – Foundations: Prep for Anthropic's New Certification Exam",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7fd04cd5-52c9-4974-b7c9-74ebb862d2b0.jpg"
+        },
+        {
+          "id": "6a6211a0796e2bb162a4809c",
+          "author": "Beau Carnes",
+          "description": "What happens when an engineer gets fed up with corporate lawyers breathing down their neck? Sometimes, you get an inside joke that quietly ships to millions of machines and survives for over three dec",
+          "link": "https://www.freecodecamp.org/news/how-an-apple-engineer-pranked-billion-dollar-lawyers-and-won/",
+          "publishedOn": "2026-07-23T13:05:36.000Z",
+          "wordCount": 1087,
+          "title": "How an Apple Engineer Pranked Billion-Dollar Lawyers (and Won)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/edbee5f7-49b7-483b-9a4c-041143d823c2.png"
+        },
+        {
+          "id": "6a614f37a80e58ea2984c135",
+          "author": "Chudi Nnorukam",
+          "description": "When an AI assistant answers a question, it lifts sentences from a handful of pages and cites them. Whether your page is liftable is not a mystery or a vibe. It's a set of mechanical properties of you",
+          "link": "https://www.freecodecamp.org/news/how-to-run-an-ai-extractability-audit/",
+          "publishedOn": "2026-07-22T23:16:07.000Z",
+          "wordCount": 4468,
+          "title": "How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9c86b8bb-fdda-4f95-9175-623de49c584c.png"
+        },
+        {
+          "id": "6a614f114250f422f9a7be1d",
+          "author": "Shubham Katara",
+          "description": "In this article, you'll build an accurate mental model of what a Container Network Interface (CNI) actually does. Not by reading YAML, but by doing every single step it does by hand with raw Linux ker",
+          "link": "https://www.freecodecamp.org/news/how-to-build-kubernetes-networking-without-kubernetes-do-what-the-cni-does-by-hand/",
+          "publishedOn": "2026-07-22T23:15:29.000Z",
+          "wordCount": 5467,
+          "title": "How to Build Kubernetes Networking Without Kubernetes: Do What the CNI Does By Hand",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8fc3683f-15c8-45ff-8424-bb1b427f68e2.png"
+        },
+        {
+          "id": "6a614617166ef0e401b18d80",
+          "author": "Manish Shivanandhan",
+          "description": "Most tutorials on programmatic advertising stop at the web banner. That's a shame, because the idea gets far more interesting once you follow it off the screen and into the physical world. If you've n",
+          "link": "https://www.freecodecamp.org/news/how-programmatic-advertising-works/",
+          "publishedOn": "2026-07-22T22:37:11.000Z",
+          "wordCount": 2513,
+          "title": "How Programmatic Advertising Works",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ead3788a-52c2-4821-b5c9-1c626c50d375.png"
+        },
+        {
+          "id": "6a6145d945466c5d8ca2a549",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "Every application, at some point, needs to talk to another system. A mobile app talks to a backend. A backend service talks to a payment gateway. An authentication service talks to a user service. A d",
+          "link": "https://www.freecodecamp.org/news/remote-procedure-calls-protocol-buffers-and-modern-distributed-systems-communication/",
+          "publishedOn": "2026-07-22T22:36:09.000Z",
+          "wordCount": 8722,
+          "title": "From RPC to gRPC: Understanding Remote Procedure Calls, Protocol Buffers, and Modern Distributed Systems Communication",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1205581e-5729-44fa-837e-0f30981ea059.png"
+        },
         {
           "id": "6a6136e1ca77a68a9bf2d904",
           "author": "Sameer Shukla",
@@ -304,86 +384,6 @@
           "wordCount": 3268,
           "title": "How to Make a Static HTML Page Editable in the Browser with Vanilla JavaScript",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/08400ed2-ef6a-404f-a135-b6cefe9d6919.png"
-        },
-        {
-          "id": "6a611eaea47daf82ec9372d6",
-          "author": "Darsh Shah",
-          "description": "In this tutorial, I'll show you how to trace and monitor a local AI agent with LangSmith. We'll build a small local AI agent and then enable LangSmith tracing for it so that we can inspect model calls",
-          "link": "https://www.freecodecamp.org/news/how-to-trace-and-monitor-ai-agents-with-langsmith/",
-          "publishedOn": "2026-07-22T19:49:02.000Z",
-          "wordCount": 2762,
-          "title": "How to Trace and Monitor AI Agents with LangSmith",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6ff293d4-dea5-462b-b79b-c319d77458f0.png"
-        },
-        {
-          "id": "6a60f5843dee1fe3a0faaca9",
-          "author": "Lakshmi Mahabaleshwara",
-          "description": "Most segmentation tutorials begin by choosing a model, feeding images into it, and tuning hyperparameters until the metric improves. But this skips the step that often matters most: understanding the",
-          "link": "https://www.freecodecamp.org/news/how-to-train-a-tumor-segmentation-model-on-ultrasound-data-with-monai/",
-          "publishedOn": "2026-07-22T16:53:24.000Z",
-          "wordCount": 3761,
-          "title": "How to Train a Tumor Segmentation Model on Ultrasound Data with MONAI",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3e7cfe47-858c-4ce9-b8f9-1c5fc22f29b7.png"
-        },
-        {
-          "id": "6a60f42cb1ecbbb606535a7b",
-          "author": "Vaibhav Gupta",
-          "description": "A date and time picker is one of those components that looks small in a design file and turns into a real time sink once you start building it. You need a calendar, a time selector, a state that keeps",
-          "link": "https://www.freecodecamp.org/news/build-a-reusable-date-time-picker-in-react-with-shadcn-ui/",
-          "publishedOn": "2026-07-22T16:47:40.000Z",
-          "wordCount": 2903,
-          "title": "How to Build a Reusable Date-Time Picker in React with shadcn/ui",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7dcddc1c-2a9d-4af7-8f02-ffb76bea2c7b.png"
-        },
-        {
-          "id": "6a60f2e469bd57569d60caf9",
-          "author": "Joan Ayebola",
-          "description": "Most prompt engineering tutorials follow the same shape. Install the SDK, paste your API key, call generateContent, and print the response. The model says something plausible and the tutorial ends. Th",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-feature-with-gemini-a-practical-guide-to-prompt-engineering-for-developers/",
-          "publishedOn": "2026-07-22T16:42:12.000Z",
-          "wordCount": 7384,
-          "title": "How to Build an AI Feature With Gemini: A Practical Guide to Prompt Engineering for Developers",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/999d848a-36b1-42d1-a2c1-cd404cd09d4e.png"
-        },
-        {
-          "id": "6a60f285d0399316ddce21d2",
-          "author": "Manish Shivanandhan",
-          "description": "You asked the AI to write a function. It gave you something that looks right. It even runs. But is it actually good? Most engineers stop there. They see green and move on. That habit will quietly caus",
-          "link": "https://www.freecodecamp.org/news/how-to-evaluate-ai-code-quality-a-practical-guide-for-engineers/",
-          "publishedOn": "2026-07-22T16:40:37.000Z",
-          "wordCount": 2516,
-          "title": "How to Evaluate AI Code Quality: A Practical Guide for Engineers",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5e14329a-90ef-46e0-9ff9-a629c711c111.png"
-        },
-        {
-          "id": "6a5faeb5d735fe8d9b8a5d84",
-          "author": "Mohammed Fahd Abrah",
-          "description": "When people think of Geoffrey Hinton, they usually think of backpropagation, Boltzmann Machines, Deep Belief Networks, or the deep learning revolution that transformed artificial intelligence. But few",
-          "link": "https://www.freecodecamp.org/news/relaxation-and-its-role-in-vision-the-1977-phd-thesis-that-helped-shape-modern-ai-research/",
-          "publishedOn": "2026-07-21T17:39:01.000Z",
-          "wordCount": 6060,
-          "title": "\"Relaxation and its Role in Vision\": The 1977 PhD Thesis That Helped Shape Modern AI Research",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f1fe2707-f951-401a-9b08-54c5e1c2a3d9.png"
-        },
-        {
-          "id": "6a5e9c35892c69a16fdf27df",
-          "author": "Darsh Shah",
-          "description": "In this tutorial, I’ll show you how to serve a multi-user local AI agent as a REST API using FastAPI, then add a lightweight Streamlit UI on top. Instead of interacting with the agent through a termin",
-          "link": "https://www.freecodecamp.org/news/how-to-serve-a-multi-user-ai-agent-with-fastapi-and-streamlit/",
-          "publishedOn": "2026-07-20T22:07:49.000Z",
-          "wordCount": 3107,
-          "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e5bf4093-e618-4388-954c-f1a49bc87cfe.png"
-        },
-        {
-          "id": "6a5e92afe12aa31dae6e8a79",
-          "author": "Balogun Wahab",
-          "description": "Not every AI feature needs a cloud model, with its per-token bills, network round-trips, and private data leaving your machine. If you're on a modern Mac, a capable language model is already on your d",
-          "link": "https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/",
-          "publishedOn": "2026-07-20T21:27:11.000Z",
-          "wordCount": 4054,
-          "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7f0e2343-7394-46b5-a4c8-3ef0fecfa57a.png"
         }
       ]
     }

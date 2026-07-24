@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-23T03:30:17.402Z</id>
+    <id>urn:2026-07-24T03:25:41.650Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-23T03:30:17.402Z</updated>
+    <updated>2026-07-24T03:25:41.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Product Experiment Counterfactual Methods for Estimating the Effects of AI Prompt Engineering]]></title>
+        <id>6a624877953fb9a0375f9238</id>
+        <link href="https://www.freecodecamp.org/news/counterfactual-meta-learners-for-llm-prompt-decisions/"/>
+        <updated>2026-07-23T16:59:35.000Z</updated>
+        <summary type="html"><![CDATA[Imagine your team deployed Prompt A globally two weeks ago. Tight deadlines and high confidence meant the rollout hit 100 percent of users without any A/B testing, shadow traffic, or holdout groups. W]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Agent Coding & Deployment with TRAE IDE]]></title>
+        <id>6a6213bd6b556b99a0ec5466</id>
+        <link href="https://www.freecodecamp.org/news/multi-agent-coding-deployment-with-trae-ide/"/>
+        <updated>2026-07-23T13:14:37.000Z</updated>
+        <summary type="html"><![CDATA[Modern software engineering is evolving into an ecosystem where AI actively participates in planning, coding, and deployment. To help bridge the gap between initial concepts and fully shipped products]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Certified Architect – Foundations: Prep for Anthropic's New Certification Exam]]></title>
+        <id>6a62129c3b9d6ffafc6bca6d</id>
+        <link href="https://www.freecodecamp.org/news/claude-certified-architect-foundations-prep-for-anthropic-s-new-certification-exam/"/>
+        <updated>2026-07-23T13:09:48.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic is expanding its official certification ecosystem, and advanced practitioners now have a dedicated path to validate their expertise with the release of the Claude Certified Architect – Found]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How an Apple Engineer Pranked Billion-Dollar Lawyers (and Won)]]></title>
+        <id>6a6211a0796e2bb162a4809c</id>
+        <link href="https://www.freecodecamp.org/news/how-an-apple-engineer-pranked-billion-dollar-lawyers-and-won/"/>
+        <updated>2026-07-23T13:05:36.000Z</updated>
+        <summary type="html"><![CDATA[What happens when an engineer gets fed up with corporate lawyers breathing down their neck? Sometimes, you get an inside joke that quietly ships to millions of machines and survives for over three dec]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)]]></title>
+        <id>6a614f37a80e58ea2984c135</id>
+        <link href="https://www.freecodecamp.org/news/how-to-run-an-ai-extractability-audit/"/>
+        <updated>2026-07-22T23:16:07.000Z</updated>
+        <summary type="html"><![CDATA[When an AI assistant answers a question, it lifts sentences from a handful of pages and cites them. Whether your page is liftable is not a mystery or a vibe. It's a set of mechanical properties of you]]></summary>
+        <author>
+            <name>Chudi Nnorukam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Kubernetes Networking Without Kubernetes: Do What the CNI Does By Hand]]></title>
+        <id>6a614f114250f422f9a7be1d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-kubernetes-networking-without-kubernetes-do-what-the-cni-does-by-hand/"/>
+        <updated>2026-07-22T23:15:29.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll build an accurate mental model of what a Container Network Interface (CNI) actually does. Not by reading YAML, but by doing every single step it does by hand with raw Linux ker]]></summary>
+        <author>
+            <name>Shubham Katara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Programmatic Advertising Works]]></title>
+        <id>6a614617166ef0e401b18d80</id>
+        <link href="https://www.freecodecamp.org/news/how-programmatic-advertising-works/"/>
+        <updated>2026-07-22T22:37:11.000Z</updated>
+        <summary type="html"><![CDATA[Most tutorials on programmatic advertising stop at the web banner. That's a shame, because the idea gets far more interesting once you follow it off the screen and into the physical world. If you've n]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From RPC to gRPC: Understanding Remote Procedure Calls, Protocol Buffers, and Modern Distributed Systems Communication]]></title>
+        <id>6a6145d945466c5d8ca2a549</id>
+        <link href="https://www.freecodecamp.org/news/remote-procedure-calls-protocol-buffers-and-modern-distributed-systems-communication/"/>
+        <updated>2026-07-22T22:36:09.000Z</updated>
+        <summary type="html"><![CDATA[Every application, at some point, needs to talk to another system. A mobile app talks to a backend. A backend service talks to a payment gateway. An authentication service talks to a user service. A d]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is HyDE? How to Improve RAG with Hypothetical Documents]]></title>
         <id>6a6136e1ca77a68a9bf2d904</id>
@@ -23,66 +103,6 @@
         <summary type="html"><![CDATA[When you maintain a document for someone else, such as a résumé, a one-page portfolio, or a printable menu, the bottleneck is rarely the layout. It's the edit loop. Every small change ("move this bull]]></summary>
         <author>
             <name>timothy ogbemudia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Trace and Monitor AI Agents with LangSmith]]></title>
-        <id>6a611eaea47daf82ec9372d6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-trace-and-monitor-ai-agents-with-langsmith/"/>
-        <updated>2026-07-22T19:49:02.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, I'll show you how to trace and monitor a local AI agent with LangSmith. We'll build a small local AI agent and then enable LangSmith tracing for it so that we can inspect model calls]]></summary>
-        <author>
-            <name>Darsh Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Train a Tumor Segmentation Model on Ultrasound Data with MONAI]]></title>
-        <id>6a60f5843dee1fe3a0faaca9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-train-a-tumor-segmentation-model-on-ultrasound-data-with-monai/"/>
-        <updated>2026-07-22T16:53:24.000Z</updated>
-        <summary type="html"><![CDATA[Most segmentation tutorials begin by choosing a model, feeding images into it, and tuning hyperparameters until the metric improves. But this skips the step that often matters most: understanding the]]></summary>
-        <author>
-            <name>Lakshmi Mahabaleshwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Reusable Date-Time Picker in React with shadcn/ui]]></title>
-        <id>6a60f42cb1ecbbb606535a7b</id>
-        <link href="https://www.freecodecamp.org/news/build-a-reusable-date-time-picker-in-react-with-shadcn-ui/"/>
-        <updated>2026-07-22T16:47:40.000Z</updated>
-        <summary type="html"><![CDATA[A date and time picker is one of those components that looks small in a design file and turns into a real time sink once you start building it. You need a calendar, a time selector, a state that keeps]]></summary>
-        <author>
-            <name>Vaibhav Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Feature With Gemini: A Practical Guide to Prompt Engineering for Developers]]></title>
-        <id>6a60f2e469bd57569d60caf9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-feature-with-gemini-a-practical-guide-to-prompt-engineering-for-developers/"/>
-        <updated>2026-07-22T16:42:12.000Z</updated>
-        <summary type="html"><![CDATA[Most prompt engineering tutorials follow the same shape. Install the SDK, paste your API key, call generateContent, and print the response. The model says something plausible and the tutorial ends. Th]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Evaluate AI Code Quality: A Practical Guide for Engineers]]></title>
-        <id>6a60f285d0399316ddce21d2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-evaluate-ai-code-quality-a-practical-guide-for-engineers/"/>
-        <updated>2026-07-22T16:40:37.000Z</updated>
-        <summary type="html"><![CDATA[You asked the AI to write a function. It gave you something that looks right. It even runs. But is it actually good? Most engineers stop there. They see green and move on. That habit will quietly caus]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Relaxation and its Role in Vision": The 1977 PhD Thesis That Helped Shape Modern AI Research]]></title>
-        <id>6a5faeb5d735fe8d9b8a5d84</id>
-        <link href="https://www.freecodecamp.org/news/relaxation-and-its-role-in-vision-the-1977-phd-thesis-that-helped-shape-modern-ai-research/"/>
-        <updated>2026-07-21T17:39:01.000Z</updated>
-        <summary type="html"><![CDATA[When people think of Geoffrey Hinton, they usually think of backpropagation, Boltzmann Machines, Deep Belief Networks, or the deep learning revolution that transformed artificial intelligence. But few]]></summary>
-        <author>
-            <name>Mohammed Fahd Abrah</name>
         </author>
     </entry>
     <entry>
@@ -108,26 +128,6 @@ This is most useful in languages such as Chinese, Japanese or …
 writing-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Mojtaba Seyedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Serve a Multi-User AI Agent with FastAPI and Streamlit]]></title>
-        <id>6a5e9c35892c69a16fdf27df</id>
-        <link href="https://www.freecodecamp.org/news/how-to-serve-a-multi-user-ai-agent-with-fastapi-and-streamlit/"/>
-        <updated>2026-07-20T22:07:49.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, I’ll show you how to serve a multi-user local AI agent as a REST API using FastAPI, then add a lightweight Streamlit UI on top. Instead of interacting with the agent through a termin]]></summary>
-        <author>
-            <name>Darsh Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Apple’s Foundation Models in a Web App with a macOS Companion]]></title>
-        <id>6a5e92afe12aa31dae6e8a79</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/"/>
-        <updated>2026-07-20T21:27:11.000Z</updated>
-        <summary type="html"><![CDATA[Not every AI feature needs a cloud model, with its per-token bills, network round-trips, and private data leaving your machine. If you're on a modern Mac, a capable language model is already on your d]]></summary>
-        <author>
-            <name>Balogun Wahab</name>
         </author>
     </entry>
     <entry>
