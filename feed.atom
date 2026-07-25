@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-24T03:25:41.650Z</id>
+    <id>urn:2026-07-25T03:24:03.248Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-24T03:25:41.650Z</updated>
+    <updated>2026-07-25T03:24:03.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Diagnose Production Bugs When You Can't Reproduce Them Locally]]></title>
+        <id>6a63d10c86ddd43ae5c0036e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-diagnose-production-bugs-when-you-can-t-reproduce-them-locally/"/>
+        <updated>2026-07-24T20:54:36.000Z</updated>
+        <summary type="html"><![CDATA[Every developer eventually encounters the same frustrating problem. A customer reports that your application is failing in production. You try the exact same workflow on your development machine, but]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Blur Tool Using JavaScript]]></title>
+        <id>6a63cec8c741f882378e9b06</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-blur-tool-javascript/"/>
+        <updated>2026-07-24T20:44:56.000Z</updated>
+        <summary type="html"><![CDATA[Many PDF documents contain information that shouldn't be shared publicly. Personal details, financial figures, signatures, addresses, account numbers, employee information, or confidential business da]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Prompt Engineering and Context Engineering for AI Agents]]></title>
+        <id>6a63ce715839938cbd3801af</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-prompt-engineering-and-context-engineering-for-ai-agents/"/>
+        <updated>2026-07-24T20:43:29.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, I’ll show you how prompt engineering and context engineering can improve an AI agent's performance. We’ll build a simple local agent, start with a baseline input, then improve it wit]]></summary>
+        <author>
+            <name>Darsh Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to Do if You've Outgrown Your Cron Job Scheduler]]></title>
+        <id>6a63cd4ce956973f287e1685</id>
+        <link href="https://www.freecodecamp.org/news/what-to-do-if-you-ve-outgrown-your-cron-job-scheduler/"/>
+        <updated>2026-07-24T20:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Most developers begin their automation journey similarly. They create a script that performs a helpful task, such as pulling data from an API, resizing a batch of images, or emailing a report, and the]]></summary>
+        <author>
+            <name>Rob Walters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Agent with Function Calling in Node.js Using Google Gemini]]></title>
+        <id>6a63af5c9a1ab0289b0cbb6a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-ai-agent-function-calling-nodejs-gemini/"/>
+        <updated>2026-07-24T18:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Last year, a client asked me to add a conversational interface to their internal reporting tool. Staff would type a question, and the system would pull a live answer from the database. I had the first]]></summary>
+        <author>
+            <name>Zia Ullah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production]]></title>
+        <id>6a638870a4de2a05a49152ca</id>
+        <link href="https://www.freecodecamp.org/news/the-new-agency-stack-how-dev-shops-use-claude-cursor-and-copilot-in-production/"/>
+        <updated>2026-07-24T15:44:48.000Z</updated>
+        <summary type="html"><![CDATA[Two years ago, AI coding tools were a curiosity. Agencies let junior devs experiment with them on internal tools and side projects, the kind of work where nothing broke if the code was bad. Client wor]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firestore Data Modeling Guide: Embedded Documents vs Referencing (with a Blog Case Study)]]></title>
+        <id>6a63826ed2f5d140f2aaa325</id>
+        <link href="https://www.freecodecamp.org/news/firestore-data-modeling-guide-embedded-documents-vs-referencing-with-a-blog-case-study/"/>
+        <updated>2026-07-24T15:19:10.000Z</updated>
+        <summary type="html"><![CDATA[When developers transition from the relational world (MySQL, PostgreSQL) to Firestore, Firebase's NoSQL document database, they often bring their old habits with them. They try to replicate tables, fo]]></summary>
+        <author>
+            <name>Caleb Mintoumba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Bulletproof APIs using TypeScript in Express]]></title>
+        <id>6a63758d7e45b1af6f81b3d4</id>
+        <link href="https://www.freecodecamp.org/news/build-bulletproof-apis-using-typescript-in-express/"/>
+        <updated>2026-07-24T14:24:13.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever loved the speed of building backend servers with Express.js, but wished you didn't have to guess at types or debug silly runtime errors, we just posted the perfect tutorial for you. Our]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Clients and Servers Communicate: Full Handbook on HTTP/1.1, HTTP/2, REST, WebSockets, GraphQL, gRPC, and Protocol Buffers]]></title>
+        <id>6a62a069f97a6bd65ce3cd8f</id>
+        <link href="https://www.freecodecamp.org/news/how-clients-and-servers-communicate-handbook-http-rest-websockets-graphql-grpc-protobuf/"/>
+        <updated>2026-07-23T23:14:49.000Z</updated>
+        <summary type="html"><![CDATA[You've built and consumed APIs. You know what a GET request is, what a JSON response looks like, and how to add an Authorization header. You've used REST, maybe tried GraphQL, and perhaps heard of gRP]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Product Experiment Counterfactual Methods for Estimating the Effects of AI Prompt Engineering]]></title>
         <id>6a624877953fb9a0375f9238</id>
@@ -13,96 +103,6 @@
         <summary type="html"><![CDATA[Imagine your team deployed Prompt A globally two weeks ago. Tight deadlines and high confidence meant the rollout hit 100 percent of users without any A/B testing, shadow traffic, or holdout groups. W]]></summary>
         <author>
             <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-Agent Coding & Deployment with TRAE IDE]]></title>
-        <id>6a6213bd6b556b99a0ec5466</id>
-        <link href="https://www.freecodecamp.org/news/multi-agent-coding-deployment-with-trae-ide/"/>
-        <updated>2026-07-23T13:14:37.000Z</updated>
-        <summary type="html"><![CDATA[Modern software engineering is evolving into an ecosystem where AI actively participates in planning, coding, and deployment. To help bridge the gap between initial concepts and fully shipped products]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Certified Architect – Foundations: Prep for Anthropic's New Certification Exam]]></title>
-        <id>6a62129c3b9d6ffafc6bca6d</id>
-        <link href="https://www.freecodecamp.org/news/claude-certified-architect-foundations-prep-for-anthropic-s-new-certification-exam/"/>
-        <updated>2026-07-23T13:09:48.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic is expanding its official certification ecosystem, and advanced practitioners now have a dedicated path to validate their expertise with the release of the Claude Certified Architect – Found]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How an Apple Engineer Pranked Billion-Dollar Lawyers (and Won)]]></title>
-        <id>6a6211a0796e2bb162a4809c</id>
-        <link href="https://www.freecodecamp.org/news/how-an-apple-engineer-pranked-billion-dollar-lawyers-and-won/"/>
-        <updated>2026-07-23T13:05:36.000Z</updated>
-        <summary type="html"><![CDATA[What happens when an engineer gets fed up with corporate lawyers breathing down their neck? Sometimes, you get an inside joke that quietly ships to millions of machines and survives for over three dec]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)]]></title>
-        <id>6a614f37a80e58ea2984c135</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-an-ai-extractability-audit/"/>
-        <updated>2026-07-22T23:16:07.000Z</updated>
-        <summary type="html"><![CDATA[When an AI assistant answers a question, it lifts sentences from a handful of pages and cites them. Whether your page is liftable is not a mystery or a vibe. It's a set of mechanical properties of you]]></summary>
-        <author>
-            <name>Chudi Nnorukam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Kubernetes Networking Without Kubernetes: Do What the CNI Does By Hand]]></title>
-        <id>6a614f114250f422f9a7be1d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-kubernetes-networking-without-kubernetes-do-what-the-cni-does-by-hand/"/>
-        <updated>2026-07-22T23:15:29.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll build an accurate mental model of what a Container Network Interface (CNI) actually does. Not by reading YAML, but by doing every single step it does by hand with raw Linux ker]]></summary>
-        <author>
-            <name>Shubham Katara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Programmatic Advertising Works]]></title>
-        <id>6a614617166ef0e401b18d80</id>
-        <link href="https://www.freecodecamp.org/news/how-programmatic-advertising-works/"/>
-        <updated>2026-07-22T22:37:11.000Z</updated>
-        <summary type="html"><![CDATA[Most tutorials on programmatic advertising stop at the web banner. That's a shame, because the idea gets far more interesting once you follow it off the screen and into the physical world. If you've n]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From RPC to gRPC: Understanding Remote Procedure Calls, Protocol Buffers, and Modern Distributed Systems Communication]]></title>
-        <id>6a6145d945466c5d8ca2a549</id>
-        <link href="https://www.freecodecamp.org/news/remote-procedure-calls-protocol-buffers-and-modern-distributed-systems-communication/"/>
-        <updated>2026-07-22T22:36:09.000Z</updated>
-        <summary type="html"><![CDATA[Every application, at some point, needs to talk to another system. A mobile app talks to a backend. A backend service talks to a payment gateway. An authentication service talks to a user service. A d]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is HyDE? How to Improve RAG with Hypothetical Documents]]></title>
-        <id>6a6136e1ca77a68a9bf2d904</id>
-        <link href="https://www.freecodecamp.org/news/what-is-hyde-how-to-improve-rag-with-hypothetical-documents/"/>
-        <updated>2026-07-22T21:32:17.000Z</updated>
-        <summary type="html"><![CDATA[Retrieval-Augmented Generation, commonly known as RAG, has become one of the most widely used approaches for building applications with large language models. Instead of asking an LLM to answer entire]]></summary>
-        <author>
-            <name>Sameer Shukla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Static HTML Page Editable in the Browser with Vanilla JavaScript]]></title>
-        <id>6a61266b62f25d8178b980e0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-a-static-html-page-editable-in-the-browser-with-vanilla-javascript/"/>
-        <updated>2026-07-22T20:22:03.000Z</updated>
-        <summary type="html"><![CDATA[When you maintain a document for someone else, such as a résumé, a one-page portfolio, or a printable menu, the bottleneck is rarely the layout. It's the edit loop. Every small change ("move this bull]]></summary>
-        <author>
-            <name>timothy ogbemudia</name>
         </author>
     </entry>
     <entry>
@@ -273,50 +273,6 @@ What’s !important #14: Gap Decorations, random(), <select> field-sizing, and M
 The Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[translateZ()]]></title>
-        <id>https://css-tricks.com/?page_id=394786</id>
-        <link href="https://css-tricks.com/almanac/functions/t/translatez/"/>
-        <updated>2026-06-25T13:18:56.000Z</updated>
-        <summary type="html"><![CDATA[The translateZ() function moves an element closer to or farther from the user. 
-translateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[translateY()]]></title>
-        <id>https://css-tricks.com/?page_id=393249</id>
-        <link href="https://css-tricks.com/almanac/functions/t/translatey/"/>
-        <updated>2026-06-25T13:17:56.000Z</updated>
-        <summary type="html"><![CDATA[The translateY() function shifts an element vertically by the specified amount. 
-translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[translateX()]]></title>
-        <id>https://css-tricks.com/?page_id=393255</id>
-        <link href="https://css-tricks.com/almanac/functions/t/translatex/"/>
-        <updated>2026-06-25T13:16:01.000Z</updated>
-        <summary type="html"><![CDATA[The translateX() function shifts an element horizontally by the specified amount. 
-translateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[translate()]]></title>
-        <id>https://css-tricks.com/?page_id=393233</id>
-        <link href="https://css-tricks.com/almanac/functions/t/translate/"/>
-        <updated>2026-06-25T13:15:05.000Z</updated>
-        <summary type="html"><![CDATA[The CSS translate() function shifts an element from its default position on a 2-dimensional plane
-translate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
         </author>
     </entry>
 </feed>
