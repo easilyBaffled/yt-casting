@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-25T03:24:03.248Z</id>
+    <id>urn:2026-07-26T03:36:54.529Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-25T03:24:03.248Z</updated>
+    <updated>2026-07-26T03:36:54.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11]]></title>
+        <id>6a6402a571510a0df72aa7eb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-real-time-object-detection-and-tracking-pipeline-with-ros-2-and-yolov11/"/>
+        <updated>2026-07-25T00:26:13.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever tried to build a robotics system that can actually see, track, and respond to the world around it, you know that the hard part isn't training a detection model. The hard part is making]]></summary>
+        <author>
+            <name>Iyanuoluwa Enoch Oke</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Diagnose Production Bugs When You Can't Reproduce Them Locally]]></title>
         <id>6a63d10c86ddd43ae5c0036e</id>
@@ -93,16 +103,6 @@
         <summary type="html"><![CDATA[You've built and consumed APIs. You know what a GET request is, what a JSON response looks like, and how to add an Authorization header. You've used REST, maybe tried GraphQL, and perhaps heard of gRP]]></summary>
         <author>
             <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experiment Counterfactual Methods for Estimating the Effects of AI Prompt Engineering]]></title>
-        <id>6a624877953fb9a0375f9238</id>
-        <link href="https://www.freecodecamp.org/news/counterfactual-meta-learners-for-llm-prompt-decisions/"/>
-        <updated>2026-07-23T16:59:35.000Z</updated>
-        <summary type="html"><![CDATA[Imagine your team deployed Prompt A globally two weeks ago. Tight deadlines and high confidence meant the rollout hit 100 percent of users without any A/B testing, shadow traffic, or holdout groups. W]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
         </author>
     </entry>
     <entry>
