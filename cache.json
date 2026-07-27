@@ -94,7 +94,7 @@
           "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
           "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
           "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8091,
+          "wordCount": 8196,
           "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
@@ -109,7 +109,7 @@
           "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
           "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
           "publishedOn": "2026-07-17T08:00:00.000Z",
-          "wordCount": 5084,
+          "wordCount": 5093,
           "title": "When It Makes Sense To “Block” The Main Thread",
           "enclosure": {
             "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
@@ -139,7 +139,7 @@
           "description": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
           "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
           "publishedOn": "2026-07-10T13:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5407,
           "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
@@ -154,7 +154,7 @@
           "description": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
           "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
           "publishedOn": "2026-07-09T15:00:00.000Z",
-          "wordCount": 6761,
+          "wordCount": 6760,
           "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
@@ -199,7 +199,7 @@
           "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
           "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
           "publishedOn": "2026-07-02T10:00:00.000Z",
-          "wordCount": 7056,
+          "wordCount": 7061,
           "title": "Matching AI Modality To User Intent: Designing The Right Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
@@ -229,7 +229,7 @@
           "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
           "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4825,
+          "wordCount": 4927,
           "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
