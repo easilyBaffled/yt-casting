@@ -17,7 +17,7 @@
           "description": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in languages such as Chinese, Japanese or …\nwriting-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
           "publishedOn": "2026-07-21T09:39:10.000Z",
-          "wordCount": 3045,
+          "wordCount": 3046,
           "title": "writing-mode",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
         },
@@ -27,7 +27,7 @@
           "description": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …\npointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
           "publishedOn": "2026-07-15T19:57:51.000Z",
-          "wordCount": 4972,
+          "wordCount": 5050,
           "title": "pointer-events",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
         },
@@ -37,7 +37,7 @@
           "description": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-15/",
           "publishedOn": "2026-07-15T14:36:18.000Z",
-          "wordCount": 2376,
+          "wordCount": 2377,
           "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/07/3.mp4",
@@ -52,7 +52,7 @@
           "description": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\nGet Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
           "publishedOn": "2026-07-07T15:14:00.000Z",
-          "wordCount": 3729,
+          "wordCount": 3807,
           "title": "Get Ready For the Powerful CSS border-shape Property!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
         },
@@ -62,7 +62,7 @@
           "description": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\nWhat’s !important #14: Gap Decorations, random(), <select> field-sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-14/",
           "publishedOn": "2026-06-30T13:54:14.000Z",
-          "wordCount": 2630,
+          "wordCount": 2631,
           "title": "What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/06/3.mp4",
@@ -77,7 +77,7 @@
           "description": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically listens for.\nThe Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-states-and-javascript-events/",
           "publishedOn": "2026-06-29T13:03:32.000Z",
-          "wordCount": 3629,
+          "wordCount": 3707,
           "title": "The Shifting Line Between CSS States and JavaScript Events",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/state-management.jpg"
         }
@@ -94,7 +94,7 @@
           "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
           "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
           "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8196,
+          "wordCount": 8090,
           "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
@@ -109,7 +109,7 @@
           "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
           "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
           "publishedOn": "2026-07-17T08:00:00.000Z",
-          "wordCount": 5093,
+          "wordCount": 5085,
           "title": "When It Makes Sense To “Block” The Main Thread",
           "enclosure": {
             "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
@@ -139,7 +139,7 @@
           "description": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
           "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
           "publishedOn": "2026-07-10T13:00:00.000Z",
-          "wordCount": 5407,
+          "wordCount": 5398,
           "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
@@ -154,7 +154,7 @@
           "description": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
           "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
           "publishedOn": "2026-07-09T15:00:00.000Z",
-          "wordCount": 6760,
+          "wordCount": 6762,
           "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
@@ -199,7 +199,7 @@
           "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
           "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
           "publishedOn": "2026-07-02T10:00:00.000Z",
-          "wordCount": 7061,
+          "wordCount": 7059,
           "title": "Matching AI Modality To User Intent: Designing The Right Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
@@ -229,7 +229,7 @@
           "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
           "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4927,
+          "wordCount": 4825,
           "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
@@ -245,6 +245,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a67c5edb2d5c5f568857cd3",
+          "author": "Vasuki Uday Kiran Vudathala",
+          "description": "If you’ve ever spent two days pulling data out of an APM tool just to answer “how many virtual users should I run in my load test?”, this tutorial is for you. By the end, you’ll know how to derive eve",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-automated-workload-model-for-peak-readiness/",
+          "publishedOn": "2026-07-27T20:56:13.000Z",
+          "wordCount": 8217,
+          "title": "How to Build an Automated Workload Model for Peak Readiness",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/470df979-1d14-4fee-9886-edacfe01c1e4.png"
+        },
+        {
+          "id": "6a67a3c3a26e578cabe00161",
+          "author": "Osomudeya Zudonu",
+          "description": "In this book, you'll build a fintech transaction ledger from scratch and progressively transform it into a production-ready DevSecOps platform. You'll also deploy it on AWS. The app processes credit a",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-devsecops-platform-from-homelab-to-aws-full-book/",
+          "publishedOn": "2026-07-27T18:30:27.000Z",
+          "wordCount": 44197,
+          "title": "How to Build a Production-Ready DevSecOps Platform from Homelab to AWS [Full Book]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f545c4cf-df83-4c56-a196-7b57458de9da.png"
+        },
+        {
+          "id": "6a679921f4d9ad6845fede20",
+          "author": "brooklyn",
+          "description": "Tracking flood risk takes one unglamorous but essential thing: clean and structured data. In this tutorial, you'll build a data pipeline yourself. You'll create a Python ETL (Extract, Transform, Load)",
+          "link": "https://www.freecodecamp.org/news/the-etl-pipeline-handbook-how-to-build-a-production-grade-pipeline-in-python/",
+          "publishedOn": "2026-07-27T17:45:05.000Z",
+          "wordCount": 9690,
+          "title": "The ETL Pipeline Handbook: How to Build a Production-Grade Pipeline in Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/36906090-d056-4207-8632-fcdf35843018.png"
+        },
         {
           "id": "6a6402a571510a0df72aa7eb",
           "author": "Iyanuoluwa Enoch Oke",
@@ -314,36 +344,6 @@
           "wordCount": 2267,
           "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a02d2c69-a2af-476c-b594-4bf03671ad48.png"
-        },
-        {
-          "id": "6a63826ed2f5d140f2aaa325",
-          "author": "Caleb Mintoumba",
-          "description": "When developers transition from the relational world (MySQL, PostgreSQL) to Firestore, Firebase's NoSQL document database, they often bring their old habits with them. They try to replicate tables, fo",
-          "link": "https://www.freecodecamp.org/news/firestore-data-modeling-guide-embedded-documents-vs-referencing-with-a-blog-case-study/",
-          "publishedOn": "2026-07-24T15:19:10.000Z",
-          "wordCount": 3334,
-          "title": "Firestore Data Modeling Guide: Embedded Documents vs Referencing (with a Blog Case Study)",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f0166ca3-ca48-45f6-bb2f-ee6b20701ea0.png"
-        },
-        {
-          "id": "6a63758d7e45b1af6f81b3d4",
-          "author": "Beau Carnes",
-          "description": "If you've ever loved the speed of building backend servers with Express.js, but wished you didn't have to guess at types or debug silly runtime errors, we just posted the perfect tutorial for you. Our",
-          "link": "https://www.freecodecamp.org/news/build-bulletproof-apis-using-typescript-in-express/",
-          "publishedOn": "2026-07-24T14:24:13.000Z",
-          "wordCount": 1157,
-          "title": "Build Bulletproof APIs using TypeScript in Express",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/591e1e7c-c93b-48cb-8ddf-7ef49b284729.jpg"
-        },
-        {
-          "id": "6a62a069f97a6bd65ce3cd8f",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "You've built and consumed APIs. You know what a GET request is, what a JSON response looks like, and how to add an Authorization header. You've used REST, maybe tried GraphQL, and perhaps heard of gRP",
-          "link": "https://www.freecodecamp.org/news/how-clients-and-servers-communicate-handbook-http-rest-websockets-graphql-grpc-protobuf/",
-          "publishedOn": "2026-07-23T23:14:49.000Z",
-          "wordCount": 10724,
-          "title": "How Clients and Servers Communicate: Full Handbook on HTTP/1.1, HTTP/2, REST, WebSockets, GraphQL, gRPC, and Protocol Buffers",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b44f7067-5398-492a-b1f7-789f73673c34.png"
         }
       ]
     }

@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-27T03:46:12.579Z</id>
+    <id>urn:2026-07-28T03:17:06.443Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-27T03:46:12.579Z</updated>
+    <updated>2026-07-28T03:17:06.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Automated Workload Model for Peak Readiness]]></title>
+        <id>6a67c5edb2d5c5f568857cd3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-automated-workload-model-for-peak-readiness/"/>
+        <updated>2026-07-27T20:56:13.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever spent two days pulling data out of an APM tool just to answer “how many virtual users should I run in my load test?”, this tutorial is for you. By the end, you’ll know how to derive eve]]></summary>
+        <author>
+            <name>Vasuki Uday Kiran Vudathala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Production-Ready DevSecOps Platform from Homelab to AWS [Full Book]]]></title>
+        <id>6a67a3c3a26e578cabe00161</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-production-ready-devsecops-platform-from-homelab-to-aws-full-book/"/>
+        <updated>2026-07-27T18:30:27.000Z</updated>
+        <summary type="html"><![CDATA[In this book, you'll build a fintech transaction ledger from scratch and progressively transform it into a production-ready DevSecOps platform. You'll also deploy it on AWS. The app processes credit a]]></summary>
+        <author>
+            <name>Osomudeya Zudonu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ETL Pipeline Handbook: How to Build a Production-Grade Pipeline in Python]]></title>
+        <id>6a679921f4d9ad6845fede20</id>
+        <link href="https://www.freecodecamp.org/news/the-etl-pipeline-handbook-how-to-build-a-production-grade-pipeline-in-python/"/>
+        <updated>2026-07-27T17:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Tracking flood risk takes one unglamorous but essential thing: clean and structured data. In this tutorial, you'll build a data pipeline yourself. You'll create a Python ETL (Extract, Transform, Load)]]></summary>
+        <author>
+            <name>brooklyn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11]]></title>
         <id>6a6402a571510a0df72aa7eb</id>
@@ -73,36 +103,6 @@
         <summary type="html"><![CDATA[Two years ago, AI coding tools were a curiosity. Agencies let junior devs experiment with them on internal tools and side projects, the kind of work where nothing broke if the code was bad. Client wor]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firestore Data Modeling Guide: Embedded Documents vs Referencing (with a Blog Case Study)]]></title>
-        <id>6a63826ed2f5d140f2aaa325</id>
-        <link href="https://www.freecodecamp.org/news/firestore-data-modeling-guide-embedded-documents-vs-referencing-with-a-blog-case-study/"/>
-        <updated>2026-07-24T15:19:10.000Z</updated>
-        <summary type="html"><![CDATA[When developers transition from the relational world (MySQL, PostgreSQL) to Firestore, Firebase's NoSQL document database, they often bring their old habits with them. They try to replicate tables, fo]]></summary>
-        <author>
-            <name>Caleb Mintoumba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Bulletproof APIs using TypeScript in Express]]></title>
-        <id>6a63758d7e45b1af6f81b3d4</id>
-        <link href="https://www.freecodecamp.org/news/build-bulletproof-apis-using-typescript-in-express/"/>
-        <updated>2026-07-24T14:24:13.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever loved the speed of building backend servers with Express.js, but wished you didn't have to guess at types or debug silly runtime errors, we just posted the perfect tutorial for you. Our]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Clients and Servers Communicate: Full Handbook on HTTP/1.1, HTTP/2, REST, WebSockets, GraphQL, gRPC, and Protocol Buffers]]></title>
-        <id>6a62a069f97a6bd65ce3cd8f</id>
-        <link href="https://www.freecodecamp.org/news/how-clients-and-servers-communicate-handbook-http-rest-websockets-graphql-grpc-protobuf/"/>
-        <updated>2026-07-23T23:14:49.000Z</updated>
-        <summary type="html"><![CDATA[You've built and consumed APIs. You know what a GET request is, what a JSON response looks like, and how to add an Authorization header. You've used REST, maybe tried GraphQL, and perhaps heard of gRP]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
         </author>
     </entry>
     <entry>
