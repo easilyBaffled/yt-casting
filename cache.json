@@ -70,16 +70,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wi14.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395223",
-          "author": "Daniel Schwarz",
-          "description": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically listens for.\nThe Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-states-and-javascript-events/",
-          "publishedOn": "2026-06-29T13:03:32.000Z",
-          "wordCount": 3707,
-          "title": "The Shifting Line Between CSS States and JavaScript Events",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/state-management.jpg"
         }
       ]
     },
@@ -89,12 +79,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
+          "author": "hello@smashingmagazine.com (Oleksii Hrzhehorzhevskyi)",
+          "description": "Many of the AI tools we interact with take the form of text boxes. But what if there was a different way to interact with AI? Oleksii Hrzhehorzhevskyi explores a different approach to creating a new AI assistant and how designers can navigate the field as AI continues to change it.",
+          "link": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
+          "publishedOn": "2026-07-28T10:00:00.000Z",
+          "wordCount": 3688,
+          "title": "Thinking Outside The Box: Digital Design In The AI Era",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/digital-design-ai-era/digital-design-ai-era.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/digital-design-ai-era/digital-design-ai-era.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
           "author": "hello@smashingmagazine.com (Durgesh Pawar)",
           "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
           "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
           "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8090,
+          "wordCount": 8190,
           "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
@@ -139,7 +144,7 @@
           "description": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
           "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
           "publishedOn": "2026-07-10T13:00:00.000Z",
-          "wordCount": 5398,
+          "wordCount": 5408,
           "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
@@ -154,7 +159,7 @@
           "description": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
           "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
           "publishedOn": "2026-07-09T15:00:00.000Z",
-          "wordCount": 6762,
+          "wordCount": 6764,
           "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
@@ -199,7 +204,7 @@
           "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
           "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
           "publishedOn": "2026-07-02T10:00:00.000Z",
-          "wordCount": 7059,
+          "wordCount": 7056,
           "title": "Matching AI Modality To User Intent: Designing The Right Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
@@ -229,7 +234,7 @@
           "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
           "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4825,
+          "wordCount": 4822,
           "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
@@ -245,6 +250,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a68daa8f8819d8c3e894887",
+          "author": "Oyedele Tioluwani",
+          "description": "For many developers, the AI workflow looks something like this: write a prompt, get a response, copy what's useful, and move on. This covers a surprising range of tasks, from summarizing a document to",
+          "link": "https://www.freecodecamp.org/news/prompt-vs-loop-engineering-a-guide-for-developers/",
+          "publishedOn": "2026-07-28T16:36:56.000Z",
+          "wordCount": 3546,
+          "title": "Prompt vs Loop Engineering: A Guide for Developers",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/06707c4e-1f78-405c-91fb-7626489e2353.png"
+        },
+        {
+          "id": "6a68da19b4e0ec555c71f0f9",
+          "author": "Beau Carnes",
+          "description": "Additive manufacturing has evolved into a cornerstone of Industry 4.0 and modern industrial production. Whether it's light-weighting aerospace turbine components, printing custom titanium medical impl",
+          "link": "https://www.freecodecamp.org/news/master-3d-printing-additive-manufacturing/",
+          "publishedOn": "2026-07-28T16:34:33.000Z",
+          "wordCount": 1174,
+          "title": "Master 3D Printing & Additive Manufacturing",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/6b076dd0-c34f-4e57-91c2-7212cf8f52a8.jpg"
+        },
+        {
+          "id": "6a68d913e74ccc2276ad28e2",
+          "author": "Omer Rosenbaum",
+          "description": "Here's a line from an official document published by the people who run the internet: \"Readers who cannot distinguish satire by reading the text may have a future in marketing.\" This line actually s",
+          "link": "https://www.freecodecamp.org/news/the-internet-s-longest-running-joke-a-field-guide-to-the-april-fools-rfcs/",
+          "publishedOn": "2026-07-28T16:30:11.000Z",
+          "wordCount": 4057,
+          "title": "The Internet's Longest-Running Joke: A Field Guide to the April Fools RFCs",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/57a6dfdc-d28b-45c5-a047-753e0b8f1ee0.png"
+        },
+        {
+          "id": "6a68d8cf34380fc31276ad8a",
+          "author": "Tapas Adhikary",
+          "description": "Building production-grade forms in React can be a painful experience. It's one of the parts of front-end engineering that most developers are uncomfortable with. Usually, you'll start with a simple co",
+          "link": "https://www.freecodecamp.org/news/a-guide-to-modern-react-form-architecture-tanstack-form-zod-shadcn/",
+          "publishedOn": "2026-07-28T16:29:03.000Z",
+          "wordCount": 3821,
+          "title": "A Guide to Modern React Form Architecture: TanStack Form + Zod + Shadcn",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9383f6c8-b938-4540-83cc-42745cdbc943.png"
+        },
         {
           "id": "6a67c5edb2d5c5f568857cd3",
           "author": "Vasuki Uday Kiran Vudathala",
@@ -304,46 +349,6 @@
           "wordCount": 4236,
           "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ca664176-3589-4e16-b95e-506fa53bcfce.png"
-        },
-        {
-          "id": "6a63ce715839938cbd3801af",
-          "author": "Darsh Shah",
-          "description": "In this tutorial, I’ll show you how prompt engineering and context engineering can improve an AI agent's performance. We’ll build a simple local agent, start with a baseline input, then improve it wit",
-          "link": "https://www.freecodecamp.org/news/how-to-use-prompt-engineering-and-context-engineering-for-ai-agents/",
-          "publishedOn": "2026-07-24T20:43:29.000Z",
-          "wordCount": 3067,
-          "title": "How to Use Prompt Engineering and Context Engineering for AI Agents",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c0cfcdc1-7320-436b-aa9a-7c4f876fe2f2.png"
-        },
-        {
-          "id": "6a63cd4ce956973f287e1685",
-          "author": "Rob Walters",
-          "description": "Most developers begin their automation journey similarly. They create a script that performs a helpful task, such as pulling data from an API, resizing a batch of images, or emailing a report, and the",
-          "link": "https://www.freecodecamp.org/news/what-to-do-if-you-ve-outgrown-your-cron-job-scheduler/",
-          "publishedOn": "2026-07-24T20:38:36.000Z",
-          "wordCount": 4137,
-          "title": "What to Do if You've Outgrown Your Cron Job Scheduler",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/af95f928-4ab0-4e7d-99c9-fae3fb328a83.png"
-        },
-        {
-          "id": "6a63af5c9a1ab0289b0cbb6a",
-          "author": "Zia Ullah",
-          "description": "Last year, a client asked me to add a conversational interface to their internal reporting tool. Staff would type a question, and the system would pull a live answer from the database. I had the first",
-          "link": "https://www.freecodecamp.org/news/how-to-build-ai-agent-function-calling-nodejs-gemini/",
-          "publishedOn": "2026-07-24T18:30:52.000Z",
-          "wordCount": 4601,
-          "title": "How to Build an AI Agent with Function Calling in Node.js Using Google Gemini",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ef2a5058-558c-4951-abff-4d51f1c5cd15.png"
-        },
-        {
-          "id": "6a638870a4de2a05a49152ca",
-          "author": "Manish Shivanandhan",
-          "description": "Two years ago, AI coding tools were a curiosity. Agencies let junior devs experiment with them on internal tools and side projects, the kind of work where nothing broke if the code was bad. Client wor",
-          "link": "https://www.freecodecamp.org/news/the-new-agency-stack-how-dev-shops-use-claude-cursor-and-copilot-in-production/",
-          "publishedOn": "2026-07-24T15:44:48.000Z",
-          "wordCount": 2267,
-          "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a02d2c69-a2af-476c-b594-4bf03671ad48.png"
         }
       ]
     }
