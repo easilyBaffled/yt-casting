@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-29T03:19:47.524Z</id>
+    <id>urn:2026-07-30T02:52:41.823Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-29T03:19:47.524Z</updated>
+    <updated>2026-07-30T02:52:41.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Kubernetes Operators: A Handbook for Devs]]></title>
+        <id>6a6a09f608b0619a2131a1cb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/"/>
+        <updated>2026-07-29T14:11:02.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes ships with controllers that manage a fixed set of built-in resources: Deployments, Services, Nodes, and so on. An operator extends the same pattern to resources Kubernetes doesn't know abou]]></summary>
+        <author>
+            <name>Karan Pratap Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python]]></title>
+        <id>6a69ffcc634c4a299b014f9f</id>
+        <link href="https://www.freecodecamp.org/news/instrumental-variables-for-llm-routing-in-python/"/>
+        <updated>2026-07-29T13:27:40.000Z</updated>
+        <summary type="html"><![CDATA[For data science leaders and product managers who are overseeing multi-model gateways, the standard regression approach to measuring model quality is fundamentally flawed. You're running a causal infe]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bull And Bear Case For Digital Design In The Age Of AI]]></title>
+        <id>https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/</id>
+        <link href="https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/"/>
+        <updated>2026-07-29T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andy Budd)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build AI Applications That Switch Models Automatically]]></title>
+        <id>6a69c635b68d550a815570fe</id>
+        <link href="https://www.freecodecamp.org/news/build-ai-applications-that-switch-models-automatically/"/>
+        <updated>2026-07-29T09:21:57.000Z</updated>
+        <summary type="html"><![CDATA[Large Language Models (LLMs) have fundamentally changed how we build modern software. But relying on a single AI model for every user request creates serious production risks. API outages happen. Prop]]></summary>
+        <author>
+            <name>Chidiebere Njoku</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)]]></title>
+        <id>6a69c58763daca7bbbf2320b</id>
+        <link href="https://www.freecodecamp.org/news/make-your-antigravity-agent-skills-configurable-without-forking-them/"/>
+        <updated>2026-07-29T09:19:03.000Z</updated>
+        <summary type="html"><![CDATA[Antigravity Agent Skills are a great way to teach your AI agent a workflow once and reuse it everywhere. You write a short SKILL.md file, drop it in a folder, and the agent picks it up whenever it's r]]></summary>
+        <author>
+            <name>Obum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How OAuth 2.0 Works: A Practical Guide for Backend Developers]]></title>
+        <id>6a69c4a5ad8b0e89e727f8a5</id>
+        <link href="https://www.freecodecamp.org/news/oauth-2-0-guide-for-backend-developers/"/>
+        <updated>2026-07-29T09:15:17.000Z</updated>
+        <summary type="html"><![CDATA[If you ask ten junior developers how OAuth 2.0 works, nine of them will start reciting terminology like "Authorization Server", "Bearer Tokens", "PKCE", and "Implicit Grant". They might also draw a se]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prompt vs Loop Engineering: A Guide for Developers]]></title>
         <id>6a68daa8f8819d8c3e894887</id>
@@ -63,56 +123,6 @@
         <summary type="html"><![CDATA[If you’ve ever spent two days pulling data out of an APM tool just to answer “how many virtual users should I run in my load test?”, this tutorial is for you. By the end, you’ll know how to derive eve]]></summary>
         <author>
             <name>Vasuki Uday Kiran Vudathala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Production-Ready DevSecOps Platform from Homelab to AWS [Full Book]]]></title>
-        <id>6a67a3c3a26e578cabe00161</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-production-ready-devsecops-platform-from-homelab-to-aws-full-book/"/>
-        <updated>2026-07-27T18:30:27.000Z</updated>
-        <summary type="html"><![CDATA[In this book, you'll build a fintech transaction ledger from scratch and progressively transform it into a production-ready DevSecOps platform. You'll also deploy it on AWS. The app processes credit a]]></summary>
-        <author>
-            <name>Osomudeya Zudonu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The ETL Pipeline Handbook: How to Build a Production-Grade Pipeline in Python]]></title>
-        <id>6a679921f4d9ad6845fede20</id>
-        <link href="https://www.freecodecamp.org/news/the-etl-pipeline-handbook-how-to-build-a-production-grade-pipeline-in-python/"/>
-        <updated>2026-07-27T17:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Tracking flood risk takes one unglamorous but essential thing: clean and structured data. In this tutorial, you'll build a data pipeline yourself. You'll create a Python ETL (Extract, Transform, Load)]]></summary>
-        <author>
-            <name>brooklyn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11]]></title>
-        <id>6a6402a571510a0df72aa7eb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-real-time-object-detection-and-tracking-pipeline-with-ros-2-and-yolov11/"/>
-        <updated>2026-07-25T00:26:13.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever tried to build a robotics system that can actually see, track, and respond to the world around it, you know that the hard part isn't training a detection model. The hard part is making]]></summary>
-        <author>
-            <name>Iyanuoluwa Enoch Oke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Diagnose Production Bugs When You Can't Reproduce Them Locally]]></title>
-        <id>6a63d10c86ddd43ae5c0036e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-diagnose-production-bugs-when-you-can-t-reproduce-them-locally/"/>
-        <updated>2026-07-24T20:54:36.000Z</updated>
-        <summary type="html"><![CDATA[Every developer eventually encounters the same frustrating problem. A customer reports that your application is failing in production. You try the exact same workflow on your development machine, but]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF Blur Tool Using JavaScript]]></title>
-        <id>6a63cec8c741f882378e9b06</id>
-        <link href="https://www.freecodecamp.org/news/build-pdf-blur-tool-javascript/"/>
-        <updated>2026-07-24T20:44:56.000Z</updated>
-        <summary type="html"><![CDATA[Many PDF documents contain information that shouldn't be shared publicly. Personal details, financial figures, signatures, addresses, account numbers, employee information, or confidential business da]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
         </author>
     </entry>
     <entry>
@@ -241,37 +251,6 @@ Get Ready For the Powerful CSS border-shape Property! originally handwritten and
         <summary type="html"><![CDATA[We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More]]></title>
-        <id>https://css-tricks.com/?p=395894</id>
-        <link href="https://css-tricks.com/whats-important-14/"/>
-        <updated>2026-06-30T13:54:14.000Z</updated>
-        <summary type="html"><![CDATA[I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!
-What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Accessibility Is An Operational Capability, Not A Feature]]></title>
-        <id>https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/</id>
-        <link href="https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/"/>
-        <updated>2026-06-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Teams can generate UI faster than ever, but they still have to guarantee that what they ship is usable, secure, and maintainable. Accessibility as an operational capability rather than a compliance checklist or end-of-project audit, and what that looks like in practice.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mikhail Prosmitskiy)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snapshots Of Summer (July 2026 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/</id>
-        <link href="https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/"/>
-        <updated>2026-06-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
