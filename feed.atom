@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-31T03:35:20.540Z</id>
+    <id>urn:2026-08-01T03:35:18.499Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-31T03:35:20.540Z</updated>
+    <updated>2026-08-01T03:35:18.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Agentic AI? How AI Is Evolving From Chatbot to Co-Worker]]></title>
+        <id>6a6cc10945a46b452b5bc4a1</id>
+        <link href="https://www.freecodecamp.org/news/what-is-agentic-ai-from-chatbot-to-co-worker/"/>
+        <updated>2026-07-31T15:36:41.000Z</updated>
+        <summary type="html"><![CDATA[You ask ChatGPT a question. It answers. You ask another. It answers again. That back-and-forth has been the standard way most people experience AI: a smart, fast assistant that responds when spoken to]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Marketing Landing Page Using shadcn/ui]]></title>
+        <id>6a6c8095409fd0bcb0afd1c6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-marketing-landing-page-using-shadcn-ui/"/>
+        <updated>2026-07-31T11:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Most marketing landing pages start with the same problem: you're staring at a blank screen and rebuilding sections you've already created countless times. A hero section, feature grid, testimonials, p]]></summary>
+        <author>
+            <name>Vaibhav Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small Joys And Big Adventures (August 2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/</id>
+        <link href="https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"/>
+        <updated>2026-07-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Agentic AI using LangGraph – Build AI Agents & Automate Workflows]]></title>
         <id>6a6b625e08d602aac2992fab</id>
@@ -96,26 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Internet's Longest-Running Joke: A Field Guide to the April Fools RFCs]]></title>
-        <id>6a68d913e74ccc2276ad28e2</id>
-        <link href="https://www.freecodecamp.org/news/the-internet-s-longest-running-joke-a-field-guide-to-the-april-fools-rfcs/"/>
-        <updated>2026-07-28T16:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Here's a line from an official document published by the people who run the internet: "Readers who cannot distinguish satire by reading the text may have a future in marketing." This line actually s]]></summary>
-        <author>
-            <name>Omer Rosenbaum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide to Modern React Form Architecture: TanStack Form + Zod + Shadcn]]></title>
-        <id>6a68d8cf34380fc31276ad8a</id>
-        <link href="https://www.freecodecamp.org/news/a-guide-to-modern-react-form-architecture-tanstack-form-zod-shadcn/"/>
-        <updated>2026-07-28T16:29:03.000Z</updated>
-        <summary type="html"><![CDATA[Building production-grade forms in React can be a painful experience. It's one of the parts of front-end engineering that most developers are uncomfortable with. Usually, you'll start with a simple co]]></summary>
-        <author>
-            <name>Tapas Adhikary</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Thinking Outside The Box: Digital Design In The AI Era]]></title>
         <id>https://smashingmagazine.com/2026/07/digital-design-ai-era/</id>
         <link href="https://smashingmagazine.com/2026/07/digital-design-ai-era/"/>
@@ -136,21 +146,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[writing-mode]]></title>
-        <id>http://css-tricks.com/?page_id=244261</id>
-        <link href="https://css-tricks.com/almanac/properties/w/writing-mode/"/>
-        <updated>2026-07-21T09:39:10.000Z</updated>
-        <summary type="html"><![CDATA[The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.
-.element {
-  writing-mode: vertical-rl;
-}
-This is most useful in languages such as Chinese, Japanese or …
-writing-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mojtaba Seyedi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[When It Makes Sense To “Block” The Main Thread]]></title>
         <id>https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/</id>
         <link href="https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"/>
@@ -158,28 +153,6 @@ writing-mode originally handwritten and published with love on CSS-Tricks. You s
         <summary type="html"><![CDATA[The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pointer-events]]></title>
-        <id>http://css-tricks.com/?page_id=18170</id>
-        <link href="https://css-tricks.com/almanac/properties/p/pointer-events/"/>
-        <updated>2026-07-15T19:57:51.000Z</updated>
-        <summary type="html"><![CDATA[The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …
-pointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mojtaba Seyedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More]]></title>
-        <id>https://css-tricks.com/?p=396027</id>
-        <link href="https://css-tricks.com/whats-important-15/"/>
-        <updated>2026-07-15T14:36:18.000Z</updated>
-        <summary type="html"><![CDATA[Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.
-What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -213,17 +186,6 @@ What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get Ready For the Powerful CSS border-shape Property!]]></title>
-        <id>https://css-tricks.com/?p=395508</id>
-        <link href="https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/"/>
-        <updated>2026-07-07T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!
-Get Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas]]></title>
         <id>https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/</id>
         <link href="https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/"/>
@@ -241,16 +203,6 @@ Get Ready For the Powerful CSS border-shape Property! originally handwritten and
         <summary type="html"><![CDATA[A closer look at why users don’t need more tools in their daily lives. What they need are seamless integrations of useful features to match already existing, established mental models. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matching AI Modality To User Intent: Designing The Right Interface]]></title>
-        <id>https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/</id>
-        <link href="https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/"/>
-        <updated>2026-07-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Yocco)</name>
         </author>
     </entry>
 </feed>

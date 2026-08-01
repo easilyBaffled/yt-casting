@@ -7,69 +7,32 @@
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "http://css-tricks.com/?page_id=244261",
-          "author": "Mojtaba Seyedi",
-          "description": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in languages such as Chinese, Japanese or …\nwriting-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-          "publishedOn": "2026-07-21T09:39:10.000Z",
-          "wordCount": 3046,
-          "title": "writing-mode",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
-        },
-        {
-          "id": "http://css-tricks.com/?page_id=18170",
-          "author": "Mojtaba Seyedi",
-          "description": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …\npointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-          "publishedOn": "2026-07-15T19:57:51.000Z",
-          "wordCount": 5050,
-          "title": "pointer-events",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396027",
-          "author": "Daniel Schwarz",
-          "description": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-15/",
-          "publishedOn": "2026-07-15T14:36:18.000Z",
-          "wordCount": 2377,
-          "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/07/3.mp4",
-            "length": "163854",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/wi15.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395508",
-          "author": "Temani Afif",
-          "description": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\nGet Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-          "publishedOn": "2026-07-07T15:14:00.000Z",
-          "wordCount": 3807,
-          "title": "Get Ready For the Powerful CSS border-shape Property!",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
-        }
-      ]
-    },
-    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
+          "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
+          "publishedOn": "2026-07-31T08:00:00.000Z",
+          "wordCount": 4431,
+          "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png"
+        },
         {
           "id": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "author": "hello@smashingmagazine.com (Andy Budd)",
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 4777,
+          "wordCount": 5037,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -99,7 +62,7 @@
           "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
           "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
           "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8089,
+          "wordCount": 8082,
           "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
@@ -114,7 +77,7 @@
           "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
           "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
           "publishedOn": "2026-07-17T08:00:00.000Z",
-          "wordCount": 5191,
+          "wordCount": null,
           "title": "When It Makes Sense To “Block” The Main Thread",
           "enclosure": {
             "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
@@ -144,7 +107,7 @@
           "description": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
           "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
           "publishedOn": "2026-07-10T13:00:00.000Z",
-          "wordCount": 5401,
+          "wordCount": 5507,
           "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
@@ -159,7 +122,7 @@
           "description": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
           "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
           "publishedOn": "2026-07-09T15:00:00.000Z",
-          "wordCount": 6767,
+          "wordCount": 6758,
           "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
@@ -197,21 +160,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/ux-impact-seamless-integrations/users-dont-need-more-tools-need-seamless-integrations.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
-          "author": "hello@smashingmagazine.com (Victor Yocco)",
-          "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
-          "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
-          "publishedOn": "2026-07-02T10:00:00.000Z",
-          "wordCount": 7062,
-          "title": "Matching AI Modality To User Intent: Designing The Right Interface",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg"
         }
       ]
     },
@@ -220,6 +168,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a6cc10945a46b452b5bc4a1",
+          "author": "Manish Shivanandhan",
+          "description": "You ask ChatGPT a question. It answers. You ask another. It answers again. That back-and-forth has been the standard way most people experience AI: a smart, fast assistant that responds when spoken to",
+          "link": "https://www.freecodecamp.org/news/what-is-agentic-ai-from-chatbot-to-co-worker/",
+          "publishedOn": "2026-07-31T15:36:41.000Z",
+          "wordCount": 2277,
+          "title": "What is Agentic AI? How AI Is Evolving From Chatbot to Co-Worker",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/66ea50ee-f208-47c2-a35b-cd6823464f21.png"
+        },
+        {
+          "id": "6a6c8095409fd0bcb0afd1c6",
+          "author": "Vaibhav Gupta",
+          "description": "Most marketing landing pages start with the same problem: you're staring at a blank screen and rebuilding sections you've already created countless times. A hero section, feature grid, testimonials, p",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-marketing-landing-page-using-shadcn-ui/",
+          "publishedOn": "2026-07-31T11:01:41.000Z",
+          "wordCount": 4414,
+          "title": "How to Create a Marketing Landing Page Using shadcn/ui",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/82bb4c21-aebe-48c4-9a66-f013011223f4.png"
+        },
         {
           "id": "6a6b625e08d602aac2992fab",
           "author": "Beau Carnes",
@@ -299,26 +267,6 @@
           "wordCount": 1174,
           "title": "Master 3D Printing & Additive Manufacturing",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/6b076dd0-c34f-4e57-91c2-7212cf8f52a8.jpg"
-        },
-        {
-          "id": "6a68d913e74ccc2276ad28e2",
-          "author": "Omer Rosenbaum",
-          "description": "Here's a line from an official document published by the people who run the internet: \"Readers who cannot distinguish satire by reading the text may have a future in marketing.\" This line actually s",
-          "link": "https://www.freecodecamp.org/news/the-internet-s-longest-running-joke-a-field-guide-to-the-april-fools-rfcs/",
-          "publishedOn": "2026-07-28T16:30:11.000Z",
-          "wordCount": 4057,
-          "title": "The Internet's Longest-Running Joke: A Field Guide to the April Fools RFCs",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/57a6dfdc-d28b-45c5-a047-753e0b8f1ee0.png"
-        },
-        {
-          "id": "6a68d8cf34380fc31276ad8a",
-          "author": "Tapas Adhikary",
-          "description": "Building production-grade forms in React can be a painful experience. It's one of the parts of front-end engineering that most developers are uncomfortable with. Usually, you'll start with a simple co",
-          "link": "https://www.freecodecamp.org/news/a-guide-to-modern-react-form-architecture-tanstack-form-zod-shadcn/",
-          "publishedOn": "2026-07-28T16:29:03.000Z",
-          "wordCount": 3821,
-          "title": "A Guide to Modern React Form Architecture: TanStack Form + Zod + Shadcn",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9383f6c8-b938-4540-83cc-42745cdbc943.png"
         }
       ]
     }
