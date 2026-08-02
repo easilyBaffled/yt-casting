@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-01T03:35:18.499Z</id>
+    <id>urn:2026-08-02T03:34:38.619Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-01T03:35:18.499Z</updated>
+    <updated>2026-08-02T03:34:38.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,28 @@
         <summary type="html"><![CDATA[You ask ChatGPT a question. It answers. You ask another. It answers again. That back-and-forth has been the standard way most people experience AI: a smart, fast assistant that responds when spoken to]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Ready For the Powerful CSS border-shape Property!]]></title>
+        <id>https://css-tricks.com/?p=395508</id>
+        <link href="https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/"/>
+        <updated>2026-07-31T15:14:00.000Z</updated>
+        <summary type="html"><![CDATA[We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!
+Get Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More]]></title>
+        <id>https://css-tricks.com/?p=396295</id>
+        <link href="https://css-tricks.com/whats-important-16/"/>
+        <updated>2026-07-31T14:06:21.000Z</updated>
+        <summary type="html"><![CDATA[The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container "stuck" queries, and more.
+What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -146,6 +168,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[writing-mode]]></title>
+        <id>http://css-tricks.com/?page_id=244261</id>
+        <link href="https://css-tricks.com/almanac/properties/w/writing-mode/"/>
+        <updated>2026-07-21T09:39:10.000Z</updated>
+        <summary type="html"><![CDATA[The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.
+.element {
+  writing-mode: vertical-rl;
+}
+This is most useful in languages such as Chinese, Japanese or …
+writing-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mojtaba Seyedi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[When It Makes Sense To “Block” The Main Thread]]></title>
         <id>https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/</id>
         <link href="https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"/>
@@ -156,6 +193,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[pointer-events]]></title>
+        <id>http://css-tricks.com/?page_id=18170</id>
+        <link href="https://css-tricks.com/almanac/properties/p/pointer-events/"/>
+        <updated>2026-07-15T19:57:51.000Z</updated>
+        <summary type="html"><![CDATA[The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …
+pointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mojtaba Seyedi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[No, People Don’t Want More AI In Their Life]]></title>
         <id>https://smashingmagazine.com/2026/07/people-dont-want-more-ai/</id>
         <link href="https://smashingmagazine.com/2026/07/people-dont-want-more-ai/"/>
@@ -163,6 +211,17 @@
         <summary type="html"><![CDATA[Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More]]></title>
+        <id>https://css-tricks.com/?p=396027</id>
+        <link href="https://css-tricks.com/whats-important-15/"/>
+        <updated>2026-07-14T14:36:18.000Z</updated>
+        <summary type="html"><![CDATA[Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.
+What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -193,16 +252,6 @@
         <summary type="html"><![CDATA[We have been building websites inside boxes for years on WordPress. Let’s take a closer look at [Kirki](https://kirki.com/), the first freeform visual builder with an infinite canvas, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Zareen Tasnim)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Users Don’t Need More Tools: They Need Seamless Integrations]]></title>
-        <id>https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/</id>
-        <link href="https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/"/>
-        <updated>2026-07-03T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A closer look at why users don’t need more tools in their daily lives. What they need are seamless integrations of useful features to match already existing, established mental models. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
