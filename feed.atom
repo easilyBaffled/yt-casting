@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-03T03:37:08.719Z</id>
+    <id>urn:2026-08-04T03:20:44.539Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-03T03:37:08.719Z</updated>
+    <updated>2026-08-04T03:20:44.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware]]></title>
+        <id>6a711081f297e5e86c13916d</id>
+        <link href="https://www.freecodecamp.org/news/why-your-quantum-circuit-works-in-a-simulator-but-fails-on-real-hardware/"/>
+        <updated>2026-08-03T22:04:49.000Z</updated>
+        <summary type="html"><![CDATA[If the exact same quantum circuit works perfectly in a simulator, why does it often produce different results on a real quantum computer? That question catches almost every quantum developer by surpri]]></summary>
+        <author>
+            <name>Casmir Onyekani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Open Source SaaS Landing Page Template with shadcn/ui]]></title>
+        <id>6a70e0650d58f4d80d2eca59</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-landing-page-nextjs-shadcn/"/>
+        <updated>2026-08-03T18:39:33.000Z</updated>
+        <summary type="html"><![CDATA[Most SaaS landing pages share the same core sections: a hero, social proof, features, pricing, FAQ, and a footer. And most developers end up building these from scratch on every project. That's repeti]]></summary>
+        <author>
+            <name>Ash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens During a Production Deployment? A Behind-the-Scenes Guide]]></title>
+        <id>6a70dada6358084ff948ee0f</id>
+        <link href="https://www.freecodecamp.org/news/what-happens-during-a-production-deployment/"/>
+        <updated>2026-08-03T18:15:54.000Z</updated>
+        <summary type="html"><![CDATA[You push your code. A few minutes later, it is live for real users. Between those two moments runs a long chain of machinery: builds, artefacts, migrations, health checks, traffic shifts. Every produc]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Agentic AI? How AI Is Evolving From Chatbot to Co-Worker]]></title>
         <id>6a6cc10945a46b452b5bc4a1</id>
@@ -13,28 +43,6 @@
         <summary type="html"><![CDATA[You ask ChatGPT a question. It answers. You ask another. It answers again. That back-and-forth has been the standard way most people experience AI: a smart, fast assistant that responds when spoken to]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Ready For the Powerful CSS border-shape Property!]]></title>
-        <id>https://css-tricks.com/?p=395508</id>
-        <link href="https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/"/>
-        <updated>2026-07-31T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!
-Get Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More]]></title>
-        <id>https://css-tricks.com/?p=396295</id>
-        <link href="https://css-tricks.com/whats-important-16/"/>
-        <updated>2026-07-31T14:06:21.000Z</updated>
-        <summary type="html"><![CDATA[The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container "stuck" queries, and more.
-What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -118,36 +126,6 @@ What’s !important #16: sibling-index() Animations, Use Cases for the infinity 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How OAuth 2.0 Works: A Practical Guide for Backend Developers]]></title>
-        <id>6a69c4a5ad8b0e89e727f8a5</id>
-        <link href="https://www.freecodecamp.org/news/oauth-2-0-guide-for-backend-developers/"/>
-        <updated>2026-07-29T09:15:17.000Z</updated>
-        <summary type="html"><![CDATA[If you ask ten junior developers how OAuth 2.0 works, nine of them will start reciting terminology like "Authorization Server", "Bearer Tokens", "PKCE", and "Implicit Grant". They might also draw a se]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompt vs Loop Engineering: A Guide for Developers]]></title>
-        <id>6a68daa8f8819d8c3e894887</id>
-        <link href="https://www.freecodecamp.org/news/prompt-vs-loop-engineering-a-guide-for-developers/"/>
-        <updated>2026-07-28T16:36:56.000Z</updated>
-        <summary type="html"><![CDATA[For many developers, the AI workflow looks something like this: write a prompt, get a response, copy what's useful, and move on. This covers a surprising range of tasks, from summarizing a document to]]></summary>
-        <author>
-            <name>Oyedele Tioluwani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master 3D Printing & Additive Manufacturing]]></title>
-        <id>6a68da19b4e0ec555c71f0f9</id>
-        <link href="https://www.freecodecamp.org/news/master-3d-printing-additive-manufacturing/"/>
-        <updated>2026-07-28T16:34:33.000Z</updated>
-        <summary type="html"><![CDATA[Additive manufacturing has evolved into a cornerstone of Industry 4.0 and modern industrial production. Whether it's light-weighting aerospace turbine components, printing custom titanium medical impl]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Thinking Outside The Box: Digital Design In The AI Era]]></title>
         <id>https://smashingmagazine.com/2026/07/digital-design-ai-era/</id>
         <link href="https://smashingmagazine.com/2026/07/digital-design-ai-era/"/>
@@ -168,21 +146,6 @@ What’s !important #16: sibling-index() Animations, Use Cases for the infinity 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[writing-mode]]></title>
-        <id>http://css-tricks.com/?page_id=244261</id>
-        <link href="https://css-tricks.com/almanac/properties/w/writing-mode/"/>
-        <updated>2026-07-21T09:39:10.000Z</updated>
-        <summary type="html"><![CDATA[The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.
-.element {
-  writing-mode: vertical-rl;
-}
-This is most useful in languages such as Chinese, Japanese or …
-writing-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mojtaba Seyedi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[When It Makes Sense To “Block” The Main Thread]]></title>
         <id>https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/</id>
         <link href="https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"/>
@@ -193,17 +156,6 @@ writing-mode originally handwritten and published with love on CSS-Tricks. You s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[pointer-events]]></title>
-        <id>http://css-tricks.com/?page_id=18170</id>
-        <link href="https://css-tricks.com/almanac/properties/p/pointer-events/"/>
-        <updated>2026-07-15T19:57:51.000Z</updated>
-        <summary type="html"><![CDATA[The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …
-pointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mojtaba Seyedi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[No, People Don’t Want More AI In Their Life]]></title>
         <id>https://smashingmagazine.com/2026/07/people-dont-want-more-ai/</id>
         <link href="https://smashingmagazine.com/2026/07/people-dont-want-more-ai/"/>
@@ -211,17 +163,6 @@ pointer-events originally handwritten and published with love on CSS-Tricks. You
         <summary type="html"><![CDATA[Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More]]></title>
-        <id>https://css-tricks.com/?p=396027</id>
-        <link href="https://css-tricks.com/whats-important-15/"/>
-        <updated>2026-07-14T14:36:18.000Z</updated>
-        <summary type="html"><![CDATA[Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.
-What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
