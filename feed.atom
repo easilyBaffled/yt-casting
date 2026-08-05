@@ -1,14 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-04T03:20:44.539Z</id>
+    <id>urn:2026-08-05T03:16:39.787Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-04T03:20:44.539Z</updated>
+    <updated>2026-08-05T03:16:39.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware]]></title>
+        <title type="html"><![CDATA[How GPS Works in Wearables (and Why It Kills Your Battery)]]></title>
+        <id>6a7256c8841f66cf46e0b0b9</id>
+        <link href="https://www.freecodecamp.org/news/how-gps-works-in-wearables-and-why-it-kills-your-battery/"/>
+        <updated>2026-08-04T21:16:56.000Z</updated>
+        <summary type="html"><![CDATA[A couple of months ago, I went for a 10K run with three different devices on me. Why? Another long story of review deadlines and my own procrastination. By the time I was done with my run and got back]]></summary>
+        <author>
+            <name>Shradha Puri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Modern QA Engineers Actually Do: It's More Than Finding Bugs]]></title>
+        <id>6a722e60649a71090a9c2307</id>
+        <link href="https://www.freecodecamp.org/news/what-does-a-modern-qa-engineer-do/"/>
+        <updated>2026-08-04T18:24:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask someone what a QA engineer does, and you'll probably hear a familiar answer: "They test software and find bugs." It's a common perception, and to be fair, finding bugs is an important part of the]]></summary>
+        <author>
+            <name>GAYATHRI BOLINENI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement HIPAA Technical Safeguards on AWS [Full Handbook]]]></title>
+        <id>6a71ec76a6c3ed946b473d26</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-hipaa-technical-safeguards-on-aws-full-handbook/"/>
+        <updated>2026-08-04T13:43:18.000Z</updated>
+        <summary type="html"><![CDATA[Before I had ever heard the term "HIPAA audit", I spent three days helping a healthcare SaaS startup fix a single misconfigured S3 bucket. Not a breach — nothing was accessed. But the bucket was publi]]></summary>
+        <author>
+            <name>Ayobami Adejumo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Privacy by Design in Modern APIs – A Developer's Practical Guide]]></title>
+        <id>6a71e6ca56867ecf2f5d78c1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-privacy-by-design-in-modern-apis/"/>
+        <updated>2026-08-04T13:19:06.000Z</updated>
+        <summary type="html"><![CDATA[As software developers, we're usually taught to prioritize features like speed, performance, and uptime. When we build APIs, our core concern is making sure data gets from Point A to Point B smoothly.]]></summary>
+        <author>
+            <name>samiatakande</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]]]></title>
         <id>6a711081f297e5e86c13916d</id>
-        <link href="https://www.freecodecamp.org/news/why-your-quantum-circuit-works-in-a-simulator-but-fails-on-real-hardware/"/>
+        <link href="https://www.freecodecamp.org/news/why-your-quantum-circuit-works-in-a-simulator-but-fails-on-real-hardware-full-handbook/"/>
         <updated>2026-08-03T22:04:49.000Z</updated>
         <summary type="html"><![CDATA[If the exact same quantum circuit works perfectly in a simulator, why does it often produce different results on a real quantum computer? That question catches almost every quantum developer by surpri]]></summary>
         <author>
@@ -36,6 +76,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Gap Decorations Are Now Available, Here’s What’s New]]></title>
+        <id>https://css-tricks.com/?p=396204</id>
+        <link href="https://css-tricks.com/css-gap-decorations-now-available/"/>
+        <updated>2026-08-03T15:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.
+Gap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Sam Davis Omekarajr</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What is Agentic AI? How AI Is Evolving From Chatbot to Co-Worker]]></title>
         <id>6a6cc10945a46b452b5bc4a1</id>
         <link href="https://www.freecodecamp.org/news/what-is-agentic-ai-from-chatbot-to-co-worker/"/>
@@ -43,6 +94,28 @@
         <summary type="html"><![CDATA[You ask ChatGPT a question. It answers. You ask another. It answers again. That back-and-forth has been the standard way most people experience AI: a smart, fast assistant that responds when spoken to]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Ready For the Powerful CSS border-shape Property!]]></title>
+        <id>https://css-tricks.com/?p=395508</id>
+        <link href="https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/"/>
+        <updated>2026-07-31T15:14:00.000Z</updated>
+        <summary type="html"><![CDATA[We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!
+Get Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More]]></title>
+        <id>https://css-tricks.com/?p=396295</id>
+        <link href="https://css-tricks.com/whats-important-16/"/>
+        <updated>2026-07-31T14:06:21.000Z</updated>
+        <summary type="html"><![CDATA[The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container "stuck" queries, and more.
+What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -76,26 +149,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build Kubernetes Operators: A Handbook for Devs]]></title>
-        <id>6a6a09f608b0619a2131a1cb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/"/>
-        <updated>2026-07-29T14:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetes ships with controllers that manage a fixed set of built-in resources: Deployments, Services, Nodes, and so on. An operator extends the same pattern to resources Kubernetes doesn't know abou]]></summary>
-        <author>
-            <name>Karan Pratap Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python]]></title>
-        <id>6a69ffcc634c4a299b014f9f</id>
-        <link href="https://www.freecodecamp.org/news/instrumental-variables-for-llm-routing-in-python/"/>
-        <updated>2026-07-29T13:27:40.000Z</updated>
-        <summary type="html"><![CDATA[For data science leaders and product managers who are overseeing multi-model gateways, the standard regression approach to measuring model quality is fundamentally flawed. You're running a causal infe]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Bull And Bear Case For Digital Design In The Age Of AI]]></title>
         <id>https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/</id>
         <link href="https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/"/>
@@ -103,26 +156,6 @@
         <summary type="html"><![CDATA[As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Budd)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build AI Applications That Switch Models Automatically]]></title>
-        <id>6a69c635b68d550a815570fe</id>
-        <link href="https://www.freecodecamp.org/news/build-ai-applications-that-switch-models-automatically/"/>
-        <updated>2026-07-29T09:21:57.000Z</updated>
-        <summary type="html"><![CDATA[Large Language Models (LLMs) have fundamentally changed how we build modern software. But relying on a single AI model for every user request creates serious production risks. API outages happen. Prop]]></summary>
-        <author>
-            <name>Chidiebere Njoku</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)]]></title>
-        <id>6a69c58763daca7bbbf2320b</id>
-        <link href="https://www.freecodecamp.org/news/make-your-antigravity-agent-skills-configurable-without-forking-them/"/>
-        <updated>2026-07-29T09:19:03.000Z</updated>
-        <summary type="html"><![CDATA[Antigravity Agent Skills are a great way to teach your AI agent a workflow once and reuse it everywhere. You write a short SKILL.md file, drop it in a folder, and the agent picks it up whenever it's r]]></summary>
-        <author>
-            <name>Obum</name>
         </author>
     </entry>
     <entry>
@@ -146,6 +179,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[writing-mode]]></title>
+        <id>http://css-tricks.com/?page_id=244261</id>
+        <link href="https://css-tricks.com/almanac/properties/w/writing-mode/"/>
+        <updated>2026-07-21T09:39:10.000Z</updated>
+        <summary type="html"><![CDATA[The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.
+.element {
+  writing-mode: vertical-rl;
+}
+This is most useful in languages such as Chinese, Japanese or …
+writing-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mojtaba Seyedi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[When It Makes Sense To “Block” The Main Thread]]></title>
         <id>https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/</id>
         <link href="https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"/>
@@ -156,6 +204,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[pointer-events]]></title>
+        <id>http://css-tricks.com/?page_id=18170</id>
+        <link href="https://css-tricks.com/almanac/properties/p/pointer-events/"/>
+        <updated>2026-07-15T19:57:51.000Z</updated>
+        <summary type="html"><![CDATA[The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …
+pointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mojtaba Seyedi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[No, People Don’t Want More AI In Their Life]]></title>
         <id>https://smashingmagazine.com/2026/07/people-dont-want-more-ai/</id>
         <link href="https://smashingmagazine.com/2026/07/people-dont-want-more-ai/"/>
@@ -163,6 +222,17 @@
         <summary type="html"><![CDATA[Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More]]></title>
+        <id>https://css-tricks.com/?p=396027</id>
+        <link href="https://css-tricks.com/whats-important-15/"/>
+        <updated>2026-07-14T14:36:18.000Z</updated>
+        <summary type="html"><![CDATA[Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.
+What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
