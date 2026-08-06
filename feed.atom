@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-05T03:16:39.787Z</id>
+    <id>urn:2026-08-06T03:18:32.672Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-05T03:16:39.787Z</updated>
+    <updated>2026-08-06T03:18:32.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bluetooth Low Energy in Flutter: A Handbook for Devs]]></title>
+        <id>6a7371ed8a363785f313b058</id>
+        <link href="https://www.freecodecamp.org/news/bluetooth-low-energy-in-flutter-a-handbook-for-devs/"/>
+        <updated>2026-08-05T17:25:01.000Z</updated>
+        <summary type="html"><![CDATA[Most Flutter tutorials stop at network calls and REST APIs. The moment you need to talk to a physical device, a heart rate monitor, a smart bulb, a fitness tracker, an industrial sensor, or your own c]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fix the Dual-Write Problem in Node.js with the Outbox Pattern]]></title>
+        <id>6a736f87fcec1e65edd2a703</id>
+        <link href="https://www.freecodecamp.org/news/how-to-fix-the-dual-write-problem-in-node-js-with-the-outbox-pattern/"/>
+        <updated>2026-08-05T17:14:47.000Z</updated>
+        <summary type="html"><![CDATA[Imagine you're building an e-commerce platform where placing an order needs to trigger several things at once: the warehouse has to be told to prepare the shipment, the email service has to send a con]]></summary>
+        <author>
+            <name>Gabor Koos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code Full Course]]></title>
+        <id>6a73392ff5a1f5b0d512e9e3</id>
+        <link href="https://www.freecodecamp.org/news/claude-code-full-course/"/>
+        <updated>2026-08-05T13:22:55.000Z</updated>
+        <summary type="html"><![CDATA[We just published a brand new course on the freeCodeCamp.org YouTube channel that will take you from an absolute beginner to a Claude Code master. Whether you want to automate your development workflo]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How GPS Works in Wearables (and Why It Kills Your Battery)]]></title>
         <id>6a7256c8841f66cf46e0b0b9</id>
@@ -87,16 +117,6 @@ Gap Decorations Are Now Available, Here’s What’s New originally handwritten 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Agentic AI? How AI Is Evolving From Chatbot to Co-Worker]]></title>
-        <id>6a6cc10945a46b452b5bc4a1</id>
-        <link href="https://www.freecodecamp.org/news/what-is-agentic-ai-from-chatbot-to-co-worker/"/>
-        <updated>2026-07-31T15:36:41.000Z</updated>
-        <summary type="html"><![CDATA[You ask ChatGPT a question. It answers. You ask another. It answers again. That back-and-forth has been the standard way most people experience AI: a smart, fast assistant that responds when spoken to]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Get Ready For the Powerful CSS border-shape Property!]]></title>
         <id>https://css-tricks.com/?p=395508</id>
         <link href="https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/"/>
@@ -119,16 +139,6 @@ What’s !important #16: sibling-index() Animations, Use Cases for the infinity 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create a Marketing Landing Page Using shadcn/ui]]></title>
-        <id>6a6c8095409fd0bcb0afd1c6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-marketing-landing-page-using-shadcn-ui/"/>
-        <updated>2026-07-31T11:01:41.000Z</updated>
-        <summary type="html"><![CDATA[Most marketing landing pages start with the same problem: you're staring at a blank screen and rebuilding sections you've already created countless times. A hero section, feature grid, testimonials, p]]></summary>
-        <author>
-            <name>Vaibhav Gupta</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Small Joys And Big Adventures (August 2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/</id>
         <link href="https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"/>
@@ -136,16 +146,6 @@ What’s !important #16: sibling-index() Animations, Use Cases for the infinity 
         <summary type="html"><![CDATA[Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic AI using LangGraph – Build AI Agents & Automate Workflows]]></title>
-        <id>6a6b625e08d602aac2992fab</id>
-        <link href="https://www.freecodecamp.org/news/agentic-ai-using-langgraph-build-ai-agents-automate-workflows/"/>
-        <updated>2026-07-30T14:40:30.000Z</updated>
-        <summary type="html"><![CDATA[We are rapidly moving past standard, single-prompt Large Language Models and entering the era of autonomous AI agents. To help you master this new paradigm, we have just published a massive, comprehen]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -253,16 +253,6 @@ What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and
         <summary type="html"><![CDATA[Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kat Homan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas]]></title>
-        <id>https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/</id>
-        <link href="https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/"/>
-        <updated>2026-07-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We have been building websites inside boxes for years on WordPress. Let’s take a closer look at [Kirki](https://kirki.com/), the first freeform visual builder with an infinite canvas, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Zareen Tasnim)</name>
         </author>
     </entry>
 </feed>

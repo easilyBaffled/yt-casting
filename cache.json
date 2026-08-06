@@ -17,7 +17,7 @@
           "description": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.\nGap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-gap-decorations-now-available/",
           "publishedOn": "2026-08-03T15:53:20.000Z",
-          "wordCount": 3550,
+          "wordCount": 3554,
           "title": "Gap Decorations Are Now Available, Here’s What’s New",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/gap-decorations-thumb.jpg"
         },
@@ -27,7 +27,7 @@
           "description": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\nGet Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
           "publishedOn": "2026-07-31T15:14:00.000Z",
-          "wordCount": 3920,
+          "wordCount": 3924,
           "title": "Get Ready For the Powerful CSS border-shape Property!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
         },
@@ -37,7 +37,7 @@
           "description": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\nWhat’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-16/",
           "publishedOn": "2026-07-31T14:06:21.000Z",
-          "wordCount": 2265,
+          "wordCount": 2269,
           "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/07/CleanShot-2026-07-31-at-06.07.11.mp4",
@@ -52,7 +52,7 @@
           "description": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in languages such as Chinese, Japanese or …\nwriting-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
           "publishedOn": "2026-07-21T09:39:10.000Z",
-          "wordCount": 3046,
+          "wordCount": 3050,
           "title": "writing-mode",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
         },
@@ -62,7 +62,7 @@
           "description": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …\npointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
           "publishedOn": "2026-07-15T19:57:51.000Z",
-          "wordCount": 5050,
+          "wordCount": 5054,
           "title": "pointer-events",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
         },
@@ -72,7 +72,7 @@
           "description": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-15/",
           "publishedOn": "2026-07-14T14:36:18.000Z",
-          "wordCount": 2377,
+          "wordCount": 2381,
           "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/07/3.mp4",
@@ -94,7 +94,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4655,
+          "wordCount": 4653,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -109,7 +109,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5050,
+          "wordCount": 5039,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -139,7 +139,7 @@
           "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
           "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
           "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8091,
+          "wordCount": 8085,
           "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
@@ -154,7 +154,7 @@
           "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
           "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
           "publishedOn": "2026-07-17T08:00:00.000Z",
-          "wordCount": 5084,
+          "wordCount": 5087,
           "title": "When It Makes Sense To “Block” The Main Thread",
           "enclosure": {
             "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
@@ -184,7 +184,7 @@
           "description": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
           "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
           "publishedOn": "2026-07-10T13:00:00.000Z",
-          "wordCount": 5402,
+          "wordCount": 5398,
           "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
@@ -199,7 +199,7 @@
           "description": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
           "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
           "publishedOn": "2026-07-09T15:00:00.000Z",
-          "wordCount": 6767,
+          "wordCount": 6764,
           "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
@@ -207,21 +207,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
-          "author": "hello@smashingmagazine.com (Zareen Tasnim)",
-          "description": "We have been building websites inside boxes for years on WordPress. Let’s take a closer look at [Kirki](https://kirki.com/), the first freeform visual builder with an infinite canvas, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.",
-          "link": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
-          "publishedOn": "2026-07-07T10:00:00.000Z",
-          "wordCount": 5194,
-          "title": "Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/kirki-freeform-visual-website-builder-wordpress/kirki-wordpress-visual-builder-infinite-canvas.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/kirki-freeform-visual-website-builder-wordpress/kirki-wordpress-visual-builder-infinite-canvas.jpg"
         }
       ]
     },
@@ -230,6 +215,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a7371ed8a363785f313b058",
+          "author": "Nikheel Vishwas Savant",
+          "description": "Most Flutter tutorials stop at network calls and REST APIs. The moment you need to talk to a physical device, a heart rate monitor, a smart bulb, a fitness tracker, an industrial sensor, or your own c",
+          "link": "https://www.freecodecamp.org/news/bluetooth-low-energy-in-flutter-a-handbook-for-devs/",
+          "publishedOn": "2026-08-05T17:25:01.000Z",
+          "wordCount": 10687,
+          "title": "Bluetooth Low Energy in Flutter: A Handbook for Devs",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4c7f324d-73d3-4f3f-a932-7469af32f694.png"
+        },
+        {
+          "id": "6a736f87fcec1e65edd2a703",
+          "author": "Gabor Koos",
+          "description": "Imagine you're building an e-commerce platform where placing an order needs to trigger several things at once: the warehouse has to be told to prepare the shipment, the email service has to send a con",
+          "link": "https://www.freecodecamp.org/news/how-to-fix-the-dual-write-problem-in-node-js-with-the-outbox-pattern/",
+          "publishedOn": "2026-08-05T17:14:47.000Z",
+          "wordCount": 4332,
+          "title": "How to Fix the Dual-Write Problem in Node.js with the Outbox Pattern",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bcec9aaf-d418-4e5a-b8aa-f3c75b35f482.png"
+        },
+        {
+          "id": "6a73392ff5a1f5b0d512e9e3",
+          "author": "Beau Carnes",
+          "description": "We just published a brand new course on the freeCodeCamp.org YouTube channel that will take you from an absolute beginner to a Claude Code master. Whether you want to automate your development workflo",
+          "link": "https://www.freecodecamp.org/news/claude-code-full-course/",
+          "publishedOn": "2026-08-05T13:22:55.000Z",
+          "wordCount": 1075,
+          "title": "Claude Code Full Course",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/b701be40-e55d-483b-a03d-d8c0d3490b6e.jpg"
+        },
         {
           "id": "6a7256c8841f66cf46e0b0b9",
           "author": "Shradha Puri",
@@ -299,36 +314,6 @@
           "wordCount": 2956,
           "title": "What Happens During a Production Deployment? A Behind-the-Scenes Guide",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/43567dce-ecbe-412e-ab40-2ef6e07dde0e.png"
-        },
-        {
-          "id": "6a6cc10945a46b452b5bc4a1",
-          "author": "Manish Shivanandhan",
-          "description": "You ask ChatGPT a question. It answers. You ask another. It answers again. That back-and-forth has been the standard way most people experience AI: a smart, fast assistant that responds when spoken to",
-          "link": "https://www.freecodecamp.org/news/what-is-agentic-ai-from-chatbot-to-co-worker/",
-          "publishedOn": "2026-07-31T15:36:41.000Z",
-          "wordCount": 2277,
-          "title": "What is Agentic AI? How AI Is Evolving From Chatbot to Co-Worker",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/66ea50ee-f208-47c2-a35b-cd6823464f21.png"
-        },
-        {
-          "id": "6a6c8095409fd0bcb0afd1c6",
-          "author": "Vaibhav Gupta",
-          "description": "Most marketing landing pages start with the same problem: you're staring at a blank screen and rebuilding sections you've already created countless times. A hero section, feature grid, testimonials, p",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-marketing-landing-page-using-shadcn-ui/",
-          "publishedOn": "2026-07-31T11:01:41.000Z",
-          "wordCount": 4414,
-          "title": "How to Create a Marketing Landing Page Using shadcn/ui",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/82bb4c21-aebe-48c4-9a66-f013011223f4.png"
-        },
-        {
-          "id": "6a6b625e08d602aac2992fab",
-          "author": "Beau Carnes",
-          "description": "We are rapidly moving past standard, single-prompt Large Language Models and entering the era of autonomous AI agents. To help you master this new paradigm, we have just published a massive, comprehen",
-          "link": "https://www.freecodecamp.org/news/agentic-ai-using-langgraph-build-ai-agents-automate-workflows/",
-          "publishedOn": "2026-07-30T14:40:30.000Z",
-          "wordCount": 1114,
-          "title": "Agentic AI using LangGraph – Build AI Agents & Automate Workflows",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d09f5182-8b2e-4cb8-b376-7b61658769fe.jpg"
         }
       ]
     }
