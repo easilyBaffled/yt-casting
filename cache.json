@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396471",
+          "author": "Geoff Graham",
+          "description": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!\n2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
+          "publishedOn": "2026-08-06T15:54:52.000Z",
+          "wordCount": 3259,
+          "title": "2026 State of CSS, Devs Surveys",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/state-of-css-2026-banner.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=396204",
           "author": "Sam Davis Omekarajr",
           "description": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.\nGap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -94,7 +104,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4653,
+          "wordCount": 4660,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -109,7 +119,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5039,
+          "wordCount": 5044,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -139,7 +149,7 @@
           "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
           "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
           "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8085,
+          "wordCount": 8194,
           "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
@@ -154,7 +164,7 @@
           "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
           "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
           "publishedOn": "2026-07-17T08:00:00.000Z",
-          "wordCount": 5087,
+          "wordCount": 5086,
           "title": "When It Makes Sense To “Block” The Main Thread",
           "enclosure": {
             "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
@@ -199,7 +209,7 @@
           "description": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
           "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
           "publishedOn": "2026-07-09T15:00:00.000Z",
-          "wordCount": 6764,
+          "wordCount": 6768,
           "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
@@ -215,6 +225,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a750fe5b844b68f80e06098",
+          "author": "ILYAS RUFAI",
+          "description": "When a workflow has more permissions than it needs, a simple build job can become a path to repository changes, token misuse, or a wider blast radius than the team intended. The problem is easy to mis",
+          "link": "https://www.freecodecamp.org/news/how-to-harden-github-actions-permissions/",
+          "publishedOn": "2026-08-06T22:51:17.000Z",
+          "wordCount": 2305,
+          "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8be1e1cc-0da8-4f7c-b9c4-be21a5fae80e.png"
+        },
+        {
+          "id": "6a750800a316383dcb915436",
+          "author": "Bhavin Sheth",
+          "description": "Reading PDF documents for long periods can become tiring, especially when the document contains bright backgrounds or when you're working in a low-light environment. In other situations, designers, de",
+          "link": "https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/",
+          "publishedOn": "2026-08-06T22:17:36.000Z",
+          "wordCount": 3608,
+          "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e4b5fb66-d353-4c78-adb3-ddc1f3d5594d.png"
+        },
+        {
+          "id": "6a74fe284ef5707f2879423d",
+          "author": "Ashutosh Krishna",
+          "description": "If you've ever built a web application or configured Spring Security, you've almost certainly encountered Cross-Site Request Forgery (CSRF). In my previous guide, How OAuth 2.0 Works: A Practical Guid",
+          "link": "https://www.freecodecamp.org/news/csrf-from-scratch-browser-mechanics-attacks-and-spring-security-implementation-handbook/",
+          "publishedOn": "2026-08-06T21:35:36.000Z",
+          "wordCount": 8967,
+          "title": "CSRF from Scratch: Browser Mechanics, Attacks, and Spring Security Implementation [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/20e903c5-9011-4f14-b714-974e32d43f3c.png"
+        },
+        {
+          "id": "6a74fbb23d5ed45ab0356528",
+          "author": "Casmir Onyekani",
+          "description": "I still remember the first time I ran a Bell-state circuit on a quantum simulator. The code was only a few lines long, but it felt magical. Two qubits became entangled, and the simulator returned almo",
+          "link": "https://www.freecodecamp.org/news/why-2d-trapped-ion-quantum-computers-could-be-easier-to-scale-than-1d-architectures/",
+          "publishedOn": "2026-08-06T21:25:06.000Z",
+          "wordCount": 3077,
+          "title": "Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/be6df167-b53e-4e99-939d-ccd8fb150f32.png"
+        },
+        {
+          "id": "6a74c6e11a7e8d7040b2949f",
+          "author": "Reetain Raina",
+          "description": "For decades, recording an electrocardiogram (ECG) meant visiting a hospital or clinic. The doctors would place multiple electrodes on your chest and limbs to capture your heart's electrical activity.",
+          "link": "https://www.freecodecamp.org/news/how-smartwatch-ecg-works/",
+          "publishedOn": "2026-08-06T17:39:45.000Z",
+          "wordCount": 2661,
+          "title": "How an ECG on a Wrist Wearable Works and How It Compares to a Clinical Test",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c283c6cc-f094-47bd-83dd-c7361536a73f.png"
+        },
+        {
+          "id": "6a74b2c7f2558fa0d17e1ac4",
+          "author": "Darsh Shah",
+          "description": "In this tutorial, I’ll show you how to fine-tune a large language model for use in AI agents using supervised fine-tuning with QLoRA. This lets us customize a pre-trained model so it behaves the way w",
+          "link": "https://www.freecodecamp.org/news/how-to-customize-an-llm-for-ai-agents-using-sft-and-qlora/",
+          "publishedOn": "2026-08-06T16:13:59.000Z",
+          "wordCount": 3909,
+          "title": "How to Customize an LLM for AI Agents using SFT and QLoRA",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a2d3b4d0-68fd-4e59-a62a-596d2ac27a01.png"
+        },
+        {
+          "id": "6a74b21fcf90c22a668963b6",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "There's a problem that shows up in almost every growing software system, and most developers don't even realize they're hitting it until the damage is already done. You have a set of objects: differen",
+          "link": "https://www.freecodecamp.org/news/the-visitor-design-pattern-and-its-clean-operations-across-complex-object-structures/",
+          "publishedOn": "2026-08-06T16:11:11.000Z",
+          "wordCount": 4685,
+          "title": "A Deep Dive into Behavioral Patterns: The Visitor Design Pattern and its Clean Operations Across Complex Object Structures",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ff25cbd5-72fc-4f17-8d37-ba8dc909de46.png"
+        },
+        {
+          "id": "6a7450ad88b91c86871fa9de",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "Imagine asking an AI assistant to de-identify thousands of medical images. It runs the pipeline, tracks progress, summarizes every decision, and tells you which files need human review, all without ev",
+          "link": "https://www.freecodecamp.org/news/build-a-privacy-first-medical-image-de-identification-agent/",
+          "publishedOn": "2026-08-06T09:15:25.000Z",
+          "wordCount": 4005,
+          "title": "How to Build a Privacy-First Medical Image De-Identification Agent with Claude and MCP",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/93b0e883-87c6-4e07-97ca-4024da3e45e3.png"
+        },
         {
           "id": "6a7371ed8a363785f313b058",
           "author": "Nikheel Vishwas Savant",
@@ -234,86 +324,6 @@
           "wordCount": 4332,
           "title": "How to Fix the Dual-Write Problem in Node.js with the Outbox Pattern",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bcec9aaf-d418-4e5a-b8aa-f3c75b35f482.png"
-        },
-        {
-          "id": "6a73392ff5a1f5b0d512e9e3",
-          "author": "Beau Carnes",
-          "description": "We just published a brand new course on the freeCodeCamp.org YouTube channel that will take you from an absolute beginner to a Claude Code master. Whether you want to automate your development workflo",
-          "link": "https://www.freecodecamp.org/news/claude-code-full-course/",
-          "publishedOn": "2026-08-05T13:22:55.000Z",
-          "wordCount": 1075,
-          "title": "Claude Code Full Course",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/b701be40-e55d-483b-a03d-d8c0d3490b6e.jpg"
-        },
-        {
-          "id": "6a7256c8841f66cf46e0b0b9",
-          "author": "Shradha Puri",
-          "description": "A couple of months ago, I went for a 10K run with three different devices on me. Why? Another long story of review deadlines and my own procrastination. By the time I was done with my run and got back",
-          "link": "https://www.freecodecamp.org/news/how-gps-works-in-wearables-and-why-it-kills-your-battery/",
-          "publishedOn": "2026-08-04T21:16:56.000Z",
-          "wordCount": 2592,
-          "title": "How GPS Works in Wearables (and Why It Kills Your Battery)",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8e454167-3406-4d4c-b7f2-4e51a3f5a630.png"
-        },
-        {
-          "id": "6a722e60649a71090a9c2307",
-          "author": "GAYATHRI BOLINENI",
-          "description": "Ask someone what a QA engineer does, and you'll probably hear a familiar answer: \"They test software and find bugs.\" It's a common perception, and to be fair, finding bugs is an important part of the",
-          "link": "https://www.freecodecamp.org/news/what-does-a-modern-qa-engineer-do/",
-          "publishedOn": "2026-08-04T18:24:32.000Z",
-          "wordCount": 3471,
-          "title": "What Modern QA Engineers Actually Do: It's More Than Finding Bugs",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/55c4125f-a946-42b9-a694-46ab4cb3f6d6.png"
-        },
-        {
-          "id": "6a71ec76a6c3ed946b473d26",
-          "author": "Ayobami Adejumo",
-          "description": "Before I had ever heard the term \"HIPAA audit\", I spent three days helping a healthcare SaaS startup fix a single misconfigured S3 bucket. Not a breach — nothing was accessed. But the bucket was publi",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-hipaa-technical-safeguards-on-aws-full-handbook/",
-          "publishedOn": "2026-08-04T13:43:18.000Z",
-          "wordCount": 6789,
-          "title": "How to Implement HIPAA Technical Safeguards on AWS [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/9ecf6656-1e70-448c-bf1f-0bcc1994b31d.png"
-        },
-        {
-          "id": "6a71e6ca56867ecf2f5d78c1",
-          "author": "samiatakande",
-          "description": "As software developers, we're usually taught to prioritize features like speed, performance, and uptime. When we build APIs, our core concern is making sure data gets from Point A to Point B smoothly.",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-privacy-by-design-in-modern-apis/",
-          "publishedOn": "2026-08-04T13:19:06.000Z",
-          "wordCount": 2835,
-          "title": "How to Implement Privacy by Design in Modern APIs – A Developer's Practical Guide",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/2c0c5da0-cf2d-4414-9486-40be7a04f727.png"
-        },
-        {
-          "id": "6a711081f297e5e86c13916d",
-          "author": "Casmir Onyekani",
-          "description": "If the exact same quantum circuit works perfectly in a simulator, why does it often produce different results on a real quantum computer? That question catches almost every quantum developer by surpri",
-          "link": "https://www.freecodecamp.org/news/why-your-quantum-circuit-works-in-a-simulator-but-fails-on-real-hardware-full-handbook/",
-          "publishedOn": "2026-08-03T22:04:49.000Z",
-          "wordCount": 6707,
-          "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/8e79825e-752f-4667-88fd-548e3687455d.png"
-        },
-        {
-          "id": "6a70e0650d58f4d80d2eca59",
-          "author": "Ash",
-          "description": "Most SaaS landing pages share the same core sections: a hero, social proof, features, pricing, FAQ, and a footer. And most developers end up building these from scratch on every project. That's repeti",
-          "link": "https://www.freecodecamp.org/news/how-to-build-landing-page-nextjs-shadcn/",
-          "publishedOn": "2026-08-03T18:39:33.000Z",
-          "wordCount": 4845,
-          "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/33d9aa05-3187-4d07-8aea-bcd83fe13ac0.png"
-        },
-        {
-          "id": "6a70dada6358084ff948ee0f",
-          "author": "Manish Shivanandhan",
-          "description": "You push your code. A few minutes later, it is live for real users. Between those two moments runs a long chain of machinery: builds, artefacts, migrations, health checks, traffic shifts. Every produc",
-          "link": "https://www.freecodecamp.org/news/what-happens-during-a-production-deployment/",
-          "publishedOn": "2026-08-03T18:15:54.000Z",
-          "wordCount": 2956,
-          "title": "What Happens During a Production Deployment? A Behind-the-Scenes Guide",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/43567dce-ecbe-412e-ab40-2ef6e07dde0e.png"
         }
       ]
     }
