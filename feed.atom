@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-07T02:56:56.839Z</id>
+    <id>urn:2026-08-08T02:03:27.157Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-07T02:56:56.839Z</updated>
+    <updated>2026-08-08T02:03:27.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Test AI Features in Flutter [Full Handbook]]]></title>
+        <id>6a76024b50cf2dad7c8ef8c3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-test-ai-features-in-flutter-full-handbook/"/>
+        <updated>2026-08-07T16:05:31.000Z</updated>
+        <summary type="html"><![CDATA[You've spent two weeks building an AI assistant. The streaming chat looks beautiful, the system prompt is tight, and safety filters are configured. You demoed it to the team, and everyone was impresse]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Baseline Can Help You Ship Less JavaScript]]></title>
+        <id>https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/</id>
+        <link href="https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/"/>
+        <updated>2026-08-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jad Joubran)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Harden GitHub Actions Permissions with Least Privilege by Default]]></title>
         <id>6a750fe5b844b68f80e06098</id>
@@ -76,17 +96,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2026 State of CSS, Devs Surveys]]></title>
-        <id>https://css-tricks.com/?p=396471</id>
-        <link href="https://css-tricks.com/2026-state-of-css-devs-surveys/"/>
-        <updated>2026-08-06T15:54:52.000Z</updated>
-        <summary type="html"><![CDATA[A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!
-2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Build a Privacy-First Medical Image De-Identification Agent with Claude and MCP]]></title>
         <id>6a7450ad88b91c86871fa9de</id>
         <link href="https://www.freecodecamp.org/news/build-a-privacy-first-medical-image-de-identification-agent/"/>
@@ -104,49 +113,6 @@
         <summary type="html"><![CDATA[Most Flutter tutorials stop at network calls and REST APIs. The moment you need to talk to a physical device, a heart rate monitor, a smart bulb, a fitness tracker, an industrial sensor, or your own c]]></summary>
         <author>
             <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix the Dual-Write Problem in Node.js with the Outbox Pattern]]></title>
-        <id>6a736f87fcec1e65edd2a703</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fix-the-dual-write-problem-in-node-js-with-the-outbox-pattern/"/>
-        <updated>2026-08-05T17:14:47.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you're building an e-commerce platform where placing an order needs to trigger several things at once: the warehouse has to be told to prepare the shipment, the email service has to send a con]]></summary>
-        <author>
-            <name>Gabor Koos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gap Decorations Are Now Available, Here’s What’s New]]></title>
-        <id>https://css-tricks.com/?p=396204</id>
-        <link href="https://css-tricks.com/css-gap-decorations-now-available/"/>
-        <updated>2026-08-03T15:53:20.000Z</updated>
-        <summary type="html"><![CDATA[Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.
-Gap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Sam Davis Omekarajr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Ready For the Powerful CSS border-shape Property!]]></title>
-        <id>https://css-tricks.com/?p=395508</id>
-        <link href="https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/"/>
-        <updated>2026-07-31T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!
-Get Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More]]></title>
-        <id>https://css-tricks.com/?p=396295</id>
-        <link href="https://css-tricks.com/whats-important-16/"/>
-        <updated>2026-07-31T14:06:21.000Z</updated>
-        <summary type="html"><![CDATA[The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container "stuck" queries, and more.
-What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -190,21 +156,6 @@ What’s !important #16: sibling-index() Animations, Use Cases for the infinity 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[writing-mode]]></title>
-        <id>http://css-tricks.com/?page_id=244261</id>
-        <link href="https://css-tricks.com/almanac/properties/w/writing-mode/"/>
-        <updated>2026-07-21T09:39:10.000Z</updated>
-        <summary type="html"><![CDATA[The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.
-.element {
-  writing-mode: vertical-rl;
-}
-This is most useful in languages such as Chinese, Japanese or …
-writing-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mojtaba Seyedi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[When It Makes Sense To “Block” The Main Thread]]></title>
         <id>https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/</id>
         <link href="https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"/>
@@ -215,17 +166,6 @@ writing-mode originally handwritten and published with love on CSS-Tricks. You s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[pointer-events]]></title>
-        <id>http://css-tricks.com/?page_id=18170</id>
-        <link href="https://css-tricks.com/almanac/properties/p/pointer-events/"/>
-        <updated>2026-07-15T19:57:51.000Z</updated>
-        <summary type="html"><![CDATA[The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …
-pointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mojtaba Seyedi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[No, People Don’t Want More AI In Their Life]]></title>
         <id>https://smashingmagazine.com/2026/07/people-dont-want-more-ai/</id>
         <link href="https://smashingmagazine.com/2026/07/people-dont-want-more-ai/"/>
@@ -233,17 +173,6 @@ pointer-events originally handwritten and published with love on CSS-Tricks. You
         <summary type="html"><![CDATA[Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More]]></title>
-        <id>https://css-tricks.com/?p=396027</id>
-        <link href="https://css-tricks.com/whats-important-15/"/>
-        <updated>2026-07-14T14:36:18.000Z</updated>
-        <summary type="html"><![CDATA[Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.
-What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
