@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-08T02:03:27.157Z</id>
+    <id>urn:2026-08-09T02:11:29.073Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-08T02:03:27.157Z</updated>
+    <updated>2026-08-09T02:11:29.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,17 @@
         <summary type="html"><![CDATA[You've spent two weeks building an AI assistant. The streaming chat looks beautiful, the system prompt is tight, and safety filters are configured. You demoed it to the team, and everyone was impresse]]></summary>
         <author>
             <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using and Styling the Dialog Element]]></title>
+        <id>https://css-tricks.com/?p=394753</id>
+        <link href="https://css-tricks.com/using-and-styling-the-dialog-element/"/>
+        <updated>2026-08-07T14:06:43.000Z</updated>
+        <summary type="html"><![CDATA[There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.
+Using and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -96,6 +107,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2026 State of CSS, Devs Surveys]]></title>
+        <id>https://css-tricks.com/?p=396471</id>
+        <link href="https://css-tricks.com/2026-state-of-css-devs-surveys/"/>
+        <updated>2026-08-06T15:54:52.000Z</updated>
+        <summary type="html"><![CDATA[A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!
+2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Build a Privacy-First Medical Image De-Identification Agent with Claude and MCP]]></title>
         <id>6a7450ad88b91c86871fa9de</id>
         <link href="https://www.freecodecamp.org/news/build-a-privacy-first-medical-image-de-identification-agent/"/>
@@ -113,6 +135,39 @@
         <summary type="html"><![CDATA[Most Flutter tutorials stop at network calls and REST APIs. The moment you need to talk to a physical device, a heart rate monitor, a smart bulb, a fitness tracker, an industrial sensor, or your own c]]></summary>
         <author>
             <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gap Decorations Are Now Available, Here’s What’s New]]></title>
+        <id>https://css-tricks.com/?p=396204</id>
+        <link href="https://css-tricks.com/css-gap-decorations-now-available/"/>
+        <updated>2026-08-03T15:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.
+Gap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Sam Davis Omekarajr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Ready For the Powerful CSS border-shape Property!]]></title>
+        <id>https://css-tricks.com/?p=395508</id>
+        <link href="https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/"/>
+        <updated>2026-07-31T15:14:00.000Z</updated>
+        <summary type="html"><![CDATA[We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!
+Get Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More]]></title>
+        <id>https://css-tricks.com/?p=396295</id>
+        <link href="https://css-tricks.com/whats-important-16/"/>
+        <updated>2026-07-31T14:06:21.000Z</updated>
+        <summary type="html"><![CDATA[The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container "stuck" queries, and more.
+What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -156,6 +211,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[writing-mode]]></title>
+        <id>http://css-tricks.com/?page_id=244261</id>
+        <link href="https://css-tricks.com/almanac/properties/w/writing-mode/"/>
+        <updated>2026-07-21T09:39:10.000Z</updated>
+        <summary type="html"><![CDATA[The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.
+.element {
+  writing-mode: vertical-rl;
+}
+This is most useful in languages such as Chinese, Japanese or …
+writing-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mojtaba Seyedi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[When It Makes Sense To “Block” The Main Thread]]></title>
         <id>https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/</id>
         <link href="https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"/>
@@ -163,6 +233,17 @@
         <summary type="html"><![CDATA[The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pointer-events]]></title>
+        <id>http://css-tricks.com/?page_id=18170</id>
+        <link href="https://css-tricks.com/almanac/properties/p/pointer-events/"/>
+        <updated>2026-07-15T19:57:51.000Z</updated>
+        <summary type="html"><![CDATA[The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …
+pointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mojtaba Seyedi</name>
         </author>
     </entry>
     <entry>
@@ -176,23 +257,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction]]></title>
-        <id>https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/</id>
-        <link href="https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/"/>
-        <updated>2026-07-10T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.]]></summary>
+        <title type="html"><![CDATA[What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More]]></title>
+        <id>https://css-tricks.com/?p=396027</id>
+        <link href="https://css-tricks.com/whats-important-15/"/>
+        <updated>2026-07-14T14:36:18.000Z</updated>
+        <summary type="html"><![CDATA[Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.
+What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Anastasia Sycheva)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion]]></title>
-        <id>https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/</id>
-        <link href="https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/"/>
-        <updated>2026-07-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kat Homan)</name>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
