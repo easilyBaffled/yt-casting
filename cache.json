@@ -12,12 +12,32 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=394978",
+          "author": "Preethi",
+          "description": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.\nAnimating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/animating-css-border-image/",
+          "publishedOn": "2026-08-10T15:58:47.000Z",
+          "wordCount": 3772,
+          "title": "Animating CSS border-image",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396506",
+          "author": "Geoff Graham",
+          "description": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.\nSmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
+          "publishedOn": "2026-08-10T15:57:39.000Z",
+          "wordCount": 2667,
+          "title": "SmashingConf Freiburg 2026, September 7-10",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/vito.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=394753",
           "author": "Geoff Graham",
           "description": "There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.\nUsing and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
           "publishedOn": "2026-08-07T14:06:43.000Z",
-          "wordCount": 5295,
+          "wordCount": 5442,
           "title": "Using and Styling the Dialog Element",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
         },
@@ -114,7 +134,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6290,
+          "wordCount": 6286,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -129,7 +149,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4647,
+          "wordCount": 4654,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -144,7 +164,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5028,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -174,7 +194,7 @@
           "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
           "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
           "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8189,
+          "wordCount": 8080,
           "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
@@ -189,7 +209,7 @@
           "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
           "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
           "publishedOn": "2026-07-17T08:00:00.000Z",
-          "wordCount": 5075,
+          "wordCount": 5076,
           "title": "When It Makes Sense To “Block” The Main Thread",
           "enclosure": {
             "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
@@ -220,6 +240,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a7a38d57c96966272403ab6",
+          "author": "George Field",
+          "description": "In 2022, I built a small micro-SaaS in my spare time and eventually sold it for a few thousand dollars. And today, with AI tools, it probably would've been even easier to build. But what has changed d",
+          "link": "https://www.freecodecamp.org/news/how-to-get-your-side-project-seen-and-gain-paying-users/",
+          "publishedOn": "2026-08-10T20:47:17.000Z",
+          "wordCount": 7731,
+          "title": "How to Get Your Side Project Seen and Gain Paying Users",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/60fc8a1d-6fda-411c-a010-2f2b95e2918b.png"
+        },
+        {
+          "id": "6a7a37b45687127b2dce7c6e",
+          "author": "Ayobami Adejumo",
+          "description": "The gap between a demo that impresses and a system you can trust is measured in evals. I want to start with a story that's happening in hundreds of engineering teams right now. A team builds a RAG app",
+          "link": "https://www.freecodecamp.org/news/ai-evaluation-engineering-build-a-production-grade-llm-evaluation-platform-handbook/",
+          "publishedOn": "2026-08-10T20:42:28.000Z",
+          "wordCount": 14200,
+          "title": "AI Evaluation Engineering: Build a Production-Grade LLM Evaluation Platform from Scratch [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3ef79ce3-1581-47f8-b419-5fb8e7afe7d3.png"
+        },
+        {
+          "id": "6a79dcd1e93f9db759fd99d6",
+          "author": "Jesutoni Aderibigbe",
+          "description": "Systems design has always been treated as a backend problem. Ask a group of Flutter engineers what systems design means, and most will describe server architecture: load balancers, databases, and micr",
+          "link": "https://www.freecodecamp.org/news/flutter-frontend-systems-design-how-to-think-like-a-senior-engineer-in-the-ai-age/",
+          "publishedOn": "2026-08-10T14:14:41.000Z",
+          "wordCount": 4601,
+          "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/682cb489-c8fd-4530-9226-357edb4e8c19.png"
+        },
+        {
+          "id": "6a79dc91e7c11cc73062288e",
+          "author": "Manish Shivanandhan",
+          "description": "Static sites are having a moment, and it makes sense. A folder of HTML, CSS, and JavaScript files is fast to load, cheap to host, and very hard to break. Tools like Astro, Eleventy, and Hugo build tha",
+          "link": "https://www.freecodecamp.org/news/how-to-add-dynamic-features-to-a-static-site-without-a-server/",
+          "publishedOn": "2026-08-10T14:13:37.000Z",
+          "wordCount": 2194,
+          "title": "How to Add Dynamic Features to a Static Site Without a Server",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9796f3aa-8b5c-4bcf-804b-57725cc2c08f.png"
+        },
         {
           "id": "6a76024b50cf2dad7c8ef8c3",
           "author": "Atuoha Anthony",
@@ -279,46 +339,6 @@
           "wordCount": 2661,
           "title": "How an ECG on a Wrist Wearable Works and How It Compares to a Clinical Test",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c283c6cc-f094-47bd-83dd-c7361536a73f.png"
-        },
-        {
-          "id": "6a74b2c7f2558fa0d17e1ac4",
-          "author": "Darsh Shah",
-          "description": "In this tutorial, I’ll show you how to fine-tune a large language model for use in AI agents using supervised fine-tuning with QLoRA. This lets us customize a pre-trained model so it behaves the way w",
-          "link": "https://www.freecodecamp.org/news/how-to-customize-an-llm-for-ai-agents-using-sft-and-qlora/",
-          "publishedOn": "2026-08-06T16:13:59.000Z",
-          "wordCount": 3909,
-          "title": "How to Customize an LLM for AI Agents using SFT and QLoRA",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a2d3b4d0-68fd-4e59-a62a-596d2ac27a01.png"
-        },
-        {
-          "id": "6a74b21fcf90c22a668963b6",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "There's a problem that shows up in almost every growing software system, and most developers don't even realize they're hitting it until the damage is already done. You have a set of objects: differen",
-          "link": "https://www.freecodecamp.org/news/the-visitor-design-pattern-and-its-clean-operations-across-complex-object-structures/",
-          "publishedOn": "2026-08-06T16:11:11.000Z",
-          "wordCount": 4685,
-          "title": "A Deep Dive into Behavioral Patterns: The Visitor Design Pattern and its Clean Operations Across Complex Object Structures",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ff25cbd5-72fc-4f17-8d37-ba8dc909de46.png"
-        },
-        {
-          "id": "6a7450ad88b91c86871fa9de",
-          "author": "Lakshmi Mahabaleshwara",
-          "description": "Imagine asking an AI assistant to de-identify thousands of medical images. It runs the pipeline, tracks progress, summarizes every decision, and tells you which files need human review, all without ev",
-          "link": "https://www.freecodecamp.org/news/build-a-privacy-first-medical-image-de-identification-agent/",
-          "publishedOn": "2026-08-06T09:15:25.000Z",
-          "wordCount": 4005,
-          "title": "How to Build a Privacy-First Medical Image De-Identification Agent with Claude and MCP",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/93b0e883-87c6-4e07-97ca-4024da3e45e3.png"
-        },
-        {
-          "id": "6a7371ed8a363785f313b058",
-          "author": "Nikheel Vishwas Savant",
-          "description": "Most Flutter tutorials stop at network calls and REST APIs. The moment you need to talk to a physical device, a heart rate monitor, a smart bulb, a fitness tracker, an industrial sensor, or your own c",
-          "link": "https://www.freecodecamp.org/news/bluetooth-low-energy-in-flutter-a-handbook-for-devs/",
-          "publishedOn": "2026-08-05T17:25:01.000Z",
-          "wordCount": 10687,
-          "title": "Bluetooth Low Energy in Flutter: A Handbook for Devs",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4c7f324d-73d3-4f3f-a932-7469af32f694.png"
         }
       ]
     }
