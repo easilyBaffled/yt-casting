@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-11T02:09:57.712Z</id>
+    <id>urn:2026-08-12T02:28:05.530Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-11T02:09:57.712Z</updated>
+    <updated>2026-08-12T02:28:05.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features]]></title>
+        <id>6a7b522a304c202420dfd496</id>
+        <link href="https://www.freecodecamp.org/news/causal-inference-at-scale-with-case-studies/"/>
+        <updated>2026-08-11T16:47:38.000Z</updated>
+        <summary type="html"><![CDATA[Causal inference for LLM-based AI features is no longer theoretical. Airbnb, Netflix, Lyft, and Uber have published detailed engineering blog posts describing exactly how they measure the causal impac]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect]]></title>
+        <id>6a7b52064ac8f18a2a936e46</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-flutter-releases-with-fastlane-and-github-actions/"/>
+        <updated>2026-08-11T16:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Picture this: it's 4pm on a Friday, and your team has just merged the last feature for the sprint. But your product manager asks for a new build on TestFlight by the end of the day so the client can r]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Tactile UX: Honoring Intentional Design With Lottie]]></title>
+        <id>https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/</id>
+        <link href="https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/"/>
+        <updated>2026-08-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alexey Kopytin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation with Doubly Robust Estimation: When Both Your Models Are Wrong in LLM Applications]]></title>
+        <id>6a7a662d92a5f4f663b525f9</id>
+        <link href="https://www.freecodecamp.org/news/doubly-robust-estimation-for-llm-product-experiments/"/>
+        <updated>2026-08-11T00:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Your AI product shipped an agent-mode opt-in six months ago. You ran a propensity analysis, adjusted for engagement tier and query confidence, and reported a clean +8 percentage-point lift in task com]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Get Your Side Project Seen and Gain Paying Users]]></title>
         <id>6a7a38d57c96966272403ab6</id>
@@ -116,36 +156,6 @@ Using and Styling the Dialog Element originally handwritten and published with l
         <summary type="html"><![CDATA[Reading PDF documents for long periods can become tiring, especially when the document contains bright backgrounds or when you're working in a low-light environment. In other situations, designers, de]]></summary>
         <author>
             <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSRF from Scratch: Browser Mechanics, Attacks, and Spring Security Implementation [Full Handbook]]]></title>
-        <id>6a74fe284ef5707f2879423d</id>
-        <link href="https://www.freecodecamp.org/news/csrf-from-scratch-browser-mechanics-attacks-and-spring-security-implementation-handbook/"/>
-        <updated>2026-08-06T21:35:36.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever built a web application or configured Spring Security, you've almost certainly encountered Cross-Site Request Forgery (CSRF). In my previous guide, How OAuth 2.0 Works: A Practical Guid]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures]]></title>
-        <id>6a74fbb23d5ed45ab0356528</id>
-        <link href="https://www.freecodecamp.org/news/why-2d-trapped-ion-quantum-computers-could-be-easier-to-scale-than-1d-architectures/"/>
-        <updated>2026-08-06T21:25:06.000Z</updated>
-        <summary type="html"><![CDATA[I still remember the first time I ran a Bell-state circuit on a quantum simulator. The code was only a few lines long, but it felt magical. Two qubits became entangled, and the simulator returned almo]]></summary>
-        <author>
-            <name>Casmir Onyekani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How an ECG on a Wrist Wearable Works and How It Compares to a Clinical Test]]></title>
-        <id>6a74c6e11a7e8d7040b2949f</id>
-        <link href="https://www.freecodecamp.org/news/how-smartwatch-ecg-works/"/>
-        <updated>2026-08-06T17:39:45.000Z</updated>
-        <summary type="html"><![CDATA[For decades, recording an electrocardiogram (ECG) meant visiting a hospital or clinic. The doctors would place multiple electrodes on your chest and limbs to capture your heart's electrical activity.]]></summary>
-        <author>
-            <name>Reetain Raina</name>
         </author>
     </entry>
     <entry>
