@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-12T02:28:05.530Z</id>
+    <id>urn:2026-08-13T02:29:46.081Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-12T02:28:05.530Z</updated>
+    <updated>2026-08-13T02:29:46.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Paper Review: Generative Modeling by Estimating Gradients of the Data Distribution]]></title>
+        <id>6a7ce718716450a8062b0352</id>
+        <link href="https://www.freecodecamp.org/news/ai-paper-review-generative-modeling-by-estimating-gradients-of-the-data-distribution/"/>
+        <updated>2026-08-12T21:35:20.000Z</updated>
+        <summary type="html"><![CDATA[Today, diffusion models have become one of the most influential families of generative AI systems. They power applications ranging from image synthesis and editing to video generation, scientific disc]]></summary>
+        <author>
+            <name>Mohammed Fahd Abrah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Agent with Per-User OAuth Access [Full Handbook]]]></title>
+        <id>6a7c95758a35a7792fd567c3</id>
+        <link href="https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/"/>
+        <updated>2026-08-12T15:47:01.000Z</updated>
+        <summary type="html"><![CDATA[When your AI agent serves more than one person, every tool call must answer: who's the agent acting for? Let's learn how to solve this by building an AI agent that connects with Slack and GitHub. A Sl]]></summary>
+        <author>
+            <name>Saif Ali Shaik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Filter Studio with JavaScript]]></title>
+        <id>6a7c94929716b929062beeb1</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-filter-studio-javascript/"/>
+        <updated>2026-08-12T15:43:14.000Z</updated>
+        <summary type="html"><![CDATA[PDF editing isn't limited to adding signatures or merging documents. Sometimes you simply want to improve the appearance of a PDF by increasing brightness, boosting contrast, adding blur, converting i]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong]]></title>
+        <id>https://css-tricks.com/?p=396255</id>
+        <link href="https://css-tricks.com/blocked-aria-hidden-fix/"/>
+        <updated>2026-08-12T13:43:56.000Z</updated>
+        <summary type="html"><![CDATA[The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.
+Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Durgesh Rajubhai Pawar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features]]></title>
         <id>6a7b522a304c202420dfd496</id>
@@ -108,16 +149,6 @@ SmashingConf Freiburg 2026, September 7-10 originally handwritten and published 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Test AI Features in Flutter [Full Handbook]]]></title>
-        <id>6a76024b50cf2dad7c8ef8c3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-ai-features-in-flutter-full-handbook/"/>
-        <updated>2026-08-07T16:05:31.000Z</updated>
-        <summary type="html"><![CDATA[You've spent two weeks building an AI assistant. The streaming chat looks beautiful, the system prompt is tight, and safety filters are configured. You demoed it to the team, and everyone was impresse]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using and Styling the Dialog Element]]></title>
         <id>https://css-tricks.com/?p=394753</id>
         <link href="https://css-tricks.com/using-and-styling-the-dialog-element/"/>
@@ -136,26 +167,6 @@ Using and Styling the Dialog Element originally handwritten and published with l
         <summary type="html"><![CDATA[The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Jad Joubran)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Harden GitHub Actions Permissions with Least Privilege by Default]]></title>
-        <id>6a750fe5b844b68f80e06098</id>
-        <link href="https://www.freecodecamp.org/news/how-to-harden-github-actions-permissions/"/>
-        <updated>2026-08-06T22:51:17.000Z</updated>
-        <summary type="html"><![CDATA[When a workflow has more permissions than it needs, a simple build job can become a path to repository changes, token misuse, or a wider blast radius than the team intended. The problem is easy to mis]]></summary>
-        <author>
-            <name>ILYAS RUFAI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript]]></title>
-        <id>6a750800a316383dcb915436</id>
-        <link href="https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/"/>
-        <updated>2026-08-06T22:17:36.000Z</updated>
-        <summary type="html"><![CDATA[Reading PDF documents for long periods can become tiring, especially when the document contains bright backgrounds or when you're working in a low-light environment. In other situations, designers, de]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
         </author>
     </entry>
     <entry>

@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396255",
+          "author": "Durgesh Rajubhai Pawar",
+          "description": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.\nBlocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
+          "publishedOn": "2026-08-12T13:43:56.000Z",
+          "wordCount": 11022,
+          "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/devtools-aria-hidden-console-warning.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=394978",
           "author": "Preethi",
           "description": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.\nAnimating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/animating-css-border-image/",
           "publishedOn": "2026-08-10T15:58:47.000Z",
-          "wordCount": 3803,
+          "wordCount": 3834,
           "title": "Animating CSS border-image",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg"
         },
@@ -27,7 +37,7 @@
           "description": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.\nSmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
           "publishedOn": "2026-08-10T15:57:39.000Z",
-          "wordCount": 2667,
+          "wordCount": 2698,
           "title": "SmashingConf Freiburg 2026, September 7-10",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/vito.webp"
         },
@@ -37,7 +47,7 @@
           "description": "There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.\nUsing and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
           "publishedOn": "2026-08-07T14:06:43.000Z",
-          "wordCount": 5442,
+          "wordCount": 5473,
           "title": "Using and Styling the Dialog Element",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
         },
@@ -47,7 +57,7 @@
           "description": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!\n2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
           "publishedOn": "2026-08-06T15:54:52.000Z",
-          "wordCount": 3259,
+          "wordCount": 3290,
           "title": "2026 State of CSS, Devs Surveys",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/state-of-css-2026-banner.png"
         },
@@ -57,7 +67,7 @@
           "description": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.\nGap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-gap-decorations-now-available/",
           "publishedOn": "2026-08-03T15:53:20.000Z",
-          "wordCount": 4556,
+          "wordCount": 4587,
           "title": "Gap Decorations Are Now Available, Here’s What’s New",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/gap-decorations-thumb.jpg"
         },
@@ -67,7 +77,7 @@
           "description": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\nGet Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
           "publishedOn": "2026-07-31T15:14:00.000Z",
-          "wordCount": 4803,
+          "wordCount": 4886,
           "title": "Get Ready For the Powerful CSS border-shape Property!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
         },
@@ -77,7 +87,7 @@
           "description": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\nWhat’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-16/",
           "publishedOn": "2026-07-31T14:06:21.000Z",
-          "wordCount": 2269,
+          "wordCount": 3302,
           "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/07/CleanShot-2026-07-31-at-06.07.11.mp4",
@@ -92,7 +102,7 @@
           "description": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in languages such as Chinese, Japanese or …\nwriting-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
           "publishedOn": "2026-07-21T09:39:10.000Z",
-          "wordCount": 3050,
+          "wordCount": 4083,
           "title": "writing-mode",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
         },
@@ -102,7 +112,7 @@
           "description": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …\npointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
           "publishedOn": "2026-07-15T19:57:51.000Z",
-          "wordCount": 5054,
+          "wordCount": 6087,
           "title": "pointer-events",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
         },
@@ -112,7 +122,7 @@
           "description": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-15/",
           "publishedOn": "2026-07-14T14:36:18.000Z",
-          "wordCount": 2381,
+          "wordCount": 3414,
           "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/07/3.mp4",
@@ -149,7 +159,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6298,
+          "wordCount": 6290,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -164,7 +174,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4648,
+          "wordCount": 4650,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -179,7 +189,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5033,
+          "wordCount": 5025,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -209,7 +219,7 @@
           "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
           "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
           "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8076,
+          "wordCount": 8078,
           "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
@@ -224,7 +234,7 @@
           "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
           "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
           "publishedOn": "2026-07-17T08:00:00.000Z",
-          "wordCount": 5075,
+          "wordCount": 5076,
           "title": "When It Makes Sense To “Block” The Main Thread",
           "enclosure": {
             "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
@@ -255,6 +265,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a7ce718716450a8062b0352",
+          "author": "Mohammed Fahd Abrah",
+          "description": "Today, diffusion models have become one of the most influential families of generative AI systems. They power applications ranging from image synthesis and editing to video generation, scientific disc",
+          "link": "https://www.freecodecamp.org/news/ai-paper-review-generative-modeling-by-estimating-gradients-of-the-data-distribution/",
+          "publishedOn": "2026-08-12T21:35:20.000Z",
+          "wordCount": 7772,
+          "title": "AI Paper Review: Generative Modeling by Estimating Gradients of the Data Distribution",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f767fe2e-f695-4317-9c0b-284724c991bc.png"
+        },
+        {
+          "id": "6a7c95758a35a7792fd567c3",
+          "author": "Saif Ali Shaik",
+          "description": "When your AI agent serves more than one person, every tool call must answer: who's the agent acting for? Let's learn how to solve this by building an AI agent that connects with Slack and GitHub. A Sl",
+          "link": "https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/",
+          "publishedOn": "2026-08-12T15:47:01.000Z",
+          "wordCount": 9286,
+          "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/889cf8c8-41f9-4dec-aa5f-128cb24f0082.png"
+        },
+        {
+          "id": "6a7c94929716b929062beeb1",
+          "author": "Bhavin Sheth",
+          "description": "PDF editing isn't limited to adding signatures or merging documents. Sometimes you simply want to improve the appearance of a PDF by increasing brightness, boosting contrast, adding blur, converting i",
+          "link": "https://www.freecodecamp.org/news/build-pdf-filter-studio-javascript/",
+          "publishedOn": "2026-08-12T15:43:14.000Z",
+          "wordCount": 3826,
+          "title": "How to Build a Browser-Based PDF Filter Studio with JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d8d667b-d197-43cc-aa36-1ef0ab51c7c0.png"
+        },
         {
           "id": "6a7b522a304c202420dfd496",
           "author": "Rudrendu Paul",
@@ -324,36 +364,6 @@
           "wordCount": 2194,
           "title": "How to Add Dynamic Features to a Static Site Without a Server",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9796f3aa-8b5c-4bcf-804b-57725cc2c08f.png"
-        },
-        {
-          "id": "6a76024b50cf2dad7c8ef8c3",
-          "author": "Atuoha Anthony",
-          "description": "You've spent two weeks building an AI assistant. The streaming chat looks beautiful, the system prompt is tight, and safety filters are configured. You demoed it to the team, and everyone was impresse",
-          "link": "https://www.freecodecamp.org/news/how-to-test-ai-features-in-flutter-full-handbook/",
-          "publishedOn": "2026-08-07T16:05:31.000Z",
-          "wordCount": 12860,
-          "title": "How to Test AI Features in Flutter [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2f4f1485-15a0-482e-a5b3-02f4b9264da8.png"
-        },
-        {
-          "id": "6a750fe5b844b68f80e06098",
-          "author": "ILYAS RUFAI",
-          "description": "When a workflow has more permissions than it needs, a simple build job can become a path to repository changes, token misuse, or a wider blast radius than the team intended. The problem is easy to mis",
-          "link": "https://www.freecodecamp.org/news/how-to-harden-github-actions-permissions/",
-          "publishedOn": "2026-08-06T22:51:17.000Z",
-          "wordCount": 2305,
-          "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8be1e1cc-0da8-4f7c-b9c4-be21a5fae80e.png"
-        },
-        {
-          "id": "6a750800a316383dcb915436",
-          "author": "Bhavin Sheth",
-          "description": "Reading PDF documents for long periods can become tiring, especially when the document contains bright backgrounds or when you're working in a low-light environment. In other situations, designers, de",
-          "link": "https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/",
-          "publishedOn": "2026-08-06T22:17:36.000Z",
-          "wordCount": 3608,
-          "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e4b5fb66-d353-4c78-adb3-ddc1f3d5594d.png"
         }
       ]
     }
