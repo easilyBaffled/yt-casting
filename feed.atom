@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-15T01:38:43.395Z</id>
+    <id>urn:2026-08-16T01:46:00.824Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-15T01:38:43.395Z</updated>
+    <updated>2026-08-16T01:46:00.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -287,16 +287,6 @@ This is most useful in languages such as Chinese, Japanese or …
 writing-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Mojtaba Seyedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When It Makes Sense To “Block” The Main Thread]]></title>
-        <id>https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/</id>
-        <link href="https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"/>
-        <updated>2026-07-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
         </author>
     </entry>
 </feed>
