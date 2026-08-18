@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-17T01:43:42.992Z</id>
+    <id>urn:2026-08-18T01:39:05.487Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-17T01:43:42.992Z</updated>
+    <updated>2026-08-18T01:39:05.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Work with Subqueries in SQL]]></title>
+        <id>6a837db5b64d34f31873c306</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-subqueries-in-sql/"/>
+        <updated>2026-08-17T21:31:33.000Z</updated>
+        <summary type="html"><![CDATA[Whenever you see a query nested inside another query in SQL, that's a subquery. A subquery is also known as an inner query while the one that contains it is called the main or outer query. Subqueries]]></summary>
+        <author>
+            <name>Abdullah Rufai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Scale LLM Inference for AI Agents Using vLLM]]></title>
+        <id>6a8373e0eb96152ac540effb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-scale-llm-inference-for-ai-agents-using-vllm/"/>
+        <updated>2026-08-17T20:49:36.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, I’ll show you how to scale LLM inference for AI agents using vLLM. I'll help you build an intuition for how LLM inference works, explore why agent workloads create GPU scheduling and]]></summary>
+        <author>
+            <name>Darsh Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark mode toggles: two states are enough]]></title>
+        <id>https://css-tricks.com/?p=396545</id>
+        <link href="https://css-tricks.com/dark-mode-toggles-two-states-are-enough/"/>
+        <updated>2026-08-17T14:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.
+Dark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage Context Files in Your Codebase and Get Better Output From AI Coding Agents]]></title>
+        <id>6a831663dcf9ac784c9eae7d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manage-context-files-in-your-codebase-and-get-better-agent-output/"/>
+        <updated>2026-08-17T14:10:43.000Z</updated>
+        <summary type="html"><![CDATA[You ask a coding agent for a new endpoint, and ninety seconds later you have a working endpoint. Then you read the diff, and you find that it pulled in a validation library that's not in your package.]]></summary>
+        <author>
+            <name>Kayode Adeniyi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python]]></title>
         <id>6a7f44fc58366ecdaf016624</id>
@@ -84,36 +125,6 @@ What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing t
         <summary type="html"><![CDATA[Every B2B SaaS product with a compliance requirement (like banking, lending, payroll, or crypto) hits the same wall early on: before you can let a business use your platform, you need to verify who th]]></summary>
         <author>
             <name>Vaibhav Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Chrome Dino Game Works Under the Hood: A Tour of Chromium's Source Code]]></title>
-        <id>6a7e02796c61d1c629897f7c</id>
-        <link href="https://www.freecodecamp.org/news/how-the-chrome-dino-game-works/"/>
-        <updated>2026-08-13T17:44:25.000Z</updated>
-        <summary type="html"><![CDATA[You've seen it a hundred times: the Wi-Fi drops, Chrome shrugs, and a little pixelated T-Rex appears, ready to sprint through a desert the moment you hit the spacebar. That tiny game, hidden behind th]]></summary>
-        <author>
-            <name>Alex Oliinyk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash]]></title>
-        <id>6a7e0113e19ef21c9188a0c1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-production-ready-ai-agent-for-0-month-using-php-cpanel-and-gemini-flash/"/>
-        <updated>2026-08-13T17:38:27.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you’ll build a practical AI agent that can receive a user prompt, decide whether it needs to use a tool, execute that tool in PHP, store conversation history in MySQL, and continue r]]></summary>
-        <author>
-            <name>Chidozie Managwu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python for Mechanical Engineering]]></title>
-        <id>6a7dcba2609882fca24e3ec0</id>
-        <link href="https://www.freecodecamp.org/news/python-for-mechanical-engineering/"/>
-        <updated>2026-08-13T13:50:26.000Z</updated>
-        <summary type="html"><![CDATA[Whether you're designing robotics, analyzing fluid dynamics (CFD), or working through complex engineering data, learning to code is one of the most effective ways to boost your workflow and technical]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>

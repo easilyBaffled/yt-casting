@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396545",
+          "author": "Geoff Graham",
+          "description": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.\nDark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
+          "publishedOn": "2026-08-17T14:15:50.000Z",
+          "wordCount": 3443,
+          "title": "Dark mode toggles: two states are enough",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=396557",
           "author": "Daniel Schwarz",
           "description": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.\nWhat’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-17/",
           "publishedOn": "2026-08-14T14:01:51.000Z",
-          "wordCount": 3511,
+          "wordCount": 3535,
           "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi17.png"
         },
@@ -159,7 +169,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6394,
+          "wordCount": 6293,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -174,7 +184,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4644,
+          "wordCount": 4648,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -189,7 +199,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5030,
+          "wordCount": 5029,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -219,7 +229,7 @@
           "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
           "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
           "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8076,
+          "wordCount": 8084,
           "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
@@ -235,6 +245,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a837db5b64d34f31873c306",
+          "author": "Abdullah Rufai",
+          "description": "Whenever you see a query nested inside another query in SQL, that's a subquery. A subquery is also known as an inner query while the one that contains it is called the main or outer query. Subqueries",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-subqueries-in-sql/",
+          "publishedOn": "2026-08-17T21:31:33.000Z",
+          "wordCount": 4710,
+          "title": "How to Work with Subqueries in SQL",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e9107adb-f183-460c-8978-6320ff1eadfe.png"
+        },
+        {
+          "id": "6a8373e0eb96152ac540effb",
+          "author": "Darsh Shah",
+          "description": "In this tutorial, I’ll show you how to scale LLM inference for AI agents using vLLM. I'll help you build an intuition for how LLM inference works, explore why agent workloads create GPU scheduling and",
+          "link": "https://www.freecodecamp.org/news/how-to-scale-llm-inference-for-ai-agents-using-vllm/",
+          "publishedOn": "2026-08-17T20:49:36.000Z",
+          "wordCount": 3693,
+          "title": "How to Scale LLM Inference for AI Agents Using vLLM",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/21960832-2f24-4f74-b132-439c174d9cc8.png"
+        },
+        {
+          "id": "6a831663dcf9ac784c9eae7d",
+          "author": "Kayode Adeniyi",
+          "description": "You ask a coding agent for a new endpoint, and ninety seconds later you have a working endpoint. Then you read the diff, and you find that it pulled in a validation library that's not in your package.",
+          "link": "https://www.freecodecamp.org/news/how-to-manage-context-files-in-your-codebase-and-get-better-agent-output/",
+          "publishedOn": "2026-08-17T14:10:43.000Z",
+          "wordCount": 5953,
+          "title": "How to Manage Context Files in Your Codebase and Get Better Output From AI Coding Agents",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/84f1d4b5-5874-4325-965f-0a009e3b3290.png"
+        },
         {
           "id": "6a7f44fc58366ecdaf016624",
           "author": "Eva J Patel",
@@ -304,36 +344,6 @@
           "wordCount": 3687,
           "title": "How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c86a7b7f-9199-499c-8f61-7a1fda09f519.png"
-        },
-        {
-          "id": "6a7e02796c61d1c629897f7c",
-          "author": "Alex Oliinyk",
-          "description": "You've seen it a hundred times: the Wi-Fi drops, Chrome shrugs, and a little pixelated T-Rex appears, ready to sprint through a desert the moment you hit the spacebar. That tiny game, hidden behind th",
-          "link": "https://www.freecodecamp.org/news/how-the-chrome-dino-game-works/",
-          "publishedOn": "2026-08-13T17:44:25.000Z",
-          "wordCount": 3233,
-          "title": "How the Chrome Dino Game Works Under the Hood: A Tour of Chromium's Source Code",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dfca07f2-cf19-46c5-9c46-dad380bd0ed4.png"
-        },
-        {
-          "id": "6a7e0113e19ef21c9188a0c1",
-          "author": "Chidozie Managwu",
-          "description": "In this tutorial, you’ll build a practical AI agent that can receive a user prompt, decide whether it needs to use a tool, execute that tool in PHP, store conversation history in MySQL, and continue r",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-ai-agent-for-0-month-using-php-cpanel-and-gemini-flash/",
-          "publishedOn": "2026-08-13T17:38:27.000Z",
-          "wordCount": 3946,
-          "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1e6049b1-5342-44de-9daf-bcaa33a0d6c0.png"
-        },
-        {
-          "id": "6a7dcba2609882fca24e3ec0",
-          "author": "Beau Carnes",
-          "description": "Whether you're designing robotics, analyzing fluid dynamics (CFD), or working through complex engineering data, learning to code is one of the most effective ways to boost your workflow and technical",
-          "link": "https://www.freecodecamp.org/news/python-for-mechanical-engineering/",
-          "publishedOn": "2026-08-13T13:50:26.000Z",
-          "wordCount": 1121,
-          "title": "Python for Mechanical Engineering",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/c20a4cbb-d99c-4852-9929-a919155f56ef.jpg"
         }
       ]
     }
