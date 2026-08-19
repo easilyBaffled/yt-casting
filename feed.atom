@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-18T01:39:05.487Z</id>
+    <id>urn:2026-08-19T01:41:05.146Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-18T01:39:05.487Z</updated>
+    <updated>2026-08-19T01:41:05.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap]]></title>
+        <id>6a848de33638e739c70ebce3</id>
+        <link href="https://www.freecodecamp.org/news/what-to-do-if-your-site-is-about-to-hit-vercels-free-image-optimization-cap/"/>
+        <updated>2026-08-18T16:52:51.000Z</updated>
+        <summary type="html"><![CDATA[I maintain my own website, and every now and then I upgrade the site to a new version. And I frequently experiment with different technologies and architectures while doing so. Recently, I faced an is]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build More Accessible Websites with WCAG 2.2]]></title>
+        <id>6a84895dd197512208831afc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-more-accessible-websites-with-wcag-2-2/"/>
+        <updated>2026-08-18T16:33:33.000Z</updated>
+        <summary type="html"><![CDATA[A website can look polished, work perfectly with a mouse, and still be difficult for some people to use. A form might use colour as the only indication that something went wrong. A sticky header might]]></summary>
+        <author>
+            <name>Aiyedogbon Abraham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Work with Material and Cupertino Decoupling in Flutter [Full Handbook]]]></title>
+        <id>6a8482d8953b2a189a16bd2c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-material-and-cupertino-decoupling-in-flutter-full-handbook/"/>
+        <updated>2026-08-18T16:05:44.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year, I published Decoupling Material and Cupertino in Flutter, which covered what was then a preview feature: Flutter's plan to separate the Material and Cupertino design libraries from]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Work with Subqueries in SQL]]></title>
         <id>6a837db5b64d34f31873c306</id>
@@ -95,36 +125,6 @@ Dark mode toggles: two states are enough originally handwritten and published wi
 What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite]]></title>
-        <id>6a7e4a380ee61c58fa48acb3</id>
-        <link href="https://www.freecodecamp.org/news/modernize-legacy-applications-with-ai/"/>
-        <updated>2026-08-13T22:50:32.000Z</updated>
-        <summary type="html"><![CDATA[I have seen legacy migrations considered successful because the old framework disappeared from the repository. Six months later, the team was still dealing with the same coupling, the same unclear bus]]></summary>
-        <author>
-            <name>Hugo Teijiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Production-Grade Agents with Pydantic AI]]></title>
-        <id>6a7e49f74e7ef3bb34dc60ba</id>
-        <link href="https://www.freecodecamp.org/news/building-agents-with-pydantic-ai/"/>
-        <updated>2026-08-13T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Building AI agents with raw LLM SDKs works fine for prototypes until you need structured outputs, testable code, and production reliability. The gap shows up in a predictable way. Your notebook code w]]></summary>
-        <author>
-            <name>Jay Mehta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI]]></title>
-        <id>6a7e08ac157d6ad1bb83d9cf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-kyc-onboarding-flow-with-shadcn-ui/"/>
-        <updated>2026-08-13T18:10:52.000Z</updated>
-        <summary type="html"><![CDATA[Every B2B SaaS product with a compliance requirement (like banking, lending, payroll, or crypto) hits the same wall early on: before you can let a business use your platform, you need to verify who th]]></summary>
-        <author>
-            <name>Vaibhav Gupta</name>
         </author>
     </entry>
     <entry>

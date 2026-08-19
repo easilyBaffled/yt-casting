@@ -17,7 +17,7 @@
           "description": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.\nDark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
           "publishedOn": "2026-08-17T14:15:50.000Z",
-          "wordCount": 3443,
+          "wordCount": 3586,
           "title": "Dark mode toggles: two states are enough",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
         },
@@ -169,7 +169,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6293,
+          "wordCount": 6291,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -184,7 +184,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4648,
+          "wordCount": 4639,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -199,7 +199,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5029,
+          "wordCount": 5022,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -229,7 +229,7 @@
           "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
           "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
           "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8084,
+          "wordCount": 8186,
           "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
@@ -246,12 +246,42 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a848de33638e739c70ebce3",
+          "author": "Md. Fahim Bin Amin",
+          "description": "I maintain my own website, and every now and then I upgrade the site to a new version. And I frequently experiment with different technologies and architectures while doing so. Recently, I faced an is",
+          "link": "https://www.freecodecamp.org/news/what-to-do-if-your-site-is-about-to-hit-vercels-free-image-optimization-cap/",
+          "publishedOn": "2026-08-18T16:52:51.000Z",
+          "wordCount": 2624,
+          "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/58b79fa2-e0a0-4172-b07f-e3446413eca8.png"
+        },
+        {
+          "id": "6a84895dd197512208831afc",
+          "author": "Aiyedogbon Abraham",
+          "description": "A website can look polished, work perfectly with a mouse, and still be difficult for some people to use. A form might use colour as the only indication that something went wrong. A sticky header might",
+          "link": "https://www.freecodecamp.org/news/how-to-build-more-accessible-websites-with-wcag-2-2/",
+          "publishedOn": "2026-08-18T16:33:33.000Z",
+          "wordCount": 6528,
+          "title": "How to Build More Accessible Websites with WCAG 2.2",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5cb22632-e793-40cc-9ded-4b813430e708.png"
+        },
+        {
+          "id": "6a8482d8953b2a189a16bd2c",
+          "author": "Atuoha Anthony",
+          "description": "Earlier this year, I published Decoupling Material and Cupertino in Flutter, which covered what was then a preview feature: Flutter's plan to separate the Material and Cupertino design libraries from",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-material-and-cupertino-decoupling-in-flutter-full-handbook/",
+          "publishedOn": "2026-08-18T16:05:44.000Z",
+          "wordCount": 6936,
+          "title": "How to Work with Material and Cupertino Decoupling in Flutter [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/341d236f-85ed-43be-871d-bf4b3647fa22.png"
+        },
+        {
           "id": "6a837db5b64d34f31873c306",
           "author": "Abdullah Rufai",
           "description": "Whenever you see a query nested inside another query in SQL, that's a subquery. A subquery is also known as an inner query while the one that contains it is called the main or outer query. Subqueries",
           "link": "https://www.freecodecamp.org/news/how-to-work-with-subqueries-in-sql/",
           "publishedOn": "2026-08-17T21:31:33.000Z",
-          "wordCount": 4710,
+          "wordCount": 4719,
           "title": "How to Work with Subqueries in SQL",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e9107adb-f183-460c-8978-6320ff1eadfe.png"
         },
@@ -261,7 +291,7 @@
           "description": "In this tutorial, I’ll show you how to scale LLM inference for AI agents using vLLM. I'll help you build an intuition for how LLM inference works, explore why agent workloads create GPU scheduling and",
           "link": "https://www.freecodecamp.org/news/how-to-scale-llm-inference-for-ai-agents-using-vllm/",
           "publishedOn": "2026-08-17T20:49:36.000Z",
-          "wordCount": 3693,
+          "wordCount": 3695,
           "title": "How to Scale LLM Inference for AI Agents Using vLLM",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/21960832-2f24-4f74-b132-439c174d9cc8.png"
         },
@@ -271,7 +301,7 @@
           "description": "You ask a coding agent for a new endpoint, and ninety seconds later you have a working endpoint. Then you read the diff, and you find that it pulled in a validation library that's not in your package.",
           "link": "https://www.freecodecamp.org/news/how-to-manage-context-files-in-your-codebase-and-get-better-agent-output/",
           "publishedOn": "2026-08-17T14:10:43.000Z",
-          "wordCount": 5953,
+          "wordCount": 5955,
           "title": "How to Manage Context Files in Your Codebase and Get Better Output From AI Coding Agents",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/84f1d4b5-5874-4325-965f-0a009e3b3290.png"
         },
@@ -281,7 +311,7 @@
           "description": "Discord bots can look surprisingly complicated when you see them in action. A bot can respond to messages, tell stories, remember parts of conversations, and stay online around the clock. When I first",
           "link": "https://www.freecodecamp.org/news/how-to-build-a-basic-discord-bot-with-python/",
           "publishedOn": "2026-08-14T16:40:28.000Z",
-          "wordCount": 8315,
+          "wordCount": 8317,
           "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6a444c51-d332-4915-aa1f-326b57b17472.png"
         },
@@ -291,7 +321,7 @@
           "description": "A trading research agent can write strategy code, run a backtest, inspect the results, and keep revising the strategy. The harder problem is making sure that this loop doesn't turn into an uncontrolle",
           "link": "https://www.freecodecamp.org/news/build-a-multi-agent-trading-research-system-with-langchain-deep-agents-handbook/",
           "publishedOn": "2026-08-14T16:34:24.000Z",
-          "wordCount": 10125,
+          "wordCount": 10127,
           "title": "How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f0e9a966-883b-463b-b560-09f3b4c57880.png"
         },
@@ -301,7 +331,7 @@
           "description": "I can recall the time when I first put on the Oura Ring and checked my readiness score the next morning as if I were checking an exam score. I saw something like 62 and I really started to panic. Was",
           "link": "https://www.freecodecamp.org/news/why-your-wearable-needs-weeks-of-data-before-it-becomes-useful/",
           "publishedOn": "2026-08-14T16:05:06.000Z",
-          "wordCount": 2567,
+          "wordCount": 2569,
           "title": "Why Your Wearable Needs Weeks of Data Before It Becomes Useful",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c734589e-3fd6-4e8c-996d-743aa5be276e.png"
         },
@@ -311,39 +341,9 @@
           "description": "Many PDF documents contain colorful charts, presentations, marketing materials, scanned pages, or graphics that aren't always ideal for printing or archiving. In some cases, converting a document to g",
           "link": "https://www.freecodecamp.org/news/build-pdf-to-grayscale-converter-javascript/",
           "publishedOn": "2026-08-14T15:57:42.000Z",
-          "wordCount": 3400,
+          "wordCount": 3402,
           "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c167a675-fcdd-4f28-9489-e42c3fe98d9d.png"
-        },
-        {
-          "id": "6a7e4a380ee61c58fa48acb3",
-          "author": "Hugo Teijiz",
-          "description": "I have seen legacy migrations considered successful because the old framework disappeared from the repository. Six months later, the team was still dealing with the same coupling, the same unclear bus",
-          "link": "https://www.freecodecamp.org/news/modernize-legacy-applications-with-ai/",
-          "publishedOn": "2026-08-13T22:50:32.000Z",
-          "wordCount": 4518,
-          "title": "How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2eb7ca1a-00d1-4dd4-a4a0-2f64eeb40388.png"
-        },
-        {
-          "id": "6a7e49f74e7ef3bb34dc60ba",
-          "author": "Jay Mehta",
-          "description": "Building AI agents with raw LLM SDKs works fine for prototypes until you need structured outputs, testable code, and production reliability. The gap shows up in a predictable way. Your notebook code w",
-          "link": "https://www.freecodecamp.org/news/building-agents-with-pydantic-ai/",
-          "publishedOn": "2026-08-13T21:30:00.000Z",
-          "wordCount": 5923,
-          "title": "How to Build Production-Grade Agents with Pydantic AI",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/39375594-36fd-4ef4-9b5f-c2fcd3fd5197.png"
-        },
-        {
-          "id": "6a7e08ac157d6ad1bb83d9cf",
-          "author": "Vaibhav Gupta",
-          "description": "Every B2B SaaS product with a compliance requirement (like banking, lending, payroll, or crypto) hits the same wall early on: before you can let a business use your platform, you need to verify who th",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-kyc-onboarding-flow-with-shadcn-ui/",
-          "publishedOn": "2026-08-13T18:10:52.000Z",
-          "wordCount": 3687,
-          "title": "How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c86a7b7f-9199-499c-8f61-7a1fda09f519.png"
         }
       ]
     }
