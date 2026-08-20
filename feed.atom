@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-19T01:41:05.146Z</id>
+    <id>urn:2026-08-20T01:39:37.917Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-19T01:41:05.146Z</updated>
+    <updated>2026-08-20T01:39:37.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Navigation Matching, Early Days]]></title>
+        <id>https://css-tricks.com/?p=396428</id>
+        <link href="https://css-tricks.com/css-navigation-matching-early-days/"/>
+        <updated>2026-08-19T14:44:41.000Z</updated>
+        <summary type="html"><![CDATA[Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.
+CSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Reinforcement Learning Framework from Scratch in Pure C]]></title>
+        <id>6a85bc8787783a8685665353</id>
+        <link href="https://www.freecodecamp.org/news/building-a-reinforcement-learning-framework-from-scratch-in-pure-c/"/>
+        <updated>2026-08-19T14:24:07.000Z</updated>
+        <summary type="html"><![CDATA[High-level machine learning libraries like PyTorch and TensorFlow make training intelligent agents straightforward, but relying on modern frameworks often hides the complex mechanics working under the]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress.com Student Plan]]></title>
+        <id>https://css-tricks.com/?p=396623</id>
+        <link href="https://css-tricks.com/wordpress-student-plan/"/>
+        <updated>2026-08-19T08:50:00.000Z</updated>
+        <summary type="html"><![CDATA[As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.
+WordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-Frequency Real-Time Data in React: From Ring Buffers to OffscreenCanvas]]></title>
+        <id>6a84d268fa401f6597cd200e</id>
+        <link href="https://www.freecodecamp.org/news/high-frequency-real-time-data-in-react-from-ring-buffers-to-offscreencanvas/"/>
+        <updated>2026-08-18T21:45:12.000Z</updated>
+        <summary type="html"><![CDATA[React is great at many things. But if you've ever tried pushing thousands of data points per second through it, you'll quickly learn that React isn't a firehose. It's more like a garden hose. Try forc]]></summary>
+        <author>
+            <name>Vineeth Pawar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap]]></title>
         <id>6a848de33638e739c70ebce3</id>
@@ -94,26 +136,6 @@ Dark mode toggles: two states are enough originally handwritten and published wi
         <summary type="html"><![CDATA[A trading research agent can write strategy code, run a backtest, inspect the results, and keep revising the strategy. The harder problem is making sure that this loop doesn't turn into an uncontrolle]]></summary>
         <author>
             <name>Nikhil Adithyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your Wearable Needs Weeks of Data Before It Becomes Useful]]></title>
-        <id>6a7f3cb20046634bbe645e53</id>
-        <link href="https://www.freecodecamp.org/news/why-your-wearable-needs-weeks-of-data-before-it-becomes-useful/"/>
-        <updated>2026-08-14T16:05:06.000Z</updated>
-        <summary type="html"><![CDATA[I can recall the time when I first put on the Oura Ring and checked my readiness score the next morning as if I were checking an exam score. I saw something like 62 and I really started to panic. Was]]></summary>
-        <author>
-            <name>Shradha Puri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript]]></title>
-        <id>6a7f3af6a3acdf7f3110d046</id>
-        <link href="https://www.freecodecamp.org/news/build-pdf-to-grayscale-converter-javascript/"/>
-        <updated>2026-08-14T15:57:42.000Z</updated>
-        <summary type="html"><![CDATA[Many PDF documents contain colorful charts, presentations, marketing materials, scanned pages, or graphics that aren't always ideal for printing or archiving. In some cases, converting a document to g]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
         </author>
     </entry>
     <entry>
@@ -273,31 +295,6 @@ What’s !important #16: sibling-index() Animations, Use Cases for the infinity 
         <summary type="html"><![CDATA[Many of the AI tools we interact with take the form of text boxes. But what if there was a different way to interact with AI? Oleksii Hrzhehorzhevskyi explores a different approach to creating a new AI assistant and how designers can navigate the field as AI continues to change it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Oleksii Hrzhehorzhevskyi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs]]></title>
-        <id>https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/</id>
-        <link href="https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/"/>
-        <updated>2026-07-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[writing-mode]]></title>
-        <id>http://css-tricks.com/?page_id=244261</id>
-        <link href="https://css-tricks.com/almanac/properties/w/writing-mode/"/>
-        <updated>2026-07-21T09:39:10.000Z</updated>
-        <summary type="html"><![CDATA[The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.
-.element {
-  writing-mode: vertical-rl;
-}
-This is most useful in languages such as Chinese, Japanese or …
-writing-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mojtaba Seyedi</name>
         </author>
     </entry>
 </feed>

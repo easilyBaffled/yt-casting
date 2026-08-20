@@ -12,12 +12,32 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396428",
+          "author": "Geoff Graham",
+          "description": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.\nCSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-navigation-matching-early-days/",
+          "publishedOn": "2026-08-19T14:44:41.000Z",
+          "wordCount": 3540,
+          "title": "CSS Navigation Matching, Early Days",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/04/higher-order-components.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396623",
+          "author": "Geoff Graham",
+          "description": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.\nWordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/wordpress-student-plan/",
+          "publishedOn": "2026-08-19T08:50:00.000Z",
+          "wordCount": 2828,
+          "title": "WordPress.com Student Plan",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wordpress-student-education.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=396545",
           "author": "Geoff Graham",
           "description": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.\nDark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
           "publishedOn": "2026-08-17T14:15:50.000Z",
-          "wordCount": 3586,
+          "wordCount": 3652,
           "title": "Dark mode toggles: two states are enough",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
         },
@@ -27,7 +47,7 @@
           "description": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.\nWhat’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-17/",
           "publishedOn": "2026-08-14T14:01:51.000Z",
-          "wordCount": 3535,
+          "wordCount": 3544,
           "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi17.png"
         },
@@ -115,16 +135,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/wi16.jpg"
-        },
-        {
-          "id": "http://css-tricks.com/?page_id=244261",
-          "author": "Mojtaba Seyedi",
-          "description": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in languages such as Chinese, Japanese or …\nwriting-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-          "publishedOn": "2026-07-21T09:39:10.000Z",
-          "wordCount": 4083,
-          "title": "writing-mode",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
         }
       ]
     },
@@ -169,7 +179,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6291,
+          "wordCount": 6283,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -184,7 +194,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4639,
+          "wordCount": 4644,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -199,7 +209,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5022,
+          "wordCount": 5033,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -222,21 +232,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/digital-design-ai-era/digital-design-ai-era.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
-          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
-          "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
-          "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
-          "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8186,
-          "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg"
         }
       ]
     },
@@ -245,6 +240,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a85bc8787783a8685665353",
+          "author": "Beau Carnes",
+          "description": "High-level machine learning libraries like PyTorch and TensorFlow make training intelligent agents straightforward, but relying on modern frameworks often hides the complex mechanics working under the",
+          "link": "https://www.freecodecamp.org/news/building-a-reinforcement-learning-framework-from-scratch-in-pure-c/",
+          "publishedOn": "2026-08-19T14:24:07.000Z",
+          "wordCount": 1154,
+          "title": "Building a Reinforcement Learning Framework from Scratch in Pure C",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e79ad075-fa06-4d0e-bc4a-ee1a8ecee9b1.jpg"
+        },
+        {
+          "id": "6a84d268fa401f6597cd200e",
+          "author": "Vineeth Pawar",
+          "description": "React is great at many things. But if you've ever tried pushing thousands of data points per second through it, you'll quickly learn that React isn't a firehose. It's more like a garden hose. Try forc",
+          "link": "https://www.freecodecamp.org/news/high-frequency-real-time-data-in-react-from-ring-buffers-to-offscreencanvas/",
+          "publishedOn": "2026-08-18T21:45:12.000Z",
+          "wordCount": 7312,
+          "title": "High-Frequency Real-Time Data in React: From Ring Buffers to OffscreenCanvas",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c3ffaae8-51d5-4add-9a9e-e49443e49746.png"
+        },
         {
           "id": "6a848de33638e739c70ebce3",
           "author": "Md. Fahim Bin Amin",
@@ -324,26 +339,6 @@
           "wordCount": 10127,
           "title": "How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f0e9a966-883b-463b-b560-09f3b4c57880.png"
-        },
-        {
-          "id": "6a7f3cb20046634bbe645e53",
-          "author": "Shradha Puri",
-          "description": "I can recall the time when I first put on the Oura Ring and checked my readiness score the next morning as if I were checking an exam score. I saw something like 62 and I really started to panic. Was",
-          "link": "https://www.freecodecamp.org/news/why-your-wearable-needs-weeks-of-data-before-it-becomes-useful/",
-          "publishedOn": "2026-08-14T16:05:06.000Z",
-          "wordCount": 2569,
-          "title": "Why Your Wearable Needs Weeks of Data Before It Becomes Useful",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c734589e-3fd6-4e8c-996d-743aa5be276e.png"
-        },
-        {
-          "id": "6a7f3af6a3acdf7f3110d046",
-          "author": "Bhavin Sheth",
-          "description": "Many PDF documents contain colorful charts, presentations, marketing materials, scanned pages, or graphics that aren't always ideal for printing or archiving. In some cases, converting a document to g",
-          "link": "https://www.freecodecamp.org/news/build-pdf-to-grayscale-converter-javascript/",
-          "publishedOn": "2026-08-14T15:57:42.000Z",
-          "wordCount": 3402,
-          "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c167a675-fcdd-4f28-9489-e42c3fe98d9d.png"
         }
       ]
     }
