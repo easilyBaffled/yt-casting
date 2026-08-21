@@ -27,7 +27,7 @@
           "description": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.\nWordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/wordpress-student-plan/",
           "publishedOn": "2026-08-19T08:50:00.000Z",
-          "wordCount": 2828,
+          "wordCount": 3095,
           "title": "WordPress.com Student Plan",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wordpress-student-education.jpg"
         },
@@ -57,7 +57,7 @@
           "description": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.\nBlocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
           "publishedOn": "2026-08-12T13:43:56.000Z",
-          "wordCount": 11050,
+          "wordCount": 11284,
           "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/devtools-aria-hidden-console-warning.jpg"
         },
@@ -144,6 +144,16 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
+          "author": "hello@smashingmagazine.com (Johan Grobler)",
+          "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
+          "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
+          "publishedOn": "2026-08-20T13:00:00.000Z",
+          "wordCount": 5713,
+          "title": "Timing Charts: A Blueprint For SMIL Animations",
+          "imageUrl": "https:null"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.",
@@ -194,7 +204,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4644,
+          "wordCount": 4651,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -209,7 +219,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5033,
+          "wordCount": 5029,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -241,6 +251,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a8743695756ffe127b1cd35",
+          "author": "Vahe Aslanyan",
+          "description": "This book is a capability-led field guide to the architectures that make modern AI agents actually work. It includes code, failure modes, and illustrative composite case studies for every pattern. Abo",
+          "link": "https://www.freecodecamp.org/news/ai-agent-engineers-guide-60-patterns-for-building-autonomous-systems-book/",
+          "publishedOn": "2026-08-20T18:11:53.000Z",
+          "wordCount": 100136,
+          "title": "The AI Agent Engineer's Guide: 60 Patterns for Building Autonomous Systems [Full Book]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/732208be-8a01-43cf-a471-b8d7c8480c83.png"
+        },
+        {
+          "id": "6a873f054742a7cecc0617f4",
+          "author": "RONI DAS",
+          "description": "Most of the data you work with is really about relationships. A customer belongs to an account. An incident affects a service. An engineer owns a repository. You store all of that in tables, and for a",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-knowledge-graph-with-python-and-neo4j-handbook/",
+          "publishedOn": "2026-08-20T17:00:00.000Z",
+          "wordCount": 18989,
+          "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f21a22a9-c9e9-4ed6-899e-60639e8d2c01.png"
+        },
+        {
+          "id": "6a872fd36fe3503416ed20d8",
+          "author": "Manish Shivanandhan",
+          "description": "Cloud computing has changed how organisations build, deploy, and scale applications. Businesses can launch new services in minutes, expand into new markets, and reduce the cost of maintaining physical",
+          "link": "https://www.freecodecamp.org/news/the-hidden-risks-lurking-in-your-cloud-infrastructure/",
+          "publishedOn": "2026-08-20T16:48:19.000Z",
+          "wordCount": 4641,
+          "title": "The Hidden Risks Lurking in Your Cloud Infrastructure",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/50037557-d27e-4f8c-bbb0-b9bc78582a5b.png"
+        },
+        {
+          "id": "6a870880307f2374f57c4a18",
+          "author": "Beau Carnes",
+          "description": "Building a basic AI demo with a single completion prompt and simple RAG pipeline is easy, but taking agentic systems into production requires robust system design, reliability engineering, and failure",
+          "link": "https://www.freecodecamp.org/news/learn-system-design-for-ai-agents-build-a-production-ready-multi-agent-pr-reviewer/",
+          "publishedOn": "2026-08-20T14:00:32.000Z",
+          "wordCount": 1137,
+          "title": "Learn System Design for AI Agents: Build a Production-Ready Multi-Agent PR Reviewer",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e6e59c65-63d6-4d50-b417-9896dcf0edb8.jpg"
+        },
+        {
+          "id": "6a86dfe3a8ecebd3a44ff2f0",
+          "author": "Beau Carnes",
+          "description": "Learning Data Structures and Algorithms (DSA) often feels like facing an challenging wall of complex jargon, syntax, and heavy mathematics. But don't worry because we just posted a course on the freeC",
+          "link": "https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-visually/",
+          "publishedOn": "2026-08-20T11:07:15.000Z",
+          "wordCount": 1144,
+          "title": "Learn Data Structures and Algorithms Visually",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/6b20ee79-20b4-4665-b940-37f3d307835c.jpg"
+        },
+        {
           "id": "6a85bc8787783a8685665353",
           "author": "Beau Carnes",
           "description": "High-level machine learning libraries like PyTorch and TensorFlow make training intelligent agents straightforward, but relying on modern frameworks often hides the complex mechanics working under the",
@@ -248,7 +308,7 @@
           "publishedOn": "2026-08-19T14:24:07.000Z",
           "wordCount": 1154,
           "title": "Building a Reinforcement Learning Framework from Scratch in Pure C",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e79ad075-fa06-4d0e-bc4a-ee1a8ecee9b1.jpg"
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/31457501-744f-42b6-8528-c0c13e54f538.jpg"
         },
         {
           "id": "6a84d268fa401f6597cd200e",
@@ -289,56 +349,6 @@
           "wordCount": 6936,
           "title": "How to Work with Material and Cupertino Decoupling in Flutter [Full Handbook]",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/341d236f-85ed-43be-871d-bf4b3647fa22.png"
-        },
-        {
-          "id": "6a837db5b64d34f31873c306",
-          "author": "Abdullah Rufai",
-          "description": "Whenever you see a query nested inside another query in SQL, that's a subquery. A subquery is also known as an inner query while the one that contains it is called the main or outer query. Subqueries",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-subqueries-in-sql/",
-          "publishedOn": "2026-08-17T21:31:33.000Z",
-          "wordCount": 4719,
-          "title": "How to Work with Subqueries in SQL",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e9107adb-f183-460c-8978-6320ff1eadfe.png"
-        },
-        {
-          "id": "6a8373e0eb96152ac540effb",
-          "author": "Darsh Shah",
-          "description": "In this tutorial, I’ll show you how to scale LLM inference for AI agents using vLLM. I'll help you build an intuition for how LLM inference works, explore why agent workloads create GPU scheduling and",
-          "link": "https://www.freecodecamp.org/news/how-to-scale-llm-inference-for-ai-agents-using-vllm/",
-          "publishedOn": "2026-08-17T20:49:36.000Z",
-          "wordCount": 3695,
-          "title": "How to Scale LLM Inference for AI Agents Using vLLM",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/21960832-2f24-4f74-b132-439c174d9cc8.png"
-        },
-        {
-          "id": "6a831663dcf9ac784c9eae7d",
-          "author": "Kayode Adeniyi",
-          "description": "You ask a coding agent for a new endpoint, and ninety seconds later you have a working endpoint. Then you read the diff, and you find that it pulled in a validation library that's not in your package.",
-          "link": "https://www.freecodecamp.org/news/how-to-manage-context-files-in-your-codebase-and-get-better-agent-output/",
-          "publishedOn": "2026-08-17T14:10:43.000Z",
-          "wordCount": 5955,
-          "title": "How to Manage Context Files in Your Codebase and Get Better Output From AI Coding Agents",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/84f1d4b5-5874-4325-965f-0a009e3b3290.png"
-        },
-        {
-          "id": "6a7f44fc58366ecdaf016624",
-          "author": "Eva J Patel",
-          "description": "Discord bots can look surprisingly complicated when you see them in action. A bot can respond to messages, tell stories, remember parts of conversations, and stay online around the clock. When I first",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-basic-discord-bot-with-python/",
-          "publishedOn": "2026-08-14T16:40:28.000Z",
-          "wordCount": 8317,
-          "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6a444c51-d332-4915-aa1f-326b57b17472.png"
-        },
-        {
-          "id": "6a7f43902933540b66072ea4",
-          "author": "Nikhil Adithyan",
-          "description": "A trading research agent can write strategy code, run a backtest, inspect the results, and keep revising the strategy. The harder problem is making sure that this loop doesn't turn into an uncontrolle",
-          "link": "https://www.freecodecamp.org/news/build-a-multi-agent-trading-research-system-with-langchain-deep-agents-handbook/",
-          "publishedOn": "2026-08-14T16:34:24.000Z",
-          "wordCount": 10127,
-          "title": "How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f0e9a966-883b-463b-b560-09f3b4c57880.png"
         }
       ]
     }
