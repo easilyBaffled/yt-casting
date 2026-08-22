@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-21T01:44:48.669Z</id>
+    <id>urn:2026-08-22T01:38:15.951Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-21T01:44:48.669Z</updated>
+    <updated>2026-08-22T01:38:15.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chain of Responsibility Design Pattern: Decoupling Complex Business Rules, One Handler at a Time]]></title>
+        <id>6a88b8d9225da88c02eee6f5</id>
+        <link href="https://www.freecodecamp.org/news/chain-of-responsibility-design-pattern-decoupling-complex-business-rules/"/>
+        <updated>2026-08-21T20:45:13.000Z</updated>
+        <summary type="html"><![CDATA[Every system, at some point, ends up with a function that nobody wants to touch. It starts small: a simple validation check, an if statement here, another there. Then requirements grow and more condit]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Host Odoo: Self-Hosted vs Managed Hosting]]></title>
+        <id>6a888912ca3910a01e7c2f66</id>
+        <link href="https://www.freecodecamp.org/news/how-to-host-odoo/"/>
+        <updated>2026-08-21T17:21:22.000Z</updated>
+        <summary type="html"><![CDATA[Odoo is an open-source enterprise resource planning (ERP) platform that helps businesses manage operations such as sales, customer relationship management (CRM), inventory, accounting, human resources]]></summary>
+        <author>
+            <name>Abdul Talha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Understand a Legacy Codebase Using AI Before Changing it]]></title>
+        <id>6a888892029633fd14697876</id>
+        <link href="https://www.freecodecamp.org/news/understand-a-legacy-codebase-with-ai/"/>
+        <updated>2026-08-21T17:19:14.000Z</updated>
+        <summary type="html"><![CDATA[The first thing many engineers want to do when they inherit a legacy codebase is change it. And I understand the impulse. You open a class that's 1,500 lines long. There are database calls mixed with]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Networking Explained: From ClusterIP to Cilium Service Mesh]]></title>
+        <id>6a88812be09a3c3682f4fe95</id>
+        <link href="https://www.freecodecamp.org/news/kubernetes-networking-explained-from-clusterip-to-cilium-service-mesh/"/>
+        <updated>2026-08-21T16:47:39.000Z</updated>
+        <summary type="html"><![CDATA[Here's something that most Kubernetes tutorials won't tell you: most engineers can run kubectl expose. Fewer than 10% understand what happens when they do. I've debugged Kubernetes networking issues a]]></summary>
+        <author>
+            <name>Ayobami Adejumo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Sensors Collect, Process, and Track Data in Wearable Devices]]></title>
+        <id>6a887ddeb55a70d585eec152</id>
+        <link href="https://www.freecodecamp.org/news/how-sensors-collect-process-and-track-data-in-wearables/"/>
+        <updated>2026-08-21T16:33:34.000Z</updated>
+        <summary type="html"><![CDATA[A smartwatch can tell you that your heart rate is 78 beats per minute, that you've walked 6,421 steps, or that you slept for 7 hours last night. All of these numbers appear simple on the screen, but b]]></summary>
+        <author>
+            <name>Reetain Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sanitizers Handbook: Memory, Initialization, and Races]]></title>
+        <id>6a887c9d3045236aefcb4a94</id>
+        <link href="https://www.freecodecamp.org/news/the-sanitizers-handbook/"/>
+        <updated>2026-08-21T16:28:13.000Z</updated>
+        <summary type="html"><![CDATA[Some of the most dangerous native failures are produced by programs that appear to be working correctly. The cryptographic operation returns the right ciphertext. The parser rejects malformed input. T]]></summary>
+        <author>
+            <name>Hamdaan Ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Two Emotions Can Produce the Exact Same Biometric Signal]]></title>
+        <id>6a887bfc3e750c6752406141</id>
+        <link href="https://www.freecodecamp.org/news/how-wearables-confuse-different-emotions/"/>
+        <updated>2026-08-21T16:25:32.000Z</updated>
+        <summary type="html"><![CDATA[A few months ago I was sitting in a convention center about to deliver a keynote at an event, watching my Oura Ring throw up the same heart rate pattern it shows me when I’m at my Pilates class. Simil]]></summary>
+        <author>
+            <name>Shradha Puri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resolved: CSS Class Prefix Selector]]></title>
+        <id>https://css-tricks.com/?p=396644</id>
+        <link href="https://css-tricks.com/resolved-css-class-prefix-selector/"/>
+        <updated>2026-08-21T15:13:03.000Z</updated>
+        <summary type="html"><![CDATA[A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.
+Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The AI Agent Engineer's Guide: 60 Patterns for Building Autonomous Systems [Full Book]]]></title>
         <id>6a8743695756ffe127b1cd35</id>
@@ -36,16 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn System Design for AI Agents: Build a Production-Ready Multi-Agent PR Reviewer]]></title>
-        <id>6a870880307f2374f57c4a18</id>
-        <link href="https://www.freecodecamp.org/news/learn-system-design-for-ai-agents-build-a-production-ready-multi-agent-pr-reviewer/"/>
-        <updated>2026-08-20T14:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Building a basic AI demo with a single completion prompt and simple RAG pipeline is easy, but taking agentic systems into production requires robust system design, reliability engineering, and failure]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Timing Charts: A Blueprint For SMIL Animations]]></title>
         <id>https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/</id>
         <link href="https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/"/>
@@ -53,16 +124,6 @@
         <summary type="html"><![CDATA[Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Johan Grobler)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Data Structures and Algorithms Visually]]></title>
-        <id>6a86dfe3a8ecebd3a44ff2f0</id>
-        <link href="https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-visually/"/>
-        <updated>2026-08-20T11:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Learning Data Structures and Algorithms (DSA) often feels like facing an challenging wall of complex jargon, syntax, and heavy mathematics. But don't worry because we just posted a course on the freeC]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -77,16 +138,6 @@ CSS Navigation Matching, Early Days originally handwritten and published with lo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Reinforcement Learning Framework from Scratch in Pure C]]></title>
-        <id>6a85bc8787783a8685665353</id>
-        <link href="https://www.freecodecamp.org/news/building-a-reinforcement-learning-framework-from-scratch-in-pure-c/"/>
-        <updated>2026-08-19T14:24:07.000Z</updated>
-        <summary type="html"><![CDATA[High-level machine learning libraries like PyTorch and TensorFlow make training intelligent agents straightforward, but relying on modern frameworks often hides the complex mechanics working under the]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WordPress.com Student Plan]]></title>
         <id>https://css-tricks.com/?p=396623</id>
         <link href="https://css-tricks.com/wordpress-student-plan/"/>
@@ -95,46 +146,6 @@ CSS Navigation Matching, Early Days originally handwritten and published with lo
 WordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High-Frequency Real-Time Data in React: From Ring Buffers to OffscreenCanvas]]></title>
-        <id>6a84d268fa401f6597cd200e</id>
-        <link href="https://www.freecodecamp.org/news/high-frequency-real-time-data-in-react-from-ring-buffers-to-offscreencanvas/"/>
-        <updated>2026-08-18T21:45:12.000Z</updated>
-        <summary type="html"><![CDATA[React is great at many things. But if you've ever tried pushing thousands of data points per second through it, you'll quickly learn that React isn't a firehose. It's more like a garden hose. Try forc]]></summary>
-        <author>
-            <name>Vineeth Pawar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap]]></title>
-        <id>6a848de33638e739c70ebce3</id>
-        <link href="https://www.freecodecamp.org/news/what-to-do-if-your-site-is-about-to-hit-vercels-free-image-optimization-cap/"/>
-        <updated>2026-08-18T16:52:51.000Z</updated>
-        <summary type="html"><![CDATA[I maintain my own website, and every now and then I upgrade the site to a new version. And I frequently experiment with different technologies and architectures while doing so. Recently, I faced an is]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build More Accessible Websites with WCAG 2.2]]></title>
-        <id>6a84895dd197512208831afc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-more-accessible-websites-with-wcag-2-2/"/>
-        <updated>2026-08-18T16:33:33.000Z</updated>
-        <summary type="html"><![CDATA[A website can look polished, work perfectly with a mouse, and still be difficult for some people to use. A form might use colour as the only indication that something went wrong. A sticky header might]]></summary>
-        <author>
-            <name>Aiyedogbon Abraham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with Material and Cupertino Decoupling in Flutter [Full Handbook]]]></title>
-        <id>6a8482d8953b2a189a16bd2c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-material-and-cupertino-decoupling-in-flutter-full-handbook/"/>
-        <updated>2026-08-18T16:05:44.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this year, I published Decoupling Material and Cupertino in Flutter, which covered what was then a preview feature: Flutter's plan to separate the Material and Cupertino design libraries from]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
         </author>
     </entry>
     <entry>
