@@ -17,7 +17,7 @@
           "description": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.\nResolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
           "publishedOn": "2026-08-21T15:13:03.000Z",
-          "wordCount": 3334,
+          "wordCount": 3486,
           "title": "Resolved: CSS Class Prefix Selector",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/css-prefix-selector.webp"
         },
@@ -159,7 +159,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5714,
+          "wordCount": 5709,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         },
@@ -199,7 +199,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6290,
+          "wordCount": 6293,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -214,7 +214,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4647,
+          "wordCount": 4646,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -229,7 +229,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5024,
+          "wordCount": 5027,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -244,7 +244,7 @@
           "description": "Many of the AI tools we interact with take the form of text boxes. But what if there was a different way to interact with AI? Oleksii Hrzhehorzhevskyi explores a different approach to creating a new AI assistant and how designers can navigate the field as AI continues to change it.",
           "link": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
           "publishedOn": "2026-07-28T10:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 3688,
           "title": "Thinking Outside The Box: Digital Design In The AI Era",
           "enclosure": {
             "url": "http://files.smashing.media/articles/digital-design-ai-era/digital-design-ai-era.jpg",
@@ -260,6 +260,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a88c8b8c9a055790ae586e7",
+          "author": "Eva J Patel",
+          "description": "Have you ever wondered how a computer can recognize a handwritten number, predict whether an email is spam, recommend a video, or understand a sentence? A lot of modern AI systems rely on something ca",
+          "link": "https://www.freecodecamp.org/news/neural-networks-explained-simply-in-python/",
+          "publishedOn": "2026-08-21T21:52:56.000Z",
+          "wordCount": 7168,
+          "title": "Neural Networks Explained: What They Are and How to Build One in Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e140594f-daab-4c39-8b59-91bc794d6430.png"
+        },
         {
           "id": "6a88b8d9225da88c02eee6f5",
           "author": "Oluwaseyi Fatunmole",
@@ -349,16 +359,6 @@
           "wordCount": 18989,
           "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f21a22a9-c9e9-4ed6-899e-60639e8d2c01.png"
-        },
-        {
-          "id": "6a872fd36fe3503416ed20d8",
-          "author": "Manish Shivanandhan",
-          "description": "Cloud computing has changed how organisations build, deploy, and scale applications. Businesses can launch new services in minutes, expand into new markets, and reduce the cost of maintaining physical",
-          "link": "https://www.freecodecamp.org/news/the-hidden-risks-lurking-in-your-cloud-infrastructure/",
-          "publishedOn": "2026-08-20T16:48:19.000Z",
-          "wordCount": 4641,
-          "title": "The Hidden Risks Lurking in Your Cloud Infrastructure",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/50037557-d27e-4f8c-bbb0-b9bc78582a5b.png"
         }
       ]
     }

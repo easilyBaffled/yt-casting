@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-22T01:38:15.951Z</id>
+    <id>urn:2026-08-23T01:47:45.561Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-22T01:38:15.951Z</updated>
+    <updated>2026-08-23T01:47:45.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Neural Networks Explained: What They Are and How to Build One in Python]]></title>
+        <id>6a88c8b8c9a055790ae586e7</id>
+        <link href="https://www.freecodecamp.org/news/neural-networks-explained-simply-in-python/"/>
+        <updated>2026-08-21T21:52:56.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how a computer can recognize a handwritten number, predict whether an email is spam, recommend a video, or understand a sentence? A lot of modern AI systems rely on something ca]]></summary>
+        <author>
+            <name>Eva J Patel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chain of Responsibility Design Pattern: Decoupling Complex Business Rules, One Handler at a Time]]></title>
         <id>6a88b8d9225da88c02eee6f5</id>
@@ -104,16 +114,6 @@ Resolved: CSS Class Prefix Selector originally handwritten and published with lo
         <summary type="html"><![CDATA[Most of the data you work with is really about relationships. A customer belongs to an account. An incident affects a service. An engineer owns a repository. You store all of that in tables, and for a]]></summary>
         <author>
             <name>RONI DAS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hidden Risks Lurking in Your Cloud Infrastructure]]></title>
-        <id>6a872fd36fe3503416ed20d8</id>
-        <link href="https://www.freecodecamp.org/news/the-hidden-risks-lurking-in-your-cloud-infrastructure/"/>
-        <updated>2026-08-20T16:48:19.000Z</updated>
-        <summary type="html"><![CDATA[Cloud computing has changed how organisations build, deploy, and scale applications. Businesses can launch new services in minutes, expand into new markets, and reduce the cost of maintaining physical]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
