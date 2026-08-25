@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-24T01:45:38.496Z</id>
+    <id>urn:2026-08-25T01:39:50.450Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-24T01:45:38.496Z</updated>
+    <updated>2026-08-25T01:39:50.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Referral-Aware Split Payment Flows in Django]]></title>
+        <id>6a8c8383ca0d5a1002b19fa3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-referral-aware-split-payment-flows-in-django/"/>
+        <updated>2026-08-24T17:46:43.000Z</updated>
+        <summary type="html"><![CDATA[When a product has a single checkout, payment logic is usually simple: charge the user, mark the order as paid, and move on. But once the business model includes a deposit now, a balance later, and re]]></summary>
+        <author>
+            <name>Chidozie Managwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile Background Execution: iOS Background Modes, Android WorkManager, and Background Services in Dart]]></title>
+        <id>6a8c831fe5597860d219d150</id>
+        <link href="https://www.freecodecamp.org/news/mobile-background-execution-ios-background-modes-android-workmanager-and-background-services-in-dart/"/>
+        <updated>2026-08-24T17:45:03.000Z</updated>
+        <summary type="html"><![CDATA[Every mobile developer eventually hits the same wall: the app works perfectly when the user is looking at it. But the moment they press the home button, everything stops. A sync that should have compl]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Test Conversational AI: A Practical Guide for QA Engineers]]></title>
+        <id>6a8c5708cc6859117f26da4f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-test-conversational-ai-practical-guide-for-qa-engineers/"/>
+        <updated>2026-08-24T14:36:56.000Z</updated>
+        <summary type="html"><![CDATA[When I first started learning about conversational AI testing, one question kept bothering me: Where is the expected result? Coming from traditional software testing, I was used to a familiar pattern.]]></summary>
+        <author>
+            <name>GAYATHRI BOLINENI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Type-Safe APIs with Hono and Zod]]></title>
+        <id>6a8c4f18dbeb4eb3a4b2ed0d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod/"/>
+        <updated>2026-08-24T14:03:04.000Z</updated>
+        <summary type="html"><![CDATA[If you've shipped a Node.js API before, you already know this pain: your TypeScript types say one thing, your runtime validation says another, and your OpenAPI docs quietly disagree with both. Someone]]></summary>
+        <author>
+            <name>Chinedu Otutu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress PHP-Only Block Registration]]></title>
+        <id>https://css-tricks.com/?p=395401</id>
+        <link href="https://css-tricks.com/wordpress-php-block-registration/"/>
+        <updated>2026-08-24T13:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.
+WordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Fränk Klein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector]]></title>
+        <id>6a8c4969642222471a04f943</id>
+        <link href="https://www.freecodecamp.org/news/how-to-convert-prometheus-histogramsotlp-with-the-opentelemetry-collector/"/>
+        <updated>2026-08-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern applications often expose metrics at a /metrics endpoint using the Prometheus format. Among these metrics, histograms are particularly useful. They show how often values fall into different ran]]></summary>
+        <author>
+            <name>Purity Udeh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neural Networks Explained: What They Are and How to Build One in Python]]></title>
         <id>6a88c8b8c9a055790ae586e7</id>
@@ -56,36 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Sensors Collect, Process, and Track Data in Wearable Devices]]></title>
-        <id>6a887ddeb55a70d585eec152</id>
-        <link href="https://www.freecodecamp.org/news/how-sensors-collect-process-and-track-data-in-wearables/"/>
-        <updated>2026-08-21T16:33:34.000Z</updated>
-        <summary type="html"><![CDATA[A smartwatch can tell you that your heart rate is 78 beats per minute, that you've walked 6,421 steps, or that you slept for 7 hours last night. All of these numbers appear simple on the screen, but b]]></summary>
-        <author>
-            <name>Reetain Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sanitizers Handbook: Memory, Initialization, and Races]]></title>
-        <id>6a887c9d3045236aefcb4a94</id>
-        <link href="https://www.freecodecamp.org/news/the-sanitizers-handbook/"/>
-        <updated>2026-08-21T16:28:13.000Z</updated>
-        <summary type="html"><![CDATA[Some of the most dangerous native failures are produced by programs that appear to be working correctly. The cryptographic operation returns the right ciphertext. The parser rejects malformed input. T]]></summary>
-        <author>
-            <name>Hamdaan Ali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Two Emotions Can Produce the Exact Same Biometric Signal]]></title>
-        <id>6a887bfc3e750c6752406141</id>
-        <link href="https://www.freecodecamp.org/news/how-wearables-confuse-different-emotions/"/>
-        <updated>2026-08-21T16:25:32.000Z</updated>
-        <summary type="html"><![CDATA[A few months ago I was sitting in a convention center about to deliver a keynote at an event, watching my Oura Ring throw up the same heart rate pattern it shows me when I’m at my Pilates class. Simil]]></summary>
-        <author>
-            <name>Shradha Puri</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Resolved: CSS Class Prefix Selector]]></title>
         <id>https://css-tricks.com/?p=396644</id>
         <link href="https://css-tricks.com/resolved-css-class-prefix-selector/"/>
@@ -94,26 +125,6 @@
 Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI Agent Engineer's Guide: 60 Patterns for Building Autonomous Systems [Full Book]]]></title>
-        <id>6a8743695756ffe127b1cd35</id>
-        <link href="https://www.freecodecamp.org/news/ai-agent-engineers-guide-60-patterns-for-building-autonomous-systems-book/"/>
-        <updated>2026-08-20T18:11:53.000Z</updated>
-        <summary type="html"><![CDATA[This book is a capability-led field guide to the architectures that make modern AI agents actually work. It includes code, failure modes, and illustrative composite case studies for every pattern. Abo]]></summary>
-        <author>
-            <name>Vahe Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]]]></title>
-        <id>6a873f054742a7cecc0617f4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-knowledge-graph-with-python-and-neo4j-handbook/"/>
-        <updated>2026-08-20T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most of the data you work with is really about relationships. A customer belongs to an account. An incident affects a service. An engineer owns a repository. You store all of that in tables, and for a]]></summary>
-        <author>
-            <name>RONI DAS</name>
         </author>
     </entry>
     <entry>

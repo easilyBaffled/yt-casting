@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395401",
+          "author": "Fränk Klein",
+          "description": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.\nWordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/wordpress-php-block-registration/",
+          "publishedOn": "2026-08-24T13:54:02.000Z",
+          "wordCount": 6762,
+          "title": "WordPress PHP-Only Block Registration",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wordpress-blocks-php.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=396644",
           "author": "Geoff Graham",
           "description": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.\nResolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -159,7 +169,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5715,
+          "wordCount": 5714,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         },
@@ -199,7 +209,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6401,
+          "wordCount": 6292,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -214,7 +224,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4639,
+          "wordCount": 4643,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -229,7 +239,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5034,
+          "wordCount": 5032,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -260,6 +270,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a8c8383ca0d5a1002b19fa3",
+          "author": "Chidozie Managwu",
+          "description": "When a product has a single checkout, payment logic is usually simple: charge the user, mark the order as paid, and move on. But once the business model includes a deposit now, a balance later, and re",
+          "link": "https://www.freecodecamp.org/news/how-to-build-referral-aware-split-payment-flows-in-django/",
+          "publishedOn": "2026-08-24T17:46:43.000Z",
+          "wordCount": 2446,
+          "title": "How to Build Referral-Aware Split Payment Flows in Django",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4e8f9e07-789d-417b-96af-3a41b327d047.png"
+        },
+        {
+          "id": "6a8c831fe5597860d219d150",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "Every mobile developer eventually hits the same wall: the app works perfectly when the user is looking at it. But the moment they press the home button, everything stops. A sync that should have compl",
+          "link": "https://www.freecodecamp.org/news/mobile-background-execution-ios-background-modes-android-workmanager-and-background-services-in-dart/",
+          "publishedOn": "2026-08-24T17:45:03.000Z",
+          "wordCount": 5155,
+          "title": "Mobile Background Execution: iOS Background Modes, Android WorkManager, and Background Services in Dart",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2e9b068d-5fec-4228-8a0f-1f34bcd1e5f1.png"
+        },
+        {
+          "id": "6a8c5708cc6859117f26da4f",
+          "author": "GAYATHRI BOLINENI",
+          "description": "When I first started learning about conversational AI testing, one question kept bothering me: Where is the expected result? Coming from traditional software testing, I was used to a familiar pattern.",
+          "link": "https://www.freecodecamp.org/news/how-to-test-conversational-ai-practical-guide-for-qa-engineers/",
+          "publishedOn": "2026-08-24T14:36:56.000Z",
+          "wordCount": 3987,
+          "title": "How to Test Conversational AI: A Practical Guide for QA Engineers",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/61896a64-69bb-46cb-87dd-0076c4aa1b50.png"
+        },
+        {
+          "id": "6a8c4f18dbeb4eb3a4b2ed0d",
+          "author": "Chinedu Otutu",
+          "description": "If you've shipped a Node.js API before, you already know this pain: your TypeScript types say one thing, your runtime validation says another, and your OpenAPI docs quietly disagree with both. Someone",
+          "link": "https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod/",
+          "publishedOn": "2026-08-24T14:03:04.000Z",
+          "wordCount": 4528,
+          "title": "How to Build Type-Safe APIs with Hono and Zod",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ce251811-43ad-4e2f-9761-83b6240f718e.jpg"
+        },
+        {
+          "id": "6a8c4969642222471a04f943",
+          "author": "Purity Udeh",
+          "description": "Modern applications often expose metrics at a /metrics endpoint using the Prometheus format. Among these metrics, histograms are particularly useful. They show how often values fall into different ran",
+          "link": "https://www.freecodecamp.org/news/how-to-convert-prometheus-histogramsotlp-with-the-opentelemetry-collector/",
+          "publishedOn": "2026-08-22T03:00:00.000Z",
+          "wordCount": 2660,
+          "title": "How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3dccb28f-d024-4c7a-9ac7-353594572842.png"
+        },
         {
           "id": "6a88c8b8c9a055790ae586e7",
           "author": "Eva J Patel",
@@ -309,56 +369,6 @@
           "wordCount": 4528,
           "title": "Kubernetes Networking Explained: From ClusterIP to Cilium Service Mesh",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/425eabfd-bd40-4c0d-b6c3-4f1f7bd53caa.png"
-        },
-        {
-          "id": "6a887ddeb55a70d585eec152",
-          "author": "Reetain Raina",
-          "description": "A smartwatch can tell you that your heart rate is 78 beats per minute, that you've walked 6,421 steps, or that you slept for 7 hours last night. All of these numbers appear simple on the screen, but b",
-          "link": "https://www.freecodecamp.org/news/how-sensors-collect-process-and-track-data-in-wearables/",
-          "publishedOn": "2026-08-21T16:33:34.000Z",
-          "wordCount": 3045,
-          "title": "How Sensors Collect, Process, and Track Data in Wearable Devices",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e0ee25a6-436d-48d6-abca-9519b531707a.png"
-        },
-        {
-          "id": "6a887c9d3045236aefcb4a94",
-          "author": "Hamdaan Ali",
-          "description": "Some of the most dangerous native failures are produced by programs that appear to be working correctly. The cryptographic operation returns the right ciphertext. The parser rejects malformed input. T",
-          "link": "https://www.freecodecamp.org/news/the-sanitizers-handbook/",
-          "publishedOn": "2026-08-21T16:28:13.000Z",
-          "wordCount": 20051,
-          "title": "The Sanitizers Handbook: Memory, Initialization, and Races",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b4ab5b91-c6a8-488d-847e-7ca1e52e5db9.png"
-        },
-        {
-          "id": "6a887bfc3e750c6752406141",
-          "author": "Shradha Puri",
-          "description": "A few months ago I was sitting in a convention center about to deliver a keynote at an event, watching my Oura Ring throw up the same heart rate pattern it shows me when I’m at my Pilates class. Simil",
-          "link": "https://www.freecodecamp.org/news/how-wearables-confuse-different-emotions/",
-          "publishedOn": "2026-08-21T16:25:32.000Z",
-          "wordCount": 2273,
-          "title": "Why Two Emotions Can Produce the Exact Same Biometric Signal",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/415c689f-4087-4b79-b75c-cdc14b9950fc.png"
-        },
-        {
-          "id": "6a8743695756ffe127b1cd35",
-          "author": "Vahe Aslanyan",
-          "description": "This book is a capability-led field guide to the architectures that make modern AI agents actually work. It includes code, failure modes, and illustrative composite case studies for every pattern. Abo",
-          "link": "https://www.freecodecamp.org/news/ai-agent-engineers-guide-60-patterns-for-building-autonomous-systems-book/",
-          "publishedOn": "2026-08-20T18:11:53.000Z",
-          "wordCount": 100136,
-          "title": "The AI Agent Engineer's Guide: 60 Patterns for Building Autonomous Systems [Full Book]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/732208be-8a01-43cf-a471-b8d7c8480c83.png"
-        },
-        {
-          "id": "6a873f054742a7cecc0617f4",
-          "author": "RONI DAS",
-          "description": "Most of the data you work with is really about relationships. A customer belongs to an account. An incident affects a service. An engineer owns a repository. You store all of that in tables, and for a",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-knowledge-graph-with-python-and-neo4j-handbook/",
-          "publishedOn": "2026-08-20T17:00:00.000Z",
-          "wordCount": 18989,
-          "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f21a22a9-c9e9-4ed6-899e-60639e8d2c01.png"
         }
       ]
     }
