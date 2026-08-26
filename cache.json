@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396665",
+          "author": "Geoff Graham",
+          "description": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
+          "publishedOn": "2026-08-25T14:10:34.000Z",
+          "wordCount": 3049,
+          "title": "MicroLighter: Syntax Highlighter",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code-block.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=395401",
           "author": "Fränk Klein",
           "description": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.\nWordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -164,12 +174,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
+          "author": "hello@smashingmagazine.com (Pierre Burgy)",
+          "description": "Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.",
+          "link": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
+          "publishedOn": "2026-08-25T08:00:00.000Z",
+          "wordCount": 4229,
+          "title": "Why Your Website Should Never Stop Changing",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "author": "hello@smashingmagazine.com (Johan Grobler)",
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5714,
+          "wordCount": 5711,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         },
@@ -179,7 +204,7 @@
           "description": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.",
           "link": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
           "publishedOn": "2026-08-13T10:00:00.000Z",
-          "wordCount": 3968,
+          "wordCount": null,
           "title": "New EU Guidelines For AI Labelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg",
@@ -209,7 +234,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6292,
+          "wordCount": 6288,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -239,7 +264,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5032,
+          "wordCount": 5027,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -270,6 +295,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a8ddd55902e76128f1985bb",
+          "author": "Eva J Patel",
+          "description": "Imagine this: you're working late, your code finally works, and you're ready to push it to GitHub. You run: git add . git commit -m \"Fix API integration\" git push A few minutes later, you notice some",
+          "link": "https://www.freecodecamp.org/news/how-to-fix-a-leaked-api-key/",
+          "publishedOn": "2026-08-25T18:22:13.000Z",
+          "wordCount": 4682,
+          "title": "How to Fix a Leaked API Key: A Developer’s Guide to Git Security",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0903575c-822b-481b-af12-07b864bebc67.png"
+        },
+        {
+          "id": "6a8db9c20b9b2c87b7c4049f",
+          "author": "Daniel García Solla",
+          "description": "Today, data has become a particularly valuable resource. It allows companies to compete in the market and drive innovation, improving the quality of products and services offered. Data processing lets",
+          "link": "https://www.freecodecamp.org/news/understanding-data-management-with-a-real-world-use-case-book/",
+          "publishedOn": "2026-08-25T15:50:26.000Z",
+          "wordCount": 33986,
+          "title": "From Data to Value: Understanding Data Management Through a Real World Use Case [Full Book]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b9817dc0-f0dc-4ccf-a8f7-2e7b47783360.png"
+        },
+        {
+          "id": "6a8cac4b80ffa6e1b9da795b",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "Medical imaging papers are full of familiar-looking terms: normalization, labels, validation, annotation, and preprocessing. If you come from general machine learning, you may think you already know w",
+          "link": "https://www.freecodecamp.org/news/what-happens-to-a-medical-image-before-and-after-a-model-sees-it/",
+          "publishedOn": "2026-08-24T20:40:43.000Z",
+          "wordCount": 4114,
+          "title": "What Happens to a Medical Image Before and After a Model Sees It",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9014bf41-16ea-4661-926a-4444a53484f8.png"
+        },
         {
           "id": "6a8c8383ca0d5a1002b19fa3",
           "author": "Chidozie Managwu",
@@ -339,36 +394,6 @@
           "wordCount": 4351,
           "title": "Chain of Responsibility Design Pattern: Decoupling Complex Business Rules, One Handler at a Time",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/779882b9-29ec-4337-b3ab-96ccf752638c.png"
-        },
-        {
-          "id": "6a888912ca3910a01e7c2f66",
-          "author": "Abdul Talha",
-          "description": "Odoo is an open-source enterprise resource planning (ERP) platform that helps businesses manage operations such as sales, customer relationship management (CRM), inventory, accounting, human resources",
-          "link": "https://www.freecodecamp.org/news/how-to-host-odoo/",
-          "publishedOn": "2026-08-21T17:21:22.000Z",
-          "wordCount": 2995,
-          "title": "How to Host Odoo: Self-Hosted vs Managed Hosting",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/30766bac-af3a-4c24-a544-75846002ce99.png"
-        },
-        {
-          "id": "6a888892029633fd14697876",
-          "author": "Hugo Teijiz",
-          "description": "The first thing many engineers want to do when they inherit a legacy codebase is change it. And I understand the impulse. You open a class that's 1,500 lines long. There are database calls mixed with",
-          "link": "https://www.freecodecamp.org/news/understand-a-legacy-codebase-with-ai/",
-          "publishedOn": "2026-08-21T17:19:14.000Z",
-          "wordCount": 4383,
-          "title": "How to Understand a Legacy Codebase Using AI Before Changing it",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7d94c780-37eb-4bd6-a1e2-da6e25bdfdcb.png"
-        },
-        {
-          "id": "6a88812be09a3c3682f4fe95",
-          "author": "Ayobami Adejumo",
-          "description": "Here's something that most Kubernetes tutorials won't tell you: most engineers can run kubectl expose. Fewer than 10% understand what happens when they do. I've debugged Kubernetes networking issues a",
-          "link": "https://www.freecodecamp.org/news/kubernetes-networking-explained-from-clusterip-to-cilium-service-mesh/",
-          "publishedOn": "2026-08-21T16:47:39.000Z",
-          "wordCount": 4528,
-          "title": "Kubernetes Networking Explained: From ClusterIP to Cilium Service Mesh",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/425eabfd-bd40-4c0d-b6c3-4f1f7bd53caa.png"
         }
       ]
     }

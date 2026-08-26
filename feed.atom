@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-25T01:39:50.450Z</id>
+    <id>urn:2026-08-26T01:45:47.598Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-25T01:39:50.450Z</updated>
+    <updated>2026-08-26T01:45:47.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Fix a Leaked API Key: A Developer’s Guide to Git Security]]></title>
+        <id>6a8ddd55902e76128f1985bb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-fix-a-leaked-api-key/"/>
+        <updated>2026-08-25T18:22:13.000Z</updated>
+        <summary type="html"><![CDATA[Imagine this: you're working late, your code finally works, and you're ready to push it to GitHub. You run: git add . git commit -m "Fix API integration" git push A few minutes later, you notice some]]></summary>
+        <author>
+            <name>Eva J Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Data to Value: Understanding Data Management Through a Real World Use Case [Full Book]]]></title>
+        <id>6a8db9c20b9b2c87b7c4049f</id>
+        <link href="https://www.freecodecamp.org/news/understanding-data-management-with-a-real-world-use-case-book/"/>
+        <updated>2026-08-25T15:50:26.000Z</updated>
+        <summary type="html"><![CDATA[Today, data has become a particularly valuable resource. It allows companies to compete in the market and drive innovation, improving the quality of products and services offered. Data processing lets]]></summary>
+        <author>
+            <name>Daniel García Solla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MicroLighter: Syntax Highlighter]]></title>
+        <id>https://css-tricks.com/?p=396665</id>
+        <link href="https://css-tricks.com/microlighter-syntax-highlighter/"/>
+        <updated>2026-08-25T14:10:34.000Z</updated>
+        <summary type="html"><![CDATA[Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.
+MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Website Should Never Stop Changing]]></title>
+        <id>https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/</id>
+        <link href="https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/"/>
+        <updated>2026-08-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Pierre Burgy)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens to a Medical Image Before and After a Model Sees It]]></title>
+        <id>6a8cac4b80ffa6e1b9da795b</id>
+        <link href="https://www.freecodecamp.org/news/what-happens-to-a-medical-image-before-and-after-a-model-sees-it/"/>
+        <updated>2026-08-24T20:40:43.000Z</updated>
+        <summary type="html"><![CDATA[Medical imaging papers are full of familiar-looking terms: normalization, labels, validation, annotation, and preprocessing. If you come from general machine learning, you may think you already know w]]></summary>
+        <author>
+            <name>Lakshmi Mahabaleshwara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Referral-Aware Split Payment Flows in Django]]></title>
         <id>6a8c8383ca0d5a1002b19fa3</id>
@@ -84,36 +135,6 @@ WordPress PHP-Only Block Registration originally handwritten and published with 
         <summary type="html"><![CDATA[Every system, at some point, ends up with a function that nobody wants to touch. It starts small: a simple validation check, an if statement here, another there. Then requirements grow and more condit]]></summary>
         <author>
             <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Host Odoo: Self-Hosted vs Managed Hosting]]></title>
-        <id>6a888912ca3910a01e7c2f66</id>
-        <link href="https://www.freecodecamp.org/news/how-to-host-odoo/"/>
-        <updated>2026-08-21T17:21:22.000Z</updated>
-        <summary type="html"><![CDATA[Odoo is an open-source enterprise resource planning (ERP) platform that helps businesses manage operations such as sales, customer relationship management (CRM), inventory, accounting, human resources]]></summary>
-        <author>
-            <name>Abdul Talha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Understand a Legacy Codebase Using AI Before Changing it]]></title>
-        <id>6a888892029633fd14697876</id>
-        <link href="https://www.freecodecamp.org/news/understand-a-legacy-codebase-with-ai/"/>
-        <updated>2026-08-21T17:19:14.000Z</updated>
-        <summary type="html"><![CDATA[The first thing many engineers want to do when they inherit a legacy codebase is change it. And I understand the impulse. You open a class that's 1,500 lines long. There are database calls mixed with]]></summary>
-        <author>
-            <name>Hugo Teijiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes Networking Explained: From ClusterIP to Cilium Service Mesh]]></title>
-        <id>6a88812be09a3c3682f4fe95</id>
-        <link href="https://www.freecodecamp.org/news/kubernetes-networking-explained-from-clusterip-to-cilium-service-mesh/"/>
-        <updated>2026-08-21T16:47:39.000Z</updated>
-        <summary type="html"><![CDATA[Here's something that most Kubernetes tutorials won't tell you: most engineers can run kubectl expose. Fewer than 10% understand what happens when they do. I've debugged Kubernetes networking issues a]]></summary>
-        <author>
-            <name>Ayobami Adejumo</name>
         </author>
     </entry>
     <entry>
