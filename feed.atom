@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-26T01:45:47.598Z</id>
+    <id>urn:2026-08-27T08:48:06.391Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-26T01:45:47.598Z</updated>
+    <updated>2026-08-27T08:48:06.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Tell If Your Search Console Impressions Came From a Human or a Machine]]></title>
+        <id>6a8f84afb0c3d8eedbfb8fec</id>
+        <link href="https://www.freecodecamp.org/news/how-to-tell-if-search-console-impressions-are-human-or-machine/"/>
+        <updated>2026-08-27T00:28:31.000Z</updated>
+        <summary type="html"><![CDATA[Your Search Console report says a page earned 3,068 impressions on the first page of Google over 90 days. But it earned zero clicks in that same time period. The usual reading is that the page has a c]]></summary>
+        <author>
+            <name>Chudi Nnorukam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Market Time Machine: Replay Trading Sessions with Python and WebSockets]]></title>
+        <id>6a8f567e6f14ba82479b5901</id>
+        <link href="https://www.freecodecamp.org/news/build-a-market-time-machine-replay-trading-sessions-with-python-and-websockets/"/>
+        <updated>2026-08-26T21:11:26.000Z</updated>
+        <summary type="html"><![CDATA[Historical market data usually arrives as a completed dataset. That's convenient for analysis, but very different from the way trading software experiences a live market. In production, events arrive]]></summary>
+        <author>
+            <name>Nikhil Adithyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Flashcard Study App with Next.js and MongoDB]]></title>
+        <id>6a8f26c8d7f59479db2c21fd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-flashcard-study-app-with-next-js-and-mongodb/"/>
+        <updated>2026-08-26T17:47:52.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever crammed for an exam the night before, you know how hard it is to remember everything. Flashcards are one of the most effective study tools because they use active recall: you actively t]]></summary>
+        <author>
+            <name>David Aniebo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stop Letting AI Agents Fake Their Own Tests]]></title>
+        <id>6a8f26a0d7f59479db2c2023</id>
+        <link href="https://www.freecodecamp.org/news/how-to-stop-letting-ai-agents-fake-their-own-tests/"/>
+        <updated>2026-08-26T17:47:12.000Z</updated>
+        <summary type="html"><![CDATA[I signed off a hallucination fix as verified. We now had zero out of five fabricated responses, clean run, done. Then I ran it again under harder conditions and got 66.7%. The number I'd trusted enoug]]></summary>
+        <author>
+            <name>Daniel Nwaneri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[animation-trigger]]></title>
+        <id>https://css-tricks.com/?page_id=394713</id>
+        <link href="https://css-tricks.com/almanac/properties/a/animation-trigger/"/>
+        <updated>2026-08-26T15:38:41.000Z</updated>
+        <summary type="html"><![CDATA[The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.
+animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Saleh Mubashar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions]]></title>
+        <id>https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/</id>
+        <link href="https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/"/>
+        <updated>2026-08-26T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Meriem Benhabiles)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Fix a Leaked API Key: A Developer’s Guide to Git Security]]></title>
         <id>6a8ddd55902e76128f1985bb</id>
@@ -87,16 +148,6 @@ MicroLighter: Syntax Highlighter originally handwritten and published with love 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build Type-Safe APIs with Hono and Zod]]></title>
-        <id>6a8c4f18dbeb4eb3a4b2ed0d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod/"/>
-        <updated>2026-08-24T14:03:04.000Z</updated>
-        <summary type="html"><![CDATA[If you've shipped a Node.js API before, you already know this pain: your TypeScript types say one thing, your runtime validation says another, and your OpenAPI docs quietly disagree with both. Someone]]></summary>
-        <author>
-            <name>Chinedu Otutu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WordPress PHP-Only Block Registration]]></title>
         <id>https://css-tricks.com/?p=395401</id>
         <link href="https://css-tricks.com/wordpress-php-block-registration/"/>
@@ -105,36 +156,6 @@ MicroLighter: Syntax Highlighter originally handwritten and published with love 
 WordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Fränk Klein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector]]></title>
-        <id>6a8c4969642222471a04f943</id>
-        <link href="https://www.freecodecamp.org/news/how-to-convert-prometheus-histogramsotlp-with-the-opentelemetry-collector/"/>
-        <updated>2026-08-22T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Modern applications often expose metrics at a /metrics endpoint using the Prometheus format. Among these metrics, histograms are particularly useful. They show how often values fall into different ran]]></summary>
-        <author>
-            <name>Purity Udeh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neural Networks Explained: What They Are and How to Build One in Python]]></title>
-        <id>6a88c8b8c9a055790ae586e7</id>
-        <link href="https://www.freecodecamp.org/news/neural-networks-explained-simply-in-python/"/>
-        <updated>2026-08-21T21:52:56.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how a computer can recognize a handwritten number, predict whether an email is spam, recommend a video, or understand a sentence? A lot of modern AI systems rely on something ca]]></summary>
-        <author>
-            <name>Eva J Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chain of Responsibility Design Pattern: Decoupling Complex Business Rules, One Handler at a Time]]></title>
-        <id>6a88b8d9225da88c02eee6f5</id>
-        <link href="https://www.freecodecamp.org/news/chain-of-responsibility-design-pattern-decoupling-complex-business-rules/"/>
-        <updated>2026-08-21T20:45:13.000Z</updated>
-        <summary type="html"><![CDATA[Every system, at some point, ends up with a function that nobody wants to touch. It starts small: a simple validation check, an if statement here, another there. Then requirements grow and more condit]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
         </author>
     </entry>
     <entry>
@@ -310,17 +331,6 @@ Get Ready For the Powerful CSS border-shape Property! originally handwritten and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More]]></title>
-        <id>https://css-tricks.com/?p=396295</id>
-        <link href="https://css-tricks.com/whats-important-16/"/>
-        <updated>2026-07-31T14:06:21.000Z</updated>
-        <summary type="html"><![CDATA[The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container "stuck" queries, and more.
-What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Small Joys And Big Adventures (August 2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/</id>
         <link href="https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"/>
@@ -338,16 +348,6 @@ What’s !important #16: sibling-index() Animations, Use Cases for the infinity 
         <summary type="html"><![CDATA[As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Budd)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thinking Outside The Box: Digital Design In The AI Era]]></title>
-        <id>https://smashingmagazine.com/2026/07/digital-design-ai-era/</id>
-        <link href="https://smashingmagazine.com/2026/07/digital-design-ai-era/"/>
-        <updated>2026-07-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many of the AI tools we interact with take the form of text boxes. But what if there was a different way to interact with AI? Oleksii Hrzhehorzhevskyi explores a different approach to creating a new AI assistant and how designers can navigate the field as AI continues to change it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Oleksii Hrzhehorzhevskyi)</name>
         </author>
     </entry>
 </feed>
