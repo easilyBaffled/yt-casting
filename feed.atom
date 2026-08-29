@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-28T11:00:52.780Z</id>
+    <id>urn:2026-08-29T06:45:55.451Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-28T11:00:52.780Z</updated>
+    <updated>2026-08-29T06:45:55.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Your Tests in Express Using Vitest]]></title>
+        <id>6a91aa2c85465e213741c4de</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-your-tests-in-express-using-vitest/"/>
+        <updated>2026-08-28T15:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Thinking through API logic while constantly switching tabs to test application integration can be overwhelming and time-consuming. Well, you can save your time and energy by writing tests for your app]]></summary>
+        <author>
+            <name>jabo Landry</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Mixtral to Kimi K3: How Mixture-of-Experts Models Evolved]]></title>
         <id>6a90aca9476c6bda8e12cfef</id>
@@ -104,16 +114,6 @@ Creating Web Widgets Using the Document Picture-in-Picture API originally handwr
         <summary type="html"><![CDATA[Historical market data usually arrives as a completed dataset. That's convenient for analysis, but very different from the way trading software experiences a live market. In production, events arrive]]></summary>
         <author>
             <name>Nikhil Adithyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Flashcard Study App with Next.js and MongoDB]]></title>
-        <id>6a8f26c8d7f59479db2c21fd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-flashcard-study-app-with-next-js-and-mongodb/"/>
-        <updated>2026-08-26T17:47:52.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever crammed for an exam the night before, you know how hard it is to remember everything. Flashcards are one of the most effective study tools because they use active recall: you actively t]]></summary>
-        <author>
-            <name>David Aniebo</name>
         </author>
     </entry>
     <entry>
