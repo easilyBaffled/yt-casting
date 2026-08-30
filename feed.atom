@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-29T06:45:55.451Z</id>
+    <id>urn:2026-08-30T04:59:04.169Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T06:45:55.451Z</updated>
+    <updated>2026-08-30T04:59:04.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -328,16 +328,6 @@ Using and Styling the Dialog Element originally handwritten and published with l
 Gap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Sam Davis Omekarajr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Small Joys And Big Adventures (August 2026 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/</id>
-        <link href="https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"/>
-        <updated>2026-07-31T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
