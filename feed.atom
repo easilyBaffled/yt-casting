@@ -1,10 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-31T05:05:14.222Z</id>
+    <id>urn:2026-09-01T04:42:11.170Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T05:05:14.222Z</updated>
+    <updated>2026-09-01T04:42:11.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bloom Filters Explained: The Probabilistic Data Structure Powering Instagram, Google, and High-Scale Systems]]></title>
+        <id>6a95f9a98577dd0ab849ab46</id>
+        <link href="https://www.freecodecamp.org/news/bloom-filters-explained/"/>
+        <updated>2026-08-31T22:01:13.000Z</updated>
+        <summary type="html"><![CDATA[Instagram has over 500 million registered usernames. When a new user tries to register, the platform needs to answer one question almost instantly: has this username already been taken? The naïve answ]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Firestore Structures Data and How to Perform CRUD Operations With It]]></title>
+        <id>6a95f8e758184cca726442fe</id>
+        <link href="https://www.freecodecamp.org/news/how-firestore-structures-data-and-how-to-perform-crud-operations-with-it/"/>
+        <updated>2026-08-31T21:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Most apps eventually need to store and manipulate data. And if you're building with Firebase, that data lives in Firestore, Google's flexible, scalable NoSQL document database. But before you can conf]]></summary>
+        <author>
+            <name>Caleb Mintoumba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Every Dev Should Know About Tracking Product Data]]></title>
+        <id>6a95f5263ba1cbee5d13a5bd</id>
+        <link href="https://www.freecodecamp.org/news/what-devs-should-know-about-tracking-product-data/"/>
+        <updated>2026-08-31T21:41:58.000Z</updated>
+        <summary type="html"><![CDATA[Product data is the record of what actually happens inside your app or website. It shows what your users do, how your system behaves, and how your business performs. In this article, you'll learn what]]></summary>
+        <author>
+            <name>Obum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let’s Use the Emergent CSS random() Function in all the Browsers]]></title>
+        <id>https://css-tricks.com/?p=396630</id>
+        <link href="https://css-tricks.com/css-random-function-polyfill/"/>
+        <updated>2026-08-31T15:12:19.000Z</updated>
+        <summary type="html"><![CDATA[The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.
+Let’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the AI SDLC – The Complete Guide to Building Agent Skills]]></title>
+        <id>6a958dafb6e371335a86ea8c</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-ai-sdlc-the-complete-guide-to-building-agent-skills/"/>
+        <updated>2026-08-31T14:20:31.000Z</updated>
+        <summary type="html"><![CDATA[Perhaps you can relate to this scenario: you've explained AI models four times using the same instructions this week. You've talked repeatedly about how your team structures a deck. Which checks run b]]></summary>
+        <author>
+            <name>Sarvesh Talele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Characterization Tests Before Refactoring Legacy Code]]></title>
+        <id>6a958d8401db3f18f07d0b54</id>
+        <link href="https://www.freecodecamp.org/news/characterization-tests-before-refactoring-legacy-code/"/>
+        <updated>2026-08-31T14:19:48.000Z</updated>
+        <summary type="html"><![CDATA[The first thing many engineers want to do when they inherit legacy code is improve it. You find a function that's difficult to understand. Or you see duplicated logic, deeply nested conditions, databa]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More]]></title>
+        <id>https://css-tricks.com/?p=396738</id>
+        <link href="https://css-tricks.com/whats-important-18/"/>
+        <updated>2026-08-31T14:08:55.000Z</updated>
+        <summary type="html"><![CDATA[Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.
+What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build API Documentation From Scratch [A Roadmap for Technical Writers]]]></title>
+        <id>6a9587c15c82cb888f556170</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-api-documentation-from-scratch-roadmap/"/>
+        <updated>2026-08-31T13:55:13.000Z</updated>
+        <summary type="html"><![CDATA[As a technical writer, building public-facing API documentation from scratch for a real product can feel like a dream come true, especially if you’ve only been documenting fictional APIs or updating e]]></summary>
+        <author>
+            <name>Gloria Tejuosho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Many Faces Of September (2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/</id>
+        <link href="https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/"/>
+        <updated>2026-08-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Automate Your Tests in Express Using Vitest]]></title>
         <id>6a91aa2c85465e213741c4de</id>
@@ -46,16 +138,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Test Flutter Apps: Unit, Widget, Golden, and Integration Tests Explained]]></title>
-        <id>6a9058fc56e6415ec14cba57</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-flutter-apps-unit-widget-golden-and-integration-tests-explained/"/>
-        <updated>2026-08-27T15:34:20.000Z</updated>
-        <summary type="html"><![CDATA[The first time I was asked "what's your test coverage?" in a technical interview, I didn't have a good answer. I had shipped a couple of real Flutter apps by then. They worked and users were using the]]></summary>
-        <author>
-            <name>Gidudu Nicholas</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creating Web Widgets Using the Document Picture-in-Picture API]]></title>
         <id>https://css-tricks.com/?p=395259</id>
         <link href="https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/"/>
@@ -64,56 +146,6 @@
 Creating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build AI Agents, APIs, and Full-Stack Apps with Meta Muse Code & Muse Spark]]></title>
-        <id>6a9042325a2ad19bd8e4a514</id>
-        <link href="https://www.freecodecamp.org/news/build-ai-agents-apis-and-full-stack-apps-with-meta-muse-code-muse-spark/"/>
-        <updated>2026-08-27T13:57:06.000Z</updated>
-        <summary type="html"><![CDATA[As AI developer tooling expands, vertically integrated ecosystems offer powerful alternatives for building software. In this comprehensive three-hour course on the freeCodeCamp.org YouTube channel, in]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Building AI Slop: Build High-End Web Apps with AI]]></title>
-        <id>6a90413617d143757c5d8455</id>
-        <link href="https://www.freecodecamp.org/news/stop-building-ai-slop-build-high-end-web-apps-with-ai/"/>
-        <updated>2026-08-27T13:52:54.000Z</updated>
-        <summary type="html"><![CDATA[Many developers use AI coding tools to generate generic, cookie-cutter interfaces that feel uninspired and incomplete. In our latest full course on the freeCodeCamp.org YouTube channel, instructor Eri]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Paper That Created Modern AI: The Story Behind the Transformer]]></title>
-        <id>6a903fa674d5ca289496b60d</id>
-        <link href="https://www.freecodecamp.org/news/the-paper-that-created-modern-ai-the-story-behind-the-transformer/"/>
-        <updated>2026-08-27T13:46:14.000Z</updated>
-        <summary type="html"><![CDATA[Every time you interact with a modern AI model you are relying on an architecture born from a single 2017 research paper titled "Attention Is All You Need." Our latest video on the freeCodeCamp.org Yo]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Tell If Your Search Console Impressions Came From a Human or a Machine]]></title>
-        <id>6a8f84afb0c3d8eedbfb8fec</id>
-        <link href="https://www.freecodecamp.org/news/how-to-tell-if-search-console-impressions-are-human-or-machine/"/>
-        <updated>2026-08-27T00:28:31.000Z</updated>
-        <summary type="html"><![CDATA[Your Search Console report says a page earned 3,068 impressions on the first page of Google over 90 days. But it earned zero clicks in that same time period. The usual reading is that the page has a c]]></summary>
-        <author>
-            <name>Chudi Nnorukam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Market Time Machine: Replay Trading Sessions with Python and WebSockets]]></title>
-        <id>6a8f567e6f14ba82479b5901</id>
-        <link href="https://www.freecodecamp.org/news/build-a-market-time-machine-replay-trading-sessions-with-python-and-websockets/"/>
-        <updated>2026-08-26T21:11:26.000Z</updated>
-        <summary type="html"><![CDATA[Historical market data usually arrives as a completed dataset. That's convenient for analysis, but very different from the way trading software experiences a live market. In production, events arrive]]></summary>
-        <author>
-            <name>Nikhil Adithyan</name>
         </author>
     </entry>
     <entry>
@@ -306,28 +338,6 @@ Using and Styling the Dialog Element originally handwritten and published with l
         <summary type="html"><![CDATA[The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Jad Joubran)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 State of CSS, Devs Surveys]]></title>
-        <id>https://css-tricks.com/?p=396471</id>
-        <link href="https://css-tricks.com/2026-state-of-css-devs-surveys/"/>
-        <updated>2026-08-06T15:54:52.000Z</updated>
-        <summary type="html"><![CDATA[A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!
-2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gap Decorations Are Now Available, Here’s What’s New]]></title>
-        <id>https://css-tricks.com/?p=396204</id>
-        <link href="https://css-tricks.com/css-gap-decorations-now-available/"/>
-        <updated>2026-08-03T15:53:20.000Z</updated>
-        <summary type="html"><![CDATA[Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.
-Gap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Sam Davis Omekarajr</name>
         </author>
     </entry>
 </feed>

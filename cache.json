@@ -12,12 +12,32 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396630",
+          "author": "Lee Meyer",
+          "description": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-random-function-polyfill/",
+          "publishedOn": "2026-08-31T15:12:19.000Z",
+          "wordCount": 6435,
+          "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/random-stars-shuffle.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396738",
+          "author": "Daniel Schwarz",
+          "description": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.\nWhat’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-18/",
+          "publishedOn": "2026-08-31T14:08:55.000Z",
+          "wordCount": 3657,
+          "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi18.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=395259",
           "author": "Daniel Schwarz",
           "description": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
           "publishedOn": "2026-08-27T14:41:06.000Z",
-          "wordCount": 4080,
+          "wordCount": 4083,
           "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/05/framed-image.png"
         },
@@ -27,7 +47,7 @@
           "description": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
           "publishedOn": "2026-08-26T15:38:41.000Z",
-          "wordCount": 4436,
+          "wordCount": 4439,
           "title": "animation-trigger",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -37,7 +57,7 @@
           "description": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
           "publishedOn": "2026-08-25T14:10:34.000Z",
-          "wordCount": 3282,
+          "wordCount": 3365,
           "title": "MicroLighter: Syntax Highlighter",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code-block.png"
         },
@@ -47,7 +67,7 @@
           "description": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.\nWordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/wordpress-php-block-registration/",
           "publishedOn": "2026-08-24T13:54:02.000Z",
-          "wordCount": 6781,
+          "wordCount": 6784,
           "title": "WordPress PHP-Only Block Registration",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wordpress-blocks-php.jpg"
         },
@@ -57,7 +77,7 @@
           "description": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.\nResolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
           "publishedOn": "2026-08-21T15:13:03.000Z",
-          "wordCount": 3505,
+          "wordCount": 3508,
           "title": "Resolved: CSS Class Prefix Selector",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/css-prefix-selector.webp"
         },
@@ -67,7 +87,7 @@
           "description": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.\nCSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-navigation-matching-early-days/",
           "publishedOn": "2026-08-19T14:44:41.000Z",
-          "wordCount": 3692,
+          "wordCount": 3695,
           "title": "CSS Navigation Matching, Early Days",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/04/higher-order-components.jpg"
         },
@@ -77,7 +97,7 @@
           "description": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.\nWordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/wordpress-student-plan/",
           "publishedOn": "2026-08-19T08:50:00.000Z",
-          "wordCount": 3247,
+          "wordCount": 3250,
           "title": "WordPress.com Student Plan",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wordpress-student-education.jpg"
         },
@@ -87,7 +107,7 @@
           "description": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.\nDark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
           "publishedOn": "2026-08-17T14:15:50.000Z",
-          "wordCount": 3804,
+          "wordCount": 3807,
           "title": "Dark mode toggles: two states are enough",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
         },
@@ -97,7 +117,7 @@
           "description": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.\nWhat’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-17/",
           "publishedOn": "2026-08-14T14:01:51.000Z",
-          "wordCount": 3696,
+          "wordCount": 3699,
           "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi17.png"
         },
@@ -107,7 +127,7 @@
           "description": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.\nBlocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
           "publishedOn": "2026-08-12T13:43:56.000Z",
-          "wordCount": 11613,
+          "wordCount": 11616,
           "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/devtools-aria-hidden-console-warning.jpg"
         },
@@ -117,7 +137,7 @@
           "description": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.\nAnimating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/animating-css-border-image/",
           "publishedOn": "2026-08-10T15:58:47.000Z",
-          "wordCount": 3986,
+          "wordCount": 3989,
           "title": "Animating CSS border-image",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg"
         },
@@ -127,7 +147,7 @@
           "description": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.\nSmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
           "publishedOn": "2026-08-10T15:57:39.000Z",
-          "wordCount": 2850,
+          "wordCount": 2853,
           "title": "SmashingConf Freiburg 2026, September 7-10",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/vito.webp"
         },
@@ -137,29 +157,9 @@
           "description": "There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.\nUsing and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
           "publishedOn": "2026-08-07T14:06:43.000Z",
-          "wordCount": 5625,
+          "wordCount": 5628,
           "title": "Using and Styling the Dialog Element",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396471",
-          "author": "Geoff Graham",
-          "description": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!\n2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
-          "publishedOn": "2026-08-06T15:54:52.000Z",
-          "wordCount": 3442,
-          "title": "2026 State of CSS, Devs Surveys",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/state-of-css-2026-banner.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396204",
-          "author": "Sam Davis Omekarajr",
-          "description": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.\nGap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-gap-decorations-now-available/",
-          "publishedOn": "2026-08-03T15:53:20.000Z",
-          "wordCount": 4739,
-          "title": "Gap Decorations Are Now Available, Here’s What’s New",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/gap-decorations-thumb.jpg"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
+          "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
+          "publishedOn": "2026-08-31T11:00:00.000Z",
+          "wordCount": 4749,
+          "title": "The Many Faces Of September (2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
           "author": "hello@smashingmagazine.com (Meriem Benhabiles)",
           "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
           "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
           "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 5908,
+          "wordCount": 5919,
           "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
@@ -204,7 +219,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5713,
+          "wordCount": 5723,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         },
@@ -244,7 +259,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6394,
+          "wordCount": 6293,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -260,6 +275,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a95f9a98577dd0ab849ab46",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "Instagram has over 500 million registered usernames. When a new user tries to register, the platform needs to answer one question almost instantly: has this username already been taken? The naïve answ",
+          "link": "https://www.freecodecamp.org/news/bloom-filters-explained/",
+          "publishedOn": "2026-08-31T22:01:13.000Z",
+          "wordCount": 4732,
+          "title": "Bloom Filters Explained: The Probabilistic Data Structure Powering Instagram, Google, and High-Scale Systems",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e3025afa-a736-4dd0-923b-e6ea8508f030.png"
+        },
+        {
+          "id": "6a95f8e758184cca726442fe",
+          "author": "Caleb Mintoumba",
+          "description": "Most apps eventually need to store and manipulate data. And if you're building with Firebase, that data lives in Firestore, Google's flexible, scalable NoSQL document database. But before you can conf",
+          "link": "https://www.freecodecamp.org/news/how-firestore-structures-data-and-how-to-perform-crud-operations-with-it/",
+          "publishedOn": "2026-08-31T21:57:59.000Z",
+          "wordCount": 3029,
+          "title": "How Firestore Structures Data and How to Perform CRUD Operations With It",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6b7f594e-36d9-48b5-a1eb-ad2d19f4d253.png"
+        },
+        {
+          "id": "6a95f5263ba1cbee5d13a5bd",
+          "author": "Obum",
+          "description": "Product data is the record of what actually happens inside your app or website. It shows what your users do, how your system behaves, and how your business performs. In this article, you'll learn what",
+          "link": "https://www.freecodecamp.org/news/what-devs-should-know-about-tracking-product-data/",
+          "publishedOn": "2026-08-31T21:41:58.000Z",
+          "wordCount": 4131,
+          "title": "What Every Dev Should Know About Tracking Product Data",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0ba14c8d-47f9-466c-a300-f9838d8ab712.png"
+        },
+        {
+          "id": "6a958dafb6e371335a86ea8c",
+          "author": "Sarvesh Talele",
+          "description": "Perhaps you can relate to this scenario: you've explained AI models four times using the same instructions this week. You've talked repeatedly about how your team structures a deck. Which checks run b",
+          "link": "https://www.freecodecamp.org/news/learn-the-ai-sdlc-the-complete-guide-to-building-agent-skills/",
+          "publishedOn": "2026-08-31T14:20:31.000Z",
+          "wordCount": 13179,
+          "title": "Learn the AI SDLC – The Complete Guide to Building Agent Skills",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/eeed67e6-32c9-45df-a2f4-9894f2e49f00.png"
+        },
+        {
+          "id": "6a958d8401db3f18f07d0b54",
+          "author": "Hugo Teijiz",
+          "description": "The first thing many engineers want to do when they inherit legacy code is improve it. You find a function that's difficult to understand. Or you see duplicated logic, deeply nested conditions, databa",
+          "link": "https://www.freecodecamp.org/news/characterization-tests-before-refactoring-legacy-code/",
+          "publishedOn": "2026-08-31T14:19:48.000Z",
+          "wordCount": 4680,
+          "title": "How to Build Characterization Tests Before Refactoring Legacy Code",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/50ec1fe6-8e1f-4c42-a8ad-fd52ea0d089d.png"
+        },
+        {
+          "id": "6a9587c15c82cb888f556170",
+          "author": "Gloria Tejuosho",
+          "description": "As a technical writer, building public-facing API documentation from scratch for a real product can feel like a dream come true, especially if you’ve only been documenting fictional APIs or updating e",
+          "link": "https://www.freecodecamp.org/news/how-to-build-api-documentation-from-scratch-roadmap/",
+          "publishedOn": "2026-08-31T13:55:13.000Z",
+          "wordCount": 4493,
+          "title": "How to Build API Documentation From Scratch [A Roadmap for Technical Writers]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7f6c4ca5-30ca-42fd-a473-d6262774e149.png"
+        },
         {
           "id": "6a91aa2c85465e213741c4de",
           "author": "jabo Landry",
@@ -299,66 +374,6 @@
           "wordCount": 4886,
           "title": "How to Get Reliable Structured Data Out of an LLM",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/be161971-7a90-496c-899a-526492046265.png"
-        },
-        {
-          "id": "6a9058fc56e6415ec14cba57",
-          "author": "Gidudu Nicholas",
-          "description": "The first time I was asked \"what's your test coverage?\" in a technical interview, I didn't have a good answer. I had shipped a couple of real Flutter apps by then. They worked and users were using the",
-          "link": "https://www.freecodecamp.org/news/how-to-test-flutter-apps-unit-widget-golden-and-integration-tests-explained/",
-          "publishedOn": "2026-08-27T15:34:20.000Z",
-          "wordCount": 6362,
-          "title": "How to Test Flutter Apps: Unit, Widget, Golden, and Integration Tests Explained",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/69cb8895-a630-439b-8871-2b16feeebe25.png"
-        },
-        {
-          "id": "6a9042325a2ad19bd8e4a514",
-          "author": "Beau Carnes",
-          "description": "As AI developer tooling expands, vertically integrated ecosystems offer powerful alternatives for building software. In this comprehensive three-hour course on the freeCodeCamp.org YouTube channel, in",
-          "link": "https://www.freecodecamp.org/news/build-ai-agents-apis-and-full-stack-apps-with-meta-muse-code-muse-spark/",
-          "publishedOn": "2026-08-27T13:57:06.000Z",
-          "wordCount": 1147,
-          "title": "Build AI Agents, APIs, and Full-Stack Apps with Meta Muse Code & Muse Spark",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/5d21f676-c2cc-4105-959a-54cd41f6f55f.jpg"
-        },
-        {
-          "id": "6a90413617d143757c5d8455",
-          "author": "Beau Carnes",
-          "description": "Many developers use AI coding tools to generate generic, cookie-cutter interfaces that feel uninspired and incomplete. In our latest full course on the freeCodeCamp.org YouTube channel, instructor Eri",
-          "link": "https://www.freecodecamp.org/news/stop-building-ai-slop-build-high-end-web-apps-with-ai/",
-          "publishedOn": "2026-08-27T13:52:54.000Z",
-          "wordCount": 1148,
-          "title": "Stop Building AI Slop: Build High-End Web Apps with AI",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/1a910f79-a872-4229-aa5e-724796d9e802.png"
-        },
-        {
-          "id": "6a903fa674d5ca289496b60d",
-          "author": "Beau Carnes",
-          "description": "Every time you interact with a modern AI model you are relying on an architecture born from a single 2017 research paper titled \"Attention Is All You Need.\" Our latest video on the freeCodeCamp.org Yo",
-          "link": "https://www.freecodecamp.org/news/the-paper-that-created-modern-ai-the-story-behind-the-transformer/",
-          "publishedOn": "2026-08-27T13:46:14.000Z",
-          "wordCount": 1166,
-          "title": "The Paper That Created Modern AI: The Story Behind the Transformer",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d26b93fd-3e6e-4599-bf86-68ad60bf8256.jpg"
-        },
-        {
-          "id": "6a8f84afb0c3d8eedbfb8fec",
-          "author": "Chudi Nnorukam",
-          "description": "Your Search Console report says a page earned 3,068 impressions on the first page of Google over 90 days. But it earned zero clicks in that same time period. The usual reading is that the page has a c",
-          "link": "https://www.freecodecamp.org/news/how-to-tell-if-search-console-impressions-are-human-or-machine/",
-          "publishedOn": "2026-08-27T00:28:31.000Z",
-          "wordCount": 5348,
-          "title": "How to Tell If Your Search Console Impressions Came From a Human or a Machine",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7143b3f8-2a39-4095-bcde-6abb456a6a6f.png"
-        },
-        {
-          "id": "6a8f567e6f14ba82479b5901",
-          "author": "Nikhil Adithyan",
-          "description": "Historical market data usually arrives as a completed dataset. That's convenient for analysis, but very different from the way trading software experiences a live market. In production, events arrive",
-          "link": "https://www.freecodecamp.org/news/build-a-market-time-machine-replay-trading-sessions-with-python-and-websockets/",
-          "publishedOn": "2026-08-26T21:11:26.000Z",
-          "wordCount": 8743,
-          "title": "Build a Market Time Machine: Replay Trading Sessions with Python and WebSockets",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ac2c7aca-36c9-4f25-9872-3f5fb44c70a6.png"
         }
       ]
     }
