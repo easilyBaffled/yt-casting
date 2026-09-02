@@ -174,7 +174,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4749,
+          "wordCount": 4861,
           "title": "The Many Faces Of September (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -189,7 +189,7 @@
           "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
           "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
           "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 5919,
+          "wordCount": 5912,
           "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
@@ -219,7 +219,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5723,
+          "wordCount": 5716,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         },
@@ -259,7 +259,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6293,
+          "wordCount": 6396,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -275,6 +275,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a9754cacade799374a0231b",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "As an engineer working on a small team, your current structure could fly. But what if your team, all contributing to the same codebase, reaches 20 or more people at scale? You'll need careful design t",
+          "link": "https://www.freecodecamp.org/news/feature-modularization-in-flutter-combine-clean-architecture-and-domain-driven-design/",
+          "publishedOn": "2026-09-01T22:42:18.000Z",
+          "wordCount": 6045,
+          "title": "Feature Modularization in Flutter: How to Combine Clean Architecture and Domain-Driven Design for Self-Contained, Scalable Features",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9dac98f7-f9bf-4597-bbd9-95e220cce9ec.png"
+        },
+        {
+          "id": "6a97368f8a7f1f043a223d7c",
+          "author": "Chinedu Otutu",
+          "description": "Your signup endpoint looks fine in development. A user registers, you save the row, you call your email provider, and you return 201 Created. Everyone gets a welcome email. You ship it. Then productio",
+          "link": "https://www.freecodecamp.org/news/why-you-should-never-send-emails-inside-your-api-requests/",
+          "publishedOn": "2026-09-01T20:33:19.000Z",
+          "wordCount": 2636,
+          "title": "Why You Should Never Send Emails Inside Your API Requests",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8da5a9af-d7e5-4d0e-94cc-a11d24923023.png"
+        },
+        {
+          "id": "6a96f3e0541d63c1fd799f01",
+          "author": "Manish Shivanandhan",
+          "description": "Every time you open a web page, you leave a trail. Your browser shares your IP address, your screen size, your fonts, and dozens of other small details. Ad companies collect these details and stitch t",
+          "link": "https://www.freecodecamp.org/news/how-to-protect-your-privacy-while-browsing-the-web/",
+          "publishedOn": "2026-09-01T15:48:48.000Z",
+          "wordCount": 2277,
+          "title": "How to Protect Your Privacy While Browsing the Web",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7e2faa59-b805-4df1-be97-86c74604f35f.png"
+        },
+        {
+          "id": "6a96f33812e0a826683b9f0f",
+          "author": "Vamsi Vaddavalli",
+          "description": "Making your mobile apps accessible makes sure that everyone, including people with visual, auditory, motor, or cognitive disabilities, can interact with and navigate the app effectively. Historically,",
+          "link": "https://www.freecodecamp.org/news/accessibility-in-jetpack-compose-comprehensive-tutorial/",
+          "publishedOn": "2026-09-01T15:46:00.000Z",
+          "wordCount": 7891,
+          "title": "How to Build Accessible Android Apps with Jetpack Compose: A Comprehensive Guide",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b89c199c-9ec0-48f2-b7ff-193c5b16a1d4.png"
+        },
+        {
+          "id": "6a96f2cfeb26827ea17d08f5",
+          "author": "Eva J Patel",
+          "description": "If you've ever opened a 30-page PDF and thought, “There's absolutely no way I am reading all of this,” you already understand why file-analysis AI agents are useful. Imagine uploading a research paper",
+          "link": "https://www.freecodecamp.org/news/build-an-ai-analysis-agent/",
+          "publishedOn": "2026-09-01T15:44:15.000Z",
+          "wordCount": 7095,
+          "title": "How to Build an AI File Analysis Agent with Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c24acbb2-2ab2-440d-83ae-682183a2f125.png"
+        },
+        {
+          "id": "6a96f19b6bef806c586df810",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "In 1999, Eric Brewer made a claim that would shape how distributed systems would be designed for decades. He proposed that any distributed data store can only guarantee two of three properties simulta",
+          "link": "https://www.freecodecamp.org/news/understanding-the-cap-theorem-consistency-availability-and-partition-tolerance-in-system-design/",
+          "publishedOn": "2026-09-01T15:39:07.000Z",
+          "wordCount": 3848,
+          "title": "Understanding the CAP Theorem: Consistency, Availability, and Partition Tolerance in System Design",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9a2d1ff6-84d7-42aa-8654-15df15ad52f8.png"
+        },
+        {
+          "id": "6a96e93c39073a9c1afb3a8d",
+          "author": "Beau Carnes",
+          "description": "Excel remains one of the most widely used and powerful tools in the tech and business worlds, but truly mastering its formulas and functions can sometimes feel overwhelming. To help you become a true",
+          "link": "https://www.freecodecamp.org/news/learn-excel-formulas-and-functions/",
+          "publishedOn": "2026-09-01T15:03:24.000Z",
+          "wordCount": 1136,
+          "title": "Learn Excel Formulas and Functions",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7f5f230c-4aae-4416-97d9-87d65a325d5f.jpg"
+        },
         {
           "id": "6a95f9a98577dd0ab849ab46",
           "author": "Oluwaseyi Fatunmole",
@@ -304,76 +374,6 @@
           "wordCount": 4131,
           "title": "What Every Dev Should Know About Tracking Product Data",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0ba14c8d-47f9-466c-a300-f9838d8ab712.png"
-        },
-        {
-          "id": "6a958dafb6e371335a86ea8c",
-          "author": "Sarvesh Talele",
-          "description": "Perhaps you can relate to this scenario: you've explained AI models four times using the same instructions this week. You've talked repeatedly about how your team structures a deck. Which checks run b",
-          "link": "https://www.freecodecamp.org/news/learn-the-ai-sdlc-the-complete-guide-to-building-agent-skills/",
-          "publishedOn": "2026-08-31T14:20:31.000Z",
-          "wordCount": 13179,
-          "title": "Learn the AI SDLC – The Complete Guide to Building Agent Skills",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/eeed67e6-32c9-45df-a2f4-9894f2e49f00.png"
-        },
-        {
-          "id": "6a958d8401db3f18f07d0b54",
-          "author": "Hugo Teijiz",
-          "description": "The first thing many engineers want to do when they inherit legacy code is improve it. You find a function that's difficult to understand. Or you see duplicated logic, deeply nested conditions, databa",
-          "link": "https://www.freecodecamp.org/news/characterization-tests-before-refactoring-legacy-code/",
-          "publishedOn": "2026-08-31T14:19:48.000Z",
-          "wordCount": 4680,
-          "title": "How to Build Characterization Tests Before Refactoring Legacy Code",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/50ec1fe6-8e1f-4c42-a8ad-fd52ea0d089d.png"
-        },
-        {
-          "id": "6a9587c15c82cb888f556170",
-          "author": "Gloria Tejuosho",
-          "description": "As a technical writer, building public-facing API documentation from scratch for a real product can feel like a dream come true, especially if you’ve only been documenting fictional APIs or updating e",
-          "link": "https://www.freecodecamp.org/news/how-to-build-api-documentation-from-scratch-roadmap/",
-          "publishedOn": "2026-08-31T13:55:13.000Z",
-          "wordCount": 4493,
-          "title": "How to Build API Documentation From Scratch [A Roadmap for Technical Writers]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7f6c4ca5-30ca-42fd-a473-d6262774e149.png"
-        },
-        {
-          "id": "6a91aa2c85465e213741c4de",
-          "author": "jabo Landry",
-          "description": "Thinking through API logic while constantly switching tabs to test application integration can be overwhelming and time-consuming. Well, you can save your time and energy by writing tests for your app",
-          "link": "https://www.freecodecamp.org/news/how-to-automate-your-tests-in-express-using-vitest/",
-          "publishedOn": "2026-08-28T15:33:00.000Z",
-          "wordCount": 5415,
-          "title": "How to Automate Your Tests in Express Using Vitest",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/098eaca4-3334-4a81-b6f6-ad0b167eee44.png"
-        },
-        {
-          "id": "6a90aca9476c6bda8e12cfef",
-          "author": "Botao Deng",
-          "description": "In this article, we'll discuss how Mixture-of-Experts models grew from a handful of experts to nearly 900 per layer, and the compression and stability mechanisms that keep such a sparse design trainab",
-          "link": "https://www.freecodecamp.org/news/from-mixtral-to-kimi-k3-how-mixture-of-experts-models-evolved/",
-          "publishedOn": "2026-08-27T21:31:21.000Z",
-          "wordCount": 4479,
-          "title": "From Mixtral to Kimi K3: How Mixture-of-Experts Models Evolved",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/6a886cdef885c594c22bbde2/ee6f715e-b2cd-4c4a-aedf-6f4089ef7a8f.png"
-        },
-        {
-          "id": "6a9088cbfe512a7250d45587",
-          "author": "Javeed Shaik",
-          "description": "Last week I put a CDN cache in front of a static site, expecting it to get faster. But instead, it got measurably slower. Not subtly: an independent crawler that had flagged 38 slow pages before the c",
-          "link": "https://www.freecodecamp.org/news/cdn-cache-made-my-site-slower/",
-          "publishedOn": "2026-08-27T18:58:19.000Z",
-          "wordCount": 2661,
-          "title": "I Added a CDN Cache to My Site and It Got Slower. Here's the Math I Should Have Done First.",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0d81b7df-9dbd-4288-80c5-3ea40551fe4a.png"
-        },
-        {
-          "id": "6a908843ac9ce68300a83a4c",
-          "author": "Vineeth Pawar",
-          "description": "Most tutorials about calling a language model end at JSON.parse(response.content). That line works on your first ten test cases. Then you ship, and somewhere around request four hundred the model retu",
-          "link": "https://www.freecodecamp.org/news/how-to-get-reliable-structured-data-out-of-an-llm/",
-          "publishedOn": "2026-08-27T18:56:03.000Z",
-          "wordCount": 4886,
-          "title": "How to Get Reliable Structured Data Out of an LLM",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/be161971-7a90-496c-899a-526492046265.png"
         }
       ]
     }

@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-01T04:42:11.170Z</id>
+    <id>urn:2026-09-02T04:04:30.807Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T04:42:11.170Z</updated>
+    <updated>2026-09-02T04:04:30.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Feature Modularization in Flutter: How to Combine Clean Architecture and Domain-Driven Design for Self-Contained, Scalable Features]]></title>
+        <id>6a9754cacade799374a0231b</id>
+        <link href="https://www.freecodecamp.org/news/feature-modularization-in-flutter-combine-clean-architecture-and-domain-driven-design/"/>
+        <updated>2026-09-01T22:42:18.000Z</updated>
+        <summary type="html"><![CDATA[As an engineer working on a small team, your current structure could fly. But what if your team, all contributing to the same codebase, reaches 20 or more people at scale? You'll need careful design t]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Never Send Emails Inside Your API Requests]]></title>
+        <id>6a97368f8a7f1f043a223d7c</id>
+        <link href="https://www.freecodecamp.org/news/why-you-should-never-send-emails-inside-your-api-requests/"/>
+        <updated>2026-09-01T20:33:19.000Z</updated>
+        <summary type="html"><![CDATA[Your signup endpoint looks fine in development. A user registers, you save the row, you call your email provider, and you return 201 Created. Everyone gets a welcome email. You ship it. Then productio]]></summary>
+        <author>
+            <name>Chinedu Otutu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Protect Your Privacy While Browsing the Web]]></title>
+        <id>6a96f3e0541d63c1fd799f01</id>
+        <link href="https://www.freecodecamp.org/news/how-to-protect-your-privacy-while-browsing-the-web/"/>
+        <updated>2026-09-01T15:48:48.000Z</updated>
+        <summary type="html"><![CDATA[Every time you open a web page, you leave a trail. Your browser shares your IP address, your screen size, your fonts, and dozens of other small details. Ad companies collect these details and stitch t]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Accessible Android Apps with Jetpack Compose: A Comprehensive Guide]]></title>
+        <id>6a96f33812e0a826683b9f0f</id>
+        <link href="https://www.freecodecamp.org/news/accessibility-in-jetpack-compose-comprehensive-tutorial/"/>
+        <updated>2026-09-01T15:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Making your mobile apps accessible makes sure that everyone, including people with visual, auditory, motor, or cognitive disabilities, can interact with and navigate the app effectively. Historically,]]></summary>
+        <author>
+            <name>Vamsi Vaddavalli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI File Analysis Agent with Python]]></title>
+        <id>6a96f2cfeb26827ea17d08f5</id>
+        <link href="https://www.freecodecamp.org/news/build-an-ai-analysis-agent/"/>
+        <updated>2026-09-01T15:44:15.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever opened a 30-page PDF and thought, “There's absolutely no way I am reading all of this,” you already understand why file-analysis AI agents are useful. Imagine uploading a research paper]]></summary>
+        <author>
+            <name>Eva J Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the CAP Theorem: Consistency, Availability, and Partition Tolerance in System Design]]></title>
+        <id>6a96f19b6bef806c586df810</id>
+        <link href="https://www.freecodecamp.org/news/understanding-the-cap-theorem-consistency-availability-and-partition-tolerance-in-system-design/"/>
+        <updated>2026-09-01T15:39:07.000Z</updated>
+        <summary type="html"><![CDATA[In 1999, Eric Brewer made a claim that would shape how distributed systems would be designed for decades. He proposed that any distributed data store can only guarantee two of three properties simulta]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Excel Formulas and Functions]]></title>
+        <id>6a96e93c39073a9c1afb3a8d</id>
+        <link href="https://www.freecodecamp.org/news/learn-excel-formulas-and-functions/"/>
+        <updated>2026-09-01T15:03:24.000Z</updated>
+        <summary type="html"><![CDATA[Excel remains one of the most widely used and powerful tools in the tech and business worlds, but truly mastering its formulas and functions can sometimes feel overwhelming. To help you become a true]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bloom Filters Explained: The Probabilistic Data Structure Powering Instagram, Google, and High-Scale Systems]]></title>
         <id>6a95f9a98577dd0ab849ab46</id>
@@ -47,26 +117,6 @@ Let’s Use the Emergent CSS random() Function in all the Browsers originally ha
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn the AI SDLC – The Complete Guide to Building Agent Skills]]></title>
-        <id>6a958dafb6e371335a86ea8c</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-ai-sdlc-the-complete-guide-to-building-agent-skills/"/>
-        <updated>2026-08-31T14:20:31.000Z</updated>
-        <summary type="html"><![CDATA[Perhaps you can relate to this scenario: you've explained AI models four times using the same instructions this week. You've talked repeatedly about how your team structures a deck. Which checks run b]]></summary>
-        <author>
-            <name>Sarvesh Talele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Characterization Tests Before Refactoring Legacy Code]]></title>
-        <id>6a958d8401db3f18f07d0b54</id>
-        <link href="https://www.freecodecamp.org/news/characterization-tests-before-refactoring-legacy-code/"/>
-        <updated>2026-08-31T14:19:48.000Z</updated>
-        <summary type="html"><![CDATA[The first thing many engineers want to do when they inherit legacy code is improve it. You find a function that's difficult to understand. Or you see duplicated logic, deeply nested conditions, databa]]></summary>
-        <author>
-            <name>Hugo Teijiz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More]]></title>
         <id>https://css-tricks.com/?p=396738</id>
         <link href="https://css-tricks.com/whats-important-18/"/>
@@ -78,16 +128,6 @@ What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature()
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build API Documentation From Scratch [A Roadmap for Technical Writers]]]></title>
-        <id>6a9587c15c82cb888f556170</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-api-documentation-from-scratch-roadmap/"/>
-        <updated>2026-08-31T13:55:13.000Z</updated>
-        <summary type="html"><![CDATA[As a technical writer, building public-facing API documentation from scratch for a real product can feel like a dream come true, especially if you’ve only been documenting fictional APIs or updating e]]></summary>
-        <author>
-            <name>Gloria Tejuosho</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Many Faces Of September (2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/</id>
         <link href="https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/"/>
@@ -95,46 +135,6 @@ What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature()
         <summary type="html"><![CDATA[Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Your Tests in Express Using Vitest]]></title>
-        <id>6a91aa2c85465e213741c4de</id>
-        <link href="https://www.freecodecamp.org/news/how-to-automate-your-tests-in-express-using-vitest/"/>
-        <updated>2026-08-28T15:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Thinking through API logic while constantly switching tabs to test application integration can be overwhelming and time-consuming. Well, you can save your time and energy by writing tests for your app]]></summary>
-        <author>
-            <name>jabo Landry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Mixtral to Kimi K3: How Mixture-of-Experts Models Evolved]]></title>
-        <id>6a90aca9476c6bda8e12cfef</id>
-        <link href="https://www.freecodecamp.org/news/from-mixtral-to-kimi-k3-how-mixture-of-experts-models-evolved/"/>
-        <updated>2026-08-27T21:31:21.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll discuss how Mixture-of-Experts models grew from a handful of experts to nearly 900 per layer, and the compression and stability mechanisms that keep such a sparse design trainab]]></summary>
-        <author>
-            <name>Botao Deng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Added a CDN Cache to My Site and It Got Slower. Here's the Math I Should Have Done First.]]></title>
-        <id>6a9088cbfe512a7250d45587</id>
-        <link href="https://www.freecodecamp.org/news/cdn-cache-made-my-site-slower/"/>
-        <updated>2026-08-27T18:58:19.000Z</updated>
-        <summary type="html"><![CDATA[Last week I put a CDN cache in front of a static site, expecting it to get faster. But instead, it got measurably slower. Not subtly: an independent crawler that had flagged 38 slow pages before the c]]></summary>
-        <author>
-            <name>Javeed Shaik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Reliable Structured Data Out of an LLM]]></title>
-        <id>6a908843ac9ce68300a83a4c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-reliable-structured-data-out-of-an-llm/"/>
-        <updated>2026-08-27T18:56:03.000Z</updated>
-        <summary type="html"><![CDATA[Most tutorials about calling a language model end at JSON.parse(response.content). That line works on your first ten test cases. Then you ship, and somewhere around request four hundred the model retu]]></summary>
-        <author>
-            <name>Vineeth Pawar</name>
         </author>
     </entry>
     <entry>
