@@ -174,7 +174,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4861,
+          "wordCount": 4760,
           "title": "The Many Faces Of September (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -189,7 +189,7 @@
           "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
           "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
           "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 5912,
+          "wordCount": 5907,
           "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
@@ -219,7 +219,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5716,
+          "wordCount": 5714,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         },
@@ -229,7 +229,7 @@
           "description": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.",
           "link": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
           "publishedOn": "2026-08-13T10:00:00.000Z",
-          "wordCount": 3968,
+          "wordCount": null,
           "title": "New EU Guidelines For AI Labelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg",
@@ -259,7 +259,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6396,
+          "wordCount": 6289,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -275,6 +275,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a98992c210435845c785935",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "Some objects are simple, like a string, number, or boolean. You create them in one line and move on. Other objects aren't simple at all, like a carousel widget that needs an item count, an item builde",
+          "link": "https://www.freecodecamp.org/news/the-builder-design-pattern-a-better-approach-to-complex-object-construction/",
+          "publishedOn": "2026-09-02T21:46:20.000Z",
+          "wordCount": 4581,
+          "title": "The Builder Design Pattern: A Better Approach to Complex Object Construction",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3f61ce13-e9fd-4cc5-96a7-6c68b56048ef.png"
+        },
+        {
+          "id": "6a98990117b9fd99ca444dba",
+          "author": "Casmir Onyekani",
+          "description": "Suppose your quantum program needs to apply a two-qubit operation between qubits 0 and 50. From the programmer's perspective, that sounds simple. You have two qubits. You have a gate that operates on",
+          "link": "https://www.freecodecamp.org/news/how-quantum-connectivity-shapes-what-your-quantum-computer-can-actually-compute/",
+          "publishedOn": "2026-09-02T21:45:37.000Z",
+          "wordCount": 5953,
+          "title": "How Quantum Connectivity Shapes What Your Quantum Computer Can Actually Compute",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5a82d460-3285-4bd3-b2a6-31176a1c3316.png"
+        },
         {
           "id": "6a9754cacade799374a0231b",
           "author": "Oluwaseyi Fatunmole",
@@ -354,26 +374,6 @@
           "wordCount": 4732,
           "title": "Bloom Filters Explained: The Probabilistic Data Structure Powering Instagram, Google, and High-Scale Systems",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e3025afa-a736-4dd0-923b-e6ea8508f030.png"
-        },
-        {
-          "id": "6a95f8e758184cca726442fe",
-          "author": "Caleb Mintoumba",
-          "description": "Most apps eventually need to store and manipulate data. And if you're building with Firebase, that data lives in Firestore, Google's flexible, scalable NoSQL document database. But before you can conf",
-          "link": "https://www.freecodecamp.org/news/how-firestore-structures-data-and-how-to-perform-crud-operations-with-it/",
-          "publishedOn": "2026-08-31T21:57:59.000Z",
-          "wordCount": 3029,
-          "title": "How Firestore Structures Data and How to Perform CRUD Operations With It",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6b7f594e-36d9-48b5-a1eb-ad2d19f4d253.png"
-        },
-        {
-          "id": "6a95f5263ba1cbee5d13a5bd",
-          "author": "Obum",
-          "description": "Product data is the record of what actually happens inside your app or website. It shows what your users do, how your system behaves, and how your business performs. In this article, you'll learn what",
-          "link": "https://www.freecodecamp.org/news/what-devs-should-know-about-tracking-product-data/",
-          "publishedOn": "2026-08-31T21:41:58.000Z",
-          "wordCount": 4131,
-          "title": "What Every Dev Should Know About Tracking Product Data",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0ba14c8d-47f9-466c-a300-f9838d8ab712.png"
         }
       ]
     }

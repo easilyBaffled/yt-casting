@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-02T04:04:30.807Z</id>
+    <id>urn:2026-09-03T04:02:34.989Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T04:04:30.807Z</updated>
+    <updated>2026-09-03T04:02:34.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Builder Design Pattern: A Better Approach to Complex Object Construction]]></title>
+        <id>6a98992c210435845c785935</id>
+        <link href="https://www.freecodecamp.org/news/the-builder-design-pattern-a-better-approach-to-complex-object-construction/"/>
+        <updated>2026-09-02T21:46:20.000Z</updated>
+        <summary type="html"><![CDATA[Some objects are simple, like a string, number, or boolean. You create them in one line and move on. Other objects aren't simple at all, like a carousel widget that needs an item count, an item builde]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Quantum Connectivity Shapes What Your Quantum Computer Can Actually Compute]]></title>
+        <id>6a98990117b9fd99ca444dba</id>
+        <link href="https://www.freecodecamp.org/news/how-quantum-connectivity-shapes-what-your-quantum-computer-can-actually-compute/"/>
+        <updated>2026-09-02T21:45:37.000Z</updated>
+        <summary type="html"><![CDATA[Suppose your quantum program needs to apply a two-qubit operation between qubits 0 and 50. From the programmer's perspective, that sounds simple. You have two qubits. You have a gate that operates on]]></summary>
+        <author>
+            <name>Casmir Onyekani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Feature Modularization in Flutter: How to Combine Clean Architecture and Domain-Driven Design for Self-Contained, Scalable Features]]></title>
         <id>6a9754cacade799374a0231b</id>
@@ -83,26 +103,6 @@
         <summary type="html"><![CDATA[Instagram has over 500 million registered usernames. When a new user tries to register, the platform needs to answer one question almost instantly: has this username already been taken? The naïve answ]]></summary>
         <author>
             <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Firestore Structures Data and How to Perform CRUD Operations With It]]></title>
-        <id>6a95f8e758184cca726442fe</id>
-        <link href="https://www.freecodecamp.org/news/how-firestore-structures-data-and-how-to-perform-crud-operations-with-it/"/>
-        <updated>2026-08-31T21:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Most apps eventually need to store and manipulate data. And if you're building with Firebase, that data lives in Firestore, Google's flexible, scalable NoSQL document database. But before you can conf]]></summary>
-        <author>
-            <name>Caleb Mintoumba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Every Dev Should Know About Tracking Product Data]]></title>
-        <id>6a95f5263ba1cbee5d13a5bd</id>
-        <link href="https://www.freecodecamp.org/news/what-devs-should-know-about-tracking-product-data/"/>
-        <updated>2026-08-31T21:41:58.000Z</updated>
-        <summary type="html"><![CDATA[Product data is the record of what actually happens inside your app or website. It shows what your users do, how your system behaves, and how your business performs. In this article, you'll learn what]]></summary>
-        <author>
-            <name>Obum</name>
         </author>
     </entry>
     <entry>
