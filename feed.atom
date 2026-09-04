@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-03T04:02:34.989Z</id>
+    <id>urn:2026-09-04T04:12:34.050Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T04:02:34.989Z</updated>
+    <updated>2026-09-04T04:12:34.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build AI Systems That Know When They Don't Know: A Practical Guide]]></title>
+        <id>6a99b7e04f56be68c2dd5b74</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-ai-systems-that-know-when-they-don-t-know/"/>
+        <updated>2026-09-03T18:09:36.000Z</updated>
+        <summary type="html"><![CDATA[Large Language Models (LLMs) have fundamentally changed how we build internal business applications. They allow developers to create intelligent software that can synthesize complex corporate data, an]]></summary>
+        <author>
+            <name>Chidiebere Njoku</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Chips Are Made]]></title>
+        <id>6a9995f0970203e770d14c8d</id>
+        <link href="https://www.freecodecamp.org/news/how-ai-chips-are-made/"/>
+        <updated>2026-09-03T15:44:48.000Z</updated>
+        <summary type="html"><![CDATA[We just published a comprehensive, first-principles course on the semiconductor supply chain on the freeCodeCamp.org YouTube channel. Taught by hardware specialist Kian Kyars, this deep dive explains]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How OpenTelemetry Works: A Complete Guide]]></title>
+        <id>6a999540c11d1e5beaccfefc</id>
+        <link href="https://www.freecodecamp.org/news/how-opentelemetry-works/"/>
+        <updated>2026-09-03T15:41:52.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a software developer or DevOps engineer, you've probably come across OpenTelemetry. It comes up a lot, especially when talking about observability, monitoring, or debugging distributed syste]]></summary>
+        <author>
+            <name>Chosen Vincent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Skills in Agentic Flutter Development: A Handbook for Devs]]></title>
+        <id>6a9994ee30c9235bff67094c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-skills-in-agentic-flutter-development-a-handbook-for-devs/"/>
+        <updated>2026-09-03T15:40:30.000Z</updated>
+        <summary type="html"><![CDATA[One of the biggest misconceptions about AI-assisted development is that using AI means giving up the engineering experience you've built over the years. It doesn't. You can take the architecture patte]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Builder Design Pattern: A Better Approach to Complex Object Construction]]></title>
         <id>6a98992c210435845c785935</id>
@@ -63,46 +103,6 @@
         <summary type="html"><![CDATA[Making your mobile apps accessible makes sure that everyone, including people with visual, auditory, motor, or cognitive disabilities, can interact with and navigate the app effectively. Historically,]]></summary>
         <author>
             <name>Vamsi Vaddavalli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI File Analysis Agent with Python]]></title>
-        <id>6a96f2cfeb26827ea17d08f5</id>
-        <link href="https://www.freecodecamp.org/news/build-an-ai-analysis-agent/"/>
-        <updated>2026-09-01T15:44:15.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever opened a 30-page PDF and thought, “There's absolutely no way I am reading all of this,” you already understand why file-analysis AI agents are useful. Imagine uploading a research paper]]></summary>
-        <author>
-            <name>Eva J Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the CAP Theorem: Consistency, Availability, and Partition Tolerance in System Design]]></title>
-        <id>6a96f19b6bef806c586df810</id>
-        <link href="https://www.freecodecamp.org/news/understanding-the-cap-theorem-consistency-availability-and-partition-tolerance-in-system-design/"/>
-        <updated>2026-09-01T15:39:07.000Z</updated>
-        <summary type="html"><![CDATA[In 1999, Eric Brewer made a claim that would shape how distributed systems would be designed for decades. He proposed that any distributed data store can only guarantee two of three properties simulta]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Excel Formulas and Functions]]></title>
-        <id>6a96e93c39073a9c1afb3a8d</id>
-        <link href="https://www.freecodecamp.org/news/learn-excel-formulas-and-functions/"/>
-        <updated>2026-09-01T15:03:24.000Z</updated>
-        <summary type="html"><![CDATA[Excel remains one of the most widely used and powerful tools in the tech and business worlds, but truly mastering its formulas and functions can sometimes feel overwhelming. To help you become a true]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloom Filters Explained: The Probabilistic Data Structure Powering Instagram, Google, and High-Scale Systems]]></title>
-        <id>6a95f9a98577dd0ab849ab46</id>
-        <link href="https://www.freecodecamp.org/news/bloom-filters-explained/"/>
-        <updated>2026-08-31T22:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Instagram has over 500 million registered usernames. When a new user tries to register, the platform needs to answer one question almost instantly: has this username already been taken? The naïve answ]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
         </author>
     </entry>
     <entry>
