@@ -150,16 +150,6 @@
           "wordCount": 2853,
           "title": "SmashingConf Freiburg 2026, September 7-10",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/vito.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394753",
-          "author": "Geoff Graham",
-          "description": "There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.\nUsing and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
-          "publishedOn": "2026-08-07T14:06:43.000Z",
-          "wordCount": 5628,
-          "title": "Using and Styling the Dialog Element",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
         }
       ]
     },
@@ -174,7 +164,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4755,
+          "wordCount": 4758,
           "title": "The Many Faces Of September (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -219,7 +209,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5720,
+          "wordCount": 5715,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         },
@@ -252,21 +242,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
-          "author": "hello@smashingmagazine.com (Jad Joubran)",
-          "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
-          "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
-          "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6287,
-          "title": "How Baseline Can Help You Ship Less JavaScript",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg"
         }
       ]
     },

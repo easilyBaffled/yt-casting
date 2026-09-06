@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-05T04:01:43.983Z</id>
+    <id>urn:2026-09-06T04:09:16.532Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T04:01:43.983Z</updated>
+    <updated>2026-09-06T04:09:16.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -317,27 +317,6 @@ Animating CSS border-image originally handwritten and published with love on CSS
 SmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using and Styling the Dialog Element]]></title>
-        <id>https://css-tricks.com/?p=394753</id>
-        <link href="https://css-tricks.com/using-and-styling-the-dialog-element/"/>
-        <updated>2026-08-07T14:06:43.000Z</updated>
-        <summary type="html"><![CDATA[There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.
-Using and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Baseline Can Help You Ship Less JavaScript]]></title>
-        <id>https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/</id>
-        <link href="https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/"/>
-        <updated>2026-08-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jad Joubran)</name>
         </author>
     </entry>
 </feed>
