@@ -130,26 +130,6 @@
           "wordCount": 11616,
           "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/devtools-aria-hidden-console-warning.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394978",
-          "author": "Preethi",
-          "description": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.\nAnimating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/animating-css-border-image/",
-          "publishedOn": "2026-08-10T15:58:47.000Z",
-          "wordCount": 3989,
-          "title": "Animating CSS border-image",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396506",
-          "author": "Geoff Graham",
-          "description": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.\nSmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
-          "publishedOn": "2026-08-10T15:57:39.000Z",
-          "wordCount": 2853,
-          "title": "SmashingConf Freiburg 2026, September 7-10",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/vito.webp"
         }
       ]
     },
@@ -164,7 +144,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4747,
+          "wordCount": 4757,
           "title": "The Many Faces Of September (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -179,7 +159,7 @@
           "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
           "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
           "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 5909,
+          "wordCount": 5911,
           "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
@@ -209,7 +189,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5716,
+          "wordCount": 5712,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         },

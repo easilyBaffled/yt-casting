@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-08T04:09:42.750Z</id>
+    <id>urn:2026-09-09T04:16:41.485Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T04:09:42.750Z</updated>
+    <updated>2026-09-09T04:16:41.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -295,28 +295,6 @@ Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong
         <summary type="html"><![CDATA[When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alexey Kopytin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animating CSS border-image]]></title>
-        <id>https://css-tricks.com/?p=394978</id>
-        <link href="https://css-tricks.com/animating-css-border-image/"/>
-        <updated>2026-08-10T15:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.
-Animating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SmashingConf Freiburg 2026, September 7-10]]></title>
-        <id>https://css-tricks.com/?p=396506</id>
-        <link href="https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/"/>
-        <updated>2026-08-10T15:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.
-SmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
