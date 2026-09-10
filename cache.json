@@ -139,12 +139,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
+          "author": "hello@smashingmagazine.com (Carrie Webster)",
+          "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
+          "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
+          "publishedOn": "2026-09-09T10:00:00.000Z",
+          "wordCount": 4572,
+          "title": "The Death Of The Button: Why The Best Interface Is No Interface",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4757,
+          "wordCount": 4755,
           "title": "The Many Faces Of September (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -159,7 +174,7 @@
           "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
           "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
           "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 5911,
+          "wordCount": 5917,
           "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
@@ -189,7 +204,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5712,
+          "wordCount": 5714,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         },
@@ -207,21 +222,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
-          "author": "hello@smashingmagazine.com (Alexey Kopytin)",
-          "description": "When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.",
-          "link": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
-          "publishedOn": "2026-08-11T10:00:00.000Z",
-          "wordCount": 4329,
-          "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg"
         }
       ]
     },
@@ -230,6 +230,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6aa1b782434f42bd4da9b37c",
+          "author": "Eva J Patel",
+          "description": "Machine learning can sound much more complicated than it actually is. You hear words like models, training, features, datasets, predictions, and algorithms, and it can feel like you need a PhD in math",
+          "link": "https://www.freecodecamp.org/news/what-a-machine-learning-model-is-and-how-to-make-one/",
+          "publishedOn": "2026-09-09T19:46:10.000Z",
+          "wordCount": 6154,
+          "title": "What a Machine Learning Model is and How to Make One",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0b0f8408-22bc-483a-9c7f-9a6db2c37640.png"
+        },
+        {
+          "id": "6aa1a7edf42d135b6e7c6de3",
+          "author": "Manish Shivanandhan",
+          "description": "Count the items on your deployment checklist. If there are more than a handful, the length is worth a second look. Part of it is likely your team being careful. Part of it may be a record of how much",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-deployment-checklist-that-actually-prevents-production-incidents/",
+          "publishedOn": "2026-09-09T18:39:41.000Z",
+          "wordCount": 4123,
+          "title": "How to Build a Deployment Checklist That Actually Prevents Production Incidents",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b2e654b3-dbd0-40af-a21b-c4b63cda4fcb.png"
+        },
+        {
+          "id": "6aa1a112cbd6145df593b93b",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "Structural design patterns deal with how objects are created in terms of their structure and hierarchy. One of the patterns that explicitly helps you manage complex hierarchical scenarios is the Compo",
+          "link": "https://www.freecodecamp.org/news/the-composite-design-pattern-work-with-individual-objects-and-groups-through-the-same-interface/",
+          "publishedOn": "2026-09-09T18:10:26.000Z",
+          "wordCount": 3945,
+          "title": "The Composite Design Pattern: How to Work with Individual Objects and Groups Through the Same Interface",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2b0e9823-e943-4665-bc01-4390cf5b6a01.png"
+        },
+        {
+          "id": "6aa1a0ef2158248eeaf392ca",
+          "author": "Eva J Patel",
+          "description": "Gradio is one of those Python libraries that makes you wonder why building a web interface ever had to be complicated in the first place. You've probably experienced this before: you write a Python pr",
+          "link": "https://www.freecodecamp.org/news/how-to-use-gradio-with-python-beginner-to-advanced-book/",
+          "publishedOn": "2026-09-09T18:09:51.000Z",
+          "wordCount": 31037,
+          "title": "How to Use Gradio with Python: A Complete Beginner-to-Advanced Book",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/06bee29b-16d3-401a-82df-f2b85e655b32.png"
+        },
+        {
+          "id": "6aa16581cfb9039ff59e60ca",
+          "author": "Beau Carnes",
+          "description": "Python continues to be one of the most versatile, widely adopted programming languages in tech. Because its syntax mirrors plain English, it remains the absolute best place for a beginner to start. We",
+          "link": "https://www.freecodecamp.org/news/learn-python-interactively/",
+          "publishedOn": "2026-09-09T13:56:17.000Z",
+          "wordCount": 1161,
+          "title": "Learn Python Interactively",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/0397654c-b9a3-498d-871e-3d6c1e81416a.jpg"
+        },
         {
           "id": "6a9f3d3144b92ecc2d3aca7a",
           "author": "taimoor bamazai",
@@ -248,7 +298,7 @@
           "publishedOn": "2026-09-07T22:35:39.000Z",
           "wordCount": 3683,
           "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7b4e7d9a-7958-4122-9dcf-9c97287983f9.png"
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4062fae6-db2f-47b8-add8-30d68a223f5b.png"
         },
         {
           "id": "6a9f35bc726beec2fbecea20",
@@ -256,7 +306,7 @@
           "description": "Here's a small C program. It calls clock_gettime() three times, then writes five bytes to standard output. #include  #include  #include  int main(void) {     struct timespe",
           "link": "https://www.freecodecamp.org/news/how-a-system-call-actually-works-in-linux/",
           "publishedOn": "2026-09-07T22:07:56.000Z",
-          "wordCount": 4866,
+          "wordCount": 4867,
           "title": "How a System Call Actually Works in Linux",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9118bd52-fbfe-47e9-9f66-e25578632e91.png"
         },
@@ -279,56 +329,6 @@
           "wordCount": 17090,
           "title": "The Design Patterns Handbook: Learn Popular Design Patterns with C# Code Examples",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4b19ec2c-2756-44d4-9a96-a5f196fdaae3.png"
-        },
-        {
-          "id": "6a9ee93ad24de200149086c9",
-          "author": "Ayobami Adejumo",
-          "description": "There's a common conversation that happens in engineering teams every month. Someone forwards a screenshot of the AWS bill. The number is higher than last month. Everyone nods and agrees it should be",
-          "link": "https://www.freecodecamp.org/news/aws-cloud-cost-monitoring-alerting-and-optimization-a-guide-for-devs/",
-          "publishedOn": "2026-09-07T16:41:30.000Z",
-          "wordCount": 4560,
-          "title": "AWS Cloud Cost Monitoring, Alerting, and Optimization: A Guide for Devs",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/01c5b407-d719-404c-a207-495ae6dcaa53.png"
-        },
-        {
-          "id": "6a9b2db334fe985abf2f91a9",
-          "author": "Chinedu Otutu",
-          "description": "Scholarship hunting is a research job, not a single search box. You filter awards by field, GPA, citizenship, and deadline. You keep a shortlist. You write notes about essays and recommenders. Then yo",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-scholarship-research-mcp-server-with-node-js-express-and-mongodb/",
-          "publishedOn": "2026-09-04T20:44:35.000Z",
-          "wordCount": 6003,
-          "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bc3b99da-15f4-4366-aede-4a2b567724aa.png"
-        },
-        {
-          "id": "6a9b251247b584b8b59d4b97",
-          "author": "Manish Shivanandhan",
-          "description": "An AI receptionist may sound simple from the outside: a caller speaks, the system responds, and the conversation continues until the caller gets an answer or reaches a person. Behind that conversation",
-          "link": "https://www.freecodecamp.org/news/how-ai-receptionists-work-the-architecture-behind-ai-phone-agents/",
-          "publishedOn": "2026-09-04T20:07:46.000Z",
-          "wordCount": 2894,
-          "title": "How AI Receptionists Work: The Architecture Behind AI Phone Agents",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b902c73d-3593-4fe6-8f64-8180636cb58b.png"
-        },
-        {
-          "id": "6a9af102c3078d7ebb3a01fa",
-          "author": "Florian Beijers",
-          "description": "Discord is one of those technologies that came out of nowhere several years ago and is now everywhere. A huge variety of servers around all sorts of communities, efforts, and initiatives have been pop",
-          "link": "https://www.freecodecamp.org/news/using-discord-with-a-screen-reader/",
-          "publishedOn": "2026-09-04T16:25:38.000Z",
-          "wordCount": 2471,
-          "title": "How to Use Discord with a Screen Reader: A Quick Guide",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/364f60fe-def1-4b62-9252-ed59c2b79eb1.png"
-        },
-        {
-          "id": "6a9aefa26eac286787fb7078",
-          "author": "Reetain Raina",
-          "description": "When a vulnerability scanner reports 23 vulnerabilities in your application, of which 4 are critical, 7 are high, and the remaining 12 are medium, at first glance the answer seems clear: start patchin",
-          "link": "https://www.freecodecamp.org/news/how-ai-is-breaking-traditional-patch-management/",
-          "publishedOn": "2026-09-04T16:19:46.000Z",
-          "wordCount": 3903,
-          "title": "How AI Is Changing Patching and What Devs Need to Know About Exposure Management",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ce5b87e6-1941-493c-a2c9-7822138160d6.png"
         }
       ]
     }

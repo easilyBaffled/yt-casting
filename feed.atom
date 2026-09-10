@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-09T04:16:41.485Z</id>
+    <id>urn:2026-09-10T04:13:47.133Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T04:16:41.485Z</updated>
+    <updated>2026-09-10T04:13:47.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What a Machine Learning Model is and How to Make One]]></title>
+        <id>6aa1b782434f42bd4da9b37c</id>
+        <link href="https://www.freecodecamp.org/news/what-a-machine-learning-model-is-and-how-to-make-one/"/>
+        <updated>2026-09-09T19:46:10.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning can sound much more complicated than it actually is. You hear words like models, training, features, datasets, predictions, and algorithms, and it can feel like you need a PhD in math]]></summary>
+        <author>
+            <name>Eva J Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Deployment Checklist That Actually Prevents Production Incidents]]></title>
+        <id>6aa1a7edf42d135b6e7c6de3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-deployment-checklist-that-actually-prevents-production-incidents/"/>
+        <updated>2026-09-09T18:39:41.000Z</updated>
+        <summary type="html"><![CDATA[Count the items on your deployment checklist. If there are more than a handful, the length is worth a second look. Part of it is likely your team being careful. Part of it may be a record of how much]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Composite Design Pattern: How to Work with Individual Objects and Groups Through the Same Interface]]></title>
+        <id>6aa1a112cbd6145df593b93b</id>
+        <link href="https://www.freecodecamp.org/news/the-composite-design-pattern-work-with-individual-objects-and-groups-through-the-same-interface/"/>
+        <updated>2026-09-09T18:10:26.000Z</updated>
+        <summary type="html"><![CDATA[Structural design patterns deal with how objects are created in terms of their structure and hierarchy. One of the patterns that explicitly helps you manage complex hierarchical scenarios is the Compo]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Gradio with Python: A Complete Beginner-to-Advanced Book]]></title>
+        <id>6aa1a0ef2158248eeaf392ca</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-gradio-with-python-beginner-to-advanced-book/"/>
+        <updated>2026-09-09T18:09:51.000Z</updated>
+        <summary type="html"><![CDATA[Gradio is one of those Python libraries that makes you wonder why building a web interface ever had to be complicated in the first place. You've probably experienced this before: you write a Python pr]]></summary>
+        <author>
+            <name>Eva J Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Python Interactively]]></title>
+        <id>6aa16581cfb9039ff59e60ca</id>
+        <link href="https://www.freecodecamp.org/news/learn-python-interactively/"/>
+        <updated>2026-09-09T13:56:17.000Z</updated>
+        <summary type="html"><![CDATA[Python continues to be one of the most versatile, widely adopted programming languages in tech. Because its syntax mirrors plain English, it remains the absolute best place for a beginner to start. We]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Death Of The Button: Why The Best Interface Is No Interface]]></title>
+        <id>https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/</id>
+        <link href="https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/"/>
+        <updated>2026-09-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carrie Webster)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript]]></title>
         <id>6a9f3d3144b92ecc2d3aca7a</id>
@@ -53,56 +113,6 @@
         <summary type="html"><![CDATA[Design patterns are reusable solutions to common problems in software design. Think of them as blueprints: not finished code, but proven templates you can adapt to solve a specific problem in your own]]></summary>
         <author>
             <name>Isaiah Clifford Opoku</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Cloud Cost Monitoring, Alerting, and Optimization: A Guide for Devs]]></title>
-        <id>6a9ee93ad24de200149086c9</id>
-        <link href="https://www.freecodecamp.org/news/aws-cloud-cost-monitoring-alerting-and-optimization-a-guide-for-devs/"/>
-        <updated>2026-09-07T16:41:30.000Z</updated>
-        <summary type="html"><![CDATA[There's a common conversation that happens in engineering teams every month. Someone forwards a screenshot of the AWS bill. The number is higher than last month. Everyone nods and agrees it should be]]></summary>
-        <author>
-            <name>Ayobami Adejumo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB]]></title>
-        <id>6a9b2db334fe985abf2f91a9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-scholarship-research-mcp-server-with-node-js-express-and-mongodb/"/>
-        <updated>2026-09-04T20:44:35.000Z</updated>
-        <summary type="html"><![CDATA[Scholarship hunting is a research job, not a single search box. You filter awards by field, GPA, citizenship, and deadline. You keep a shortlist. You write notes about essays and recommenders. Then yo]]></summary>
-        <author>
-            <name>Chinedu Otutu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Receptionists Work: The Architecture Behind AI Phone Agents]]></title>
-        <id>6a9b251247b584b8b59d4b97</id>
-        <link href="https://www.freecodecamp.org/news/how-ai-receptionists-work-the-architecture-behind-ai-phone-agents/"/>
-        <updated>2026-09-04T20:07:46.000Z</updated>
-        <summary type="html"><![CDATA[An AI receptionist may sound simple from the outside: a caller speaks, the system responds, and the conversation continues until the caller gets an answer or reaches a person. Behind that conversation]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Discord with a Screen Reader: A Quick Guide]]></title>
-        <id>6a9af102c3078d7ebb3a01fa</id>
-        <link href="https://www.freecodecamp.org/news/using-discord-with-a-screen-reader/"/>
-        <updated>2026-09-04T16:25:38.000Z</updated>
-        <summary type="html"><![CDATA[Discord is one of those technologies that came out of nowhere several years ago and is now everywhere. A huge variety of servers around all sorts of communities, efforts, and initiatives have been pop]]></summary>
-        <author>
-            <name>Florian Beijers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Is Changing Patching and What Devs Need to Know About Exposure Management]]></title>
-        <id>6a9aefa26eac286787fb7078</id>
-        <link href="https://www.freecodecamp.org/news/how-ai-is-breaking-traditional-patch-management/"/>
-        <updated>2026-09-04T16:19:46.000Z</updated>
-        <summary type="html"><![CDATA[When a vulnerability scanner reports 23 vulnerabilities in your application, of which 4 are critical, 7 are high, and the remaining 12 are medium, at first glance the answer seems clear: start patchin]]></summary>
-        <author>
-            <name>Reetain Raina</name>
         </author>
     </entry>
     <entry>
@@ -285,16 +295,6 @@ What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing t
 Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Durgesh Rajubhai Pawar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Tactile UX: Honoring Intentional Design With Lottie]]></title>
-        <id>https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/</id>
-        <link href="https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/"/>
-        <updated>2026-08-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alexey Kopytin)</name>
         </author>
     </entry>
 </feed>
