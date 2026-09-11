@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-10T04:13:47.133Z</id>
+    <id>urn:2026-09-11T04:12:47.058Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T04:13:47.133Z</updated>
+    <updated>2026-09-11T04:12:47.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Lovable Responsibly]]></title>
+        <id>6aa2d601395968ffa3528970</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-lovable-responsibly/"/>
+        <updated>2026-09-10T16:08:33.000Z</updated>
+        <summary type="html"><![CDATA[Building an app used to feel like assembling furniture without instructions, while missing half the screws. Today, AI-powered tools such as Lovable can help you turn an idea into a working web applica]]></summary>
+        <author>
+            <name>Eva J Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Codex Crash Course]]></title>
+        <id>6aa2c85bc40387b2bb1daded</id>
+        <link href="https://www.freecodecamp.org/news/openai-codex-crash-course/"/>
+        <updated>2026-09-10T15:10:19.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI Codex is a very helpful tool in modern software development, but getting real value from it comes down to understanding how it is actually meant to be used. To help developers master its core c]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Linux Actually Boots: From Firmware to the Login Screen]]></title>
+        <id>6aa1ebfb3cc1af030bd4b974</id>
+        <link href="https://www.freecodecamp.org/news/how-linux-actually-boots-from-firmware-to-the-login-screen/"/>
+        <updated>2026-09-09T23:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Open a terminal on any systemd machine and run this: systemd-analyze On the laptop I'm writing this on, it says: Startup finished in 5.855s (firmware) + 8.469s (loader) + 3.106s (kernel) + 12.181s (u]]></summary>
+        <author>
+            <name>Chris Roy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What a Machine Learning Model is and How to Make One]]></title>
         <id>6aa1b782434f42bd4da9b37c</id>
@@ -83,36 +113,6 @@
         <summary type="html"><![CDATA[A couple of months back, I built a chatbot application using React, Node.js, and Vercel Serverless Functions, which I used in my web app, buildcv.makeadifference.app. In this tutorial, I'll walk you t]]></summary>
         <author>
             <name>Johnson Samuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a System Call Actually Works in Linux]]></title>
-        <id>6a9f35bc726beec2fbecea20</id>
-        <link href="https://www.freecodecamp.org/news/how-a-system-call-actually-works-in-linux/"/>
-        <updated>2026-09-07T22:07:56.000Z</updated>
-        <summary type="html"><![CDATA[Here's a small C program. It calls clock_gettime() three times, then writes five bytes to standard output. #include  #include  #include  int main(void) {     struct timespe]]></summary>
-        <author>
-            <name>Chris Roy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Refactor a Legacy Application Before Migrating It]]></title>
-        <id>6a9f3503813f6309fdfcd6e3</id>
-        <link href="https://www.freecodecamp.org/news/refactor-legacy-application-before-migration/"/>
-        <updated>2026-09-07T22:04:51.000Z</updated>
-        <summary type="html"><![CDATA[The moment a team decides to migrate a legacy application, there's usually pressure to start moving code. Move the database, the API, or the UI. Move the application to a new framework, runtime, cloud]]></summary>
-        <author>
-            <name>Hugo Teijiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Design Patterns Handbook: Learn Popular Design Patterns with C# Code Examples]]></title>
-        <id>6a9eec68a0d0c091f35da7b8</id>
-        <link href="https://www.freecodecamp.org/news/the-design-patterns-handbook-learn-popular-design-patterns-with-c-code-examples/"/>
-        <updated>2026-09-07T16:55:04.000Z</updated>
-        <summary type="html"><![CDATA[Design patterns are reusable solutions to common problems in software design. Think of them as blueprints: not finished code, but proven templates you can adapt to solve a specific problem in your own]]></summary>
-        <author>
-            <name>Isaiah Clifford Opoku</name>
         </author>
     </entry>
     <entry>
@@ -284,17 +284,6 @@ What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing t
         <summary type="html"><![CDATA[New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong]]></title>
-        <id>https://css-tricks.com/?p=396255</id>
-        <link href="https://css-tricks.com/blocked-aria-hidden-fix/"/>
-        <updated>2026-08-12T13:43:56.000Z</updated>
-        <summary type="html"><![CDATA[The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.
-Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Durgesh Rajubhai Pawar</name>
         </author>
     </entry>
 </feed>

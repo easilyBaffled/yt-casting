@@ -120,16 +120,6 @@
           "wordCount": 3699,
           "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi17.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396255",
-          "author": "Durgesh Rajubhai Pawar",
-          "description": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.\nBlocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
-          "publishedOn": "2026-08-12T13:43:56.000Z",
-          "wordCount": 11616,
-          "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/devtools-aria-hidden-console-warning.jpg"
         }
       ]
     },
@@ -144,7 +134,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4572,
+          "wordCount": 4578,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -159,7 +149,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4755,
+          "wordCount": 4758,
           "title": "The Many Faces Of September (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -174,7 +164,7 @@
           "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
           "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
           "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 5917,
+          "wordCount": 5911,
           "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
@@ -204,7 +194,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5714,
+          "wordCount": 5718,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         },
@@ -230,6 +220,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6aa2d601395968ffa3528970",
+          "author": "Eva J Patel",
+          "description": "Building an app used to feel like assembling furniture without instructions, while missing half the screws. Today, AI-powered tools such as Lovable can help you turn an idea into a working web applica",
+          "link": "https://www.freecodecamp.org/news/how-to-use-lovable-responsibly/",
+          "publishedOn": "2026-09-10T16:08:33.000Z",
+          "wordCount": 4822,
+          "title": "How to Use Lovable Responsibly",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/985f1786-0356-43fe-94c5-697f1938b118.png"
+        },
+        {
+          "id": "6aa2c85bc40387b2bb1daded",
+          "author": "Beau Carnes",
+          "description": "OpenAI Codex is a very helpful tool in modern software development, but getting real value from it comes down to understanding how it is actually meant to be used. To help developers master its core c",
+          "link": "https://www.freecodecamp.org/news/openai-codex-crash-course/",
+          "publishedOn": "2026-09-10T15:10:19.000Z",
+          "wordCount": 1120,
+          "title": "OpenAI Codex Crash Course",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d979dc56-fa0e-44b8-be4a-52695ce45d78.jpg"
+        },
+        {
+          "id": "6aa1ebfb3cc1af030bd4b974",
+          "author": "Chris Roy",
+          "description": "Open a terminal on any systemd machine and run this: systemd-analyze On the laptop I'm writing this on, it says: Startup finished in 5.855s (firmware) + 8.469s (loader) + 3.106s (kernel) + 12.181s (u",
+          "link": "https://www.freecodecamp.org/news/how-linux-actually-boots-from-firmware-to-the-login-screen/",
+          "publishedOn": "2026-09-09T23:30:03.000Z",
+          "wordCount": 4053,
+          "title": "How Linux Actually Boots: From Firmware to the Login Screen",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/de568fba-3b1b-4204-9585-60bbbd165fde.png"
+        },
         {
           "id": "6aa1b782434f42bd4da9b37c",
           "author": "Eva J Patel",
@@ -299,36 +319,6 @@
           "wordCount": 3683,
           "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4062fae6-db2f-47b8-add8-30d68a223f5b.png"
-        },
-        {
-          "id": "6a9f35bc726beec2fbecea20",
-          "author": "Chris Roy",
-          "description": "Here's a small C program. It calls clock_gettime() three times, then writes five bytes to standard output. #include  #include  #include  int main(void) {     struct timespe",
-          "link": "https://www.freecodecamp.org/news/how-a-system-call-actually-works-in-linux/",
-          "publishedOn": "2026-09-07T22:07:56.000Z",
-          "wordCount": 4867,
-          "title": "How a System Call Actually Works in Linux",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9118bd52-fbfe-47e9-9f66-e25578632e91.png"
-        },
-        {
-          "id": "6a9f3503813f6309fdfcd6e3",
-          "author": "Hugo Teijiz",
-          "description": "The moment a team decides to migrate a legacy application, there's usually pressure to start moving code. Move the database, the API, or the UI. Move the application to a new framework, runtime, cloud",
-          "link": "https://www.freecodecamp.org/news/refactor-legacy-application-before-migration/",
-          "publishedOn": "2026-09-07T22:04:51.000Z",
-          "wordCount": 4358,
-          "title": "How to Refactor a Legacy Application Before Migrating It",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d9d0b4b3-b9f4-4f86-98ba-ec079ac68284.png"
-        },
-        {
-          "id": "6a9eec68a0d0c091f35da7b8",
-          "author": "Isaiah Clifford Opoku",
-          "description": "Design patterns are reusable solutions to common problems in software design. Think of them as blueprints: not finished code, but proven templates you can adapt to solve a specific problem in your own",
-          "link": "https://www.freecodecamp.org/news/the-design-patterns-handbook-learn-popular-design-patterns-with-c-code-examples/",
-          "publishedOn": "2026-09-07T16:55:04.000Z",
-          "wordCount": 17090,
-          "title": "The Design Patterns Handbook: Learn Popular Design Patterns with C# Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4b19ec2c-2756-44d4-9a96-a5f196fdaae3.png"
         }
       ]
     }
