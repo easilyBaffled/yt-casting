@@ -1,88 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-11T04:12:47.058Z</id>
+    <id>urn:2026-09-12T04:11:57.123Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T04:12:47.058Z</updated>
+    <updated>2026-09-12T04:11:57.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[How to Use Lovable Responsibly]]></title>
-        <id>6aa2d601395968ffa3528970</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-lovable-responsibly/"/>
-        <updated>2026-09-10T16:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Building an app used to feel like assembling furniture without instructions, while missing half the screws. Today, AI-powered tools such as Lovable can help you turn an idea into a working web applica]]></summary>
+        <title type="html"><![CDATA[How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide]]></title>
+        <id>6aa47c59141bdd8e9f05b331</id>
+        <link href="https://www.freecodecamp.org/news/how-to-connect-to-hmrc-making-tax-digital-api/"/>
+        <updated>2026-09-11T22:10:33.000Z</updated>
+        <summary type="html"><![CDATA[If you write software for anyone who pays UK tax, sooner or later you'll need to talk to HMRC. Making Tax Digital (MTD) for Income Tax went live on 6 April 2026, and it's already mandatory for self-em]]></summary>
         <author>
-            <name>Eva J Patel</name>
+            <name>Solomon Amos</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Codex Crash Course]]></title>
-        <id>6aa2c85bc40387b2bb1daded</id>
-        <link href="https://www.freecodecamp.org/news/openai-codex-crash-course/"/>
-        <updated>2026-09-10T15:10:19.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI Codex is a very helpful tool in modern software development, but getting real value from it comes down to understanding how it is actually meant to be used. To help developers master its core c]]></summary>
+        <title type="html"><![CDATA[How to Prevent Race Conditions in Django]]></title>
+        <id>6aa477b6e81d2fc1cc117115</id>
+        <link href="https://www.freecodecamp.org/news/how-to-prevent-race-conditions-in-django/"/>
+        <updated>2026-09-11T21:50:46.000Z</updated>
+        <summary type="html"><![CDATA[Let's say you have enough credit left to generate one more image in an AI app. You submit a request in one browser tab, then submit another in a second tab before the first finishes. The app accepts b]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>Mari</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Linux Actually Boots: From Firmware to the Login Screen]]></title>
-        <id>6aa1ebfb3cc1af030bd4b974</id>
-        <link href="https://www.freecodecamp.org/news/how-linux-actually-boots-from-firmware-to-the-login-screen/"/>
-        <updated>2026-09-09T23:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Open a terminal on any systemd machine and run this: systemd-analyze On the laptop I'm writing this on, it says: Startup finished in 5.855s (firmware) + 8.469s (loader) + 3.106s (kernel) + 12.181s (u]]></summary>
+        <title type="html"><![CDATA[Apple Watch’s New VO2 Max Test: How It Measures Your Cardiorespiratory Fitness]]></title>
+        <id>6aa476cb322207896c23ef21</id>
+        <link href="https://www.freecodecamp.org/news/apple-watch-vo2-max-test-cardiorespiratory-fitness/"/>
+        <updated>2026-09-11T21:46:51.000Z</updated>
+        <summary type="html"><![CDATA[Your Apple Watch can tell you how fast you're moving, how your heart responds to exercise, and how your workout changes over time. But one of its more interesting fitness metrics is something it can't]]></summary>
+        <author>
+            <name>Reetain Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Sandbox a Linux Process with Landlock, No Root Required]]></title>
+        <id>6aa475c369d3adf4a48d4cc9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-sandbox-a-linux-process-with-landlock-no-root-required/"/>
+        <updated>2026-09-11T21:42:27.000Z</updated>
+        <summary type="html"><![CDATA[Here's a program restricting itself, then trying to read two files: without landlock:   read /etc/hostname            ok   read /tmp/secret.txt          ok with landlock, /etc allowed:   read]]></summary>
         <author>
             <name>Chris Roy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What a Machine Learning Model is and How to Make One]]></title>
-        <id>6aa1b782434f42bd4da9b37c</id>
-        <link href="https://www.freecodecamp.org/news/what-a-machine-learning-model-is-and-how-to-make-one/"/>
-        <updated>2026-09-09T19:46:10.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning can sound much more complicated than it actually is. You hear words like models, training, features, datasets, predictions, and algorithms, and it can feel like you need a PhD in math]]></summary>
+        <title type="html"><![CDATA[How to Build an AI Chat App Interface With the Vercel AI SDK and Shadcn/ui]]></title>
+        <id>6aa42a894ba1a9c008082580</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-chat-app-interface-with-the-ai-sdk/"/>
+        <updated>2026-09-11T16:21:29.000Z</updated>
+        <summary type="html"><![CDATA[Every other AI product you open today has the same screen: a message list, a text box at the bottom, and words that stream in one token at a time. It looks simple, but it's not simple to build well. Y]]></summary>
         <author>
-            <name>Eva J Patel</name>
+            <name>Vaibhav Gupta</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Deployment Checklist That Actually Prevents Production Incidents]]></title>
-        <id>6aa1a7edf42d135b6e7c6de3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-deployment-checklist-that-actually-prevents-production-incidents/"/>
-        <updated>2026-09-09T18:39:41.000Z</updated>
-        <summary type="html"><![CDATA[Count the items on your deployment checklist. If there are more than a handful, the length is worth a second look. Part of it is likely your team being careful. Part of it may be a record of how much]]></summary>
+        <title type="html"><![CDATA[How to Build a Self-Evaluating AI System: Automated Testing and Evaluation Pipelines for LLM Applications]]></title>
+        <id>6aa41d147411afb20c713931</id>
+        <link href="https://www.freecodecamp.org/news/build-a-self-evaluating-ai-system-automated-testing-and-evaluation-pipelines-for-llm-apps/"/>
+        <updated>2026-09-11T15:24:04.000Z</updated>
+        <summary type="html"><![CDATA[So you shipped your AI feature and it works in demos. Your team is impressed. Then a user asks a question slightly outside your test cases and the model confidently returns something completely wrong.]]></summary>
+        <author>
+            <name>Jude Otine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Is Changing Malware Detection: From Traditional Antivirus to Next-Gen Protection]]></title>
+        <id>6aa41cc6739dc5dd502bad21</id>
+        <link href="https://www.freecodecamp.org/news/how-ai-is-changing-malware-detection/"/>
+        <updated>2026-09-11T15:22:46.000Z</updated>
+        <summary type="html"><![CDATA[Malware used to be simple to describe. A virus attached itself to a file, and antivirus software removed it. That world is gone. Today, a single attack can steal your passwords, lock up your photos, w]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Composite Design Pattern: How to Work with Individual Objects and Groups Through the Same Interface]]></title>
-        <id>6aa1a112cbd6145df593b93b</id>
-        <link href="https://www.freecodecamp.org/news/the-composite-design-pattern-work-with-individual-objects-and-groups-through-the-same-interface/"/>
-        <updated>2026-09-09T18:10:26.000Z</updated>
-        <summary type="html"><![CDATA[Structural design patterns deal with how objects are created in terms of their structure and hierarchy. One of the patterns that explicitly helps you manage complex hierarchical scenarios is the Compo]]></summary>
+        <title type="html"><![CDATA[Apple Watch Can Now Estimate Your Health Age, But What's It Actually Measuring?]]></title>
+        <id>6aa41b2dad98007dc3d90177</id>
+        <link href="https://www.freecodecamp.org/news/apple-watch-health-age-whats-it-actually-measuring/"/>
+        <updated>2026-09-11T15:15:57.000Z</updated>
+        <summary type="html"><![CDATA[Your birthday tells you how many years you've been alive. But it doesn't necessarily tell you how your body is aging. Two people can be the same age and still have very different levels of cardiovascu]]></summary>
         <author>
-            <name>Oluwaseyi Fatunmole</name>
+            <name>Shradha Puri</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Gradio with Python: A Complete Beginner-to-Advanced Book]]></title>
-        <id>6aa1a0ef2158248eeaf392ca</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-gradio-with-python-beginner-to-advanced-book/"/>
-        <updated>2026-09-09T18:09:51.000Z</updated>
-        <summary type="html"><![CDATA[Gradio is one of those Python libraries that makes you wonder why building a web interface ever had to be complicated in the first place. You've probably experienced this before: you write a Python pr]]></summary>
+        <title type="html"><![CDATA[How to Implement LEGO Architecture in Flutter [Full Handbook]]]></title>
+        <id>6aa419635b994140774d7f9c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-lego-architecture-in-flutter-handbook/"/>
+        <updated>2026-09-11T15:08:19.000Z</updated>
+        <summary type="html"><![CDATA[Almost everyone has snapped two LEGO bricks together at some point, even without owning a single set as an adult. You press one brick down onto another, feel it click, and it holds. You likely never o]]></summary>
         <author>
-            <name>Eva J Patel</name>
+            <name>Atuoha Anthony</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Python Interactively]]></title>
-        <id>6aa16581cfb9039ff59e60ca</id>
-        <link href="https://www.freecodecamp.org/news/learn-python-interactively/"/>
-        <updated>2026-09-09T13:56:17.000Z</updated>
-        <summary type="html"><![CDATA[Python continues to be one of the most versatile, widely adopted programming languages in tech. Because its syntax mirrors plain English, it remains the absolute best place for a beginner to start. We]]></summary>
+        <title type="html"><![CDATA[What Is an Agent Harness? The Architecture Behind Claude Code, DeepSeek Harness, and Hermes Agent]]></title>
+        <id>6aa41926c7a41a4b7462a57d</id>
+        <link href="https://www.freecodecamp.org/news/what-is-an-agent-harness/"/>
+        <updated>2026-09-11T15:07:18.000Z</updated>
+        <summary type="html"><![CDATA[On August 13, 2026, DeepSeek published a GitHub repository called deepseek-harness. Within two days, it had passed 95,386 stars and 8,826 forks (a vanity metric on its own, but a spike this fast signa]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A UX ROI Case That Survives The Boardroom]]></title>
+        <id>https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/</id>
+        <link href="https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"/>
+        <updated>2026-09-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alex Williams)</name>
         </author>
     </entry>
     <entry>
@@ -93,26 +123,6 @@
         <summary type="html"><![CDATA[TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript]]></title>
-        <id>6a9f3d3144b92ecc2d3aca7a</id>
-        <link href="https://www.freecodecamp.org/news/gamepad-api-javascript-guide/"/>
-        <updated>2026-09-07T22:39:45.000Z</updated>
-        <summary type="html"><![CDATA[The Gamepad API is one of the smallest browser APIs you'll ever use. Four properties, one function, and no permissions prompt. You can have a controller drawn on screen in about fifteen lines. Those f]]></summary>
-        <author>
-            <name>taimoor bamazai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀]]></title>
-        <id>6a9f3c3bbf19ac7f324e6191</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-gemini-and-vercel-serverless-functions/"/>
-        <updated>2026-09-07T22:35:39.000Z</updated>
-        <summary type="html"><![CDATA[A couple of months back, I built a chatbot application using React, Node.js, and Vercel Serverless Functions, which I used in my web app, buildcv.makeadifference.app. In this tutorial, I'll walk you t]]></summary>
-        <author>
-            <name>Johnson Samuel</name>
         </author>
     </entry>
     <entry>
@@ -274,16 +284,6 @@ Dark mode toggles: two states are enough originally handwritten and published wi
 What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New EU Guidelines For AI Labelling]]></title>
-        <id>https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/</id>
-        <link href="https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/"/>
-        <updated>2026-08-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
