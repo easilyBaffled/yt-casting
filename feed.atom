@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-12T04:11:57.123Z</id>
+    <id>urn:2026-09-14T04:31:02.002Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-12T04:11:57.123Z</updated>
+    <updated>2026-09-14T04:31:02.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -273,17 +273,6 @@ WordPress.com Student Plan originally handwritten and published with love on CSS
 Dark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More]]></title>
-        <id>https://css-tricks.com/?p=396557</id>
-        <link href="https://css-tricks.com/whats-important-17/"/>
-        <updated>2026-08-14T14:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.
-What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>

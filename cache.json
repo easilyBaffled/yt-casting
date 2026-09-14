@@ -110,16 +110,6 @@
           "wordCount": 3873,
           "title": "Dark mode toggles: two states are enough",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396557",
-          "author": "Daniel Schwarz",
-          "description": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.\nWhat’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-17/",
-          "publishedOn": "2026-08-14T14:01:51.000Z",
-          "wordCount": 3699,
-          "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi17.png"
         }
       ]
     },
@@ -134,7 +124,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5560,
+          "wordCount": 5453,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -149,7 +139,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4570,
+          "wordCount": 4571,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -164,7 +154,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4752,
+          "wordCount": 4749,
           "title": "The Many Faces Of September (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -179,7 +169,7 @@
           "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
           "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
           "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 5909,
+          "wordCount": 5910,
           "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
@@ -209,7 +199,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5718,
+          "wordCount": 5711,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         }
@@ -226,7 +216,7 @@
           "description": "If you write software for anyone who pays UK tax, sooner or later you'll need to talk to HMRC. Making Tax Digital (MTD) for Income Tax went live on 6 April 2026, and it's already mandatory for self-em",
           "link": "https://www.freecodecamp.org/news/how-to-connect-to-hmrc-making-tax-digital-api/",
           "publishedOn": "2026-09-11T22:10:33.000Z",
-          "wordCount": 3293,
+          "wordCount": 3326,
           "title": "How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3dd244f7-30e5-484e-8552-3938d1555bf3.png"
         },
@@ -256,7 +246,7 @@
           "description": "Here's a program restricting itself, then trying to read two files: without landlock:   read /etc/hostname            ok   read /tmp/secret.txt          ok with landlock, /etc allowed:   read",
           "link": "https://www.freecodecamp.org/news/how-to-sandbox-a-linux-process-with-landlock-no-root-required/",
           "publishedOn": "2026-09-11T21:42:27.000Z",
-          "wordCount": 3336,
+          "wordCount": 3337,
           "title": "How to Sandbox a Linux Process with Landlock, No Root Required",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d2e4d0c7-23b4-4d74-a41c-8102fa298e6a.png"
         },
