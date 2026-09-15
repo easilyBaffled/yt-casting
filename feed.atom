@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-14T04:31:02.002Z</id>
+    <id>urn:2026-09-15T04:31:21.527Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-14T04:31:02.002Z</updated>
+    <updated>2026-09-15T04:31:21.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests]]></title>
+        <id>6aa873c5c1f02b411d54db2f</id>
+        <link href="https://www.freecodecamp.org/news/catch-security-vulnerabilities-code-pull-requests/"/>
+        <updated>2026-09-14T22:23:01.000Z</updated>
+        <summary type="html"><![CDATA[Security reviews are most effective when developers receive feedback while the code is still fresh in their minds. Waiting until a pull request, CI build, or penetration test to find exposed credentia]]></summary>
+        <author>
+            <name>Umair Mirza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Differential Testing During a Legacy Migration]]></title>
+        <id>6aa8200e59dfce663a0e73bd</id>
+        <link href="https://www.freecodecamp.org/news/differential-testing-legacy-migration/"/>
+        <updated>2026-09-14T16:25:50.000Z</updated>
+        <summary type="html"><![CDATA[The most dangerous moment in a legacy migration isn't necessarily when you start writing the new implementation. It's when the new implementation looks finished. The code compiles, the tests pass, the]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Feature Flags for Safe and Gradual Rollouts]]></title>
+        <id>6aa80baffb20ceef80e8afa4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-feature-flags-for-safe-and-gradual-rollouts/"/>
+        <updated>2026-09-14T14:58:55.000Z</updated>
+        <summary type="html"><![CDATA[Feature flags are one of the most powerful tools in a team's deployment arsenal. They decouple deployment from release, meaning your CI/CD pipeline can push code to production servers on every merge,]]></summary>
+        <author>
+            <name>Abisoye Alli-Balogun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design Gifting Features People Actually Use: Evidence from 58 Apps]]></title>
+        <id>6aa7fd8e205aecde15149ec4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-design-gifting-features-people-actually-use-evidence-from-58-apps/"/>
+        <updated>2026-09-14T13:58:38.000Z</updated>
+        <summary type="html"><![CDATA[American shoppers spent about $29 billion on gift cards over the 2025 holiday season, and 43 percent of them bought at least one. This put gift cards at the top of what people said they wanted accordi]]></summary>
+        <author>
+            <name>Anamol Rajbhandari</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide]]></title>
         <id>6aa47c59141bdd8e9f05b331</id>
@@ -63,46 +103,6 @@
         <summary type="html"><![CDATA[So you shipped your AI feature and it works in demos. Your team is impressed. Then a user asks a question slightly outside your test cases and the model confidently returns something completely wrong.]]></summary>
         <author>
             <name>Jude Otine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Is Changing Malware Detection: From Traditional Antivirus to Next-Gen Protection]]></title>
-        <id>6aa41cc6739dc5dd502bad21</id>
-        <link href="https://www.freecodecamp.org/news/how-ai-is-changing-malware-detection/"/>
-        <updated>2026-09-11T15:22:46.000Z</updated>
-        <summary type="html"><![CDATA[Malware used to be simple to describe. A virus attached itself to a file, and antivirus software removed it. That world is gone. Today, a single attack can steal your passwords, lock up your photos, w]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Watch Can Now Estimate Your Health Age, But What's It Actually Measuring?]]></title>
-        <id>6aa41b2dad98007dc3d90177</id>
-        <link href="https://www.freecodecamp.org/news/apple-watch-health-age-whats-it-actually-measuring/"/>
-        <updated>2026-09-11T15:15:57.000Z</updated>
-        <summary type="html"><![CDATA[Your birthday tells you how many years you've been alive. But it doesn't necessarily tell you how your body is aging. Two people can be the same age and still have very different levels of cardiovascu]]></summary>
-        <author>
-            <name>Shradha Puri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement LEGO Architecture in Flutter [Full Handbook]]]></title>
-        <id>6aa419635b994140774d7f9c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-lego-architecture-in-flutter-handbook/"/>
-        <updated>2026-09-11T15:08:19.000Z</updated>
-        <summary type="html"><![CDATA[Almost everyone has snapped two LEGO bricks together at some point, even without owning a single set as an adult. You press one brick down onto another, feel it click, and it holds. You likely never o]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is an Agent Harness? The Architecture Behind Claude Code, DeepSeek Harness, and Hermes Agent]]></title>
-        <id>6aa41926c7a41a4b7462a57d</id>
-        <link href="https://www.freecodecamp.org/news/what-is-an-agent-harness/"/>
-        <updated>2026-09-11T15:07:18.000Z</updated>
-        <summary type="html"><![CDATA[On August 13, 2026, DeepSeek published a GitHub repository called deepseek-harness. Within two days, it had passed 95,386 stars and 8,826 forks (a vanity metric on its own, but a spike this fast signa]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
         </author>
     </entry>
     <entry>
