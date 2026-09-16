@@ -100,16 +100,6 @@
           "wordCount": 3250,
           "title": "WordPress.com Student Plan",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wordpress-student-education.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396545",
-          "author": "Geoff Graham",
-          "description": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.\nDark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
-          "publishedOn": "2026-08-17T14:15:50.000Z",
-          "wordCount": 3873,
-          "title": "Dark mode toggles: two states are enough",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
         }
       ]
     },
@@ -124,7 +114,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5443,
+          "wordCount": 5451,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -139,7 +129,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4574,
+          "wordCount": 4570,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -154,7 +144,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4867,
+          "wordCount": 4744,
           "title": "The Many Faces Of September (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -169,7 +159,7 @@
           "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
           "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
           "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 5914,
+          "wordCount": 5913,
           "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
@@ -199,7 +189,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5714,
+          "wordCount": 5720,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         }
@@ -210,6 +200,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6aa9b46181fb07630380c2e8",
+          "author": "Chris Roy",
+          "description": "A Linux kernel module is a small piece of code that can be loaded into the running kernel without rebuilding the entire kernel. That sounds simple enough, but even a minimal module produces a surprisi",
+          "link": "https://www.freecodecamp.org/news/how-to-write-a-linux-kernel-module-that-actually-builds/",
+          "publishedOn": "2026-09-15T21:10:57.000Z",
+          "wordCount": 4105,
+          "title": "How to Write a Linux Kernel Module That Actually Builds",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f8a7aabd-8494-42d5-86a1-e1eb51c2d0a7.png"
+        },
+        {
+          "id": "6aa9b393e892e731e337e0e3",
+          "author": "Manish Shivanandhan",
+          "description": "Your online presence often gives potential employers, clients, partners, and recruiters their first impression of you. It's likely what they see before they ever meet you. They search your name, read",
+          "link": "https://www.freecodecamp.org/news/the-7-essential-parts-of-your-online-presence/",
+          "publishedOn": "2026-09-15T21:07:31.000Z",
+          "wordCount": 2514,
+          "title": "The 7 Essential Parts of Your Online Presence",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1858aeea-9446-48d3-abeb-225f14aae371.png"
+        },
+        {
+          "id": "6aa9b28d96b8eb1b8b1475f0",
+          "author": "Alex Tray",
+          "description": "A developer's laptop holds more sensitive data than most people realize: API keys, database credentials, staging environment secrets, and sometimes entire copies of production data pulled down \"just f",
+          "link": "https://www.freecodecamp.org/news/build-an-endpoint-data-loss-prevention-strategy-for-your-dev-team/",
+          "publishedOn": "2026-09-15T21:03:09.000Z",
+          "wordCount": 4273,
+          "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4a1cf15f-7d3a-48d2-8fdd-b53ceb1dd0e7.png"
+        },
+        {
+          "id": "6aa9b21e85e19ac0f866ed24",
+          "author": "Daniel Kehoe",
+          "description": "macOS 27 Golden Gate is here. Apple released it September 14, 2026, as a free upgrade for every Mac that can run it. I'll show you what actually changes for developers in macOS 27, how to upgrade with",
+          "link": "https://www.freecodecamp.org/news/whats-new-in-macos-27-for-developers/",
+          "publishedOn": "2026-09-15T21:01:18.000Z",
+          "wordCount": 2693,
+          "title": "What's New in macOS 27 for Developers?",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0448ce08-813c-4739-99d7-88fad680006a.png"
+        },
+        {
+          "id": "6aa96af3f2afbe5bd755abd1",
+          "author": "Karan Pratap Singh",
+          "description": "Web Real-Time Communication (or WebRTC) is the open standard browsers use to send audio, video, and data straight to each other. There's no plugin or native app, nothing beyond an API that every brows",
+          "link": "https://www.freecodecamp.org/news/how-webrtc-scales-signaling-nat-traversal-and-the-mesh-sfu-mcu-tradeoff/",
+          "publishedOn": "2026-09-15T15:57:39.000Z",
+          "wordCount": 3211,
+          "title": "How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ea32b5b4-ae6c-4b75-87bb-696fbc15b047.png"
+        },
         {
           "id": "6aa873c5c1f02b411d54db2f",
           "author": "Umair Mirza",
@@ -259,56 +299,6 @@
           "wordCount": 3326,
           "title": "How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3dd244f7-30e5-484e-8552-3938d1555bf3.png"
-        },
-        {
-          "id": "6aa477b6e81d2fc1cc117115",
-          "author": "Mari",
-          "description": "Let's say you have enough credit left to generate one more image in an AI app. You submit a request in one browser tab, then submit another in a second tab before the first finishes. The app accepts b",
-          "link": "https://www.freecodecamp.org/news/how-to-prevent-race-conditions-in-django/",
-          "publishedOn": "2026-09-11T21:50:46.000Z",
-          "wordCount": 6956,
-          "title": "How to Prevent Race Conditions in Django",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/560a0578-8b5d-4109-b1ba-9728e8476d6a.png"
-        },
-        {
-          "id": "6aa476cb322207896c23ef21",
-          "author": "Reetain Raina",
-          "description": "Your Apple Watch can tell you how fast you're moving, how your heart responds to exercise, and how your workout changes over time. But one of its more interesting fitness metrics is something it can't",
-          "link": "https://www.freecodecamp.org/news/apple-watch-vo2-max-test-cardiorespiratory-fitness/",
-          "publishedOn": "2026-09-11T21:46:51.000Z",
-          "wordCount": 3174,
-          "title": "Apple Watch’s New VO2 Max Test: How It Measures Your Cardiorespiratory Fitness",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/63ffe5f1-2569-4684-8119-dcad13568ac9.png"
-        },
-        {
-          "id": "6aa475c369d3adf4a48d4cc9",
-          "author": "Chris Roy",
-          "description": "Here's a program restricting itself, then trying to read two files: without landlock:   read /etc/hostname            ok   read /tmp/secret.txt          ok with landlock, /etc allowed:   read",
-          "link": "https://www.freecodecamp.org/news/how-to-sandbox-a-linux-process-with-landlock-no-root-required/",
-          "publishedOn": "2026-09-11T21:42:27.000Z",
-          "wordCount": 3337,
-          "title": "How to Sandbox a Linux Process with Landlock, No Root Required",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d2e4d0c7-23b4-4d74-a41c-8102fa298e6a.png"
-        },
-        {
-          "id": "6aa42a894ba1a9c008082580",
-          "author": "Vaibhav Gupta",
-          "description": "Every other AI product you open today has the same screen: a message list, a text box at the bottom, and words that stream in one token at a time. It looks simple, but it's not simple to build well. Y",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-chat-app-interface-with-the-ai-sdk/",
-          "publishedOn": "2026-09-11T16:21:29.000Z",
-          "wordCount": 3875,
-          "title": "How to Build an AI Chat App Interface With the Vercel AI SDK and Shadcn/ui",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c7c0df36-a134-4ea2-b307-da5c4f7d2937.png"
-        },
-        {
-          "id": "6aa41d147411afb20c713931",
-          "author": "Jude Otine",
-          "description": "So you shipped your AI feature and it works in demos. Your team is impressed. Then a user asks a question slightly outside your test cases and the model confidently returns something completely wrong.",
-          "link": "https://www.freecodecamp.org/news/build-a-self-evaluating-ai-system-automated-testing-and-evaluation-pipelines-for-llm-apps/",
-          "publishedOn": "2026-09-11T15:24:04.000Z",
-          "wordCount": 6776,
-          "title": "How to Build a Self-Evaluating AI System: Automated Testing and Evaluation Pipelines for LLM Applications",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6e470b44-a02d-440b-a576-e12de96a3b68.png"
         }
       ]
     }
