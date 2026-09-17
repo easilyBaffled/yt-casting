@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-16T04:26:49.635Z</id>
+    <id>urn:2026-09-17T04:32:40.600Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-16T04:26:49.635Z</updated>
+    <updated>2026-09-17T04:32:40.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Deploy, Secure, and Automate Full-Stack Web Apps]]></title>
+        <id>6aaab59285cf18b4c5072002</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-deploy-secure-and-automate-full-stack-web-apps/"/>
+        <updated>2026-09-16T15:28:18.000Z</updated>
+        <summary type="html"><![CDATA[Taking a web application from local development to a live, secure production environment can be daunting if you've never looked under the hood. We just published a comprehensive course on the freeCode]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Treating CSS Container Queries Like Traditional Media Queries]]></title>
+        <id>https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/</id>
+        <link href="https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"/>
+        <updated>2026-09-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Write a Linux Kernel Module That Actually Builds]]></title>
         <id>6aa9b46181fb07630380c2e8</id>
@@ -93,16 +113,6 @@
         <summary type="html"><![CDATA[American shoppers spent about $29 billion on gift cards over the 2025 holiday season, and 43 percent of them bought at least one. This put gift cards at the top of what people said they wanted accordi]]></summary>
         <author>
             <name>Anamol Rajbhandari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide]]></title>
-        <id>6aa47c59141bdd8e9f05b331</id>
-        <link href="https://www.freecodecamp.org/news/how-to-connect-to-hmrc-making-tax-digital-api/"/>
-        <updated>2026-09-11T22:10:33.000Z</updated>
-        <summary type="html"><![CDATA[If you write software for anyone who pays UK tax, sooner or later you'll need to talk to HMRC. Making Tax Digital (MTD) for Income Tax went live on 6 April 2026, and it's already mandatory for self-em]]></summary>
-        <author>
-            <name>Solomon Amos</name>
         </author>
     </entry>
     <entry>

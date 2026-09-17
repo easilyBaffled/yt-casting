@@ -109,12 +109,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
+          "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+          "publishedOn": "2026-09-16T13:00:00.000Z",
+          "wordCount": 5021,
+          "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "author": "hello@smashingmagazine.com (Alex Williams)",
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5451,
+          "wordCount": 5560,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -129,7 +144,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4570,
+          "wordCount": 4568,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -144,7 +159,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4744,
+          "wordCount": 4755,
           "title": "The Many Faces Of September (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -159,7 +174,7 @@
           "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
           "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
           "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 5913,
+          "wordCount": 5909,
           "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
@@ -189,7 +204,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5720,
+          "wordCount": 5721,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         }
@@ -200,6 +215,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6aaab59285cf18b4c5072002",
+          "author": "Beau Carnes",
+          "description": "Taking a web application from local development to a live, secure production environment can be daunting if you've never looked under the hood. We just published a comprehensive course on the freeCode",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-deploy-secure-and-automate-full-stack-web-apps/",
+          "publishedOn": "2026-09-16T15:28:18.000Z",
+          "wordCount": 1224,
+          "title": "Learn How to Deploy, Secure, and Automate Full-Stack Web Apps",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/4fe6aa9d-d362-495b-9100-417e8f9e0323.jpg"
+        },
         {
           "id": "6aa9b46181fb07630380c2e8",
           "author": "Chris Roy",
@@ -289,16 +314,6 @@
           "wordCount": 6335,
           "title": "How to Design Gifting Features People Actually Use: Evidence from 58 Apps",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/94d818a8-6ce2-4335-8d55-5f93907186de.png"
-        },
-        {
-          "id": "6aa47c59141bdd8e9f05b331",
-          "author": "Solomon Amos",
-          "description": "If you write software for anyone who pays UK tax, sooner or later you'll need to talk to HMRC. Making Tax Digital (MTD) for Income Tax went live on 6 April 2026, and it's already mandatory for self-em",
-          "link": "https://www.freecodecamp.org/news/how-to-connect-to-hmrc-making-tax-digital-api/",
-          "publishedOn": "2026-09-11T22:10:33.000Z",
-          "wordCount": 3326,
-          "title": "How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3dd244f7-30e5-484e-8552-3938d1555bf3.png"
         }
       ]
     }
