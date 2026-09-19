@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-18T04:17:35.194Z</id>
+    <id>urn:2026-09-19T04:14:05.439Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-18T04:17:35.194Z</updated>
+    <updated>2026-09-19T04:14:05.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Turn a RECIST Line into a 3D Tumor Segmentation Mask]]></title>
+        <id>6aadae08b3c208add9878388</id>
+        <link href="https://www.freecodecamp.org/news/how-to-turn-a-recist-line-into-a-3d-tumor-segmentation-mask/"/>
+        <updated>2026-09-18T21:32:56.000Z</updated>
+        <summary type="html"><![CDATA[A radiologist can mark a tumor on a CT scan by drawing a straight line across it. Creating a complete 3D segmentation requires outlining the tumor across the slices where it appears, which is more tim]]></summary>
+        <author>
+            <name>Lakshmi Mahabaleshwara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Coding Assistants Can Help You Debug Without Writing the Code for You]]></title>
+        <id>6aadadc0f205881df958e884</id>
+        <link href="https://www.freecodecamp.org/news/how-ai-coding-assistants-can-help-you-debug-without-writing-the-code-for-you/"/>
+        <updated>2026-09-18T21:31:44.000Z</updated>
+        <summary type="html"><![CDATA[AI coding assistants have become really good at fixing code. Paste an error into an AI tool and, within seconds, you'll get a corrected implementation. That's useful when you simply want to get someth]]></summary>
+        <author>
+            <name>GAYATHRI BOLINENI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Prevent Poisoned GitHub Actions Dependencies]]></title>
+        <id>6aad60c103851fe98f2df4a2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-prevent-poisoned-github-actions-dependencies/"/>
+        <updated>2026-09-18T16:03:13.000Z</updated>
+        <summary type="html"><![CDATA[Your workflow uses actions/checkout@v4. Today, that tag points to a vetted release. Tomorrow, a compromised maintainer or attacker moves the tag to malicious code. Your pipeline runs it with access to]]></summary>
+        <author>
+            <name>ILYAS RUFAI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript]]></title>
+        <id>6aad5cf52b32e1bee69c90a8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-bulk-image-compressor-tool-with-html-css-and-javascript/"/>
+        <updated>2026-09-18T15:47:01.000Z</updated>
+        <summary type="html"><![CDATA[High-resolution images look great, but they can significantly slow down page load times and consume massive amounts of storage. While backend compression tools are common, building a client-side image]]></summary>
+        <author>
+            <name>Bansidhar Kadiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate a Legacy Monolith Incrementally Without a Big-Bang Rewrite]]></title>
+        <id>6aac7747d406d7c207351312</id>
+        <link href="https://www.freecodecamp.org/news/migrate-legacy-monolith-incrementally/"/>
+        <updated>2026-09-17T23:27:03.000Z</updated>
+        <summary type="html"><![CDATA[Large legacy migrations often fail long before the final cutover. The failure usually starts when the migration is framed as a single event. Move the application. Move the database. Move all the users]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy]]></title>
         <id>6aac2aabd02a5d838577063a</id>
@@ -63,56 +113,6 @@
         <summary type="html"><![CDATA[A developer's laptop holds more sensitive data than most people realize: API keys, database credentials, staging environment secrets, and sometimes entire copies of production data pulled down "just f]]></summary>
         <author>
             <name>Alex Tray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's New in macOS 27 for Developers?]]></title>
-        <id>6aa9b21e85e19ac0f866ed24</id>
-        <link href="https://www.freecodecamp.org/news/whats-new-in-macos-27-for-developers/"/>
-        <updated>2026-09-15T21:01:18.000Z</updated>
-        <summary type="html"><![CDATA[macOS 27 Golden Gate is here. Apple released it September 14, 2026, as a free upgrade for every Mac that can run it. I'll show you what actually changes for developers in macOS 27, how to upgrade with]]></summary>
-        <author>
-            <name>Daniel Kehoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff]]></title>
-        <id>6aa96af3f2afbe5bd755abd1</id>
-        <link href="https://www.freecodecamp.org/news/how-webrtc-scales-signaling-nat-traversal-and-the-mesh-sfu-mcu-tradeoff/"/>
-        <updated>2026-09-15T15:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Web Real-Time Communication (or WebRTC) is the open standard browsers use to send audio, video, and data straight to each other. There's no plugin or native app, nothing beyond an API that every brows]]></summary>
-        <author>
-            <name>Karan Pratap Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests]]></title>
-        <id>6aa873c5c1f02b411d54db2f</id>
-        <link href="https://www.freecodecamp.org/news/catch-security-vulnerabilities-code-pull-requests/"/>
-        <updated>2026-09-14T22:23:01.000Z</updated>
-        <summary type="html"><![CDATA[Security reviews are most effective when developers receive feedback while the code is still fresh in their minds. Waiting until a pull request, CI build, or penetration test to find exposed credentia]]></summary>
-        <author>
-            <name>Umair Mirza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Differential Testing During a Legacy Migration]]></title>
-        <id>6aa8200e59dfce663a0e73bd</id>
-        <link href="https://www.freecodecamp.org/news/differential-testing-legacy-migration/"/>
-        <updated>2026-09-14T16:25:50.000Z</updated>
-        <summary type="html"><![CDATA[The most dangerous moment in a legacy migration isn't necessarily when you start writing the new implementation. It's when the new implementation looks finished. The code compiles, the tests pass, the]]></summary>
-        <author>
-            <name>Hugo Teijiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Feature Flags for Safe and Gradual Rollouts]]></title>
-        <id>6aa80baffb20ceef80e8afa4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-feature-flags-for-safe-and-gradual-rollouts/"/>
-        <updated>2026-09-14T14:58:55.000Z</updated>
-        <summary type="html"><![CDATA[Feature flags are one of the most powerful tools in a team's deployment arsenal. They decouple deployment from release, meaning your CI/CD pipeline can push code to production servers on every merge,]]></summary>
-        <author>
-            <name>Abisoye Alli-Balogun</name>
         </author>
     </entry>
     <entry>
@@ -240,16 +240,6 @@ WordPress PHP-Only Block Registration originally handwritten and published with 
 Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timing Charts: A Blueprint For SMIL Animations]]></title>
-        <id>https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/</id>
-        <link href="https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/"/>
-        <updated>2026-08-20T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Johan Grobler)</name>
         </author>
     </entry>
 </feed>

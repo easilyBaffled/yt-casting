@@ -94,7 +94,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5022,
+          "wordCount": 5020,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -109,7 +109,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5451,
+          "wordCount": 5446,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -124,7 +124,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4578,
+          "wordCount": 4570,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -154,7 +154,7 @@
           "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
           "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
           "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 5905,
+          "wordCount": 5913,
           "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
@@ -177,16 +177,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
-          "author": "hello@smashingmagazine.com (Johan Grobler)",
-          "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
-          "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
-          "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5715,
-          "title": "Timing Charts: A Blueprint For SMIL Animations",
-          "imageUrl": "https:null"
         }
       ]
     },
@@ -195,6 +185,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6aadae08b3c208add9878388",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "A radiologist can mark a tumor on a CT scan by drawing a straight line across it. Creating a complete 3D segmentation requires outlining the tumor across the slices where it appears, which is more tim",
+          "link": "https://www.freecodecamp.org/news/how-to-turn-a-recist-line-into-a-3d-tumor-segmentation-mask/",
+          "publishedOn": "2026-09-18T21:32:56.000Z",
+          "wordCount": 4763,
+          "title": "How to Turn a RECIST Line into a 3D Tumor Segmentation Mask",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bde6732f-ad81-4a51-8939-ec74637d09e6.png"
+        },
+        {
+          "id": "6aadadc0f205881df958e884",
+          "author": "GAYATHRI BOLINENI",
+          "description": "AI coding assistants have become really good at fixing code. Paste an error into an AI tool and, within seconds, you'll get a corrected implementation. That's useful when you simply want to get someth",
+          "link": "https://www.freecodecamp.org/news/how-ai-coding-assistants-can-help-you-debug-without-writing-the-code-for-you/",
+          "publishedOn": "2026-09-18T21:31:44.000Z",
+          "wordCount": 4751,
+          "title": "How AI Coding Assistants Can Help You Debug Without Writing the Code for You",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b42d645f-44fd-408c-860f-bb187cdcbb02.png"
+        },
+        {
+          "id": "6aad60c103851fe98f2df4a2",
+          "author": "ILYAS RUFAI",
+          "description": "Your workflow uses actions/checkout@v4. Today, that tag points to a vetted release. Tomorrow, a compromised maintainer or attacker moves the tag to malicious code. Your pipeline runs it with access to",
+          "link": "https://www.freecodecamp.org/news/how-to-prevent-poisoned-github-actions-dependencies/",
+          "publishedOn": "2026-09-18T16:03:13.000Z",
+          "wordCount": 2629,
+          "title": "How to Prevent Poisoned GitHub Actions Dependencies",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c5ac930c-aa14-434e-a712-48102cc88e44.png"
+        },
+        {
+          "id": "6aad5cf52b32e1bee69c90a8",
+          "author": "Bansidhar Kadiya",
+          "description": "High-resolution images look great, but they can significantly slow down page load times and consume massive amounts of storage. While backend compression tools are common, building a client-side image",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-bulk-image-compressor-tool-with-html-css-and-javascript/",
+          "publishedOn": "2026-09-18T15:47:01.000Z",
+          "wordCount": 2446,
+          "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f0d7a939-276b-4eb9-a380-6f376997dbe6.png"
+        },
+        {
+          "id": "6aac7747d406d7c207351312",
+          "author": "Hugo Teijiz",
+          "description": "Large legacy migrations often fail long before the final cutover. The failure usually starts when the migration is framed as a single event. Move the application. Move the database. Move all the users",
+          "link": "https://www.freecodecamp.org/news/migrate-legacy-monolith-incrementally/",
+          "publishedOn": "2026-09-17T23:27:03.000Z",
+          "wordCount": 5310,
+          "title": "How to Migrate a Legacy Monolith Incrementally Without a Big-Bang Rewrite",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/086653d6-268e-4d13-8f7d-b42c92847361.png"
+        },
         {
           "id": "6aac2aabd02a5d838577063a",
           "author": "Beau Carnes",
@@ -244,56 +284,6 @@
           "wordCount": 4273,
           "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4a1cf15f-7d3a-48d2-8fdd-b53ceb1dd0e7.png"
-        },
-        {
-          "id": "6aa9b21e85e19ac0f866ed24",
-          "author": "Daniel Kehoe",
-          "description": "macOS 27 Golden Gate is here. Apple released it September 14, 2026, as a free upgrade for every Mac that can run it. I'll show you what actually changes for developers in macOS 27, how to upgrade with",
-          "link": "https://www.freecodecamp.org/news/whats-new-in-macos-27-for-developers/",
-          "publishedOn": "2026-09-15T21:01:18.000Z",
-          "wordCount": 2693,
-          "title": "What's New in macOS 27 for Developers?",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0448ce08-813c-4739-99d7-88fad680006a.png"
-        },
-        {
-          "id": "6aa96af3f2afbe5bd755abd1",
-          "author": "Karan Pratap Singh",
-          "description": "Web Real-Time Communication (or WebRTC) is the open standard browsers use to send audio, video, and data straight to each other. There's no plugin or native app, nothing beyond an API that every brows",
-          "link": "https://www.freecodecamp.org/news/how-webrtc-scales-signaling-nat-traversal-and-the-mesh-sfu-mcu-tradeoff/",
-          "publishedOn": "2026-09-15T15:57:39.000Z",
-          "wordCount": 3211,
-          "title": "How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ea32b5b4-ae6c-4b75-87bb-696fbc15b047.png"
-        },
-        {
-          "id": "6aa873c5c1f02b411d54db2f",
-          "author": "Umair Mirza",
-          "description": "Security reviews are most effective when developers receive feedback while the code is still fresh in their minds. Waiting until a pull request, CI build, or penetration test to find exposed credentia",
-          "link": "https://www.freecodecamp.org/news/catch-security-vulnerabilities-code-pull-requests/",
-          "publishedOn": "2026-09-14T22:23:01.000Z",
-          "wordCount": 2692,
-          "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1443bfb4-581b-457b-afc3-7a85dd5fb3be.png"
-        },
-        {
-          "id": "6aa8200e59dfce663a0e73bd",
-          "author": "Hugo Teijiz",
-          "description": "The most dangerous moment in a legacy migration isn't necessarily when you start writing the new implementation. It's when the new implementation looks finished. The code compiles, the tests pass, the",
-          "link": "https://www.freecodecamp.org/news/differential-testing-legacy-migration/",
-          "publishedOn": "2026-09-14T16:25:50.000Z",
-          "wordCount": 5317,
-          "title": "How to Use Differential Testing During a Legacy Migration",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6717bbb6-16b9-4fc1-8bfe-7381a3024f73.png"
-        },
-        {
-          "id": "6aa80baffb20ceef80e8afa4",
-          "author": "Abisoye Alli-Balogun",
-          "description": "Feature flags are one of the most powerful tools in a team's deployment arsenal. They decouple deployment from release, meaning your CI/CD pipeline can push code to production servers on every merge,",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-feature-flags-for-safe-and-gradual-rollouts/",
-          "publishedOn": "2026-09-14T14:58:55.000Z",
-          "wordCount": 3704,
-          "title": "How to Implement Feature Flags for Safe and Gradual Rollouts",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c454c134-d09d-4d92-b0ba-99cbf685fe67.png"
         }
       ]
     }
