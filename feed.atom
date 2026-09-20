@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-19T04:14:05.439Z</id>
+    <id>urn:2026-09-20T04:33:34.048Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-19T04:14:05.439Z</updated>
+    <updated>2026-09-20T04:33:34.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a GraphRAG System with Python, Neo4j and ServiceNow]]></title>
+        <id>6aaec6a4bd97d368f64a3819</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/"/>
+        <updated>2026-09-19T17:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Somewhere in your company's ServiceNow instance is the answer to the question an engineer asks at two in the morning: if this is broken, what else is about to break? Every fact needed to answer it has]]></summary>
+        <author>
+            <name>RONI DAS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph]]></title>
+        <id>6aaec60b559dfa1d9e4f1ddc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/"/>
+        <updated>2026-09-19T17:27:39.000Z</updated>
+        <summary type="html"><![CDATA[Some time ago, I gave a machine learning model five columns from a public CDC dataset and asked it to predict a sixth column from the same file. The model scored an R² of 0.998, which is about as clos]]></summary>
+        <author>
+            <name>Kayode Adeniyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native]]></title>
+        <id>6aaec3412b999a8f7cf63f8f</id>
+        <link href="https://www.freecodecamp.org/news/the-ios-nfc-handbook-how-to-read-write-and-lock-nfc-tags-with-react-native/"/>
+        <updated>2026-09-19T17:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Hold an iPhone near a sticker and something happens. A business card lands in your contacts, a focus session ends, or a door opens. The chip costs about twenty pence and holds roughly a hundred and th]]></summary>
+        <author>
+            <name>Farouq Seriki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Turn a RECIST Line into a 3D Tumor Segmentation Mask]]></title>
         <id>6aadae08b3c208add9878388</id>
@@ -83,36 +113,6 @@
         <summary type="html"><![CDATA[Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write a Linux Kernel Module That Actually Builds]]></title>
-        <id>6aa9b46181fb07630380c2e8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-a-linux-kernel-module-that-actually-builds/"/>
-        <updated>2026-09-15T21:10:57.000Z</updated>
-        <summary type="html"><![CDATA[A Linux kernel module is a small piece of code that can be loaded into the running kernel without rebuilding the entire kernel. That sounds simple enough, but even a minimal module produces a surprisi]]></summary>
-        <author>
-            <name>Chris Roy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 7 Essential Parts of Your Online Presence]]></title>
-        <id>6aa9b393e892e731e337e0e3</id>
-        <link href="https://www.freecodecamp.org/news/the-7-essential-parts-of-your-online-presence/"/>
-        <updated>2026-09-15T21:07:31.000Z</updated>
-        <summary type="html"><![CDATA[Your online presence often gives potential employers, clients, partners, and recruiters their first impression of you. It's likely what they see before they ever meet you. They search your name, read]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team]]></title>
-        <id>6aa9b28d96b8eb1b8b1475f0</id>
-        <link href="https://www.freecodecamp.org/news/build-an-endpoint-data-loss-prevention-strategy-for-your-dev-team/"/>
-        <updated>2026-09-15T21:03:09.000Z</updated>
-        <summary type="html"><![CDATA[A developer's laptop holds more sensitive data than most people realize: API keys, database credentials, staging environment secrets, and sometimes entire copies of production data pulled down "just f]]></summary>
-        <author>
-            <name>Alex Tray</name>
         </author>
     </entry>
     <entry>
@@ -229,17 +229,6 @@ MicroLighter: Syntax Highlighter originally handwritten and published with love 
 WordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Fränk Klein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resolved: CSS Class Prefix Selector]]></title>
-        <id>https://css-tricks.com/?p=396644</id>
-        <link href="https://css-tricks.com/resolved-css-class-prefix-selector/"/>
-        <updated>2026-08-21T15:13:03.000Z</updated>
-        <summary type="html"><![CDATA[A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.
-Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
