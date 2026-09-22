@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-21T04:31:03.323Z</id>
+    <id>urn:2026-09-22T04:26:55.637Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-21T04:31:03.323Z</updated>
+    <updated>2026-09-22T04:26:55.637Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[How to Build a GraphRAG System with Python, Neo4j and ServiceNow]]></title>
+        <title type="html"><![CDATA[How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It]]></title>
+        <id>6ab19a268fed0cf1f0fe1645</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-reading-focused-blog-with-python-markdown-and-github-pages-for-free/"/>
+        <updated>2026-09-21T20:57:10.000Z</updated>
+        <summary type="html"><![CDATA[I've been following a tufte-jekyll styled blog for a couple of years and that led me to discover Edward Tufte's book layout. Edward Tufte is renowned for his work on data visualization and information]]></summary>
+        <author>
+            <name>brooklyn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)]]></title>
+        <id>6ab11bd3c0a4b6fb82bc1891</id>
+        <link href="https://www.freecodecamp.org/news/why-you-should-never-embed-your-gemini-api-key-in-client-code-and-how-firebase-ai-logic-fixes-it/"/>
+        <updated>2026-09-21T11:58:11.000Z</updated>
+        <summary type="html"><![CDATA[The explosion of generative AI has pushed thousands of web developers to add intelligent features to their apps. The first instinct is usually to call the Gemini API's SDK directly from the browser. T]]></summary>
+        <author>
+            <name>Caleb Mintoumba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a GraphRAG System with Python, Neo4j and ServiceNow [Full Book]]]></title>
         <id>6aaec6a4bd97d368f64a3819</id>
         <link href="https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/"/>
         <updated>2026-09-19T17:30:12.000Z</updated>
@@ -83,26 +103,6 @@
         <summary type="html"><![CDATA[Large legacy migrations often fail long before the final cutover. The failure usually starts when the migration is framed as a single event. Move the application. Move the database. Move all the users]]></summary>
         <author>
             <name>Hugo Teijiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy]]></title>
-        <id>6aac2aabd02a5d838577063a</id>
-        <link href="https://www.freecodecamp.org/news/hands-on-evolution-of-deep-learning-geoffrey-hinton-s-ai-legacy/"/>
-        <updated>2026-09-17T18:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Geoffrey Hinton is known as the "the Godfather of AI". We just published a course on the freeCodeCamp.org YouTube channel that will help you master modern neural networks by recreating the groundbreak]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Deploy, Secure, and Automate Full-Stack Web Apps]]></title>
-        <id>6aaab59285cf18b4c5072002</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-deploy-secure-and-automate-full-stack-web-apps/"/>
-        <updated>2026-09-16T15:28:18.000Z</updated>
-        <summary type="html"><![CDATA[Taking a web application from local development to a live, secure production environment can be daunting if you've never looked under the hood. We just published a comprehensive course on the freeCode]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
