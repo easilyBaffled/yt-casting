@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-22T04:26:55.637Z</id>
+    <id>urn:2026-09-23T04:23:52.157Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-22T04:26:55.637Z</updated>
+    <updated>2026-09-23T04:23:52.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -218,17 +218,6 @@ MicroLighter: Syntax Highlighter originally handwritten and published with love 
         <summary type="html"><![CDATA[Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Pierre Burgy)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress PHP-Only Block Registration]]></title>
-        <id>https://css-tricks.com/?p=395401</id>
-        <link href="https://css-tricks.com/wordpress-php-block-registration/"/>
-        <updated>2026-08-24T13:54:02.000Z</updated>
-        <summary type="html"><![CDATA[Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.
-WordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Fränk Klein</name>
         </author>
     </entry>
 </feed>
