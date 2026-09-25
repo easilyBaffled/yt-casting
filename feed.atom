@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-24T04:21:18.978Z</id>
+    <id>urn:2026-09-25T04:31:50.045Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-24T04:21:18.978Z</updated>
+    <updated>2026-09-25T04:31:50.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Inside SeaHack: 24 Hours to Build an AI Startup]]></title>
+        <id>6ab571b05974dad13c5d246d</id>
+        <link href="https://www.freecodecamp.org/news/inside-seahack-24-hours-to-build-an-ai-startup/"/>
+        <updated>2026-09-24T18:53:36.000Z</updated>
+        <summary type="html"><![CDATA[We just published a new documentary-style video on the freeCodeCamp channel that takes you behind the scenes of a high-energy 24-hour hackathon. Quincy Larson traveled to Hong Kong to serve as a judge]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Executable Operational Specifications Can Make Software Automation Verifiable]]></title>
+        <id>6ab54b145ca9fc6a257ae996</id>
+        <link href="https://www.freecodecamp.org/news/executable-operational-specifications-software-automation/"/>
+        <updated>2026-09-24T16:08:52.000Z</updated>
+        <summary type="html"><![CDATA[Modern software systems are increasingly automated. We automate deployments, infrastructure changes, scaling, incident response, and data pipelines. And now, with AI agents, we are starting to automat]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TimescaleDB Course – PostgreSQL for Time-Series Data]]></title>
+        <id>6ab48545d92eea5d2a3fdd77</id>
+        <link href="https://www.freecodecamp.org/news/timescaledb-course-postgresql-for-time-series-data/"/>
+        <updated>2026-09-24T02:04:53.000Z</updated>
+        <summary type="html"><![CDATA[Managing massive, rapidly growing datasets efficiently is a critical skill for modern developers. Whether you are tracking API request logs, monitoring IoT fleet telemetry, or building dashboards for]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlock the Power of AI Agents with the New Claude Certified Developer Foundations Course]]></title>
+        <id>6ab4839814d7392aab4c52af</id>
+        <link href="https://www.freecodecamp.org/news/unlock-the-power-of-ai-agents-with-the-new-claude-certified-developer-foundations-course/"/>
+        <updated>2026-09-24T01:57:44.000Z</updated>
+        <summary type="html"><![CDATA[Are you a software engineer looking to master building production-ready AI applications and agentic workflows? We've just published a brand new, comprehensive course on the freeCodeCamp.org YouTube ch]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window]]></title>
         <id>6ab43e2cfffa4387fa43a9db</id>
@@ -63,46 +103,6 @@
         <summary type="html"><![CDATA[Hold an iPhone near a sticker and something happens. A business card lands in your contacts, a focus session ends, or a door opens. The chip costs about twenty pence and holds roughly a hundred and th]]></summary>
         <author>
             <name>Farouq Seriki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Turn a RECIST Line into a 3D Tumor Segmentation Mask]]></title>
-        <id>6aadae08b3c208add9878388</id>
-        <link href="https://www.freecodecamp.org/news/how-to-turn-a-recist-line-into-a-3d-tumor-segmentation-mask/"/>
-        <updated>2026-09-18T21:32:56.000Z</updated>
-        <summary type="html"><![CDATA[A radiologist can mark a tumor on a CT scan by drawing a straight line across it. Creating a complete 3D segmentation requires outlining the tumor across the slices where it appears, which is more tim]]></summary>
-        <author>
-            <name>Lakshmi Mahabaleshwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Coding Assistants Can Help You Debug Without Writing the Code for You]]></title>
-        <id>6aadadc0f205881df958e884</id>
-        <link href="https://www.freecodecamp.org/news/how-ai-coding-assistants-can-help-you-debug-without-writing-the-code-for-you/"/>
-        <updated>2026-09-18T21:31:44.000Z</updated>
-        <summary type="html"><![CDATA[AI coding assistants have become really good at fixing code. Paste an error into an AI tool and, within seconds, you'll get a corrected implementation. That's useful when you simply want to get someth]]></summary>
-        <author>
-            <name>GAYATHRI BOLINENI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Prevent Poisoned GitHub Actions Dependencies]]></title>
-        <id>6aad60c103851fe98f2df4a2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-prevent-poisoned-github-actions-dependencies/"/>
-        <updated>2026-09-18T16:03:13.000Z</updated>
-        <summary type="html"><![CDATA[Your workflow uses actions/checkout@v4. Today, that tag points to a vetted release. Tomorrow, a compromised maintainer or attacker moves the tag to malicious code. Your pipeline runs it with access to]]></summary>
-        <author>
-            <name>ILYAS RUFAI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript]]></title>
-        <id>6aad5cf52b32e1bee69c90a8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-bulk-image-compressor-tool-with-html-css-and-javascript/"/>
-        <updated>2026-09-18T15:47:01.000Z</updated>
-        <summary type="html"><![CDATA[High-resolution images look great, but they can significantly slow down page load times and consume massive amounts of storage. While backend compression tools are common, building a client-side image]]></summary>
-        <author>
-            <name>Bansidhar Kadiya</name>
         </author>
     </entry>
     <entry>
@@ -176,27 +176,6 @@ What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature()
 Creating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[animation-trigger]]></title>
-        <id>https://css-tricks.com/?page_id=394713</id>
-        <link href="https://css-tricks.com/almanac/properties/a/animation-trigger/"/>
-        <updated>2026-08-26T15:38:41.000Z</updated>
-        <summary type="html"><![CDATA[The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.
-animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Saleh Mubashar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions]]></title>
-        <id>https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/</id>
-        <link href="https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/"/>
-        <updated>2026-08-26T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Meriem Benhabiles)</name>
         </author>
     </entry>
 </feed>

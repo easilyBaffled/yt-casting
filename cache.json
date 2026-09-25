@@ -17,7 +17,7 @@
           "description": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-random-function-polyfill/",
           "publishedOn": "2026-08-31T15:12:19.000Z",
-          "wordCount": 6438,
+          "wordCount": 6517,
           "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/random-stars-shuffle.webp"
         },
@@ -27,7 +27,7 @@
           "description": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.\nWhat’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-18/",
           "publishedOn": "2026-08-31T14:08:55.000Z",
-          "wordCount": 3660,
+          "wordCount": 3739,
           "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi18.jpg"
         },
@@ -37,19 +37,9 @@
           "description": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
           "publishedOn": "2026-08-27T14:41:06.000Z",
-          "wordCount": 4086,
+          "wordCount": 4165,
           "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/05/framed-image.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=394713",
-          "author": "Saleh Mubashar",
-          "description": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
-          "publishedOn": "2026-08-26T15:38:41.000Z",
-          "wordCount": 4442,
-          "title": "animation-trigger",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         }
       ]
     },
@@ -64,7 +54,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5029,
+          "wordCount": 5023,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -79,7 +69,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5450,
+          "wordCount": 5452,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -94,7 +84,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4571,
+          "wordCount": 4567,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -109,7 +99,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4760,
           "title": "The Many Faces Of September (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -117,21 +107,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
-          "author": "hello@smashingmagazine.com (Meriem Benhabiles)",
-          "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
-          "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
-          "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg"
         }
       ]
     },
@@ -141,12 +116,52 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6ab571b05974dad13c5d246d",
+          "author": "Beau Carnes",
+          "description": "We just published a new documentary-style video on the freeCodeCamp channel that takes you behind the scenes of a high-energy 24-hour hackathon. Quincy Larson traveled to Hong Kong to serve as a judge",
+          "link": "https://www.freecodecamp.org/news/inside-seahack-24-hours-to-build-an-ai-startup/",
+          "publishedOn": "2026-09-24T18:53:36.000Z",
+          "wordCount": 1300,
+          "title": "Inside SeaHack: 24 Hours to Build an AI Startup",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/db9790c4-39b4-457d-9748-213dbc1c7de8.jpg"
+        },
+        {
+          "id": "6ab54b145ca9fc6a257ae996",
+          "author": "Hugo Teijiz",
+          "description": "Modern software systems are increasingly automated. We automate deployments, infrastructure changes, scaling, incident response, and data pipelines. And now, with AI agents, we are starting to automat",
+          "link": "https://www.freecodecamp.org/news/executable-operational-specifications-software-automation/",
+          "publishedOn": "2026-09-24T16:08:52.000Z",
+          "wordCount": 4189,
+          "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/1f1ae0c4-da67-46b6-ae60-c22aa29fc517.png"
+        },
+        {
+          "id": "6ab48545d92eea5d2a3fdd77",
+          "author": "Beau Carnes",
+          "description": "Managing massive, rapidly growing datasets efficiently is a critical skill for modern developers. Whether you are tracking API request logs, monitoring IoT fleet telemetry, or building dashboards for",
+          "link": "https://www.freecodecamp.org/news/timescaledb-course-postgresql-for-time-series-data/",
+          "publishedOn": "2026-09-24T02:04:53.000Z",
+          "wordCount": 1208,
+          "title": "TimescaleDB Course – PostgreSQL for Time-Series Data",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7f80f393-8745-47c8-b5ad-03cceb530a1f.jpg"
+        },
+        {
+          "id": "6ab4839814d7392aab4c52af",
+          "author": "Beau Carnes",
+          "description": "Are you a software engineer looking to master building production-ready AI applications and agentic workflows? We've just published a brand new, comprehensive course on the freeCodeCamp.org YouTube ch",
+          "link": "https://www.freecodecamp.org/news/unlock-the-power-of-ai-agents-with-the-new-claude-certified-developer-foundations-course/",
+          "publishedOn": "2026-09-24T01:57:44.000Z",
+          "wordCount": 1137,
+          "title": "Unlock the Power of AI Agents with the New Claude Certified Developer Foundations Course",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/a839fb34-5683-45bf-a3ea-138ac12b79ec.jpg"
+        },
+        {
           "id": "6ab43e2cfffa4387fa43a9db",
           "author": "Oluwaseyi Fatunmole",
           "description": "When I published my package on pub.dev, the first few days were exciting as the number of downloads climbed. 201 downloads in a few days! Then something strange happened. The number dropped: 120, then",
           "link": "https://www.freecodecamp.org/news/build-a-dart-package-analytics-tool-with-the-pub-dev-api/",
           "publishedOn": "2026-09-23T21:01:32.000Z",
-          "wordCount": 3920,
+          "wordCount": 3917,
           "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/eedcb9fa-4e77-430d-afea-9b2b76565dbf.png"
         },
@@ -199,46 +214,6 @@
           "wordCount": 14221,
           "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6e58f5f5-1bf1-4030-b3d2-f9b1617637c1.png"
-        },
-        {
-          "id": "6aadae08b3c208add9878388",
-          "author": "Lakshmi Mahabaleshwara",
-          "description": "A radiologist can mark a tumor on a CT scan by drawing a straight line across it. Creating a complete 3D segmentation requires outlining the tumor across the slices where it appears, which is more tim",
-          "link": "https://www.freecodecamp.org/news/how-to-turn-a-recist-line-into-a-3d-tumor-segmentation-mask/",
-          "publishedOn": "2026-09-18T21:32:56.000Z",
-          "wordCount": 4763,
-          "title": "How to Turn a RECIST Line into a 3D Tumor Segmentation Mask",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bde6732f-ad81-4a51-8939-ec74637d09e6.png"
-        },
-        {
-          "id": "6aadadc0f205881df958e884",
-          "author": "GAYATHRI BOLINENI",
-          "description": "AI coding assistants have become really good at fixing code. Paste an error into an AI tool and, within seconds, you'll get a corrected implementation. That's useful when you simply want to get someth",
-          "link": "https://www.freecodecamp.org/news/how-ai-coding-assistants-can-help-you-debug-without-writing-the-code-for-you/",
-          "publishedOn": "2026-09-18T21:31:44.000Z",
-          "wordCount": 4751,
-          "title": "How AI Coding Assistants Can Help You Debug Without Writing the Code for You",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b42d645f-44fd-408c-860f-bb187cdcbb02.png"
-        },
-        {
-          "id": "6aad60c103851fe98f2df4a2",
-          "author": "ILYAS RUFAI",
-          "description": "Your workflow uses actions/checkout@v4. Today, that tag points to a vetted release. Tomorrow, a compromised maintainer or attacker moves the tag to malicious code. Your pipeline runs it with access to",
-          "link": "https://www.freecodecamp.org/news/how-to-prevent-poisoned-github-actions-dependencies/",
-          "publishedOn": "2026-09-18T16:03:13.000Z",
-          "wordCount": 2629,
-          "title": "How to Prevent Poisoned GitHub Actions Dependencies",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c5ac930c-aa14-434e-a712-48102cc88e44.png"
-        },
-        {
-          "id": "6aad5cf52b32e1bee69c90a8",
-          "author": "Bansidhar Kadiya",
-          "description": "High-resolution images look great, but they can significantly slow down page load times and consume massive amounts of storage. While backend compression tools are common, building a client-side image",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-bulk-image-compressor-tool-with-html-css-and-javascript/",
-          "publishedOn": "2026-09-18T15:47:01.000Z",
-          "wordCount": 2446,
-          "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f0d7a939-276b-4eb9-a380-6f376997dbe6.png"
         }
       ]
     }
