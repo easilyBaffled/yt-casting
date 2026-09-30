@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-29T05:22:27.076Z</id>
+    <id>urn:2026-09-30T05:10:04.529Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-29T05:22:27.076Z</updated>
+    <updated>2026-09-30T05:10:04.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Python Algorithmic Trading with SnapTrade, Massive, Alpaca]]></title>
+        <id>6abbcab8bf5e373dfc4ceff1</id>
+        <link href="https://www.freecodecamp.org/news/python-algorithmic-trading-with-snaptrade-massive-alpaca/"/>
+        <updated>2026-09-29T14:27:04.000Z</updated>
+        <summary type="html"><![CDATA[We just published a comprehensive, hands-on video course on the freeCodeCamp.org YouTube channel that will teach you how to build an automated, end-to-end algorithmic trading system from scratch using]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Reliable AI Assistant with the Claude API]]></title>
+        <id>6abbc1526882db86928eaf11</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-reliable-ai-assistant-with-the-claude-api/"/>
+        <updated>2026-09-29T13:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Large language models can answer questions, summarise documents, write code, and interact with external systems. But building a reliable AI application requires more than sending a prompt and displayi]]></summary>
+        <author>
+            <name>Chidozie Managwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Fullscreen API in JavaScript (and Keep the Screen Awake with the Wake Lock API)]]></title>
+        <id>6abbbdbe89f93b150a3b95f4</id>
+        <link href="https://www.freecodecamp.org/news/fullscreen-api-javascript-wake-lock/"/>
+        <updated>2026-09-29T13:31:42.000Z</updated>
+        <summary type="html"><![CDATA[Sooner or later, most front-end developers hit the same request: "Can this take up the whole screen?" A slide deck, a video player, kiosk dashboard, game, drawing canvas, or timer on a classroom proje]]></summary>
+        <author>
+            <name>Alex Oliinyk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How ORMs Still Let SQL Injection Through (and How to Close the Gaps)]]></title>
+        <id>6abb5c6f814bf2c63668f9fc</id>
+        <link href="https://www.freecodecamp.org/news/how-orms-still-let-sql-injection-through-and-how-to-close-the-gaps/"/>
+        <updated>2026-09-29T06:36:31.000Z</updated>
+        <summary type="html"><![CDATA[A lot of developers assume that once they're on an ORM, SQL injection stops being their problem. But it doesn't disappear. It just relocates. ORMs like Sequelize, Prisma, TypeORM, and Knex parameteriz]]></summary>
+        <author>
+            <name>Hackita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev]]></title>
+        <id>6abb5959f5b6d1ca628c8ee5</id>
+        <link href="https://www.freecodecamp.org/news/build-an-ai-resume-screening-tool-with-next-js-supabase-and-typesafe-jev/"/>
+        <updated>2026-09-29T06:23:21.000Z</updated>
+        <summary type="html"><![CDATA[When we post an engineering job, we get 300 to 400 résumés in a week. Reading each one carefully takes about two minutes. That adds up to eleven hours of work for just one opening, before any intervie]]></summary>
+        <author>
+            <name>Sharvin Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Govern AI-Generated Infrastructure with Policy as Code and OPA [Full Handbook]]]></title>
+        <id>6abb5903c40275b1ceb5b613</id>
+        <link href="https://www.freecodecamp.org/news/how-to-govern-ai-generated-infrastructure-with-policy-as-code-and-opa-full-handbook/"/>
+        <updated>2026-09-29T06:21:55.000Z</updated>
+        <summary type="html"><![CDATA[Modern models generate syntactically correct code nearly 100% of the time. Veracode's 2026 report puts it plainly: "Syntax is effectively solved." That reads like a milestone, but it's the reason you]]></summary>
+        <author>
+            <name>Kayode Adeniyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Software Automation Needs a Layer Between Intent and Execution]]></title>
+        <id>6abb57d97eb0e171af50644b</id>
+        <link href="https://www.freecodecamp.org/news/software-automation-intent-execution-layer/"/>
+        <updated>2026-09-29T06:16:57.000Z</updated>
+        <summary type="html"><![CDATA[Software automation is good at turning instructions into actions. A pipeline can deploy a release, Terraform can provision infrastructure, a runbook can restart a service, or an agent can inspect tele]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator]]></title>
         <id>6ab8cc5b58666cf6e3b71086</id>
@@ -36,76 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TimescaleDB Course – PostgreSQL for Time-Series Data]]></title>
-        <id>6ab48545d92eea5d2a3fdd77</id>
-        <link href="https://www.freecodecamp.org/news/timescaledb-course-postgresql-for-time-series-data/"/>
-        <updated>2026-09-24T02:04:53.000Z</updated>
-        <summary type="html"><![CDATA[Managing massive, rapidly growing datasets efficiently is a critical skill for modern developers. Whether you are tracking API request logs, monitoring IoT fleet telemetry, or building dashboards for]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlock the Power of AI Agents with the New Claude Certified Developer Foundations Course]]></title>
-        <id>6ab4839814d7392aab4c52af</id>
-        <link href="https://www.freecodecamp.org/news/unlock-the-power-of-ai-agents-with-the-new-claude-certified-developer-foundations-course/"/>
-        <updated>2026-09-24T01:57:44.000Z</updated>
-        <summary type="html"><![CDATA[Are you a software engineer looking to master building production-ready AI applications and agentic workflows? We've just published a brand new, comprehensive course on the freeCodeCamp.org YouTube ch]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window]]></title>
-        <id>6ab43e2cfffa4387fa43a9db</id>
-        <link href="https://www.freecodecamp.org/news/build-a-dart-package-analytics-tool-with-the-pub-dev-api/"/>
-        <updated>2026-09-23T21:01:32.000Z</updated>
-        <summary type="html"><![CDATA[When I published my package on pub.dev, the first few days were exciting as the number of downloads climbed. 201 downloads in a few days! Then something strange happened. The number dropped: 120, then]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It]]></title>
-        <id>6ab19a268fed0cf1f0fe1645</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-reading-focused-blog-with-python-markdown-and-github-pages-for-free/"/>
-        <updated>2026-09-21T20:57:10.000Z</updated>
-        <summary type="html"><![CDATA[I've been following a tufte-jekyll styled blog for a couple of years and that led me to discover Edward Tufte's book layout. Edward Tufte is renowned for his work on data visualization and information]]></summary>
-        <author>
-            <name>brooklyn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)]]></title>
-        <id>6ab11bd3c0a4b6fb82bc1891</id>
-        <link href="https://www.freecodecamp.org/news/why-you-should-never-embed-your-gemini-api-key-in-client-code-and-how-firebase-ai-logic-fixes-it/"/>
-        <updated>2026-09-21T11:58:11.000Z</updated>
-        <summary type="html"><![CDATA[The explosion of generative AI has pushed thousands of web developers to add intelligent features to their apps. The first instinct is usually to call the Gemini API's SDK directly from the browser. T]]></summary>
-        <author>
-            <name>Caleb Mintoumba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a GraphRAG System with Python, Neo4j and ServiceNow [Full Book]]]></title>
-        <id>6aaec6a4bd97d368f64a3819</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/"/>
-        <updated>2026-09-19T17:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Somewhere in your company's ServiceNow instance is the answer to the question an engineer asks at two in the morning: if this is broken, what else is about to break? Every fact needed to answer it has]]></summary>
-        <author>
-            <name>RONI DAS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph]]></title>
-        <id>6aaec60b559dfa1d9e4f1ddc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/"/>
-        <updated>2026-09-19T17:27:39.000Z</updated>
-        <summary type="html"><![CDATA[Some time ago, I gave a machine learning model five columns from a public CDC dataset and asked it to predict a sixth column from the same file. The model scored an R² of 0.998, which is about as clos]]></summary>
-        <author>
-            <name>Kayode Adeniyi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stop Treating CSS Container Queries Like Traditional Media Queries]]></title>
         <id>https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/</id>
         <link href="https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"/>
@@ -133,38 +133,6 @@
         <summary type="html"><![CDATA[TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s Use the Emergent CSS random() Function in all the Browsers]]></title>
-        <id>https://css-tricks.com/?p=396630</id>
-        <link href="https://css-tricks.com/css-random-function-polyfill/"/>
-        <updated>2026-08-31T15:12:19.000Z</updated>
-        <summary type="html"><![CDATA[The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.
-Let’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More]]></title>
-        <id>https://css-tricks.com/?p=396738</id>
-        <link href="https://css-tricks.com/whats-important-18/"/>
-        <updated>2026-08-31T14:08:55.000Z</updated>
-        <summary type="html"><![CDATA[Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.
-What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Many Faces Of September (2026 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/</id>
-        <link href="https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/"/>
-        <updated>2026-08-31T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>

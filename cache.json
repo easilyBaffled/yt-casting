@@ -10,28 +10,7 @@
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=396630",
-          "author": "Lee Meyer",
-          "description": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-random-function-polyfill/",
-          "publishedOn": "2026-08-31T15:12:19.000Z",
-          "wordCount": 6517,
-          "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/random-stars-shuffle.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396738",
-          "author": "Daniel Schwarz",
-          "description": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.\nWhat’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-18/",
-          "publishedOn": "2026-08-31T14:08:55.000Z",
-          "wordCount": 3739,
-          "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi18.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
@@ -44,7 +23,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5021,
+          "wordCount": 5030,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -59,7 +38,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5456,
+          "wordCount": 5457,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -74,7 +53,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4566,
+          "wordCount": 4573,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -82,21 +61,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
-          "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
-          "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4763,
-          "title": "The Many Faces Of September (2026 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png"
         }
       ]
     },
@@ -106,12 +70,82 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6abbcab8bf5e373dfc4ceff1",
+          "author": "Beau Carnes",
+          "description": "We just published a comprehensive, hands-on video course on the freeCodeCamp.org YouTube channel that will teach you how to build an automated, end-to-end algorithmic trading system from scratch using",
+          "link": "https://www.freecodecamp.org/news/python-algorithmic-trading-with-snaptrade-massive-alpaca/",
+          "publishedOn": "2026-09-29T14:27:04.000Z",
+          "wordCount": 1359,
+          "title": "Python Algorithmic Trading with SnapTrade, Massive, Alpaca",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/6fcf5557-9b44-40d4-93ec-bad5151625be.png"
+        },
+        {
+          "id": "6abbc1526882db86928eaf11",
+          "author": "Chidozie Managwu",
+          "description": "Large language models can answer questions, summarise documents, write code, and interact with external systems. But building a reliable AI application requires more than sending a prompt and displayi",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-reliable-ai-assistant-with-the-claude-api/",
+          "publishedOn": "2026-09-29T13:46:58.000Z",
+          "wordCount": 3312,
+          "title": "How to Build a Reliable AI Assistant with the Claude API",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c4c96758-54f5-4b88-9f00-639ecff705f9.png"
+        },
+        {
+          "id": "6abbbdbe89f93b150a3b95f4",
+          "author": "Alex Oliinyk",
+          "description": "Sooner or later, most front-end developers hit the same request: \"Can this take up the whole screen?\" A slide deck, a video player, kiosk dashboard, game, drawing canvas, or timer on a classroom proje",
+          "link": "https://www.freecodecamp.org/news/fullscreen-api-javascript-wake-lock/",
+          "publishedOn": "2026-09-29T13:31:42.000Z",
+          "wordCount": 4487,
+          "title": "How to Use the Fullscreen API in JavaScript (and Keep the Screen Awake with the Wake Lock API)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/32fd0d68-ea3d-40c2-8653-449de3d514f1.png"
+        },
+        {
+          "id": "6abb5c6f814bf2c63668f9fc",
+          "author": "Hackita",
+          "description": "A lot of developers assume that once they're on an ORM, SQL injection stops being their problem. But it doesn't disappear. It just relocates. ORMs like Sequelize, Prisma, TypeORM, and Knex parameteriz",
+          "link": "https://www.freecodecamp.org/news/how-orms-still-let-sql-injection-through-and-how-to-close-the-gaps/",
+          "publishedOn": "2026-09-29T06:36:31.000Z",
+          "wordCount": 3034,
+          "title": "How ORMs Still Let SQL Injection Through (and How to Close the Gaps)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9e1f15e5-de00-4533-8349-70620154f7ef.png"
+        },
+        {
+          "id": "6abb5959f5b6d1ca628c8ee5",
+          "author": "Sharvin Shah",
+          "description": "When we post an engineering job, we get 300 to 400 résumés in a week. Reading each one carefully takes about two minutes. That adds up to eleven hours of work for just one opening, before any intervie",
+          "link": "https://www.freecodecamp.org/news/build-an-ai-resume-screening-tool-with-next-js-supabase-and-typesafe-jev/",
+          "publishedOn": "2026-09-29T06:23:21.000Z",
+          "wordCount": 20170,
+          "title": "How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8a1735b1-52f1-42d9-b3f9-afb097277200.png"
+        },
+        {
+          "id": "6abb5903c40275b1ceb5b613",
+          "author": "Kayode Adeniyi",
+          "description": "Modern models generate syntactically correct code nearly 100% of the time. Veracode's 2026 report puts it plainly: \"Syntax is effectively solved.\" That reads like a milestone, but it's the reason you",
+          "link": "https://www.freecodecamp.org/news/how-to-govern-ai-generated-infrastructure-with-policy-as-code-and-opa-full-handbook/",
+          "publishedOn": "2026-09-29T06:21:55.000Z",
+          "wordCount": 9106,
+          "title": "How to Govern AI-Generated Infrastructure with Policy as Code and OPA [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4208eef0-1dac-4b7d-89d7-28622a4d7825.png"
+        },
+        {
+          "id": "6abb57d97eb0e171af50644b",
+          "author": "Hugo Teijiz",
+          "description": "Software automation is good at turning instructions into actions. A pipeline can deploy a release, Terraform can provision infrastructure, a runbook can restart a service, or an agent can inspect tele",
+          "link": "https://www.freecodecamp.org/news/software-automation-intent-execution-layer/",
+          "publishedOn": "2026-09-29T06:16:57.000Z",
+          "wordCount": 4120,
+          "title": "Why Software Automation Needs a Layer Between Intent and Execution",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/eb21a403-1e0d-46a4-a8b5-2dbb98095cdd.png"
+        },
+        {
           "id": "6ab8cc5b58666cf6e3b71086",
           "author": "Casmir Onyekani",
           "description": "Until recently, building a technical writing portfolio could be as simple as creating a website, adding a list of articles, describing your writing experience, and linking to your social profiles. Tha",
           "link": "https://www.freecodecamp.org/news/how-to-level-up-your-portfolio-in-the-ai-era-from-technical-writer-to-developer-educator/",
           "publishedOn": "2026-09-27T07:57:15.000Z",
-          "wordCount": 5534,
+          "wordCount": 5538,
           "title": "How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d611049d-c9ed-4083-b3bc-f203ba7b42ff.png"
         },
@@ -121,7 +155,7 @@
           "description": "We just published a new documentary-style video on the freeCodeCamp channel that takes you behind the scenes of a high-energy 24-hour hackathon. Quincy Larson traveled to Hong Kong to serve as a judge",
           "link": "https://www.freecodecamp.org/news/inside-seahack-24-hours-to-build-an-ai-startup/",
           "publishedOn": "2026-09-24T18:53:36.000Z",
-          "wordCount": 1647,
+          "wordCount": 1615,
           "title": "Inside a Hong Kong Hackathon [Full freeCodeCamp Documentary]",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/db9790c4-39b4-457d-9748-213dbc1c7de8.jpg"
         },
@@ -134,76 +168,6 @@
           "wordCount": 4458,
           "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/1f1ae0c4-da67-46b6-ae60-c22aa29fc517.png"
-        },
-        {
-          "id": "6ab48545d92eea5d2a3fdd77",
-          "author": "Beau Carnes",
-          "description": "Managing massive, rapidly growing datasets efficiently is a critical skill for modern developers. Whether you are tracking API request logs, monitoring IoT fleet telemetry, or building dashboards for",
-          "link": "https://www.freecodecamp.org/news/timescaledb-course-postgresql-for-time-series-data/",
-          "publishedOn": "2026-09-24T02:04:53.000Z",
-          "wordCount": 1513,
-          "title": "TimescaleDB Course – PostgreSQL for Time-Series Data",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7f80f393-8745-47c8-b5ad-03cceb530a1f.jpg"
-        },
-        {
-          "id": "6ab4839814d7392aab4c52af",
-          "author": "Beau Carnes",
-          "description": "Are you a software engineer looking to master building production-ready AI applications and agentic workflows? We've just published a brand new, comprehensive course on the freeCodeCamp.org YouTube ch",
-          "link": "https://www.freecodecamp.org/news/unlock-the-power-of-ai-agents-with-the-new-claude-certified-developer-foundations-course/",
-          "publishedOn": "2026-09-24T01:57:44.000Z",
-          "wordCount": 1456,
-          "title": "Unlock the Power of AI Agents with the New Claude Certified Developer Foundations Course",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/a839fb34-5683-45bf-a3ea-138ac12b79ec.jpg"
-        },
-        {
-          "id": "6ab43e2cfffa4387fa43a9db",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "When I published my package on pub.dev, the first few days were exciting as the number of downloads climbed. 201 downloads in a few days! Then something strange happened. The number dropped: 120, then",
-          "link": "https://www.freecodecamp.org/news/build-a-dart-package-analytics-tool-with-the-pub-dev-api/",
-          "publishedOn": "2026-09-23T21:01:32.000Z",
-          "wordCount": 4222,
-          "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/eedcb9fa-4e77-430d-afea-9b2b76565dbf.png"
-        },
-        {
-          "id": "6ab19a268fed0cf1f0fe1645",
-          "author": "brooklyn",
-          "description": "I've been following a tufte-jekyll styled blog for a couple of years and that led me to discover Edward Tufte's book layout. Edward Tufte is renowned for his work on data visualization and information",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-reading-focused-blog-with-python-markdown-and-github-pages-for-free/",
-          "publishedOn": "2026-09-21T20:57:10.000Z",
-          "wordCount": 5582,
-          "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1691ded5-fe4e-405e-aa70-19cd95a700da.png"
-        },
-        {
-          "id": "6ab11bd3c0a4b6fb82bc1891",
-          "author": "Caleb Mintoumba",
-          "description": "The explosion of generative AI has pushed thousands of web developers to add intelligent features to their apps. The first instinct is usually to call the Gemini API's SDK directly from the browser. T",
-          "link": "https://www.freecodecamp.org/news/why-you-should-never-embed-your-gemini-api-key-in-client-code-and-how-firebase-ai-logic-fixes-it/",
-          "publishedOn": "2026-09-21T11:58:11.000Z",
-          "wordCount": 4039,
-          "title": "Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3a42885a-9cac-4fbc-8fac-affbafd7785c.png"
-        },
-        {
-          "id": "6aaec6a4bd97d368f64a3819",
-          "author": "RONI DAS",
-          "description": "Somewhere in your company's ServiceNow instance is the answer to the question an engineer asks at two in the morning: if this is broken, what else is about to break? Every fact needed to answer it has",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/",
-          "publishedOn": "2026-09-19T17:30:12.000Z",
-          "wordCount": 77481,
-          "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow [Full Book]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3a3e0991-8574-4569-91b3-b68fbc58a210.png"
-        },
-        {
-          "id": "6aaec60b559dfa1d9e4f1ddc",
-          "author": "Kayode Adeniyi",
-          "description": "Some time ago, I gave a machine learning model five columns from a public CDC dataset and asked it to predict a sixth column from the same file. The model scored an R² of 0.998, which is about as clos",
-          "link": "https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/",
-          "publishedOn": "2026-09-19T17:27:39.000Z",
-          "wordCount": 7676,
-          "title": "How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f1cfd03f-8ff0-4dcb-8282-f7fac7c5fe04.png"
         }
       ]
     }
