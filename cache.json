@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
+          "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
+          "publishedOn": "2026-09-30T13:30:00.000Z",
+          "wordCount": 4643,
+          "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "author": "hello@smashingmagazine.com (Victor Ayomipo)",
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5030,
+          "wordCount": 5023,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -38,7 +53,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5457,
+          "wordCount": 5452,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -53,7 +68,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4573,
+          "wordCount": 4570,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -69,6 +84,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6abca43ca3fbe2215db75ecf",
+          "author": "Bansidhar Kadiya",
+          "description": "Whether you're writing an essay, a tweet, or a blog post, keeping track of your word and character count is very important. In this tutorial, you'll build a fully functional, real-time Word Counter to",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-real-time-word-counter-tool-with-html-css-and-javascript/",
+          "publishedOn": "2026-09-30T05:55:08.000Z",
+          "wordCount": 2541,
+          "title": "How to Build a Real-Time Word Counter Tool with HTML, CSS, and JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d32feb51-3930-4bd7-be76-9a9150d069d1.png"
+        },
+        {
+          "id": "6abca2f9f944d026311c7f7b",
+          "author": "Gursimar Singh",
+          "description": "It's Thursday, around quarter past two. Your team shipped an internal assistant two weeks ago. The demo went well enough that someone in finance asked whether it could read contracts. Word spread. Tod",
+          "link": "https://www.freecodecamp.org/news/how-to-diagnose-and-fix-ai-inference-latency-on-kubernetes/",
+          "publishedOn": "2026-09-30T05:49:45.000Z",
+          "wordCount": 5119,
+          "title": "How to Diagnose and Fix AI Inference Latency on Kubernetes",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4ab24802-80a3-43bb-a432-28f18d1f777e.png"
+        },
         {
           "id": "6abbcab8bf5e373dfc4ceff1",
           "author": "Beau Carnes",
@@ -135,7 +170,7 @@
           "description": "Software automation is good at turning instructions into actions. A pipeline can deploy a release, Terraform can provision infrastructure, a runbook can restart a service, or an agent can inspect tele",
           "link": "https://www.freecodecamp.org/news/software-automation-intent-execution-layer/",
           "publishedOn": "2026-09-29T06:16:57.000Z",
-          "wordCount": 4120,
+          "wordCount": 4122,
           "title": "Why Software Automation Needs a Layer Between Intent and Execution",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/eb21a403-1e0d-46a4-a8b5-2dbb98095cdd.png"
         },
@@ -145,29 +180,9 @@
           "description": "Until recently, building a technical writing portfolio could be as simple as creating a website, adding a list of articles, describing your writing experience, and linking to your social profiles. Tha",
           "link": "https://www.freecodecamp.org/news/how-to-level-up-your-portfolio-in-the-ai-era-from-technical-writer-to-developer-educator/",
           "publishedOn": "2026-09-27T07:57:15.000Z",
-          "wordCount": 5538,
+          "wordCount": 5534,
           "title": "How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d611049d-c9ed-4083-b3bc-f203ba7b42ff.png"
-        },
-        {
-          "id": "6ab571b05974dad13c5d246d",
-          "author": "Beau Carnes",
-          "description": "We just published a new documentary-style video on the freeCodeCamp channel that takes you behind the scenes of a high-energy 24-hour hackathon. Quincy Larson traveled to Hong Kong to serve as a judge",
-          "link": "https://www.freecodecamp.org/news/inside-seahack-24-hours-to-build-an-ai-startup/",
-          "publishedOn": "2026-09-24T18:53:36.000Z",
-          "wordCount": 1615,
-          "title": "Inside a Hong Kong Hackathon [Full freeCodeCamp Documentary]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/db9790c4-39b4-457d-9748-213dbc1c7de8.jpg"
-        },
-        {
-          "id": "6ab54b145ca9fc6a257ae996",
-          "author": "Hugo Teijiz",
-          "description": "Modern software systems are increasingly automated. We automate deployments, infrastructure changes, scaling, incident response, and data pipelines. And now, with AI agents, we are starting to automat",
-          "link": "https://www.freecodecamp.org/news/executable-operational-specifications-software-automation/",
-          "publishedOn": "2026-09-24T16:08:52.000Z",
-          "wordCount": 4458,
-          "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/1f1ae0c4-da67-46b6-ae60-c22aa29fc517.png"
         }
       ]
     }

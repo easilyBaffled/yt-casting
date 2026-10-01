@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-30T05:10:04.529Z</id>
+    <id>urn:2026-10-01T05:25:13.070Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-30T05:10:04.529Z</updated>
+    <updated>2026-10-01T05:25:13.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Under Autumn’s Spell (October 2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/</id>
+        <link href="https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"/>
+        <updated>2026-09-30T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Real-Time Word Counter Tool with HTML, CSS, and JavaScript]]></title>
+        <id>6abca43ca3fbe2215db75ecf</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-real-time-word-counter-tool-with-html-css-and-javascript/"/>
+        <updated>2026-09-30T05:55:08.000Z</updated>
+        <summary type="html"><![CDATA[Whether you're writing an essay, a tweet, or a blog post, keeping track of your word and character count is very important. In this tutorial, you'll build a fully functional, real-time Word Counter to]]></summary>
+        <author>
+            <name>Bansidhar Kadiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Diagnose and Fix AI Inference Latency on Kubernetes]]></title>
+        <id>6abca2f9f944d026311c7f7b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-diagnose-and-fix-ai-inference-latency-on-kubernetes/"/>
+        <updated>2026-09-30T05:49:45.000Z</updated>
+        <summary type="html"><![CDATA[It's Thursday, around quarter past two. Your team shipped an internal assistant two weeks ago. The demo went well enough that someone in finance asked whether it could read contracts. Word spread. Tod]]></summary>
+        <author>
+            <name>Gursimar Singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Algorithmic Trading with SnapTrade, Massive, Alpaca]]></title>
         <id>6abbcab8bf5e373dfc4ceff1</id>
@@ -83,26 +113,6 @@
         <summary type="html"><![CDATA[Until recently, building a technical writing portfolio could be as simple as creating a website, adding a list of articles, describing your writing experience, and linking to your social profiles. Tha]]></summary>
         <author>
             <name>Casmir Onyekani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside a Hong Kong Hackathon [Full freeCodeCamp Documentary]]]></title>
-        <id>6ab571b05974dad13c5d246d</id>
-        <link href="https://www.freecodecamp.org/news/inside-seahack-24-hours-to-build-an-ai-startup/"/>
-        <updated>2026-09-24T18:53:36.000Z</updated>
-        <summary type="html"><![CDATA[We just published a new documentary-style video on the freeCodeCamp channel that takes you behind the scenes of a high-energy 24-hour hackathon. Quincy Larson traveled to Hong Kong to serve as a judge]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Executable Operational Specifications Can Make Software Automation Verifiable]]></title>
-        <id>6ab54b145ca9fc6a257ae996</id>
-        <link href="https://www.freecodecamp.org/news/executable-operational-specifications-software-automation/"/>
-        <updated>2026-09-24T16:08:52.000Z</updated>
-        <summary type="html"><![CDATA[Modern software systems are increasingly automated. We automate deployments, infrastructure changes, scaling, incident response, and data pipelines. And now, with AI agents, we are starting to automat]]></summary>
-        <author>
-            <name>Hugo Teijiz</name>
         </author>
     </entry>
     <entry>
