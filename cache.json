@@ -23,7 +23,7 @@
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4660,
+          "wordCount": 4658,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -38,7 +38,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5025,
+          "wordCount": 5031,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -53,7 +53,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5457,
+          "wordCount": 5450,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -68,7 +68,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4566,
+          "wordCount": 4570,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -110,7 +110,7 @@
           "description": "Tools like Lovable, Bolt, and v0 feel a bit like magic the first time you use them. Honestly, I was shocked the first time I saw something like that...and you get to do all that from a chat window! It",
           "link": "https://www.freecodecamp.org/news/build-your-own-ai-app-builder-with-next-js-aws-and-sandboxes/",
           "publishedOn": "2026-10-02T11:51:03.000Z",
-          "wordCount": 6381,
+          "wordCount": 6363,
           "title": "How to Build Your Own AI App Builder Like Lovable with Next.js, AWS and Sandboxes",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/32b191cd-400c-44ea-bc95-8815897f3f82.png"
         },
@@ -130,7 +130,7 @@
           "description": "Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept",
           "link": "https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/",
           "publishedOn": "2026-10-01T15:13:37.000Z",
-          "wordCount": 1465,
+          "wordCount": 1437,
           "title": "Build and Publish a Full-Stack Mobile App with AI",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e3b03940-c761-4da1-9fe0-7ca07ec88550.png"
         },
@@ -160,7 +160,7 @@
           "description": "Modern codebases are becoming increasingly difficult to navigate. This isn't necessarily because developers are writing more code themselves. It's mostly because coding assistants are generating hundr",
           "link": "https://www.freecodecamp.org/news/how-to-build-a-code-graph-in-typescript-using-vs-code-language-apis/",
           "publishedOn": "2026-10-01T11:01:21.000Z",
-          "wordCount": 5574,
+          "wordCount": 5576,
           "title": "How to Build a Code Graph in TypeScript Using VS Code's Language APIs",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2101c28a-d568-4841-95e6-ab066d2cf27f.png"
         },
@@ -180,7 +180,7 @@
           "description": "Building AI for clinical settings is harder than it looks. It takes more than picking a good model or tuning the right parameters. When engineers enter a hospital ecosystem, they quickly discover that",
           "link": "https://www.freecodecamp.org/news/healthcare-ai-won-t-work-until-you-fix-your-data/",
           "publishedOn": "2026-10-01T06:29:35.000Z",
-          "wordCount": 3285,
+          "wordCount": 3297,
           "title": "Healthcare AI Won't Work Until You Fix Your Data",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3306532c-8aae-4b82-8529-77387b8dba04.png"
         }
