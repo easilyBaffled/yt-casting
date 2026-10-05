@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-04T05:28:21.323Z</id>
+    <id>urn:2026-10-05T05:11:25.045Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-04T05:28:21.323Z</updated>
+    <updated>2026-10-05T05:11:25.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Avoid JNI Crashes by Managing Local and Global References Correctly]]></title>
+        <id>6ac243175423a0b19b9f643a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-avoid-jni-crashes-by-managing-local-and-global-references-correctly/"/>
+        <updated>2026-10-04T12:14:15.000Z</updated>
+        <summary type="html"><![CDATA[Most JNI crashes don't come from complicated logic. They come from a small set of mistakes around object references: holding on to a reference after it has become invalid, creating references faster t]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Submit a Quarterly Update to HMRC's Making Tax Digital API]]></title>
+        <id>6ac242855423a0b19b9f5ed8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-submit-a-quarterly-update-to-hmrc-making-tax-digital-api/"/>
+        <updated>2026-10-04T12:11:49.000Z</updated>
+        <summary type="html"><![CDATA[Four times a year, every sole trader and landlord in Making Tax Digital (MTD) for Income Tax has to send HMRC a summary of their income and expenses. The first deadline of the 2026-27 tax year, 7 Augu]]></summary>
+        <author>
+            <name>Solomon Amos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Separate Operational Intent from the Executor]]></title>
+        <id>6ac242565423a0b19b9f5c6d</id>
+        <link href="https://www.freecodecamp.org/news/separate-operational-intent-from-executor/"/>
+        <updated>2026-10-04T12:11:02.000Z</updated>
+        <summary type="html"><![CDATA[In my previous article, I argued that software automation needs a layer between operational intent and execution. The reason is simple: the specification should describe what success means, and the ex]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Modern Kotlin]]></title>
         <id>6abfcc8e01291b49f46e78ac</id>
@@ -73,36 +103,6 @@
         <summary type="html"><![CDATA[You update a Deployment, run kubectl rollout status, and wait. The command times out. But when you send a request to the Service, it still answers. So did the update finish? And if it didn't, which Po]]></summary>
         <author>
             <name>Praneeth Kodumagulla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Code Graph in TypeScript Using VS Code's Language APIs]]></title>
-        <id>6abe3d817fd604967ed16903</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-code-graph-in-typescript-using-vs-code-language-apis/"/>
-        <updated>2026-10-01T11:01:21.000Z</updated>
-        <summary type="html"><![CDATA[Modern codebases are becoming increasingly difficult to navigate. This isn't necessarily because developers are writing more code themselves. It's mostly because coding assistants are generating hundr]]></summary>
-        <author>
-            <name>Otobong Peter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Node.js and Express.js Handbook for Beginners – Servers, Routes, Routers, and Views Explained]]></title>
-        <id>6abe2c47229f69b03c107a96</id>
-        <link href="https://www.freecodecamp.org/news/nodejs-and-expressjs-handbook-for-beginners/"/>
-        <updated>2026-10-01T09:47:51.000Z</updated>
-        <summary type="html"><![CDATA[Node.js is a runtime environment for executing JavaScript outside the web browser. From small scripts to large-scale back-end applications, Node.js provides the APIs and tools you need to build JavaSc]]></summary>
-        <author>
-            <name>Oluwatobi Sofela</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Healthcare AI Won't Work Until You Fix Your Data]]></title>
-        <id>6abdfdcf1585eb815aed0e73</id>
-        <link href="https://www.freecodecamp.org/news/healthcare-ai-won-t-work-until-you-fix-your-data/"/>
-        <updated>2026-10-01T06:29:35.000Z</updated>
-        <summary type="html"><![CDATA[Building AI for clinical settings is harder than it looks. It takes more than picking a good model or tuning the right parameters. When engineers enter a hospital ecosystem, they quickly discover that]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
