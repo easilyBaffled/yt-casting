@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-05T05:11:25.045Z</id>
+    <id>urn:2026-10-06T05:57:03.791Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-05T05:11:25.045Z</updated>
+    <updated>2026-10-06T05:57:03.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes]]></title>
+        <id>6ac3b79f3a1cb65fb3944008</id>
+        <link href="https://www.freecodecamp.org/news/api-authentication-authorization-mechanisms-trade-offs-and-failure-modes/"/>
+        <updated>2026-10-05T14:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Every API has some form of authentication. But having authentication and getting it right are two completely different things. I've reviewed production systems where JWTs had no expiry. Systems where]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Break the AI Coding Agent Fix Loop]]></title>
+        <id>6ac3903e83f4cf524562f9e6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-break-the-ai-coding-agent-fix-loop/"/>
+        <updated>2026-10-05T11:55:42.000Z</updated>
+        <summary type="html"><![CDATA[You've likely seen this movie before: something breaks in an app you built with an AI coding agent. You ask the agent to fix it. It "fixes" it. But the bug is still there, or a second bug appears. So]]></summary>
+        <author>
+            <name>Amir Gabay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use NestJS Observe: An Observability Handbook for Devs]]></title>
+        <id>6ac38fe863ed4fe7c5562283</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-nestjs-observe-an-observability-handbook-for-devs/"/>
+        <updated>2026-10-05T11:54:16.000Z</updated>
+        <summary type="html"><![CDATA[Observability isn't a new problem, and NestJS is certainly not the first ecosystem to tackle it. But NestJS Observe is interesting because it asks a more specific question: what happens when observabi]]></summary>
+        <author>
+            <name>Pacifique Linjanja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Is Changing Email Deliverability: A Technical Guide to Sender Reputation and Inbox Placement]]></title>
+        <id>6ac38287d6fd64daae93bf3c</id>
+        <link href="https://www.freecodecamp.org/news/ai-email-deliverability-explained/"/>
+        <updated>2026-10-05T10:57:11.000Z</updated>
+        <summary type="html"><![CDATA[Sending an email doesn't always mean it will reach the recipient's inbox. Sometimes, an email is sent successfully by an application but ends up in the spam folder instead. This can be a real problem]]></summary>
+        <author>
+            <name>Reetain Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Engineering Anatomy of API Vulnerabilities: A Deep Dive into the OWASP API Security Top 10]]></title>
+        <id>6ac381f06fd156dcaf4d765b</id>
+        <link href="https://www.freecodecamp.org/news/engineering-anatomy-of-api-vulnerabilities-owasp-api-security-top-10/"/>
+        <updated>2026-10-05T10:54:40.000Z</updated>
+        <summary type="html"><![CDATA[Most security articles read like threat reports. They describe vulnerabilities from the outside looking in: what an attacker does, what the impact is, and how many systems are affected globally. That']]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Avoid JNI Crashes by Managing Local and Global References Correctly]]></title>
         <id>6ac243175423a0b19b9f643a</id>
@@ -53,56 +103,6 @@
         <summary type="html"><![CDATA[Every website gets feedback, and most of it ends up somewhere awkward. A visitor finds a broken button and emails you. Someone else leaves a comment on social media about a page that won't load on the]]></summary>
         <author>
             <name>Andrew Baisden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your Own AI App Builder Like Lovable with Next.js, AWS and Sandboxes]]></title>
-        <id>6abf9aa749124019f564574f</id>
-        <link href="https://www.freecodecamp.org/news/build-your-own-ai-app-builder-with-next-js-aws-and-sandboxes/"/>
-        <updated>2026-10-02T11:51:03.000Z</updated>
-        <summary type="html"><![CDATA[Tools like Lovable, Bolt, and v0 feel a bit like magic the first time you use them. Honestly, I was shocked the first time I saw something like that...and you get to do all that from a chat window! It]]></summary>
-        <author>
-            <name>Shrijal Acharya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add shadcn Charts to a Next.js App Without Writing Recharts Boilerplate]]></title>
-        <id>6abf4b9d63317980cdaece08</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-shadcn-ui-charts-to-nextjs/"/>
-        <updated>2026-10-02T06:13:49.000Z</updated>
-        <summary type="html"><![CDATA[Charts look like a small task on a ticket. Then you open the Recharts docs and remember how much setup every chart needs: a config object for labels and colors, axes, a tooltip, a legend, colors that]]></summary>
-        <author>
-            <name>Ash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build and Publish a Full-Stack Mobile App with AI]]></title>
-        <id>6abe78a1cc111926f9c7fc82</id>
-        <link href="https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/"/>
-        <updated>2026-10-01T15:13:37.000Z</updated>
-        <summary type="html"><![CDATA[Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Stop Your Android App from Draining the Battery with Wake Locks]]></title>
-        <id>6abe6aefe2bfb6c3545bb583</id>
-        <link href="https://www.freecodecamp.org/news/how-to-stop-your-android-app-from-draining-the-battery-with-wake-locks/"/>
-        <updated>2026-10-01T14:15:11.000Z</updated>
-        <summary type="html"><![CDATA[A wake lock is one of the simplest APIs in Android and one of the easiest to misuse. Acquiring one takes a single line of code. Forgetting to release it can keep a phone's CPU awake for hours, drain t]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Debug a Stuck Kubernetes Rollout with a Hands-On Lab]]></title>
-        <id>6abe3dc913d662f7af15bf03</id>
-        <link href="https://www.freecodecamp.org/news/how-to-debug-a-stuck-kubernetes-rollout-with-a-hands-on-lab/"/>
-        <updated>2026-10-01T11:02:33.000Z</updated>
-        <summary type="html"><![CDATA[You update a Deployment, run kubectl rollout status, and wait. The command times out. But when you send a request to the Service, it still answers. So did the update finish? And if it didn't, which Po]]></summary>
-        <author>
-            <name>Praneeth Kodumagulla</name>
         </author>
     </entry>
     <entry>

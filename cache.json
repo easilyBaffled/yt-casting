@@ -23,7 +23,7 @@
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4658,
+          "wordCount": 4756,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -38,7 +38,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5132,
+          "wordCount": 5027,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -53,7 +53,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5453,
+          "wordCount": 5562,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -68,7 +68,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4573,
+          "wordCount": 4569,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -84,6 +84,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6ac3b79f3a1cb65fb3944008",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "Every API has some form of authentication. But having authentication and getting it right are two completely different things. I've reviewed production systems where JWTs had no expiry. Systems where",
+          "link": "https://www.freecodecamp.org/news/api-authentication-authorization-mechanisms-trade-offs-and-failure-modes/",
+          "publishedOn": "2026-10-05T14:43:43.000Z",
+          "wordCount": 5681,
+          "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/51178fc1-fae2-4f9e-b52c-3f2878db07d0.png"
+        },
+        {
+          "id": "6ac3903e83f4cf524562f9e6",
+          "author": "Amir Gabay",
+          "description": "You've likely seen this movie before: something breaks in an app you built with an AI coding agent. You ask the agent to fix it. It \"fixes\" it. But the bug is still there, or a second bug appears. So",
+          "link": "https://www.freecodecamp.org/news/how-to-break-the-ai-coding-agent-fix-loop/",
+          "publishedOn": "2026-10-05T11:55:42.000Z",
+          "wordCount": 3680,
+          "title": "How to Break the AI Coding Agent Fix Loop",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/abd8a76e-ad86-4731-a644-2919458b7407.png"
+        },
+        {
+          "id": "6ac38fe863ed4fe7c5562283",
+          "author": "Pacifique Linjanja",
+          "description": "Observability isn't a new problem, and NestJS is certainly not the first ecosystem to tackle it. But NestJS Observe is interesting because it asks a more specific question: what happens when observabi",
+          "link": "https://www.freecodecamp.org/news/how-to-use-nestjs-observe-an-observability-handbook-for-devs/",
+          "publishedOn": "2026-10-05T11:54:16.000Z",
+          "wordCount": 7361,
+          "title": "How to Use NestJS Observe: An Observability Handbook for Devs",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/89c7ca34-578d-4782-9f12-25664410cdff.png"
+        },
+        {
+          "id": "6ac38287d6fd64daae93bf3c",
+          "author": "Reetain Raina",
+          "description": "Sending an email doesn't always mean it will reach the recipient's inbox. Sometimes, an email is sent successfully by an application but ends up in the spam folder instead. This can be a real problem",
+          "link": "https://www.freecodecamp.org/news/ai-email-deliverability-explained/",
+          "publishedOn": "2026-10-05T10:57:11.000Z",
+          "wordCount": 3226,
+          "title": "How AI Is Changing Email Deliverability: A Technical Guide to Sender Reputation and Inbox Placement",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ccac1a88-7bba-4136-a680-f20637c173b1.png"
+        },
+        {
+          "id": "6ac381f06fd156dcaf4d765b",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "Most security articles read like threat reports. They describe vulnerabilities from the outside looking in: what an attacker does, what the impact is, and how many systems are affected globally. That'",
+          "link": "https://www.freecodecamp.org/news/engineering-anatomy-of-api-vulnerabilities-owasp-api-security-top-10/",
+          "publishedOn": "2026-10-05T10:54:40.000Z",
+          "wordCount": 6635,
+          "title": "The Engineering Anatomy of API Vulnerabilities: A Deep Dive into the OWASP API Security Top 10",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/58e0ba94-ccc6-4e4e-aa19-9480cb060d23.png"
+        },
         {
           "id": "6ac243175423a0b19b9f643a",
           "author": "Nikheel Vishwas Savant",
@@ -133,56 +183,6 @@
           "wordCount": 7136,
           "title": "How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/13431986-02ba-4353-8fa7-793542e0e03f.png"
-        },
-        {
-          "id": "6abf9aa749124019f564574f",
-          "author": "Shrijal Acharya",
-          "description": "Tools like Lovable, Bolt, and v0 feel a bit like magic the first time you use them. Honestly, I was shocked the first time I saw something like that...and you get to do all that from a chat window! It",
-          "link": "https://www.freecodecamp.org/news/build-your-own-ai-app-builder-with-next-js-aws-and-sandboxes/",
-          "publishedOn": "2026-10-02T11:51:03.000Z",
-          "wordCount": 6511,
-          "title": "How to Build Your Own AI App Builder Like Lovable with Next.js, AWS and Sandboxes",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/32b191cd-400c-44ea-bc95-8815897f3f82.png"
-        },
-        {
-          "id": "6abf4b9d63317980cdaece08",
-          "author": "Ash",
-          "description": "Charts look like a small task on a ticket. Then you open the Recharts docs and remember how much setup every chart needs: a config object for labels and colors, axes, a tooltip, a legend, colors that",
-          "link": "https://www.freecodecamp.org/news/how-to-add-shadcn-ui-charts-to-nextjs/",
-          "publishedOn": "2026-10-02T06:13:49.000Z",
-          "wordCount": 3124,
-          "title": "How to Add shadcn Charts to a Next.js App Without Writing Recharts Boilerplate",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a6e5c1d7-5d61-4cc0-94d8-3a3e068d97e4.png"
-        },
-        {
-          "id": "6abe78a1cc111926f9c7fc82",
-          "author": "Beau Carnes",
-          "description": "Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept",
-          "link": "https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/",
-          "publishedOn": "2026-10-01T15:13:37.000Z",
-          "wordCount": 1453,
-          "title": "Build and Publish a Full-Stack Mobile App with AI",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e3b03940-c761-4da1-9fe0-7ca07ec88550.png"
-        },
-        {
-          "id": "6abe6aefe2bfb6c3545bb583",
-          "author": "Nikheel Vishwas Savant",
-          "description": "A wake lock is one of the simplest APIs in Android and one of the easiest to misuse. Acquiring one takes a single line of code. Forgetting to release it can keep a phone's CPU awake for hours, drain t",
-          "link": "https://www.freecodecamp.org/news/how-to-stop-your-android-app-from-draining-the-battery-with-wake-locks/",
-          "publishedOn": "2026-10-01T14:15:11.000Z",
-          "wordCount": 5521,
-          "title": "How to Stop Your Android App from Draining the Battery with Wake Locks",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f08ae713-8957-4954-b29f-0efc696b0de8.png"
-        },
-        {
-          "id": "6abe3dc913d662f7af15bf03",
-          "author": "Praneeth Kodumagulla",
-          "description": "You update a Deployment, run kubectl rollout status, and wait. The command times out. But when you send a request to the Service, it still answers. So did the update finish? And if it didn't, which Po",
-          "link": "https://www.freecodecamp.org/news/how-to-debug-a-stuck-kubernetes-rollout-with-a-hands-on-lab/",
-          "publishedOn": "2026-10-01T11:02:33.000Z",
-          "wordCount": 3971,
-          "title": "How to Debug a Stuck Kubernetes Rollout with a Hands-On Lab",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3864c1c8-994c-4f98-9833-47a9bb34e15d.png"
         }
       ]
     }
