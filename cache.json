@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/10/how-name-things/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures.",
+          "link": "https://smashingmagazine.com/2026/10/how-name-things/",
+          "publishedOn": "2026-10-06T10:00:00.000Z",
+          "wordCount": 3945,
+          "title": "A Practical Guide To Naming Things",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4756,
+          "wordCount": 4646,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -38,7 +53,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5027,
+          "wordCount": 5135,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -53,7 +68,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5562,
+          "wordCount": 5451,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -68,7 +83,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4569,
+          "wordCount": 4573,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -85,12 +100,32 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6ac49165464372e77035c728",
+          "author": "Chirag Agrawal",
+          "description": "Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc",
+          "link": "https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/",
+          "publishedOn": "2026-10-06T06:12:53.000Z",
+          "wordCount": 3954,
+          "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e77e26a1-6fe8-43ed-8aa6-137813550f65.png"
+        },
+        {
+          "id": "6ac4810141f9b6b6ff5bf1cd",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "At Intuit, my team built a data pipeline that processed TurboTax e-filing data. This data needed to be made available for dashboards, analytics, and other downstream use cases. One of the biggest chal",
+          "link": "https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/",
+          "publishedOn": "2026-10-06T05:02:57.000Z",
+          "wordCount": 3905,
+          "title": "How to Encrypt PII in Data Pipelines While Keeping It Searchable",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b9b99f84-c0c8-46a0-b217-0b2e598c8ac1.png"
+        },
+        {
           "id": "6ac3b79f3a1cb65fb3944008",
           "author": "Oluwaseyi Fatunmole",
           "description": "Every API has some form of authentication. But having authentication and getting it right are two completely different things. I've reviewed production systems where JWTs had no expiry. Systems where",
           "link": "https://www.freecodecamp.org/news/api-authentication-authorization-mechanisms-trade-offs-and-failure-modes/",
           "publishedOn": "2026-10-05T14:43:43.000Z",
-          "wordCount": 5681,
+          "wordCount": 5647,
           "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/51178fc1-fae2-4f9e-b52c-3f2878db07d0.png"
         },
@@ -130,7 +165,7 @@
           "description": "Most security articles read like threat reports. They describe vulnerabilities from the outside looking in: what an attacker does, what the impact is, and how many systems are affected globally. That'",
           "link": "https://www.freecodecamp.org/news/engineering-anatomy-of-api-vulnerabilities-owasp-api-security-top-10/",
           "publishedOn": "2026-10-05T10:54:40.000Z",
-          "wordCount": 6635,
+          "wordCount": 6589,
           "title": "The Engineering Anatomy of API Vulnerabilities: A Deep Dive into the OWASP API Security Top 10",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/58e0ba94-ccc6-4e4e-aa19-9480cb060d23.png"
         },
@@ -163,26 +198,6 @@
           "wordCount": 4248,
           "title": "How to Separate Operational Intent from the Executor",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8b78496e-2ca5-4585-8cfa-f25cb56b56c7.png"
-        },
-        {
-          "id": "6abfcc8e01291b49f46e78ac",
-          "author": "Beau Carnes",
-          "description": "We just published a comprehensive, free Kotlin course on the freeCodeCamp.org YouTube channel. Whether you're targeting Android development, scalable backend services, or cross-platform applications,",
-          "link": "https://www.freecodecamp.org/news/learn-modern-kotlin/",
-          "publishedOn": "2026-10-02T15:23:58.000Z",
-          "wordCount": 1398,
-          "title": "Learn Modern Kotlin",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/bc8218cc-11c7-469e-b549-e9944e187099.png"
-        },
-        {
-          "id": "6abfc515257f8ade20662b79",
-          "author": "Andrew Baisden",
-          "description": "Every website gets feedback, and most of it ends up somewhere awkward. A visitor finds a broken button and emails you. Someone else leaves a comment on social media about a page that won't load on the",
-          "link": "https://www.freecodecamp.org/news/build-an-ai-support-system-that-automatically-routes-bugs-to-github/",
-          "publishedOn": "2026-10-02T14:52:05.000Z",
-          "wordCount": 7136,
-          "title": "How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/13431986-02ba-4353-8fa7-793542e0e03f.png"
         }
       ]
     }

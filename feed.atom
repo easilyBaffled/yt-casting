@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-06T05:57:03.791Z</id>
+    <id>urn:2026-10-07T05:31:03.209Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-06T05:57:03.791Z</updated>
+    <updated>2026-10-07T05:31:03.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide To Naming Things]]></title>
+        <id>https://smashingmagazine.com/2026/10/how-name-things/</id>
+        <link href="https://smashingmagazine.com/2026/10/how-name-things/"/>
+        <updated>2026-10-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to naming UI components, with useful resources, naming conventions, and structures.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox]]></title>
+        <id>6ac49165464372e77035c728</id>
+        <link href="https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/"/>
+        <updated>2026-10-06T06:12:53.000Z</updated>
+        <summary type="html"><![CDATA[Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc]]></summary>
+        <author>
+            <name>Chirag Agrawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Encrypt PII in Data Pipelines While Keeping It Searchable]]></title>
+        <id>6ac4810141f9b6b6ff5bf1cd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/"/>
+        <updated>2026-10-06T05:02:57.000Z</updated>
+        <summary type="html"><![CDATA[At Intuit, my team built a data pipeline that processed TurboTax e-filing data. This data needed to be made available for dashboards, analytics, and other downstream use cases. One of the biggest chal]]></summary>
+        <author>
+            <name>Lakshmi Mahabaleshwara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes]]></title>
         <id>6ac3b79f3a1cb65fb3944008</id>
@@ -83,26 +113,6 @@
         <summary type="html"><![CDATA[In my previous article, I argued that software automation needs a layer between operational intent and execution. The reason is simple: the specification should describe what success means, and the ex]]></summary>
         <author>
             <name>Hugo Teijiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Modern Kotlin]]></title>
-        <id>6abfcc8e01291b49f46e78ac</id>
-        <link href="https://www.freecodecamp.org/news/learn-modern-kotlin/"/>
-        <updated>2026-10-02T15:23:58.000Z</updated>
-        <summary type="html"><![CDATA[We just published a comprehensive, free Kotlin course on the freeCodeCamp.org YouTube channel. Whether you're targeting Android development, scalable backend services, or cross-platform applications,]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev]]></title>
-        <id>6abfc515257f8ade20662b79</id>
-        <link href="https://www.freecodecamp.org/news/build-an-ai-support-system-that-automatically-routes-bugs-to-github/"/>
-        <updated>2026-10-02T14:52:05.000Z</updated>
-        <summary type="html"><![CDATA[Every website gets feedback, and most of it ends up somewhere awkward. A visitor finds a broken button and emails you. Someone else leaves a comment on social media about a page that won't load on the]]></summary>
-        <author>
-            <name>Andrew Baisden</name>
         </author>
     </entry>
     <entry>
