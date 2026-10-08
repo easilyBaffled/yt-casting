@@ -20,10 +20,10 @@
         {
           "id": "https://smashingmagazine.com/2026/10/how-name-things/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures.",
+          "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
           "link": "https://smashingmagazine.com/2026/10/how-name-things/",
           "publishedOn": "2026-10-06T10:00:00.000Z",
-          "wordCount": 3945,
+          "wordCount": 3993,
           "title": "A Practical Guide To Naming Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
@@ -38,7 +38,7 @@
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4646,
+          "wordCount": 4656,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -53,7 +53,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5135,
+          "wordCount": 5023,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -68,7 +68,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5451,
+          "wordCount": 5449,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -83,7 +83,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4573,
+          "wordCount": 4578,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -99,6 +99,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6ac6f9bb8e5c8e3fb8fd0905",
+          "author": "Beau Carnes",
+          "description": "You don't need a massive GPU cluster to learn how modern frontier AI works. In our new video on the freeCodeCamp.org YouTube channel, you will build, pre-train, and fine-tune a working 25-million para",
+          "link": "https://www.freecodecamp.org/news/build-and-train-a-25m-parameter-llm-from-scratch-on-your-cpu/",
+          "publishedOn": "2026-10-08T02:02:35.000Z",
+          "wordCount": 1474,
+          "title": "Build and Train a 25M Parameter LLM From Scratch on Your CPU",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d7d4538b-9aff-4e9e-ab8c-65adb325a2f0.png"
+        },
         {
           "id": "6ac49165464372e77035c728",
           "author": "Chirag Agrawal",
@@ -135,7 +145,7 @@
           "description": "You've likely seen this movie before: something breaks in an app you built with an AI coding agent. You ask the agent to fix it. It \"fixes\" it. But the bug is still there, or a second bug appears. So",
           "link": "https://www.freecodecamp.org/news/how-to-break-the-ai-coding-agent-fix-loop/",
           "publishedOn": "2026-10-05T11:55:42.000Z",
-          "wordCount": 3680,
+          "wordCount": 3669,
           "title": "How to Break the AI Coding Agent Fix Loop",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/abd8a76e-ad86-4731-a644-2919458b7407.png"
         },
@@ -155,7 +165,7 @@
           "description": "Sending an email doesn't always mean it will reach the recipient's inbox. Sometimes, an email is sent successfully by an application but ends up in the spam folder instead. This can be a real problem",
           "link": "https://www.freecodecamp.org/news/ai-email-deliverability-explained/",
           "publishedOn": "2026-10-05T10:57:11.000Z",
-          "wordCount": 3226,
+          "wordCount": 3282,
           "title": "How AI Is Changing Email Deliverability: A Technical Guide to Sender Reputation and Inbox Placement",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ccac1a88-7bba-4136-a680-f20637c173b1.png"
         },
@@ -165,7 +175,7 @@
           "description": "Most security articles read like threat reports. They describe vulnerabilities from the outside looking in: what an attacker does, what the impact is, and how many systems are affected globally. That'",
           "link": "https://www.freecodecamp.org/news/engineering-anatomy-of-api-vulnerabilities-owasp-api-security-top-10/",
           "publishedOn": "2026-10-05T10:54:40.000Z",
-          "wordCount": 6589,
+          "wordCount": 6635,
           "title": "The Engineering Anatomy of API Vulnerabilities: A Deep Dive into the OWASP API Security Top 10",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/58e0ba94-ccc6-4e4e-aa19-9480cb060d23.png"
         },
@@ -175,7 +185,7 @@
           "description": "Most JNI crashes don't come from complicated logic. They come from a small set of mistakes around object references: holding on to a reference after it has become invalid, creating references faster t",
           "link": "https://www.freecodecamp.org/news/how-to-avoid-jni-crashes-by-managing-local-and-global-references-correctly/",
           "publishedOn": "2026-10-04T12:14:15.000Z",
-          "wordCount": 5835,
+          "wordCount": 5811,
           "title": "How to Avoid JNI Crashes by Managing Local and Global References Correctly",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a1d2cb14-64c8-4b13-b428-acb6717c7594.png"
         },
@@ -185,19 +195,9 @@
           "description": "Four times a year, every sole trader and landlord in Making Tax Digital (MTD) for Income Tax has to send HMRC a summary of their income and expenses. The first deadline of the 2026-27 tax year, 7 Augu",
           "link": "https://www.freecodecamp.org/news/how-to-submit-a-quarterly-update-to-hmrc-making-tax-digital-api/",
           "publishedOn": "2026-10-04T12:11:49.000Z",
-          "wordCount": 4119,
+          "wordCount": 4131,
           "title": "How to Submit a Quarterly Update to HMRC's Making Tax Digital API",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ff99ebcb-6096-4847-93a0-a18a9687bdc6.png"
-        },
-        {
-          "id": "6ac242565423a0b19b9f5c6d",
-          "author": "Hugo Teijiz",
-          "description": "In my previous article, I argued that software automation needs a layer between operational intent and execution. The reason is simple: the specification should describe what success means, and the ex",
-          "link": "https://www.freecodecamp.org/news/separate-operational-intent-from-executor/",
-          "publishedOn": "2026-10-04T12:11:02.000Z",
-          "wordCount": 4248,
-          "title": "How to Separate Operational Intent from the Executor",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8b78496e-2ca5-4585-8cfa-f25cb56b56c7.png"
         }
       ]
     }

@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-07T05:31:03.209Z</id>
+    <id>urn:2026-10-08T05:39:28.886Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-07T05:31:03.209Z</updated>
+    <updated>2026-10-08T05:39:28.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build and Train a 25M Parameter LLM From Scratch on Your CPU]]></title>
+        <id>6ac6f9bb8e5c8e3fb8fd0905</id>
+        <link href="https://www.freecodecamp.org/news/build-and-train-a-25m-parameter-llm-from-scratch-on-your-cpu/"/>
+        <updated>2026-10-08T02:02:35.000Z</updated>
+        <summary type="html"><![CDATA[You don't need a massive GPU cluster to learn how modern frontier AI works. In our new video on the freeCodeCamp.org YouTube channel, you will build, pre-train, and fine-tune a working 25-million para]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Practical Guide To Naming Things]]></title>
         <id>https://smashingmagazine.com/2026/10/how-name-things/</id>
         <link href="https://smashingmagazine.com/2026/10/how-name-things/"/>
         <updated>2026-10-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A practical guide to naming UI components, with useful resources, naming conventions, and structures.]]></summary>
+        <summary type="html"><![CDATA[A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
@@ -103,16 +113,6 @@
         <summary type="html"><![CDATA[Four times a year, every sole trader and landlord in Making Tax Digital (MTD) for Income Tax has to send HMRC a summary of their income and expenses. The first deadline of the 2026-27 tax year, 7 Augu]]></summary>
         <author>
             <name>Solomon Amos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Separate Operational Intent from the Executor]]></title>
-        <id>6ac242565423a0b19b9f5c6d</id>
-        <link href="https://www.freecodecamp.org/news/separate-operational-intent-from-executor/"/>
-        <updated>2026-10-04T12:11:02.000Z</updated>
-        <summary type="html"><![CDATA[In my previous article, I argued that software automation needs a layer between operational intent and execution. The reason is simple: the specification should describe what success means, and the ex]]></summary>
-        <author>
-            <name>Hugo Teijiz</name>
         </author>
     </entry>
     <entry>
