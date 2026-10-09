@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-08T05:39:28.886Z</id>
+    <id>urn:2026-10-09T05:43:42.473Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-08T05:39:28.886Z</updated>
+    <updated>2026-10-09T05:43:42.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Master Modern React Routing: TanStack Router Crash Course]]></title>
+        <id>6ac7b4efba111367663fc712</id>
+        <link href="https://www.freecodecamp.org/news/master-modern-react-routing-tanstack-router-crash-course/"/>
+        <updated>2026-10-08T15:21:19.000Z</updated>
+        <summary type="html"><![CDATA[Routing in modern web applications has evolved far beyond simply rendering a component based on a URL path. Developers today want end-to-end type safety, automated code splitting, seamless URL search]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create System Design Diagrams using Python]]></title>
+        <id>6ac788ce8908dc166f0a0562</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-system-design-diagrams-using-python/"/>
+        <updated>2026-10-08T12:13:02.000Z</updated>
+        <summary type="html"><![CDATA[Creating system architecture design diagrams is an important part of technical documentation. As system complexity grows, clarity within teams becomes even more important. But creating diagrams from s]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build and Train a 25M Parameter LLM From Scratch on Your CPU]]></title>
         <id>6ac6f9bb8e5c8e3fb8fd0905</id>
@@ -96,26 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Avoid JNI Crashes by Managing Local and Global References Correctly]]></title>
-        <id>6ac243175423a0b19b9f643a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-avoid-jni-crashes-by-managing-local-and-global-references-correctly/"/>
-        <updated>2026-10-04T12:14:15.000Z</updated>
-        <summary type="html"><![CDATA[Most JNI crashes don't come from complicated logic. They come from a small set of mistakes around object references: holding on to a reference after it has become invalid, creating references faster t]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Submit a Quarterly Update to HMRC's Making Tax Digital API]]></title>
-        <id>6ac242855423a0b19b9f5ed8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-submit-a-quarterly-update-to-hmrc-making-tax-digital-api/"/>
-        <updated>2026-10-04T12:11:49.000Z</updated>
-        <summary type="html"><![CDATA[Four times a year, every sole trader and landlord in Making Tax Digital (MTD) for Income Tax has to send HMRC a summary of their income and expenses. The first deadline of the 2026-27 tax year, 7 Augu]]></summary>
-        <author>
-            <name>Solomon Amos</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Under Autumn’s Spell (October 2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/</id>
         <link href="https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"/>
@@ -143,16 +143,6 @@
         <summary type="html"><![CDATA[Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alex Williams)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Death Of The Button: Why The Best Interface Is No Interface]]></title>
-        <id>https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/</id>
-        <link href="https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/"/>
-        <updated>2026-09-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carrie Webster)</name>
         </author>
     </entry>
 </feed>
