@@ -53,7 +53,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5028,
+          "wordCount": 5025,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -68,7 +68,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5449,
+          "wordCount": 5450,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -84,6 +84,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6ac91e9ac74cf25dc4943707",
+          "author": "Beau Carnes",
+          "description": "Most automation tutorials show you how to connect two simple apps and call it a day. But building workflows that companies can actually run in production requires an entirely different skill set, one",
+          "link": "https://www.freecodecamp.org/news/create-scalable-ai-automations-with-n8n/",
+          "publishedOn": "2026-10-09T17:04:26.000Z",
+          "wordCount": 1450,
+          "title": "Create Scalable AI Automations with n8n",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7957e58c-2b0a-4245-a58c-0de90ab5a374.png"
+        },
         {
           "id": "6ac7b4efba111367663fc712",
           "author": "Beau Carnes",
@@ -120,7 +130,7 @@
           "description": "Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc",
           "link": "https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/",
           "publishedOn": "2026-10-06T06:12:53.000Z",
-          "wordCount": 3948,
+          "wordCount": 3954,
           "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e77e26a1-6fe8-43ed-8aa6-137813550f65.png"
         },
@@ -150,7 +160,7 @@
           "description": "You've likely seen this movie before: something breaks in an app you built with an AI coding agent. You ask the agent to fix it. It \"fixes\" it. But the bug is still there, or a second bug appears. So",
           "link": "https://www.freecodecamp.org/news/how-to-break-the-ai-coding-agent-fix-loop/",
           "publishedOn": "2026-10-05T11:55:42.000Z",
-          "wordCount": 3701,
+          "wordCount": 3683,
           "title": "How to Break the AI Coding Agent Fix Loop",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/abd8a76e-ad86-4731-a644-2919458b7407.png"
         },
@@ -173,16 +183,6 @@
           "wordCount": 3282,
           "title": "How AI Is Changing Email Deliverability: A Technical Guide to Sender Reputation and Inbox Placement",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ccac1a88-7bba-4136-a680-f20637c173b1.png"
-        },
-        {
-          "id": "6ac381f06fd156dcaf4d765b",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "Most security articles read like threat reports. They describe vulnerabilities from the outside looking in: what an attacker does, what the impact is, and how many systems are affected globally. That'",
-          "link": "https://www.freecodecamp.org/news/engineering-anatomy-of-api-vulnerabilities-owasp-api-security-top-10/",
-          "publishedOn": "2026-10-05T10:54:40.000Z",
-          "wordCount": 6631,
-          "title": "The Engineering Anatomy of API Vulnerabilities: A Deep Dive into the OWASP API Security Top 10",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/58e0ba94-ccc6-4e4e-aa19-9480cb060d23.png"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-09T05:43:42.473Z</id>
+    <id>urn:2026-10-10T05:27:13.650Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-09T05:43:42.473Z</updated>
+    <updated>2026-10-10T05:27:13.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Create Scalable AI Automations with n8n]]></title>
+        <id>6ac91e9ac74cf25dc4943707</id>
+        <link href="https://www.freecodecamp.org/news/create-scalable-ai-automations-with-n8n/"/>
+        <updated>2026-10-09T17:04:26.000Z</updated>
+        <summary type="html"><![CDATA[Most automation tutorials show you how to connect two simple apps and call it a day. But building workflows that companies can actually run in production requires an entirely different skill set, one]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master Modern React Routing: TanStack Router Crash Course]]></title>
         <id>6ac7b4efba111367663fc712</id>
@@ -103,16 +113,6 @@
         <summary type="html"><![CDATA[Sending an email doesn't always mean it will reach the recipient's inbox. Sometimes, an email is sent successfully by an application but ends up in the spam folder instead. This can be a real problem]]></summary>
         <author>
             <name>Reetain Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Engineering Anatomy of API Vulnerabilities: A Deep Dive into the OWASP API Security Top 10]]></title>
-        <id>6ac381f06fd156dcaf4d765b</id>
-        <link href="https://www.freecodecamp.org/news/engineering-anatomy-of-api-vulnerabilities-owasp-api-security-top-10/"/>
-        <updated>2026-10-05T10:54:40.000Z</updated>
-        <summary type="html"><![CDATA[Most security articles read like threat reports. They describe vulnerabilities from the outside looking in: what an attacker does, what the impact is, and how many systems are affected globally. That']]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
         </author>
     </entry>
     <entry>
