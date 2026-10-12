@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-11T05:20:54.497Z</id>
+    <id>urn:2026-10-12T05:32:43.489Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-11T05:20:54.497Z</updated>
+    <updated>2026-10-12T05:32:43.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What to Do When Your Constants Are Someone Else's Law]]></title>
+        <id>6acb97b4d2b7bc0f3bd063ec</id>
+        <link href="https://www.freecodecamp.org/news/what-to-do-when-your-constants-are-someone-else-s-law/"/>
+        <updated>2026-10-11T14:05:40.000Z</updated>
+        <summary type="html"><![CDATA[A colleague once asked me why a number in my code had a comment three lines long. The number was 18. The comment said which rule it came from, which section notified it, and that it could change witho]]></summary>
+        <author>
+            <name>Javeed Shaik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Measure Conformance Between an Operational Specification and Its Execution]]></title>
+        <id>6acb5b01b19fbe5ad15d6949</id>
+        <link href="https://www.freecodecamp.org/news/measure-conformance-operational-specification-execution/"/>
+        <updated>2026-10-11T09:46:41.000Z</updated>
+        <summary type="html"><![CDATA[In my previous article, I explored executor independence: the idea that different execution mechanisms should be able to satisfy the same operational specification. By executor independence, I mean th]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It]]></title>
+        <id>6acb575a7dfd7348cce66960</id>
+        <link href="https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/"/>
+        <updated>2026-10-11T09:31:06.000Z</updated>
+        <summary type="html"><![CDATA[Structured data has always mattered to search engines. When a search engine reads your page, it sees HTML: a heading, some paragraphs, a date somewhere, a name somewhere else. Structured data tells it]]></summary>
+        <author>
+            <name>Saar Twito</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create Scalable AI Automations with n8n]]></title>
         <id>6ac91e9ac74cf25dc4943707</id>
@@ -83,36 +113,6 @@
         <summary type="html"><![CDATA[Every API has some form of authentication. But having authentication and getting it right are two completely different things. I've reviewed production systems where JWTs had no expiry. Systems where]]></summary>
         <author>
             <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Break the AI Coding Agent Fix Loop]]></title>
-        <id>6ac3903e83f4cf524562f9e6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-break-the-ai-coding-agent-fix-loop/"/>
-        <updated>2026-10-05T11:55:42.000Z</updated>
-        <summary type="html"><![CDATA[You've likely seen this movie before: something breaks in an app you built with an AI coding agent. You ask the agent to fix it. It "fixes" it. But the bug is still there, or a second bug appears. So]]></summary>
-        <author>
-            <name>Amir Gabay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use NestJS Observe: An Observability Handbook for Devs]]></title>
-        <id>6ac38fe863ed4fe7c5562283</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-nestjs-observe-an-observability-handbook-for-devs/"/>
-        <updated>2026-10-05T11:54:16.000Z</updated>
-        <summary type="html"><![CDATA[Observability isn't a new problem, and NestJS is certainly not the first ecosystem to tackle it. But NestJS Observe is interesting because it asks a more specific question: what happens when observabi]]></summary>
-        <author>
-            <name>Pacifique Linjanja</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Is Changing Email Deliverability: A Technical Guide to Sender Reputation and Inbox Placement]]></title>
-        <id>6ac38287d6fd64daae93bf3c</id>
-        <link href="https://www.freecodecamp.org/news/ai-email-deliverability-explained/"/>
-        <updated>2026-10-05T10:57:11.000Z</updated>
-        <summary type="html"><![CDATA[Sending an email doesn't always mean it will reach the recipient's inbox. Sometimes, an email is sent successfully by an application but ends up in the spam folder instead. This can be a real problem]]></summary>
-        <author>
-            <name>Reetain Raina</name>
         </author>
     </entry>
     <entry>
