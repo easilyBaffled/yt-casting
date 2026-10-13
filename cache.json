@@ -38,7 +38,7 @@
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4652,
+          "wordCount": 4758,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -70,12 +70,22 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6acc85a51f0d893ec1d98e0e",
+          "author": "Vahe Aslanyan",
+          "description": "A report on AI productivity, human capability, software economics, SaaS defensibility, and the future of engineering work. Between 2024 and 2026, the marginal cost of producing a line of working code",
+          "link": "https://www.freecodecamp.org/news/the-state-of-ai-and-software-engineering-book/",
+          "publishedOn": "2026-10-12T07:00:53.000Z",
+          "wordCount": 71022,
+          "title": "The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dde99ac0-8f3a-4287-8b23-e38e841c1235.png"
+        },
+        {
           "id": "6acb97b4d2b7bc0f3bd063ec",
           "author": "Javeed Shaik",
           "description": "A colleague once asked me why a number in my code had a comment three lines long. The number was 18. The comment said which rule it came from, which section notified it, and that it could change witho",
           "link": "https://www.freecodecamp.org/news/what-to-do-when-your-constants-are-someone-else-s-law/",
           "publishedOn": "2026-10-11T14:05:40.000Z",
-          "wordCount": 3132,
+          "wordCount": 3161,
           "title": "What to Do When Your Constants Are Someone Else's Law",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d0b15ef7-16e3-4521-afe8-f2bd08611f97.png"
         },
@@ -85,7 +95,7 @@
           "description": "In my previous article, I explored executor independence: the idea that different execution mechanisms should be able to satisfy the same operational specification. By executor independence, I mean th",
           "link": "https://www.freecodecamp.org/news/measure-conformance-operational-specification-execution/",
           "publishedOn": "2026-10-11T09:46:41.000Z",
-          "wordCount": 4603,
+          "wordCount": 4642,
           "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/55c7ea87-fbb5-4b3f-ae4e-1d1616362579.png"
         },
@@ -95,7 +105,7 @@
           "description": "Structured data has always mattered to search engines. When a search engine reads your page, it sees HTML: a heading, some paragraphs, a date somewhere, a name somewhere else. Structured data tells it",
           "link": "https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/",
           "publishedOn": "2026-10-11T09:31:06.000Z",
-          "wordCount": 5980,
+          "wordCount": 6025,
           "title": "How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4e937052-66b6-461f-ae80-53e8395811e8.png"
         },
@@ -105,7 +115,7 @@
           "description": "Most automation tutorials show you how to connect two simple apps and call it a day. But building workflows that companies can actually run in production requires an entirely different skill set, one",
           "link": "https://www.freecodecamp.org/news/create-scalable-ai-automations-with-n8n/",
           "publishedOn": "2026-10-09T17:04:26.000Z",
-          "wordCount": 1529,
+          "wordCount": 1594,
           "title": "Create Scalable AI Automations with n8n",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7957e58c-2b0a-4245-a58c-0de90ab5a374.png"
         },
@@ -115,7 +125,7 @@
           "description": "Routing in modern web applications has evolved far beyond simply rendering a component based on a URL path. Developers today want end-to-end type safety, automated code splitting, seamless URL search",
           "link": "https://www.freecodecamp.org/news/master-modern-react-routing-tanstack-router-crash-course/",
           "publishedOn": "2026-10-08T15:21:19.000Z",
-          "wordCount": 1600,
+          "wordCount": 1645,
           "title": "Master Modern React Routing: TanStack Router Crash Course",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/9aeef2a4-98c3-4967-87c6-aa995b98b737.png"
         },
@@ -125,7 +135,7 @@
           "description": "Creating system architecture design diagrams is an important part of technical documentation. As system complexity grows, clarity within teams becomes even more important. But creating diagrams from s",
           "link": "https://www.freecodecamp.org/news/how-to-create-system-design-diagrams-using-python/",
           "publishedOn": "2026-10-08T12:13:02.000Z",
-          "wordCount": 2844,
+          "wordCount": 2889,
           "title": "How to Create System Design Diagrams using Python",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dc8376e4-76df-4ea5-90cf-38a90069be19.png"
         },
@@ -135,7 +145,7 @@
           "description": "You don't need a massive GPU cluster to learn how modern frontier AI works. In our new video on the freeCodeCamp.org YouTube channel, you will build, pre-train, and fine-tune a working 25-million para",
           "link": "https://www.freecodecamp.org/news/build-and-train-a-25m-parameter-llm-from-scratch-on-your-cpu/",
           "publishedOn": "2026-10-08T02:02:35.000Z",
-          "wordCount": 1553,
+          "wordCount": 1600,
           "title": "Build and Train a 25M Parameter LLM From Scratch on Your CPU",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d7d4538b-9aff-4e9e-ab8c-65adb325a2f0.png"
         },
@@ -145,7 +155,7 @@
           "description": "Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc",
           "link": "https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/",
           "publishedOn": "2026-10-06T06:12:53.000Z",
-          "wordCount": 4033,
+          "wordCount": 4078,
           "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e77e26a1-6fe8-43ed-8aa6-137813550f65.png"
         },
@@ -155,19 +165,9 @@
           "description": "At Intuit, my team built a data pipeline that processed TurboTax e-filing data. This data needed to be made available for dashboards, analytics, and other downstream use cases. One of the biggest chal",
           "link": "https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/",
           "publishedOn": "2026-10-06T05:02:57.000Z",
-          "wordCount": 4006,
+          "wordCount": 4051,
           "title": "How to Encrypt PII in Data Pipelines While Keeping It Searchable",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b9b99f84-c0c8-46a0-b217-0b2e598c8ac1.png"
-        },
-        {
-          "id": "6ac3b79f3a1cb65fb3944008",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "Every API has some form of authentication. But having authentication and getting it right are two completely different things. I've reviewed production systems where JWTs had no expiry. Systems where",
-          "link": "https://www.freecodecamp.org/news/api-authentication-authorization-mechanisms-trade-offs-and-failure-modes/",
-          "publishedOn": "2026-10-05T14:43:43.000Z",
-          "wordCount": 5726,
-          "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/51178fc1-fae2-4f9e-b52c-3f2878db07d0.png"
         }
       ]
     }

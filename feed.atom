@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-12T05:32:43.489Z</id>
+    <id>urn:2026-10-13T06:29:36.661Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-12T05:32:43.489Z</updated>
+    <updated>2026-10-13T06:29:36.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]]]></title>
+        <id>6acc85a51f0d893ec1d98e0e</id>
+        <link href="https://www.freecodecamp.org/news/the-state-of-ai-and-software-engineering-book/"/>
+        <updated>2026-10-12T07:00:53.000Z</updated>
+        <summary type="html"><![CDATA[A report on AI productivity, human capability, software economics, SaaS defensibility, and the future of engineering work. Between 2024 and 2026, the marginal cost of producing a line of working code]]></summary>
+        <author>
+            <name>Vahe Aslanyan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What to Do When Your Constants Are Someone Else's Law]]></title>
         <id>6acb97b4d2b7bc0f3bd063ec</id>
@@ -103,16 +113,6 @@
         <summary type="html"><![CDATA[At Intuit, my team built a data pipeline that processed TurboTax e-filing data. This data needed to be made available for dashboards, analytics, and other downstream use cases. One of the biggest chal]]></summary>
         <author>
             <name>Lakshmi Mahabaleshwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes]]></title>
-        <id>6ac3b79f3a1cb65fb3944008</id>
-        <link href="https://www.freecodecamp.org/news/api-authentication-authorization-mechanisms-trade-offs-and-failure-modes/"/>
-        <updated>2026-10-05T14:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Every API has some form of authentication. But having authentication and getting it right are two completely different things. I've reviewed production systems where JWTs had no expiry. Systems where]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
         </author>
     </entry>
     <entry>
