@@ -38,7 +38,7 @@
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4758,
+          "wordCount": 4763,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -53,7 +53,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5019,
+          "wordCount": 5025,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -75,7 +75,7 @@
           "description": "A report on AI productivity, human capability, software economics, SaaS defensibility, and the future of engineering work. Between 2024 and 2026, the marginal cost of producing a line of working code",
           "link": "https://www.freecodecamp.org/news/the-state-of-ai-and-software-engineering-book/",
           "publishedOn": "2026-10-12T07:00:53.000Z",
-          "wordCount": 71022,
+          "wordCount": 71008,
           "title": "The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dde99ac0-8f3a-4287-8b23-e38e841c1235.png"
         },
@@ -105,7 +105,7 @@
           "description": "Structured data has always mattered to search engines. When a search engine reads your page, it sees HTML: a heading, some paragraphs, a date somewhere, a name somewhere else. Structured data tells it",
           "link": "https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/",
           "publishedOn": "2026-10-11T09:31:06.000Z",
-          "wordCount": 6025,
+          "wordCount": 6019,
           "title": "How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4e937052-66b6-461f-ae80-53e8395811e8.png"
         },
@@ -145,7 +145,7 @@
           "description": "You don't need a massive GPU cluster to learn how modern frontier AI works. In our new video on the freeCodeCamp.org YouTube channel, you will build, pre-train, and fine-tune a working 25-million para",
           "link": "https://www.freecodecamp.org/news/build-and-train-a-25m-parameter-llm-from-scratch-on-your-cpu/",
           "publishedOn": "2026-10-08T02:02:35.000Z",
-          "wordCount": 1600,
+          "wordCount": 1598,
           "title": "Build and Train a 25M Parameter LLM From Scratch on Your CPU",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d7d4538b-9aff-4e9e-ab8c-65adb325a2f0.png"
         },
