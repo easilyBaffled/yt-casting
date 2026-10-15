@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-14T04:30:40.147Z</id>
+    <id>urn:2026-10-15T04:12:50.717Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-14T04:30:40.147Z</updated>
+    <updated>2026-10-15T04:12:50.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Stop an AI Agent from Inventing Nigerian Postcodes]]></title>
+        <id>6acfa07df5672c904a1a970e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-stop-an-ai-agent-from-inventing-nigerian-postcodes/"/>
+        <updated>2026-10-14T15:32:13.000Z</updated>
+        <summary type="html"><![CDATA[On 1 October 2026, Nigeria's postcode changed from six digits to an 11-character code that identifies a single building, such as EK-01-A03-FK-01. Language models trained before that date still describ]]></summary>
+        <author>
+            <name>Kayode Adeniyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Keep a File for Minutes, Not Years, on Cloud Run]]></title>
+        <id>6acf003cd00b1413f617c32e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/"/>
+        <updated>2026-10-14T04:08:28.000Z</updated>
+        <summary type="html"><![CDATA[A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a]]></summary>
+        <author>
+            <name>Abhinay Gokul</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]]]></title>
         <id>6acc85a51f0d893ec1d98e0e</id>
@@ -93,26 +113,6 @@
         <summary type="html"><![CDATA[A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox]]></title>
-        <id>6ac49165464372e77035c728</id>
-        <link href="https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/"/>
-        <updated>2026-10-06T06:12:53.000Z</updated>
-        <summary type="html"><![CDATA[Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc]]></summary>
-        <author>
-            <name>Chirag Agrawal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Encrypt PII in Data Pipelines While Keeping It Searchable]]></title>
-        <id>6ac4810141f9b6b6ff5bf1cd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/"/>
-        <updated>2026-10-06T05:02:57.000Z</updated>
-        <summary type="html"><![CDATA[At Intuit, my team built a data pipeline that processed TurboTax e-filing data. This data needed to be made available for dashboards, analytics, and other downstream use cases. One of the biggest chal]]></summary>
-        <author>
-            <name>Lakshmi Mahabaleshwara</name>
         </author>
     </entry>
     <entry>
