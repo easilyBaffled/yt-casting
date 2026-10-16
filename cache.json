@@ -38,7 +38,7 @@
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4658,
+          "wordCount": 4653,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -46,21 +46,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
-          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
-          "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
-          "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
-          "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5023,
-          "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg"
         }
       ]
     },
@@ -69,6 +54,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6ad0d6b41b1aaeb205d2d198",
+          "author": "Amina Lawal",
+          "description": "Every team that ships software eventually builds a staging environment. And every team that builds a staging environment eventually discovers the same problem. Staging is shared. One environment, many",
+          "link": "https://www.freecodecamp.org/news/build-ephemeral-pr-preview-environments-on-gke-with-github-actions-ingress-automatic-tls/",
+          "publishedOn": "2026-10-15T13:35:48.000Z",
+          "wordCount": 14992,
+          "title": "How to Build Ephemeral PR Preview Environments on GKE with GitHub Actions, Ingress, and Automatic TLS",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d8182a7-81dd-4bb8-bd62-f9e3c4175532.png"
+        },
+        {
+          "id": "6ad05e6261108f0421f7f3d4",
+          "author": "Harish Gaggar",
+          "description": "Our on-call team keeps a small internal notes API. The web app in front of it shows who's holding the pager, which days are frozen for deploys, and where the runbooks live. A developer on that team wa",
+          "link": "https://www.freecodecamp.org/news/how-to-give-ai-agent-safe-access-internal-api-mcp/",
+          "publishedOn": "2026-10-15T05:02:26.000Z",
+          "wordCount": 5827,
+          "title": "How to Give an AI Agent Safe Access to an Internal API with MCP",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/87096379-4cf7-4701-a76c-c09964d519e1.png"
+        },
+        {
+          "id": "6ad05dd81f613b7136df1683",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "There's a conversation that happens in most engineering teams,maybe usually too late. Think of this, a feature ships to production. A security review happens afterwards, or a penetration test finds so",
+          "link": "https://www.freecodecamp.org/news/secure-by-design-engineer-security-into-architecture-before-writing-code/",
+          "publishedOn": "2026-10-15T05:00:08.000Z",
+          "wordCount": 7660,
+          "title": "Secure by Design: How to Engineer Security into Architecture Before Writing Any Code",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/47f24cb6-f4b9-40eb-9690-db750358c4d6.png"
+        },
+        {
+          "id": "6ad05935fb11435ce8281161",
+          "author": "Alex Oliinyk",
+          "description": "At some point, a map project needs more than markers and polygons. You want something to happen on the map: water moving up a street, smoke drifting with the wind, or a shockwave spreading out from a",
+          "link": "https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/",
+          "publishedOn": "2026-10-15T04:40:21.000Z",
+          "wordCount": 13194,
+          "title": "How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/db541c6a-aba6-4a25-b0f8-2a4657c485d3.png"
+        },
         {
           "id": "6acfa07df5672c904a1a970e",
           "author": "Kayode Adeniyi",
@@ -115,7 +140,7 @@
           "description": "In my previous article, I explored executor independence: the idea that different execution mechanisms should be able to satisfy the same operational specification. By executor independence, I mean th",
           "link": "https://www.freecodecamp.org/news/measure-conformance-operational-specification-execution/",
           "publishedOn": "2026-10-11T09:46:41.000Z",
-          "wordCount": 4642,
+          "wordCount": 4648,
           "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/55c7ea87-fbb5-4b3f-ae4e-1d1616362579.png"
         },
@@ -125,49 +150,9 @@
           "description": "Structured data has always mattered to search engines. When a search engine reads your page, it sees HTML: a heading, some paragraphs, a date somewhere, a name somewhere else. Structured data tells it",
           "link": "https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/",
           "publishedOn": "2026-10-11T09:31:06.000Z",
-          "wordCount": 6019,
+          "wordCount": 6023,
           "title": "How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4e937052-66b6-461f-ae80-53e8395811e8.png"
-        },
-        {
-          "id": "6ac91e9ac74cf25dc4943707",
-          "author": "Beau Carnes",
-          "description": "Most automation tutorials show you how to connect two simple apps and call it a day. But building workflows that companies can actually run in production requires an entirely different skill set, one",
-          "link": "https://www.freecodecamp.org/news/create-scalable-ai-automations-with-n8n/",
-          "publishedOn": "2026-10-09T17:04:26.000Z",
-          "wordCount": 1594,
-          "title": "Create Scalable AI Automations with n8n",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7957e58c-2b0a-4245-a58c-0de90ab5a374.png"
-        },
-        {
-          "id": "6ac7b4efba111367663fc712",
-          "author": "Beau Carnes",
-          "description": "Routing in modern web applications has evolved far beyond simply rendering a component based on a URL path. Developers today want end-to-end type safety, automated code splitting, seamless URL search",
-          "link": "https://www.freecodecamp.org/news/master-modern-react-routing-tanstack-router-crash-course/",
-          "publishedOn": "2026-10-08T15:21:19.000Z",
-          "wordCount": 1645,
-          "title": "Master Modern React Routing: TanStack Router Crash Course",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/9aeef2a4-98c3-4967-87c6-aa995b98b737.png"
-        },
-        {
-          "id": "6ac788ce8908dc166f0a0562",
-          "author": "Zaira Hira",
-          "description": "Creating system architecture design diagrams is an important part of technical documentation. As system complexity grows, clarity within teams becomes even more important. But creating diagrams from s",
-          "link": "https://www.freecodecamp.org/news/how-to-create-system-design-diagrams-using-python/",
-          "publishedOn": "2026-10-08T12:13:02.000Z",
-          "wordCount": 2889,
-          "title": "How to Create System Design Diagrams using Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dc8376e4-76df-4ea5-90cf-38a90069be19.png"
-        },
-        {
-          "id": "6ac6f9bb8e5c8e3fb8fd0905",
-          "author": "Beau Carnes",
-          "description": "You don't need a massive GPU cluster to learn how modern frontier AI works. In our new video on the freeCodeCamp.org YouTube channel, you will build, pre-train, and fine-tune a working 25-million para",
-          "link": "https://www.freecodecamp.org/news/build-and-train-a-25m-parameter-llm-from-scratch-on-your-cpu/",
-          "publishedOn": "2026-10-08T02:02:35.000Z",
-          "wordCount": 1598,
-          "title": "Build and Train a 25M Parameter LLM From Scratch on Your CPU",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d7d4538b-9aff-4e9e-ab8c-65adb325a2f0.png"
         }
       ]
     }

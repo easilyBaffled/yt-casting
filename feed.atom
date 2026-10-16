@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-15T04:12:50.717Z</id>
+    <id>urn:2026-10-16T04:08:42.899Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-15T04:12:50.717Z</updated>
+    <updated>2026-10-16T04:08:42.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Ephemeral PR Preview Environments on GKE with GitHub Actions, Ingress, and Automatic TLS]]></title>
+        <id>6ad0d6b41b1aaeb205d2d198</id>
+        <link href="https://www.freecodecamp.org/news/build-ephemeral-pr-preview-environments-on-gke-with-github-actions-ingress-automatic-tls/"/>
+        <updated>2026-10-15T13:35:48.000Z</updated>
+        <summary type="html"><![CDATA[Every team that ships software eventually builds a staging environment. And every team that builds a staging environment eventually discovers the same problem. Staging is shared. One environment, many]]></summary>
+        <author>
+            <name>Amina Lawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Give an AI Agent Safe Access to an Internal API with MCP]]></title>
+        <id>6ad05e6261108f0421f7f3d4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-give-ai-agent-safe-access-internal-api-mcp/"/>
+        <updated>2026-10-15T05:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Our on-call team keeps a small internal notes API. The web app in front of it shows who's holding the pager, which days are frozen for deploys, and where the runbooks live. A developer on that team wa]]></summary>
+        <author>
+            <name>Harish Gaggar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure by Design: How to Engineer Security into Architecture Before Writing Any Code]]></title>
+        <id>6ad05dd81f613b7136df1683</id>
+        <link href="https://www.freecodecamp.org/news/secure-by-design-engineer-security-into-architecture-before-writing-code/"/>
+        <updated>2026-10-15T05:00:08.000Z</updated>
+        <summary type="html"><![CDATA[There's a conversation that happens in most engineering teams,maybe usually too late. Think of this, a feature ships to production. A security review happens afterwards, or a penetration test finds so]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js]]></title>
+        <id>6ad05935fb11435ce8281161</id>
+        <link href="https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/"/>
+        <updated>2026-10-15T04:40:21.000Z</updated>
+        <summary type="html"><![CDATA[At some point, a map project needs more than markers and polygons. You want something to happen on the map: water moving up a street, smoke drifting with the wind, or a shockwave spreading out from a]]></summary>
+        <author>
+            <name>Alex Oliinyk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Stop an AI Agent from Inventing Nigerian Postcodes]]></title>
         <id>6acfa07df5672c904a1a970e</id>
@@ -66,46 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create Scalable AI Automations with n8n]]></title>
-        <id>6ac91e9ac74cf25dc4943707</id>
-        <link href="https://www.freecodecamp.org/news/create-scalable-ai-automations-with-n8n/"/>
-        <updated>2026-10-09T17:04:26.000Z</updated>
-        <summary type="html"><![CDATA[Most automation tutorials show you how to connect two simple apps and call it a day. But building workflows that companies can actually run in production requires an entirely different skill set, one]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Modern React Routing: TanStack Router Crash Course]]></title>
-        <id>6ac7b4efba111367663fc712</id>
-        <link href="https://www.freecodecamp.org/news/master-modern-react-routing-tanstack-router-crash-course/"/>
-        <updated>2026-10-08T15:21:19.000Z</updated>
-        <summary type="html"><![CDATA[Routing in modern web applications has evolved far beyond simply rendering a component based on a URL path. Developers today want end-to-end type safety, automated code splitting, seamless URL search]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create System Design Diagrams using Python]]></title>
-        <id>6ac788ce8908dc166f0a0562</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-system-design-diagrams-using-python/"/>
-        <updated>2026-10-08T12:13:02.000Z</updated>
-        <summary type="html"><![CDATA[Creating system architecture design diagrams is an important part of technical documentation. As system complexity grows, clarity within teams becomes even more important. But creating diagrams from s]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build and Train a 25M Parameter LLM From Scratch on Your CPU]]></title>
-        <id>6ac6f9bb8e5c8e3fb8fd0905</id>
-        <link href="https://www.freecodecamp.org/news/build-and-train-a-25m-parameter-llm-from-scratch-on-your-cpu/"/>
-        <updated>2026-10-08T02:02:35.000Z</updated>
-        <summary type="html"><![CDATA[You don't need a massive GPU cluster to learn how modern frontier AI works. In our new video on the freeCodeCamp.org YouTube channel, you will build, pre-train, and fine-tune a working 25-million para]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Practical Guide To Naming Things]]></title>
         <id>https://smashingmagazine.com/2026/10/how-name-things/</id>
         <link href="https://smashingmagazine.com/2026/10/how-name-things/"/>
@@ -123,16 +123,6 @@
         <summary type="html"><![CDATA[October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Treating CSS Container Queries Like Traditional Media Queries]]></title>
-        <id>https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/</id>
-        <link href="https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"/>
-        <updated>2026-09-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
         </author>
     </entry>
 </feed>
