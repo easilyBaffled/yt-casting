@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today. - AI - Workflow - Business",
+          "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
+          "publishedOn": "2026-10-16T10:00:00.000Z",
+          "wordCount": 4790,
+          "title": "Is Your Organization Messing Up AI Adoption?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/10/how-name-things/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
@@ -54,6 +69,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6ad245772c56514e6fd78db7",
+          "author": "Osomudeya Zudonu",
+          "description": "This guided lab walks you through migrating a small payments app, with a React UI and Express API running on a single AWS EC2 instance, while PostgreSQL stays on AWS. You’ll move the UI and API to Goo",
+          "link": "https://www.freecodecamp.org/news/how-to-migrate-an-application-from-aws-to-gke-full-book/",
+          "publishedOn": "2026-10-16T15:40:39.000Z",
+          "wordCount": 30358,
+          "title": "How to Migrate an Application from AWS to GKE [Full Book]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8a1803ba-c9c9-496d-b2c4-58392cc655eb.png"
+        },
+        {
+          "id": "6ad23fa987efcb761dd9805f",
+          "author": "Vasuki Uday Kiran Vudathala",
+          "description": "A good final answer doesn't prove that an agentic AI workflow was correct. This book develops a code-backed method for verifying execution and business outcomes from authoritative state and using that",
+          "link": "https://www.freecodecamp.org/news/agentic-ai-reliability-book-build-a-testing-harness/",
+          "publishedOn": "2026-10-16T15:15:53.000Z",
+          "wordCount": 49258,
+          "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/22a8cce0-8b31-442d-88c3-64fe8d49d886.png"
+        },
+        {
+          "id": "6ad210e1717d55cb5bae9773",
+          "author": "Beau Carnes",
+          "description": "Artificial intelligence models like GPT-4 and Claude require massive, highly complex physical infrastructure. We just published a new full-length course on the freeCodeCamp.org YouTube channel that ta",
+          "link": "https://www.freecodecamp.org/news/the-anatomy-of-an-ai-data-center/",
+          "publishedOn": "2026-10-16T11:56:17.000Z",
+          "wordCount": 1545,
+          "title": "The Anatomy of an AI Data Center",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/f2a00a6c-f24b-44b7-8b0b-5804a005e5cc.png"
+        },
+        {
+          "id": "6ad20bc2f10b4af311064a38",
+          "author": "Beau Carnes",
+          "description": "System design is one of the most important skills for software engineers today. Whether you're applying for senior or staff-level positions or just looking to level up your architectural knowledge, un",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-design-software-systems-like-a-senior-engineer-in-our-new-course/",
+          "publishedOn": "2026-10-16T11:34:26.000Z",
+          "wordCount": 1576,
+          "title": "Learn How to Design Software Systems Like a Senior Engineer in Our New Course",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e7c56cb4-aabc-41e2-8fd9-4c14bb158d91.png"
+        },
         {
           "id": "6ad0d6b41b1aaeb205d2d198",
           "author": "Amina Lawal",
@@ -113,46 +168,6 @@
           "wordCount": 2925,
           "title": "How to Keep a File for Minutes, Not Years, on Cloud Run",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5b5c4c33-45b1-4e68-88d7-2d3ff82b0961.png"
-        },
-        {
-          "id": "6acc85a51f0d893ec1d98e0e",
-          "author": "Vahe Aslanyan",
-          "description": "A report on AI productivity, human capability, software economics, SaaS defensibility, and the future of engineering work. Between 2024 and 2026, the marginal cost of producing a line of working code",
-          "link": "https://www.freecodecamp.org/news/the-state-of-ai-and-software-engineering-book/",
-          "publishedOn": "2026-10-12T07:00:53.000Z",
-          "wordCount": 71008,
-          "title": "The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dde99ac0-8f3a-4287-8b23-e38e841c1235.png"
-        },
-        {
-          "id": "6acb97b4d2b7bc0f3bd063ec",
-          "author": "Javeed Shaik",
-          "description": "A colleague once asked me why a number in my code had a comment three lines long. The number was 18. The comment said which rule it came from, which section notified it, and that it could change witho",
-          "link": "https://www.freecodecamp.org/news/what-to-do-when-your-constants-are-someone-else-s-law/",
-          "publishedOn": "2026-10-11T14:05:40.000Z",
-          "wordCount": 3165,
-          "title": "What to Do When Your Constants Are Someone Else's Law",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d0b15ef7-16e3-4521-afe8-f2bd08611f97.png"
-        },
-        {
-          "id": "6acb5b01b19fbe5ad15d6949",
-          "author": "Hugo Teijiz",
-          "description": "In my previous article, I explored executor independence: the idea that different execution mechanisms should be able to satisfy the same operational specification. By executor independence, I mean th",
-          "link": "https://www.freecodecamp.org/news/measure-conformance-operational-specification-execution/",
-          "publishedOn": "2026-10-11T09:46:41.000Z",
-          "wordCount": 4648,
-          "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/55c7ea87-fbb5-4b3f-ae4e-1d1616362579.png"
-        },
-        {
-          "id": "6acb575a7dfd7348cce66960",
-          "author": "Saar Twito",
-          "description": "Structured data has always mattered to search engines. When a search engine reads your page, it sees HTML: a heading, some paragraphs, a date somewhere, a name somewhere else. Structured data tells it",
-          "link": "https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/",
-          "publishedOn": "2026-10-11T09:31:06.000Z",
-          "wordCount": 6023,
-          "title": "How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4e937052-66b6-461f-ae80-53e8395811e8.png"
         }
       ]
     }
