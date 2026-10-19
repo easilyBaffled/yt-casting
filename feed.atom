@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-18T04:06:12.821Z</id>
+    <id>urn:2026-10-19T04:15:25.632Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-18T04:06:12.821Z</updated>
+    <updated>2026-10-19T04:15:25.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -50,7 +50,7 @@
         <id>https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/</id>
         <link href="https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/"/>
         <updated>2026-10-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today. - AI - Workflow - Business]]></summary>
+        <summary type="html"><![CDATA[What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
         </author>
