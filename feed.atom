@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-19T04:15:25.632Z</id>
+    <id>urn:2026-10-20T04:27:04.777Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-19T04:15:25.632Z</updated>
+    <updated>2026-10-20T04:27:04.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store]]></title>
+        <id>6ad617a7ac07d3a260c5c1a8</id>
+        <link href="https://www.freecodecamp.org/news/build-publish-native-android-app-from-jetpack-compose-to-google-play-store-handbook/"/>
+        <updated>2026-10-19T13:14:15.000Z</updated>
+        <summary type="html"><![CDATA[Most Android tutorials stop at "it runs on the emulator." But getting an app from a blank project to a listing that real people can install from Google Play involves a second half that's rarely discus]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Detect Operational Drift Before It Becomes an Incident]]></title>
+        <id>6ad5be696f06108d923b29a5</id>
+        <link href="https://www.freecodecamp.org/news/detect-operational-drift-before-incident/"/>
+        <updated>2026-10-19T06:53:29.000Z</updated>
+        <summary type="html"><![CDATA[In my previous article, I explored operational conformance: how to evaluate whether observed evidence satisfies an operational specification. That gives us a useful point-in-time question: Does the s]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Website User Interface Faster Using AI Prompts]]></title>
+        <id>6ad5be274280cd4c1db0f2d1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-website-user-interface-faster-using-ai-prompts/"/>
+        <updated>2026-10-19T06:52:23.000Z</updated>
+        <summary type="html"><![CDATA[A website user interface (UI) used to take hours of writing HTML, CSS, and component code by hand. Now you can describe a page in plain words and let an AI coding tool write the first version. But the]]></summary>
+        <author>
+            <name>Vaibhav Gupta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Migrate an Application from AWS to GKE [Full Book]]]></title>
         <id>6ad245772c56514e6fd78db7</id>
@@ -83,36 +113,6 @@
         <summary type="html"><![CDATA[There's a conversation that happens in most engineering teams,maybe usually too late. Think of this, a feature ships to production. A security review happens afterwards, or a penetration test finds so]]></summary>
         <author>
             <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js]]></title>
-        <id>6ad05935fb11435ce8281161</id>
-        <link href="https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/"/>
-        <updated>2026-10-15T04:40:21.000Z</updated>
-        <summary type="html"><![CDATA[At some point, a map project needs more than markers and polygons. You want something to happen on the map: water moving up a street, smoke drifting with the wind, or a shockwave spreading out from a]]></summary>
-        <author>
-            <name>Alex Oliinyk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Stop an AI Agent from Inventing Nigerian Postcodes]]></title>
-        <id>6acfa07df5672c904a1a970e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-stop-an-ai-agent-from-inventing-nigerian-postcodes/"/>
-        <updated>2026-10-14T15:32:13.000Z</updated>
-        <summary type="html"><![CDATA[On 1 October 2026, Nigeria's postcode changed from six digits to an 11-character code that identifies a single building, such as EK-01-A03-FK-01. Language models trained before that date still describ]]></summary>
-        <author>
-            <name>Kayode Adeniyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Keep a File for Minutes, Not Years, on Cloud Run]]></title>
-        <id>6acf003cd00b1413f617c32e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/"/>
-        <updated>2026-10-14T04:08:28.000Z</updated>
-        <summary type="html"><![CDATA[A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a]]></summary>
-        <author>
-            <name>Abhinay Gokul</name>
         </author>
     </entry>
     <entry>

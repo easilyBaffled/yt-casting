@@ -23,7 +23,7 @@
           "description": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.",
           "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
           "publishedOn": "2026-10-16T10:00:00.000Z",
-          "wordCount": 4805,
+          "wordCount": 4797,
           "title": "Is Your Organization Messing Up AI Adoption?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
@@ -38,7 +38,7 @@
           "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
           "link": "https://smashingmagazine.com/2026/10/how-name-things/",
           "publishedOn": "2026-10-06T10:00:00.000Z",
-          "wordCount": 4072,
+          "wordCount": 4077,
           "title": "A Practical Guide To Naming Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
@@ -70,6 +70,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6ad617a7ac07d3a260c5c1a8",
+          "author": "Nikheel Vishwas Savant",
+          "description": "Most Android tutorials stop at \"it runs on the emulator.\" But getting an app from a blank project to a listing that real people can install from Google Play involves a second half that's rarely discus",
+          "link": "https://www.freecodecamp.org/news/build-publish-native-android-app-from-jetpack-compose-to-google-play-store-handbook/",
+          "publishedOn": "2026-10-19T13:14:15.000Z",
+          "wordCount": 11507,
+          "title": "How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ae76da68-1529-486f-a1c0-aaa72031d084.png"
+        },
+        {
+          "id": "6ad5be696f06108d923b29a5",
+          "author": "Hugo Teijiz",
+          "description": "In my previous article, I explored operational conformance: how to evaluate whether observed evidence satisfies an operational specification. That gives us a useful point-in-time question: Does the s",
+          "link": "https://www.freecodecamp.org/news/detect-operational-drift-before-incident/",
+          "publishedOn": "2026-10-19T06:53:29.000Z",
+          "wordCount": 4994,
+          "title": "How to Detect Operational Drift Before It Becomes an Incident",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/883e3abc-de6f-48c8-aff5-5c5cab4093c2.png"
+        },
+        {
+          "id": "6ad5be274280cd4c1db0f2d1",
+          "author": "Vaibhav Gupta",
+          "description": "A website user interface (UI) used to take hours of writing HTML, CSS, and component code by hand. Now you can describe a page in plain words and let an AI coding tool write the first version. But the",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-website-user-interface-faster-using-ai-prompts/",
+          "publishedOn": "2026-10-19T06:52:23.000Z",
+          "wordCount": 6228,
+          "title": "How to Build a Website User Interface Faster Using AI Prompts",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f2e5a285-24cd-4aa4-8d6c-12c59ce9063f.png"
+        },
+        {
           "id": "6ad245772c56514e6fd78db7",
           "author": "Osomudeya Zudonu",
           "description": "This guided lab walks you through migrating a small payments app, with a React UI and Express API running on a single AWS EC2 instance, while PostgreSQL stays on AWS. You’ll move the UI and API to Goo",
@@ -95,7 +125,7 @@
           "description": "Artificial intelligence models like GPT-4 and Claude require massive, highly complex physical infrastructure. We just published a new full-length course on the freeCodeCamp.org YouTube channel that ta",
           "link": "https://www.freecodecamp.org/news/the-anatomy-of-an-ai-data-center/",
           "publishedOn": "2026-10-16T11:56:17.000Z",
-          "wordCount": 1529,
+          "wordCount": 1533,
           "title": "The Anatomy of an AI Data Center",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/f2a00a6c-f24b-44b7-8b0b-5804a005e5cc.png"
         },
@@ -105,7 +135,7 @@
           "description": "System design is one of the most important skills for software engineers today. Whether you're applying for senior or staff-level positions or just looking to level up your architectural knowledge, un",
           "link": "https://www.freecodecamp.org/news/learn-how-to-design-software-systems-like-a-senior-engineer-in-our-new-course/",
           "publishedOn": "2026-10-16T11:34:26.000Z",
-          "wordCount": 1576,
+          "wordCount": 1580,
           "title": "Learn How to Design Software Systems Like a Senior Engineer in Our New Course",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e7c56cb4-aabc-41e2-8fd9-4c14bb158d91.png"
         },
@@ -135,39 +165,9 @@
           "description": "There's a conversation that happens in most engineering teams,maybe usually too late. Think of this, a feature ships to production. A security review happens afterwards, or a penetration test finds so",
           "link": "https://www.freecodecamp.org/news/secure-by-design-engineer-security-into-architecture-before-writing-code/",
           "publishedOn": "2026-10-15T05:00:08.000Z",
-          "wordCount": 7660,
+          "wordCount": 7676,
           "title": "Secure by Design: How to Engineer Security into Architecture Before Writing Any Code",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/47f24cb6-f4b9-40eb-9690-db750358c4d6.png"
-        },
-        {
-          "id": "6ad05935fb11435ce8281161",
-          "author": "Alex Oliinyk",
-          "description": "At some point, a map project needs more than markers and polygons. You want something to happen on the map: water moving up a street, smoke drifting with the wind, or a shockwave spreading out from a",
-          "link": "https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/",
-          "publishedOn": "2026-10-15T04:40:21.000Z",
-          "wordCount": 13194,
-          "title": "How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/db541c6a-aba6-4a25-b0f8-2a4657c485d3.png"
-        },
-        {
-          "id": "6acfa07df5672c904a1a970e",
-          "author": "Kayode Adeniyi",
-          "description": "On 1 October 2026, Nigeria's postcode changed from six digits to an 11-character code that identifies a single building, such as EK-01-A03-FK-01. Language models trained before that date still describ",
-          "link": "https://www.freecodecamp.org/news/how-to-stop-an-ai-agent-from-inventing-nigerian-postcodes/",
-          "publishedOn": "2026-10-14T15:32:13.000Z",
-          "wordCount": 4315,
-          "title": "How to Stop an AI Agent from Inventing Nigerian Postcodes",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/fc6aa940-cdca-4307-8416-682b5d660091.png"
-        },
-        {
-          "id": "6acf003cd00b1413f617c32e",
-          "author": "Abhinay Gokul",
-          "description": "A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a",
-          "link": "https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/",
-          "publishedOn": "2026-10-14T04:08:28.000Z",
-          "wordCount": 2925,
-          "title": "How to Keep a File for Minutes, Not Years, on Cloud Run",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5b5c4c33-45b1-4e68-88d7-2d3ff82b0961.png"
         }
       ]
     }
