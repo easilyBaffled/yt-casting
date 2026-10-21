@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-20T04:27:04.777Z</id>
+    <id>urn:2026-10-21T04:17:55.250Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-20T04:27:04.777Z</updated>
+    <updated>2026-10-21T04:17:55.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Neural Networks Work: Why Straight Lines Aren't Enough]]></title>
+        <id>6ad7987561e15ba931f3a014</id>
+        <link href="https://www.freecodecamp.org/news/how-neural-networks-work-why-straight-lines-aren-t-enough/"/>
+        <updated>2026-10-20T16:36:05.000Z</updated>
+        <summary type="html"><![CDATA[A straight line equation is a good place to start understanding how a neural network works. It's what we explored in my previous article, How Neural Networks Work – Explained Using the Straight Line E]]></summary>
+        <author>
+            <name>Samyukta Hegde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Wearables Can Adapt When Pregnancy Changes a User's Regular Baseline]]></title>
+        <id>6ad7898638fe90993d14433c</id>
+        <link href="https://www.freecodecamp.org/news/how-wearables-can-adapt-when-pregnancy-changes-a-user-s-regular-baseline/"/>
+        <updated>2026-10-20T15:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Your smart ring or watch has many useful jobs, including learning your usual physiological patterns and showing you when they change. Resting heart rate, heart rate variability (HRV), temperature, and]]></summary>
+        <author>
+            <name>Shradha Puri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embracing Playful Imperfection With The CSS `random()` Function]]></title>
+        <id>https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/</id>
+        <link href="https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"/>
+        <updated>2026-10-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Agent Harness from Scratch in TypeScript]]></title>
+        <id>6ad7357a193ada3e82fb5bc5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-agent-harness-from-scratch-in-typescript/"/>
+        <updated>2026-10-20T09:33:46.000Z</updated>
+        <summary type="html"><![CDATA[Many AI agent tutorials start with a language model, give it a few tools, and run a loop until it produces an answer. That's enough to demonstrate tool calling, but it leaves the interesting engineeri]]></summary>
+        <author>
+            <name>Gabor Koos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Your Coding Agent Check Its Work in the Browser]]></title>
+        <id>6ad731804f84a96f720e9e9d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-your-coding-agent-check-its-work-in-the-browser/"/>
+        <updated>2026-10-20T09:16:48.000Z</updated>
+        <summary type="html"><![CDATA[I got tired of coding agents telling me the frontend work was done when nobody had opened the frontend. You've probably seen the routine. The agent changes some code, runs the formatter, the type chec]]></summary>
+        <author>
+            <name>timothy ogbemudia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store]]></title>
         <id>6ad617a7ac07d3a260c5c1a8</id>
@@ -66,16 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn How to Design Software Systems Like a Senior Engineer in Our New Course]]></title>
-        <id>6ad20bc2f10b4af311064a38</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-design-software-systems-like-a-senior-engineer-in-our-new-course/"/>
-        <updated>2026-10-16T11:34:26.000Z</updated>
-        <summary type="html"><![CDATA[System design is one of the most important skills for software engineers today. Whether you're applying for senior or staff-level positions or just looking to level up your architectural knowledge, un]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Is Your Organization Messing Up AI Adoption?]]></title>
         <id>https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/</id>
         <link href="https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/"/>
@@ -83,36 +123,6 @@
         <summary type="html"><![CDATA[What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Ephemeral PR Preview Environments on GKE with GitHub Actions, Ingress, and Automatic TLS]]></title>
-        <id>6ad0d6b41b1aaeb205d2d198</id>
-        <link href="https://www.freecodecamp.org/news/build-ephemeral-pr-preview-environments-on-gke-with-github-actions-ingress-automatic-tls/"/>
-        <updated>2026-10-15T13:35:48.000Z</updated>
-        <summary type="html"><![CDATA[Every team that ships software eventually builds a staging environment. And every team that builds a staging environment eventually discovers the same problem. Staging is shared. One environment, many]]></summary>
-        <author>
-            <name>Amina Lawal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Give an AI Agent Safe Access to an Internal API with MCP]]></title>
-        <id>6ad05e6261108f0421f7f3d4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-give-ai-agent-safe-access-internal-api-mcp/"/>
-        <updated>2026-10-15T05:02:26.000Z</updated>
-        <summary type="html"><![CDATA[Our on-call team keeps a small internal notes API. The web app in front of it shows who's holding the pager, which days are frozen for deploys, and where the runbooks live. A developer on that team wa]]></summary>
-        <author>
-            <name>Harish Gaggar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secure by Design: How to Engineer Security into Architecture Before Writing Any Code]]></title>
-        <id>6ad05dd81f613b7136df1683</id>
-        <link href="https://www.freecodecamp.org/news/secure-by-design-engineer-security-into-architecture-before-writing-code/"/>
-        <updated>2026-10-15T05:00:08.000Z</updated>
-        <summary type="html"><![CDATA[There's a conversation that happens in most engineering teams,maybe usually too late. Think of this, a feature ships to production. A security review happens afterwards, or a penetration test finds so]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
         </author>
     </entry>
     <entry>

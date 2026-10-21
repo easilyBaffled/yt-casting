@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+          "description": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
+          "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+          "publishedOn": "2026-10-20T10:00:00.000Z",
+          "wordCount": 5961,
+          "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
           "description": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.",
           "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
           "publishedOn": "2026-10-16T10:00:00.000Z",
-          "wordCount": 4797,
+          "wordCount": 4793,
           "title": "Is Your Organization Messing Up AI Adoption?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
@@ -38,7 +53,7 @@
           "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
           "link": "https://smashingmagazine.com/2026/10/how-name-things/",
           "publishedOn": "2026-10-06T10:00:00.000Z",
-          "wordCount": 4077,
+          "wordCount": 4084,
           "title": "A Practical Guide To Naming Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
@@ -53,7 +68,7 @@
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4653,
+          "wordCount": 4659,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -70,6 +85,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6ad7987561e15ba931f3a014",
+          "author": "Samyukta Hegde",
+          "description": "A straight line equation is a good place to start understanding how a neural network works. It's what we explored in my previous article, How Neural Networks Work – Explained Using the Straight Line E",
+          "link": "https://www.freecodecamp.org/news/how-neural-networks-work-why-straight-lines-aren-t-enough/",
+          "publishedOn": "2026-10-20T16:36:05.000Z",
+          "wordCount": 3534,
+          "title": "How Neural Networks Work: Why Straight Lines Aren't Enough",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0220c2ae-5938-458c-9a87-b97a66c7945e.png"
+        },
+        {
+          "id": "6ad7898638fe90993d14433c",
+          "author": "Shradha Puri",
+          "description": "Your smart ring or watch has many useful jobs, including learning your usual physiological patterns and showing you when they change. Resting heart rate, heart rate variability (HRV), temperature, and",
+          "link": "https://www.freecodecamp.org/news/how-wearables-can-adapt-when-pregnancy-changes-a-user-s-regular-baseline/",
+          "publishedOn": "2026-10-20T15:32:22.000Z",
+          "wordCount": 3854,
+          "title": "How Wearables Can Adapt When Pregnancy Changes a User's Regular Baseline",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bda2d690-df48-4c12-8a7d-d68cd0a5eedf.png"
+        },
+        {
+          "id": "6ad7357a193ada3e82fb5bc5",
+          "author": "Gabor Koos",
+          "description": "Many AI agent tutorials start with a language model, give it a few tools, and run a loop until it produces an answer. That's enough to demonstrate tool calling, but it leaves the interesting engineeri",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-agent-harness-from-scratch-in-typescript/",
+          "publishedOn": "2026-10-20T09:33:46.000Z",
+          "wordCount": 7725,
+          "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ba422277-ac91-408c-9022-225002c6213a.png"
+        },
+        {
+          "id": "6ad731804f84a96f720e9e9d",
+          "author": "timothy ogbemudia",
+          "description": "I got tired of coding agents telling me the frontend work was done when nobody had opened the frontend. You've probably seen the routine. The agent changes some code, runs the formatter, the type chec",
+          "link": "https://www.freecodecamp.org/news/how-to-make-your-coding-agent-check-its-work-in-the-browser/",
+          "publishedOn": "2026-10-20T09:16:48.000Z",
+          "wordCount": 7984,
+          "title": "How to Make Your Coding Agent Check Its Work in the Browser",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cbbc37b8-4405-4aa3-a691-0d7c7301baf2.png"
+        },
+        {
           "id": "6ad617a7ac07d3a260c5c1a8",
           "author": "Nikheel Vishwas Savant",
           "description": "Most Android tutorials stop at \"it runs on the emulator.\" But getting an app from a blank project to a listing that real people can install from Google Play involves a second half that's rarely discus",
@@ -85,7 +140,7 @@
           "description": "In my previous article, I explored operational conformance: how to evaluate whether observed evidence satisfies an operational specification. That gives us a useful point-in-time question: Does the s",
           "link": "https://www.freecodecamp.org/news/detect-operational-drift-before-incident/",
           "publishedOn": "2026-10-19T06:53:29.000Z",
-          "wordCount": 4994,
+          "wordCount": 4984,
           "title": "How to Detect Operational Drift Before It Becomes an Incident",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/883e3abc-de6f-48c8-aff5-5c5cab4093c2.png"
         },
@@ -95,7 +150,7 @@
           "description": "A website user interface (UI) used to take hours of writing HTML, CSS, and component code by hand. Now you can describe a page in plain words and let an AI coding tool write the first version. But the",
           "link": "https://www.freecodecamp.org/news/how-to-build-a-website-user-interface-faster-using-ai-prompts/",
           "publishedOn": "2026-10-19T06:52:23.000Z",
-          "wordCount": 6228,
+          "wordCount": 6242,
           "title": "How to Build a Website User Interface Faster Using AI Prompts",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f2e5a285-24cd-4aa4-8d6c-12c59ce9063f.png"
         },
@@ -128,46 +183,6 @@
           "wordCount": 1533,
           "title": "The Anatomy of an AI Data Center",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/f2a00a6c-f24b-44b7-8b0b-5804a005e5cc.png"
-        },
-        {
-          "id": "6ad20bc2f10b4af311064a38",
-          "author": "Beau Carnes",
-          "description": "System design is one of the most important skills for software engineers today. Whether you're applying for senior or staff-level positions or just looking to level up your architectural knowledge, un",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-design-software-systems-like-a-senior-engineer-in-our-new-course/",
-          "publishedOn": "2026-10-16T11:34:26.000Z",
-          "wordCount": 1580,
-          "title": "Learn How to Design Software Systems Like a Senior Engineer in Our New Course",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e7c56cb4-aabc-41e2-8fd9-4c14bb158d91.png"
-        },
-        {
-          "id": "6ad0d6b41b1aaeb205d2d198",
-          "author": "Amina Lawal",
-          "description": "Every team that ships software eventually builds a staging environment. And every team that builds a staging environment eventually discovers the same problem. Staging is shared. One environment, many",
-          "link": "https://www.freecodecamp.org/news/build-ephemeral-pr-preview-environments-on-gke-with-github-actions-ingress-automatic-tls/",
-          "publishedOn": "2026-10-15T13:35:48.000Z",
-          "wordCount": 14992,
-          "title": "How to Build Ephemeral PR Preview Environments on GKE with GitHub Actions, Ingress, and Automatic TLS",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d8182a7-81dd-4bb8-bd62-f9e3c4175532.png"
-        },
-        {
-          "id": "6ad05e6261108f0421f7f3d4",
-          "author": "Harish Gaggar",
-          "description": "Our on-call team keeps a small internal notes API. The web app in front of it shows who's holding the pager, which days are frozen for deploys, and where the runbooks live. A developer on that team wa",
-          "link": "https://www.freecodecamp.org/news/how-to-give-ai-agent-safe-access-internal-api-mcp/",
-          "publishedOn": "2026-10-15T05:02:26.000Z",
-          "wordCount": 5827,
-          "title": "How to Give an AI Agent Safe Access to an Internal API with MCP",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/87096379-4cf7-4701-a76c-c09964d519e1.png"
-        },
-        {
-          "id": "6ad05dd81f613b7136df1683",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "There's a conversation that happens in most engineering teams,maybe usually too late. Think of this, a feature ships to production. A security review happens afterwards, or a penetration test finds so",
-          "link": "https://www.freecodecamp.org/news/secure-by-design-engineer-security-into-architecture-before-writing-code/",
-          "publishedOn": "2026-10-15T05:00:08.000Z",
-          "wordCount": 7676,
-          "title": "Secure by Design: How to Engineer Security into Architecture Before Writing Any Code",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/47f24cb6-f4b9-40eb-9690-db750358c4d6.png"
         }
       ]
     }
