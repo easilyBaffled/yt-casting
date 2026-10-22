@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-21T04:17:55.250Z</id>
+    <id>urn:2026-10-22T04:18:02.708Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-21T04:17:55.250Z</updated>
+    <updated>2026-10-22T04:18:02.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Model Distillation? A Guide for Developers]]></title>
+        <id>6ad9087ef5ddaeeade835143</id>
+        <link href="https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/"/>
+        <updated>2026-10-21T18:46:22.000Z</updated>
+        <summary type="html"><![CDATA[Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre]]></summary>
+        <author>
+            <name>Mene-Ejegi Ogbemi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Diagnose vite: not found After npm ci in a Container Build]]></title>
+        <id>6ad8e242b2fc46237526d8b7</id>
+        <link href="https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/"/>
+        <updated>2026-10-21T16:03:14.000Z</updated>
+        <summary type="html"><![CDATA[I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure]]></summary>
+        <author>
+            <name>Ahmed Tariq</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Hybrid Search Engine in PostgreSQL: BM25 + Vector Retrieval]]></title>
+        <id>6ad8a5349cd0ba9a078f2e8e</id>
+        <link href="https://www.freecodecamp.org/news/build-a-hybrid-search-engine-in-postgresql-bm25-vector-retrieval/"/>
+        <updated>2026-10-21T11:42:44.000Z</updated>
+        <summary type="html"><![CDATA[Most application search setups force a trade-off: settle for simple text filters, or manage a separate search cluster like Elasticsearch with complex synchronization pipelines. In a new video course o]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Neural Networks Work: Why Straight Lines Aren't Enough]]></title>
         <id>6ad7987561e15ba931f3a014</id>
@@ -83,36 +113,6 @@
         <summary type="html"><![CDATA[A website user interface (UI) used to take hours of writing HTML, CSS, and component code by hand. Now you can describe a page in plain words and let an AI coding tool write the first version. But the]]></summary>
         <author>
             <name>Vaibhav Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Migrate an Application from AWS to GKE [Full Book]]]></title>
-        <id>6ad245772c56514e6fd78db7</id>
-        <link href="https://www.freecodecamp.org/news/how-to-migrate-an-application-from-aws-to-gke-full-book/"/>
-        <updated>2026-10-16T15:40:39.000Z</updated>
-        <summary type="html"><![CDATA[This guided lab walks you through migrating a small payments app, with a React UI and Express API running on a single AWS EC2 instance, while PostgreSQL stays on AWS. You’ll move the UI and API to Goo]]></summary>
-        <author>
-            <name>Osomudeya Zudonu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]]]></title>
-        <id>6ad23fa987efcb761dd9805f</id>
-        <link href="https://www.freecodecamp.org/news/agentic-ai-reliability-book-build-a-testing-harness/"/>
-        <updated>2026-10-16T15:15:53.000Z</updated>
-        <summary type="html"><![CDATA[A good final answer doesn't prove that an agentic AI workflow was correct. This book develops a code-backed method for verifying execution and business outcomes from authoritative state and using that]]></summary>
-        <author>
-            <name>Vasuki Uday Kiran Vudathala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Anatomy of an AI Data Center]]></title>
-        <id>6ad210e1717d55cb5bae9773</id>
-        <link href="https://www.freecodecamp.org/news/the-anatomy-of-an-ai-data-center/"/>
-        <updated>2026-10-16T11:56:17.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence models like GPT-4 and Claude require massive, highly complex physical infrastructure. We just published a new full-length course on the freeCodeCamp.org YouTube channel that ta]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>

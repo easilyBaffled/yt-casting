@@ -23,7 +23,7 @@
           "description": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
           "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
           "publishedOn": "2026-10-20T10:00:00.000Z",
-          "wordCount": 5961,
+          "wordCount": 5996,
           "title": "Embracing Playful Imperfection With The CSS `random()` Function",
           "enclosure": {
             "url": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
@@ -38,7 +38,7 @@
           "description": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.",
           "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
           "publishedOn": "2026-10-16T10:00:00.000Z",
-          "wordCount": 4793,
+          "wordCount": 4897,
           "title": "Is Your Organization Messing Up AI Adoption?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
@@ -53,7 +53,7 @@
           "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
           "link": "https://smashingmagazine.com/2026/10/how-name-things/",
           "publishedOn": "2026-10-06T10:00:00.000Z",
-          "wordCount": 4084,
+          "wordCount": 4072,
           "title": "A Practical Guide To Naming Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
@@ -68,7 +68,7 @@
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4659,
+          "wordCount": 4657,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -84,6 +84,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6ad9087ef5ddaeeade835143",
+          "author": "Mene-Ejegi Ogbemi",
+          "description": "Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre",
+          "link": "https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/",
+          "publishedOn": "2026-10-21T18:46:22.000Z",
+          "wordCount": 4828,
+          "title": "What Is Model Distillation? A Guide for Developers",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d829d33-57ca-4b85-84b8-13f86798afb7.png"
+        },
+        {
+          "id": "6ad8e242b2fc46237526d8b7",
+          "author": "Ahmed Tariq",
+          "description": "I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure",
+          "link": "https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/",
+          "publishedOn": "2026-10-21T16:03:14.000Z",
+          "wordCount": 3595,
+          "title": "How to Diagnose vite: not found After npm ci in a Container Build",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c7a9e1bf-42bd-46de-a3db-6939e863e53b.png"
+        },
+        {
+          "id": "6ad8a5349cd0ba9a078f2e8e",
+          "author": "Beau Carnes",
+          "description": "Most application search setups force a trade-off: settle for simple text filters, or manage a separate search cluster like Elasticsearch with complex synchronization pipelines. In a new video course o",
+          "link": "https://www.freecodecamp.org/news/build-a-hybrid-search-engine-in-postgresql-bm25-vector-retrieval/",
+          "publishedOn": "2026-10-21T11:42:44.000Z",
+          "wordCount": 1528,
+          "title": "Build a Hybrid Search Engine in PostgreSQL: BM25 + Vector Retrieval",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/644a1317-5022-4e1f-9a0a-6b115453d874.png"
+        },
         {
           "id": "6ad7987561e15ba931f3a014",
           "author": "Samyukta Hegde",
@@ -110,7 +140,7 @@
           "description": "Many AI agent tutorials start with a language model, give it a few tools, and run a loop until it produces an answer. That's enough to demonstrate tool calling, but it leaves the interesting engineeri",
           "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-agent-harness-from-scratch-in-typescript/",
           "publishedOn": "2026-10-20T09:33:46.000Z",
-          "wordCount": 7725,
+          "wordCount": 7729,
           "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ba422277-ac91-408c-9022-225002c6213a.png"
         },
@@ -140,7 +170,7 @@
           "description": "In my previous article, I explored operational conformance: how to evaluate whether observed evidence satisfies an operational specification. That gives us a useful point-in-time question: Does the s",
           "link": "https://www.freecodecamp.org/news/detect-operational-drift-before-incident/",
           "publishedOn": "2026-10-19T06:53:29.000Z",
-          "wordCount": 4984,
+          "wordCount": 4994,
           "title": "How to Detect Operational Drift Before It Becomes an Incident",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/883e3abc-de6f-48c8-aff5-5c5cab4093c2.png"
         },
@@ -153,36 +183,6 @@
           "wordCount": 6242,
           "title": "How to Build a Website User Interface Faster Using AI Prompts",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f2e5a285-24cd-4aa4-8d6c-12c59ce9063f.png"
-        },
-        {
-          "id": "6ad245772c56514e6fd78db7",
-          "author": "Osomudeya Zudonu",
-          "description": "This guided lab walks you through migrating a small payments app, with a React UI and Express API running on a single AWS EC2 instance, while PostgreSQL stays on AWS. You’ll move the UI and API to Goo",
-          "link": "https://www.freecodecamp.org/news/how-to-migrate-an-application-from-aws-to-gke-full-book/",
-          "publishedOn": "2026-10-16T15:40:39.000Z",
-          "wordCount": 30358,
-          "title": "How to Migrate an Application from AWS to GKE [Full Book]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8a1803ba-c9c9-496d-b2c4-58392cc655eb.png"
-        },
-        {
-          "id": "6ad23fa987efcb761dd9805f",
-          "author": "Vasuki Uday Kiran Vudathala",
-          "description": "A good final answer doesn't prove that an agentic AI workflow was correct. This book develops a code-backed method for verifying execution and business outcomes from authoritative state and using that",
-          "link": "https://www.freecodecamp.org/news/agentic-ai-reliability-book-build-a-testing-harness/",
-          "publishedOn": "2026-10-16T15:15:53.000Z",
-          "wordCount": 49264,
-          "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/22a8cce0-8b31-442d-88c3-64fe8d49d886.png"
-        },
-        {
-          "id": "6ad210e1717d55cb5bae9773",
-          "author": "Beau Carnes",
-          "description": "Artificial intelligence models like GPT-4 and Claude require massive, highly complex physical infrastructure. We just published a new full-length course on the freeCodeCamp.org YouTube channel that ta",
-          "link": "https://www.freecodecamp.org/news/the-anatomy-of-an-ai-data-center/",
-          "publishedOn": "2026-10-16T11:56:17.000Z",
-          "wordCount": 1533,
-          "title": "The Anatomy of an AI Data Center",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/f2a00a6c-f24b-44b7-8b0b-5804a005e5cc.png"
         }
       ]
     }
