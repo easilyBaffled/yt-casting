@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-23T04:21:52.605Z</id>
+    <id>urn:2026-10-24T04:12:16.065Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-23T04:21:52.605Z</updated>
+    <updated>2026-10-24T04:12:16.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Accordion Icons: Which Work Best?]]></title>
+        <id>https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/</id>
+        <link href="https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"/>
+        <updated>2026-10-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Model Context Protocol (MCP) Security]]></title>
+        <id>6adabd38de11e835d17fc25e</id>
+        <link href="https://www.freecodecamp.org/news/learn-model-context-protocol-mcp-security/"/>
+        <updated>2026-10-23T01:49:44.000Z</updated>
+        <summary type="html"><![CDATA[MCP bridges the gap between your AI agents and your external tools, allowing them to send Discord messages, read your emails, and interact with your environment. But this massive leap in capability co]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is Model Distillation? A Guide for Developers]]></title>
         <id>6ad9087ef5ddaeeade835143</id>
@@ -103,16 +123,6 @@
         <summary type="html"><![CDATA[In my previous article, I explored operational conformance: how to evaluate whether observed evidence satisfies an operational specification. That gives us a useful point-in-time question: Does the s]]></summary>
         <author>
             <name>Hugo Teijiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Website User Interface Faster Using AI Prompts]]></title>
-        <id>6ad5be274280cd4c1db0f2d1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-website-user-interface-faster-using-ai-prompts/"/>
-        <updated>2026-10-19T06:52:23.000Z</updated>
-        <summary type="html"><![CDATA[A website user interface (UI) used to take hours of writing HTML, CSS, and component code by hand. Now you can describe a page in plain words and let an AI coding tool write the first version. But the]]></summary>
-        <author>
-            <name>Vaibhav Gupta</name>
         </author>
     </entry>
     <entry>
