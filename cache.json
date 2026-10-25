@@ -7,6 +7,12 @@
       "articles": []
     },
     {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": []
+    },
+    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
@@ -17,7 +23,7 @@
           "description": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
           "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
           "publishedOn": "2026-10-23T13:00:00.000Z",
-          "wordCount": 3557,
+          "wordCount": 3565,
           "title": "Accordion Icons: Which Work Best?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
@@ -32,7 +38,7 @@
           "description": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
           "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
           "publishedOn": "2026-10-20T10:00:00.000Z",
-          "wordCount": 6005,
+          "wordCount": 5998,
           "title": "Embracing Playful Imperfection With The CSS `random()` Function",
           "enclosure": {
             "url": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
@@ -47,7 +53,7 @@
           "description": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.",
           "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
           "publishedOn": "2026-10-16T10:00:00.000Z",
-          "wordCount": 4789,
+          "wordCount": 4801,
           "title": "Is Your Organization Messing Up AI Adoption?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
@@ -77,7 +83,7 @@
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4654,
+          "wordCount": 4649,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -159,7 +165,7 @@
           "description": "Many AI agent tutorials start with a language model, give it a few tools, and run a loop until it produces an answer. That's enough to demonstrate tool calling, but it leaves the interesting engineeri",
           "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-agent-harness-from-scratch-in-typescript/",
           "publishedOn": "2026-10-20T09:33:46.000Z",
-          "wordCount": 8517,
+          "wordCount": 8519,
           "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ba422277-ac91-408c-9022-225002c6213a.png"
         },
@@ -189,7 +195,7 @@
           "description": "In my previous article, I explored operational conformance: how to evaluate whether observed evidence satisfies an operational specification. That gives us a useful point-in-time question: Does the s",
           "link": "https://www.freecodecamp.org/news/detect-operational-drift-before-incident/",
           "publishedOn": "2026-10-19T06:53:29.000Z",
-          "wordCount": 5431,
+          "wordCount": 5436,
           "title": "How to Detect Operational Drift Before It Becomes an Incident",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/883e3abc-de6f-48c8-aff5-5c5cab4093c2.png"
         }
