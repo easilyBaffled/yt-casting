@@ -10,7 +10,18 @@
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=397227",
+          "author": "Geoff Graham",
+          "description": "Yes, I've got the keys to the castle, so to speak. And, even after 12 years of working on the site, I'll admit I'm a little overwhelmed and nervous about that.\nCSS-Tricks has a new owner! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+          "publishedOn": "2026-10-26T15:29:36.000Z",
+          "wordCount": 4028,
+          "title": "CSS-Tricks has a new owner!",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        }
+      ]
     },
     {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
@@ -38,7 +49,7 @@
           "description": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
           "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
           "publishedOn": "2026-10-20T10:00:00.000Z",
-          "wordCount": 5995,
+          "wordCount": 5994,
           "title": "Embracing Playful Imperfection With The CSS `random()` Function",
           "enclosure": {
             "url": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
@@ -53,7 +64,7 @@
           "description": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.",
           "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
           "publishedOn": "2026-10-16T10:00:00.000Z",
-          "wordCount": 4910,
+          "wordCount": 4788,
           "title": "Is Your Organization Messing Up AI Adoption?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
@@ -68,7 +79,7 @@
           "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
           "link": "https://smashingmagazine.com/2026/10/how-name-things/",
           "publishedOn": "2026-10-06T10:00:00.000Z",
-          "wordCount": 4078,
+          "wordCount": 4070,
           "title": "A Practical Guide To Naming Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
@@ -83,7 +94,7 @@
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4649,
+          "wordCount": 4643,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -99,6 +110,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6adfcca469efba9d2d746b18",
+          "author": "Eva J Patel",
+          "description": "Data analysis might sound complicated when you first encounter it. You might imagine large databases, advanced mathematics, and complicated machine learning algorithms. But many useful data analysis t",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-simple-data-analyzer-in-python-with-pandas/",
+          "publishedOn": "2026-10-26T21:56:52.000Z",
+          "wordCount": 3750,
+          "title": "How to Build a Simple Data Analyzer in Python with Pandas",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1d798058-cb3d-4459-8280-320685d7c6d4.png"
+        },
+        {
+          "id": "6adf5af668afba8fc152b63d",
+          "author": "Reetain Raina",
+          "description": "A noisy flight can make it difficult to enjoy a podcast or listen to music without turning up your volume super high. Much of that disturbance comes from the steady rumble of the engines, which contin",
+          "link": "https://www.freecodecamp.org/news/how-noise-cancelling-headphones-work/",
+          "publishedOn": "2026-10-26T13:51:50.000Z",
+          "wordCount": 3798,
+          "title": "How Noise-Cancelling Headphones Actually Remove Sound in Real Time",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/920c2029-1812-45e6-91f2-c6566a7eca5c.png"
+        },
         {
           "id": "6adabd38de11e835d17fc25e",
           "author": "Beau Carnes",
@@ -155,7 +186,7 @@
           "description": "Your smart ring or watch has many useful jobs, including learning your usual physiological patterns and showing you when they change. Resting heart rate, heart rate variability (HRV), temperature, and",
           "link": "https://www.freecodecamp.org/news/how-wearables-can-adapt-when-pregnancy-changes-a-user-s-regular-baseline/",
           "publishedOn": "2026-10-20T15:32:22.000Z",
-          "wordCount": 4048,
+          "wordCount": 4030,
           "title": "How Wearables Can Adapt When Pregnancy Changes a User's Regular Baseline",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bda2d690-df48-4c12-8a7d-d68cd0a5eedf.png"
         },
@@ -178,26 +209,6 @@
           "wordCount": 8734,
           "title": "How to Make Your Coding Agent Check Its Work in the Browser",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cbbc37b8-4405-4aa3-a691-0d7c7301baf2.png"
-        },
-        {
-          "id": "6ad617a7ac07d3a260c5c1a8",
-          "author": "Nikheel Vishwas Savant",
-          "description": "Most Android tutorials stop at \"it runs on the emulator.\" But getting an app from a blank project to a listing that real people can install from Google Play involves a second half that's rarely discus",
-          "link": "https://www.freecodecamp.org/news/build-publish-native-android-app-from-jetpack-compose-to-google-play-store-handbook/",
-          "publishedOn": "2026-10-19T13:14:15.000Z",
-          "wordCount": 12975,
-          "title": "How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ae76da68-1529-486f-a1c0-aaa72031d084.png"
-        },
-        {
-          "id": "6ad5be696f06108d923b29a5",
-          "author": "Hugo Teijiz",
-          "description": "In my previous article, I explored operational conformance: how to evaluate whether observed evidence satisfies an operational specification. That gives us a useful point-in-time question: Does the s",
-          "link": "https://www.freecodecamp.org/news/detect-operational-drift-before-incident/",
-          "publishedOn": "2026-10-19T06:53:29.000Z",
-          "wordCount": 5431,
-          "title": "How to Detect Operational Drift Before It Becomes an Incident",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/883e3abc-de6f-48c8-aff5-5c5cab4093c2.png"
         }
       ]
     }
