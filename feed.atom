@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-27T04:38:28.725Z</id>
+    <id>urn:2026-10-28T05:11:31.809Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-27T04:38:28.725Z</updated>
+    <updated>2026-10-28T05:11:31.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Passkey Authentication with WebAuthn, Next.js and NestJS]]></title>
+        <id>6ae0e2ec42a07b949a9f1206</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-passkey-authentication-with-webauthn-next-js-and-nestjs/"/>
+        <updated>2026-10-27T17:44:12.000Z</updated>
+        <summary type="html"><![CDATA[Passwords are a pain for both users and service providers․ Users often find it difficult to remember passwords, and the risk of phishing and password reuse across multiple websites is high. Developers]]></summary>
+        <author>
+            <name>Roland Mweze</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More]]></title>
+        <id>https://css-tricks.com/?p=396840</id>
+        <link href="https://css-tricks.com/whats-important-19/"/>
+        <updated>2026-10-27T15:09:16.000Z</updated>
+        <summary type="html"><![CDATA[We’re back! Don't worry, this isn’t a trick (despite what our name suggests!). However, due to the hiatus, we're also a little behind. That’s why this issue of What’s !important is absolutely stacked. All killer, no filler. Here's what you missed.
+What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Simple Data Analyzer in Python with Pandas]]></title>
         <id>6adfcca469efba9d2d746b18</id>
@@ -124,16 +145,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <summary type="html"><![CDATA[Many AI agent tutorials start with a language model, give it a few tools, and run a loop until it produces an answer. That's enough to demonstrate tool calling, but it leaves the interesting engineeri]]></summary>
         <author>
             <name>Gabor Koos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Your Coding Agent Check Its Work in the Browser]]></title>
-        <id>6ad731804f84a96f720e9e9d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-your-coding-agent-check-its-work-in-the-browser/"/>
-        <updated>2026-10-20T09:16:48.000Z</updated>
-        <summary type="html"><![CDATA[I got tired of coding agents telling me the frontend work was done when nobody had opened the frontend. You've probably seen the routine. The agent changes some code, runs the formatter, the type chec]]></summary>
-        <author>
-            <name>timothy ogbemudia</name>
         </author>
     </entry>
     <entry>
