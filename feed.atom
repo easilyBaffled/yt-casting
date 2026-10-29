@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-28T05:11:31.809Z</id>
+    <id>urn:2026-10-29T05:23:12.283Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-28T05:11:31.809Z</updated>
+    <updated>2026-10-29T05:23:12.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Command-Line Weather App with Python]]></title>
+        <id>6ae266148842cb1aa91f5625</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-command-line-weather-app-with-python/"/>
+        <updated>2026-10-28T21:16:04.000Z</updated>
+        <summary type="html"><![CDATA[After doing a few basic Python projects, I got a bit bored of programs that just take input and print something back. I wanted to make something that actually gets data from the internet. So, I built]]></summary>
+        <author>
+            <name>Sameer Qaiser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Passkey Authentication with WebAuthn, Next.js and NestJS]]></title>
         <id>6ae0e2ec42a07b949a9f1206</id>
@@ -135,16 +145,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <summary type="html"><![CDATA[Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Agent Harness from Scratch in TypeScript]]></title>
-        <id>6ad7357a193ada3e82fb5bc5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-agent-harness-from-scratch-in-typescript/"/>
-        <updated>2026-10-20T09:33:46.000Z</updated>
-        <summary type="html"><![CDATA[Many AI agent tutorials start with a language model, give it a few tools, and run a loop until it produces an answer. That's enough to demonstrate tool calling, but it leaves the interesting engineeri]]></summary>
-        <author>
-            <name>Gabor Koos</name>
         </author>
     </entry>
     <entry>

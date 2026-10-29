@@ -17,7 +17,7 @@
           "description": "We’re back! Don't worry, this isn’t a trick (despite what our name suggests!). However, due to the hiatus, we're also a little behind. That’s why this issue of What’s !important is absolutely stacked. All killer, no filler. Here's what you missed.\nWhat’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-19/",
           "publishedOn": "2026-10-27T15:09:16.000Z",
-          "wordCount": 2958,
+          "wordCount": 2930,
           "title": "What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/09/wi19.jpg"
         },
@@ -27,7 +27,7 @@
           "description": "Yes, I've got the keys to the castle, so to speak. And, even after 12 years of working on the site, I'll admit I'm a little overwhelmed and nervous about that.\nCSS-Tricks has a new owner! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
           "publishedOn": "2026-10-26T15:29:36.000Z",
-          "wordCount": 4632,
+          "wordCount": 4803,
           "title": "CSS-Tricks has a new owner!",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         }
@@ -44,7 +44,7 @@
           "description": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
           "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
           "publishedOn": "2026-10-23T13:00:00.000Z",
-          "wordCount": 3571,
+          "wordCount": 3556,
           "title": "Accordion Icons: Which Work Best?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
@@ -59,7 +59,7 @@
           "description": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
           "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
           "publishedOn": "2026-10-20T10:00:00.000Z",
-          "wordCount": 6003,
+          "wordCount": 5997,
           "title": "Embracing Playful Imperfection With The CSS `random()` Function",
           "enclosure": {
             "url": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
@@ -74,7 +74,7 @@
           "description": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.",
           "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
           "publishedOn": "2026-10-16T10:00:00.000Z",
-          "wordCount": 4788,
+          "wordCount": 4798,
           "title": "Is Your Organization Messing Up AI Adoption?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
@@ -89,7 +89,7 @@
           "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
           "link": "https://smashingmagazine.com/2026/10/how-name-things/",
           "publishedOn": "2026-10-06T10:00:00.000Z",
-          "wordCount": 4069,
+          "wordCount": 4074,
           "title": "A Practical Guide To Naming Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
@@ -104,7 +104,7 @@
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4647,
+          "wordCount": 4660,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -121,12 +121,22 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6ae266148842cb1aa91f5625",
+          "author": "Sameer Qaiser",
+          "description": "After doing a few basic Python projects, I got a bit bored of programs that just take input and print something back. I wanted to make something that actually gets data from the internet. So, I built",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-command-line-weather-app-with-python/",
+          "publishedOn": "2026-10-28T21:16:04.000Z",
+          "wordCount": 2311,
+          "title": "How to Build a Command-Line Weather App with Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b79396ff-d6f7-4e08-a4e0-282b0eb881da.png"
+        },
+        {
           "id": "6ae0e2ec42a07b949a9f1206",
           "author": "Roland Mweze",
           "description": "Passwords are a pain for both users and service providers․ Users often find it difficult to remember passwords, and the risk of phishing and password reuse across multiple websites is high. Developers",
           "link": "https://www.freecodecamp.org/news/how-to-build-passkey-authentication-with-webauthn-next-js-and-nestjs/",
           "publishedOn": "2026-10-27T17:44:12.000Z",
-          "wordCount": 8476,
+          "wordCount": 8468,
           "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/416b0a8e-1b49-4945-9072-37d69280b6af.png"
         },
@@ -136,7 +146,7 @@
           "description": "Data analysis might sound complicated when you first encounter it. You might imagine large databases, advanced mathematics, and complicated machine learning algorithms. But many useful data analysis t",
           "link": "https://www.freecodecamp.org/news/how-to-build-a-simple-data-analyzer-in-python-with-pandas/",
           "publishedOn": "2026-10-26T21:56:52.000Z",
-          "wordCount": 3750,
+          "wordCount": 3759,
           "title": "How to Build a Simple Data Analyzer in Python with Pandas",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1d798058-cb3d-4459-8280-320685d7c6d4.png"
         },
@@ -146,7 +156,7 @@
           "description": "A noisy flight can make it difficult to enjoy a podcast or listen to music without turning up your volume super high. Much of that disturbance comes from the steady rumble of the engines, which contin",
           "link": "https://www.freecodecamp.org/news/how-noise-cancelling-headphones-work/",
           "publishedOn": "2026-10-26T13:51:50.000Z",
-          "wordCount": 3818,
+          "wordCount": 3803,
           "title": "How Noise-Cancelling Headphones Actually Remove Sound in Real Time",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/920c2029-1812-45e6-91f2-c6566a7eca5c.png"
         },
@@ -166,7 +176,7 @@
           "description": "Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre",
           "link": "https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/",
           "publishedOn": "2026-10-21T18:46:22.000Z",
-          "wordCount": 5108,
+          "wordCount": 5129,
           "title": "What Is Model Distillation? A Guide for Developers",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d829d33-57ca-4b85-84b8-13f86798afb7.png"
         },
@@ -196,7 +206,7 @@
           "description": "A straight line equation is a good place to start understanding how a neural network works. It's what we explored in my previous article, How Neural Networks Work – Explained Using the Straight Line E",
           "link": "https://www.freecodecamp.org/news/how-neural-networks-work-why-straight-lines-aren-t-enough/",
           "publishedOn": "2026-10-20T16:36:05.000Z",
-          "wordCount": 3692,
+          "wordCount": 3725,
           "title": "How Neural Networks Work: Why Straight Lines Aren't Enough",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0220c2ae-5938-458c-9a87-b97a66c7945e.png"
         },
@@ -206,19 +216,9 @@
           "description": "Your smart ring or watch has many useful jobs, including learning your usual physiological patterns and showing you when they change. Resting heart rate, heart rate variability (HRV), temperature, and",
           "link": "https://www.freecodecamp.org/news/how-wearables-can-adapt-when-pregnancy-changes-a-user-s-regular-baseline/",
           "publishedOn": "2026-10-20T15:32:22.000Z",
-          "wordCount": 4030,
+          "wordCount": 3988,
           "title": "How Wearables Can Adapt When Pregnancy Changes a User's Regular Baseline",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bda2d690-df48-4c12-8a7d-d68cd0a5eedf.png"
-        },
-        {
-          "id": "6ad7357a193ada3e82fb5bc5",
-          "author": "Gabor Koos",
-          "description": "Many AI agent tutorials start with a language model, give it a few tools, and run a loop until it produces an answer. That's enough to demonstrate tool calling, but it leaves the interesting engineeri",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-agent-harness-from-scratch-in-typescript/",
-          "publishedOn": "2026-10-20T09:33:46.000Z",
-          "wordCount": 8519,
-          "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ba422277-ac91-408c-9022-225002c6213a.png"
         }
       ]
     }
