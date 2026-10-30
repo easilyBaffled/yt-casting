@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-29T05:23:12.283Z</id>
+    <id>urn:2026-10-30T05:22:42.178Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-29T05:23:12.283Z</updated>
+    <updated>2026-10-30T05:22:42.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How AI-Powered Search Works: A Guide for Devs on AI Visibility]]></title>
+        <id>6ae3c06f0e706875cd980c58</id>
+        <link href="https://www.freecodecamp.org/news/ai-search-visibility/"/>
+        <updated>2026-10-29T21:53:51.000Z</updated>
+        <summary type="html"><![CDATA[Searched worked in a familiar way for decades: you'd type in your query, get back a list of pages, and choose one to click on. Behind the scenes, Google would find the pages it thought you might want,]]></summary>
+        <author>
+            <name>Reetain Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course]]></title>
+        <id>6ae3b3d9439b6aeed8a05ce3</id>
+        <link href="https://www.freecodecamp.org/news/learn-real-world-penetration-testing-hands-on-ethical-hacking-crash-course/"/>
+        <updated>2026-10-29T21:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Understanding how malicious actors infiltrate networks is the first step to building resilient infrastructure. To help developers and aspiring security analysts learn the fundamentals of offensive sec]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-Speed Decision Pipelines: Jev and Prefill-Only Inference from Scratch]]></title>
+        <id>6ae3b2d30decc8debbe7295b</id>
+        <link href="https://www.freecodecamp.org/news/high-speed-decision-pipelines-jev-and-prefill-only-inference-from-scratch/"/>
+        <updated>2026-10-29T20:55:47.000Z</updated>
+        <summary type="html"><![CDATA[Autoregressive token generation is notoriously slow and memory-intensive, especially when you only need a model to make a structured classification or routing decision rather than write out paragraphs]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build with Gemini 4 Argon – Fast-Track API Crash Course]]></title>
+        <id>6ae3b21e1d8f4b40cfbfe0c7</id>
+        <link href="https://www.freecodecamp.org/news/build-with-gemini-4-argon-fast-track-api-crash-course/"/>
+        <updated>2026-10-29T20:52:46.000Z</updated>
+        <summary type="html"><![CDATA[Google just released Gemini 4 Argon which is its most capable model designed specifically for complex reasoning, advanced coding, math, and science. To help you get building right away, we just publis]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure Your AI Agents – Free Model Context Protocol (MCP) Security Course]]></title>
+        <id>6ae3b10974f6b84b1a460349</id>
+        <link href="https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course/"/>
+        <updated>2026-10-29T20:48:09.000Z</updated>
+        <summary type="html"><![CDATA[The Model Context Protocol (MCP) helps connect LLMs to external tools, databases, and APIs. But giving AI agents hands and feet to take real-world actions introduces an entirely new attack surface. We]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]]]></title>
+        <id>6ae36961d5f7580678ebe2d1</id>
+        <link href="https://www.freecodecamp.org/news/python-in-marketing-a-practical-book/"/>
+        <updated>2026-10-29T15:42:25.000Z</updated>
+        <summary type="html"><![CDATA[Marketing has always involved wrangling lots of data. Before digital marketing, businesses had to track sales, customer purchases, coupon redemptions, store traffic, and survey responses to understand]]></summary>
+        <author>
+            <name>Eva J Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Service Models Explained: IaaS vs PaaS vs SaaS]]></title>
+        <id>6ae368ce7483e3ea0090cfe2</id>
+        <link href="https://www.freecodecamp.org/news/cloud-service-models-explained-iaas-vs-paas-vs-saas/"/>
+        <updated>2026-10-29T15:39:58.000Z</updated>
+        <summary type="html"><![CDATA[You likely use cloud services every day. When you check Gmail, join a Zoom meeting, or message your team on Slack, you use cloud-hosted software. But you don't manage the servers it runs on or maintai]]></summary>
+        <author>
+            <name>Chinwendu Enyinna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Frankenstein Table]]></title>
+        <id>https://css-tricks.com/?p=397546</id>
+        <link href="https://css-tricks.com/the-frankenstein-table/"/>
+        <updated>2026-10-29T13:47:08.000Z</updated>
+        <summary type="html"><![CDATA[A super scary way to go about tables using other layout techniques, like CSS Grid.
+The Frankenstein Table originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Command-Line Weather App with Python]]></title>
         <id>6ae266148842cb1aa91f5625</id>
@@ -58,16 +139,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Noise-Cancelling Headphones Actually Remove Sound in Real Time]]></title>
-        <id>6adf5af668afba8fc152b63d</id>
-        <link href="https://www.freecodecamp.org/news/how-noise-cancelling-headphones-work/"/>
-        <updated>2026-10-26T13:51:50.000Z</updated>
-        <summary type="html"><![CDATA[A noisy flight can make it difficult to enjoy a podcast or listen to music without turning up your volume super high. Much of that disturbance comes from the steady rumble of the engines, which contin]]></summary>
-        <author>
-            <name>Reetain Raina</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Accordion Icons: Which Work Best?]]></title>
         <id>https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/</id>
         <link href="https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"/>
@@ -75,66 +146,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <summary type="html"><![CDATA[A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Model Context Protocol (MCP) Security]]></title>
-        <id>6adabd38de11e835d17fc25e</id>
-        <link href="https://www.freecodecamp.org/news/learn-model-context-protocol-mcp-security/"/>
-        <updated>2026-10-23T01:49:44.000Z</updated>
-        <summary type="html"><![CDATA[MCP bridges the gap between your AI agents and your external tools, allowing them to send Discord messages, read your emails, and interact with your environment. But this massive leap in capability co]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Model Distillation? A Guide for Developers]]></title>
-        <id>6ad9087ef5ddaeeade835143</id>
-        <link href="https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/"/>
-        <updated>2026-10-21T18:46:22.000Z</updated>
-        <summary type="html"><![CDATA[Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre]]></summary>
-        <author>
-            <name>Mene-Ejegi Ogbemi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Diagnose vite: not found After npm ci in a Container Build]]></title>
-        <id>6ad8e242b2fc46237526d8b7</id>
-        <link href="https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/"/>
-        <updated>2026-10-21T16:03:14.000Z</updated>
-        <summary type="html"><![CDATA[I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure]]></summary>
-        <author>
-            <name>Ahmed Tariq</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Hybrid Search Engine in PostgreSQL: BM25 + Vector Retrieval]]></title>
-        <id>6ad8a5349cd0ba9a078f2e8e</id>
-        <link href="https://www.freecodecamp.org/news/build-a-hybrid-search-engine-in-postgresql-bm25-vector-retrieval/"/>
-        <updated>2026-10-21T11:42:44.000Z</updated>
-        <summary type="html"><![CDATA[Most application search setups force a trade-off: settle for simple text filters, or manage a separate search cluster like Elasticsearch with complex synchronization pipelines. In a new video course o]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Neural Networks Work: Why Straight Lines Aren't Enough]]></title>
-        <id>6ad7987561e15ba931f3a014</id>
-        <link href="https://www.freecodecamp.org/news/how-neural-networks-work-why-straight-lines-aren-t-enough/"/>
-        <updated>2026-10-20T16:36:05.000Z</updated>
-        <summary type="html"><![CDATA[A straight line equation is a good place to start understanding how a neural network works. It's what we explored in my previous article, How Neural Networks Work – Explained Using the Straight Line E]]></summary>
-        <author>
-            <name>Samyukta Hegde</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Wearables Can Adapt When Pregnancy Changes a User's Regular Baseline]]></title>
-        <id>6ad7898638fe90993d14433c</id>
-        <link href="https://www.freecodecamp.org/news/how-wearables-can-adapt-when-pregnancy-changes-a-user-s-regular-baseline/"/>
-        <updated>2026-10-20T15:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Your smart ring or watch has many useful jobs, including learning your usual physiological patterns and showing you when they change. Resting heart rate, heart rate variability (HRV), temperature, and]]></summary>
-        <author>
-            <name>Shradha Puri</name>
         </author>
     </entry>
     <entry>
@@ -165,16 +176,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <summary type="html"><![CDATA[A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Under Autumn’s Spell (October 2026 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/</id>
-        <link href="https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"/>
-        <updated>2026-09-30T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
