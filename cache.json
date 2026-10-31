@@ -17,7 +17,7 @@
           "description": "A super scary way to go about tables using other layout techniques, like CSS Grid.\nThe Frankenstein Table originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/the-frankenstein-table/",
           "publishedOn": "2026-10-29T13:47:08.000Z",
-          "wordCount": 2191,
+          "wordCount": 2454,
           "title": "The Frankenstein Table",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/zombie-table.jpg"
         },
@@ -27,7 +27,7 @@
           "description": "We’re back! Don't worry, this isn’t a trick (despite what our name suggests!). However, due to the hiatus, we're also a little behind. That’s why this issue of What’s !important is absolutely stacked. All killer, no filler. Here's what you missed.\nWhat’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-19/",
           "publishedOn": "2026-10-27T15:09:16.000Z",
-          "wordCount": 2930,
+          "wordCount": 2995,
           "title": "What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/09/wi19.jpg"
         },
@@ -37,7 +37,7 @@
           "description": "Yes, I've got the keys to the castle, so to speak. And, even after 12 years of working on the site, I'll admit I'm a little overwhelmed and nervous about that.\nCSS-Tricks has a new owner! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
           "publishedOn": "2026-10-26T15:29:36.000Z",
-          "wordCount": 4886,
+          "wordCount": 4987,
           "title": "CSS-Tricks has a new owner!",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         }
@@ -54,7 +54,7 @@
           "description": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
           "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
           "publishedOn": "2026-10-23T13:00:00.000Z",
-          "wordCount": 3557,
+          "wordCount": 3558,
           "title": "Accordion Icons: Which Work Best?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
@@ -69,7 +69,7 @@
           "description": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
           "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
           "publishedOn": "2026-10-20T10:00:00.000Z",
-          "wordCount": 5990,
+          "wordCount": 6006,
           "title": "Embracing Playful Imperfection With The CSS `random()` Function",
           "enclosure": {
             "url": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
@@ -84,7 +84,7 @@
           "description": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.",
           "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
           "publishedOn": "2026-10-16T10:00:00.000Z",
-          "wordCount": 4802,
+          "wordCount": 4902,
           "title": "Is Your Organization Messing Up AI Adoption?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
@@ -99,7 +99,7 @@
           "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
           "link": "https://smashingmagazine.com/2026/10/how-name-things/",
           "publishedOn": "2026-10-06T10:00:00.000Z",
-          "wordCount": 4069,
+          "wordCount": 4071,
           "title": "A Practical Guide To Naming Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
@@ -115,6 +115,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6ae4a260781c67f55b49b87b",
+          "author": "Kamal Kishore",
+          "description": "Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation. When an invoice arrives, an automated rules engine checks it against static thresholds. It checks whet",
+          "link": "https://www.freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide/",
+          "publishedOn": "2026-10-30T13:57:52.000Z",
+          "wordCount": 5725,
+          "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/223107d3-1947-4c50-aabe-a590e72a2fa9.png"
+        },
         {
           "id": "6ae3c06f0e706875cd980c58",
           "author": "Reetain Raina",
@@ -171,7 +181,7 @@
           "description": "Marketing has always involved wrangling lots of data. Before digital marketing, businesses had to track sales, customer purchases, coupon redemptions, store traffic, and survey responses to understand",
           "link": "https://www.freecodecamp.org/news/python-in-marketing-a-practical-book/",
           "publishedOn": "2026-10-29T15:42:25.000Z",
-          "wordCount": 23258,
+          "wordCount": 23234,
           "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/edbaff87-7932-42b2-8c28-61bb67972244.png"
         },
@@ -181,7 +191,7 @@
           "description": "You likely use cloud services every day. When you check Gmail, join a Zoom meeting, or message your team on Slack, you use cloud-hosted software. But you don't manage the servers it runs on or maintai",
           "link": "https://www.freecodecamp.org/news/cloud-service-models-explained-iaas-vs-paas-vs-saas/",
           "publishedOn": "2026-10-29T15:39:58.000Z",
-          "wordCount": 4899,
+          "wordCount": 4874,
           "title": "Cloud Service Models Explained: IaaS vs PaaS vs SaaS",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e9e06980-6916-4ded-9079-e007e85ff32b.png"
         },
@@ -201,19 +211,9 @@
           "description": "Passwords are a pain for both users and service providers․ Users often find it difficult to remember passwords, and the risk of phishing and password reuse across multiple websites is high. Developers",
           "link": "https://www.freecodecamp.org/news/how-to-build-passkey-authentication-with-webauthn-next-js-and-nestjs/",
           "publishedOn": "2026-10-27T17:44:12.000Z",
-          "wordCount": 8468,
+          "wordCount": 8466,
           "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/416b0a8e-1b49-4945-9072-37d69280b6af.png"
-        },
-        {
-          "id": "6adfcca469efba9d2d746b18",
-          "author": "Eva J Patel",
-          "description": "Data analysis might sound complicated when you first encounter it. You might imagine large databases, advanced mathematics, and complicated machine learning algorithms. But many useful data analysis t",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-simple-data-analyzer-in-python-with-pandas/",
-          "publishedOn": "2026-10-26T21:56:52.000Z",
-          "wordCount": 3746,
-          "title": "How to Build a Simple Data Analyzer in Python with Pandas",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1d798058-cb3d-4459-8280-320685d7c6d4.png"
         }
       ]
     }

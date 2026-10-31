@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-30T05:22:42.178Z</id>
+    <id>urn:2026-10-31T05:06:29.069Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-30T05:22:42.178Z</updated>
+    <updated>2026-10-31T05:06:29.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Detect Financial Fraud Patterns
+with Knowledge Graphs: A Production
+Guide]]></title>
+        <id>6ae4a260781c67f55b49b87b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide/"/>
+        <updated>2026-10-30T13:57:52.000Z</updated>
+        <summary type="html"><![CDATA[Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation. When an invoice arrives, an automated rules engine checks it against static thresholds. It checks whet]]></summary>
+        <author>
+            <name>Kamal Kishore</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How AI-Powered Search Works: A Guide for Devs on AI Visibility]]></title>
         <id>6ae3c06f0e706875cd980c58</id>
@@ -115,16 +127,6 @@ The Frankenstein Table originally handwritten and published with love on CSS-Tr
 What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Simple Data Analyzer in Python with Pandas]]></title>
-        <id>6adfcca469efba9d2d746b18</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-simple-data-analyzer-in-python-with-pandas/"/>
-        <updated>2026-10-26T21:56:52.000Z</updated>
-        <summary type="html"><![CDATA[Data analysis might sound complicated when you first encounter it. You might imagine large databases, advanced mathematics, and complicated machine learning algorithms. But many useful data analysis t]]></summary>
-        <author>
-            <name>Eva J Patel</name>
         </author>
     </entry>
     <entry>
