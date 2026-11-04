@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-03T06:14:49.906Z</id>
+    <id>urn:2026-11-04T05:51:33.506Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-03T06:14:49.906Z</updated>
+    <updated>2026-11-04T05:51:33.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Find and Fix Common Technical SEO Issues on Your Website]]></title>
+        <id>6aea2f4db1deb69c0283692a</id>
+        <link href="https://www.freecodecamp.org/news/fix-common-technical-seo-issues/"/>
+        <updated>2026-11-03T19:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Let's say you've built a website. You've invested in the design, bought a domain, and so on. But a website isn't only what you see on the screen. A lot happens behind the scenes. You have to understan]]></summary>
+        <author>
+            <name>Saar Twito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Docker Image Creation for Postgres Using Shell Commands]]></title>
+        <id>6aea2aaffbe759481e70cb16</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-docker-image-creation-for-postgres-using-shell/"/>
+        <updated>2026-11-03T18:40:47.000Z</updated>
+        <summary type="html"><![CDATA[If you have certain lines of code that repeat over and over again in a project, there's a pretty standard solution for it: using a function. But what about when you have the same project file setup th]]></summary>
+        <author>
+            <name>jabo Landry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Partner with Design Studios on Client Builds: A Freelance Developer's Guide]]></title>
+        <id>6aea10a0338bcff0a27d3b67</id>
+        <link href="https://www.freecodecamp.org/news/freelance-developer-design-studios/"/>
+        <updated>2026-11-03T16:49:36.000Z</updated>
+        <summary type="html"><![CDATA[Let's say a design studio gets a new client project. The branding is ready, the wireframes are approved, the Figma file is polished, and every screen looks pretty much perfect. Then the developer join]]></summary>
+        <author>
+            <name>Reetain Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Vector Databases for Beginners – Embeddings, Similarity Search & ChromaDB]]></title>
+        <id>6aea06ca2d9e47407b2ddc76</id>
+        <link href="https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/"/>
+        <updated>2026-11-03T16:07:38.000Z</updated>
+        <summary type="html"><![CDATA[A vector database stores data as lists of numbers called embeddings, which lets it search by meaning instead of matching exact keywords. It's the piece behind a lot of recommendation systems, RAG apps]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re-Implementing :nth-child() With Modern CSS]]></title>
+        <id>https://css-tricks.com/?p=397741</id>
+        <link href="https://css-tricks.com/re-implementing-nth-child-with-modern-css/"/>
+        <updated>2026-11-03T14:50:32.000Z</updated>
+        <summary type="html"><![CDATA[Combining :nth-child with style queries and sibling-index() to conditionally select child elements.
+Re-Implementing :nth-child() With Modern CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern CSS Might Make Your Front-End More Complex]]></title>
+        <id>https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/</id>
+        <link href="https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/"/>
+        <updated>2026-11-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Gabriel Shoyombo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random()]]></title>
         <id>https://css-tricks.com/?p=397698</id>
@@ -89,26 +150,6 @@ Guide]]></title>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]]]></title>
-        <id>6ae36961d5f7580678ebe2d1</id>
-        <link href="https://www.freecodecamp.org/news/python-in-marketing-a-practical-book/"/>
-        <updated>2026-10-29T15:42:25.000Z</updated>
-        <summary type="html"><![CDATA[Marketing has always involved wrangling lots of data. Before digital marketing, businesses had to track sales, customer purchases, coupon redemptions, store traffic, and survey responses to understand]]></summary>
-        <author>
-            <name>Eva J Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud Service Models Explained: IaaS vs PaaS vs SaaS]]></title>
-        <id>6ae368ce7483e3ea0090cfe2</id>
-        <link href="https://www.freecodecamp.org/news/cloud-service-models-explained-iaas-vs-paas-vs-saas/"/>
-        <updated>2026-10-29T15:39:58.000Z</updated>
-        <summary type="html"><![CDATA[You likely use cloud services every day. When you check Gmail, join a Zoom meeting, or message your team on Slack, you use cloud-hosted software. But you don't manage the servers it runs on or maintai]]></summary>
-        <author>
-            <name>Chinwendu Enyinna</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Frankenstein Table]]></title>
         <id>https://css-tricks.com/?p=397546</id>
         <link href="https://css-tricks.com/the-frankenstein-table/"/>
@@ -117,26 +158,6 @@ Guide]]></title>
 The Frankenstein Table originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Command-Line Weather App with Python]]></title>
-        <id>6ae266148842cb1aa91f5625</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-command-line-weather-app-with-python/"/>
-        <updated>2026-10-28T21:16:04.000Z</updated>
-        <summary type="html"><![CDATA[After doing a few basic Python projects, I got a bit bored of programs that just take input and print something back. I wanted to make something that actually gets data from the internet. So, I built]]></summary>
-        <author>
-            <name>Sameer Qaiser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Passkey Authentication with WebAuthn, Next.js and NestJS]]></title>
-        <id>6ae0e2ec42a07b949a9f1206</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-passkey-authentication-with-webauthn-next-js-and-nestjs/"/>
-        <updated>2026-10-27T17:44:12.000Z</updated>
-        <summary type="html"><![CDATA[Passwords are a pain for both users and service providers․ Users often find it difficult to remember passwords, and the risk of phishing and password reuse across multiple websites is high. Developers]]></summary>
-        <author>
-            <name>Roland Mweze</name>
         </author>
     </entry>
     <entry>
