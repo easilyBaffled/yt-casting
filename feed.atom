@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-04T05:51:33.506Z</id>
+    <id>urn:2026-11-05T06:11:55.621Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-04T05:51:33.506Z</updated>
+    <updated>2026-11-05T06:11:55.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What a CAPTCHA Farm Attack Actually Looks Like]]></title>
+        <id>6aeba47df91e889efe09a17a</id>
+        <link href="https://www.freecodecamp.org/news/captcha-farm-attack/"/>
+        <updated>2026-11-04T21:32:45.000Z</updated>
+        <summary type="html"><![CDATA[CAPTCHAs are something most of us have come across while browsing the internet. Sometimes we're asked to identify traffic lights in pictures, solve a small puzzle, or simply tick a box to confirm we'r]]></summary>
+        <author>
+            <name>Reetain Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Socrates and the New freeCodeCamp Forum]]></title>
+        <id>6aeb864c3b9bd5f8621e17c4</id>
+        <link href="https://www.freecodecamp.org/news/introducing-socrates-and-the-new-freecodecamp-forum/"/>
+        <updated>2026-11-04T19:23:56.000Z</updated>
+        <summary type="html"><![CDATA[freeCodeCamp just turned 12 years old. And so did our beloved forum. And today I'm thrilled to say that the forum is now focused on discussions rather than Q&A. This is thanks to Socrates, a new tool]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing AI Conference]]></title>
+        <id>https://css-tricks.com/?p=397777</id>
+        <link href="https://css-tricks.com/smashing-ai-conference/"/>
+        <updated>2026-11-04T15:02:51.000Z</updated>
+        <summary type="html"><![CDATA[The AI 2027 Conference is a live online day for designers and engineers on where AI stands today, what to expect in 2027, and where teams are getting it right.
+Smashing AI Conference originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Find and Fix Common Technical SEO Issues on Your Website]]></title>
         <id>6aea2f4db1deb69c0283692a</id>
@@ -130,26 +161,6 @@ Guide]]></title>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build with Gemini 4 Argon – Fast-Track API Crash Course]]></title>
-        <id>6ae3b21e1d8f4b40cfbfe0c7</id>
-        <link href="https://www.freecodecamp.org/news/build-with-gemini-4-argon-fast-track-api-crash-course/"/>
-        <updated>2026-10-29T20:52:46.000Z</updated>
-        <summary type="html"><![CDATA[Google just released Gemini 4 Argon which is its most capable model designed specifically for complex reasoning, advanced coding, math, and science. To help you get building right away, we just publis]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secure Your AI Agents – Free Model Context Protocol (MCP) Security Course]]></title>
-        <id>6ae3b10974f6b84b1a460349</id>
-        <link href="https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course/"/>
-        <updated>2026-10-29T20:48:09.000Z</updated>
-        <summary type="html"><![CDATA[The Model Context Protocol (MCP) helps connect LLMs to external tools, databases, and APIs. But giving AI agents hands and feet to take real-world actions introduces an entirely new attack surface. We]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Frankenstein Table]]></title>
         <id>https://css-tricks.com/?p=397546</id>
         <link href="https://css-tricks.com/the-frankenstein-table/"/>
@@ -210,16 +221,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <summary type="html"><![CDATA[What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Practical Guide To Naming Things]]></title>
-        <id>https://smashingmagazine.com/2026/10/how-name-things/</id>
-        <link href="https://smashingmagazine.com/2026/10/how-name-things/"/>
-        <updated>2026-10-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
