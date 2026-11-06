@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-05T06:11:55.621Z</id>
+    <id>urn:2026-11-06T06:05:39.203Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-05T06:11:55.621Z</updated>
+    <updated>2026-11-06T06:05:39.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use shadcn/ui in React Native Applications [Full Handbook]]]></title>
+        <id>6aecb9efa7a2ab6fb8e3fe94</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-shadcn-ui-in-react-native-applications-full-handbook/"/>
+        <updated>2026-11-05T17:16:30.000Z</updated>
+        <summary type="html"><![CDATA[If you've built a couple of React Native apps, the following probably feels familiar. You start with a colors.ts file and a simple Button component. Everything looks fine at first. Then the design cha]]></summary>
+        <author>
+            <name>Ajay Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taming Typography: Building a Modern CSS Reset]]></title>
+        <id>https://css-tricks.com/?p=396817</id>
+        <link href="https://css-tricks.com/taming-typography-modern-css-reset/"/>
+        <updated>2026-11-05T14:55:31.000Z</updated>
+        <summary type="html"><![CDATA[Stu created tidy-typography.css: a style reset for taming typography with modern CSS features for everything from fluid typography and vertical rhythm, to hyphens and variable fonts.
+Taming Typography: Building a Modern CSS Reset originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Stu Robson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Immersive LLM Chat Experiences More Accessible]]></title>
+        <id>https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/</id>
+        <link href="https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/"/>
+        <updated>2026-11-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eric Bailey)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What a CAPTCHA Farm Attack Actually Looks Like]]></title>
         <id>6aeba47df91e889efe09a17a</id>
@@ -146,16 +177,6 @@ Guide]]></title>
         <link href="https://www.freecodecamp.org/news/learn-real-world-penetration-testing-hands-on-ethical-hacking-crash-course/"/>
         <updated>2026-10-29T21:00:09.000Z</updated>
         <summary type="html"><![CDATA[Understanding how malicious actors infiltrate networks is the first step to building resilient infrastructure. To help developers and aspiring security analysts learn the fundamentals of offensive sec]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High-Speed Decision Pipelines: Jev and Prefill-Only Inference from Scratch]]></title>
-        <id>6ae3b2d30decc8debbe7295b</id>
-        <link href="https://www.freecodecamp.org/news/high-speed-decision-pipelines-jev-and-prefill-only-inference-from-scratch/"/>
-        <updated>2026-10-29T20:55:47.000Z</updated>
-        <summary type="html"><![CDATA[Autoregressive token generation is notoriously slow and memory-intensive, especially when you only need a model to make a structured classification or routing decision rather than write out paragraphs]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>

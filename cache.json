@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396817",
+          "author": "Stu Robson",
+          "description": "Stu created tidy-typography.css: a style reset for taming typography with modern CSS features for everything from fluid typography and vertical rhythm, to hyphens and variable fonts.\nTaming Typography: Building a Modern CSS Reset originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/taming-typography-modern-css-reset/",
+          "publishedOn": "2026-11-05T14:55:31.000Z",
+          "wordCount": 4149,
+          "title": "Taming Typography: Building a Modern CSS Reset",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/02/text-wrap.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=397777",
           "author": "Geoff Graham",
           "description": "The AI 2027 Conference is a live online day for designers and engineers on where AI stands today, what to expect in 2027, and where teams are getting it right.\nSmashing AI Conference originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -79,12 +89,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+          "author": "hello@smashingmagazine.com (Eric Bailey)",
+          "description": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.",
+          "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+          "publishedOn": "2026-11-05T13:00:00.000Z",
+          "wordCount": 6875,
+          "title": "Making Immersive LLM Chat Experiences More Accessible",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
           "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
           "description": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
           "link": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
           "publishedOn": "2026-11-03T10:00:00.000Z",
-          "wordCount": 6991,
+          "wordCount": 6994,
           "title": "Modern CSS Might Make Your Front-End More Complex",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg",
@@ -99,7 +124,7 @@
           "description": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
           "publishedOn": "2026-10-31T08:00:00.000Z",
-          "wordCount": 4539,
+          "wordCount": 4534,
           "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -114,7 +139,7 @@
           "description": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
           "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
           "publishedOn": "2026-10-23T13:00:00.000Z",
-          "wordCount": 3554,
+          "wordCount": 3564,
           "title": "Accordion Icons: Which Work Best?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
@@ -129,7 +154,7 @@
           "description": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
           "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
           "publishedOn": "2026-10-20T10:00:00.000Z",
-          "wordCount": 5992,
+          "wordCount": 5995,
           "title": "Embracing Playful Imperfection With The CSS `random()` Function",
           "enclosure": {
             "url": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
@@ -144,7 +169,7 @@
           "description": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.",
           "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
           "publishedOn": "2026-10-16T10:00:00.000Z",
-          "wordCount": 4793,
+          "wordCount": 4791,
           "title": "Is Your Organization Messing Up AI Adoption?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
@@ -161,12 +186,22 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6aecb9efa7a2ab6fb8e3fe94",
+          "author": "Ajay Patel",
+          "description": "If you've built a couple of React Native apps, the following probably feels familiar. You start with a colors.ts file and a simple Button component. Everything looks fine at first. Then the design cha",
+          "link": "https://www.freecodecamp.org/news/how-to-use-shadcn-ui-in-react-native-applications-full-handbook/",
+          "publishedOn": "2026-11-05T17:16:30.000Z",
+          "wordCount": 13445,
+          "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ddea2027-27b4-407e-83a5-d84bfd295627.png"
+        },
+        {
           "id": "6aeba47df91e889efe09a17a",
           "author": "Reetain Raina",
           "description": "CAPTCHAs are something most of us have come across while browsing the internet. Sometimes we're asked to identify traffic lights in pictures, solve a small puzzle, or simply tick a box to confirm we'r",
           "link": "https://www.freecodecamp.org/news/captcha-farm-attack/",
           "publishedOn": "2026-11-04T21:32:45.000Z",
-          "wordCount": 3786,
+          "wordCount": 3792,
           "title": "What a CAPTCHA Farm Attack Actually Looks Like",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/392975d9-8fb2-4311-bbd9-8ec42af322ef.png"
         },
@@ -176,7 +211,7 @@
           "description": "freeCodeCamp just turned 12 years old. And so did our beloved forum. And today I'm thrilled to say that the forum is now focused on discussions rather than Q&A. This is thanks to Socrates, a new tool",
           "link": "https://www.freecodecamp.org/news/introducing-socrates-and-the-new-freecodecamp-forum/",
           "publishedOn": "2026-11-04T19:23:56.000Z",
-          "wordCount": 1701,
+          "wordCount": 1699,
           "title": "Introducing Socrates and the New freeCodeCamp Forum",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6b482fb0-6ce1-4cd9-8241-e83e65c390f8.png"
         },
@@ -186,7 +221,7 @@
           "description": "Let's say you've built a website. You've invested in the design, bought a domain, and so on. But a website isn't only what you see on the screen. A lot happens behind the scenes. You have to understan",
           "link": "https://www.freecodecamp.org/news/fix-common-technical-seo-issues/",
           "publishedOn": "2026-11-03T19:00:29.000Z",
-          "wordCount": 7029,
+          "wordCount": 7209,
           "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d158690-136a-44a2-aa34-e24be77e004c.png"
         },
@@ -196,7 +231,7 @@
           "description": "If you have certain lines of code that repeat over and over again in a project, there's a pretty standard solution for it: using a function. But what about when you have the same project file setup th",
           "link": "https://www.freecodecamp.org/news/how-to-automate-docker-image-creation-for-postgres-using-shell/",
           "publishedOn": "2026-11-03T18:40:47.000Z",
-          "wordCount": 4753,
+          "wordCount": 4911,
           "title": "How to Automate Docker Image Creation for Postgres Using Shell Commands",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/60aa4c00-42d7-4e36-84b4-89f55b140dca.png"
         },
@@ -206,7 +241,7 @@
           "description": "Let's say a design studio gets a new client project. The branding is ready, the wireframes are approved, the Figma file is polished, and every screen looks pretty much perfect. Then the developer join",
           "link": "https://www.freecodecamp.org/news/freelance-developer-design-studios/",
           "publishedOn": "2026-11-03T16:49:36.000Z",
-          "wordCount": 4069,
+          "wordCount": 4225,
           "title": "How to Partner with Design Studios on Client Builds: A Freelance Developer's Guide",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4192997d-6653-4cd6-a51f-22c379b2565c.png"
         },
@@ -226,7 +261,7 @@
           "description": "Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation. When an invoice arrives, an automated rules engine checks it against static thresholds. It checks whet",
           "link": "https://www.freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide/",
           "publishedOn": "2026-10-30T13:57:52.000Z",
-          "wordCount": 5727,
+          "wordCount": 5872,
           "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/223107d3-1947-4c50-aabe-a590e72a2fa9.png"
         },
@@ -236,7 +271,7 @@
           "description": "Searched worked in a familiar way for decades: you'd type in your query, get back a list of pages, and choose one to click on. Behind the scenes, Google would find the pages it thought you might want,",
           "link": "https://www.freecodecamp.org/news/ai-search-visibility/",
           "publishedOn": "2026-10-29T21:53:51.000Z",
-          "wordCount": 4034,
+          "wordCount": 4171,
           "title": "How AI-Powered Search Works: A Guide for Devs on AI Visibility",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9cb43c6b-0703-420d-91c1-9ca346083fe0.png"
         },
@@ -249,16 +284,6 @@
           "wordCount": 1558,
           "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/11abbf5e-47ed-46e1-8113-d379dd8cc076.png"
-        },
-        {
-          "id": "6ae3b2d30decc8debbe7295b",
-          "author": "Beau Carnes",
-          "description": "Autoregressive token generation is notoriously slow and memory-intensive, especially when you only need a model to make a structured classification or routing decision rather than write out paragraphs",
-          "link": "https://www.freecodecamp.org/news/high-speed-decision-pipelines-jev-and-prefill-only-inference-from-scratch/",
-          "publishedOn": "2026-10-29T20:55:47.000Z",
-          "wordCount": 1458,
-          "title": "High-Speed Decision Pipelines: Jev and Prefill-Only Inference from Scratch",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/ca1c403d-e349-402b-b0d3-31f55b5c08d0.png"
         }
       ]
     }
