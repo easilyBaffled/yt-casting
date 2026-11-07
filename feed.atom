@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-06T06:05:39.203Z</id>
+    <id>urn:2026-11-07T05:37:19.099Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-06T06:05:39.203Z</updated>
+    <updated>2026-11-07T05:37:19.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a PDF Storyboard Generator Using JavaScript]]></title>
+        <id>6aee2d6e123f77519047915d</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/"/>
+        <updated>2026-11-06T19:41:34.000Z</updated>
+        <summary type="html"><![CDATA[PDF files are commonly used to share presentations, scripts, reports, lesson materials, comic pages, and other visual documents. But reviewing a long PDF page by page can take time, especially when so]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSS Club: CSS-Tricks Redesign Preview]]></title>
+        <id>https://css-tricks.com/?p=397890</id>
+        <link href="https://css-tricks.com/css-tricks-redesign-preview/"/>
+        <updated>2026-11-06T18:52:59.000Z</updated>
+        <summary type="html"><![CDATA[Hey you wonderful RSS subscribers! We just soft-pushed a site redesign and wanted to give ya'll the first heads-up. A full write-up is coming but here are the high-level details.
+RSS Club: CSS-Tricks Redesign Preview originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Godot 4 Roguelike Course – Build a Complete Top-Down Action Game]]></title>
+        <id>6aedfb097070ca4b7e00e608</id>
+        <link href="https://www.freecodecamp.org/news/godot-4-roguelike-course-build-a-complete-top-down-action-game/"/>
+        <updated>2026-11-06T16:06:33.000Z</updated>
+        <summary type="html"><![CDATA[A top-down action roguelite only works when combat feels sharp, rooms feel connected, and every run asks you to trade power for risk. Godot 4 has the tools for that, but most tutorials stop before tho]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Community For In-House UX People]]></title>
+        <id>https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/</id>
+        <link href="https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/"/>
+        <updated>2026-11-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’ve been working on something new! We’ve teamed up for a **new small community** for people doing UX-inside organizations — with weekly calls and a shared library of the business cases, templates, and research plans that have actually worked for other folks. [Jump to details](https://uxinsiders.boagworld.com/).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use shadcn/ui in React Native Applications [Full Handbook]]]></title>
         <id>6aecb9efa7a2ab6fb8e3fe94</id>
@@ -159,26 +200,6 @@ Guide]]></title>
         <summary type="html"><![CDATA[Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation. When an invoice arrives, an automated rules engine checks it against static thresholds. It checks whet]]></summary>
         <author>
             <name>Kamal Kishore</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI-Powered Search Works: A Guide for Devs on AI Visibility]]></title>
-        <id>6ae3c06f0e706875cd980c58</id>
-        <link href="https://www.freecodecamp.org/news/ai-search-visibility/"/>
-        <updated>2026-10-29T21:53:51.000Z</updated>
-        <summary type="html"><![CDATA[Searched worked in a familiar way for decades: you'd type in your query, get back a list of pages, and choose one to click on. Behind the scenes, Google would find the pages it thought you might want,]]></summary>
-        <author>
-            <name>Reetain Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course]]></title>
-        <id>6ae3b3d9439b6aeed8a05ce3</id>
-        <link href="https://www.freecodecamp.org/news/learn-real-world-penetration-testing-hands-on-ethical-hacking-crash-course/"/>
-        <updated>2026-10-29T21:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Understanding how malicious actors infiltrate networks is the first step to building resilient infrastructure. To help developers and aspiring security analysts learn the fundamentals of offensive sec]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
