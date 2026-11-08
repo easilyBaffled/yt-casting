@@ -119,7 +119,7 @@
           "description": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.",
           "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
           "publishedOn": "2026-11-05T13:00:00.000Z",
-          "wordCount": 6887,
+          "wordCount": 6879,
           "title": "Making Immersive LLM Chat Experiences More Accessible",
           "enclosure": {
             "url": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
@@ -134,7 +134,7 @@
           "description": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
           "link": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
           "publishedOn": "2026-11-03T10:00:00.000Z",
-          "wordCount": 6996,
+          "wordCount": 6999,
           "title": "Modern CSS Might Make Your Front-End More Complex",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg",
@@ -149,7 +149,7 @@
           "description": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
           "publishedOn": "2026-10-31T08:00:00.000Z",
-          "wordCount": 4534,
+          "wordCount": 4537,
           "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -179,7 +179,7 @@
           "description": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
           "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
           "publishedOn": "2026-10-20T10:00:00.000Z",
-          "wordCount": 5995,
+          "wordCount": 5992,
           "title": "Embracing Playful Imperfection With The CSS `random()` Function",
           "enclosure": {
             "url": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
@@ -194,7 +194,7 @@
           "description": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.",
           "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
           "publishedOn": "2026-10-16T10:00:00.000Z",
-          "wordCount": 4784,
+          "wordCount": 4793,
           "title": "Is Your Organization Messing Up AI Adoption?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
@@ -246,7 +246,7 @@
           "description": "CAPTCHAs are something most of us have come across while browsing the internet. Sometimes we're asked to identify traffic lights in pictures, solve a small puzzle, or simply tick a box to confirm we'r",
           "link": "https://www.freecodecamp.org/news/captcha-farm-attack/",
           "publishedOn": "2026-11-04T21:32:45.000Z",
-          "wordCount": 3792,
+          "wordCount": 3806,
           "title": "What a CAPTCHA Farm Attack Actually Looks Like",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/392975d9-8fb2-4311-bbd9-8ec42af322ef.png"
         },
@@ -256,7 +256,7 @@
           "description": "freeCodeCamp just turned 12 years old. And so did our beloved forum. And today I'm thrilled to say that the forum is now focused on discussions rather than Q&A. This is thanks to Socrates, a new tool",
           "link": "https://www.freecodecamp.org/news/introducing-socrates-and-the-new-freecodecamp-forum/",
           "publishedOn": "2026-11-04T19:23:56.000Z",
-          "wordCount": 1699,
+          "wordCount": 1727,
           "title": "Introducing Socrates and the New freeCodeCamp Forum",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6b482fb0-6ce1-4cd9-8241-e83e65c390f8.png"
         },
@@ -266,7 +266,7 @@
           "description": "Let's say you've built a website. You've invested in the design, bought a domain, and so on. But a website isn't only what you see on the screen. A lot happens behind the scenes. You have to understan",
           "link": "https://www.freecodecamp.org/news/fix-common-technical-seo-issues/",
           "publishedOn": "2026-11-03T19:00:29.000Z",
-          "wordCount": 7185,
+          "wordCount": 7207,
           "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d158690-136a-44a2-aa34-e24be77e004c.png"
         },
