@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-10T06:55:16.808Z</id>
+    <id>urn:2026-11-11T05:45:14.040Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-10T06:55:16.808Z</updated>
+    <updated>2026-11-11T05:45:14.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?]]></title>
+        <id>https://css-tricks.com/?p=396572</id>
+        <link href="https://css-tricks.com/css-using-declarations-just-once/"/>
+        <updated>2026-11-10T16:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy?
+CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Jens Oliver Meiert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Agentic Coding with Codex & AI Coding Agents]]></title>
+        <id>6af33ff6e6a1d476dd025c20</id>
+        <link href="https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/"/>
+        <updated>2026-11-10T16:01:58.000Z</updated>
+        <summary type="html"><![CDATA[AI coding agents such as Codex read your codebase, edit multiple files, and run commands and tests while they work through larger tasks with you. In Codex, an AGENTS.md file holds persistent instructi]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens When You Upload a Large File & Generate a Temporary Download Link]]></title>
+        <id>6af31a20042fa071f004461c</id>
+        <link href="https://www.freecodecamp.org/news/how-file-transfer-services-work/"/>
+        <updated>2026-11-10T13:20:32.000Z</updated>
+        <summary type="html"><![CDATA[Sending a 5 GB video file might seem simple. You select the file, click Upload, wait for the progress bar to finish, and share a link with someone. But there are several things happening in the backgr]]></summary>
+        <author>
+            <name>Reetain Raina</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS-Tricks, Version 20]]></title>
         <id>https://css-tricks.com/?p=397812</id>
@@ -150,16 +181,6 @@ Smashing AI Conference originally handwritten and published with love on CSS-Tri
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Vector Databases for Beginners – Embeddings, Similarity Search & ChromaDB]]></title>
-        <id>6aea06ca2d9e47407b2ddc76</id>
-        <link href="https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/"/>
-        <updated>2026-11-03T16:07:38.000Z</updated>
-        <summary type="html"><![CDATA[A vector database stores data as lists of numbers called embeddings, which lets it search by meaning instead of matching exact keywords. It's the piece behind a lot of recommendation systems, RAG apps]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re-Implementing :nth-child() With Modern CSS]]></title>
         <id>https://css-tricks.com/?p=397741</id>
         <link href="https://css-tricks.com/re-implementing-nth-child-with-modern-css/"/>
@@ -199,18 +220,6 @@ What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random() originally 
         <summary type="html"><![CDATA[Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Detect Financial Fraud Patterns
-with Knowledge Graphs: A Production
-Guide]]></title>
-        <id>6ae4a260781c67f55b49b87b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide/"/>
-        <updated>2026-10-30T13:57:52.000Z</updated>
-        <summary type="html"><![CDATA[Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation. When an invoice arrives, an automated rules engine checks it against static thresholds. It checks whet]]></summary>
-        <author>
-            <name>Kamal Kishore</name>
         </author>
     </entry>
     <entry>
