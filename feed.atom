@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-12T06:51:14.675Z</id>
+    <id>urn:2026-11-13T06:09:36.425Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-12T06:51:14.675Z</updated>
+    <updated>2026-11-13T06:09:36.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Beyond 12 Columns: Designing Layouts With Personality]]></title>
+        <id>https://css-tricks.com/?p=397598</id>
+        <link href="https://css-tricks.com/beyond-12-columns/"/>
+        <updated>2026-11-12T16:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character.
+Beyond 12 Columns: Designing Layouts With Personality originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should You Actually Add AI To That? A Four-Question Audit For Product Teams]]></title>
+        <id>https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/</id>
+        <link href="https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/"/>
+        <updated>2026-11-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?]]></title>
         <id>https://css-tricks.com/?p=396572</id>

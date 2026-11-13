@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=397598",
+          "author": "Andy Clarke",
+          "description": "Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character.\nBeyond 12 Columns: Designing Layouts With Personality originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/beyond-12-columns/",
+          "publishedOn": "2026-11-12T16:06:55.000Z",
+          "wordCount": 3719,
+          "title": "Beyond 12 Columns: Designing Layouts With Personality",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/css-tricks-1-8.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=396572",
           "author": "Jens Oliver Meiert",
           "description": "Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy?\nCSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -62,7 +72,7 @@
           "description": "The AI 2027 Conference is a live online day for designers and engineers on where AI stands today, what to expect in 2027, and where teams are getting it right.\nSmashing AI Conference originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/smashing-ai-conference/",
           "publishedOn": "2026-11-04T15:02:51.000Z",
-          "wordCount": 1968,
+          "wordCount": 2095,
           "title": "Smashing AI Conference",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/all.png"
         },
@@ -112,7 +122,7 @@
           "description": "Yes, I've got the keys to the castle, so to speak. And, even after 12 years of working on the site, I'll admit I'm a little overwhelmed and nervous about that.\nCSS-Tricks has a new owner! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
           "publishedOn": "2026-10-26T15:29:36.000Z",
-          "wordCount": 5109,
+          "wordCount": 5218,
           "title": "CSS-Tricks has a new owner!",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         }
@@ -123,6 +133,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.",
+          "link": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+          "publishedOn": "2026-11-12T10:00:00.000Z",
+          "wordCount": 6061,
+          "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
@@ -144,7 +169,7 @@
           "description": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.",
           "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
           "publishedOn": "2026-11-05T13:00:00.000Z",
-          "wordCount": 6876,
+          "wordCount": 6995,
           "title": "Making Immersive LLM Chat Experiences More Accessible",
           "enclosure": {
             "url": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
@@ -159,7 +184,7 @@
           "description": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
           "link": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
           "publishedOn": "2026-11-03T10:00:00.000Z",
-          "wordCount": 6989,
+          "wordCount": 6985,
           "title": "Modern CSS Might Make Your Front-End More Complex",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg",
@@ -174,7 +199,7 @@
           "description": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
           "publishedOn": "2026-10-31T08:00:00.000Z",
-          "wordCount": 4529,
+          "wordCount": 4526,
           "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -189,7 +214,7 @@
           "description": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
           "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
           "publishedOn": "2026-10-23T13:00:00.000Z",
-          "wordCount": 3558,
+          "wordCount": 3566,
           "title": "Accordion Icons: Which Work Best?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
@@ -204,7 +229,7 @@
           "description": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
           "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
           "publishedOn": "2026-10-20T10:00:00.000Z",
-          "wordCount": 5995,
+          "wordCount": 5988,
           "title": "Embracing Playful Imperfection With The CSS `random()` Function",
           "enclosure": {
             "url": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
@@ -219,7 +244,7 @@
           "description": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.",
           "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
           "publishedOn": "2026-10-16T10:00:00.000Z",
-          "wordCount": 4795,
+          "wordCount": 4790,
           "title": "Is Your Organization Messing Up AI Adoption?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
@@ -261,7 +286,7 @@
           "description": "PDF files are commonly used to share presentations, scripts, reports, lesson materials, comic pages, and other visual documents. But reviewing a long PDF page by page can take time, especially when so",
           "link": "https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/",
           "publishedOn": "2026-11-06T19:41:34.000Z",
-          "wordCount": 14365,
+          "wordCount": 14355,
           "title": "How to Build a PDF Storyboard Generator Using JavaScript",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e8109e42-db7b-4690-9d2b-2be82ab57943.png"
         },
@@ -311,7 +336,7 @@
           "description": "Let's say you've built a website. You've invested in the design, bought a domain, and so on. But a website isn't only what you see on the screen. A lot happens behind the scenes. You have to understan",
           "link": "https://www.freecodecamp.org/news/fix-common-technical-seo-issues/",
           "publishedOn": "2026-11-03T19:00:29.000Z",
-          "wordCount": 7201,
+          "wordCount": 7187,
           "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d158690-136a-44a2-aa34-e24be77e004c.png"
         },
@@ -331,7 +356,7 @@
           "description": "Let's say a design studio gets a new client project. The branding is ready, the wireframes are approved, the Figma file is polished, and every screen looks pretty much perfect. Then the developer join",
           "link": "https://www.freecodecamp.org/news/freelance-developer-design-studios/",
           "publishedOn": "2026-11-03T16:49:36.000Z",
-          "wordCount": 4266,
+          "wordCount": 4271,
           "title": "How to Partner with Design Studios on Client Builds: A Freelance Developer's Guide",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4192997d-6653-4cd6-a51f-22c379b2565c.png"
         }
