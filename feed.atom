@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-13T06:09:36.425Z</id>
+    <id>urn:2026-11-14T05:55:24.611Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-13T06:09:36.425Z</updated>
+    <updated>2026-11-14T05:55:24.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[10 Big Ol’ 2027 Black Friday Deals]]></title>
+        <id>https://css-tricks.com/?p=397800</id>
+        <link href="https://css-tricks.com/2027-front-end-black-friday-deals/"/>
+        <updated>2026-11-13T14:05:24.000Z</updated>
+        <summary type="html"><![CDATA[A big ol' roundup of Black Friday deals on front-end courses from the best independent publishers and educators in the business.
+10 Big Ol’ 2027 Black Friday Deals originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Speed Up CI in the Age of AI-Written Code]]></title>
+        <id>6af7069e2028f50f83240511</id>
+        <link href="https://www.freecodecamp.org/news/speed-up-ci-in-the-age-of-ai-written-code/"/>
+        <updated>2026-11-13T12:46:22.000Z</updated>
+        <summary type="html"><![CDATA[Coding agents now write code faster than most CI pipelines can check it. In April 2026, GitHub COO Kyle Daigle said that his platform was handling 275 million commits a week, on pace for 14 billion in]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schema Drift vs. Semantic Drift in Data Pipelines]]></title>
+        <id>6af6f326f94aa3564f351d31</id>
+        <link href="https://www.freecodecamp.org/news/schema-drift-vs-semantic-drift-in-data-pipelines/"/>
+        <updated>2026-11-13T11:23:18.000Z</updated>
+        <summary type="html"><![CDATA[When a column is removed from a source database or dataset, the next pipeline run usually fails, making the problem easy to detect. But when a field keeps the same name and data type but its meaning c]]></summary>
+        <author>
+            <name>Yemi Ojedapo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based Image Storyboard to PDF Tool Using JavaScript]]></title>
+        <id>6af6ea1b6758a8ccb76659d6</id>
+        <link href="https://www.freecodecamp.org/news/build-image-storyboard-to-pdf-tool-javascript/"/>
+        <updated>2026-11-13T10:44:43.000Z</updated>
+        <summary type="html"><![CDATA[Before anyone films a video, shoots an ad or draws the final pages of a comic, someone usually sketches the plan as a storyboard: one picture per shot, in order, with a short note about what happens a]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond 12 Columns: Designing Layouts With Personality]]></title>
         <id>https://css-tricks.com/?p=397598</id>
@@ -169,36 +210,6 @@ Taming Typography: Building a Modern CSS Reset originally handwritten and publis
 Smashing AI Conference originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Find and Fix Common Technical SEO Issues on Your Website]]></title>
-        <id>6aea2f4db1deb69c0283692a</id>
-        <link href="https://www.freecodecamp.org/news/fix-common-technical-seo-issues/"/>
-        <updated>2026-11-03T19:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Let's say you've built a website. You've invested in the design, bought a domain, and so on. But a website isn't only what you see on the screen. A lot happens behind the scenes. You have to understan]]></summary>
-        <author>
-            <name>Saar Twito</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Docker Image Creation for Postgres Using Shell Commands]]></title>
-        <id>6aea2aaffbe759481e70cb16</id>
-        <link href="https://www.freecodecamp.org/news/how-to-automate-docker-image-creation-for-postgres-using-shell/"/>
-        <updated>2026-11-03T18:40:47.000Z</updated>
-        <summary type="html"><![CDATA[If you have certain lines of code that repeat over and over again in a project, there's a pretty standard solution for it: using a function. But what about when you have the same project file setup th]]></summary>
-        <author>
-            <name>jabo Landry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Partner with Design Studios on Client Builds: A Freelance Developer's Guide]]></title>
-        <id>6aea10a0338bcff0a27d3b67</id>
-        <link href="https://www.freecodecamp.org/news/freelance-developer-design-studios/"/>
-        <updated>2026-11-03T16:49:36.000Z</updated>
-        <summary type="html"><![CDATA[Let's say a design studio gets a new client project. The branding is ready, the wireframes are approved, the Figma file is polished, and every screen looks pretty much perfect. Then the developer join]]></summary>
-        <author>
-            <name>Reetain Raina</name>
         </author>
     </entry>
     <entry>
