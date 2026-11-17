@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395816",
+          "author": "Lee Meyer",
+          "description": "Imagine a CSS karaoke machine that displays a ball bouncing on text that incrementally highlights, based on progress through via speech recognition and running that kind of animation as a single predictable, holistic effect driven by one progress value.\nStaggering Scroll-Driven Animations with animation-range-start originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/",
+          "publishedOn": "2026-11-16T16:47:05.000Z",
+          "wordCount": 3563,
+          "title": "Staggering Scroll-Driven Animations with animation-range-start",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/06/staggered-items.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=397800",
           "author": "Geoff Graham",
           "description": "A big ol' roundup of Black Friday deals on front-end courses from the best independent publishers and educators in the business.\n10 Big Ol’ 2027 Black Friday Deals originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -37,7 +47,7 @@
           "description": "Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy?\nCSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-using-declarations-just-once/",
           "publishedOn": "2026-11-10T16:42:18.000Z",
-          "wordCount": 3007,
+          "wordCount": 3008,
           "title": "CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/04/ellipses-brackets.jpg"
         },
@@ -47,7 +57,7 @@
           "description": "Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.\nCSS-Tricks, Version 20 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-tricks-version-20/",
           "publishedOn": "2026-11-09T15:49:48.000Z",
-          "wordCount": 5133,
+          "wordCount": 5156,
           "title": "CSS-Tricks, Version 20",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-20-theme-tiggle.mp4",
@@ -72,7 +82,7 @@
           "description": "Stu created tidy-typography.css: a style reset for taming typography with modern CSS features for everything from fluid typography and vertical rhythm, to hyphens and variable fonts.\nTaming Typography: Building a Modern CSS Reset originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/taming-typography-modern-css-reset/",
           "publishedOn": "2026-11-05T14:55:31.000Z",
-          "wordCount": 4712,
+          "wordCount": 4713,
           "title": "Taming Typography: Building a Modern CSS Reset",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/02/text-wrap.png"
         },
@@ -112,7 +122,7 @@
           "description": "A super scary way to go about tables using other layout techniques, like CSS Grid.\nThe Frankenstein Table originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/the-frankenstein-table/",
           "publishedOn": "2026-10-29T13:47:08.000Z",
-          "wordCount": 3027,
+          "wordCount": 3247,
           "title": "The Frankenstein Table",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/zombie-table.jpg"
         },
@@ -149,7 +159,7 @@
           "description": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.",
           "link": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
           "publishedOn": "2026-11-12T10:00:00.000Z",
-          "wordCount": 6060,
+          "wordCount": 6057,
           "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
           "enclosure": {
             "url": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg",
@@ -179,7 +189,7 @@
           "description": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.",
           "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
           "publishedOn": "2026-11-05T13:00:00.000Z",
-          "wordCount": 6887,
+          "wordCount": 6891,
           "title": "Making Immersive LLM Chat Experiences More Accessible",
           "enclosure": {
             "url": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
@@ -194,7 +204,7 @@
           "description": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
           "link": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
           "publishedOn": "2026-11-03T10:00:00.000Z",
-          "wordCount": 6986,
+          "wordCount": 6991,
           "title": "Modern CSS Might Make Your Front-End More Complex",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg",
@@ -209,7 +219,7 @@
           "description": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
           "publishedOn": "2026-10-31T08:00:00.000Z",
-          "wordCount": 4639,
+          "wordCount": 4535,
           "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -224,7 +234,7 @@
           "description": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
           "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
           "publishedOn": "2026-10-23T13:00:00.000Z",
-          "wordCount": 3556,
+          "wordCount": 3570,
           "title": "Accordion Icons: Which Work Best?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
@@ -239,7 +249,7 @@
           "description": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
           "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
           "publishedOn": "2026-10-20T10:00:00.000Z",
-          "wordCount": 6001,
+          "wordCount": 5997,
           "title": "Embracing Playful Imperfection With The CSS `random()` Function",
           "enclosure": {
             "url": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
@@ -255,6 +265,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6afba1044c9d975934925ee6",
+          "author": "Samuel Tosin",
+          "description": "Therapy progress notes are written records of what happened during a therapy session. They may include what a client said, what the therapist observed, the topics discussed, and plans for the next ses",
+          "link": "https://www.freecodecamp.org/news/build-nlp-pipeline-python-therapy-notes/",
+          "publishedOn": "2026-11-17T00:34:12.000Z",
+          "wordCount": 7958,
+          "title": "How to Build an NLP Pipeline in Python to Analyze Therapy Progress Notes",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/2573405d-995c-4738-862d-0fadc243446c.png"
+        },
+        {
+          "id": "6afb9d63e1e477f325473f68",
+          "author": "David Aniebo",
+          "description": "Most translation features work the same way. The user types text, your app sends it to a translation API, and the API sends a translation back. That works, but every request adds cost and latency, and",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-translator-with-chrome-s-built-in-ai/",
+          "publishedOn": "2026-11-17T00:18:42.000Z",
+          "wordCount": 8170,
+          "title": "How to Build a Translator with Chrome’s Built-In AI",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/1d251ce9-4e88-476b-9a54-0face0578c19.png"
+        },
         {
           "id": "6af88630044134836d5c4f7d",
           "author": "Beau Carnes",
@@ -334,26 +364,6 @@
           "wordCount": 1677,
           "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
           "imageUrl": "https://cdn.hashnode.com/uploads/gql/5f68e7df6dfc523d0a894e7c/1bca1e16-d488-4afc-bc2f-ede5902092c4.jpg"
-        },
-        {
-          "id": "6aecb9efa7a2ab6fb8e3fe94",
-          "author": "Ajay Patel",
-          "description": "If you've built a couple of React Native apps, the following probably feels familiar. You start with a colors.ts file and a simple Button component. Everything looks fine at first. Then the design cha",
-          "link": "https://www.freecodecamp.org/news/how-to-use-shadcn-ui-in-react-native-applications-full-handbook/",
-          "publishedOn": "2026-11-05T17:16:30.000Z",
-          "wordCount": 13747,
-          "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ddea2027-27b4-407e-83a5-d84bfd295627.png"
-        },
-        {
-          "id": "6aeba47df91e889efe09a17a",
-          "author": "Reetain Raina",
-          "description": "CAPTCHAs are something most of us have come across while browsing the internet. Sometimes we're asked to identify traffic lights in pictures, solve a small puzzle, or simply tick a box to confirm we'r",
-          "link": "https://www.freecodecamp.org/news/captcha-farm-attack/",
-          "publishedOn": "2026-11-04T21:32:45.000Z",
-          "wordCount": 3831,
-          "title": "What a CAPTCHA Farm Attack Actually Looks Like",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/392975d9-8fb2-4311-bbd9-8ec42af322ef.png"
         }
       ]
     }
