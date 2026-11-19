@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-18T06:57:12.062Z</id>
+    <id>urn:2026-11-19T06:57:53.242Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-18T06:57:12.062Z</updated>
+    <updated>2026-11-19T06:57:53.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Data Structures and Algorithms in Python with Visualizations]]></title>
+        <id>6afdc8c04e123f818c6a048e</id>
+        <link href="https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-in-python-with-visualizations/"/>
+        <updated>2026-11-18T15:48:16.000Z</updated>
+        <summary type="html"><![CDATA[Data structures such as arrays, linked lists, stacks, queues, hash tables, trees, heaps, and graphs determine how a program stores data and how fast it can search, insert, and remove items. Big O nota]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Everything Has Changed, What Do We Do Next?]]></title>
+        <id>https://css-tricks.com/?p=398054</id>
+        <link href="https://css-tricks.com/when-everything-has-changed/"/>
+        <updated>2026-11-18T14:55:21.000Z</updated>
+        <summary type="html"><![CDATA[It’s been a… year, huh? I think the most common emoji I’ve seen this year is “Face with Bags Under Eyes” (🫩) and that says a lot. One thing is for sure: the industry we make a living in is …
+When Everything Has Changed, What Do We Do Next? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Andy Bell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet AI 2027 Conference (Dec 1)]]></title>
         <id>https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/</id>
@@ -192,16 +213,6 @@ RSS Club: CSS-Tricks Redesign Preview originally handwritten and published with 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Godot 4 Roguelike Course – Build a Complete Top-Down Action Game]]></title>
-        <id>6aedfb097070ca4b7e00e608</id>
-        <link href="https://www.freecodecamp.org/news/godot-4-roguelike-course-build-a-complete-top-down-action-game/"/>
-        <updated>2026-11-06T16:06:33.000Z</updated>
-        <summary type="html"><![CDATA[A top-down action roguelite only works when combat feels sharp, rooms feel connected, and every run asks you to trade power for risk. Godot 4 has the tools for that, but most tutorials stop before tho]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A New Community For In-House UX People]]></title>
         <id>https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/</id>
         <link href="https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/"/>
@@ -326,16 +337,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <summary type="html"><![CDATA[A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embracing Playful Imperfection With The CSS `random()` Function]]></title>
-        <id>https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/</id>
-        <link href="https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"/>
-        <updated>2026-10-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
         </author>
     </entry>
 </feed>
