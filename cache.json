@@ -7,158 +7,6 @@
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=398054",
-          "author": "Andy Bell",
-          "description": "It’s been a… year, huh? I think the most common emoji I’ve seen this year is “Face with Bags Under Eyes” (🫩) and that says a lot. One thing is for sure: the industry we make a living in is …\nWhen Everything Has Changed, What Do We Do Next? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/when-everything-has-changed/",
-          "publishedOn": "2026-11-18T14:55:21.000Z",
-          "wordCount": 3996,
-          "title": "When Everything Has Changed, What Do We Do Next?",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/06/brain-gears.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395816",
-          "author": "Lee Meyer",
-          "description": "Imagine a CSS karaoke machine that displays a ball bouncing on text that incrementally highlights, based on progress through via speech recognition and running that kind of animation as a single predictable, holistic effect driven by one progress value.\nStaggering Scroll-Driven Animations with animation-range-start originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/",
-          "publishedOn": "2026-11-16T16:47:05.000Z",
-          "wordCount": 3732,
-          "title": "Staggering Scroll-Driven Animations with animation-range-start",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/06/staggered-items.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397800",
-          "author": "Geoff Graham",
-          "description": "A big ol' roundup of Black Friday deals on front-end courses from the best independent publishers and educators in the business.\n10 Big Ol’ 2027 Black Friday Deals originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/2027-front-end-black-friday-deals/",
-          "publishedOn": "2026-11-13T14:05:24.000Z",
-          "wordCount": 2916,
-          "title": "10 Big Ol’ 2027 Black Friday Deals",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/11/education-brackets.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397598",
-          "author": "Andy Clarke",
-          "description": "Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character.\nBeyond 12 Columns: Designing Layouts With Personality originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/beyond-12-columns/",
-          "publishedOn": "2026-11-12T16:06:55.000Z",
-          "wordCount": 3720,
-          "title": "Beyond 12 Columns: Designing Layouts With Personality",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/css-tricks-1-8.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396572",
-          "author": "Jens Oliver Meiert",
-          "description": "Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy?\nCSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-using-declarations-just-once/",
-          "publishedOn": "2026-11-10T16:42:18.000Z",
-          "wordCount": 3008,
-          "title": "CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/04/ellipses-brackets.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397812",
-          "author": "Geoff Graham",
-          "description": "Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.\nCSS-Tricks, Version 20 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-tricks-version-20/",
-          "publishedOn": "2026-11-09T15:49:48.000Z",
-          "wordCount": 5156,
-          "title": "CSS-Tricks, Version 20",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-20-theme-tiggle.mp4",
-            "length": "7389584",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/screenshot.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397890",
-          "author": "Geoff Graham",
-          "description": "Hey you wonderful RSS subscribers! We just soft-pushed a site redesign and wanted to give ya'll the first heads-up. A full write-up is coming but here are the high-level details.\nRSS Club: CSS-Tricks Redesign Preview originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-tricks-redesign-preview/",
-          "publishedOn": "2026-11-06T18:52:59.000Z",
-          "wordCount": 2477,
-          "title": "RSS Club: CSS-Tricks Redesign Preview",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/screenshot.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396817",
-          "author": "Stu Robson",
-          "description": "Stu created tidy-typography.css: a style reset for taming typography with modern CSS features for everything from fluid typography and vertical rhythm, to hyphens and variable fonts.\nTaming Typography: Building a Modern CSS Reset originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/taming-typography-modern-css-reset/",
-          "publishedOn": "2026-11-05T14:55:31.000Z",
-          "wordCount": 4713,
-          "title": "Taming Typography: Building a Modern CSS Reset",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/02/text-wrap.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397777",
-          "author": "Geoff Graham",
-          "description": "The AI 2027 Conference is a live online day for designers and engineers on where AI stands today, what to expect in 2027, and where teams are getting it right.\nSmashing AI Conference originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/smashing-ai-conference/",
-          "publishedOn": "2026-11-04T15:02:51.000Z",
-          "wordCount": 2096,
-          "title": "Smashing AI Conference",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/all.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397741",
-          "author": "Temani Afif",
-          "description": "Combining :nth-child with style queries and sibling-index() to conditionally select child elements.\nRe-Implementing :nth-child() With Modern CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/re-implementing-nth-child-with-modern-css/",
-          "publishedOn": "2026-11-03T14:50:32.000Z",
-          "wordCount": 3646,
-          "title": "Re-Implementing :nth-child() With Modern CSS",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/nth-child-3n.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397698",
-          "author": "Daniel Schwarz",
-          "description": "This is the final issue of What’s !important on CSS-Tricks.com. The good news is that it’s coming back in an expanded form as the CSS-Tricks newsletter. I had ya there for a second, didn’t I? Sorry, I couldn’t decide whether to trick or treat, so I went for both. Happy Halloween\nWhat’s !important #20: GTA 6 Scroll Effects, Scrollspies, random() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-20/",
-          "publishedOn": "2026-11-02T15:06:07.000Z",
-          "wordCount": 2816,
-          "title": "What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random()",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/wi20-1.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397546",
-          "author": "Preethi",
-          "description": "A super scary way to go about tables using other layout techniques, like CSS Grid.\nThe Frankenstein Table originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/the-frankenstein-table/",
-          "publishedOn": "2026-10-29T13:47:08.000Z",
-          "wordCount": 3247,
-          "title": "The Frankenstein Table",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/zombie-table.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396840",
-          "author": "Daniel Schwarz",
-          "description": "We’re back! Don't worry, this isn’t a trick (despite what our name suggests!). However, due to the hiatus, we're also a little behind. That’s why this issue of What’s !important is absolutely stacked. All killer, no filler. Here's what you missed.\nWhat’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-19/",
-          "publishedOn": "2026-10-27T15:09:16.000Z",
-          "wordCount": 3025,
-          "title": "What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/09/wi19.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397227",
-          "author": "Geoff Graham",
-          "description": "Yes, I've got the keys to the castle, so to speak. And, even after 12 years of working on the site, I'll admit I'm a little overwhelmed and nervous about that.\nCSS-Tricks has a new owner! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-          "publishedOn": "2026-10-26T15:29:36.000Z",
-          "wordCount": 5219,
-          "title": "CSS-Tricks has a new owner!",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        }
-      ]
-    },
-    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
@@ -199,7 +47,7 @@
           "description": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.",
           "link": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
           "publishedOn": "2026-11-12T10:00:00.000Z",
-          "wordCount": 6060,
+          "wordCount": 6067,
           "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
           "enclosure": {
             "url": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg",
@@ -229,7 +77,7 @@
           "description": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.",
           "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
           "publishedOn": "2026-11-05T13:00:00.000Z",
-          "wordCount": 6881,
+          "wordCount": 6882,
           "title": "Making Immersive LLM Chat Experiences More Accessible",
           "enclosure": {
             "url": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
@@ -244,7 +92,7 @@
           "description": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
           "link": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
           "publishedOn": "2026-11-03T10:00:00.000Z",
-          "wordCount": 7004,
+          "wordCount": 6991,
           "title": "Modern CSS Might Make Your Front-End More Complex",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg",
@@ -259,7 +107,7 @@
           "description": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
           "publishedOn": "2026-10-31T08:00:00.000Z",
-          "wordCount": 4535,
+          "wordCount": 4546,
           "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -274,7 +122,7 @@
           "description": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
           "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
           "publishedOn": "2026-10-23T13:00:00.000Z",
-          "wordCount": 3553,
+          "wordCount": 3560,
           "title": "Accordion Icons: Which Work Best?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
@@ -290,6 +138,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6aff718ab7bbd995ee693880",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "Healthcare generates huge amounts of data every day, from patient visits and lab results to diagnoses, medications, and medical imaging. For developers and data engineers building healthcare applicati",
+          "link": "https://www.freecodecamp.org/news/how-to-generate-synthetic-healthcare-data-using-synthea-a-hands-on-tutorial/",
+          "publishedOn": "2026-11-19T22:00:42.000Z",
+          "wordCount": 5000,
+          "title": "How to Generate Synthetic Healthcare Data Using Synthea: A Hands On Tutorial",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/17f495db-a70b-427b-a69d-4b200d573081.png"
+        },
+        {
+          "id": "6aff37e26fa61df077387de3",
+          "author": "Bala Priya C",
+          "description": "Web scraping in Python usually starts with requests and Beautiful Soup. While this works well for static pages, it gets harder when a site loads content with JavaScript, blocks repeated requests, or c",
+          "link": "https://www.freecodecamp.org/news/how-to-scrape-websites-in-python-with-olostep/",
+          "publishedOn": "2026-11-19T17:54:42.000Z",
+          "wordCount": 2968,
+          "title": "How to Scrape Websites in Python with Olostep",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b1f48704-57ee-42f1-8687-766ff3abb630.png"
+        },
+        {
+          "id": "6aff2ffbede28e00513a0715",
+          "author": "Bhavin Sheth",
+          "description": "Contracts, invoices, medical reports, and scanned ID cards are often converted to PDF files. And if one of them ends up in the wrong inbox or on a shared drive, anyone can open it. Adding a password f",
+          "link": "https://www.freecodecamp.org/news/build-pdf-password-protector-javascript/",
+          "publishedOn": "2026-11-19T17:20:58.000Z",
+          "wordCount": 8036,
+          "title": "How to Build a Browser-Based PDF Password Protector Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3ad5640f-31b1-412d-a20c-d1180ae363f2.png"
+        },
         {
           "id": "6afdc8c04e123f818c6a048e",
           "author": "Beau Carnes",
@@ -359,36 +237,6 @@
           "wordCount": 9854,
           "title": "How to Build a Browser-Based Image Storyboard to PDF Tool Using JavaScript",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/eb2e1525-11db-47ef-a27c-b0672184efe8.png"
-        },
-        {
-          "id": "6af33ff6e6a1d476dd025c20",
-          "author": "Beau Carnes",
-          "description": "AI coding agents such as Codex read your codebase, edit multiple files, and run commands and tests while they work through larger tasks with you. In Codex, an AGENTS.md file holds persistent instructi",
-          "link": "https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/",
-          "publishedOn": "2026-11-10T16:01:58.000Z",
-          "wordCount": 1685,
-          "title": "Learn Agentic Coding with Codex & AI Coding Agents",
-          "imageUrl": "https://i.ytimg.com/vi/ajfQWhGQGLE/maxresdefault.jpg"
-        },
-        {
-          "id": "6af31a20042fa071f004461c",
-          "author": "Reetain Raina",
-          "description": "Sending a 5 GB video file might seem simple. You select the file, click Upload, wait for the progress bar to finish, and share a link with someone. But there are several things happening in the backgr",
-          "link": "https://www.freecodecamp.org/news/how-file-transfer-services-work/",
-          "publishedOn": "2026-11-10T13:20:32.000Z",
-          "wordCount": 5208,
-          "title": "What Happens When You Upload a Large File & Generate a Temporary Download Link",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/5ab5b73d-ffb5-4c71-91b7-648b69bb79b7.png"
-        },
-        {
-          "id": "6aee2d6e123f77519047915d",
-          "author": "Bhavin Sheth",
-          "description": "PDF files are commonly used to share presentations, scripts, reports, lesson materials, comic pages, and other visual documents. But reviewing a long PDF page by page can take time, especially when so",
-          "link": "https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/",
-          "publishedOn": "2026-11-06T19:41:34.000Z",
-          "wordCount": 14365,
-          "title": "How to Build a PDF Storyboard Generator Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e8109e42-db7b-4690-9d2b-2be82ab57943.png"
         }
       ]
     }
