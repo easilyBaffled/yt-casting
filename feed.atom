@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-21T06:44:36.352Z</id>
+    <id>urn:2026-11-22T06:13:27.988Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-21T06:44:36.352Z</updated>
+    <updated>2026-11-22T06:13:27.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -339,16 +339,6 @@ The Frankenstein Table originally handwritten and published with love on CSS-Tr
 What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accordion Icons: Which Work Best?]]></title>
-        <id>https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/</id>
-        <link href="https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"/>
-        <updated>2026-10-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
