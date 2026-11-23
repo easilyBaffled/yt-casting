@@ -17,7 +17,7 @@
           "description": "Web designer, author, and Stuff & Nonsense founder Andy Clarke has released Standout Designs for the Web, a new e-book that encourages designers to move beyond familiar templates and conventional layouts to create more personality-driven websites.\nThe book draws …\nAndy Clarke answers six questions about Standout Designs for the Web originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/",
           "publishedOn": "2026-11-20T15:03:47.000Z",
-          "wordCount": 2484,
+          "wordCount": 2549,
           "title": "Andy Clarke answers six questions about Standout Designs for the Web",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/standout-design-thumbmnail.png"
         },
@@ -209,7 +209,7 @@
           "description": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.",
           "link": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
           "publishedOn": "2026-11-12T10:00:00.000Z",
-          "wordCount": 6059,
+          "wordCount": 6062,
           "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
           "enclosure": {
             "url": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg",
@@ -239,7 +239,7 @@
           "description": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.",
           "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
           "publishedOn": "2026-11-05T13:00:00.000Z",
-          "wordCount": 6986,
+          "wordCount": 6881,
           "title": "Making Immersive LLM Chat Experiences More Accessible",
           "enclosure": {
             "url": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
@@ -254,7 +254,7 @@
           "description": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
           "link": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
           "publishedOn": "2026-11-03T10:00:00.000Z",
-          "wordCount": 7004,
+          "wordCount": 6995,
           "title": "Modern CSS Might Make Your Front-End More Complex",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg",
@@ -269,7 +269,7 @@
           "description": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
           "publishedOn": "2026-10-31T08:00:00.000Z",
-          "wordCount": 4634,
+          "wordCount": 4538,
           "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -291,7 +291,7 @@
           "description": "When an API releases a new version, every developer using it has to update their code. If they only get a changelog entry that says “pagination now uses cursors,” then they’ll have to figure things ou",
           "link": "https://www.freecodecamp.org/news/how-to-write-an-api-migration-guide/",
           "publishedOn": "2026-11-20T18:40:04.000Z",
-          "wordCount": 5856,
+          "wordCount": 5862,
           "title": "How to Write an API Migration Guide (With a Real Example)",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/47f2ef1a-31ff-4032-9f99-f98e293f7d92.png"
         },
@@ -371,7 +371,7 @@
           "description": "Coding agents now write code faster than most CI pipelines can check it. In April 2026, GitHub COO Kyle Daigle said that his platform was handling 275 million commits a week, on pace for 14 billion in",
           "link": "https://www.freecodecamp.org/news/speed-up-ci-in-the-age-of-ai-written-code/",
           "publishedOn": "2026-11-13T12:46:22.000Z",
-          "wordCount": 3199,
+          "wordCount": 3196,
           "title": "How to Speed Up CI in the Age of AI-Written Code",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/d1609f3b-9a5c-402f-b04d-30349dd2e10e.png"
         },
