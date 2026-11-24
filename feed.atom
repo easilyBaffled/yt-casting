@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-23T07:05:19.920Z</id>
+    <id>urn:2026-11-24T09:30:17.211Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-23T07:05:19.920Z</updated>
+    <updated>2026-11-24T09:30:17.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use the GitHub CLI with GitHub Actions]]></title>
+        <id>6b04590fe116d564954b31ad</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-github-cli-with-github-actions/"/>
+        <updated>2026-11-23T15:17:35.000Z</updated>
+        <summary type="html"><![CDATA[GitHub CLI is a command-line tool that lets you manage GitHub's web features right in your local terminal. You can manage repositories, issues, pull requests, and automation workflows without needing]]></summary>
+        <author>
+            <name>Rajdeep Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Standardize MLOps Reporting and Evaluation using an Open Source Python Package]]></title>
+        <id>6b04581bc6f7393e301ba3cd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-standardize-mlops-reporting-and-evaluation-using-an-open-source-python-package/"/>
+        <updated>2026-11-23T15:13:31.000Z</updated>
+        <summary type="html"><![CDATA[Working on machine learning projects in production can be a bit challenging. If you've built models in real-world environments, you know how quickly things get complicated once you step outside the cl]]></summary>
+        <author>
+            <name>Chidiebere Njoku</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Network Firewalls for Enterprise Security Architecture]]></title>
+        <id>6b0457f1f1e50f6d0a06ec3f</id>
+        <link href="https://www.freecodecamp.org/news/ai-network-firewalls-for-enterprise-security-architecture/"/>
+        <updated>2026-11-23T15:12:49.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise AI traffic is hard to secure because security-relevant information is often inside an otherwise legitimate connection. A developer can send source code to a coding assistant over HTTPS. An]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Fallbacks for a Robust Front-End]]></title>
+        <id>https://css-tricks.com/?p=396490</id>
+        <link href="https://css-tricks.com/using-frontend-fallbacks/"/>
+        <updated>2026-11-23T14:21:44.000Z</updated>
+        <summary type="html"><![CDATA[It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error or to communicate it to our users.
+Using Fallbacks for a Robust Front-End originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Steve Frenzel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dev Material Archive]]></title>
+        <id>https://css-tricks.com/?p=398239</id>
+        <link href="https://css-tricks.com/dev-material-archive/"/>
+        <updated>2026-11-23T14:18:50.000Z</updated>
+        <summary type="html"><![CDATA[A new resource resurrecting lost web-dev articles and posts:
+This is an archive of written articles about web development, web design, and web accessibility that once existed on the World Wide Web and which would otherwise be lost to 
+…
+Dev Material Archive originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Write an API Migration Guide (With a Real Example)]]></title>
         <id>6b009404336f5868385eb26f</id>
@@ -141,16 +195,6 @@ Staggering Scroll-Driven Animations with animation-range-start originally handwr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build and Train a GLM-5.3-Flash Model From Scratch with Python]]></title>
-        <id>6af88630044134836d5c4f7d</id>
-        <link href="https://www.freecodecamp.org/news/build-and-train-a-glm-53-flash-model-from-scratch-with-python/"/>
-        <updated>2026-11-14T16:02:56.000Z</updated>
-        <summary type="html"><![CDATA[GLM-5.3-Flash combines linear and sparse attention, a mixture-of-experts design, and manifold constrained hyperconnections. A scaled-down version with 25 million parameters can be built in Python and]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10 Big Ol’ 2027 Black Friday Deals]]></title>
         <id>https://css-tricks.com/?p=397800</id>
         <link href="https://css-tricks.com/2027-front-end-black-friday-deals/"/>
@@ -159,26 +203,6 @@ Staggering Scroll-Driven Animations with animation-range-start originally handwr
 10 Big Ol’ 2027 Black Friday Deals originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Speed Up CI in the Age of AI-Written Code]]></title>
-        <id>6af7069e2028f50f83240511</id>
-        <link href="https://www.freecodecamp.org/news/speed-up-ci-in-the-age-of-ai-written-code/"/>
-        <updated>2026-11-13T12:46:22.000Z</updated>
-        <summary type="html"><![CDATA[Coding agents now write code faster than most CI pipelines can check it. In April 2026, GitHub COO Kyle Daigle said that his platform was handling 275 million commits a week, on pace for 14 billion in]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schema Drift vs. Semantic Drift in Data Pipelines]]></title>
-        <id>6af6f326f94aa3564f351d31</id>
-        <link href="https://www.freecodecamp.org/news/schema-drift-vs-semantic-drift-in-data-pipelines/"/>
-        <updated>2026-11-13T11:23:18.000Z</updated>
-        <summary type="html"><![CDATA[When a column is removed from a source database or dataset, the next pipeline run usually fails, making the problem easy to detect. But when a field keeps the same name and data type but its meaning c]]></summary>
-        <author>
-            <name>Yemi Ojedapo</name>
         </author>
     </entry>
     <entry>
@@ -317,28 +341,6 @@ What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random() originally 
         <summary type="html"><![CDATA[Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Frankenstein Table]]></title>
-        <id>https://css-tricks.com/?p=397546</id>
-        <link href="https://css-tricks.com/the-frankenstein-table/"/>
-        <updated>2026-10-29T13:47:08.000Z</updated>
-        <summary type="html"><![CDATA[A super scary way to go about tables using other layout techniques, like CSS Grid.
-The Frankenstein Table originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More]]></title>
-        <id>https://css-tricks.com/?p=396840</id>
-        <link href="https://css-tricks.com/whats-important-19/"/>
-        <updated>2026-10-27T15:09:16.000Z</updated>
-        <summary type="html"><![CDATA[We’re back! Don't worry, this isn’t a trick (despite what our name suggests!). However, due to the hiatus, we're also a little behind. That’s why this issue of What’s !important is absolutely stacked. All killer, no filler. Here's what you missed.
-What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
