@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-24T09:30:17.211Z</id>
+    <id>urn:2026-11-25T08:00:52.407Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-24T09:30:17.211Z</updated>
+    <updated>2026-11-25T08:00:52.407Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up and Customize Light and Dark Mode in shadcn with Next.js]]></title>
+        <id>6b06284b7f6906157677974a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-and-customize-light-and-dark-mode-in-shadcn-with-next-js/"/>
+        <updated>2026-11-25T00:14:03.000Z</updated>
+        <summary type="html"><![CDATA[If you've created a Next.js project with shadcn/ui recently, there's a good chance dark mode is already set up. I noticed this while looking through a fresh project. I opened app/globals.css expecting]]></summary>
+        <author>
+            <name>Ajay Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Phishing Attacks Actually Work (And How Developers Can Spot Them)]]></title>
+        <id>6b061084d3cd7eb63b3e05fa</id>
+        <link href="https://www.freecodecamp.org/news/how-phishing-attacks-work/"/>
+        <updated>2026-11-24T22:32:36.000Z</updated>
+        <summary type="html"><![CDATA[Phishing attacks are getting harder to recognize. And no, it isn't just because hackers have become better at hiding spelling mistakes. Some phishing emails now look almost identical to genuine securi]]></summary>
+        <author>
+            <name>Reetain Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pass the Microsoft Azure AI Fundamentals (AI-901) Certification Exam]]></title>
+        <id>6b05b3498a6cb0ff981c0f3f</id>
+        <link href="https://www.freecodecamp.org/news/pass-the-microsoft-azure-ai-fundamentals-ai-901-certification-exam/"/>
+        <updated>2026-11-24T15:54:49.000Z</updated>
+        <summary type="html"><![CDATA[The Microsoft Azure AI Fundamentals (AI-901) is an entry-level certification that covers AI concepts, Microsoft Foundry, and a set of Azure AI services. It replaces the AI-900, and its exam guide is o]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use the GitHub CLI with GitHub Actions]]></title>
         <id>6b04590fe116d564954b31ad</id>
@@ -123,16 +153,6 @@ scroll-state() originally handwritten and published with love on CSS-Tricks. You
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Data Structures and Algorithms in Python with Visualizations]]></title>
-        <id>6afdc8c04e123f818c6a048e</id>
-        <link href="https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-in-python-with-visualizations/"/>
-        <updated>2026-11-18T15:48:16.000Z</updated>
-        <summary type="html"><![CDATA[Data structures such as arrays, linked lists, stacks, queues, hash tables, trees, heaps, and graphs determine how a program stores data and how fast it can search, insert, and remove items. Big O nota]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[When Everything Has Changed, What Do We Do Next?]]></title>
         <id>https://css-tricks.com/?p=398054</id>
         <link href="https://css-tricks.com/when-everything-has-changed/"/>
@@ -161,26 +181,6 @@ When Everything Has Changed, What Do We Do Next? originally handwritten and publ
         <summary type="html"><![CDATA[AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andrew Chung)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an NLP Pipeline in Python to Analyze Therapy Progress Notes]]></title>
-        <id>6afba1044c9d975934925ee6</id>
-        <link href="https://www.freecodecamp.org/news/build-nlp-pipeline-python-therapy-notes/"/>
-        <updated>2026-11-17T00:34:12.000Z</updated>
-        <summary type="html"><![CDATA[Therapy progress notes are written records of what happened during a therapy session. They may include what a client said, what the therapist observed, the topics discussed, and plans for the next ses]]></summary>
-        <author>
-            <name>Samuel Tosin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Translator with Chrome’s Built-In AI]]></title>
-        <id>6afb9d63e1e477f325473f68</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-translator-with-chrome-s-built-in-ai/"/>
-        <updated>2026-11-17T00:18:42.000Z</updated>
-        <summary type="html"><![CDATA[Most translation features work the same way. The user types text, your app sends it to a translation API, and the API sends a translation back. That works, but every request adds cost and latency, and]]></summary>
-        <author>
-            <name>David Aniebo</name>
         </author>
     </entry>
     <entry>
