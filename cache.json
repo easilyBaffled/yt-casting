@@ -12,6 +12,36 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=398743",
+          "author": "Geoff Graham",
+          "description": "Hey folks! I’m just so dang excited about this little project I’m working on with long-time author Lee Meyer that I had to share it with you before it goes out.\nWe’re going full 2013-meets-2026 with an art-directed piece that …\nRSS Club: Preview Art-Directed Scrollytelling Article originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/rss-club-preview-art-directed-scrollytelling-article/",
+          "publishedOn": "2026-11-25T15:32:42.000Z",
+          "wordCount": 1721,
+          "title": "RSS Club: Preview Art-Directed Scrollytelling Article",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/11/remix-scroll.mp4",
+            "length": "15516421",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-gradient-logo-default.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=398126",
+          "author": "Kevin Powell",
+          "description": "Where style queries shine is when the condition and the styles need to live in different places, or when one condition needs to affect several things at once: components that keep working, and adapt sensibly, no matter where they end up.\nStyle Queries as Conditional Modifiers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-style-queries-as-conditional-modifiers/",
+          "publishedOn": "2026-11-25T14:06:34.000Z",
+          "wordCount": 3490,
+          "title": "Style Queries as Conditional Modifiers",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/11/20261116-1529-04.2595129.mp4",
+            "length": "5847089",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/10/container-style-queries.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=396490",
           "author": "Steve Frenzel",
           "description": "It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error or to communicate it to our users.\nUsing Fallbacks for a Robust Front-End originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -27,7 +57,7 @@
           "description": "A new resource resurrecting lost web-dev articles and posts:\nThis is an archive of written articles about web development, web design, and web accessibility that once existed on the World Wide Web and which would otherwise be lost to \n…\nDev Material Archive originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/dev-material-archive/",
           "publishedOn": "2026-11-23T14:18:50.000Z",
-          "wordCount": 1830,
+          "wordCount": 1873,
           "title": "Dev Material Archive",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/06/technical-writing.jpg"
         },
@@ -57,7 +87,7 @@
           "description": "It’s been a… year, huh? I think the most common emoji I’ve seen this year is “Face with Bags Under Eyes” (🫩) and that says a lot. One thing is for sure: the industry we make a living in is …\nWhen Everything Has Changed, What Do We Do Next? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/when-everything-has-changed/",
           "publishedOn": "2026-11-18T14:55:21.000Z",
-          "wordCount": 4538,
+          "wordCount": 4787,
           "title": "When Everything Has Changed, What Do We Do Next?",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/06/brain-gears.png"
         },
@@ -145,26 +175,6 @@
           "wordCount": 2093,
           "title": "Smashing AI Conference",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/all.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397741",
-          "author": "Temani Afif",
-          "description": "Combining :nth-child with style queries and sibling-index() to conditionally select child elements.\nRe-Implementing :nth-child() With Modern CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/re-implementing-nth-child-with-modern-css/",
-          "publishedOn": "2026-11-03T14:50:32.000Z",
-          "wordCount": 3643,
-          "title": "Re-Implementing :nth-child() With Modern CSS",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/nth-child-3n.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397698",
-          "author": "Daniel Schwarz",
-          "description": "This is the final issue of What’s !important on CSS-Tricks.com. The good news is that it’s coming back in an expanded form as the CSS-Tricks newsletter. I had ya there for a second, didn’t I? Sorry, I couldn’t decide whether to trick or treat, so I went for both. Happy Halloween\nWhat’s !important #20: GTA 6 Scroll Effects, Scrollspies, random() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-20/",
-          "publishedOn": "2026-11-02T15:06:07.000Z",
-          "wordCount": 2813,
-          "title": "What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random()",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/wi20-1.jpg"
         }
       ]
     },
@@ -209,7 +219,7 @@
           "description": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.",
           "link": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
           "publishedOn": "2026-11-12T10:00:00.000Z",
-          "wordCount": 6055,
+          "wordCount": 6056,
           "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
           "enclosure": {
             "url": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg",
@@ -239,7 +249,7 @@
           "description": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.",
           "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
           "publishedOn": "2026-11-05T13:00:00.000Z",
-          "wordCount": 6871,
+          "wordCount": 6880,
           "title": "Making Immersive LLM Chat Experiences More Accessible",
           "enclosure": {
             "url": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
@@ -254,7 +264,7 @@
           "description": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
           "link": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
           "publishedOn": "2026-11-03T10:00:00.000Z",
-          "wordCount": 6997,
+          "wordCount": 6987,
           "title": "Modern CSS Might Make Your Front-End More Complex",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg",
@@ -269,7 +279,7 @@
           "description": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
           "publishedOn": "2026-10-31T08:00:00.000Z",
-          "wordCount": 4529,
+          "wordCount": 4536,
           "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -285,6 +295,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6b0740e9d9c19e6e465e6cbf",
+          "author": "Shradha Puri",
+          "description": "Have you ever found yourself waking up feeling perfectly normal and then being told by your wearable app that you've slept poorly? And perhaps not only that, but somehow finding yourself starting to f",
+          "link": "https://www.freecodecamp.org/news/how-wearables-can-turn-your-body-into-a-dashboard/",
+          "publishedOn": "2026-11-25T20:11:21.000Z",
+          "wordCount": 3932,
+          "title": "How Wearables Can Turn Your Body Into a Dashboard",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6103d1de-159f-474e-9981-b1c84778c5ff.png"
+        },
+        {
+          "id": "6b073bc61949010821f01797",
+          "author": "Ijeoma Igboagu",
+          "description": "When you're learning AWS, Amazon S3 is one of the services you're likely to come across early. Storage is one of the core components of cloud computing, and S3 makes it easy to store and manage files",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-to-amazon-s3-using-gitlab-ci-cd-and-aws-oidc-without-aws-access-keys/",
+          "publishedOn": "2026-11-25T19:49:25.000Z",
+          "wordCount": 4857,
+          "title": "How to Deploy to Amazon S3 Using GitLab CI/CD and AWS OIDC Without AWS Access Keys",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6c616b65-646a-49ca-8d72-22ce52ea4426.png"
+        },
         {
           "id": "6b06284b7f6906157677974a",
           "author": "Ajay Patel",
@@ -311,7 +341,7 @@
           "description": "The Microsoft Azure AI Fundamentals (AI-901) is an entry-level certification that covers AI concepts, Microsoft Foundry, and a set of Azure AI services. It replaces the AI-900, and its exam guide is o",
           "link": "https://www.freecodecamp.org/news/pass-the-microsoft-azure-ai-fundamentals-ai-901-certification-exam/",
           "publishedOn": "2026-11-24T15:54:49.000Z",
-          "wordCount": 1588,
+          "wordCount": 1590,
           "title": "Pass the Microsoft Azure AI Fundamentals (AI-901) Certification Exam",
           "imageUrl": "https://i.ytimg.com/vi/rCx4SCd4N-s/maxresdefault.jpg"
         },
@@ -331,7 +361,7 @@
           "description": "Working on machine learning projects in production can be a bit challenging. If you've built models in real-world environments, you know how quickly things get complicated once you step outside the cl",
           "link": "https://www.freecodecamp.org/news/how-to-standardize-mlops-reporting-and-evaluation-using-an-open-source-python-package/",
           "publishedOn": "2026-11-23T15:13:31.000Z",
-          "wordCount": 4007,
+          "wordCount": 4006,
           "title": "How to Standardize MLOps Reporting and Evaluation using an Open Source Python Package",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6b9dbd57-7ff7-497d-9b6c-7c5810f2ec81.png"
         },
@@ -351,7 +381,7 @@
           "description": "When an API releases a new version, every developer using it has to update their code. If they only get a changelog entry that says “pagination now uses cursors,” then they’ll have to figure things ou",
           "link": "https://www.freecodecamp.org/news/how-to-write-an-api-migration-guide/",
           "publishedOn": "2026-11-20T18:40:04.000Z",
-          "wordCount": 5856,
+          "wordCount": 5852,
           "title": "How to Write an API Migration Guide (With a Real Example)",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/47f2ef1a-31ff-4032-9f99-f98e293f7d92.png"
         },
@@ -364,26 +394,6 @@
           "wordCount": 4898,
           "title": "How to Generate Synthetic Healthcare Data Using Synthea: A Hands On Tutorial",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/17f495db-a70b-427b-a69d-4b200d573081.png"
-        },
-        {
-          "id": "6aff37e26fa61df077387de3",
-          "author": "Bala Priya C",
-          "description": "Web scraping in Python usually starts with requests and Beautiful Soup. While this works well for static pages, it gets harder when a site loads content with JavaScript, blocks repeated requests, or c",
-          "link": "https://www.freecodecamp.org/news/how-to-scrape-websites-in-python-with-olostep/",
-          "publishedOn": "2026-11-19T17:54:42.000Z",
-          "wordCount": 2926,
-          "title": "How to Scrape Websites in Python with Olostep",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b1f48704-57ee-42f1-8687-766ff3abb630.png"
-        },
-        {
-          "id": "6aff2ffbede28e00513a0715",
-          "author": "Bhavin Sheth",
-          "description": "Contracts, invoices, medical reports, and scanned ID cards are often converted to PDF files. And if one of them ends up in the wrong inbox or on a shared drive, anyone can open it. Adding a password f",
-          "link": "https://www.freecodecamp.org/news/build-pdf-password-protector-javascript/",
-          "publishedOn": "2026-11-19T17:20:58.000Z",
-          "wordCount": 7902,
-          "title": "How to Build a Browser-Based PDF Password Protector Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3ad5640f-31b1-412d-a20c-d1180ae363f2.png"
         }
       ]
     }
