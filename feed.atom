@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-26T07:52:36.086Z</id>
+    <id>urn:2026-11-27T07:53:21.216Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-26T07:52:36.086Z</updated>
+    <updated>2026-11-27T07:53:21.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -23,29 +23,6 @@
         <summary type="html"><![CDATA[When you're learning AWS, Amazon S3 is one of the services you're likely to come across early. Storage is one of the core components of cloud computing, and S3 makes it easy to store and manage files]]></summary>
         <author>
             <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSS Club: Preview Art-Directed Scrollytelling Article]]></title>
-        <id>https://css-tricks.com/?p=398743</id>
-        <link href="https://css-tricks.com/rss-club-preview-art-directed-scrollytelling-article/"/>
-        <updated>2026-11-25T15:32:42.000Z</updated>
-        <summary type="html"><![CDATA[Hey folks! I’m just so dang excited about this little project I’m working on with long-time author Lee Meyer that I had to share it with you before it goes out.
-We’re going full 2013-meets-2026 with an art-directed piece that …
-RSS Club: Preview Art-Directed Scrollytelling Article originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Style Queries as Conditional Modifiers]]></title>
-        <id>https://css-tricks.com/?p=398126</id>
-        <link href="https://css-tricks.com/css-style-queries-as-conditional-modifiers/"/>
-        <updated>2026-11-25T14:06:34.000Z</updated>
-        <summary type="html"><![CDATA[Where style queries shine is when the condition and the styles need to live in different places, or when one condition needs to affect several things at once: components that keep working, and adapt sensibly, no matter where they end up.
-Style Queries as Conditional Modifiers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Kevin Powell</name>
         </author>
     </entry>
     <entry>
@@ -109,30 +86,6 @@ Style Queries as Conditional Modifiers originally handwritten and published with
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using Fallbacks for a Robust Front-End]]></title>
-        <id>https://css-tricks.com/?p=396490</id>
-        <link href="https://css-tricks.com/using-frontend-fallbacks/"/>
-        <updated>2026-11-23T14:21:44.000Z</updated>
-        <summary type="html"><![CDATA[It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error or to communicate it to our users.
-Using Fallbacks for a Robust Front-End originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Steve Frenzel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dev Material Archive]]></title>
-        <id>https://css-tricks.com/?p=398239</id>
-        <link href="https://css-tricks.com/dev-material-archive/"/>
-        <updated>2026-11-23T14:18:50.000Z</updated>
-        <summary type="html"><![CDATA[A new resource resurrecting lost web-dev articles and posts:
-This is an archive of written articles about web development, web design, and web accessibility that once existed on the World Wide Web and which would otherwise be lost to 
-…
-Dev Material Archive originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Write an API Migration Guide (With a Real Example)]]></title>
         <id>6b009404336f5868385eb26f</id>
         <link href="https://www.freecodecamp.org/news/how-to-write-an-api-migration-guide/"/>
@@ -143,18 +96,6 @@ Dev Material Archive originally handwritten and published with love on CSS-Trick
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Andy Clarke answers six questions about Standout Designs for the Web]]></title>
-        <id>https://css-tricks.com/?p=397535</id>
-        <link href="https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/"/>
-        <updated>2026-11-20T15:03:47.000Z</updated>
-        <summary type="html"><![CDATA[Web designer, author, and Stuff & Nonsense founder Andy Clarke has released Standout Designs for the Web, a new e-book that encourages designers to move beyond familiar templates and conventional layouts to create more personality-driven websites.
-The book draws …
-Andy Clarke answers six questions about Standout Designs for the Web originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Generate Synthetic Healthcare Data Using Synthea: A Hands On Tutorial]]></title>
         <id>6aff718ab7bbd995ee693880</id>
         <link href="https://www.freecodecamp.org/news/how-to-generate-synthetic-healthcare-data-using-synthea-a-hands-on-tutorial/"/>
@@ -162,28 +103,6 @@ Andy Clarke answers six questions about Standout Designs for the Web originally 
         <summary type="html"><![CDATA[Healthcare generates huge amounts of data every day, from patient visits and lab results to diagnoses, medications, and medical imaging. For developers and data engineers building healthcare applicati]]></summary>
         <author>
             <name>Lakshmi Mahabaleshwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[scroll-state()]]></title>
-        <id>https://css-tricks.com/?page_id=397984</id>
-        <link href="https://css-tricks.com/almanac/functions/s/scroll-state/"/>
-        <updated>2026-11-19T14:57:54.000Z</updated>
-        <summary type="html"><![CDATA[The CSS scroll-state() query, surprisingly, has nothing to do with whether you’re doom-scrolling in a state of existential dread. It does, however, allow you to change the CSS used based on scrolling behavior.
-scroll-state() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>John Rhea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Everything Has Changed, What Do We Do Next?]]></title>
-        <id>https://css-tricks.com/?p=398054</id>
-        <link href="https://css-tricks.com/when-everything-has-changed/"/>
-        <updated>2026-11-18T14:55:21.000Z</updated>
-        <summary type="html"><![CDATA[It’s been a… year, huh? I think the most common emoji I’ve seen this year is “Face with Bags Under Eyes” (🫩) and that says a lot. One thing is for sure: the industry we make a living in is …
-When Everything Has Changed, What Do We Do Next? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Andy Bell</name>
         </author>
     </entry>
     <entry>
@@ -207,39 +126,6 @@ When Everything Has Changed, What Do We Do Next? originally handwritten and publ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Staggering Scroll-Driven Animations with animation-range-start]]></title>
-        <id>https://css-tricks.com/?p=395816</id>
-        <link href="https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/"/>
-        <updated>2026-11-16T16:47:05.000Z</updated>
-        <summary type="html"><![CDATA[Imagine a CSS karaoke machine that displays a ball bouncing on text that incrementally highlights, based on progress through via speech recognition and running that kind of animation as a single predictable, holistic effect driven by one progress value.
-Staggering Scroll-Driven Animations with animation-range-start originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Big Ol’ 2027 Black Friday Deals]]></title>
-        <id>https://css-tricks.com/?p=397800</id>
-        <link href="https://css-tricks.com/2027-front-end-black-friday-deals/"/>
-        <updated>2026-11-13T14:05:24.000Z</updated>
-        <summary type="html"><![CDATA[A big ol' roundup of Black Friday deals on front-end courses from the best independent publishers and educators in the business.
-10 Big Ol’ 2027 Black Friday Deals originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond 12 Columns: Designing Layouts With Personality]]></title>
-        <id>https://css-tricks.com/?p=397598</id>
-        <link href="https://css-tricks.com/beyond-12-columns/"/>
-        <updated>2026-11-12T16:06:55.000Z</updated>
-        <summary type="html"><![CDATA[Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character.
-Beyond 12 Columns: Designing Layouts With Personality originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Andy Clarke</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Should You Actually Add AI To That? A Four-Question Audit For Product Teams]]></title>
         <id>https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/</id>
         <link href="https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/"/>
@@ -247,39 +133,6 @@ Beyond 12 Columns: Designing Layouts With Personality originally handwritten and
         <summary type="html"><![CDATA[An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?]]></title>
-        <id>https://css-tricks.com/?p=396572</id>
-        <link href="https://css-tricks.com/css-using-declarations-just-once/"/>
-        <updated>2026-11-10T16:42:18.000Z</updated>
-        <summary type="html"><![CDATA[Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy?
-CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Jens Oliver Meiert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS-Tricks, Version 20]]></title>
-        <id>https://css-tricks.com/?p=397812</id>
-        <link href="https://css-tricks.com/css-tricks-version-20/"/>
-        <updated>2026-11-09T15:49:48.000Z</updated>
-        <summary type="html"><![CDATA[Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.
-CSS-Tricks, Version 20 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSS Club: CSS-Tricks Redesign Preview]]></title>
-        <id>https://css-tricks.com/?p=397890</id>
-        <link href="https://css-tricks.com/css-tricks-redesign-preview/"/>
-        <updated>2026-11-06T18:52:59.000Z</updated>
-        <summary type="html"><![CDATA[Hey you wonderful RSS subscribers! We just soft-pushed a site redesign and wanted to give ya'll the first heads-up. A full write-up is coming but here are the high-level details.
-RSS Club: CSS-Tricks Redesign Preview originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -293,17 +146,6 @@ RSS Club: CSS-Tricks Redesign Preview originally handwritten and published with 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taming Typography: Building a Modern CSS Reset]]></title>
-        <id>https://css-tricks.com/?p=396817</id>
-        <link href="https://css-tricks.com/taming-typography-modern-css-reset/"/>
-        <updated>2026-11-05T14:55:31.000Z</updated>
-        <summary type="html"><![CDATA[Stu created tidy-typography.css: a style reset for taming typography with modern CSS features for everything from fluid typography and vertical rhythm, to hyphens and variable fonts.
-Taming Typography: Building a Modern CSS Reset originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Stu Robson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Making Immersive LLM Chat Experiences More Accessible]]></title>
         <id>https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/</id>
         <link href="https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/"/>
@@ -311,17 +153,6 @@ Taming Typography: Building a Modern CSS Reset originally handwritten and publis
         <summary type="html"><![CDATA[As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing AI Conference]]></title>
-        <id>https://css-tricks.com/?p=397777</id>
-        <link href="https://css-tricks.com/smashing-ai-conference/"/>
-        <updated>2026-11-04T15:02:51.000Z</updated>
-        <summary type="html"><![CDATA[The AI 2027 Conference is a live online day for designers and engineers on where AI stands today, what to expect in 2027, and where teams are getting it right.
-Smashing AI Conference originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
