@@ -169,7 +169,7 @@
           "description": "The Microsoft Azure AI Fundamentals (AI-901) is an entry-level certification that covers AI concepts, Microsoft Foundry, and a set of Azure AI services. It replaces the AI-900, and its exam guide is o",
           "link": "https://www.freecodecamp.org/news/pass-the-microsoft-azure-ai-fundamentals-ai-901-certification-exam/",
           "publishedOn": "2026-11-24T15:54:49.000Z",
-          "wordCount": 1588,
+          "wordCount": 1590,
           "title": "Pass the Microsoft Azure AI Fundamentals (AI-901) Certification Exam",
           "imageUrl": "https://i.ytimg.com/vi/rCx4SCd4N-s/maxresdefault.jpg"
         },
@@ -179,7 +179,7 @@
           "description": "GitHub CLI is a command-line tool that lets you manage GitHub's web features right in your local terminal. You can manage repositories, issues, pull requests, and automation workflows without needing",
           "link": "https://www.freecodecamp.org/news/how-to-use-the-github-cli-with-github-actions/",
           "publishedOn": "2026-11-23T15:17:35.000Z",
-          "wordCount": 3269,
+          "wordCount": 3267,
           "title": "How to Use the GitHub CLI with GitHub Actions",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4765e26b-1a6a-4ad7-9030-ac357eea5432.png"
         },
@@ -189,7 +189,7 @@
           "description": "Working on machine learning projects in production can be a bit challenging. If you've built models in real-world environments, you know how quickly things get complicated once you step outside the cl",
           "link": "https://www.freecodecamp.org/news/how-to-standardize-mlops-reporting-and-evaluation-using-an-open-source-python-package/",
           "publishedOn": "2026-11-23T15:13:31.000Z",
-          "wordCount": 4006,
+          "wordCount": 4007,
           "title": "How to Standardize MLOps Reporting and Evaluation using an Open Source Python Package",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6b9dbd57-7ff7-497d-9b6c-7c5810f2ec81.png"
         },
@@ -209,7 +209,7 @@
           "description": "When an API releases a new version, every developer using it has to update their code. If they only get a changelog entry that says “pagination now uses cursors,” then they’ll have to figure things ou",
           "link": "https://www.freecodecamp.org/news/how-to-write-an-api-migration-guide/",
           "publishedOn": "2026-11-20T18:40:04.000Z",
-          "wordCount": 5836,
+          "wordCount": 5844,
           "title": "How to Write an API Migration Guide (With a Real Example)",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/47f2ef1a-31ff-4032-9f99-f98e293f7d92.png"
         },
